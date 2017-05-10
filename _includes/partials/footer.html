@@ -1,0 +1,42 @@
+<footer class="site-footer" role="contentinfo">
+  <div class="container">
+    <div class="gutter site-footer__logo">
+      <a href="{{ site.baseurl }}/">{% include svgs/logo.svg %}</a>
+    </div>
+    <nav class="site-footer__nav">
+      <div class="site-footer__cols">
+        <div class="gutter site-footer__col">
+          <h3 class="site-footer__col-title">Connect</h3>
+          <ul>
+            {% for social in site.social.links %}
+            <li><a href="{{ social.link }}">{{ social.name }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+        <div class="gutter site-footer__col">
+          <h3 class="site-footer__col-title">Links</h3>
+          <ul>
+            {% assign footer_links = site.pages | where: 'navigation', 'footer' | sort: 'position' %}
+            {% for link in footer_links %}
+            <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+            {% endfor %}
+            <li><a href="https://blog.dressipi.com/">Blog</a></li>
+            <li><a href="https://app.dressipi.com/login">Sign In</a></li>
+          </ul>
+        </div>
+        <div class="gutter site-footer__col">
+          <h3 class="site-footer__col-title">Company</h3>
+          <address>
+            {{site.company.name}}<br/>
+            {{site.company.address.street}}<br/>
+            {{site.company.address.city}}
+          </address>
+          <a href="/contact" class="button button--small button-secondary" title="">Book a Demo</a>
+        </div>
+      </div>
+      {% assign meta_links = site.pages | where: 'navigation', 'meta' | sort: 'position' %}
+      <div class="gutter site-footer__copyright">&copy;&nbsp;{{ 'now' | date: "%Y" }}, Stylemania Ltd&nbsp;—&nbsp;{% for meta_link in meta_links %}<a href="{{ meta_link.url }}">{{ meta_link.title }}</a>{% endfor %}
+      </div>
+    </nav>
+  </div>
+</footer>

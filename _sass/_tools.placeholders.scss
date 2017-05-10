@@ -1,0 +1,58 @@
+// clearfix
+%clearfix {
+  &:after {
+    display: table;
+    clear: both;
+    content: "";
+  }
+}
+
+// buttons
+%button {
+  font-size: ms(-1);
+  line-height: rhythm(4);
+  display: inline-block;
+  padding: (rhythm(1)-1px) rhythm(3); // minus 1px border
+  text-decoration: none;
+  border: 1px solid transparent;
+  border-radius: $border-radius--base;
+  outline: none;
+}
+
+%button--medium {
+  @extend %button;
+
+  font-size: ms(0);
+  padding: (rhythm(1.5)-1px) rhythm(4);
+}
+
+%button--large {
+  @extend %button;
+
+  font-size: ms(1);
+  padding: (rhythm(2)-1px) rhythm(5);
+}
+
+%list-styled {
+  margin: 0 0 rhythm(3) rhythm(2);
+  padding: 0;
+  list-style-type: none;
+
+  li {
+    line-height: rhythm(3.5);
+    margin: 0 0 rhythm(2) 0;
+
+    > p {
+      margin-bottom: 0;
+      line-height: rhythm(3.5);
+    }
+
+    &:before {
+      color: $brand-primary-color;
+      float: left;
+      content: "*";
+      margin-left: rhythm(-2);
+      margin-top: 0.2em;
+    }
+  }
+}

@@ -1,0 +1,23 @@
+.button {
+  @extend %button;
+
+  &-primary {
+    @include button-style(primary);
+  }
+
+  &-secondary {
+    @include button-style(secondary);
+  }
+
+  &-default {
+    @include button-style(default);
+  }
+
+  &--medium {
+    @extend %button--medium;
+  }
+
+  &--large {
+    @extend %button--large;
+  }
+}

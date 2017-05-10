@@ -1,0 +1,12 @@
+.hero-privacy {
+	.hero__content {
+		max-width: calc-columns-width(7);
+    @include margin-center;
+    @include text-center;
+	}
+}
+
+.date {
+	margin-bottom: rhythm(4);
+	color: $text-color-soft;
+}

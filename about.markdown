@@ -1,0 +1,136 @@
+---
+title: About
+date: 2017-05-06 09:50:00 Z
+position: 4
+navigation: header
+header:
+  title: Personalisation is our Passion
+  body: "### We are proud to be known as the global leader in fashion-specific omnichannel
+    personalisation."
+  hero-image: 
+  hero-align: 
+  width: extend
+sections:
+- title: Our Mission
+  handle: intro
+  width: narrow
+  body: |-
+    > Our mission is to help retailers grow and stay relevant. We give customers the confidence to look and feel great and take the hassle out of shopping. We give retailers the tools and insight to make better products and decisions.
+
+    We believe that personalisation at the individual level underpins superior recommendations. It is the foundation of a truly helpful shopping experience for customers and creates insight to improve products and solve the inefficiencies of the retail industry.
+    Over 3.5 million women use our service to make better shopping and dressing decisions everyday.
+- title: Why Dressipi
+  handle: why-us
+  columns: 2
+  subsections:
+  - title: 1-to-1 Personalisation
+    body: Our machine learning technology continuously evaluates the success of our
+      recommendations to select the most effective algorithms for each customer, considering
+      their individual profile, preferences, behaviour and the context in which they
+      are shopping.
+  - title: Continual Learning
+    body: Each individual customer has their own model which continually learns and
+      evolves with their lifestyle, fashion requirements, activity, purchase and preference
+      data – we call this the Fashion Fingerprint®.
+  - title: Proven Results
+    body: In A/B tests Dressipi has consistently delivered 5% in net incremental revenue
+      per visitor, over and above gains from competitive solutions.
+  - title: Specific Fashion Domain Knowledge
+    body: We understand that fashion and how customers think of fashion changes with
+      time, inspiration and context. Our algorithms take account of fashion specific
+      information, updated by some of the industry’s most renowned stylists. We believe
+      this represents a key differentiator and enables us to outperform competitors
+      when compared with a general approach to personalisation.
+  - title: Future Proof your Business
+    body: Adaptability is key. There are many exciting advances in both Machine Learning
+      and AI. Our solution marries the best of algorithms and proprietary techniques
+      that we constantly evolve by integrating newly discovered methods. You can integrate
+      our recommendations into any application or solution using our APIs.
+  - title: Personalisation at Every Point of the Shopping Journey
+    body: Our solution works across all channels enabling the customer to get the
+      best advice and guidance wherever and however they choose to shop. Consumers
+      sees no distinction and move effortlessly between shopping online, on mobile
+      or instore.
+- title: Meet the Team
+  handle: team
+  body: |-
+    We are a small team with big ambitions. Our expert technologists, data scientists and fashion stylists work side by side with the common goal of shaping the future of retail.
+
+    If you would like to join us on our journey please visit [our careers page](/careers) to see what roles we are currently hiring for.
+  members:
+  - name: Lord Rose
+    title: Chairman
+    image: "/uploads/lord-rose@2x.jpg"
+  - name: Sarah McVittie
+    title: Co-Founder
+    linkedin: https://www.linkedin.com/in/sarah-mcvittie-61884a7/?ppe=1
+    image: "/uploads/sarah-mcvittie@2x.jpg"
+  - name: Donna North
+    title: Co-Founder
+    linkedin: https://www.linkedin.com/in/donnanorth/?ppe=1
+    image: "/uploads/donna-north@2x.jpg"
+  - name: Frederick Cheung
+    title: CTO
+    linkedin: https://www.linkedin.com/in/frederickcheung/?ppe=1
+    image: "/uploads/frederick-cheung@2x.jpg"
+  - name: Rob Bevan
+    title: Creative Director
+    linkedin: https://www.linkedin.com/in/robbevan/?ppe=1
+    image: "/uploads/rob-bevan@2x.jpg"
+  - name: Nick Landia
+    title: Chief Data Scientist
+    linkedin: https://www.linkedin.com/in/nicklandia/?ppe=1
+    image: "/uploads/nick-landia.jpg"
+  - name: JJ. Green
+    title: Machine Learning Developer
+    linkedin: http://soliton.vm.bytemark.co.uk/pub/jjg/en
+    image: "/uploads/jj.-green.jpg"
+  - name: Yi Sheng Chan
+    title: Machine Learning Developer
+    linkedin: https://www.linkedin.com/in/chanyisheng/
+    image: "/uploads/yi-sheng-chan.jpg"
+  - name: Jiazhen Xie
+    title: Software Engineer
+    linkedin: https://www.linkedin.com/in/jiazhen-xie-25663763/?ppe=1
+    image: "/uploads/jiazhen-xie.jpg"
+  - name: Daria Biryukova
+    title: Business Insight Analyst
+    linkedin: https://www.linkedin.com/in/daria-biryukova-3502aa51
+    image: "/uploads/daria-biryukova.jpg"
+  - name: Natalie Theo
+    title: Style Director
+    linkedin: https://www.linkedin.com/in/natalie-theo-5b561160/?ppe=1
+    image: "/uploads/natalie-theo@2x.jpg"
+  - name: Tara Kavanagh-Dowsett
+    title: Style Director
+    image: "/uploads/tara-kavanagh-dowsett.jpg"
+  - name: Selina Mills
+    title: Junior Stylist Manager
+    linkedin: https://www.linkedin.com/in/selina-mills/?ppe=1
+    image: "/uploads/selina-mills.jpg"
+  - name: Anusha Ramesh
+    title: Product Manager
+    linkedin: https://www.linkedin.com/in/rameshanusha
+    image: "/uploads/anusha-ramesh.jpg"
+  - name: Phillippa Mew
+    title: PR & Marketing Associate
+    linkedin: https://www.linkedin.com/in/philippa-mew-34544032/
+    image: "/uploads/philippa-mew.jpg"
+  - name: David Gibbs
+    title: Web Developer
+    linkedin: https://www.linkedin.com/in/sixtysticks
+    image: "/uploads/davd-gibbs.jpg"
+  - name: Matt Thomas
+    title: Web Developer
+    linkedin: https://www.linkedin.com/in/matthew-thomas-a576a025/?ppe=1
+    image: "/uploads/matt-thomas.jpg"
+  - name: Paul Woestelandt
+    title: Web Developer
+    linkedin: https://www.linkedin.com/in/pwoestelandt
+    image: "/uploads/paul-woestelandt.jpg"
+  button:
+    copy: Contact Us
+    url: "/contact"
+layout: about
+---
+

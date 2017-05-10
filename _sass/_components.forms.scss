@@ -1,0 +1,102 @@
+.form {
+  // demo form
+  &-demo {
+    background: $section-background-color;
+
+    &__heading{
+      text-align: center;
+
+      > h2 {
+        font-size: ms(6);
+        line-height: 1;
+        color: $text-color-strong;
+      }
+
+      > h3 {
+        font-size: ms(1);
+        font-weight: 400;
+        line-height: ms(5);
+        max-width: calc-columns-width(5);
+        margin: rhythm(2) auto rhythm(5);
+      }
+    }
+
+    &__form {
+      display: flex;
+      max-width: calc-columns-width(5);
+      margin: auto;
+    }
+
+    &__email {
+      @include input-style(default);
+
+      margin-right: rhythm(1);
+      flex: 1;
+    }
+
+    &__submit {
+      width: calc-columns-width(2);
+    }
+  }
+
+  // download form
+  &-download {
+    background: white;
+    border: solid 1px $brand-primary-color;
+    padding: rhythm(4);
+    border-radius: $border-radius--base;
+
+    &__heading {
+      margin: 0 0 rhythm(2);
+
+      > h3 {
+        color: $brand-primary-color;
+      }
+    }
+
+    &__form {
+      margin-top: rhythm(3);
+    }
+
+    &__input {
+      @include input-style(default);
+      margin-bottom: rhythm(2);
+      height: rhythm(8);
+    }
+
+    &__submit {
+      width: 100%;
+      height: rhythm(8);
+    }
+  }
+
+  // contact form
+  &-contact {
+    margin-top: rhythm(5);
+
+    &__form {
+      @include flexbox;
+      @include flex-wrap(wrap);
+      @include justify-content(space-between);
+      margin: auto;
+    }
+
+    &__input {
+      @include input-style(default);
+      margin-bottom: rhythm(2);
+      height: rhythm(8);
+      width: calc-columns-width(3);
+    }
+
+    &__area {
+      @include input-style(default);
+      padding-top: rhythm(2);
+      margin-bottom: rhythm(2);
+    }
+
+    &__submit {
+      width: calc-columns-width(2);
+      float: right;
+    }
+  }
+}

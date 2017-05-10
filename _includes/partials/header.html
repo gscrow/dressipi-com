@@ -1,0 +1,74 @@
+{% assign my_page_url = page.url | remove: '/' %}
+<header role="banner">
+  <div class="header">
+    <div class="container gutter">
+      <a href="{{ site.baseurl }}/" class="header__logo">{% include svgs/logo.svg %}</a>
+      {% unless page.layout == 'case-study' %}
+      <nav role="navigation" class="navigation">
+        <ul class="navigation_items">
+          {% assign header_links = site.pages | where: 'navigation', 'header' | sort: 'position' %}
+          {% for link in header_links %}
+            {% if link.has-menu %}
+              <li class="navigation__link">{{ link.title }}</li>
+            {% else %}
+              <li class="navigation__link"><a href="{{ link.url }}" class="navigation__link">{{ link.title }}</a></li>
+            {% endif %}
+          {% endfor %}
+          <li class="navigation__item"><a href="/contact" class="navigation__button" title="">Book a Demo</a></li>
+        </ul>
+      </nav>
+      {% endunless %}
+    </div>
+  </div>
+  <div class="hero{% unless my_page_url == '' %} hero--tight{% if page.layout == 'page' or page.layout == 'contact' %}er{% endif %} {{ my_page_url | prepend: "hero-"}}{% endunless %}" style="background: {{ page.header.color | default: '#f5f5f5' }} {% if page.header.hero-image %}url({{ page.header.hero-image }}) no-repeat {{ page.header.hero-align | default: "right" }}{% endif %}">
+    <div class="container gutter">
+      <div class="hero__content{% if page.header.width %}{{ page.header.width | prepend: '--' }}{% endif %}">
+        <h1 class="header__title">{{ page.header.title | default: page.title }}</h1>
+        {% if page.header.body %}
+          <div class="header__subtitle">{{ page.header.body | markdownify }}</div>
+        {% endif %}
+
+        {% if my_page_url == 'partners' %}
+        <ul class="client__logos">
+        {% assign site_clients = site.clients | sort:'position' %}
+        {% for client in site_clients %}
+          {% if page.header.clients contains client.title %}
+            <li class="gutter client__logo"><img src="{{ client.image }}" class="" alt="{{ client.title }}" /></li>
+          {% endif %}
+        {% endfor %}
+        </ul>
+        {% endif %}
+
+        {% if page.header.button %}
+          <div class="header__button-group">
+            <a href="{{ page.header.button.url }}" class="header__button button-{{ page.header.button.style | default: 'primary' }} anchor-link">{{ page.header.button.copy }}</a>
+            {% if page.header.link %}<a href="{{ page.header.link.url }}" class="header__link anchor-link">{{ page.header.link.copy }}</a>{% endif %}
+          </div>
+        {% endif %}
+      </div>
+      <!-- download form for case-studies -->
+      {% if page.layout == 'case-study' %}
+      <div class="hero__form">
+        <div class="form-download">
+          <hgroup class="form-download__heading">
+            <h3>{{ page.form-download.title }}</h3>
+            <p>{{ page.form-download.subtitle }}</p>
+          </hgroup>
+
+          <form class="form-download__form" method="POST" action="https://formspree.io/{{ page.form-download.formspree-ID }}">
+            <input type="text" name="_gotcha" style="display: none">
+            {% if page.form-download.email_cc %}
+            <input type="hidden" name="_cc" value="{{page.form-download.email_cc}}" />
+            {% endif %}
+            <input type="hidden" name="_next" value="{{ page.form-download.redirect }}" />
+            <input type="hidden" name="_subject" value="New case study download" />
+            <input class="form-download__input" type="input" name="name" placeholder="Enter your name">
+            <input class="form-download__input" type="email" name="email" placeholder="Enter your work email">
+            <button class="button button--large button-primary form-download__submit" type="submit">{{ page.form-download.button }}</button>
+          </form>
+        </div>
+      </div>
+    {% endif %}
+    </div>
+  </div>
+</header>

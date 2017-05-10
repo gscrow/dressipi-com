@@ -1,0 +1,17 @@
+.section-contact > .container {
+	@include flexbox;
+  @include flex-wrap(wrap);
+  @include justify-content(center);
+
+  .contact-info {
+		flex: 3;
+  }
+
+  .contact-form {
+		flex: 6;
+  }
+}
+
+address {
+  line-height: rhythm(4);
+}

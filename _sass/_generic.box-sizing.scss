@@ -1,0 +1,7 @@
+// stylelint-disable selector-no-universal
+// This is the only place to use universal selector.
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}

@@ -1,0 +1,144 @@
+.header {
+  @extend %clearfix;
+
+  padding: rhythm(3) 0;
+  border-bottom: solid 1px $border-color;
+  background: white;
+
+  // start primary navigation
+  .navigation {
+    float: right;
+
+    &__items {
+      margin: 0;
+      padding: 0;
+      text-align: right;
+    }
+
+    &__item {
+      display: inline-block;
+      margin: 0 rhythm(1);
+
+      &:first-child {
+        margin-left: 0;
+      }
+
+      &:last-child {
+        margin: 0 0 0 rhythm(2);
+      }
+    }
+
+    &__link {
+      line-height: rhythm(4);
+      display: inline-block;
+      padding: 0 rhythm(2);
+
+      &--active {
+        color: $text-color-soft;
+      }
+
+      &:hover {
+        color: $text-color-soft;
+      }
+    }
+
+    &__button {
+      @include button-style(default);
+
+      @extend %button;
+
+      font-size: ms(0);
+    }
+  }
+  // end primary navigation
+
+  &__logo {
+    float: left;
+  }
+
+  &__subtitle {
+    > h2, > h3{
+      font-weight: 400;
+      line-height: rhythm(4);
+      margin: rhythm(2) 0 rhythm(2);
+    }
+
+    > h2 {
+      font-size: ms(2);
+    }
+
+    > h3, > h4 {
+      font-size: ms(1);
+    }
+
+    > ul {
+      @extend %list-styled;
+    }
+  }
+
+  &__button {
+    @extend %button--large;
+    margin-top: rhythm(2);
+
+    &-group {
+      a {
+        display: inline-block;
+      }
+    }
+  }
+
+  &__link {
+    @include link-style;
+
+    margin-left: rhythm(5);
+    padding-bottom: rhythm(1);
+    border-bottom: solid 2px $border-color;
+  }
+}
+
+.hero {
+  padding-top: rhythm(14);
+  padding-bottom: rhythm(21);
+  background: $header-hero-background-color;
+
+  &__content {
+    float: left;
+    max-width: calc-columns-width(5);
+
+    &--extend {
+      @include margin-center;
+      @include text-center;
+
+      max-width: calc-columns-width(7);
+    }
+
+    &--full {
+      @include margin-center;
+      @include text-center;
+
+      max-width: 100%;
+    }
+  }
+
+  &--tight,
+  &--tighter {
+    padding-top: rhythm(14);
+    padding-bottom: rhythm(14);
+
+    .header__title {
+      font-size: ms(6);
+      line-height: rhythm(6);
+      margin: 0 0 rhythm(1) 0;
+    }
+  }
+
+  &--tighter {
+    padding-top: rhythm(5);
+    padding-bottom: rhythm(5);
+  }
+
+  &__form {
+    width: calc-columns-width(4);
+    float: right;
+  }
+}

@@ -1,0 +1,36 @@
+.feature {
+  padding: rhythm(11) 0 rhythm(12);
+  background: $background--white;
+
+  > .container {
+    display: flex;
+  }
+
+  &__image {
+    flex: 4;
+    order: 99;
+  }
+
+  &__copy {
+    flex: 5;
+  }
+
+  &:nth-child(2n - 1) {
+    border-top: 1px solid $section-border-color;
+    border-bottom: 1px solid $section-border-color;
+    background: $section-background-color;
+  }
+
+  &:first-child {
+    border-top: 0;
+  }
+
+  &:last-child {
+    border-bottom: 0;
+  }
+}
+
+// place feature__image to the right on even feature row
+.feature:nth-child(2n) .feature__image {
+  order: -1;
+}

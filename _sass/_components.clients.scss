@@ -1,0 +1,13 @@
+.client {
+  &__logos {
+  	@include flexbox;
+  	@include flex-wrap(wrap);
+    @include justify-content(center);
+  }
+
+  &__logo {
+  	width: 25%;
+  	min-height: rhythm(12);
+  	text-align: center;
+  }
+}

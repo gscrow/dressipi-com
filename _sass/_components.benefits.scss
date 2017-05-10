@@ -1,0 +1,16 @@
+.benefits {
+  display: flex;
+}
+
+.benefit {
+  flex: 1;
+
+  &__icon {
+    margin-bottom: rhythm(2);
+  }
+
+  &__title {
+    font-size: ms(1);
+    line-height: ms(4);
+  }
+}

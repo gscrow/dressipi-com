@@ -1,0 +1,104 @@
+html {
+  font-size: 18px; // modular scale base
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  margin: 0 auto;
+  padding: 0;
+  color: $text-color;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  font-style: normal;
+  margin: 0;
+}
+
+h1 {
+  font-size: ms(8);
+  line-height: rhythm(7);
+  margin: 0 0 rhythm(2) 0;
+  color: $h1-color;
+}
+
+h2 {
+  font-size: ms(4);
+  line-height: rhythm(5);
+  margin: 0 0 rhythm(1) 0;
+  color: $h2-color;
+}
+
+h3 {
+  font-size: ms(3);
+  line-height: rhythm(4);
+  margin: 0 0 rhythm(1) 0px;
+  color: $h3-color;
+}
+
+h4 {
+  font-size: ms(-1);
+  font-weight: 400;
+  line-height: rhythm(3);
+  margin: 0;
+  color: $h4-color;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+p {
+  font-size: ms(0);
+  line-height: rhythm(4);
+  margin: 0 0 rhythm(3) 0;
+
+  > a {
+    text-decoration: none;
+    color: $link-color;
+  }
+}
+
+strong {
+  font-weight: 700;
+  color: $text-color-strong;
+}
+
+em {
+  font-style: italic;
+}
+
+small {
+  font-size: ms(-2);
+}
+
+blockquote {
+  margin: 0 0 rhythm(3) rhythm(-3.5);
+  padding: rhythm(1) 0 rhythm(1) 28px;
+  border-left: 2px solid $brand-primary-color;
+
+    p {
+      font-style: italic;
+      font-size: ms(3);
+      line-height: rhythm(5);
+      margin: 0 0 rhythm(1) 0px;
+      text-align: left;
+
+    &:before {
+      float: left;
+      margin-left: -10px;
+      content: "“";
+    }
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}

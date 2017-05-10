@@ -1,0 +1,6 @@
+---
+title: JD Williams
+date: 2017-05-10 04:20:00 Z
+image: "/uploads/logo__jd-williams.svg"
+---
+

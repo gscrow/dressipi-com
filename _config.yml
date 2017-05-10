@@ -1,0 +1,93 @@
+---
+title: Dressipi.com
+timezone: UTC
+collections:
+  case-study:
+    title: Case Studies
+    output: true
+  clients:
+    title: Clients
+    output: false
+  jobs:
+    title: Jobs
+    output: true
+  posts:
+    title: Posts
+    output: true
+  testimonials:
+    title: Testimonials
+    output: false
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: case-study
+  values:
+    permalink: "/case-study/:title/"
+    layout: case-study
+- scope:
+    path: ''
+    type: clients
+  values:
+    image: 
+    url: 
+- scope:
+    path: ''
+    type: pages
+  values:
+    navigation: 
+- scope:
+    path: ''
+    type: jobs
+  values:
+    is-open: true
+- scope:
+    path: ''
+    type: testimonials
+  values:
+    author:
+      name: 
+      job-title: 
+      company: 
+description: Personalising the Entire Customer Experience
+url: http://www.dressipi.com
+form-demo:
+  formspree-ID: xxxxxxxx
+  title: Achieve Great Results For Your Business With Dressipi
+  subtitle: Schedule a demo to see how Dressipi can help increase net incremental
+    revenue per visitor, AOV and frequency of purchase.
+  button: Book a Demo
+  redirect: "/thanks"
+  email_to: 
+  email_cc: 
+company:
+  name: Stylemania Ltd.
+  address:
+    street: 20 Eastbourne Terrace
+    city: London W2 6LG
+twitter:
+  username: dressipi
+social:
+  links:
+  - name: Twitter
+    link: https://www.twitter.com/dressipi
+  - name: LinkedIn
+    link: https://www.linkedin.com/in/dressipi
+  - name: Instagram
+    link: https://www.instagram.com/dressipi
+  - name: LinkedIn
+    link: https://www.linkedin.com/company/dressipi
+  - name: Pinterest
+    link: https://www.pinterest.com/dressipi
+gtm-code: 
+permalink: pretty
+exclude:
+- Gemfile
+- Gemfile.lock
+- README*
+- ".gitignore"
+gems:
+- jekyll-sitemap
+- jekyll-seo-tag

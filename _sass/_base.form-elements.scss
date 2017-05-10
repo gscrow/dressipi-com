@@ -1,0 +1,24 @@
+button,
+input,
+textarea,
+select {
+  font: inherit;
+  display: block;
+  width: 100%;
+  padding: 0;
+  cursor: pointer;
+  color: inherit;
+  border: 0;
+  border-radius: 0;
+  outline: 0;
+  background: transparent;
+  appearance: none;
+}
+
+table {
+  font-size: ms(-1);
+  line-height: rhythm(3);
+  @extend %table;
+  @extend %table-bordered;
+  @extend %table-condensed;
+}

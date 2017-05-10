@@ -1,0 +1,45 @@
+// modular Scale
+// http://www.modularscale.com/?18&&1.125
+$ms-base: 1rem;
+$ms-ratio: 1.125;
+
+// transition timing
+$default-transition-timing: .3s ease;
+
+// miscellaneous
+$border-radius--base: 0.15em;
+
+// column width
+$column-width: 90px;
+
+// gutter width
+$gutter-width: 40px;
+$tablet-gutter-width: 30px;
+$mobile-gutter-width: 20px;
+
+// page width
+$page-max-width: ($column-width + $gutter-width) * 9; // 9 columns grid system
+
+// responsive breakpoints
+$breakpoints: (
+  tablet: 800px,
+  mobile: 480px
+);
+
+// table styles
+$table-border-color: darken($border-color,10);
+$table-border-width: 0.0625em;
+$table-border-style: solid;
+
+$table-margin-bottom: 1.529411765em;
+$table-cell-padding: .75em;
+$table-cell-text-align: left;
+$table-cell-border-top: $table-border-width $table-border-style $table-border-color;
+
+$table-header-font-weight: 700;
+$table-body-border-top: .125em $table-border-style $table-border-color;
+$table-condensed-padding: .625em;
+$table-bordered-border: $table-border-width $table-border-style $table-border-color;
+$table-bordered-border-radius: $border-radius--base;
+$table-border-left: $table-border-width $table-border-style $table-border-color;
+$table-bordered-child-radius: $border-radius--base;

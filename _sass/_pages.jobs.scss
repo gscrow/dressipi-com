@@ -1,0 +1,31 @@
+.job {
+  padding: rhythm(11) 0 rhythm(12);
+  background: $section-background-color;
+
+  &:nth-child(2n - 1) {
+    border-top: 1px solid $section-border-color;
+    border-bottom: 1px solid $section-border-color;
+    background: $background--white;
+  }
+
+  &:first-child {
+    border-top: 0;
+  }
+
+  &:last-child {
+    border-bottom: 0;
+  }
+
+  h3 {
+    font-size: ms(2);
+    margin-top: rhythm(5);
+  }
+
+  ul {
+    @extend %list-styled;
+  }
+}
+
+.column__copy ul {
+  @extend %list-styled;
+}

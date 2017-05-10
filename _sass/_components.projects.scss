@@ -1,0 +1,34 @@
+.project {
+  padding: rhythm(11) 0 rhythm(12);
+
+  > .container {
+    display: flex;
+  }
+
+  &__image {
+    flex: 2;
+    order: 99;
+  }
+
+  &__copy {
+    flex: 6;
+  }
+
+  &:nth-child(2n - 1) {
+    border-top: 1px solid $section-border-color;
+    border-bottom: 1px solid $section-border-color;
+  }
+
+  &:first-child {
+    border-top: 0;
+  }
+
+  &:last-child {
+    border-bottom: 0;
+  }
+}
+
+// place project__image to the right on even project row
+.project:nth-child(2n) .feature__image {
+  order: -1;
+}

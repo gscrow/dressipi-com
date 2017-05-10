@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  {% include partials/head.html %}
+  <body>
+  {% if site.gtm-code %}
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.gtm-code }}"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  {% endif %}
+
+  <!-- include header -->
+  {% include partials/header.html %}
+
+  <!-- include content -->
+  <main role="main">
+    {{ content }}
+    {% if page.include-form-demo %}
+      {% include partials/form-demo.html %}
+    {% endif %}
+  </main>
+
+  {% unless page.layout == 'case-study' %}
+    <!-- include footer -->
+    {% include partials/footer.html %}
+  {% endunless %}
+  <script src="https://code.jquery.com/jquery-3.1.1.js"></script>
+  <script src="/scripts/main.js"></script>
+  </body>
+</html>

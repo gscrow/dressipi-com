@@ -1,0 +1,66 @@
+// brand colors
+$brand-primary-color: #E81E75;
+
+// text
+$text-color: #333230;
+$text-color-strong: #2E2D2B;
+$text-color-soft: #7F7D79;
+
+// background
+$background--white: #ffffff;
+$background--lighter: #F8F8F8;
+$background--light: #F0F0F0;
+$background--dark: #333232;
+
+
+// links
+$link-color: $brand-primary-color;
+$link-hover-color: #CC1A64;
+
+// UI
+$border-color: #E1E1E1;
+
+// headings
+$h1-color: $text-color-strong;
+$h2-color: $text-color;
+$h3-color: $text-color;
+$h4-color: #66625C;
+
+// buttons
+$button-primary-text-color: #ffffff;
+$button-primary-background: $brand-primary-color;
+$button-primary-hover-background: #D91C6B;
+
+$button-secondary-text-color: $link-color;
+$button-secondary-background: transparent;
+$button-secondary-border-color: $brand-primary-color;
+$button-secondary-hover-text-color: #D91C6B;
+
+$button-default-text-color: $text-color;
+$button-default-background: transparent;
+$button-default-border-color: #B3B2B1;
+
+$input-default-border-color: $button-default-border-color;
+$input-default-background-color: #ffffff;
+$input-hover-border-color: #999898;
+
+// section
+$section-background-color: #F8F8F8;
+$section-border-color: #E6E6E6;
+
+// logo
+$logo-fill-color: #000000;
+$logo-fill-color-inverse: #ffffff;
+
+// icons
+$icon-color-border-strong: $brand-primary-color;
+$icon-color-border-default: #333230;
+
+// header
+$header-hero-background-color: #f5f5f5;
+
+// footer
+$footer-background-color: $background--dark;
+$footer-text-color: #D9D8D7;
+$footer-text-color-soft: #8C8C8B;
+$footer-heading-color: #ffffff;

@@ -1,0 +1,9 @@
+// vertical rhythm — baseline
+@function rhythm($value) {
+  @return $value * 8px;
+}
+
+// calculate columns width
+@function calc-columns-width($number) {
+  @return ($column-width * $number) + ($gutter-width * ($number - 1));
+}

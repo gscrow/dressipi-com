@@ -1,0 +1,73 @@
+.site-footer {
+  font-size: ms(-1);
+  padding: rhythm(9) 0 rhythm(12);
+  color: $footer-text-color;
+  background: $footer-background-color;
+
+  > .container {
+    display: flex;
+  }
+
+  &__logo {
+    flex: 3;
+
+    svg {
+      fill: $logo-fill-color-inverse;
+    }
+  }
+
+  &__nav {
+    flex: 6;
+  }
+
+  &__cols {
+    display: flex;
+    padding-top: rhythm(3);
+  }
+
+  &__col {
+    font-size: ms(-1);
+    line-height: ms(5);
+    color: $footer-text-color;
+    flex: 1;
+
+    &-title {
+      font-size: ms(0);
+      line-height: ms(2);
+      position: relative;
+      margin-bottom: rhythm(1.5);
+      padding-bottom: rhythm(1);
+      color: $footer-heading-color;
+
+      &::after {
+        position: absolute;
+        bottom: -2px;
+        left: 0;
+        width: 16px;
+        height: 3px;
+        margin: auto;
+        content: '';
+        border-radius: 2px;
+        background: $brand-primary-color;
+      }
+    }
+
+    > .button {
+      margin-top: rhythm(3);
+      color: inherit;
+    }
+  }
+
+  &__copyright {
+    margin-top: rhythm(12);
+    color: $footer-text-color-soft;
+
+    a:after {
+      content: ' — ';
+    }
+
+    a:last-child:after {
+      content: '';
+    }
+  }
+}

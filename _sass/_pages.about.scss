@@ -1,0 +1,60 @@
+.proofs {
+	.column__copy {
+		padding-right: 20px;
+
+		p {
+			margin-bottom: 0;
+		}
+	}
+}
+
+.team {
+	&__members {
+  	@include flexbox;
+  	@include flex-wrap(wrap);
+    @include justify-content(center);
+  	margin-top: rhythm(8);
+	}
+
+	&__member {
+		width: 25%;
+  	margin-bottom: rhythm(5);
+
+		&-name {
+			margin-top: rhythm(1);
+			margin-bottom: 0;
+			line-height: rhythm(3);
+			font-weight: 700;
+  		color: $text-color-strong;
+		}
+
+		&-title {
+			margin-bottom: 0;
+			color: $text-color-soft;
+			font-size: ms(-1);
+		}
+
+		&-icon {
+			position: absolute;
+			bottom: rhythm(2);
+			right: rhythm(2);
+			display: block;
+			width: 24px;
+			height: 24px;
+		}
+
+		&-image {
+			position: relative;
+
+			> img {
+				max-width: 100%;
+			}
+		}
+	}
+
+	&-intro {
+		max-width: calc-columns-width(7);
+    @include margin-center;
+    @include text-center;
+	}
+}

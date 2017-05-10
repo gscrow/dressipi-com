@@ -1,0 +1,15 @@
+.hero-partners {
+	.client__logos {
+		margin: rhythm(8) 0;
+	}
+}
+
+.call-to-action {
+max-width: calc-columns-width(7);
+  @include margin-center;
+  @include text-center;
+
+  .client__logos {
+		margin: rhythm(8) 0;
+	}
+}
