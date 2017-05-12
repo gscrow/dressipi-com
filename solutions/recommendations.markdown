@@ -1,5 +1,6 @@
 ---
 title: Recommendations
+position: 0
 header:
   body: "### Ensure your business is a market leader in customer service, loyalty
     and acquisition. Dressipi's machine learning technology enables you to provide
