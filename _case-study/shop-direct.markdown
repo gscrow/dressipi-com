@@ -11,7 +11,7 @@ header:
     * How Dressipi has helped Shop Direct deliver personalisation to every customer
 
     * Insights into the positive results of the partnership
-  hero-image:
+  hero-image: 
 sections:
 - title: Our Clients
   subtitle: Brands Using Dressipi
