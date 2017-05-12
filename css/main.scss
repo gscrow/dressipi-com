@@ -19,7 +19,6 @@
 
 // base layer
 @import 'base.typography';
-@import 'base.form-elements';
 
 // objects layer
 @import 'objects.helpers';
@@ -37,7 +36,8 @@
 @import 'components.features';
 @import 'components.projects';
 @import 'components.clients';
-@import 'components.forms';
+@import 'components.form-demo';
+@import 'components.case-study';
 
 // page layer
 @import 'pages.partners';
@@ -45,5 +45,6 @@
 @import 'pages.about';
 @import 'pages.jobs';
 @import 'pages.contact';
+@import 'pages.case-study';
 
 // trumps layer

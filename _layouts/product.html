@@ -19,7 +19,11 @@ layout: default
 		  {% for subsection in section.subsections %}
 		  <div class="feature">
 		    <div class="container">
-		      <div class="gutter feature__image"><img src="{{ subsection.image }}" class="feature__image" /></div>
+		      <div class="gutter feature__image">
+		      	<div> <!-- keep flex image ratio -->
+		      		<img src="{{ subsection.image }}" class="feature__image" />
+		      	</div>
+		      </div>
 		      <div class="gutter feature__copy">
 		        <h2 class="feature__title">{{ subsection.title }}</h2>
 		        <div class="feature__body">{{ subsection.body | markdownify }}</div>
@@ -33,7 +37,7 @@ layout: default
 		<div class="container benefits {% if section.is-centered %}text--center{% endif %}">
 		  {% for subsection in section.subsections %}
 		  <div class="gutter benefit">
-		    <img src="{{ subsection.image }}" class="benefit__icon" />
+		    <div class="benefit__icon"><img src="{{ subsection.image }}" /></div>
 		    <h3 class="benefit__title">{{ subsection.title }}</h3>
 		    <div class="benefit__body">
 		    	{{ subsection.body | markdownify }}
@@ -42,9 +46,23 @@ layout: default
 		  {% endfor %}
 		</div>
 		{% when 'cases' %}
-		<div class="container cases">
-
-		</div>
+		<div class="container">
+      <ul class="cases__list">
+      {% assign case-studies = site.cases | sort:'position' %}
+      {% for case-study in case-studies %}
+        {% if section.cases contains case-study.title %}
+          <li class="case-study__wrap">
+          	<div class="case-study">
+				<div class="case-study__header">{{ case-study.testimonial.author.name }}<span>{{ case-study.testimonial.author.job-title }}, {{ case-study.testimonial.author.company }}</span></div>
+				<div class="case-study__image"><img src="" /></div>
+				<div class="case-study__body"><p>{{ case-study.testimonial.body }}</p></div>
+				<div class="case-study__footer"><a href="{{ case-study.url }}" class="button button-primary">{{ case-study.testimonial.button }}</a></div>
+			</div>
+          </li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+  	</div>
 		{% when nil %}
     <div class="container{% if section.width %}{{ section.width | prepend: '--' }}{% endif %} gutter">
       {{ section.body | markdownify }}

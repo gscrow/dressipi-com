@@ -1,2 +1,2 @@
-# dressipi-com
-Dressipi Corporate webstite
+# dressipi.com
+Siteleaf theme for the dressipi.com marketing site

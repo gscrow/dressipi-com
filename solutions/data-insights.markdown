@@ -42,7 +42,9 @@ sections:
   - title: Make better informed decisions at a SKU and size level
     image: 
 - title: Case Study
-  handle: case-study
+  handle: cases
+  cases:
+  - Shop Direct
 include-form-demo: true
 layout: product
 ---

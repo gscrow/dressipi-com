@@ -8,11 +8,11 @@ header:
   body: "### We're a diverse team who care about building solutions and experiences
     that solves real problems and customer need. We're growing fast and always looking
     for the best people."
-  hero-image: 
   button:
     copy: Join our Team
     url: "#join"
     style: secondary
+  hero-image: "/uploads/banner_careers.jpg"
 sections:
 - title: Personalisation is Our Passion
   handle: intro

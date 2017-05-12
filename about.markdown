@@ -8,7 +8,6 @@ header:
   body: "### We are proud to be known as the global leader in fashion-specific omnichannel
     personalisation."
   hero-image: 
-  hero-align: 
   width: extend
 sections:
 - title: Our Mission

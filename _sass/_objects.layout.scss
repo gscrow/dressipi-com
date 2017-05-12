@@ -12,6 +12,7 @@
 
   &--narrow {
     @extend .container;
+
     max-width: calc-columns-width(7);
   }
 }
@@ -19,6 +20,7 @@
 .multi-columns {
   @include flexbox;
   @include flex-wrap(wrap);
+
   margin-top: rhythm(8);
 
   .column {
@@ -30,15 +32,15 @@
   }
 
   &.span-2 > .column {
-    width: 50%;
+    flex-basis: 50%;
   }
 
   &.span-3 > .column {
-    width: 33%;
+    flex-basis: 33%;
   }
 
   &.span-4 > .column {
-    width: 24%;
+    flex-basis: 24%;
   }
 }
 
@@ -53,9 +55,11 @@
   padding-bottom: rhythm(12);
 
   &--narrow {
-    @extend .page-content;
-    max-width: calc-columns-width(7);
     @include margin-center;
+
+    @extend .page-content;
+
+    max-width: calc-columns-width(7);
   }
 }
 
@@ -64,6 +68,10 @@
   .gutter {
     padding-right: $tablet-gutter-width / 2;
     padding-left: $tablet-gutter-width / 2;
+  }
+
+  .column {
+    flex-basis: 100% !important;
   }
 }
 

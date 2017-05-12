@@ -1,0 +1,26 @@
+---
+title: Shop Direct
+date: 2017-05-10 11:20:00 Z
+file: https://s3-eu-west-1.amazonaws.com/dressipi-files/Dressipi-Shop-Direct-Case-Study-2017-02.pdf
+testimonial:
+  body: "“Customer with a Dressipi profile clicking through from the Style Hub to
+    a product page are 76% more likely to place an order than when the same customer
+    click through from other parts of the site. We are very happy with the performance
+    and look forward to future developments.”"
+  author:
+    name: Paul Horny
+    job-title: Head of eCommerce
+    company: Shop Direct
+  button: Download Case Study
+layout: case-study
+---
+
+# Learn How Shop Direct Group Benefited from Dressipi's One-To-One Personalisation
+
+## In our free case study you will learn:
+
+* The main drivers behind Shop Direct's decision to work with Dressipi
+
+* How Dressipi has helped Shop Direct deliver personalisation to every customer
+
+* Insights into the positive results of the partnership

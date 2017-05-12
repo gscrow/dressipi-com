@@ -6,11 +6,46 @@
   flex: 1;
 
   &__icon {
+    line-height: rhythm(7);
+    height: rhythm(7);
     margin-bottom: rhythm(2);
+
+    img {
+      display: inline-block;
+      vertical-align: middle;
+    }
   }
 
   &__title {
     font-size: ms(1);
     line-height: ms(4);
+  }
+}
+
+// tablet responsive styles
+@include responsive(tablet) {
+  .benefits {
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .benefit {
+    flex-basis: 50%;
+
+    &:last-child {
+      margin-top: rhythm(5);
+    }
+  }
+}
+
+// mobile responsive styles
+@include responsive(mobile) {
+  .benefit {
+    margin-top: rhythm(5);
+    flex-basis: 100%;
+
+    &:first-child {
+      margin-top: 0;
+    }
   }
 }

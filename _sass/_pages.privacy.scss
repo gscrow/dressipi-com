@@ -10,3 +10,11 @@
 	margin-bottom: rhythm(4);
 	color: $text-color-soft;
 }
+
+table {
+  font-size: ms(-1);
+  line-height: rhythm(3);
+  @extend %table;
+  @extend %table-bordered;
+  @extend %table-condensed;
+}

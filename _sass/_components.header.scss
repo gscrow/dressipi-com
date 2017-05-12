@@ -78,6 +78,7 @@
 
   &__button {
     @extend %button--large;
+
     margin-top: rhythm(2);
 
     &-group {
@@ -97,9 +98,11 @@
 }
 
 .hero {
+  position: relative;
   padding-top: rhythm(14);
   padding-bottom: rhythm(21);
   background: $header-hero-background-color;
+  background-size: cover;
 
   &__content {
     float: left;
@@ -138,7 +141,57 @@
   }
 
   &__form {
-    width: calc-columns-width(4);
     float: right;
+    width: calc-columns-width(4);
+  }
+
+  // &::after {
+  //   position: absolute;
+  //   z-index: 1;
+  //   top: 0;
+  //   right: 0;
+  //   bottom: 0;
+  //   left: 0;
+  //   content: '';
+  //   background: linear-gradient(to right, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 40%, rgba(255,255,255,0) 100%);
+  // }
+}
+
+// tablet responsive styles
+@include responsive(tablet) {
+  .hero {
+    position: relative;
+    background-position: center !important;
+
+    &::before {
+      position: absolute;
+      z-index: 1;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      content: '';
+      background: $header-hero-mask-color;
+    }
+
+    &__content {
+      position: relative;
+      z-index: 2;
+    }
+  }
+}
+
+// mobile responsive styles
+@include responsive(mobile) {
+  .header {
+    &__link {
+      display: block;
+      margin: rhythm(4) 0 0;
+    }
+  }
+
+  .hero {
+    padding-top: rhythm(10);
+    padding-bottom: rhythm(12);
   }
 }

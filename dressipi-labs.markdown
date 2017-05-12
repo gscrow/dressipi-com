@@ -13,6 +13,7 @@ header:
     copy: Contact Us
     url: contact
     style: secondary
+  hero-image: "/uploads/banner_labs.jpg"
 sections:
 - title: Our Projects
   handle: projects
@@ -37,7 +38,7 @@ sections:
 - title: How Dressipi Can Help Retailers Transform Their Biggest Asset
   button:
     copy: Download our Whitepaper
-    url: "/download"
+    url: "/case-study/retailers/"
     style: primary
 layout: labs
 ---

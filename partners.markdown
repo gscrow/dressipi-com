@@ -26,12 +26,13 @@ sections:
   handle: cases
   subsections:
   - title: Learn the Client's Key Challenges
-    image: 
+    image: "/uploads/icon__data-driven.svg"
   - title: How Dressipi Helped Solve These
-    image: 
+    image: "/uploads/icon__user-love.svg"
   - title: The Results
-    image: 
-  cases: 
+    image: "/uploads/icon__results.svg"
+  cases:
+  - Shop Direct
 - title: How it Works
   handle: features
   color: light-grey
@@ -40,14 +41,14 @@ sections:
     body: The visitor creates a unique profile by answering a series of short questions
       related to their preferences, body shape and personality. If customers have
       already created a profile elsewhere, they can connect to an existing one.
-    image: 
+    image: "/uploads/partners_profile.png"
   - title: Personalised Recommendations
     body: A highly personalized and unique shopping experience is generate, available
       throughout the customer journey online and in store.
     action:
       copy: Learn More
       url: "/solutions/recommendations"
-    image: 
+    image: "/uploads/partners_personalise.png"
 - title: Explore More
   body: Try it for yourself by clicking the links below, or visit our How it Works
     page to find out more about how to integrate this technology into your own site.

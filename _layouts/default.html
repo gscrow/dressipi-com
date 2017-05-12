@@ -9,8 +9,10 @@
   <!-- End Google Tag Manager (noscript) -->
   {% endif %}
 
+  {% unless page.layout == 'case-study' %}
   <!-- include header -->
   {% include partials/header.html %}
+  {% endunless %}
 
   <!-- include content -->
   <main role="main">
@@ -21,8 +23,8 @@
   </main>
 
   {% unless page.layout == 'case-study' %}
-    <!-- include footer -->
-    {% include partials/footer.html %}
+  <!-- include footer -->
+  {% include partials/footer.html %}
   {% endunless %}
   <script src="https://code.jquery.com/jquery-3.1.1.js"></script>
   <script src="/scripts/main.js"></script>

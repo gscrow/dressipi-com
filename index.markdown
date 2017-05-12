@@ -7,12 +7,11 @@ header:
     shows each customer the products they will love, buy and keep."
   button:
     copy: Book a Demo
-    url: "/contact"
+    url: "#form-demo"
   link:
     copy: Discover our Solutions
     url: "#features"
-  hero-image: uploads/banner__home.png
-  hero-align: 
+  hero-image: "/uploads/banner_home.jpg"
 sections:
 - title: Results
   subtitle: What You Can Expect
@@ -40,8 +39,8 @@ sections:
       select the most effective algorithms for each customer.
     action:
       copy: Learn More
-      url: "/solutions/recommendations"
-    image: 
+      url: "/solutions/recommendations/"
+    image: "/uploads/home_recommendations-2.png"
   - title: The Style Hub
     body: Just like having your own personal stylist, the Style Hub engages shoppers
       with a series of questions, guides them in the discovery and styling of new
@@ -51,17 +50,17 @@ sections:
       shop.
     action:
       copy: Learn More
-      url: "/solutions/style-hub"
-    image: 
+      url: "/solutions/style-hub/"
+    image: "/uploads/home_style-hub.png"
   - title: Data Insights
     body: Understand the who, what and why behind your key business metrics. Dressipi
       gives you the tools to enhance your operational processes by providing unique
       data driven insights into your customers and garments, giving improved sell
       through rates and reduced markdowns.
-    image: 
+    image: "/uploads/home_data-insights.png"
     action:
       copy: Learn More
-      url: "/solutions/data-insights"
+      url: "/solutions/data-insights/"
 - title: Happy Clients
   subtitle: Use Dressipi to Personalise the Entire Customer Experience
   handle: clients

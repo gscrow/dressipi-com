@@ -3,7 +3,6 @@
   <div class="header">
     <div class="container gutter">
       <a href="{{ site.baseurl }}/" class="header__logo">{% include svgs/logo.svg %}</a>
-      {% unless page.layout == 'case-study' %}
       <nav role="navigation" class="navigation">
         <ul class="navigation_items">
           {% assign header_links = site.pages | where: 'navigation', 'header' | sort: 'position' %}
@@ -17,10 +16,9 @@
           <li class="navigation__item"><a href="/contact" class="navigation__button" title="">Book a Demo</a></li>
         </ul>
       </nav>
-      {% endunless %}
     </div>
   </div>
-  <div class="hero{% unless my_page_url == '' %} hero--tight{% if page.layout == 'page' or page.layout == 'contact' %}er{% endif %} {{ my_page_url | prepend: "hero-"}}{% endunless %}" style="background: {{ page.header.color | default: '#f5f5f5' }} {% if page.header.hero-image %}url({{ page.header.hero-image }}) no-repeat {{ page.header.hero-align | default: "right" }}{% endif %}">
+  <div class="hero{% unless my_page_url == '' %} hero--tight{% if page.layout == 'page' or page.layout == 'contact' %}er{% endif %} {{ my_page_url | prepend: "hero-"}}{% endunless %}" style="background: linear-gradient(to left, transparent 35%, {{ page.header.color | default: '#f5f5f5' }} 50%), {% if page.header.hero-image %}url({{ page.header.hero-image }}) no-repeat right{% endif %}">
     <div class="container gutter">
       <div class="hero__content{% if page.header.width %}{{ page.header.width | prepend: '--' }}{% endif %}">
         <h1 class="header__title">{{ page.header.title | default: page.title }}</h1>
@@ -46,29 +44,6 @@
           </div>
         {% endif %}
       </div>
-      <!-- download form for case-studies -->
-      {% if page.layout == 'case-study' %}
-      <div class="hero__form">
-        <div class="form-download">
-          <hgroup class="form-download__heading">
-            <h3>{{ page.form-download.title }}</h3>
-            <p>{{ page.form-download.subtitle }}</p>
-          </hgroup>
-
-          <form class="form-download__form" method="POST" action="https://formspree.io/{{ page.form-download.formspree-ID }}">
-            <input type="text" name="_gotcha" style="display: none">
-            {% if page.form-download.email_cc %}
-            <input type="hidden" name="_cc" value="{{page.form-download.email_cc}}" />
-            {% endif %}
-            <input type="hidden" name="_next" value="{{ page.form-download.redirect }}" />
-            <input type="hidden" name="_subject" value="New case study download" />
-            <input class="form-download__input" type="input" name="name" placeholder="Enter your name">
-            <input class="form-download__input" type="email" name="email" placeholder="Enter your work email">
-            <button class="button button--large button-primary form-download__submit" type="submit">{{ page.form-download.button }}</button>
-          </form>
-        </div>
-      </div>
-    {% endif %}
     </div>
   </div>
 </header>

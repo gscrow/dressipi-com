@@ -2,8 +2,8 @@
 title: Dressipi.com
 timezone: UTC
 collections:
-  case-study:
-    title: Case Studies
+  cases:
+    title: Cases
     output: true
   clients:
     title: Clients
@@ -14,18 +14,23 @@ collections:
   posts:
     title: Posts
     output: true
-  testimonials:
-    title: Testimonials
-    output: false
   uploads:
     title: Uploads
     output: true
 defaults:
 - scope:
     path: ''
-    type: case-study
+    type: cases
   values:
     permalink: "/case-study/:title/"
+    file: 
+    testimonial:
+      body: 
+      author:
+        name: 
+        job-title: 
+        company: 
+      button: 
     layout: case-study
 - scope:
     path: ''
@@ -43,14 +48,6 @@ defaults:
     type: jobs
   values:
     is-open: true
-- scope:
-    path: ''
-    type: testimonials
-  values:
-    author:
-      name: 
-      job-title: 
-      company: 
 description: Personalising the Entire Customer Experience
 url: http://www.dressipi.com
 form-demo:

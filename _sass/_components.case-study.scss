@@ -1,1 +1,49 @@
-// case studies as seen in https://dressipi-com-cwwttucrmm.now.sh/solutions.html
+.cases__list {
+  @include flexbox;
+  @include flex-wrap(wrap);
+  @include justify-content(center);
+  @include align-items(stretch);
+}
+
+.case-study {
+	max-width: calc-columns-width(3);
+
+	&__wrap {
+		border: solid 1px $border-color;
+		border-radius: $border-radius--base;
+  	margin-right: $gutter-width / 2;
+  	margin-left: $gutter-width / 2;
+	}
+
+	&__header {
+		background: $background--lighter;
+		padding: rhythm(2);
+		line-height: rhythm(3);
+		font-size: ms(0);
+
+		> span {
+			display: block;
+			color: $text-color-soft;
+			font-weight: 400;
+			font-size: ms(-1);
+		}
+	}
+
+	&__body {
+		padding: rhythm(2);
+
+		> p {
+			font-style: italic;
+			margin-bottom: 0;
+		}
+	}
+
+	&__footer {
+		padding: rhythm(2);
+
+	 > .button {
+	 	width: 100%;
+	 	text-align: center;
+	 }
+	}
+}

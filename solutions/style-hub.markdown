@@ -53,8 +53,9 @@ sections:
       and can be fed back to retailers to help them optimise key metrics.
     image: 
 - title: Case Study
-  subtitle: Trusted and Loved by Leading Global Brands
-  handle: case-study
+  handle: cases
+  cases:
+  - Shop Direct
 include-form-demo: true
 layout: product
 ---

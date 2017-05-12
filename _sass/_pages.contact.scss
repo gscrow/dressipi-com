@@ -1,17 +1,79 @@
 .section-contact > .container {
-	@include flexbox;
+  @include flexbox;
   @include flex-wrap(wrap);
   @include justify-content(center);
 
   .contact-info {
-		flex: 3;
+    flex: 3;
   }
 
   .contact-form {
-		flex: 6;
+    flex: 6;
   }
 }
 
 address {
   line-height: rhythm(4);
 }
+
+.form-contact {
+  margin-top: rhythm(5);
+
+  &__input-group {
+    @include flexbox;
+    @include flex-wrap(wrap);
+    @include justify-content(space-between);
+
+    margin-right: -2%;
+    margin-left: -2%;
+  }
+
+  &__input {
+    @include input-style(default);
+
+    height: rhythm(8);
+    margin: 0 2% rhythm(2);
+    flex-basis: 46%;
+  }
+
+  &__area {
+    @include input-style(default);
+
+    clear: both;
+    margin-bottom: rhythm(2);
+    padding-top: rhythm(2);
+  }
+
+  &__submit {
+    width: calc-columns-width(2);
+  }
+}
+
+// tablet responsive styles
+@include responsive(tablet) {
+  .section-contact > .container {
+    .contact-info {
+      margin-bottom: rhythm(6);
+      flex-basis: 100%;
+    }
+
+    .contact-form {
+      flex-basis: 100%;
+    }
+  }
+}
+
+// mobile responsive styles
+@include responsive(mobile) {
+  .form-contact {
+    &__input {
+      flex-basis: 96%;
+    }
+
+    &__submit {
+      float: none;
+      width: 100%;
+    }
+  }
+}
+

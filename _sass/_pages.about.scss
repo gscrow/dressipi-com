@@ -1,60 +1,81 @@
 .proofs {
-	.column__copy {
-		padding-right: 20px;
+  .column__copy {
+    padding-right: 20px;
 
-		p {
-			margin-bottom: 0;
-		}
-	}
+    p {
+      margin-bottom: 0;
+    }
+  }
 }
 
 .team {
-	&__members {
-  	@include flexbox;
-  	@include flex-wrap(wrap);
+  &__members {
+    @include flexbox;
+    @include flex-wrap(wrap);
     @include justify-content(center);
-  	margin-top: rhythm(8);
-	}
 
-	&__member {
-		width: 25%;
-  	margin-bottom: rhythm(5);
+    margin-top: rhythm(8);
+  }
 
-		&-name {
-			margin-top: rhythm(1);
-			margin-bottom: 0;
-			line-height: rhythm(3);
-			font-weight: 700;
-  		color: $text-color-strong;
-		}
+  &__member {
+    margin-bottom: rhythm(5);
+    flex-basis: 25%;
 
-		&-title {
-			margin-bottom: 0;
-			color: $text-color-soft;
-			font-size: ms(-1);
-		}
+    &-name {
+      font-weight: 700;
+      line-height: rhythm(3);
+      margin-top: rhythm(1);
+      margin-bottom: 0;
+      color: $text-color-strong;
+    }
 
-		&-icon {
-			position: absolute;
-			bottom: rhythm(2);
-			right: rhythm(2);
-			display: block;
-			width: 24px;
-			height: 24px;
-		}
+    &-title {
+      font-size: ms(-1);
+      margin-bottom: 0;
+      color: $text-color-soft;
+    }
 
-		&-image {
-			position: relative;
+    &-icon {
+      position: absolute;
+      right: rhythm(2);
+      bottom: rhythm(2);
+      display: block;
+      width: 24px;
+      height: 24px;
+    }
 
-			> img {
-				max-width: 100%;
-			}
-		}
-	}
+    &-image {
+      position: relative;
 
-	&-intro {
-		max-width: calc-columns-width(7);
+      > img {
+        max-width: 100%;
+      }
+    }
+  }
+
+  &-intro {
     @include margin-center;
     @include text-center;
-	}
+
+    max-width: calc-columns-width(7);
+  }
+}
+
+
+// tablet responsive styles
+@include responsive(tablet) {
+  .team {
+    &__member {
+      flex-basis: (1 / 3) * 100%;
+    }
+  }
+}
+
+// mobile responsive styles
+@include responsive(mobile) {
+  .team {
+    &__member {
+      flex-basis: 50%;
+    }
+  }
 }

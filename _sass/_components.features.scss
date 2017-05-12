@@ -2,16 +2,23 @@
   padding: rhythm(11) 0 rhythm(12);
   background: $background--white;
 
+  &:first-child {
+    padding-top: 0;
+  }
+
   > .container {
-    display: flex;
+    @include flexbox;
   }
 
   &__image {
+    display: flex;
     flex: 4;
+    justify-content: center;
     order: 99;
   }
 
   &__copy {
+    padding-top: rhythm(5);
     flex: 5;
   }
 
@@ -33,4 +40,23 @@
 // place feature__image to the right on even feature row
 .feature:nth-child(2n) .feature__image {
   order: -1;
+}
+
+// tablet responsive styles
+@include responsive(tablet) {
+  .feature {
+    > .container {
+      flex-wrap: wrap;
+    }
+
+    &__image {
+      flex-basis: 100%;
+      order: 1;
+    }
+
+    &__copy {
+      flex-basis: 100%;
+      order: 2;
+    }
+  }
 }

@@ -3,34 +3,36 @@ layout: default
 ---
 
 <section class="section section-contact">
-	<div class="container">
-		<div class="gutter contact-info">
-			<h3 class="contact-info__title">Company Address</h3>
-	    <address>
-	      {{site.company.name}}<br/>
-	      {{site.company.address.street}}<br/>
-	      {{site.company.address.city}}
-	    </address>
-		</div>
+  <div class="container">
+    <div class="gutter contact-info">
+      <h3 class="contact-info__title">Company Address</h3>
+      <address>
+        {{site.company.name}}<br/>
+        {{site.company.address.street}}<br/>
+        {{site.company.address.city}}
+      </address>
+    </div>
 
-		<div class="gutter contact-form">
-			{{ content }}
-			<div class="form-contact">
-		    <form class="form-contact__form" method="POST" action="https://formspree.io/{{ page.form-contact.formspree-ID }}">
-		      <input type="text" name="_gotcha" style="display: none">
-		      {% if page.form-contact.email_cc %}
-		      <input type="hidden" name="_cc" value="{{page.form-contact.email_cc}}" />
-		      {% endif %}
-		      <input type="hidden" name="_next" value="{{ page.form-contact.redirect }}" />
-		      <input type="hidden" name="_subject" value="New contact form submit" />
-		      <input type="input" class="form-contact__input" name="name" placeholder="Your name">
-		      <input type="email" class="form-contact__input" name="email" placeholder="Your email">
-					<input type="input" class="form-contact__input" name="phone number" placeholder="Your phone number">
-					<input type="input" class="form-contact__input" name="company" placeholder="Your company">
-					<textarea name="message" class="form-contact__area" rows="8" placeholder="Your message"></textarea>
-		      <button class="button button--large button-primary form-contact__submit" type="submit">{{ page.form-contact.button }}</button>
-		    </form>
-			</div>
-		</div>
-	</div>
+    <div class="gutter contact-form">
+      {{ content }}
+      <div class="form-contact">
+        <form class="form-contact__form" method="POST" action="https://formspree.io/{{ page.form-contact.formspree-ID }}">
+          <input type="text" name="_gotcha" style="display: none">
+          {% if page.form-contact.email_cc %}
+          <input type="hidden" name="_cc" value="{{page.form-contact.email_cc}}" />
+          {% endif %}
+          <input type="hidden" name="_next" value="{{ page.form-contact.redirect }}" />
+          <input type="hidden" name="_subject" value="New contact form submit" />
+          <div class="form-contact__input-group">
+            <input type="input" class="form-contact__input" name="name" placeholder="Your name">
+            <input type="email" class="form-contact__input" name="email" placeholder="Your email">
+            <input type="input" class="form-contact__input" name="phone number" placeholder="Your phone number">
+            <input type="input" class="form-contact__input" name="company" placeholder="Your company">
+          </div>
+          <textarea name="message" class="form-contact__area" rows="8" placeholder="Your message"></textarea>
+          <button class="button button--large button-primary form-contact__submit" type="submit">{{ page.form-contact.button }}</button>
+        </form>
+      </div>
+    </div>
+  </div>
 </section>

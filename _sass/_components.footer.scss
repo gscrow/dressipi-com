@@ -1,8 +1,8 @@
 .site-footer {
-  font-size: ms(-1);
   padding: rhythm(9) 0 rhythm(12);
   color: $footer-text-color;
   background: $footer-background-color;
+  font-size: ms(-1);
 
   > .container {
     display: flex;
@@ -26,7 +26,6 @@
   }
 
   &__col {
-    font-size: ms(-1);
     line-height: ms(5);
     color: $footer-text-color;
     flex: 1;
@@ -68,6 +67,44 @@
 
     a:last-child:after {
       content: '';
+    }
+  }
+}
+
+// tablet responsive styles
+@include responsive(tablet) {
+  .site-footer {
+    > .container {
+      flex-wrap: wrap;
+    }
+
+    &__logo,
+    &__nav {
+      flex-basis: 100%;
+    }
+  }
+}
+
+// mobile responsive styles
+@include responsive(mobile) {
+  .site-footer {
+    text-align: center;
+
+    &__cols {
+      flex-wrap: wrap;
+    }
+
+    &__col {
+      flex-basis: 100%;
+
+      &-title {
+        margin-top: rhythm(5);
+
+        &::after {
+          right: 0;
+          margin: auto;
+        }
+      }
     }
   }
 }

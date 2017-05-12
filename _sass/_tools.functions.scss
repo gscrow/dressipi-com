@@ -1,6 +1,6 @@
 // vertical rhythm — baseline
 @function rhythm($value) {
-  @return $value * 8px;
+  @return $value * $baseline-rhythm;
 }
 
 // calculate columns width
