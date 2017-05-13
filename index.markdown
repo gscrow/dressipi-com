@@ -40,7 +40,9 @@ sections:
     action:
       copy: Learn More
       url: "/solutions/recommendations/"
-    image: "/uploads/home_recommendations-2.png"
+    align: top
+    image: "/uploads/home_recommendations-screen.png"
+    hres-image: "/uploads/home_recommendations-screen@2x.png"
   - title: The Style Hub
     body: Just like having your own personal stylist, the Style Hub engages shoppers
       with a series of questions, guides them in the discovery and styling of new
@@ -52,12 +54,14 @@ sections:
       copy: Learn More
       url: "/solutions/style-hub/"
     image: "/uploads/home_style-hub.png"
+    hres-image: "/uploads/home_style-hub@2x.png"
   - title: Data Insights
     body: Understand the who, what and why behind your key business metrics. Dressipi
       gives you the tools to enhance your operational processes by providing unique
       data driven insights into your customers and garments, giving improved sell
       through rates and reduced markdowns.
     image: "/uploads/home_data-insights.png"
+    hres-image: "/uploads/home_data-insights@2x.png"
     action:
       copy: Learn More
       url: "/solutions/data-insights/"

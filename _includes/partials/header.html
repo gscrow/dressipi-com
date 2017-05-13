@@ -8,17 +8,24 @@
           {% assign header_links = site.pages | where: 'navigation', 'header' | sort: 'position' %}
           {% for link in header_links %}
             {% if link.has-menu %}
-              <li class="navigation__link">{{ link.title }}</li>
+              <li class="navigation__item navigation-dropdown">
+                <span class="navigation-dropdown__trigger {% if page.url contains link.url %}navigation-dropdown__trigger--active{% endif %}">{{ link.title }}</span>
+                {% include partials/navigation.html context='/solutions/' %}
+              </li>
             {% else %}
-              <li class="navigation__link"><a href="{{ link.url }}" class="navigation__link">{{ link.title }}</a></li>
+              <li class="navigation__item"><a href="{{ link.url }}" class="navigation__link {% if page.url == link.url %}navigation__link--active{% endif %}"">{{ link.title }}</a></li>
             {% endif %}
           {% endfor %}
           <li class="navigation__item"><a href="/contact" class="navigation__button" title="">Book a Demo</a></li>
         </ul>
       </nav>
+      <button class="header-mobile-button">
+        {% include svgs/menu.svg %}
+        {% include svgs/cross.svg %}
+      </button>
     </div>
   </div>
-  <div class="hero{% unless my_page_url == '' %} hero--tight{% if page.layout == 'page' or page.layout == 'contact' %}er{% endif %} {{ my_page_url | prepend: "hero-"}}{% endunless %}" style="background: linear-gradient(to left, transparent 35%, {{ page.header.color | default: '#f5f5f5' }} 50%), {% if page.header.hero-image %}url({{ page.header.hero-image }}) no-repeat right{% endif %}">
+  <div class="hero{% unless my_page_url == '' %} hero--tight{% if page.layout == 'page' or page.layout == 'contact' %}er{% endif %} {{ my_page_url | prepend: "hero-"}}{% endunless %}" style="background: linear-gradient(to left, transparent 40%, {{ page.header.color | default: '#f5f5f5' }} 60%), {% if page.header.hero-image %}url({{ page.header.hero-image }}) no-repeat right{% endif %}">
     <div class="container gutter">
       <div class="hero__content{% if page.header.width %}{{ page.header.width | prepend: '--' }}{% endif %}">
         <h1 class="header__title">{{ page.header.title | default: page.title }}</h1>

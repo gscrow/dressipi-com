@@ -10,12 +10,11 @@
   }
 
   &__image {
-    flex: 2;
-    order: 99;
+    flex: 4;
   }
 
   &__copy {
-    flex: 6;
+    flex: 5;
   }
 
   &:nth-child(2n - 1) {

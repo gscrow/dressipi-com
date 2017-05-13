@@ -1,6 +1,5 @@
 ---
 title: Recommendations
-position: 0
 header:
   body: "### Ensure your business is a market leader in customer service, loyalty
     and acquisition. Dressipi's machine learning technology enables you to provide
@@ -34,12 +33,12 @@ sections:
   - title: Listing & Category Pages
     body: Eliminate the hassle of lengthy scrolling. Show a personalised listing of
       each customer so they can immediately find what they are most likely to buy.
-    image: 
+    image: "/uploads/recommendations_listing.png"
   - title: Emails & Notifications
     body: Keep your customer up to date with timely prompts and notifications completely
       personalised to each customer. Bespoke weekly emails consistently increase retention
       and engagement.
-    image: "/uploads/recommendations_emails.png"
+    image: "/uploads/recommendations_email.png"
   - title: Landing & Content Pages
     body: Match any keyword or promotional theme to create a personalised alternative
       for every campaign.
@@ -70,7 +69,6 @@ sections:
   handle: cases
   cases:
   - Shop Direct
-  - Topshop
 include-form-demo: true
 layout: product
 ---

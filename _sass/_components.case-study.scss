@@ -6,44 +6,53 @@
 }
 
 .case-study {
-	max-width: calc-columns-width(3);
+  display: flex;
+  flex-direction: column;
+  max-width: calc-columns-width(3);
+  height: 100%;
 
-	&__wrap {
-		border: solid 1px $border-color;
-		border-radius: $border-radius--base;
-  	margin-right: $gutter-width / 2;
-  	margin-left: $gutter-width / 2;
-	}
+  &__wrap {
+    margin-right: $gutter-width / 2;
+    margin-bottom: rhythm(3);
+    margin-left: $gutter-width / 2;
+    border: solid 1px $border-color;
+    border-radius: $border-radius--base;
+  }
 
-	&__header {
-		background: $background--lighter;
-		padding: rhythm(2);
-		line-height: rhythm(3);
-		font-size: ms(0);
+  &__header {
+    font-size: ms(0);
+    line-height: rhythm(3);
+    padding: rhythm(2);
+    background: $background--lighter;
 
-		> span {
-			display: block;
-			color: $text-color-soft;
-			font-weight: 400;
-			font-size: ms(-1);
-		}
-	}
+    > span {
+      font-size: ms(-1);
+      font-weight: 400;
+      display: block;
+      color: $text-color-soft;
+    }
+  }
 
-	&__body {
-		padding: rhythm(2);
+  &__body {
+    padding: rhythm(2);
+    flex: 1;
 
-		> p {
-			font-style: italic;
-			margin-bottom: 0;
-		}
-	}
+    > p {
+      font-style: italic;
+      margin-bottom: 0;
+    }
+  }
 
-	&__footer {
-		padding: rhythm(2);
+  &__image {
+    max-height: 240px;
+  }
 
-	 > .button {
-	 	width: 100%;
-	 	text-align: center;
-	 }
-	}
+  &__footer {
+    padding: rhythm(2);
+
+    > .button {
+      width: 100%;
+      text-align: center;
+    }
+  }
 }

@@ -11,6 +11,7 @@ testimonial:
     name: Paul Horny
     job-title: Head of eCommerce
     company: Shop Direct
+    image: "/uploads/paul-hornby.jpg"
   button: Download Case Study
 layout: case-study
 ---

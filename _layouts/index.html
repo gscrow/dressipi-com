@@ -31,10 +31,10 @@ layout: default
           <div class="container">
             <div class="gutter feature__image">
               <div> <!-- keep flex image ratio -->
-                <img src="{{ subsection.image }}"/>
+                <img src="{{ subsection.image }}" alt="{{ subsection.title }}" {% if subsection.hres-image %}srcset="{{ subsection.hres-image }} 2x"{% endif %} class="feature__image"  />
               </div>
             </div>
-            <div class="gutter feature__copy">
+            <div class="gutter feature__copy" {% if subsection.align == 'top' %}style="margin:0;padding-top:40px;"{% endif %}>
               <h2 class="feature__title">{{ subsection.title }}</h2>
               <div class="feature__body">{{ subsection.body | markdownify }}</div>
               {% if subsection.action %}<a href="{{ subsection.action.url }}" class="button button-{{ subsection.action.style | default: 'secondary' }}">{{ subsection.action.copy }}</a>{% endif %}

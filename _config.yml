@@ -30,6 +30,7 @@ defaults:
         name: 
         job-title: 
         company: 
+        image:
       button: 
     layout: case-study
 - scope:

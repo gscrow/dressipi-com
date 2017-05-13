@@ -11,7 +11,7 @@ header:
     believe will be valuable to customers and retailers in the near future."
   button:
     copy: Contact Us
-    url: contact
+    url: "/contact"
     style: secondary
   hero-image: "/uploads/banner_labs.jpg"
 sections:
