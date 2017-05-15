@@ -4,7 +4,7 @@ navigation: header
 header:
   title: Partnering with Leading Global Brands
   body: We work with some of the world's leading retail brands. These brands share
-    common goal of seeking to offer their customers a truly data-driven, personalised
+    a common goal of seeking to offer their customers a truly data-driven, personalised
     shopping and dressing solution.
   width: full
   button:
