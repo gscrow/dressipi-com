@@ -6,7 +6,7 @@ navigation: footer
 form-contact:
   formspree-ID: xxxxxxxx
   button: Send Request
-  redirect: "/thanks"
+  redirect: "/"
   email_to: 
   email_cc: 
 width: narrow
