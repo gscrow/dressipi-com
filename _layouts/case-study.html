@@ -21,10 +21,12 @@ layout: default
             <h3>Download Case Study – {{ page.title }}</h3>
           </hgroup>
 
-          <form class="form-download__form" method="POST" action="https://formspree.io/">
+          <form class="form-download__form" method="POST" action="https://formspree.io/xxxxxxx">
             <input type="text" name="_gotcha" style="display: none">
             <input type="hidden" name="_next" value="{{ page.file }}" />
             <input type="hidden" name="_subject" value="New case study download" />
+            <!-- hidden field to be tested -->
+            <input type="hidden" name="page url" value="{{page.url}}" />
             <input class="form-download__input" type="input" name="name" placeholder="Enter your name">
             <input class="form-download__input" type="email" name="email" placeholder="Enter your work email">
             <button class="button button--large button-primary form-download__submit" type="submit">Download Case Study</button>
