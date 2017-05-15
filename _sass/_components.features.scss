@@ -18,9 +18,14 @@
   }
 
   &__copy {
-    //padding-top: rhythm(5);
     flex: 5;
     margin: auto 0;
+
+    &--top {
+      flex: 5;
+      padding-top: rhythm(5);
+      margin: 0;
+    }
   }
 
   &:nth-child(2n - 1) {
