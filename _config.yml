@@ -58,7 +58,6 @@ form-demo:
     revenue per visitor, AOV and frequency of purchase.
   button: Book a Demo
   redirect: "/"
-  email_to: 
   email_cc: 
 company:
   name: Stylemania Ltd.
