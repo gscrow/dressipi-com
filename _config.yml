@@ -57,8 +57,9 @@ form-demo:
   subtitle: Schedule a demo to see how Dressipi can help increase net incremental
     revenue per visitor, AOV and frequency of purchase.
   button: Book a Demo
-  redirect: "/"
+  email_to: 
   email_cc: 
+  redirect: "/"
 company:
   name: Stylemania Ltd.
   address:
