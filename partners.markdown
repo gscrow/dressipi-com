@@ -20,8 +20,8 @@ header:
   - Nike
   - JD Williams
 sections:
-- title: Case Studies
-  subtitle: The following case studies outline the impact of Dressipi has had on some
+- title: Case Study
+  subtitle: The following case study outlines the impact Dressipi has had on some
     of its major international clients.
   handle: cases
   subsections:
@@ -44,7 +44,7 @@ sections:
     image: "/uploads/partners_profile.png"
     hres-image: "/uploads/partners_profile@2x.png"
   - title: Personalised Recommendations
-    body: A highly personalized and unique shopping experience is generate, available
+    body: A highly personalized and unique shopping experience is generated, available
       throughout the customer journey online and in store.
     action:
       copy: Learn More
