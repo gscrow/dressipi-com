@@ -31,7 +31,7 @@ sections:
       a return.
     image: "/uploads/recommendations_sizing.png"
   - title: Listing & Category Pages
-    body: Eliminate the hassle of lengthy scrolling. Show a personalised listing of
+    body: Eliminate the hassle of lengthy scrolling. Show a personalised listing for
       each customer so they can immediately find what they are most likely to buy.
     image: "/uploads/recommendations_listing.png"
   - title: Emails & Notifications
