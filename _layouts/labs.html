@@ -17,7 +17,9 @@ layout: default
 		  {% for subsection in section.subsections %}
 		  <div class="project">
 		    <div class="container">
+		    	{% if subsection.image %}
 		      <div class="gutter project__image"><img src="{{ subsection.image }}" class="project__image" /></div>
+		      {% endif %}
 		      <div class="gutter project__copy">
 		        <h2 class="project__title">{{ subsection.title }}</h2>
 		        <div class="project__body">{{ subsection.description | markdownify }}</div>
