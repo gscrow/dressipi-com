@@ -2,8 +2,8 @@
 title: Dressipi.com
 timezone: UTC
 collections:
-  cases:
-    title: Cases
+  downloads:
+    title: Downloads
     output: true
   clients:
     title: Clients
@@ -20,9 +20,9 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: cases
+    type: downloads
   values:
-    permalink: "/case-study/:title/"
+    permalink: "/downloads/:title/"
     form:
       title: 'Download Now'
       button: 'Download Case Study'
@@ -35,7 +35,7 @@ defaults:
         company: 
         image: 
       action: 
-    layout: case-study
+    layout: download
 - scope:
     path: ''
     type: clients
