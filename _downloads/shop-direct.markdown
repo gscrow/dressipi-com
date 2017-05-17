@@ -9,7 +9,7 @@ testimonial:
     click through from other parts of the site. We are very happy with the performance
     and look forward to future developments.”"
   author:
-    name: Paul Horny
+    name: Paul Hornby
     job-title: Head of eCommerce
     company: Shop Direct
     image: "/uploads/paul-hornby.jpg"
