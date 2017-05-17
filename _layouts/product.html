@@ -50,9 +50,9 @@ layout: default
 		{% when 'cases' %}
 		<div class="container">
       <ul class="cases__list">
-      {% assign downloads = site.downloads | sort:'position' %}
+      {% assign downloads = site.downloads | sort: 'position' %}
       {% for download in downloads %}
-        {% if section.cases contains download.title %}
+        {% if section.downloads contains download.title %}
         <li class="case-study__wrap">
           <div class="case-study">
             <div class="case-study__header">{{ download.testimonial.author.name }}<span>{{ download.testimonial.author.job-title }}, {{ download.testimonial.author.company }}</span></div>
