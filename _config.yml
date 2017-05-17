@@ -2,12 +2,12 @@
 title: Dressipi.com
 timezone: UTC
 collections:
-  downloads:
-    title: Downloads
-    output: true
   clients:
     title: Clients
     output: false
+  downloads:
+    title: Downloads
+    output: true
   jobs:
     title: Jobs
     output: true
@@ -24,9 +24,9 @@ defaults:
   values:
     permalink: "/downloads/:title/"
     form:
-      title: 'Download Now'
-      button: 'Download Case Study'
-      file:
+      title: Download Now
+      button: Download Case Study
+      file: 
     testimonial:
       body: 
       author:
