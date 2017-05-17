@@ -29,7 +29,7 @@ layout: default
             <input type="hidden" name="page url" value="{{page.url}}" />
             <input class="form-download__input" type="input" name="name" placeholder="Enter your name">
             <input class="form-download__input" type="email" name="email" placeholder="Enter your work email">
-            <button class="button button--large button-primary form-download__submit" type="submit">Download Case Study</button>
+            <button class="button button--large button-primary form-download__submit" type="submit">{{ page.button | default: 'Download Case Study' }}</button>
           </form>
         </div>
       </div>

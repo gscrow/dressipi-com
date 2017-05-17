@@ -35,7 +35,7 @@ layout: default
             <div class="case-study__header">{{ case-study.testimonial.author.name }}<span>{{ case-study.testimonial.author.job-title }}, {{ case-study.testimonial.author.company }}</span></div>
             <div class="case-study__image"><img src="{{ case-study.testimonial.author.image }}" /></div>
             <div class="case-study__body"><p>{{ case-study.testimonial.body }}</p></div>
-            <div class="case-study__footer"><a href="{{ case-study.url }}" class="button button-primary">{{ case-study.testimonial.button }}</a></div>
+            <div class="case-study__footer"><a href="{{ case-study.url }}" class="button button-primary">{{ case-study.testimonial.action }}</a></div>
           </div>
         </li>
         {% endif %}
