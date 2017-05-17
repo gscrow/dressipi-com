@@ -48,7 +48,7 @@ sections:
     image: "/uploads/icon_sku.svg"
 - title: Case Study
   handle: cases
-  cases:
+  downloads:
   - Shop Direct
 include-form-demo: false
 layout: product
