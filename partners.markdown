@@ -32,7 +32,7 @@ sections:
     image: "/uploads/icon__user-love.svg"
   - title: The Results
     image: "/uploads/icon__results.svg"
-  cases:
+  downloads:
   - Shop Direct
 - title: How it Works
   handle: features
