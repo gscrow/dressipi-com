@@ -78,6 +78,7 @@ sections:
   - Nike
   - JD Williams
   - Very
+  - Evans
 include-form-demo: true
 layout: index
 ---
