@@ -41,7 +41,7 @@ defaults:
     type: clients
   values:
     image: 
-    url: 
+    link: 
 - scope:
     path: ''
     type: pages
