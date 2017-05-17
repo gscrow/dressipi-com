@@ -27,15 +27,15 @@ layout: default
     </div>
     <div class="container">
       <ul class="cases__list">
-      {% assign case-studies = site.cases | sort:'position' %}
-      {% for case-study in case-studies %}
-        {% if section.cases contains case-study.title %}
+      {% assign downloads = site.downloads | sort:'position' %}
+      {% for download in downloads %}
+        {% if section.cases contains download.title %}
         <li class="case-study__wrap">
           <div class="case-study">
-            <div class="case-study__header">{{ case-study.testimonial.author.name }}<span>{{ case-study.testimonial.author.job-title }}, {{ case-study.testimonial.author.company }}</span></div>
-            <div class="case-study__image"><img src="{{ case-study.testimonial.author.image }}" /></div>
-            <div class="case-study__body"><p>{{ case-study.testimonial.body }}</p></div>
-            <div class="case-study__footer"><a href="{{ case-study.url }}" class="button button-primary">{{ case-study.testimonial.action }}</a></div>
+            <div class="case-study__header">{{ download.testimonial.author.name }}<span>{{ download.testimonial.author.job-title }}, {{ download.testimonial.author.company }}</span></div>
+            <div class="case-study__image"><img src="{{ download.testimonial.author.image }}" /></div>
+            <div class="case-study__body"><p>{{ download.testimonial.body }}</p></div>
+            <div class="case-study__footer"><a href="{{ download.url }}" class="button button-primary">{{ download.testimonial.action }}</a></div>
           </div>
         </li>
         {% endif %}

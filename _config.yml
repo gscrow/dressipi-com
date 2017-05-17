@@ -34,7 +34,7 @@ defaults:
         job-title: 
         company: 
         image: 
-      action: 
+      action: Download Now
     layout: download
 - scope:
     path: ''

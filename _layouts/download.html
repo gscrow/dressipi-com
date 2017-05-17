@@ -23,7 +23,7 @@ layout: default
 
           <form class="form-download__form" method="POST" action="https://formspree.io/xxxxxxx">
             <input type="text" name="_gotcha" style="display: none">
-            <input type="hidden" name="_next" value="{{ page.form.file }}" />
+            <input type="hidden" name="_next" value="{{ page.form.file | default: '/' }}" />
             <input type="hidden" name="_subject" value="New Download – Email submission" />
             <!-- hidden field to be tested -->
             <input type="hidden" name="page url" value="{{ page.url }}" />
