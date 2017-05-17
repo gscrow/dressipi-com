@@ -23,7 +23,10 @@ defaults:
     type: cases
   values:
     permalink: "/case-study/:title/"
-    file: 
+    form:
+      title: 'Download Now'
+      button: 'Download Case Study'
+      file:
     testimonial:
       body: 
       author:
@@ -31,7 +34,7 @@ defaults:
         job-title: 
         company: 
         image: 
-      button: 
+      action: 
     layout: case-study
 - scope:
     path: ''
