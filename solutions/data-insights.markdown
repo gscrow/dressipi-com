@@ -1,6 +1,6 @@
 ---
 title: Data Insights
-position: 1
+position: 2
 header:
   body: For the first time ever, Dressipi can link specific customer data with specific
     garment features alongside transactional and behavioural data. We give exceptional

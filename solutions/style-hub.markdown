@@ -1,6 +1,6 @@
 ---
 title: Style Hub
-position: 2
+position: 1
 header:
   body: The key to fashion personalisation and a significant Dressipi advantage, the
     Style Hub recreates the one-to-one touch of your best personal stylist by guiding
