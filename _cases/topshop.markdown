@@ -9,7 +9,6 @@ testimonial:
     job-title: CRM Manager
     company: Topshop
   action: Download Case Study
-button: 
 layout: case-study
 ---
 
