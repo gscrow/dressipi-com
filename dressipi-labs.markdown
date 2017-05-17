@@ -38,7 +38,7 @@ sections:
 - title: How Dressipi Can Help Retailers Transform Their Biggest Asset
   button:
     copy: Download our Whitepaper
-    url: "/case-study/retailers/"
+    url: "/downloads/retailers/"
     style: primary
 layout: labs
 ---
