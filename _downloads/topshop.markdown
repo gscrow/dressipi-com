@@ -9,7 +9,7 @@ testimonial:
     job-title: CRM Manager
     company: Topshop
   action: Download Case Study
-layout: case-study
+layout: download
 ---
 
 # Learn How Topshop Benefited from Dressipi's One-To-One Personalisation

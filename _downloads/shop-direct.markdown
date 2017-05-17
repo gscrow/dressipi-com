@@ -14,7 +14,7 @@ testimonial:
     company: Shop Direct
     image: "/uploads/paul-hornby.jpg"
   action: Download Case Study
-layout: case-study
+layout: download
 ---
 
 # Learn How Shop Direct Group Benefited from Dressipi's One-To-One Personalisation

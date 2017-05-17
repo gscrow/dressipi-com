@@ -7,6 +7,7 @@ form:
   file: "/uploads/Whitepaper-How-Dressipi-Can-Help-Retailers-Transform-Their-Biggest-Asset.pdf"
 testimonial:
   action: Download Whitepaper
+layout: download
 ---
 
 # How Dressipi Can Help Retailers Transform Their Biggest Asset
