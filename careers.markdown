@@ -6,7 +6,7 @@ navigation: footer
 header:
   title: Working at Dressipi
   body: "### We're a diverse team who care about building solutions and experiences
-    that solves real problems and customer need. We're growing fast and always looking
+    that solve real problems and customer needs. We're growing fast and always looking
     for the best people."
   button:
     copy: Join our Team
