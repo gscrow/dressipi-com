@@ -17,7 +17,7 @@ testimonial:
 layout: download
 ---
 
-# Learn How Shop Direct Group Benefited from Dressipi's One-To-One Personalisation
+# Learn How Shop Direct Benefited from Dressipi's One-To-One Personalisation
 
 ## In our free case study you will learn:
 
