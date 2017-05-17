@@ -111,7 +111,7 @@ sections:
     title: Product Manager
     linkedin: https://www.linkedin.com/in/rameshanusha
     image: "/uploads/anusha-ramesh.jpg"
-  - name: Phillippa Mew
+  - name: Philippa Mew
     title: PR & Marketing Associate
     linkedin: https://www.linkedin.com/in/philippa-mew-34544032/
     image: "/uploads/philippa-mew.jpg"
