@@ -2,6 +2,7 @@
 title: Retailers
 date: 2017-05-12 04:38:00 Z
 form:
+  title: Download Whitepaper – Retailers
   button: Download Whitepaper
   file: "/uploads/Whitepaper-How-Dressipi-Can-Help-Retailers-Transform-Their-Biggest-Asset.pdf"
 testimonial:
