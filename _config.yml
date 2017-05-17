@@ -24,9 +24,9 @@ defaults:
   values:
     permalink: "/case-study/:title/"
     form:
-      title:
-      button:
-      file:
+      title: 
+      button: 
+      file: 
     testimonial:
       body: 
       author:
