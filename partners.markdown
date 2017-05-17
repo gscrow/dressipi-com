@@ -42,6 +42,9 @@ sections:
     body: The visitor creates a unique profile by answering a series of short questions
       related to their preferences, body shape and personality. If customers have
       already created a profile elsewhere, they can connect to an existing one.
+    action:
+      copy: Learn More
+      url: 
     image: "/uploads/partners_profile.png"
     hres-image: "/uploads/partners_profile@2x.png"
   - title: Personalised Recommendations
