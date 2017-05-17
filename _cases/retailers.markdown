@@ -2,6 +2,9 @@
 title: Retailers
 date: 2017-05-12 04:38:00 Z
 file: "/uploads/Whitepaper-How-Dressipi-Can-Help-Retailers-Transform-Their-Biggest-Asset.pdf"
+button: Download Whitepaper
+testimonial:
+  action: Download Whitepaper
 ---
 
 # How Dressipi Can Help Retailers Transform Their Biggest Asset

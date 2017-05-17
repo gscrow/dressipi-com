@@ -1,7 +1,6 @@
 ---
 title: Topshop
 date: 2017-05-10 11:20:00 Z
-file: 
 testimonial:
   body: "“The Style Adviser service gives our customers exactly what they are looking
     for. We are delighted with the partnership and the results.”"
@@ -9,7 +8,8 @@ testimonial:
     name: Rachel Mallinson
     job-title: CRM Manager
     company: Topshop
-  button: Download Case Study
+  action: Download Case Study
+button: 
 layout: case-study
 ---
 
