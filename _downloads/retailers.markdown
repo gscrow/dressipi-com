@@ -14,4 +14,4 @@ layout: download
 
 ## What if stores can be transformed into a retailer’s biggest asset not their biggest liability?
 
-In this short paper Donna North, co-founder of Dressipi, a leading fashion personalisation provider, argues that contrary to popular opinion, it’s the bricks and mortar retailers who have the advantage.
+In this short paper Donna North, co-founder of Dressipi, argues that contrary to popular opinion, it’s the bricks and mortar retailers who have the advantage.
