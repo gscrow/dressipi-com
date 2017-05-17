@@ -18,18 +18,18 @@ layout: default
       <div class="hero__form">
         <div class="form-download">
           <hgroup class="form-download__heading">
-            <h3>Download Case Study – {{ page.title }}</h3>
+            <h3>{{ page.form.title }}</h3>
           </hgroup>
 
           <form class="form-download__form" method="POST" action="https://formspree.io/xxxxxxx">
             <input type="text" name="_gotcha" style="display: none">
-            <input type="hidden" name="_next" value="{{ page.file }}" />
-            <input type="hidden" name="_subject" value="New case study download" />
+            <input type="hidden" name="_next" value="{{ page.form.file }}" />
+            <input type="hidden" name="_subject" value="New Download – Email submission" />
             <!-- hidden field to be tested -->
-            <input type="hidden" name="page url" value="{{page.url}}" />
+            <input type="hidden" name="page url" value="{{ page.url }}" />
             <input class="form-download__input" type="input" name="name" placeholder="Enter your name">
             <input class="form-download__input" type="email" name="email" placeholder="Enter your work email">
-            <button class="button button--large button-primary form-download__submit" type="submit">{{ page.button | default: 'Download Case Study' }}</button>
+            <button class="button button--large button-primary form-download__submit" type="submit">{{ page.form.button }}</button>
           </form>
         </div>
       </div>
