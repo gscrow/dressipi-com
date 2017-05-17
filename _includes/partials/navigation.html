@@ -8,7 +8,7 @@
     </li>
   {% endif %}
 
-  {% assign entries = site.pages | sort: "path" %}
+  {% assign entries = site.pages | sort: "position" %}
   {% for entry in entries %}
     {% capture slug    %}{{ entry.url | split: "/"   | last                       }}{% endcapture %}
     {% capture current %}{{ entry.url | remove: slug | remove: "//" | append: "/" }}{% endcapture %}
