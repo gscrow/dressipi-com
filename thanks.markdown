@@ -5,6 +5,9 @@ position: 10
 header:
   title: Thank you for submitting!
   subtitle: Your info has been successfully sent.
+  button:
+    copy: Return to our homepage
+    url: "/"
 layout: page
 ---
 
