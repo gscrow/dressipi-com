@@ -4,10 +4,11 @@ date: 2017-05-18 02:24:00 Z
 position: 10
 header:
   title: Thank you for submitting!
-  subtitle: Your info has been successfully sent.
+  body: "### Your info has been successfully sent."
   button:
     copy: Return to our homepage
     url: "/"
+  width: extend
 layout: page
 ---
 
