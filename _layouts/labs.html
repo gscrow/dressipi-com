@@ -18,9 +18,13 @@ layout: default
 		  <div class="project">
 		    <div class="container">
 		    	{% if subsection.image %}
-		      <div class="gutter project__image"><img src="{{ subsection.image }}" class="project__image" /></div>
+		      <div class="gutter project__image">
+						<div><!-- keep flex image ratio -->
+              <img src="{{ subsection.image }}" alt="{{ subsection.title }}" {% if subsection.hres-image %}srcset="{{ subsection.hres-image }} 2x"{% endif %} />
+            </div>
+		      </div>
 		      {% endif %}
-		      <div class="gutter project__copy">
+		      <div class="gutter project__copy{% if subsection.align == 'top' %}--top{% endif %}">
 		        <h2 class="project__title">{{ subsection.title }}</h2>
 		        <div class="project__body">{{ subsection.description | markdownify }}</div>
 		        {% if subsection.action %}<a href="{{ subsection.action.url }}" class="button button-{{ subsection.action.style | default: 'secondary' }}">{{ subsection.action.copy }}</a>{% endif %}
