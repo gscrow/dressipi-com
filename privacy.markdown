@@ -1,7 +1,7 @@
 ---
 title: Dressipi Privacy Policy
 date: 2017-05-06 10:17:00 Z
-position: 9
+position: 8
 navigation: meta
 width: narrow
 layout: page

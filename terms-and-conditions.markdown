@@ -1,7 +1,7 @@
 ---
 title: Terms & Conditions
 date: 2017-05-06 10:17:00 Z
-position: 10
+position: 9
 navigation: meta
 width: narrow
 layout: page
