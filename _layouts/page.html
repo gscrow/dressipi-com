@@ -8,6 +8,22 @@ layout: default
 		<div class="date">
 			<small>This page was last updated at <strong>{{ page.last_modified_at | date: "%Y-%m-%d %H:%M" }}</strong></small>
 		</div>
+	{% else if my_page_url == '404' %}
+  <section class="container--narrow">
+  	<div class="container">
+      {% assign downloads = site.downloads | sort: 'position' %}
+      {% for download in downloads limit:1 %}
+		  <hgroup class="container gutter section__heading">
+	    	<h3>{{ download.testimonial.author.name }}</h3>
+	    	<h4>{{ download.testimonial.author.job-title }}, {{ download.testimonial.author.company }}</h4>
+	  	</hgroup>
+	  	<div>
+	  		<blockquote><p>{{ download.testimonial.body | remove: '“' }}</p></blockquote>
+	  		<p><a href="{{ download.url }}" class="button button-primary">{{ download.testimonial.action }}</a></p>
+	  	</div>
+    </div>
+      {% endfor %}
+	</section>
 	{% endif %}
 	{{ content }}
 </div>
