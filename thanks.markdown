@@ -8,6 +8,7 @@ header:
   button:
     copy: Return to our homepage
     url: "/"
+    style: secondary
   width: extend
 layout: page
 ---
