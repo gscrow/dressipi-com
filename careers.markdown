@@ -1,7 +1,7 @@
 ---
 title: Careers
 date: 2017-05-06 09:50:00 Z
-position: 5
+position: 6
 navigation: footer
 header:
   title: Working at Dressipi
@@ -60,7 +60,9 @@ sections:
   body: 'We are always looking for exceptional candidates who shares our passion for
     one-one personlisation. If you have what it takes, please send your CV and any
     relevant examples of previous work(eg: websites, apps, Stack Overflow or GitHub
-    profile) to [jobs@dressipi.com](mailto:jobs@dressipi.com).'
+    profile) to [jobs@dressipi.com](mailto:jobs@dressipi.com).
+
+'
 layout: careers
 ---
 

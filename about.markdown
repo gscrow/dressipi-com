@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2017-05-06 09:50:00 Z
-position: 4
+position: 5
 navigation: header
 header:
   title: Personalisation is our Passion

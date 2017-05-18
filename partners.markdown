@@ -68,6 +68,7 @@ sections:
   - Wallis
   - JD Williams
   - Very
+  - Evans
 include-form-demo: true
 layout: partners
 ---
