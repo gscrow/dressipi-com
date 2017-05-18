@@ -24,6 +24,21 @@
   ul {
     @extend %list-styled;
   }
+
+  &-list {
+    margin: 0 0 rhythm(3) rhythm(2);
+    padding: 0;
+    list-style-type: none;
+
+    li {
+      line-height: rhythm(3.5);
+      margin: 0 0 rhythm(2) 0;
+
+      > a {
+        color: $link-color;
+      }
+    }
+  }
 }
 
 .column__copy ul {

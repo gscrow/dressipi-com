@@ -38,12 +38,19 @@ layout: default
     {% when 'jobs' %}
     <div class="container--narrow gutter text--center">
       {{ section.body | markdownify }}
-    </div>
-    <div class="jobs">
       {% assign jobs = site.jobs | sort:'position' %}
+      <ul class="job-list">
       {% for job in jobs %}
         {% unless job.is-open == false %}
-          <div class="job">
+          <li><a href="#{{ job.title | downcase | replace: " ", "-" }}" class="anchor-link">{{ job.title }}</a></li>
+        {% endunless %}
+      {% endfor %}
+      </ul>
+    </div>
+    <div class="jobs">
+      {% for job in jobs %}
+        {% unless job.is-open == false %}
+          <div id="{{ job.title | downcase | replace: " ", "-" }}" class="job">
             <div class="container gutter">
               <h2>{{ job.title }}</h2>
               {{ job.content }}
