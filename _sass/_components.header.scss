@@ -46,6 +46,10 @@
 
       font-size: ms(0);
     }
+
+    &-dropdown__menu .navigation__link {
+      display: block;
+    }
   }
 
   &__logo {
