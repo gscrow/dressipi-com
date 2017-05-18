@@ -38,7 +38,7 @@
         {% assign site_clients = site.clients | sort:'position' %}
         {% for client in site_clients %}
           {% if page.header.clients contains client.title %}
-            <li class="gutter client__logo"><a href="{{ client.link }}" target="_blank" title="{{ client.title }}" ><img src="{{ client.image }}" class="" alt="{{ client.title }}" /></a></li>
+            <li class="gutter client__logo"><img src="{{ client.image }}" class="" alt="{{ client.title }}" /></li>
           {% endif %}
         {% endfor %}
         </ul>
