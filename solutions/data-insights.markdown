@@ -11,7 +11,7 @@ header:
   button:
     copy: Book a Demo
     url: "/contact"
-  hero-image: "/uploads/banner_data-insights.png"
+  hero-image: "/uploads/banner_data-insights.jpg"
   color: transparent
 sections:
 - title: Key Features
