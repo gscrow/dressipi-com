@@ -4,11 +4,7 @@ layout: default
 
 {% assign my_page_url = page.url | remove: '/' %}
 <div class="container gutter page-content{% if page.width %}{{ page.width | prepend: '--' }}{% endif %}">
-	{% if my_page_url == 'privacy' %}
-	<div class="date">
-		<small>This page was last updated at <strong>{{ page.last_modified_at | date: "%Y-%m-%d %H:%M" }}</strong></small>
-	</div>
-	{% else if my_page_url == '404' %}
+	{% if my_page_url == '404' %}
   <section class="container--narrow">
   	<div class="container">
       {% assign downloads = site.downloads | sort: 'position' %}
