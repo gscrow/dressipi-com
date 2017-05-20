@@ -7,6 +7,7 @@ width: narrow
 layout: page
 ---
 
+#### This page was last updated at 13 June 2013.
 ## 1. Who operates this website?
 
 This website (**the Website**) is operated by StyleMania Limited, a company registered in England and Wales under registration number 7063626 whose registered office is at StyleMania Ltd, 10th Floor, 20 Eastbourne Terrace, London, W2 6LG, UK, trading as “Dressipi” (**we**, **us** or **Dressipi**).
