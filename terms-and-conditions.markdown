@@ -7,7 +7,7 @@ width: narrow
 layout: page
 ---
 
-#### This page was last updated at 13 June 2013.
+#### Dated 13 June 2013.
 
 ## 1. Who operates this website?
 
