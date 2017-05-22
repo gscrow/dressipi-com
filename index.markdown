@@ -79,6 +79,7 @@ sections:
   - JD Williams
   - Very
   - Evans
+  - Autograph
 include-form-demo: true
 layout: index
 ---
