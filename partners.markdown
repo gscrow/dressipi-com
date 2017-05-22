@@ -21,6 +21,7 @@ header:
   - Nike
   - JD Williams
   - Evans
+  - Autograph
 sections:
 - title: Case Study
   subtitle: The following case study outlines the impact Dressipi has had on some
