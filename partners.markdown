@@ -58,7 +58,7 @@ sections:
     image: "/uploads/partners_personalise.png"
     hres-image: "/uploads/partners_personalise@2x.png"
 - title: Explore More
-  body: Try it for yourself by clicking the links below, or visit our How it Works
+  body: Try it for yourself by clicking the links below, or visit our [How it Works](/how-it-works)
     page to find out more about how to integrate this technology into your own site.
   handle: call-to-action
   clients:
