@@ -3,6 +3,7 @@
     @include flexbox;
     @include flex-wrap(wrap);
     @include justify-content(center);
+    @include align-items(center);
   }
 
   &__logo {
