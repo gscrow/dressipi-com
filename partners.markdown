@@ -46,7 +46,7 @@ sections:
       already created a profile elsewhere, they can connect to an existing one.
     action:
       copy: Learn More
-      url: 
+      url: "/how-it-works"
     image: "/uploads/partners_profile.png"
     hres-image: "/uploads/partners_profile@2x.png"
   - title: Personalised Recommendations
