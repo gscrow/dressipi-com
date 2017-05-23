@@ -15,11 +15,11 @@ layout: default
   <div class="section__body">
 		{% case handle %}
 		{% when 'steps' %}
-		<div class="container benefits {% if section.is-centered %}text--center{% endif %}">
+		<div class="container benefits">
 		  {% for subsection in section.subsections %}
-		  <div class="gutter benefit text--center">
+		  <div class="gutter benefit">
 		    <div class="benefit__image"><img src="{{ subsection.image }}" /></div>
-		    <h3 class="benefit__title">{{ subsection.title }}</h3>
+		    <h3 class="benefit__title text--center">{{ subsection.title }}</h3>
 		    {% if subsection.body %}
 		    <div class="benefit__body">
 		    	{{ subsection.body | markdownify }}
@@ -28,18 +28,11 @@ layout: default
 		  </div>
 		  {% endfor %}
 		</div>
-		{% when 'features' %}
-		<div class="features">
+		{% when 'implementation' %}
+		<div class="implementation">
 		  {% for subsection in section.subsections %}
 		  <div class="feature">
 		    <div class="container">
-		      {% if subsection.image %}
-		      <div class="gutter feature__image">
-		      	<div> <!-- keep flex image ratio -->
-		      		<img src="{{ subsection.image }}" alt="{{ subsection.title }}" {% if subsection.hres-image %}srcset="{{ subsection.hres-image }} 2x"{% endif %} class="feature__image"  />
-		      	</div>
-		      </div>
-		      {% endif %}
 		      <div class="gutter feature__copy{% if subsection.align == 'top' %}--top{% endif %}">
 		        <h2 class="feature__title">{{ subsection.title }}</h2>
 		        <div class="feature__body">{{ subsection.body | markdownify }}</div>
