@@ -4,10 +4,10 @@ date: 2017-05-18 09:56:00 Z
 position: 2
 navigation: footer
 header:
-  body: "### Ensure your business is a market leader in customer service, loyalty
-    and acquisition. Dressipi's machine learning technology enables you to provide
-    the most effective personalisation to each individual customer, throughout their
-    entire shopping journey."
+  title: Dressipi Personalisation
+  body: "### Our one-to-one personalisation solutions are truly unique. We provide
+    personalised recommendations for all customers regardless of whether they have
+    a profit or not."
   button:
     copy: Book a Demo
     url: "/contact"
