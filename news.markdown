@@ -47,7 +47,7 @@ sections:
       A Killer Experience - Finalist
 
       Best Tech - Finalist
-  - image: 
+  - image: "/uploads/award__every-woman.png"
     title: Entrepreneur Award (Sarah McVittie & Donna North - Winners)
   - image: 
     title: The Rodney Fitch Award for Innovation & Creativity - Finalist
