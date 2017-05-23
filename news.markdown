@@ -49,7 +49,7 @@ sections:
       Best Tech - Finalist
   - image: "/uploads/award__every-woman.png"
     title: Entrepreneur Award (Sarah McVittie & Donna North - Winners)
-  - image: 
+  - image: "/uploads/award__world-retail-2017.png"
     title: The Rodney Fitch Award for Innovation & Creativity - Finalist
 layout: news
 ---
