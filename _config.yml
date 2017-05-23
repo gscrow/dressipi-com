@@ -81,7 +81,7 @@ social:
     link: https://www.linkedin.com/company/dressipi
   - name: Pinterest
     link: https://www.pinterest.com/dressipi
-gtm-code: 
+gtm-code: GTM-TRK2KPX
 permalink: pretty
 exclude:
 - Gemfile
