@@ -14,6 +14,23 @@ header:
   hero-image: "/uploads/banner_recommendations.jpg"
   color: "#F0F0F0"
 sections:
+- title: How it Works
+  handle: benefits
+  subsections:
+  - title: Proven Results
+    body: Increases net incremental revenue per customer by 3-5% whilst also increasing
+      AOV and frequency of purchase.
+    image: "/uploads/icon__report-increase.svg"
+  - title: Customer Centric
+    body: Dressipi aims to solve customer's problems by putting customer needs at
+      the heart in order to deliver a truly personalised experience that delivers
+      great results.
+    image: "/uploads/icon__customer-centric.svg"
+  - title: Data Driven
+    body: Our unique approach combines data captured on the customer as well as on
+      each individual garment. This information is crucial to providing true personalisation,
+      and can be fed back to retailers to help them optimise key metrics.
+    image: "/uploads/icon__data-driven.svg"
 - title: Key Features
   handle: features
   color: light-grey
@@ -51,23 +68,6 @@ sections:
       Amiya, our Style Bot is on hand to answer individual customer questions such
       as “I'm going to a smart, city wedding, what should I wear?”
     image: "/uploads/recommendations_style-bot.png"
-- title: How it Works
-  handle: benefits
-  subsections:
-  - title: Proven Results
-    body: Increases net incremental revenue per customer by 3-5% whilst also increasing
-      AOV and frequency of purchase.
-    image: "/uploads/icon__report-increase.svg"
-  - title: Customer Centric
-    body: Dressipi aims to solve customer's problems by putting customer needs at
-      the heart in order to deliver a truly personalised experience that delivers
-      great results.
-    image: "/uploads/icon__customer-centric.svg"
-  - title: Data Driven
-    body: Our unique approach combines data captured on the customer as well as on
-      each individual garment. This information is crucial to providing true personalisation,
-      and can be fed back to retailers to help them optimise key metrics.
-    image: "/uploads/icon__data-driven.svg"
 - title: Case Study
   handle: cases
   downloads:
