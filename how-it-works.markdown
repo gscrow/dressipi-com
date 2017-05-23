@@ -15,7 +15,7 @@ header:
   color: "#F0F0F0"
 sections:
 - title: How it Works
-  handle: benefits
+  handle: steps
   subsections:
   - title: Understand each customer intimately
     image: "/uploads/icon__report-increase.svg"
@@ -47,6 +47,6 @@ sections:
   downloads:
   - Shop Direct
 include-form-demo: true
-layout: product
+layout: how-it-works
 ---
 
