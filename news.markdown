@@ -20,12 +20,12 @@ publications:
     offline shopping”"
   image: "/uploads/logo__the-memo.png"
 - title: "“One of the hottest 50 UK tech startups”"
-  image: 
+  image: "/uploads/logo__city-am.svg"
 - title: "“Online Fashion-Advice Startup Dressipi Woos E-Commerce Clients”"
-  image: 
+  image: "/uploads/logo__the-wall-street-journal.svg"
 - title: "“The customer engagement is so strong that by solving the consumer’s problems
     by default it helps the retailer”"
-  image: 
+  image: "/uploads/logo__retail-insider.jpg"
 sections:
 - title: Award Winning Platform
   subtitle: 
