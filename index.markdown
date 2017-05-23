@@ -12,7 +12,7 @@ header:
   link:
     copy: Discover our Solutions
     url: "#features"
-  hero-image: "/uploads/banner_home.jpg"
+  hero-image: "/uploads/banner__home.jpg"
 sections:
 - title: Results
   subtitle: What You Can Expect
