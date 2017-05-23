@@ -18,14 +18,14 @@ sections:
   handle: steps
   subsections:
   - title: Understand each customer intimately
-    image: 
-    hres-image: 
+    image: "/uploads/how_understand-the-who.png"
+    hres-image: "/uploads/how_understand-the-who@2x.png"
   - title: Use data to offer the best product and outfit recommendations
     image: "/uploads/how_use-data.png"
     hres-image: "/uploads/how_use-data@2x.png"
   - title: Understand the who what and why behind key metrics
     image: "/uploads/home_data-insights.png"
-    hres-image: 
+    hres-image: "/uploads/home_data-insights@2x.png"
 - title: Easy to Implement
   handle: implementation
   color: light-grey
