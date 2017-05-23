@@ -3,3 +3,61 @@
   border-top: none;
   padding-top: 0;
 }
+
+.publication {
+  &__list {
+    @include flexbox;
+    @include flex-wrap(wrap);
+    @include justify-content(center);
+    @include align-items(stretch);
+  }
+
+  &__wrap {
+    width: calc-columns-width(3);
+    margin-right: $gutter-width / 2;
+    margin-bottom: rhythm(3);
+    margin-left: $gutter-width / 2;
+    border: solid 1px $border-color;
+    border-radius: $border-radius--base;
+    background: white;
+  }
+
+  &__item {
+    text-align: center;
+    padding: rhythm(3);
+  }
+
+  &__body {
+    > p {
+      font-style: italic;
+      margin: 0;
+    }
+  }
+
+  &__image {
+    margin-top: rhythm(3);
+  }
+}
+
+.award {
+  &__list {
+    @include flexbox;
+    @include flex-wrap(wrap);
+    @include justify-content(center);
+    @include align-items(stretch);
+  }
+
+  &__item {
+    width: calc-columns-width(3);
+    margin-right: $gutter-width / 2;
+    margin-bottom: rhythm(3);
+    margin-left: $gutter-width / 2;
+    text-align: center;
+  }
+
+  &__body {
+    > p {
+      margin-bottom: rhythm(0);
+    }
+  }
+}
