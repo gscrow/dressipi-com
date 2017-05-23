@@ -24,7 +24,7 @@ sections:
   - title: Understand the who what and why behind key metrics
     image: "/uploads/labs_predictive-retailing.png"
 - title: Easy to Implement
-  handle: features
+  handle: implementation
   color: light-grey
   subsections:
   - title: Products
