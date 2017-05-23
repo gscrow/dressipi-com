@@ -19,10 +19,13 @@ sections:
   subsections:
   - title: Understand each customer intimately
     image: 
+    hres-image: 
   - title: Use data to offer the best product and outfit recommendations
-    image: 
+    image: "/uploads/how_use-data.png"
+    hres-image: "/uploads/how_use-data@2x.png"
   - title: Understand the who what and why behind key metrics
     image: "/uploads/home_data-insights.png"
+    hres-image: 
 - title: Easy to Implement
   handle: implementation
   color: light-grey
