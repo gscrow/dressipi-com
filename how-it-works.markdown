@@ -18,21 +18,21 @@ sections:
   handle: steps
   subsections:
   - title: Understand each customer intimately
-    image: "/uploads/icon__report-increase.svg"
+    image: 
   - title: Use data to offer the best product and outfit recommendations
-    image: "/uploads/icon__customer-centric.svg"
+    image: 
   - title: Understand the who what and why behind key metrics
     image: "/uploads/labs_predictive-retailing.png"
 - title: Easy to Implement
-  handle: implementation
+  handle: features
   color: light-grey
   subsections:
-  - title: You Provide
+  - title: Products
     body: Every product recommendation presented matches your customer’s preferences
       as if curated by their own personal stylist. Our algorithms consider multiple
       data points including preferences, context, intent, activity and trend sentiment.
     image: "/uploads/recommendations_products.png"
-  - title: We Deliver
+  - title: Outfits
     body: Inspire customers by showing how to style items for different occasions
       with new products or ones they already own. Outfits give customers the confidence
       in seeing the versatility of a garment.
