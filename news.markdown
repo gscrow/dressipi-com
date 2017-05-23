@@ -32,21 +32,23 @@ sections:
   handle: awards
   awards:
   - image: 
-    body: Best Customer Experience - Finalist
+    title: Best Customer Experience - Finalist
   - image: 
-    body: |-
-      Best Customer Experience- Finalist
+    title: |-
+      Best Customer Experience - Finalist
 
-      Best Tech- Finalist
+      Best Tech - Finalist
   - image: 
-    body: Best use of Technology for Personalisation-Winner
+    title: Best use of Technology for Personalisation-Winner
   - image: 
-    body: The Service Award - Finalist
+    title: The Service Award - Finalist
   - image: 
-    body: |-
+    title: |-
       A Killer Experience - Finalist
 
       Best Tech - Finalist
+  - image: 
+    title: Entrepreneur Award (Sarah McVittie & Donna North - Winners)
 layout: news
 ---
 
