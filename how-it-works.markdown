@@ -29,7 +29,8 @@ sections:
 - title: Easy to Implement
   handle: implementation
   color: light-grey
-  body: Getting our technology up and running couldn't be easier. It takes 6-8 weeks to implement the Dressipi service.
+  body: Getting our technology up and running couldn't be easier. It takes 6-8 weeks
+    to implement the Dressipi service.
   subsections:
   - title: You Provide
     body: |
