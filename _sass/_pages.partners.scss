@@ -11,3 +11,9 @@
 .cases__list {
 	margin-top: rhythm(8);
 }
+
+@include responsive(mobile) {
+	.hero-partners .client__logos {
+		margin: rhythm(4) 0;
+	}
+}

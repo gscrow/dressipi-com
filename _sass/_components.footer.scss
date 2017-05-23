@@ -74,6 +74,8 @@
 // tablet responsive styles
 @include responsive(tablet) {
   .site-footer {
+    padding: rhythm(8) 0;
+
     > .container {
       flex-wrap: wrap;
     }
@@ -89,6 +91,7 @@
 @include responsive(mobile) {
   .site-footer {
     text-align: center;
+    padding: rhythm(5) 0;
 
     &__cols {
       flex-wrap: wrap;

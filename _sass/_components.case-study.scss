@@ -56,3 +56,27 @@
     }
   }
 }
+
+@include responsive(tablet) {
+  .case-study {
+    &__wrap {
+      margin-right: $tablet-gutter-width / 2;
+      margin-left: $tablet-gutter-width / 2;
+    }
+  }
+}
+
+@include responsive(mobile) {
+  .case-study {
+    max-width: 100%;
+
+    &__wrap {
+      margin-right: $mobile-gutter-width / 2;
+      margin-left: $mobile-gutter-width / 2;
+    }
+
+    &__image {
+      max-height: 100%;
+    }
+  }
+}

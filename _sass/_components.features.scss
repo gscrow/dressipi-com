@@ -51,18 +51,31 @@
 // tablet responsive styles
 @include responsive(tablet) {
   .feature {
+    padding: rhythm(8) 0;
+
     > .container {
       flex-wrap: wrap;
     }
 
     &__image {
       flex-basis: 100%;
-      order: 1;
+      order: -1;
+      margin-bottom: rhythm(2);
     }
 
     &__copy {
       flex-basis: 100%;
       order: 2;
     }
+  }
+
+  .feature:nth-child(2n) .feature__image {
+    order: 1;
+  }
+}
+
+@include responsive(mobile) {
+  .feature {
+    padding: rhythm(5) 0;
   }
 }
