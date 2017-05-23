@@ -18,7 +18,7 @@ publications:
   image: "/uploads/logo__retailweek.svg"
 - title: "“It’s a pretty ground-breaking idea, bridging the gap between online and
     offline shopping”"
-  image: 
+  image: "/uploads/logo__the-memo.png"
 - title: "“One of the hottest 50 UK tech startups”"
   image: 
 - title: "“Online Fashion-Advice Startup Dressipi Woos E-Commerce Clients”"
