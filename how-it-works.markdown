@@ -23,7 +23,7 @@ sections:
     image: "/uploads/icon__customer-centric.svg"
   - title: Understand the who what and why behind key metrics
     image: "/uploads/icon__data-driven.svg"
-- title: Key Features
+- title: Easy to Implement
   handle: features
   color: light-grey
   subsections:
