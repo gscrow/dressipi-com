@@ -14,7 +14,7 @@ layout: default
 				{% if publication.image %}
 				<div class="publication__logo">
 					<div><!-- keep flex image ratio -->
-					{% if publication.url %}<a href="{{ publication.url }}">{% endif %}<img src="{{ publication.image }}" alt="{{ publication.title }}" />{% if publication.url %}</a>{% endif %}
+					{% if publication.url %}<a href="{{ publication.url }}" target="_blank">{% endif %}<img src="{{ publication.image }}" alt="{{ publication.title }}" />{% if publication.url %}</a>{% endif %}
 					</div>
 				</div>
 				{% endif %}

@@ -55,7 +55,7 @@
   &__item {
     width: calc-columns-width(3);
     margin-right: $gutter-width / 2;
-    margin-bottom: rhythm(3);
+    margin-bottom: rhythm(8);
     margin-left: $gutter-width / 2;
     text-align: center;
   }
@@ -64,5 +64,9 @@
     > p {
       margin-bottom: rhythm(0);
     }
+  }
+
+  &__image {
+    min-height: 120px;
   }
 }
