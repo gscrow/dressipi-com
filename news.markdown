@@ -42,6 +42,11 @@ sections:
     body: Best use of Technology for Personalisation-Winner
   - image: 
     body: The Service Award - Finalist
+  - image: 
+    body: |-
+      A Killer Experience- Finalist
+
+      Best Tech- Finalist
 layout: news
 ---
 
