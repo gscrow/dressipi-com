@@ -29,18 +29,18 @@ layout: default
 		  {% endfor %}
 		</div>
 		{% when 'implementation' %}
-		<div class="implementation">
-		  {% for subsection in section.subsections %}
-		  <div class="feature">
-		    <div class="container">
-		      <div class="gutter feature__copy{% if subsection.align == 'top' %}--top{% endif %}">
-		        <h2 class="feature__title">{{ subsection.title }}</h2>
-		        <div class="feature__body">{{ subsection.body | markdownify }}</div>
-		        {% if subsection.action %}<a href="{{ subsection.action.url }}" class="button button-{{ subsection.action.style | default: 'secondary' }}">{{ subsection.action.copy }}</a>{% endif %}
+		<div class="container">
+			<p class="text--center">{{ section.body }}</p>
+			<div class="implementation__list">
+				{% for subsection in section.subsections %}
+			  <div class="gutter implementation">
+		      <div class="implementation__copy">
+		        <h3 class="implementation__title">{{ subsection.title }}</h3>
+		        <div class="implementation__body">{{ subsection.body | markdownify }}</div>
 		      </div>
-		    </div>
-		  </div>
-		  {% endfor %}
+			  </div>
+			 	{% endfor %}
+		 	</div>
 		</div>
 		{% when 'cases' %}
 		<div class="container">

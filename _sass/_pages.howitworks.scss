@@ -1,0 +1,17 @@
+.implementation {
+	width: calc-columns-width(4);
+
+	&__list {
+    @include flexbox;
+    @include flex-wrap(wrap);
+    @include justify-content(center);
+    margin-top: rhythm(8);
+	}
+
+	&__copy {
+		ul {
+			margin-top: rhythm(3);
+			@extend %list-styled;
+		}
+	}
+}
