@@ -156,8 +156,10 @@
     position: relative;
     background-position: center !important;
     background-size: cover !important;
+    padding-top: rhythm(10);
+    padding-bottom: rhythm(10);
 
-    &::before {
+    &--mobile::before {
       position: absolute;
       z-index: 1;
       top: 0;
@@ -165,7 +167,7 @@
       bottom: 0;
       left: 0;
       content: '';
-      background: $header-hero-mask-color;
+      background: $header-hero-mask-color !important;
     }
 
     &__content {
@@ -342,7 +344,7 @@
   }
 
   .hero {
-    padding-top: rhythm(10);
-    padding-bottom: rhythm(12);
+    padding-top: rhythm(8);
+    padding-bottom: rhythm(9);
   }
 }
