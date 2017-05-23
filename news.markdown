@@ -31,7 +31,7 @@ publications:
 - title: "“The customer engagement is so strong that by solving the consumer’s problems
     by default it helps the retailer”"
   image: "/uploads/logo__retail-insider.jpg"
-  url:
+  url: 
 sections:
 - title: Award Winning Platform
   subtitle: 
