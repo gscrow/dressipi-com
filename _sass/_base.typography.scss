@@ -110,3 +110,21 @@ blockquote {
     }
   }
 }
+
+@include responsive(tablet) {
+  blockquote {
+    p {
+      font-size: ms(2);
+      line-height: rhythm(4.5);
+    }
+  }
+}
+
+@include responsive(mobile) {
+  blockquote {
+    p {
+      font-size: ms(1);
+      line-height: rhythm(4);
+    }
+  }
+}

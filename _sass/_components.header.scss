@@ -153,34 +153,6 @@
   }
 }
 
-// tablet responsive styles
-@include responsive(tablet) {
-  .hero {
-    position: relative;
-    background-position: center !important;
-    background-size: cover !important;
-    padding-top: rhythm(10);
-    padding-bottom: rhythm(10);
-
-    &--mobile::before {
-      position: absolute;
-      z-index: 1;
-      top: 0;
-      right: 0;
-      bottom: 0;
-      left: 0;
-      content: '';
-      background: $header-hero-mask-color !important;
-    }
-
-    &__content {
-      position: relative;
-      z-index: 2;
-    }
-  }
-}
-
-
 @media (min-width: 1001px) {
   .navigation-dropdown {
     position: relative;
@@ -346,6 +318,33 @@
   }
 }
 
+// tablet responsive styles
+@include responsive(tablet) {
+  .hero {
+    position: relative;
+    background-position: center !important;
+    background-size: cover !important;
+    padding-top: rhythm(10);
+    padding-bottom: rhythm(10);
+
+    &--mobile::before {
+      position: absolute;
+      z-index: 1;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      content: '';
+      background: $header-hero-mask-color !important;
+    }
+
+    &__content {
+      position: relative;
+      z-index: 2;
+    }
+  }
+}
+
 // mobile responsive styles
 @include responsive(mobile) {
   .header {
@@ -373,8 +372,10 @@
   .hero {
     padding-top: rhythm(4);
     padding-bottom: rhythm(5);
+    background: $header-hero-background-color !important;
 
     &__content {
+      text-align: center;
       width: 100%;
     }
   }

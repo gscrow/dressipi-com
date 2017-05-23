@@ -70,8 +70,11 @@
     padding-left: $tablet-gutter-width / 2;
   }
 
-  .column {
-    flex-basis: 100% !important;
+  .multi-columns {
+    .column {
+      flex-basis: 100% !important;
+      margin-bottom: rhythm(3);
+    }
   }
 }
 

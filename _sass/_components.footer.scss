@@ -84,6 +84,10 @@
     &__nav {
       flex-basis: 100%;
     }
+
+    &__copyright {
+      margin-top: rhythm(8);
+    }
   }
 }
 
@@ -101,13 +105,17 @@
       flex-basis: 100%;
 
       &-title {
-        margin-top: rhythm(5);
+        margin-top: rhythm(3);
 
         &::after {
           right: 0;
           margin: auto;
         }
       }
+    }
+
+    &__copyright {
+      margin-top: rhythm(5);
     }
   }
 }

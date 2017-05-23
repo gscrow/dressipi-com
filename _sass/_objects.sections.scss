@@ -35,6 +35,10 @@
 @include responsive(tablet) {
   .section {
     padding: rhythm(8) 0;
+
+    &__heading {
+      margin-bottom: rhythm(5);
+    }
   }
 }
 
@@ -42,14 +46,14 @@
   .section {
     padding: rhythm(5) 0;
 
-    &__heading {
-      margin-bottom: rhythm(5);
-    }
-
     &__footer {
       .button {
         width: 100%;
       }
+    }
+
+    &-features, &-projects, &-jobs {
+      padding-bottom: 0;
     }
   }
 }
