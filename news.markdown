@@ -10,7 +10,7 @@ header:
   width: extend
 publications:
 - title: "“Fashion turns to data analytics to cut number of returned items”"
-  image: 
+  image: "/uploads/logo_financial-times.jpg"
 - title: "“One of Britain’s top tech firms growing 1,000pc a year”"
   image: 
 - title: "“Marks & Spencer, Shop Direct and others team up to trial personalisation
