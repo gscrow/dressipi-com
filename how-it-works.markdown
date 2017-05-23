@@ -27,21 +27,24 @@ sections:
   handle: implementation
   color: light-grey
   subsections:
-  - title: Products
-    body: Every product recommendation presented matches your customer’s preferences
-      as if curated by their own personal stylist. Our algorithms consider multiple
-      data points including preferences, context, intent, activity and trend sentiment.
-    image: "/uploads/recommendations_products.png"
-  - title: Outfits
-    body: Inspire customers by showing how to style items for different occasions
-      with new products or ones they already own. Outfits give customers the confidence
-      in seeing the versatility of a garment.
+  - title: You Provide
+    body: |
+      - Creative look and feel
+      - Transactions data feed
+      - Product data feed
+      - Hosting the iframe
+      - Dressipi javascript tags to be added to pages
+  - title: 'We Deliver '
+    body: |-
+      - All garment tagging and metadata
+      - Partner design kit
+      - Build and implementation of hub
+      - Build and implementation of javascript tag
+      - Extensive reporting
+      - Continual recommendations/algorithm updates
+      - Weekly content for personalised emails and communication
+      - Service emails
     image: "/uploads/recommendations_outfits.png"
-  - title: Sizing
-    body: Recommend the best size for your customer. Give them extra confidence to
-      add an item to their basket and reduce the likelihood of them having to make
-      a return.
-    image: "/uploads/recommendations_sizing.png"
 - title: Case Study
   handle: cases
   downloads:
