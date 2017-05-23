@@ -22,7 +22,7 @@ sections:
   - title: Use data to offer the best product and outfit recommendations
     image: "/uploads/icon__customer-centric.svg"
   - title: Understand the who what and why behind key metrics
-    image: "/uploads/icon__data-driven.svg"
+    image: "/uploads/labs_predictive-retailing.png"
 - title: Easy to Implement
   handle: features
   color: light-grey
