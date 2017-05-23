@@ -2,6 +2,21 @@
 layout: default
 ---
 
+<section class="section section-publications">
+	<ul class="publication__list container">
+	{% for publication in page.publications %}
+		<li class="gutter publication">
+			<div class="publication__body">
+				<p>{{ publication.title }}</p>
+			</div>
+			<div class="publication__logo">
+				<img src="{{ publication.image }}" alt="" />
+			</div>
+		</li>
+	{% endfor %}
+	</ul>
+</section>
+
 {% for section in page.sections %}
 {% assign handle = section.handle %}
 <section class="section {% if handle %}{{ section.handle | prepend: 'section-' | append: ' ' }}{% endif %}background--{{ section.color | default:'white' }}">
@@ -13,7 +28,7 @@ layout: default
 
 	<!-- section content group -->
   <div class="section__body">
-		<div class="projects">
+		<div class="publications">
 		  {% for subsection in section.subsections %}
 		  <div class="project">
 		    <div class="container">
