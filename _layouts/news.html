@@ -5,8 +5,7 @@ layout: default
 <!-- show publications in header -->
 <section class="section section-publications">
 	<ul class="publication__list container">
-	{% assign publications = page.publications | sort: 'position' %}
-	{% for publication in publications %}
+	{% for publication in page.publications %}
 		<li class="publication__wrap">
 			<div class="publication__item">
 				<div class="publication__body">
@@ -15,7 +14,7 @@ layout: default
 				{% if publication.image %}
 				<div class="publication__logo">
 					<div><!-- keep flex image ratio -->
-					<img src="{{ publication.image }}" alt="{{ publication.title }}" />
+					{% if publication.url %}<a href="{{ publication.url }}">{% endif %}<img src="{{ publication.image }}" alt="{{ publication.title }}" />{% if publication.url %}</a>{% endif %}
 					</div>
 				</div>
 				{% endif %}
