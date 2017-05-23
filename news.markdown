@@ -44,9 +44,9 @@ sections:
     body: The Service Award - Finalist
   - image: 
     body: |-
-      A Killer Experience- Finalist
+      A Killer Experience - Finalist
 
-      Best Tech- Finalist
+      Best Tech - Finalist
 layout: news
 ---
 
