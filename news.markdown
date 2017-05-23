@@ -30,6 +30,18 @@ sections:
 - title: Award Winning Platform
   subtitle: 
   handle: awards
+  awards:
+  - image: 
+    body: Best Customer Experience - Finalist
+  - image: 
+    body: |-
+      Best Customer Experience- Finalist
+
+      Best Tech- Finalist
+  - image: 
+    body: Best use of Technology for Personalisation-Winner
+  - image: 
+    body: The Service Award - Finalist
 layout: news
 ---
 
