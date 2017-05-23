@@ -25,17 +25,22 @@
   &__item {
     text-align: center;
     padding: rhythm(3);
+    display: flex;
+    flex-direction: column;
+    height: 100%;
   }
 
   &__body {
+    flex: 1;
+
     > p {
       font-style: italic;
       margin: 0;
     }
   }
 
-  &__image {
-    margin-top: rhythm(3);
+  &__logo {
+    margin-top: rhythm(4);
   }
 }
 

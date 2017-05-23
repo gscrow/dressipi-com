@@ -5,7 +5,7 @@ layout: default
 <!-- show publications in header -->
 <section class="section section-publications">
 	<ul class="publication__list container">
-	{% assign publications = page.publications | sort:'position' %}
+	{% assign publications = page.publications | sort: 'position' %}
 	{% for publication in publications %}
 		<li class="publication__wrap">
 			<div class="publication__item">
