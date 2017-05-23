@@ -16,8 +16,8 @@ publications:
 - title: Marks & Spencer, Shop Direct and others team up to trial personalisation
     technology
   image: 
-- title: It’s a pretty ground-breaking idea, bridging the gap between online and
-    offline shopping
+- title: It’s a pretty ground-breaking idea, bridging the gap between online and offline
+    shopping
   image: 
 - title: One of the hottest 50 UK tech startups
   image: 
