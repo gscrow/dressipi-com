@@ -18,7 +18,9 @@ layout: default
 		<div class="container benefits">
 		  {% for subsection in section.subsections %}
 		  <div class="gutter benefit">
-		    <div class="benefit__image"><img src="{{ subsection.image }}" /></div>
+		    <div class="benefit__image">
+		    	<img src="{{ subsection.image }}" alt="{{ subsection.title }}" {% if subsection.hres-image %}srcset="{{ subsection.hres-image }} 2x"{% endif %} />
+		    </div>
 		    <h3 class="benefit__title text--center">{{ subsection.title }}</h3>
 		    {% if subsection.body %}
 		    <div class="benefit__body">
