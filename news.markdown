@@ -38,11 +38,11 @@ sections:
       Best Customer Experience - Finalist
 
       Best Tech - Finalist
-  - image: 
+  - image: "/uploads/award__retail-system-awards.png"
     title: Best use of Technology for Personalisation-Winner
-  - image: 
+  - image: "/uploads/award__internet-retailing-2015.png"
     title: The Service Award - Finalist
-  - image: 
+  - image: "/uploads/award__decoded-fashion.png"
     title: |-
       A Killer Experience - Finalist
 
