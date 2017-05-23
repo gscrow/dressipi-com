@@ -332,6 +332,9 @@
       }
     }
   }
+  .hero__content {
+    max-width: calc-columns-width(4);
+  }
 }
 
 // mobile responsive styles
