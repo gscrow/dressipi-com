@@ -11,7 +11,7 @@ header:
   button:
     copy: Book a Demo
     url: "/contact"
-  hero-image: "/uploads/banner_recommendations.jpg"
+  hero-image: "/uploads/banner__how-it-works.jpg"
   color: "#F0F0F0"
 sections:
 - title: How it Works
