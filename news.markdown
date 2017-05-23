@@ -15,7 +15,7 @@ publications:
   image: "/uploads/logo__the-telegraph.svg"
 - title: "“Marks & Spencer, Shop Direct and others team up to trial personalisation
     technology”"
-  image: 
+  image: "/uploads/logo__retailweek.svg"
 - title: "“It’s a pretty ground-breaking idea, bridging the gap between online and
     offline shopping”"
   image: 
