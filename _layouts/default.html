@@ -16,10 +16,10 @@
 
   <!-- include content -->
   <main role="main">
-    {{ content }}
-    {% if page.include-form-demo %}
-      {% include partials/form-demo.html %}
-    {% endif %}
+  {{ content }}
+  {% if page.include-form-demo %}
+  {% include partials/form-demo.html %}
+  {% endif %}
   </main>
 
   {% unless page.layout == 'case-study' %}
