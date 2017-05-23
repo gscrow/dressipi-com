@@ -22,7 +22,7 @@ sections:
   - title: Use data to offer the best product and outfit recommendations
     image: 
   - title: Understand the who what and why behind key metrics
-    image: "/uploads/labs_predictive-retailing.png"
+    image: "/uploads/home_data-insights.png"
 - title: Easy to Implement
   handle: implementation
   color: light-grey
