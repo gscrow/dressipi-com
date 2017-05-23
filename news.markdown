@@ -33,7 +33,7 @@ sections:
   awards:
   - image: "/uploads/award__retailweek.png"
     title: Best Customer Experience - Finalist
-  - image: 
+  - image: "/uploads/award__digital-awards.png"
     title: |-
       Best Customer Experience - Finalist
 
