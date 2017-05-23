@@ -42,24 +42,6 @@ sections:
       add an item to their basket and reduce the likelihood of them having to make
       a return.
     image: "/uploads/recommendations_sizing.png"
-  - title: Listing & Category Pages
-    body: Eliminate the hassle of lengthy scrolling. Show a personalised listing for
-      each customer so they can immediately find what they are most likely to buy.
-    image: "/uploads/recommendations_listing.png"
-  - title: Emails & Notifications
-    body: Keep your customer up to date with timely prompts and notifications completely
-      personalised to each customer. Bespoke weekly emails consistently increase retention
-      and engagement.
-    image: "/uploads/recommendations_email.png"
-  - title: Landing & Content Pages
-    body: Match any keyword or promotional theme to create a personalised alternative
-      for every campaign.
-    image: "/uploads/recommendations_landing.png"
-  - title: Style Bot
-    body: The future of search and the first step towards voice based recommendations.
-      Amiya, our Style Bot is on hand to answer individual customer questions such
-      as “I'm going to a smart, city wedding, what should I wear?”
-    image: "/uploads/recommendations_style-bot.png"
 - title: Case Study
   handle: cases
   downloads:
