@@ -7,7 +7,7 @@ header:
   title: Dressipi Personalisation
   body: "### Our one-to-one personalisation solutions are truly unique. We provide
     personalised recommendations for all customers regardless of whether they have
-    a profit or not."
+    a profile or not."
   button:
     copy: Book a Demo
     url: "/contact"
