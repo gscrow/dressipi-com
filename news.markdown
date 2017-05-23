@@ -6,7 +6,8 @@ navigation: footer
 exclude-hero: true
 sections:
 - title: Dressipi in the Media
-  subtitle: 
+  subtitle: The following represents some of the publications and websites that have
+    covered our innovative solutions in recent years
   handle: publications
 - title: Award Winning Platform
   subtitle: 
