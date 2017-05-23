@@ -9,7 +9,7 @@ header:
   button:
     copy: Book a Demo
     url: "/contact"
-  hero-image: "/uploads/banner_recommendations.jpg"
+  hero-image: "/uploads/banner_style-hub.jpg"
   color: "#F0F0F0"
 sections:
 - title: Key Features
