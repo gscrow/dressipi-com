@@ -4,6 +4,9 @@ date: 2017-05-06 10:17:00 Z
 position: 9
 navigation: meta
 width: narrow
+header:
+  width: extend
+  height: tight
 layout: page
 ---
 

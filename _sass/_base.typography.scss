@@ -127,4 +127,17 @@ blockquote {
       line-height: rhythm(4);
     }
   }
+
+  h1 {
+    line-height: rhythm(6);
+  }
+
+  h2 {
+    line-height: rhythm(3.5);
+  }
+
+  h3 {
+    font-size: ms(2);
+    line-height: rhythm(3);
+  }
 }

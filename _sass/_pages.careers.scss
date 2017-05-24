@@ -21,6 +21,10 @@
     margin-top: rhythm(5);
   }
 
+  p:last-child {
+    margin-bottom: 0;
+  }
+
   ul {
     @extend %list-styled;
   }
@@ -43,4 +47,20 @@
 
 .column__copy ul {
   @extend %list-styled;
+}
+
+@include responsive(tablet) {
+  .job {
+    padding: rhythm(8) 0;
+  }
+}
+
+@include responsive(mobile) {
+  .job {
+    padding: rhythm(5) 0;
+
+    h3 {
+      margin-top: rhythm(3);
+    }
+  }
 }

@@ -1,30 +1,43 @@
 .hero-case-study {
 	padding: rhythm(12) 0;
 
-	.hero__content {
-		> h1 {
-			font-size: ms(6);
-			line-height: rhythm(6);
-			margin: 0 0 rhythm(1) 0;
-		}
+	> .container {
+	  	@include flexbox;
+	  	@include flex-wrap(wrap);
+	  	@include justify-content(center);
 
-		> h2, > h3{
-		  font-weight: 400;
-		  line-height: rhythm(4);
-		  margin: rhythm(2) 0 rhythm(2);
-		}
+	  .hero__content {
+	    flex: 6;
 
-		> h2 {
-		  font-size: ms(2);
-		}
+		  > h1 {
+				font-size: ms(6);
+				line-height: rhythm(6);
+				margin: 0 0 rhythm(1) 0;
+			}
 
-		> h3, > h4 {
-		  font-size: ms(1);
-		}
+			> h2, > h3{
+			  font-weight: 400;
+			  line-height: rhythm(4);
+			  margin: rhythm(2) 0 rhythm(2);
+			}
 
-		> ul {
-		  @extend %list-styled;
-		}
+			> h2 {
+			  font-size: ms(2);
+			}
+
+			> h3, > h4 {
+			  font-size: ms(1);
+			}
+
+			> ul {
+			  @extend %list-styled;
+			}
+	  }
+
+	  .hero__form {
+	    flex: 4;
+	    margin-left: $gutter-width;
+	  }
 	}
 }
 
@@ -59,4 +72,29 @@
   }
 }
 
+@include responsive(tablet) {
+	.hero-case-study {
+		padding: rhythm(8) 0;
 
+		> .container {
+			.hero__content {
+				flex-basis: 100%;
+			}
+
+			.hero__form {
+				flex-basis: 100%;
+				margin: 0;
+			}
+		}
+	}
+
+	.form-download {
+  	padding: rhythm(2);
+	}
+}
+
+@include responsive(mobile) {
+	.hero-case-study {
+		padding: rhythm(5) 0;
+	}
+}

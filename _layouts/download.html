@@ -45,8 +45,8 @@ layout: default
   <div class="section__body">
     <div class="container clients">
       <ul class="client__logos">
-      {% for client in site.clients limit: 8 %}
-        <li class="gutter client__logo"><img src="{{ client.image }}" class="" alt="{{ client.title }}" /></li>
+      {% for client in site.clients %}
+        <li class="client__logo"><img src="{{ client.logo }}" class="" alt="{{ client.title }}" /></li>
       {% endfor %}
       </ul>
     </div>

@@ -3,6 +3,8 @@ title: Contact Us
 date: 2017-05-06 09:50:00 Z
 position: 8
 navigation: footer
+header:
+  height: tight
 form-contact:
   formspree-ID: mnjjpybm
   button: Send Request

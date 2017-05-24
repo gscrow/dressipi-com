@@ -29,6 +29,7 @@ defaults:
       file: 
     testimonial:
       body: 
+      logo: 
       author:
         name: 
         job-title: 
@@ -40,7 +41,7 @@ defaults:
     path: ''
     type: clients
   values:
-    image: 
+    logo: 
     link: 
 - scope:
     path: ''

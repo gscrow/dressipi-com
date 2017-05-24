@@ -73,7 +73,7 @@ layout: default
         {% assign site_clients = site.clients | sort:'position' %}
         {% for client in site_clients %}
           {% if section.clients contains client.title %}
-          <li class="client__logo"><a href="{{ client.link }}" target="_blank" title="{{ client.title }}" ><img src="{{ client.image }}" alt="{{ client.title }}" /></a></li>
+          <li class="client__logo"><a href="{{ client.link }}" target="_blank" title="{{ client.title }}" ><img src="{{ client.logo }}" alt="{{ client.title }}" /></a></li>
           {% endif %}
         {% endfor %}
       </ul>
