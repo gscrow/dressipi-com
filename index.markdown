@@ -41,7 +41,6 @@ sections:
     action:
       copy: Learn More
       url: "/solutions/recommendations/"
-    align: top
     image: "/uploads/home_recommendations-screen.png"
     hres-image: "/uploads/home_recommendations-screen@2x.png"
   - title: The Style Hub
