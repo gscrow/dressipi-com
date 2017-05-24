@@ -8,7 +8,7 @@ testimonial:
     a product page are 76% more likely to place an order than when the same customer
     clicks through from other parts of the site. We are very happy with the performance
     and look forward to future developments.”"
-  logo: "/uploads/logo__topshop.svg"
+  logo: "/uploads/logo__shop-direct-group.svg"
   author:
     name: Paul Hornby
     job-title: Head of eCommerce
