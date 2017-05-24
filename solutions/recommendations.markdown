@@ -20,7 +20,8 @@ sections:
     body: Every product recommendation presented matches your customer’s preferences
       as if curated by their own personal stylist. Our algorithms consider multiple
       data points including preferences, context, intent, activity and trend sentiment.
-    image: "/uploads/recommendations_products.png"
+    image: "/uploads/home_recommendations-screen.png"
+    hres-image: "/uploads/home_recommendations-screen@2x.png"
   - title: Outfits
     body: Inspire customers by showing how to style items for different occasions
       with new products or ones they already own. Outfits give customers the confidence
