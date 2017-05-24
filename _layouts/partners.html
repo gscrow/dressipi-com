@@ -32,7 +32,10 @@ layout: default
         {% if section.downloads contains download.title %}
         <li class="case-study__wrap">
           <div class="case-study">
-            <div class="case-study__header">{{ download.testimonial.author.name }}<span>{{ download.testimonial.author.job-title }}, {{ download.testimonial.author.company }}</span></div>
+            <div class="case-study__header">
+              {{ download.testimonial.author.name }}<span>{{ download.testimonial.author.job-title }}, {{ download.testimonial.author.company }}</span>
+              {% if download.testimonial.logo %}<div class="case-study__logo"><img src="{{ download.testimonial.logo }}" /></div>{% endif %}
+            </div>
             <div class="case-study__image"><img src="{{ download.testimonial.author.image }}" /></div>
             <div class="case-study__body"><p>{{ download.testimonial.body }}</p></div>
             <div class="case-study__footer"><a href="{{ download.url }}" class="button button-primary">{{ download.testimonial.action }}</a></div>

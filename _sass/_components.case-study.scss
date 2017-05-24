@@ -24,6 +24,7 @@
     line-height: rhythm(3);
     padding: rhythm(2);
     background: $background--lighter;
+    text-align: center;
 
     > span {
       font-size: ms(-1);
@@ -45,6 +46,10 @@
 
   &__image {
     max-height: 240px;
+  }
+
+  &__logo {
+    margin-top: rhythm(3);
   }
 
   &__footer {
