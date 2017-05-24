@@ -4,7 +4,7 @@ date: 2017-05-12 04:38:00 Z
 form:
   title: Download Free Whitepaper
   button: Download Whitepaper
-  file: "/uploads/Whitepaper-How-Dressipi-Can-Help-Retailers-Transform-Their-Biggest-Asset.pdf"
+  file: "/uploads/Whitepaper-How-Dressipi-Can-Help-Retailers-Transform-Their-Biggest-Asset-913ff1.pdf"
 testimonial:
   action: Download Whitepaper
 layout: download
