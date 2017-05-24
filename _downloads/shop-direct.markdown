@@ -2,7 +2,7 @@
 title: Shop Direct
 date: 2017-05-10 11:20:00 Z
 form:
-  file: https://s3-eu-west-1.amazonaws.com/dressipi-files/Dressipi-Shop-Direct-Case-Study-2017-02.pdf
+  file: "/uploads/Dressipi-Case-Study-Personalising-the-Entire-Customer-Experience-for-Shop-Direct.pdf"
 testimonial:
   body: "“Customers with a Dressipi profile clicking through from the Style Hub to
     a product page are 76% more likely to place an order than when the same customer
