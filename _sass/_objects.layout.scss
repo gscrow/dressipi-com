@@ -29,6 +29,17 @@
     &:last-child {
       margin-top: 0;
     }
+
+    &__icon {
+      line-height: rhythm(7);
+      height: rhythm(7);
+      margin-bottom: rhythm(2);
+
+      img {
+        display: inline-block;
+        vertical-align: middle;
+      }
+    }
   }
 
   &.span-2 > .column {
