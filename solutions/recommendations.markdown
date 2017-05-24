@@ -55,6 +55,7 @@ sections:
       Amiya, our Style Bot is on hand to answer individual customer questions such
       as “I'm going to a smart, city wedding, what should I wear?”
     image: "/uploads/recommendations_style-bot.png"
+    hres-image: "/uploads/recommendations_style-bot@2x.png"
 - title: Key Benefits
   handle: benefits
   subsections:
