@@ -46,12 +46,12 @@
         </ul>
         {% endif %}
 
-        {% if page.header.button %}
+        {% unless page.header.button.copy == nil %}
         <div class="header__button-group">
           <a href="{{ page.header.button.url }}" class="header__button button-{{ page.header.button.style | default: 'primary' }} anchor-link">{{ page.header.button.copy }}</a>
           {% if page.header.link %}<a href="{{ page.header.link.url }}" class="header__link anchor-link">{{ page.header.link.copy }}</a>{% endif %}
         </div>
-        {% endif %}
+        {% endunless %}
       </div>
     </div>
   </div>
