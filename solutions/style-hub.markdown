@@ -30,7 +30,6 @@ sections:
   - title: Preferences
     body: A single place where customers can save and access wishlist items, liked
       items, saved outfits and preferences.
-    align: top
     image: "/uploads/style-hub_preferences.png"
     hres-image: "/uploads/style-hub_preferences@2x.png"
   - title: Connected Profile
