@@ -48,6 +48,15 @@ defaults:
     type: pages
   values:
     navigation: 
+    header:
+      title: 
+      body: 
+      button:
+        copy:
+        url: 
+      hero-image:
+    include-form-demo: false
+    layout: page
 - scope:
     path: ''
     type: jobs
