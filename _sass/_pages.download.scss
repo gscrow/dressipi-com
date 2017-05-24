@@ -32,6 +32,10 @@
 			> ul {
 			  @extend %list-styled;
 			}
+
+			.case-study__logo {
+				margin: 0 0 rhythm(3) 0;
+			}
 	  }
 
 	  .hero__form {
