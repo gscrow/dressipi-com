@@ -25,8 +25,7 @@ sections:
       We are working with M&S, Wallis and Very to make the shopping experience better by offering advice and recommendations aligned with how the customer wants to shop.
 
       This improves revenues for retailers by a considerable advancement in the quality of predictions of what a shopper is most likely to buy and keep.
-    image: "/uploads/labs_predictive-retailing.png"
-    hres-image: "/uploads/labs_predictive-retailing@2x.png"
+    image: "/uploads/labs_portable-connected-pac.jpg"
   - title: Predictive Retailing
     description: "For the first time ever, Dressipi is allowing retailers to connect
       actual customer & visitor profile data with actual garment data (at the feature
@@ -35,7 +34,7 @@ sections:
       distract from creativity and new trends but allows each retailer to better predict
       how they should respond to key trends, key pieces and how they benchmark against
       their peers."
-    image: "/uploads/labs_portable-connected-pac.jpg"
+    image: "/uploads/labs_predictive-retailing@2x.png"
 - title: How Dressipi Can Help Retailers Transform Their Biggest Asset
   button:
     copy: Download our Whitepaper
