@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.dressipi.StyleAdviser",
+    "sha256_cert_fingerprints":
+    ["16:26:BC:C2:5E:8D:96:F4:DE:5E:BA:D3:8A:ED:5A:8D:6D:15:B3:31:B3:00:64:4C:33:A8:14:23:9C:A6:30:3B"]
+  }
+}]
+

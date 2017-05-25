@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "7A8S4FET64.com.dressipi.StyleAdviser",
+                "paths": [ "/mobile_redirects/*"]
+            }
+	]
+    }
+}
