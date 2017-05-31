@@ -5,9 +5,10 @@ position: 6
 navigation: footer
 header:
   title: Working at Dressipi
-  body: "### We're a diverse team who care about building solutions and experiences
-    that solve real problems and customer needs. We're growing fast and always looking
-    for the best people."
+  body: "### With passion, ambition and a commitment to learning, our close-knit team
+    support, challenge and inspire each other every day. \n\nWe are always looking
+    for outstanding individuals from diverse backgrounds, who want to be part of our
+    fantastic team and shape the future of retail. \n"
   button:
     copy: Join our Team
     url: "#join"
@@ -17,15 +18,20 @@ sections:
 - title: Personalisation is Our Passion
   handle: intro
   width: narrow
-  body: |-
-    > Dressipi's passion is one-to-one personalisation. Personalisation at the individual level underpins superior recommendations, is the foundation of a truly helpful shopping experience for customers and creates insight to improve products and solve the inefficiencies of the retail industry.
-
-    Dressipi is a place for those who want to have a real impact. Our people are the driving force behind our success to date and we believe they will shape the future of retail over the coming decade.
+  body: "> Does disrupting the way a trillion-pound industry operates sound like an
+    exciting challenge? \n\nDressipi’s passion is to transform the way retailers engage
+    with their customers by personalising the entire shopping journey instore and
+    online. We believe that genuinely helpful customer experiences combined with insight
+    and data to help create better products is the future of commerce.\n\nDressipi
+    is backed by a great group of investors and works with many of the leading retailers
+    including John Lewis, Arcadia Group, Shop Direct amongst others. "
 - title: Join our Team
   handle: join
-  body: We're a small team making a big impact. Multi award winning and recently named
-    one of Britain's fastest growing Top Tech firms we think we can offer you something
-    fantastic.
+  body: "Dressipi is one of the fastest growing personalisation solutions in the world
+    and recently named one of Britain’s fastest growing Top Tech firms. We’re expanding
+    fast and looking for exceptional people to join us for the journey \n\nMulti award
+    winning and working on ground-breaking technology which is having a real impact
+    we think we can offer you something fantastic.\n"
   width: narrow text--center
   color: light-grey
   columns: 2
