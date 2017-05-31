@@ -6,9 +6,9 @@ navigation: footer
 header:
   title: Working at Dressipi
   body: |-
-    ### **With passion, ambition and a commitment to learning, our close-knit team support, challenge and inspire each other every day.**
+    ### With passion, ambition and a commitment to learning, our close-knit team support, challenge and inspire each other every day.
 
-    ### **We are always looking for outstanding individuals from diverse backgrounds, who want to be part of our fantastic team and shape the future of retail.**
+    ### We are always looking for outstanding individuals from diverse backgrounds, who want to be part of our fantastic team and shape the future of retail.
   button:
     copy: Join our Team
     url: "#join"
