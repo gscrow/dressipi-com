@@ -16,4 +16,15 @@ $(document).ready(function() {
     $(this).toggleClass('header-mobile-button--open');
     $('.navigation').toggleClass('navigation--open');
   });
+
+  // affix header
+  $('.header').affix({
+    offset: {
+      top: 1000
+    }
+  }).on('affix-top.bs.affix', function() {
+    $(this).addClass('hold').delay(400).queue(function() {
+      $(this).removeClass('hold').dequeue();
+    });
+  });
 });
