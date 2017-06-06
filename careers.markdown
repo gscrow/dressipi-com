@@ -18,20 +18,18 @@ sections:
 - title: Personalisation is Our Passion
   handle: intro
   width: narrow
-  body: "> Does disrupting the way a trillion-pound industry operates sound like an
-    exciting challenge? \n\nDressipi’s passion is to transform the way retailers engage
-    with their customers by personalising the entire shopping journey instore and
-    online. We believe that genuinely helpful customer experiences combined with insight
-    and data to help create better products is the future of commerce.\n\nDressipi
-    is backed by a great group of investors and works with many of the leading retailers
-    including John Lewis, Arcadia Group, Shop Direct amongst others. "
+  body: |-
+    > Does disrupting the way a trillion-pound industry operates sound like an exciting challenge?
+
+    Dressipi’s passion is to transform the way retailers engage with their customers by personalising the entire shopping journey instore and online. We believe that genuinely helpful customer experiences combined with insight and data to help create better products is the future of commerce.
+
+    Dressipi is backed by a great group of investors and works with many leading retailers including John Lewis, Arcadia Group, Shop Direct amongst others.
 - title: Join our Team
   handle: join
-  body: "Dressipi is one of the fastest growing personalisation solutions in the world
-    and recently named one of Britain’s fastest growing Top Tech firms. We’re expanding
-    fast and looking for exceptional people to join us for the journey \n\nMulti award
-    winning and working on ground-breaking technology which is having a real impact
-    we think we can offer you something fantastic.\n"
+  body: |-
+    Dressipi is one of the fastest growing personalisation solutions in the world and recently named one of Britain’s fastest growing Top Tech firms. We’re expanding fast and looking for exceptional people to join us for the journey.
+
+    Multi award winning and working on ground-breaking technology which is having a real impact we think we can offer you something fantastic.
   width: narrow text--center
   color: light-grey
   columns: 2
