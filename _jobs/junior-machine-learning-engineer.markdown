@@ -14,17 +14,41 @@ We are not a traditional tech start-up; it is an exciting environment with a div
 
 ### Responsibilities
 
-•	Work closely with Data Science and Engineering teams to implement and deploy machine learning algorithms
+* Work closely with Data Science and Engineering teams to implement and deploy machine learning algorithms
 
-•	Collaborate with Engineering teams to integrate experimental capabilities into highly complex production systems
+* Collaborate with Engineering teams to integrate experimental capabilities into highly complex production systems
 
-•	Apply data-mining, machine learning and/or graph analysis techniques for a variety of modeling and relevance problems involving customers, their relationships and their fashion preferences
+* Apply data-mining, machine learning and/or graph analysis techniques for a variety of modeling and relevance problems involving customers, their relationships and their fashion preferences
 
-•	Harness cutting-edge ML tools and libraries to solve problems quickly and efficiently
+* Harness cutting-edge ML tools and libraries to solve problems quickly and efficiently
 
-•	Understand and leverage crowdsourcing and human computation approaches to data labeling
+* Understand and leverage crowdsourcing and human computation approaches to data labeling
+
+### Requirements
+
+* MSc in Computer Science or related subject, or equivalent work experience
+
+* One of: C, C++, Java, or similar
+
+* One of: Python, R, Matlab, or similar
+
+* Solid SQL skills including query optimisation
+
+* A keen interest in Machine Learning algorithms
+
+* The ability to quickly pick up new technologies and approaches
+
+### Desired
+
+* Ruby
+
+* Ability to write production-quality code
+
+* Amazon AWS (EC2 etc.)
+
+* Kaggle competitions, having used machine learning libraries, knowledge of recommender systems
 
 
-### Sound like you?
+### Interested?
 
-Please send your CV and any relevant examples of previous work (eg: websites, apps, Stack Overflow or Github profile) alongside your CV and any other info to [jobs@dressipi.com](mailto:jobs@dressipi.com)
+Please send your CV and any additional info to [jobs@dressipi.com](mailto:jobs@dressipi.com)
