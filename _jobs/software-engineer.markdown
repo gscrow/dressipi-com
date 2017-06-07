@@ -1,5 +1,5 @@
 ---
-title: Software Engineer
+title: Data Scientist
 date: 2017-05-09 12:29:00 Z
 is-open: true
 ---
