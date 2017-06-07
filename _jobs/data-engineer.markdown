@@ -1,36 +1,65 @@
 ---
-title: Data Engineer
+title: Technical Lead / Performance Engineer
 date: 2017-05-09 12:10:00 Z
 ---
 
-We are looking for a Big Data Engineer to help run our latest algorithms at larger scale and on bigger datasets.
+Interested in disrupting the trillion-pound retail industry? We’re tackling one of the hottest and most challenging problems in Machine Learning: designing and building a personalisation system that understands fashion.
+
 
 ### Where you can make an impact?
 
-We have recently experienced a steep increase in the amount of data and complexity of algorithms that we can use and need to take the next step in scaling up our data infrastructure.
+As a Technical Lead/Performance Engineer in the Dressipi team, you will be working closely with the Data Science and Recommendations teams, helping them implement and deploy algorithms in a scalable manner. You’ll proactively monitor the performance of our infrastructure, data architecture and deployment processes and design and implement improvements to them.
+Our current stack comprises Ruby, Python, Java and a small amount of rust and utilises a wide range of AWS services. We’re always interested in trying new technologies or approaches.  
+We are looking for a versatile person who can display leader qualities and is enthusiastic to tackle new problems across the both the data architecture and infrastructure areas as we continue to push our technology forward.
+We are not a traditional tech start-up; it is an exciting environment with a diverse group of people, combining the best talents in all disciplines. 
 
-You will be at the heart of this exciting process, helping to set up our new big data technology stack from a clean slate and playing an important role in architecture decisions. You will develop applications that that efficiently exploit our unique dataset, set up and maintain data processing pipelines and turn algorithms from formulas on paper into efficient distributed computation.
 
-You'll be working on projects for some of the most successful high street retailers including Topshop, John Lewis, Marks Spencer, and the Shop Direct Group.
+### Responsibilities
 
-### The ideal candidate will have:
+* Work with engineers to improve the efficiency of data queries and infrastructure for both offline and online use cases
 
-* Strong experience working with big data technologies such as Spark or Hadoop in a commercial setting
+* Pinpoint and help resolve bottlenecks and inefficiencies across infrastructure, queries, implementation and algorithms.
 
-* Ability to write high quality Spark code
+* Recommend and guide changes to infrastructure, choice of datastores, data architecture, deployment processes
 
-* Excellent programming skills (in languages such as C, Java, Python, etc.)
+* Monitor performance of infrastructure to catch issues before they become a problem
 
-* Experience developing and running machine learning solutions on a large scale
+* Collaborate with colleagues from data science and engineering backgrounds
 
-* The interest and tenacity to solve hard and diverse problems
+
+### Requirements
+
+* Bachelor's, Master’s or PhD in a relevant field (computer science, data mining, machine learning, statistics, math, engineering)
+
+* Track record of identifying, diagnosing and resolving performance inefficiencies 
+
+* Solid SQL knowledge
+
+* Experience with AWS services such as EC2, Cloudformation, RDS, Cloudwatch
+
+* Track record of automating and maintaining infrastructure
+
+* The tenacity to solve hard and diverse problems
 
 * The will and ability to pick up new technologies and approaches as required
 
-### Desirable
+* Comfortable working in a fast paced, highly collaborative work environment
 
-Knowledge of Amazon Redshift, recommender systems, graph databases, Ruby
+### Desired
 
-### Sound like you?
+* 2 or more years of industry experience
 
-Please send your CV and any other relevant information (website, LinkedIn, kaggle, etc) to [jobs@dressipi.com](mailto:jobs@dressipi.com)
+* Knowledge of postgres, redshift
+
+* Experience with ETL processes
+
+* Experience with ruby, python
+
+* Worked with recommender systems
+
+* Experience with deployment automation & devops (packer, chef etc.)
+
+
+### Interested?
+
+Please send your CV and any other additional information to [jobs@dressipi.com](mailto:jobs@dressipi.com)
