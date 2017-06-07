@@ -8,8 +8,11 @@ Interested in disrupting the trillion pound retail industry? We’re tackling on
 ### Where you can make an impact
 
 For Dressipi, machine learning is a keystone technology to predict which clothes will look great on a customer, answer questions through Amiya (our chatbot), and process images of products to create metadata.
+
 We are looking for a Junior Machine Learning Engineer who is passionate, prepared to learn new skills and can collaborate closely with Engineers and Data Scientists in implementing state of the art algorithms. 
+
 Your job will involve developing and deploying machine learning algorithms for the modelling and analysis of data. Challenges involve very large data sets and design constraints that may arise from, for example, latency requirements. Your work will directly impact end consumers in the form of personalising shopping journeys and communications both instore and online. 
+
 We are not a traditional tech start-up; it is an exciting environment with a diverse group of people, combining the best talents in all disciplines. 
 
 ### Responsibilities
