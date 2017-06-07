@@ -1,6 +1,7 @@
 ---
 title: Head of Sales
 date: 2017-05-09 12:51:00 Z
+is-open: false
 ---
 
 We are looking for an entrepreneurial and highly driven Head of Sales. Our product is now award-winning and the best in class. You will be the driving force behind our overall commercial strategy and be instrumental in shaping a rapidly scaling business.
