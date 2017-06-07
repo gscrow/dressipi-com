@@ -1,27 +1,29 @@
 ---
-title: Full Stack Developer
+title: Junior Machine Learning Engineer
 date: 2017-05-09 12:31:00 Z
 ---
 
-We're seeking a mid to senior level full stack developer to join our small, agile and highly motivated team building web applications and mobile apps that provide highly personalised product recommendations. You'll be working on projects for some of the most successful high street retailers including Topshop, John Lewis, Marks & Spencer, and the Shop Direct Group including a 'retail first' project that is taking personalisation offline into stores.
+Interested in disrupting the trillion pound retail industry? We’re tackling one of the hottest and most challenging problems in Machine Learning: building a personalisation system that understands fashion. 
 
 ### Where you can make an impact
 
-You will be working to create new and maintain existing customer-facing applications for our retail partners. You'll be creating semantic, accessible and responsive pages in a Ruby on Rails environment, and have enough Ruby experience to make changes to controllers and to write and fix tests.
+For Dressipi, machine learning is a keystone technology to predict which clothes will look great on a customer, answer questions through Amiya (our chatbot), and process images of products to create metadata.
+We are looking for a Junior Machine Learning Engineer who is passionate, prepared to learn new skills and can collaborate closely with Engineers and Data Scientists in implementing state of the art algorithms. 
+Your job will involve developing and deploying machine learning algorithms for the modelling and analysis of data. Challenges involve very large data sets and design constraints that may arise from, for example, latency requirements. Your work will directly impact end consumers in the form of personalising shopping journeys and communications both instore and online. 
+We are not a traditional tech start-up; it is an exciting environment with a diverse group of people, combining the best talents in all disciplines. 
 
-You'll get to work closely with stylists, designers, backend and machine learning developers and product owners both in-house and with our clients.
+### Responsibilities
 
-We'll expect you to play a key role in migrating some of our legacy CoffeeScript/Backbone code to ES6/React/Redux. We are committed to a culture of learning and personal development for everyone, so you'll be encouraged to get stuck in with new tools, frameworks and languages and stretch yourself in new areas.
+•	Work closely with Data Science and Engineering teams to implement and deploy machine learning algorithms
 
-### The ideal candidate will have:
+•	Collaborate with Engineering teams to integrate experimental capabilities into highly complex production systems
 
-* Good knowledge of Ruby and Rails
+•	Apply data-mining, machine learning and/or graph analysis techniques for a variety of modeling and relevance problems involving customers, their relationships and their fashion preferences
 
-* Excellent Javascript skills
+•	Harness cutting-edge ML tools and libraries to solve problems quickly and efficiently
 
-* Experience creating accessible web apps
+•	Understand and leverage crowdsourcing and human computation approaches to data labeling
 
-* Mobile development with React Native a plus
 
 ### Sound like you?
 
