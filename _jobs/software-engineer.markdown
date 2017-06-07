@@ -4,24 +4,70 @@ date: 2017-05-09 12:29:00 Z
 is-open: true
 ---
 
-We're seeking an engineer to join our smallish team building web applications that provide highly personalised product recommendations. You'll be working on projects for some of the most successful high street retailers including Topshop, John Lewis, Marks & Spencer, the Shop Direct Group - including a 'retail first' project that is taking personalisation offline into stores. The role is broad, from our outfit creation algorithms to designing multi-region deployment strategies.
+Interested in disrupting the trillion-pound retail industry? We’re tackling one of the hottest and most challenging problems in Machine Learning: building a personalisation system that understands fashion. 
 
 ### Where you can make an impact
 
-You'll chiefly be working on the apis and backend technology that support these customer facing applications. You'll also be supporting the front end developers who consume these apis - experience with front-end technologies such as JavaScript/ Backbone/React/React-Native is a bonus.
+For Dressipi, data mining and statistical modelling are the keystones to predict customer behavior and intent, analyse which clothes will look great on a customer and answer questions through Amiya (our new chatbot).
 
-You'll be involved from the earliest stage of a feature: discussing the underlying problem or consumer need with our stylists or product owners before designing a solution and implementing it. The majority of our work takes place on a set of rails apps (currently all on rails 4.2 & ruby 2.2), with data stored in Elasticsearch, MySQL and MongoDB and hosted on AWS, but we are open to expanding our toolchain when needed
+As a Data Scientist in the Dressipi team, you will be responsible for designing and improving our recommendation algorithms and models. Your work will directly impact end consumers in the form of personalising shopping journeys and communications, both instore and online. 
 
-### The ideal candidate will have:
+We are looking for people that are passionate about data and have the love and tenacity for solving hard and diverse problems. 
 
-* An interest in solving hard and diverse problems
+We are not a traditional tech start-up; it is an exciting environment with a diverse group of people, combining the best talents in all disciplines. 
 
-* The will and ability to pick up new technologies as required
 
-* Interest in building web applications capable of servicing millions of users
+### Responsibilities
 
-* Good working knowledge of at least some of the technologies we use
+* Apply data-mining, machine learning and/or graph analysis techniques for a variety of modeling and relevance problems involving customers, their relationships and their fashion preferences
 
-### Sound like you?
+* Build scalable, statistical models that learn from large volumes of data
 
-Please send your CV and any relevant examples of previous work (eg: websites, apps, Stack Overflow or Github profile) alongside your CV and any other info to [jobs@dressipi.com](mailto:jobs@dressipi.com)
+* Build and release models that elevate the customer experience and track impact over time
+
+* Carry out regular as well as deep-dive data mining and interpret the results
+
+* Define metrics, understand A/B testing and statistical measurement of model quality
+
+* Understand and leverage crowdsourcing and human computation approaches to data labeling
+
+* Monitor and test data quality and integrity throughout all stages of acquisition and processing
+
+* Translate business goals to data questions and solve them
+
+* Collaborate with colleagues from engineering, retail and business backgrounds.
+
+* Present proposals and results in a clear manner backed by data and coupled with actionable conclusions
+
+### Requirements
+
+* Masters or PhD in a relevant field (computer science, data mining, machine learning, statistics, math, engineering) etc.
+
+* Solid SQL skills and a scripting/programming language such as Python/R/Java/C
+
+* Experience with statistical modelling/machine learning
+
+* Track record of diving into data to discover hidden patterns
+
+* Ability to develop experimental and analytic plans for data modeling processes, use of strong baselines, ability to accurately determine cause and effect relations
+
+* Understanding of relevant statistical measures such as confidence intervals, significance of error measurements, development and evaluation data sets, etc.
+
+* The creativity and tenacity to solve hard and diverse problems
+
+* The will and ability to pick up new technologies and approaches as required
+
+* Comfortable working in a fast paced, highly collaborative work environment
+
+* Strong attention to detail
+
+### Desired
+
+*  2 or more years of industry experience
+
+*  Additionally of benefit are: knowledge of recommender systems, ability to write production-quality code, mongodb, Ruby
+
+
+### Interested?
+
+Please send your CV and any additional info to [jobs@dressipi.com](mailto:jobs@dressipi.com)
