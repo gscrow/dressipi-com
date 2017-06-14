@@ -52,16 +52,8 @@ sections:
       every team member has a generous equity stake and a competitive salary.
     image: "/uploads/icon__cash.svg"
   - title: Happiness and Well-Being
-    body: |-
-      We are a relaxed, open & friendly group of people and believe everyone can achieve their personal and professional goals in life.
-
-      * Monthly socials & celebrations – each month everyone downs tools and enjoys some non work time together to recognise and celebrate our progress and achievements
-
-      * Weekly Catch Ups – each Friday we get together to share updates and news
-
-      * Work/Life balance – we’re flexible, you’re flexible. We try to support you whenever we can including working from home and the hours you work
-
-      * Celebrate your birthday – who wants to work on their birthday? No-one, so we don’t.
+    body: We are a relaxed, open & friendly group of people and believe everyone can
+      achieve their personal and professional goals in life.
     image: "/uploads/icon__happy.svg"
 - title: Work With Us
   handle: jobs
