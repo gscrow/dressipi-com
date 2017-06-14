@@ -2,7 +2,7 @@ $(document).ready(function() {
 
   // smooth scrolling
   $('.anchor-link').on('click', function() {
-    var scrollTop = $(this.hash).offset().top;
+    var scrollTop = $(this.hash).offset().top - 30;
 
     $('html,body').animate({
       scrollTop: scrollTop
