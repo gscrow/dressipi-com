@@ -4,15 +4,18 @@ position: 0
 navigation: header
 header:
   title: Personalising the Entire Customer Experience
-  body: "## The global leader in fashion-specific omnichannel personalisation, Dressipi
-    shows each customer the products they will love, buy and keep."
+  body: "## The leader in fashion personalisation, Dressipi empowers retailers to
+    give each customer their own tailored shopping experience both online and instore.
+    Dressipi provides retailers with data driven, actionable insight on why customers
+    buy and return specific products."
   button:
     copy: Book a Demo
     url: "#form-demo"
+  hero-image: "/uploads/banner__home.jpg"
   link:
     copy: Discover our Solutions
     url: "#features"
-  hero-image: "/uploads/banner__home.jpg"
+include-form-demo: true
 sections:
 - title: Results
   subtitle: What You Can Expect
@@ -79,7 +82,6 @@ sections:
   - Very
   - Evans
   - Autograph
-include-form-demo: true
 layout: index
 ---
 
