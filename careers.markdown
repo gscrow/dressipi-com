@@ -11,7 +11,7 @@ header:
     ### We are always looking for outstanding individuals from diverse backgrounds, who want to be part of our fantastic team and shape the future of retail.
   button:
     copy: Join our Team
-    url: "#join"
+    url: "#jobs"
     style: secondary
   hero-image: "/uploads/banner_careers.jpg"
 sections:
