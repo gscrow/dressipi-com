@@ -65,7 +65,7 @@ sections:
     image: "/uploads/icon__happy.svg"
 - title: Work With Us
   handle: jobs
-  body: 'We are always looking for exceptional candidates who shares our passion for
+  body: 'We are always looking for exceptional candidates who share our passion for
     one-one personlisation. If you have what it takes, please send your CV and any
     relevant examples of previous work(eg: websites, apps, Stack Overflow or GitHub
     profile) to [jobs@dressipi.com](mailto:jobs@dressipi.com).
