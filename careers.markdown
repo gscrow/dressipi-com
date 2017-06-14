@@ -18,16 +18,18 @@ sections:
 - title: Personalisation is Our Passion
   handle: intro
   width: narrow
-  body: |-
-    > Does disrupting the way a trillion-pound industry operates sound like an exciting challenge?
-
-    Dressipi’s passion is to transform the way retailers engage with their customers by personalising the entire shopping journey instore and online. We believe that genuinely helpful customer experiences combined with insight and data to help create better products is the future of commerce.
-
-    Dressipi is backed by a great group of investors and works with many leading retailers including John Lewis, Arcadia Group, Shop Direct amongst others.
+  body: "> Does disrupting the way a trillion-pound industry operates sound like an
+    exciting challenge?\n\nDressipi’s passion is to transform the way retailers engage
+    with their customers by personalising the entire shopping journey instore and
+    online. By combining rich data with machine learning and AI technology, Dressipi
+    matches customers with products and experiences to influence behavior at scale.
+    \n\nBacked by a great group of investors, Dressipi is trusted to deliver real
+    impact to the bottom line for some of the largest retailers including John Lewis,
+    Arcadia Group, Shop Direct and others."
 - title: Join our Team
   handle: join
   body: |-
-    Dressipi is one of the fastest growing personalisation solutions in the world and recently named one of Britain’s fastest growing Top Tech firms. We’re expanding fast and looking for exceptional people to join us for the journey.
+    Dressipi is the world leader in fashion personalisation and recently named one of Britain’s fastest growing Top Tech firms. We’re expanding and looking for exceptional people to join us for the journey.
 
     Multi award winning and working on ground-breaking technology which is having a real impact we think we can offer you something fantastic.
   width: narrow text--center
@@ -53,9 +55,7 @@ sections:
     body: |-
       We are a relaxed, open & friendly group of people and believe everyone can achieve their personal and professional goals in life.
 
-      * Monthly socials – each month everyone downs tools and enjoys some non work time together
-
-      * Monthly celebrations – we think it’s important to take a moment to recognise and celebrate our progress and achievements
+      * Monthly socials & celebrations – each month everyone downs tools and enjoys some non work time together to recognise and celebrate our progress and achievements
 
       * Weekly Catch Ups – each Friday we get together to share updates and news
 
