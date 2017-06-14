@@ -1,5 +1,5 @@
 ---
-title: Technical Lead / Performance Engineer
+title: Technical Lead - Performance Engineer
 date: 2017-05-09 12:10:00 Z
 ---
 
