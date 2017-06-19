@@ -98,6 +98,6 @@ exclude:
 - Gemfile.lock
 - README*
 - ".gitignore"
-gems:
+plugins:
 - jekyll-sitemap
 - jekyll-seo-tag
