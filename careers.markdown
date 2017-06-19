@@ -18,7 +18,7 @@ sections:
 - title: Personalisation is Our Passion
   handle: intro
   width: narrow
-  body: "> Does disrupting the way a trillion-pound industry operates sound like an
+  body: ">Does disrupting the way a trillion-pound industry operates sound like an
     exciting challenge?\n\nDressipi’s passion is to transform the way retailers engage
     with their customers by personalising the entire shopping journey instore and
     online. By combining rich data with machine learning and AI technology, Dressipi
