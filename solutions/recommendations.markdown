@@ -56,6 +56,10 @@ sections:
       as “I'm going to a smart, city wedding, what should I wear?”
     image: "/uploads/recommendations_style-bot.png"
     hres-image: "/uploads/recommendations_style-bot@2x.png"
+  - title: New Section
+    body: This is the new body text
+    image: "/uploads/recommendations_style-bot.png"
+    hres-image: "/uploads/recommendations_style-bot@2x.png"
 - title: Key Benefits
   handle: benefits
   subsections:
