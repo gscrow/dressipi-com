@@ -27,17 +27,6 @@ sections:
       to view new items styled with ones they already own.
     image: "/uploads/style-hub_wardrobe.png"
     hres-image: "/uploads/style-hub_wardrobe@2x.png"
-  - title: Preferences
-    body: A single place where customers can save and access wishlist items, liked
-      items, saved outfits and preferences.
-    image: "/uploads/style-hub_preferences.png"
-    hres-image: "/uploads/style-hub_preferences@2x.png"
-  - title: Connected Profile
-    body: A single profile that customers use to access and save personalised content
-      from across retailers. Enables retailers to benefit from data collected from
-      a customer's entire fashion life.
-    image: 
-    hres-image: 
 - title: Key Benefits
   handle: benefits
   color: light-grey
