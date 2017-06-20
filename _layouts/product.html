@@ -13,7 +13,11 @@ layout: default
 
 	<!-- section content group -->
   <div class="section__body">
-		{% case handle %}
+    {% case handle %}
+    {% when 'intro' %}
+    <div class="container{% if section.width %}{{ section.width | prepend: '--' }}{% endif %} gutter">
+      {{ section.body | markdownify }}
+    </div>
 		{% when 'features' %}
 		<div class="features">
 		  {% for subsection in section.subsections %}

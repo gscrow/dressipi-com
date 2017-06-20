@@ -14,6 +14,17 @@ header:
   hero-image: "/uploads/banner_data-insights.jpg"
   color: transparent
 sections:
+- title: Personalisation is Our Passion
+  handle: intro
+  width: narrow
+  body: "> Does disrupting the way a trillion-pound industry operates sound like an
+    exciting challenge?\n\nDressipi’s passion is to transform the way retailers engage
+    with their customers by personalising the entire shopping journey instore and
+    online. By combining rich data with machine learning and AI technology, Dressipi
+    matches customers with products and experiences to influence behavior at scale.
+    \n\nBacked by a great group of investors, Dressipi is trusted to deliver real
+    impact to the bottom line for some of the largest retailers including John Lewis,
+    Arcadia Group, Shop Direct and others."
 - title: Key Features
   handle: features
   color: light-grey
@@ -29,13 +40,6 @@ sections:
       help you understand whether you should over or under index compared to the industry.
     image: "/uploads/data-insights_key-predictions.png"
     hres-image: "/uploads/data-insights_key-predictions@2x.png"
-  - title: Predictive Retail
-    body: Improve your buying, merchandising and QA processes by using specific customer
-      data and specific garment feature data. This can be used to better predict your
-      current customers’ actual propensities to buy and keep certain categories and
-      specific garments.
-    image: "/uploads/data-insights_predictive-retail.png"
-    hres-image: "/uploads/data-insights_predictive-retail.png@2x.png"
 - title: Key Benefits
   handle: benefits
   is-centered: true
@@ -50,7 +54,7 @@ sections:
   handle: cases
   downloads:
   - Shop Direct
-include-form-demo: false
+include-form-demo: true
 layout: product
 ---
 
