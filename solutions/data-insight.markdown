@@ -1,0 +1,67 @@
+---
+title: Data Insight
+position: 2
+header:
+  title: Data Insight
+  body: 'Dressipi’s Data Insight tools are designed to help retailers understand the
+    who, why and what behind key performance metrics. This contributes to a more accurate
+    model for future buying by honing expert gut instincts and contributing additional
+    insight into existing merchandising tools to deliver higher sell-through rates
+    and lower markdowns. '
+  button:
+    copy: Book a Demo
+    url: "/contact"
+  hero-image: "/uploads/banner_data-insights.jpg"
+  color: transparent
+include-form-demo: true
+sections:
+- title: Data Insight
+  handle: intro
+  width: narrow
+  body: "For 1-2-1 personalisation to be truly transformational, personalising the
+    product experience is as important as personalising the customer experience. Dressipi
+    supports the creative process by giving actionable insights that help retailers
+    optimise the product range for the upcoming season as well as more accurately
+    predict the correct quantity and size for each individual location. \n\nRetailers
+    can quickly and easily:\n•\tExplore customers and customer segments across all
+    product sales and returns\n•\tSee how customers match to inventories\n•\tHave
+    a useful, data view of all products’ attributes"
+- title: Key Features
+  handle: features
+  color: light-grey
+  subsections:
+  - title: Data Insight
+    body: "A deeper understanding of core customers and customer segments. Easily
+      view how customer profile attributes shift over time. See accurate data on attitude
+      to fashion, preferences, lifestyle and where else the customer shops for key
+      wardrobe items. \n\nDrill down to understand which customers or features are
+      causing high sales growth or increasing returns. \n\nAll Data Insights are delivered
+      in a simple, easy to use interface, optimised to be discussed and actioned in
+      weekly trade meetings. \n"
+    image: "/uploads/labs_predictive-retailing@2x.png"
+  - title: Predictive Insight
+    body: "Minimise returns by predicting the likely return rate of each product within
+      just a few days of trading, then avoid re-purchasing items with a high propensity
+      for returning.\n\nAccurately predict how your core customers will respond to
+      upcoming seasonal trends. Optimise your split of trends pieces and basic styles.\n\nEnsure
+      your merchandising buys exceed expectations by using Dressipi’s garment and
+      feature checker to optimise forecasting at a SKU, size and individual location
+      level. \n"
+    image: "/uploads/predictive_insight.jpg"
+- title: Key Benefits
+  handle: benefits
+  is-centered: true
+  subsections:
+  - title: Increase sell-through and reduce markdowns
+    image: "/uploads/icon__shopping-cart.svg"
+  - title: Respond quickly to trends and the changing demands of your customers
+    image: "/uploads/icon_customer-chat.svg"
+  - title: Make better informed decisions at a SKU and size level
+    image: "/uploads/icon_sku.svg"
+- title: Case Study
+  handle: cases
+  downloads:
+  - Shop Direct
+layout: product
+---
+
