@@ -7,11 +7,11 @@ header:
   body: We work with some of the world's leading retail brands. These brands share
     a common goal of seeking to offer their customers a truly data-driven, personalised
     shopping and dressing solution.
-  width: full
   button:
     copy: Book a Demo
     url: "#form-demo"
     style: primary
+  width: full
   clients:
   - John Lewis
   - Littlewoods
@@ -22,6 +22,7 @@ header:
   - JD Williams
   - Evans
   - Autograph
+include-form-demo: true
 sections:
 - title: Case Study
   subtitle: The following case study outlines the impact Dressipi has had on some
@@ -54,7 +55,7 @@ sections:
       throughout the customer journey online and in store.
     action:
       copy: Learn More
-      url: "/solutions/recommendations"
+      url: "/solutions/customer-experience"
     image: "/uploads/partners_personalise.png"
     hres-image: "/uploads/partners_personalise@2x.png"
 - title: Explore More
@@ -71,7 +72,6 @@ sections:
   - Very
   - Evans
   - Autograph
-include-form-demo: true
 layout: partners
 ---
 
