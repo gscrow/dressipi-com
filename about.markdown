@@ -7,7 +7,6 @@ header:
   title: Personalisation is our Passion
   body: "### We are proud to be known as the global leader in fashion-specific omnichannel
     personalisation."
-  hero-image: 
   width: extend
 sections:
 - title: Our Mission
@@ -112,7 +111,7 @@ sections:
     linkedin: https://www.linkedin.com/in/rameshanusha
     image: "/uploads/anusha-ramesh.jpg"
   - name: Philippa Mew
-    title: PR & Marketing Associate
+    title: PR & Marketing
     linkedin: https://www.linkedin.com/in/philippa-mew-34544032/
     image: "/uploads/philippa-mew.jpg"
   - name: David Gibbs
