@@ -1,5 +1,5 @@
 ---
-title: Recommendations
+title: Customer Experience
 position: 0
 header:
   body: "### Ensure your business is a market leader in customer service, loyalty
@@ -11,6 +11,7 @@ header:
     url: "/contact"
   hero-image: "/uploads/banner_style-hub.jpg"
   color: "#F0F0F0"
+include-form-demo: true
 sections:
 - title: Key Features
   handle: features
@@ -81,7 +82,6 @@ sections:
   handle: cases
   downloads:
   - Shop Direct
-include-form-demo: true
 layout: product
 ---
 
