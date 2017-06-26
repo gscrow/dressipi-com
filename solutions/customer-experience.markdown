@@ -2,10 +2,11 @@
 title: Customer Experience
 position: 0
 header:
-  body: "### Ensure your business is a market leader in customer service, loyalty
-    and acquisition. Dressipi's machine learning technology enables you to provide
-    the most effective personalisation to each individual customer, throughout their
-    entire shopping journey."
+  title: Customer Experience
+  body: "### Greet shoppers personally. Showcase the products most relevant to them
+    and demonstrate your interest in helping them. Dressipi helps the world’s leading
+    fashion retailers deliver engaging and personalised shopping experiences, online
+    and instore. "
   button:
     copy: Book a Demo
     url: "/contact"
@@ -17,33 +18,39 @@ sections:
   handle: features
   color: light-grey
   subsections:
-  - title: Products
-    body: Every product recommendation presented matches your customer’s preferences
-      as if curated by their own personal stylist. Our algorithms consider multiple
-      data points including preferences, context, intent, activity and trend sentiment.
+  - title: Product Recommendations
+    body: "Recommend your customers the most relevant products in real time based
+      on their unique style, and changing needs. \n\nUnlike other personalisation
+      solutions each product recommended is mapped to every customer’s preferences
+      as if curated by their own personal stylist. Dressipi does this by analysing
+      a customer’s profile, behavioural activity, wardrobe context, trend sentiment
+      and intent.\n"
     image: "/uploads/home_recommendations-screen.png"
     hres-image: "/uploads/home_recommendations-screen@2x.png"
-  - title: Outfits
-    body: Inspire customers by showing how to style items for different occasions
-      with new products or ones they already own. Outfits give customers the confidence
-      in seeing the versatility of a garment.
+  - title: Outfit Recommendations
+    body: 'Inspire customers by showing how to style items for different occasions
+      with new products or ones they already own. Outfits are a powerful way of showing
+      customers the versatility of a garment, giving them the confidence to make a
+      shopping decision. '
     image: "/uploads/recommendations_outfits.png"
     hres-image: "/uploads/recommendations_outfits.@2x.png"
   - title: Sizing
-    body: Recommend the best size for your customer. Give them extra confidence to
-      add an item to their basket and reduce the likelihood of them having to make
-      a return.
+    body: 'Recommend the best size for your customer. Give them extra assurance to
+      add an item to their basket and reduce the likelihood of them making a return. '
     image: "/uploads/recommendations_sizing.png"
     hres-image: "/uploads/recommendations_sizing@2x.png"
   - title: Listing & Category Pages
-    body: Eliminate the hassle of lengthy scrolling. Show a personalised listing for
-      each customer so they can immediately find what they are most likely to buy.
+    body: 'Eliminate the hassle of lengthy scrolling. Show a personalised listing
+      for each individual customer so they can quickly and easily see the products
+      they are most likely to buy. '
     image: "/uploads/recommendations_listing.png"
     hres-image: "/uploads/recommendations_listing@2x.png"
   - title: Emails & Notifications
-    body: Keep your customer up to date with timely prompts and notifications completely
-      personalised to each customer. Bespoke weekly emails consistently increase retention
-      and engagement.
+    body: 'Personalised emails and notifications lead to more opens, CTRs and purchases
+      than segment based ones. Dressipi’s solution automates the delivery of relevant
+      products and outfit recommendations to every individual customer, inspiring
+      them to return to store or online. Works with any ESP, can be theme based or
+      triggered based on activity.  '
     image: "/uploads/recommendations_email.png"
     hres-image: "/uploads/recommendations_email@2x.png"
   - title: Landing & Content Pages
@@ -51,16 +58,19 @@ sections:
       for every campaign.
     image: "/uploads/recommendations_landing.png"
     hres-image: "/uploads/recommendations_landing@2x.png"
-  - title: Style Bot
+  - title: Amiya – Stylebot
     body: The future of search and the first step towards voice based recommendations.
       Amiya, our Style Bot is on hand to answer individual customer questions such
       as “I'm going to a smart, city wedding, what should I wear?”
     image: "/uploads/recommendations_style-bot.png"
     hres-image: "/uploads/recommendations_style-bot@2x.png"
-  - title: New Section
-    body: This is the new body text
-    image: "/uploads/recommendations_style-bot.png"
-    hres-image: "/uploads/recommendations_style-bot@2x.png"
+  - title: Style Hub
+    body: 'Enable your customers to have their fashion life in a central place and
+      recreate the one-to-one touch of your best personal stylist. The Style Hub showcases
+      new and context relevant products (Personal Daily Picks), helps customers easily
+      buy new products to go with those they already own (Wardrobe) and stores all
+      their inspiration (Saved Outfits & Likes) and preferences (Fashion Fingerprint). '
+    image: "/uploads/style-hub_wardrobe.png"
 - title: Key Benefits
   handle: benefits
   subsections:
