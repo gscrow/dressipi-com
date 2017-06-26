@@ -43,7 +43,7 @@ sections:
       in real time and across every channel. '
     action:
       copy: Learn More
-      url: "/solutions/recommendations/"
+      url: "/solutions/customer-experience/"
     image: "/uploads/home_recommendations-screen.png"
     hres-image: "/uploads/home_recommendations-screen@2x.png"
   - title: Innovation
@@ -54,7 +54,7 @@ sections:
       today.
     action:
       copy: Learn More
-      url: "/solutions/style-hub/"
+      url: "/solutions/innovation/"
     image: "/uploads/home_style-hub.png"
     hres-image: "/uploads/home_style-hub@2x.png"
   - title: Data Insight
@@ -66,7 +66,7 @@ sections:
     hres-image: "/uploads/home_data-insights@2x.png"
     action:
       copy: Learn More
-      url: "/solutions/data-insights/"
+      url: "/solutions/data-insight/"
 - title: Happy Clients
   subtitle: Use Dressipi to Personalise the Entire Customer Experience
   handle: clients
