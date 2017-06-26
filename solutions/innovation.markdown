@@ -1,30 +1,44 @@
 ---
-title: Style Hub
+title: Innovation
 position: 1
 header:
-  body: The key to fashion personalisation and a significant Dressipi advantage, the
-    Style Hub recreates the one-to-one touch of your best personal stylist by guiding
-    customers in the discovery and styling of new products. The Style Hub centralises
-    a customer’s fashion life in one place and is built to accept any data sources
-    and integration with future applications such as AR & VR.
+  body: 'What if you could truly understand each of your customers intimately? The
+    features and styles they love or won’t wear, how confident they are when it comes
+    to dressing or shopping, what they want to add to their wardrobe or the events
+    and occasions they buy for. At Dressipi we believe knowing the answers to these
+    questions is the most important opportunity for retailers – it empowers better
+    customer experiences, better products and better revenue and profitability. '
   button:
     copy: Book a Demo
     url: "/contact"
   hero-image: "/uploads/banner_style-hub.jpg"
   color: white
+include-form-demo: true
 sections:
 - title: Key Features
   handle: features
   color: light-grey
   subsections:
-  - title: Daily Picks
-    body: Intelligent, context based recommendations wow customers with the right
-      products at the right time, increasing conversions, engagement and loyalty.
+  - title: The Dressipi Engine
+    body: "The Dressipi Engine is the core of the platform. It has been built with
+      scale and computational speed at top of mind. As soon as data enters the engine,
+      it begins building models representing customer preferences, behaviour, and
+      future buying patterns. \n\nAt any given time, the Dressipi Engine can process
+      hundreds of millions of data points for analysis. The more data, the better
+      the signal we receive. \n\nOur machine learning technology continuously evaluates
+      the performance of our recommendations to select the most effective algorithms
+      for every customer at every given time. And, while other providers rely on telling
+      customers \"people like you also like this\", Dressipi presents more helpful
+      and fashion specific advice such as \"This fit & flare style is a must have
+      dress for you and will work well worn with your biker jacket\".\n"
     image: "/uploads/style-hub_daily-picks.png"
     hres-image: "/uploads/style-hub_daily-picks@2x.png"
-  - title: Wardrobe
-    body: A collection of a customer's purchases in a single place, enabling them
-      to view new items styled with ones they already own.
+  - title: 'API '
+    body: In addition to our base solutions the Dressipi platform has a flexible API
+      to feed data and recommendations into existing platforms and solutions, giving
+      retailers complete flexibility and differentiation over how they present a fully
+      personalised customer experience. Built to accept any data sources and integration
+      with future applications such as AR and VR.
     image: "/uploads/style-hub_wardrobe.png"
     hres-image: "/uploads/style-hub_wardrobe@2x.png"
 - title: Key Benefits
@@ -50,7 +64,6 @@ sections:
   handle: cases
   downloads:
   - Shop Direct
-include-form-demo: true
 layout: product
 ---
 
