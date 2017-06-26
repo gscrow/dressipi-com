@@ -36,33 +36,32 @@ sections:
   handle: features
   color: light-grey
   subsections:
-  - title: Recommendations
-    body: Personalise every interaction for each individual customer for a completely
-      tailored experience, throughout their entire shopping journey. Our machine learning
-      technology continuously evaluates the performance of our recommendations to
-      select the most effective algorithms for each customer.
+  - title: Customer Experience
+    body: 'Captivate shoppers, boost conversion and increase customer lifetime value.
+      Dressipi makes it easy for retailers to give every customer their own personal
+      shopping journey by showing personalised product, outfit and size recommendations,
+      in real time and across every channel. '
     action:
       copy: Learn More
       url: "/solutions/recommendations/"
     image: "/uploads/home_recommendations-screen.png"
     hres-image: "/uploads/home_recommendations-screen@2x.png"
-  - title: The Style Hub
-    body: Just like having your own personal stylist, the Style Hub engages shoppers
-      with a series of questions, guides them in the discovery and styling of new
-      products and centralises their fashion life in a single place. 30% of visitors
-      opt to create a personal profile and benefit from enhanced recommendations and
-      advice across all brands and channels, however and wherever, they choose to
-      shop.
+  - title: Innovation
+    body: Dressipi’s technology is built on proprietary algorithms built by one of
+      the most talented teams of technologists, data scientists and stylists in fashion
+      retail.  It uses the latest advances in Machine Learning and AI alongside the
+      largest set of product style, fit and preference data available in the world
+      today.
     action:
       copy: Learn More
       url: "/solutions/style-hub/"
     image: "/uploads/home_style-hub.png"
     hres-image: "/uploads/home_style-hub@2x.png"
-  - title: Data Insights
-    body: Understand the who, what and why behind your key business metrics. Dressipi
-      gives you the tools to enhance your operational processes by providing unique
-      data driven insights into your customers and garments, giving improved sell
-      through rates and reduced markdowns.
+  - title: Data Insight
+    body: 'Simplify the complexity of product assortment and inventory by making a
+      move to more predictive retailing. Dressipi turns complex customer, garment
+      and behavioural data into actionable insights that can quickly be used to make
+      better decisions and optimise future demand requirements. '
     image: "/uploads/home_data-insights.png"
     hres-image: "/uploads/home_data-insights@2x.png"
     action:
