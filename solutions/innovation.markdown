@@ -15,6 +15,14 @@ header:
   color: white
 include-form-demo: true
 sections:
+- title: NEW SECTION
+  handle: intro
+  width: narrow
+  body: |-
+    > EDIT ME EDIT ME EDIT ME and stay relevant. We give customers the confidence to look and feel great and take the hassle out of shopping. We give retailers the tools and insight to make better products and decisions.
+
+    EDIT ME TOO EDIT ME TOO EDIT ME TOO underpins superior recommendations. It is the foundation of a truly helpful shopping experience for customers and creates insight to improve products and solve the inefficiencies of the retail industry.
+    Over 3.5 million women use our service to make better shopping and dressing decisions everyday.
 - title: Key Features
   handle: features
   color: light-grey
