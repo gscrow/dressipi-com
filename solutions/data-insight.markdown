@@ -18,24 +18,24 @@ sections:
 - title: NEED NEW TITLE
   handle: intro
   width: narrow
-  body: "For 1-2-1 personalisation to be truly transformational, personalising the
-    product experience is as important as personalising the customer experience. Dressipi
-    supports the creative process by giving actionable insights that help retailers
-    optimise the product range for the upcoming season as well as more accurately
-    predict the correct quantity and size for each individual location. \n\nRetailers
-    can quickly and easily:\n\n- Explore customers and customer segments across all
-    product sales and returns\n- See how customers match to inventories\n- Have a
-    useful, data view of all products’ attributes"
+  body: "For personalisation at the individual level to be truly transformational,
+    optimising the product inventory is as important as personalising the customer
+    experience. Dressipi supports the creative process by giving actionable insights
+    that help retailers optimise the product range for the upcoming season as well
+    as more accurately predict the correct quantity and size for each individual location.
+    \n\nRetailers can quickly and easily:\n\n- Explore customers and customer segments
+    across all product sales and returns\n- See how customers match to inventories\n-
+    Have a useful, data view of all products’ attributes"
 - title: Key Features
   handle: features
   color: light-grey
   subsections:
   - title: Data Insight
     body: "A deeper understanding of core customers and customer segments. Easily
-      view how customer profile attributes shift over time. See accurate data on attitude
-      to fashion, preferences, lifestyle and where else the customer shops for key
+      view how customer profile attributes shift over time. See accurate data on attitudes
+      to trends, preferences, lifestyle and where else the customer shops for key
       wardrobe items. \n\nDrill down to understand which customers or features are
-      causing high sales growth or increasing returns. \n\nAll Data Insights are delivered
+      causing high sales growth or increasing returns. \n\nAll data insights are delivered
       in a simple, easy to use interface, optimised to be discussed and actioned in
       weekly trade meetings. \n"
     image: "/uploads/labs_predictive-retailing@2x.png"
@@ -43,7 +43,7 @@ sections:
     body: "Minimise returns by predicting the likely return rate of each product within
       just a few days of trading, then avoid re-purchasing items with a high propensity
       for returning.\n\nAccurately predict how your core customers will respond to
-      upcoming seasonal trends. Optimise your split of trends pieces and basic styles.\n\nEnsure
+      upcoming seasonal trends. Optimise your split of trend pieces and basic styles.\n\nEnsure
       your merchandising buys exceed expectations by using Dressipi’s garment and
       feature checker to optimise forecasting at a SKU, size and individual location
       level. \n"
