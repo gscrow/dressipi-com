@@ -71,7 +71,7 @@ sections:
     body: Our unique approach combines data captured on the customer as well as on
       each individual garment. This information is crucial to providing true personalisation,
       and can be fed back to retailers to help them optimise key metrics.
-    image: "/uploads/icon__results.svg"
+    image: "/uploads/icon__data-driven.svg"
 - title: Case Study
   handle: cases
   downloads:
