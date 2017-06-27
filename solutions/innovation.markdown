@@ -15,7 +15,7 @@ header:
   color: white
 include-form-demo: true
 sections:
-- title: NEED NEW TITLE
+- title: Future-proof Your Business
   handle: intro
   width: narrow
   body: "> With technology developed by one of the most talented teams of technologists,
