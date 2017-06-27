@@ -6,8 +6,8 @@ header:
   title: Personalising the Entire Customer Experience
   body: "## The leader in fashion personalisation, Dressipi empowers retailers to
     give each customer their own tailored shopping experience both online and instore.
-    \n\nDressipi provides retailers with data driven, actionable insight on why customers
-    buy and return specific products."
+    \n\n## Dressipi provides retailers with data driven, actionable insight on why
+    customers buy and return specific products."
   button:
     copy: Book a Demo
     url: "#form-demo"
