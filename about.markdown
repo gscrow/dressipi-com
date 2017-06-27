@@ -5,27 +5,28 @@ position: 5
 navigation: header
 header:
   title: Personalisation is our Passion
-  body: "### We are proud to be known as the global leader in fashion-specific omnichannel
-    personalisation."
+  body: "### We are proud to be known as the global leader in fashion-specific personalisation."
   width: extend
 sections:
 - title: Our Mission
   handle: intro
   width: narrow
-  body: |-
-    > Our mission is to help retailers grow and stay relevant. We give customers the confidence to look and feel great and take the hassle out of shopping. We give retailers the tools and insight to make better products and decisions.
-
-    We believe that personalisation at the individual level underpins superior recommendations. It is the foundation of a truly helpful shopping experience for customers and creates insight to improve products and solve the inefficiencies of the retail industry.
-    Over 3.5 million women use our service to make better shopping and dressing decisions everyday.
+  body: "> Our mission is to help retailers grow and stay relevant by giving their
+    customers the confidence to look and feel great and removing all hassle from the
+    shopping experience. \n\nWe believe that personalisation at the individual level
+    underpins superior recommendations. It is the foundation of a truly helpful shopping
+    journey for customers and creates the data and insights that help retailers improve
+    product and solve inefficiencies.\n\nOver 3.5 million women currently use our
+    service to make better shopping and dressing decisions everyday."
 - title: Why Dressipi
   handle: why-us
   columns: 2
   subsections:
   - title: 1-to-1 Personalisation
-    body: Our machine learning technology continuously evaluates the success of our
-      recommendations to select the most effective algorithms for each customer, considering
-      their individual profile, preferences, behaviour and the context in which they
-      are shopping.
+    body: Our machine learning technology continuously evaluates the performance of
+      our recommendations to select the most effective algorithms for every customer
+      at every given time, considering their individual profile, preferences, behaviour
+      and the context in which they are shopping.
   - title: Continual Learning
     body: Each individual customer has their own model which continually learns and
       evolves with their lifestyle, fashion requirements, activity, purchase and preference
@@ -45,14 +46,13 @@ sections:
       that we constantly evolve by integrating newly discovered methods. You can integrate
       our recommendations into any application or solution using our APIs.
   - title: Personalisation at Every Point of the Shopping Journey
-    body: Our solution works across all channels enabling the customer to get the
-      best advice and guidance wherever and however they choose to shop. Consumers
-      sees no distinction and move effortlessly between shopping online, on mobile
-      or instore.
+    body: Our solution works across all channels enabling all customers to get the
+      best advice and guidance wherever and however they choose to shop - online,
+      on mobile or instore.
 - title: Meet the Team
   handle: team
   body: |-
-    We are a small team with big ambitions. Our expert technologists, data scientists and fashion stylists work side by side with the common goal of shaping the future of retail.
+    With passion, ambition and a commitment to learning, our close-knit team support, challenge and inspire each other every day. Our expert technologists, data scientists and fashion stylists work side by side with the common goal of shaping the future of retail.
 
     If you would like to join us on our journey please visit [our careers page](/careers) to see what roles we are currently hiring for.
   members:
