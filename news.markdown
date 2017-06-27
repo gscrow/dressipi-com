@@ -36,7 +36,7 @@ sections:
   - image: "/uploads/cogX-7a574b.PNG"
     title: Best AI Product in Fashion - Winner
   - image: "/uploads/award__every-woman.png"
-    title: Entrepreneur Award (Sarah McVittie & Donna North) - Winners
+    title: Entrepreneur Award - Winner
   - image: "/uploads/award__retailweek.png"
     title: Best Customer Experience - Finalist
   - image: "/uploads/award__internet-retailing-2015.png"
@@ -52,7 +52,7 @@ sections:
 
       Best Tech - Finalist
   - image: "/uploads/award__retail-system-awards.png"
-    title: Best use of Technology for Personalisation - Winner
+    title: Best use of Tech for Personalisation - Winner
 layout: news
 ---
 
