@@ -21,11 +21,11 @@ sections:
   subtitle: What You Can Expect
   handle: benefits
   subsections:
-  - title: Increase in net incremental revenue per visitor by a minimum 5%
+  - title: Increase in net incremental revenue per visitor by 5-8%
     image: "/uploads/icon__report-increase.svg"
   - title: Increase AOV and frequency of purchase
     image: "/uploads/icon__shopping-cart.svg"
-  - title: Reduce returns by 5% (percentage points)
+  - title: Reduce returns by 5% percentage points
     image: "/uploads/icon__cash.svg"
   button:
     copy: Book a Demo
