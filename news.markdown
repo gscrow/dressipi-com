@@ -31,15 +31,14 @@ sections:
   subtitle: 
   handle: awards
   awards:
+  - image: "/uploads/award__world-retail-2017.png"
+    title: The Rodney Fitch Award for Innovation & Creativity 2017 - Finalist
+  - image: "/uploads/cogX-7a574b.PNG"
+    title: Best AI Product in Fashion - Winner
+  - image: "/uploads/award__every-woman.png"
+    title: Entrepreneur Award (Sarah McVittie & Donna North) - Winners
   - image: "/uploads/award__retailweek.png"
     title: Best Customer Experience - Finalist
-  - image: "/uploads/award__digital-awards.png"
-    title: |-
-      Best Customer Experience - Finalist
-
-      Best Tech - Finalist
-  - image: "/uploads/award__retail-system-awards.png"
-    title: Best use of Technology for Personalisation-Winner
   - image: "/uploads/award__internet-retailing-2015.png"
     title: The Service Award - Finalist
   - image: "/uploads/award__decoded-fashion.png"
@@ -47,10 +46,13 @@ sections:
       A Killer Experience - Finalist
 
       Best Tech - Finalist
-  - image: "/uploads/award__every-woman.png"
-    title: Entrepreneur Award (Sarah McVittie & Donna North - Winners)
-  - image: "/uploads/award__world-retail-2017.png"
-    title: The Rodney Fitch Award for Innovation & Creativity - Finalist
+  - image: "/uploads/award__digital-awards.png"
+    title: |-
+      Best Customer Experience - Finalist
+
+      Best Tech - Finalist
+  - image: "/uploads/award__retail-system-awards.png"
+    title: Best use of Technology for Personalisation - Winner
 layout: news
 ---
 
