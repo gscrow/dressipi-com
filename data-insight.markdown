@@ -1,6 +1,6 @@
 ---
 title: Data Insight
-position: 2
+position: 4
 header:
   title: Data Insight
   body: 'Dressipi’s Data Insight tools are designed to help retailers understand the

@@ -1,7 +1,7 @@
 ---
 title: Careers
 date: 2017-05-06 09:50:00 Z
-position: 6
+position: 7
 navigation: footer
 header:
   title: Working at Dressipi

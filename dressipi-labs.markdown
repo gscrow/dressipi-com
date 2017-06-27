@@ -1,7 +1,7 @@
 ---
 title: Dressipi Labs
 date: 2017-05-06 09:49:00 Z
-position: 4
+position: 5
 navigation: header
 header:
   title: Powering the future of retail. Ensure your company stays one step ahead of
