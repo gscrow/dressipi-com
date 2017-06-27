@@ -16,15 +16,15 @@ sections:
     shopping experience. \n\nWe believe that personalisation at the individual level
     underpins superior recommendations. It is the foundation of a truly helpful shopping
     journey for customers and creates the data and insights that help retailers improve
-    product and solve inefficiencies.\n\nOver 3.5 million women currently use our
-    service to make better shopping and dressing decisions everyday."
+    product ranges and solve inefficiencies.\n\nOver 3.5 million women currently use
+    our service to make better shopping and dressing decisions everyday."
 - title: Why Dressipi
   handle: why-us
   columns: 2
   subsections:
   - title: 1-to-1 Personalisation
     body: Our machine learning technology continuously evaluates the performance of
-      our recommendations to select the most effective algorithms for every customer
+      our recommendations to select the most effective algorithms for each customer
       at every given time, considering their individual profile, preferences, behaviour
       and the context in which they are shopping.
   - title: Continual Learning
@@ -32,8 +32,8 @@ sections:
       evolves with their lifestyle, fashion requirements, activity, purchase and preference
       data – we call this the Fashion Fingerprint®.
   - title: Proven Results
-    body: In A/B tests Dressipi has consistently delivered 5% in net incremental revenue
-      per visitor, over and above gains from competitive solutions.
+    body: In A/B tests Dressipi has consistently proven to deliver 5% in net incremental
+      revenue per visitor, over and above gains from any competitive solution.
   - title: Specific Fashion Domain Knowledge
     body: We understand that fashion and how customers think of fashion changes with
       time, inspiration and context. Our algorithms take account of fashion specific
@@ -52,7 +52,7 @@ sections:
 - title: Meet the Team
   handle: team
   body: |-
-    With passion, ambition and a commitment to learning, our close-knit team support, challenge and inspire each other every day. Our expert technologists, data scientists and fashion stylists work side by side with the common goal of shaping the future of retail.
+    With passion, ambition and a commitment to learning our close-knit team support, challenge and inspire each other every day. Our expert technologists, data scientists and fashion stylists work side by side with the common goal of shaping the future of retail.
 
     If you would like to join us on our journey please visit [our careers page](/careers) to see what roles we are currently hiring for.
   members:
