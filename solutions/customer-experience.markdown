@@ -3,8 +3,8 @@ title: Customer Experience
 position: 0
 header:
   title: Customer Experience
-  body: "### Greet shoppers personally. Showcase the products most relevant to them
-    and demonstrate your interest in helping them. Dressipi helps the world’s leading
+  body: "### Greet shoppers personally, showcase their most relevant products and
+    demonstrate your interest in assisting them. Dressipi helps the world’s leading
     fashion retailers deliver engaging and personalised shopping experiences, online
     and instore. "
   button:
