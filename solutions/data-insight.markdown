@@ -15,7 +15,7 @@ header:
   color: transparent
 include-form-demo: true
 sections:
-- title: NEED NEW TITLE
+- title: Reactive to Predictive Retailing
   handle: intro
   width: narrow
   body: "For personalisation at the individual level to be truly transformational,
