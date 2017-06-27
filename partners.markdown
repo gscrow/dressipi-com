@@ -51,7 +51,7 @@ sections:
     image: "/uploads/partners_profile.png"
     hres-image: "/uploads/partners_profile@2x.png"
   - title: Personalised Recommendations
-    body: A highly personalized and unique shopping experience is generated, available
+    body: A highly personalised and unique shopping experience is generated, available
       throughout the customer journey online and in store.
     action:
       copy: Learn More
