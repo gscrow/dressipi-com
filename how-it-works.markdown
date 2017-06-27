@@ -6,24 +6,25 @@ navigation: footer
 header:
   title: Dressipi Personalisation
   body: "### Our one-to-one personalisation solutions are truly unique. We provide
-    personalised recommendations for all customers regardless of whether they have
-    a profile or not."
+    personalised recommendations and communications for each individual customer regardless
+    of whether they have created a profile or not."
   button:
     copy: Book a Demo
     url: "/contact"
   hero-image: "/uploads/banner__how-it-works.jpg"
   color: "#F0F0F0"
+include-form-demo: true
 sections:
 - title: How it Works
   handle: steps
   subsections:
-  - title: Understand each customer intimately
+  - title: Understands each customer intimately
     image: "/uploads/how_understand-the-who.png"
     hres-image: "/uploads/how_understand-the-who@2x.png"
-  - title: Use data to offer the best product and outfit recommendations
+  - title: Uses data to show the best product and outfit recommendations
     image: "/uploads/how_use-data.png"
     hres-image: "/uploads/how_use-data@2x.png"
-  - title: Understand the who what and why behind key metrics
+  - title: Delivers insight on the who, what and why behind key metrics
     image: "/uploads/home_data-insights.png"
     hres-image: "/uploads/home_data-insights@2x.png"
 - title: Easy to Implement
@@ -54,7 +55,6 @@ sections:
   handle: cases
   downloads:
   - Shop Direct
-include-form-demo: true
 layout: how-it-works
 ---
 
