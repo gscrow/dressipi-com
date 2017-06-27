@@ -15,14 +15,18 @@ header:
   color: white
 include-form-demo: true
 sections:
-- title: NEW SECTION
+- title: NEED NEW TITLE
   handle: intro
   width: narrow
-  body: |-
-    > EDIT ME EDIT ME EDIT ME and stay relevant. We give customers the confidence to look and feel great and take the hassle out of shopping. We give retailers the tools and insight to make better products and decisions.
-
-    EDIT ME TOO EDIT ME TOO EDIT ME TOO underpins superior recommendations. It is the foundation of a truly helpful shopping experience for customers and creates insight to improve products and solve the inefficiencies of the retail industry.
-    Over 3.5 million women use our service to make better shopping and dressing decisions everyday.
+  body: "> With technology developed by one of the most talented teams of technologists,
+    data scientists and stylists, Dressipi has built one of the most advanced personalised
+    solutions available for fashion retail today. \n\nDressipi uses the latest advances
+    in Machine Learning and AI alongside the largest set of product fit and style
+    data available in the world. \nInnovation and adaptability are key. Our solution
+    is an ensemble of algorithms that we constantly evolve by integrating newly discovered
+    methods along with our proprietary algorithms. This future-proofs a retailer’s
+    personalisation roadmap and reflects how fashion and customer requirements evolve
+    over time."
 - title: Key Features
   handle: features
   color: light-grey
