@@ -40,7 +40,7 @@ sections:
       information, updated by some of the industry’s most renowned stylists. We believe
       this represents a key differentiator and enables us to outperform competitors
       when compared with a general approach to personalisation.
-  - title: Future Proof your Business
+  - title: Future Proof Your Business
     body: Adaptability is key. There are many exciting advances in both Machine Learning
       and AI. Our solution marries the best of algorithms and proprietary techniques
       that we constantly evolve by integrating newly discovered methods. You can integrate
