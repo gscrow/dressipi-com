@@ -8,7 +8,7 @@ Interested in disrupting the trillion-pound retail industry? We’re tackling on
 
 ### Where you can make an impact?
 
-As a Technical Lead/Performance Engineer in the Dressipi team, you will be working closely with the Data Science and Recommendations teams, helping them implement and deploy algorithms in a scalable manner. You’ll proactively monitor the performance of our infrastructure, data architecture and deployment processes and design and implement improvements to them.
+As a Data Engineer in the Dressipi team, you will be working closely with the Data Science and Recommendations teams, helping them implement and deploy algorithms in a scalable manner. You’ll proactively monitor the performance of our infrastructure, data architecture and deployment processes and design and implement improvements to them.
 
 Our current stack comprises Ruby, Python, Java and a small amount of rust and utilises a wide range of AWS services. We’re always interested in trying new technologies or approaches.  
 
