@@ -20,11 +20,10 @@ sections:
   subsections:
   - title: Product Recommendations
     body: "Recommend your customers the most relevant products in real time based
-      on their unique style, and changing needs. \n\nUnlike other personalisation
-      solutions each product recommended is mapped to every customer’s preferences
-      as if curated by their own personal stylist. Dressipi does this by analysing
-      a customer’s profile, behavioural activity, wardrobe context, trend sentiment
-      and intent.\n"
+      on their unique style, preferences and changing needs. \n\nUnlike other personalisation
+      solutions every product recommended is mapped to each customer as if curated
+      by their own personal stylist. Dressipi does this by analysing a customer’s
+      profile, behavioural activity, wardrobe context, trend sentiment and intent.\n"
     image: "/uploads/home_recommendations-screen.png"
     hres-image: "/uploads/home_recommendations-screen@2x.png"
   - title: Outfit Recommendations
@@ -35,22 +34,22 @@ sections:
     image: "/uploads/recommendations_outfits.png"
     hres-image: "/uploads/recommendations_outfits.@2x.png"
   - title: Sizing
-    body: 'Recommend the best size for your customer. Give them extra assurance to
-      add an item to their basket and reduce the likelihood of them making a return. '
+    body: 'Recommend the best size for every product. Give customers the extra assurance
+      to add an item to their basket and reduce the likelihood of making a return. '
     image: "/uploads/recommendations_sizing.png"
     hres-image: "/uploads/recommendations_sizing@2x.png"
   - title: Listing & Category Pages
     body: 'Eliminate the hassle of lengthy scrolling. Show a personalised listing
-      for each individual customer so they can quickly and easily see the products
-      they are most likely to buy. '
+      for each customer so they can quickly and easily see the products most relevant
+      to them and most likely to buy. '
     image: "/uploads/recommendations_listing.png"
     hres-image: "/uploads/recommendations_listing@2x.png"
   - title: Emails & Notifications
-    body: 'Personalised emails and notifications lead to more opens, CTRs and purchases
-      than segment based ones. Dressipi’s solution automates the delivery of relevant
-      products and outfit recommendations to every individual customer, inspiring
-      them to return to store or online. Works with any ESP, can be theme based or
-      triggered based on activity.  '
+    body: 'Personalised emails and notifications lead to higher open rates, click-through
+      rates and purchases than segment based ones. Dressipi’s solution automates the
+      delivery of product and outfit recommendations to each individual customer,
+      inspiring them to return to store or online. Works with any ESP and can be theme
+      based or triggered based on activity.  '
     image: "/uploads/recommendations_email.png"
     hres-image: "/uploads/recommendations_email@2x.png"
   - title: Landing & Content Pages
@@ -75,18 +74,19 @@ sections:
   handle: benefits
   subsections:
   - title: Proven Results
-    body: Increases net incremental revenue per customer by 3-5% whilst also increasing
+    body: Increases net incremental revenue per visitor by 3-5% whilst also increasing
       AOV and frequency of purchase.
     image: "/uploads/icon__report-increase.svg"
   - title: Customer Centric
-    body: Dressipi aims to solve customer's problems by putting customer needs at
-      the heart in order to deliver a truly personalised experience that delivers
+    body: Dressipi aims to solve each customer's problems by putting their needs at
+      the heart of our solution to deliver a truly personalised experience that delivers
       great results.
     image: "/uploads/icon__customer-centric.svg"
   - title: Data Driven
     body: Our unique approach combines data captured on the customer as well as on
-      each individual garment. This information is crucial to providing true personalisation,
-      and can be fed back to retailers to help them optimise key metrics.
+      each individual garment. This information is crucial to providing personalisation
+      at the individual level and creates data that can be fed back to retailers to
+      help them optimise key metrics.
     image: "/uploads/icon__data-driven.svg"
 - title: Case Study
   handle: cases
