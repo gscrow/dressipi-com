@@ -43,16 +43,12 @@ sections:
       customers \"people like you also like this\", Dressipi presents more helpful
       and fashion specific advice such as \"This fit & flare style is a must have
       dress for you and will work well worn with your biker jacket\".\n"
-    image: "/uploads/style-hub_daily-picks.png"
-    hres-image: "/uploads/style-hub_daily-picks@2x.png"
   - title: 'API '
     body: In addition to our base solutions the Dressipi platform has a flexible API
       to feed data and recommendations into existing platforms and solutions, giving
       retailers complete flexibility and differentiation over how they present a fully
       personalised customer experience. Built to accept any data sources and integration
       with future applications such as AR and VR.
-    image: "/uploads/style-hub_wardrobe.png"
-    hres-image: "/uploads/style-hub_wardrobe@2x.png"
 - title: Key Benefits
   handle: benefits
   color: light-grey
