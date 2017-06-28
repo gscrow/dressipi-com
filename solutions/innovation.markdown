@@ -2,12 +2,12 @@
 title: Innovation
 position: 2
 header:
-  body: 'What if you could truly understand each of your customers intimately? The
+  body: "What if you could truly understand each of your customers intimately? The
     features and styles they love or won’t wear, how confident they are when it comes
     to dressing or shopping, what they want to add to their wardrobe or the events
-    and occasions they buy for. At Dressipi we believe knowing the answers to these
-    questions is the most important opportunity for retailers – it empowers better
-    customer experiences, better products and better revenue and profitability. '
+    and occasions they buy for. \n\nAt Dressipi we believe knowing the answers to
+    these questions is the most important opportunity for retailers – it empowers
+    better customer experiences, better products and better revenue and profitability. "
   button:
     copy: Book a Demo
     url: "/contact"
