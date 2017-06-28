@@ -23,9 +23,9 @@ sections:
     experience. Dressipi supports the creative process by giving actionable insights
     that help retailers optimise the product range for the upcoming season as well
     as more accurately predict the correct quantity and size for each individual location.
-    \n\nRetailers can quickly and easily:\n\n- Explore customers and customer segments
-    across all product sales and returns\n- See how customers match to inventories\n-
-    Have a useful, data view of all products’ attributes"
+    \n\nRetailers can quickly and easily:\n\n * Explore customers and customer segments
+    across all product sales and returns\n * See how customers match to inventories\n
+    * Have a useful, data view of all products’ attributes"
 - title: Key Features
   handle: features
   color: light-grey
