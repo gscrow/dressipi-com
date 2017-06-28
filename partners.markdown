@@ -37,27 +37,6 @@ sections:
     image: "/uploads/icon__results.svg"
   downloads:
   - Shop Direct
-- title: How it Works
-  handle: features
-  color: light-grey
-  subsections:
-  - title: Create a Profile
-    body: The visitor creates a unique profile by answering a series of short questions
-      related to their preferences, body shape and personality. If customers have
-      already created a profile elsewhere, they can connect to an existing one.
-    action:
-      copy: Learn More
-      url: "/how-it-works"
-    image: "/uploads/partners_profile.png"
-    hres-image: "/uploads/partners_profile@2x.png"
-  - title: Personalised Recommendations
-    body: A highly personalised and unique shopping experience is generated, available
-      throughout the customer journey online and in store.
-    action:
-      copy: Learn More
-      url: "/solutions/customer-experience"
-    image: "/uploads/partners_personalise.png"
-    hres-image: "/uploads/partners_personalise@2x.png"
 - title: Explore More
   body: Try it for yourself by clicking the links below, or visit our [How it Works](/how-it-works)
     page to find out more about how to integrate this technology into your own site.
