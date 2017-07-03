@@ -52,7 +52,7 @@ sections:
 
       Best Tech - Finalist
   - image: "/uploads/award__retail-system-awards.png"
-    title: Best use of Tech for Personalisation - Winner
+    title: Best Use of Tech for Personalisation - Winner
 layout: news
 ---
 
