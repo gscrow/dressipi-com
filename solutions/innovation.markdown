@@ -22,7 +22,7 @@ sections:
     data scientists and stylists, Dressipi has built one of the most advanced personalised
     solutions available for fashion retail today. \n\nDressipi uses the latest advances
     in Machine Learning and AI alongside the largest set of product fit and style
-    data available in the world. \nInnovation and adaptability are key. Our solution
+    data available in the world. \n\nInnovation and adaptability are key. Our solution
     is an ensemble of algorithms that we constantly evolve by integrating newly discovered
     methods along with our proprietary algorithms. This future-proofs a retailer’s
     personalisation roadmap and reflects how fashion and customer requirements evolve
