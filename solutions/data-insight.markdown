@@ -18,8 +18,8 @@ sections:
 - title: Reactive to Predictive Retailing
   handle: intro
   width: narrow
-  body: For 1-2-1 personalisation to be truly transformational, personalising the
-    product experience is as important as personalising the customer experience. Dressipi
+  body: For fashion-specific personalisation to be truly transformational, personalising
+    the product experience and customer experience are equally important. Dressipi
     supports the creative process by giving actionable insights that help retailers
     optimise the product range for the upcoming season as well as more accurately
     predict the correct quantity and size for each individual location.
