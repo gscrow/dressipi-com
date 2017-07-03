@@ -49,7 +49,7 @@ sections:
       retailers complete flexibility and differentiation over how they present a fully
       personalised customer experience. Built to accept any data sources and integration
       with future applications such as AR and VR.
-- title: Dressipi Overview
+- title: Dressipi Personalisation Engine
   handle: slide
   width: narrow
   subsections:
