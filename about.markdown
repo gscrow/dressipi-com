@@ -32,8 +32,9 @@ sections:
       evolves with their lifestyle, fashion requirements, activity, purchase and preference
       data – we call this the Fashion Fingerprint®.
   - title: Proven Results
-    body: In A/B tests Dressipi has consistently proven to deliver 5% in net incremental
-      revenue per visitor, over and above gains from any competitive solution.
+    body: In A/B tests Dressipi has consistently proven to deliver 5-8% increase in
+      net incremental revenue per visitor, over and above gains from any competitive
+      solution.
   - title: Specific Fashion Domain Knowledge
     body: We understand that fashion and how customers think of fashion changes with
       time, inspiration and context. Our algorithms take account of fashion specific
