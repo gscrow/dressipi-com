@@ -33,7 +33,7 @@ sections:
   awards:
   - image: "/uploads/award__world-retail-2017.png"
     title: The Rodney Fitch Award for Innovation & Creativity 2017 - Finalist
-  - image: "/uploads/CogX_awards_badge-Final-07.png"
+  - image: "/uploads/award__cogx.png"
     title: Best AI Product in Fashion - Winner
   - image: "/uploads/award__every-woman.png"
     title: Entrepreneur Award - Winner
