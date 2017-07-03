@@ -53,7 +53,7 @@ sections:
   handle: slide
   width: narrow
   subsections:
-  - body:
+  - body: 
     image: "/uploads/slide_dressipi.png"
     hres-image: "/uploads/slide_dressipi.png"
 - title: Key Benefits

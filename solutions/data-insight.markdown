@@ -24,7 +24,7 @@ sections:
     optimise the product range for the upcoming season as well as more accurately
     predict the correct quantity and size for each individual location.
   subsections:
-  - title: "Retailers can quickly and easily:"
+  - title: 'Retailers can quickly and easily:'
     body: |
       - Explore customers and customer segments across all product sales and returns
       - See how customers match to inventories
