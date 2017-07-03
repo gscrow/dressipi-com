@@ -5,7 +5,7 @@ position: 2
 navigation: footer
 header:
   title: Dressipi Personalisation
-  body: "### Our one-to-one personalisation solutions are truly unique. We provide
+  body: "### Our fashion-specific personalisation solutions are truly unique. We provide
     personalised recommendations and communications for each individual customer regardless
     of whether they have created a profile or not."
   button:
