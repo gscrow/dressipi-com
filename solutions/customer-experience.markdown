@@ -74,7 +74,7 @@ sections:
   handle: benefits
   subsections:
   - title: Proven Results
-    body: Increases net incremental revenue per visitor by 3-5% whilst also increasing
+    body: Increases net incremental revenue per visitor by 5-8% whilst also increasing
       AOV and frequency of purchase.
     image: "/uploads/icon__report-increase.svg"
   - title: Customer Centric
