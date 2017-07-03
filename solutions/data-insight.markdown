@@ -18,14 +18,17 @@ sections:
 - title: Reactive to Predictive Retailing
   handle: intro
   width: narrow
-  body: "For personalisation at the individual level to be truly transformational,
-    optimising the product inventory is as important as personalising the customer
-    experience. Dressipi supports the creative process by giving actionable insights
-    that help retailers optimise the product range for the upcoming season as well
-    as more accurately predict the correct quantity and size for each individual location.
-    \n\nRetailers can quickly and easily:\n\n * Explore customers and customer segments
-    across all product sales and returns\n * See how customers match to inventories\n
-    * Have a useful, data view of all products’ attributes"
+  body: For 1-2-1 personalisation to be truly transformational, personalising the
+    product experience is as important as personalising the customer experience. Dressipi
+    supports the creative process by giving actionable insights that help retailers
+    optimise the product range for the upcoming season as well as more accurately
+    predict the correct quantity and size for each individual location.
+  subsections:
+  - title: "Retailers can quickly and easily:"
+    body: |
+      - Explore customers and customer segments across all product sales and returns
+      - See how customers match to inventories
+      - Have a useful, data view of all products attributes
 - title: Key Features
   handle: features
   color: light-grey
