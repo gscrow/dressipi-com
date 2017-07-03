@@ -49,6 +49,13 @@ sections:
       retailers complete flexibility and differentiation over how they present a fully
       personalised customer experience. Built to accept any data sources and integration
       with future applications such as AR and VR.
+- title: Dressipi Overview
+  handle: slide
+  width: narrow
+  subsections:
+  - body:
+    image: "/uploads/slide_dressipi.png"
+    hres-image: "/uploads/slide_dressipi.png"
 - title: Key Benefits
   handle: benefits
   color: light-grey

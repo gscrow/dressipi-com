@@ -17,6 +17,37 @@ layout: default
     {% when 'intro' %}
     <div class="container{% if section.width %}{{ section.width | prepend: '--' }}{% endif %} gutter">
       {{ section.body | markdownify }}
+      <div class="intro__list">
+        {% for subsection in section.subsections %}
+        <div class="gutter intro">
+          <div class="intro__copy">
+            <h3 class="intro__title">{{ subsection.title }}</h3>
+            <div class="intro__body">{{ subsection.body | markdownify }}</div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    {% when 'slide' %}
+    <div class="slide">
+      {% for subsection in section.subsections %}
+        <div class="sub_slide">
+          <div class="container">
+            {% if subsection.image %}
+            <div class="gutter slide__image">
+              <div><!-- keep flex image ratio -->
+                <img src="{{ subsection.image }}" alt="{{ subsection.title }}" {% if subsection.hres-image %}srcset="{{ subsection.hres-image }} 2x"{% endif %} class="slide__image"  />
+              </div>
+            </div>
+            {% endif %}
+            <div class="gutter slide__copy{% if subsection.align == 'top' %}--top{% endif %}">
+              <h2 class="slide__title">{{ subsection.title }}</h2>
+              <div class="slide__body">{{ subsection.body | markdownify }}</div>
+              {% if subsection.action %}<a href="{{ subsection.action.url }}" class="button button-{{ subsection.action.style | default: 'secondary' }}">{{ subsection.action.copy }}</a>{% endif %}
+            </div>
+          </div>
+        </div>
+      {% endfor %}
     </div>
 		{% when 'features' %}
 		<div class="features">
