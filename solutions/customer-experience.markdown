@@ -32,7 +32,7 @@ sections:
       customers the versatility of a garment, giving them the confidence to make a
       shopping decision. '
     image: "/uploads/recommendations_outfits.png"
-    hres-image: "/uploads/recommendations_outfits.@2x.png"
+    hres-image: "/uploads/recommendations_outfits@2x.png"
   - title: Sizing
     body: 'Recommend the best size for every product. Give customers the extra assurance
       to add an item to their basket and reduce the likelihood of making a return. '
