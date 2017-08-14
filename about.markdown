@@ -17,7 +17,7 @@ sections:
     underpins superior recommendations. It is the foundation of a truly helpful shopping
     journey for customers and creates the data and insights that help retailers improve
     product ranges and solve inefficiencies.\n\nOver 3.5 million women currently use
-    our service to make better shopping and dressing decisions everyday."
+    our service to make better shopping and dressing decisions every day."
 - title: Why Dressipi
   handle: why-us
   columns: 2
