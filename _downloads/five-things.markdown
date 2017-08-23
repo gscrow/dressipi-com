@@ -8,8 +8,8 @@ testimonial:
   action: Download Whitepaper
 ---
 
-# Five things every retailer should know about personalisation
+# Five Things Every Retailer Should Know About Personalisation
 
-## There are many challenges associated with personalisation - deciding how to get started, navigating the numerous solutions on offer and learning how to build genuinely trusted connections with customers.
+## Learn how to get started, navigate the numerous solutions on offer, and build genuinely trusted connections with customers.
 
-In this short paper Donna North, co-founder of Dressipi shares five key thoughts on how to approach personalisation to get the most value for both your customers and your business.
+In this paper Donna North, co-founder of Dressipi shares five key thoughts on how to leverage personalisation to deliver value for both your business and its customers.
