@@ -1,5 +1,5 @@
 ---
-title: Five things
+title: Five Things Every Retailer Should Know...
 date: 2017-08-22 13:19:00 Z
 form:
   title: Download Free Whitepaper
