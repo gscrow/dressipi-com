@@ -4,6 +4,7 @@ date: 2017-08-22 13:19:00 Z
 form:
   title: Download Free Whitepaper
   button: Download Whitepaper
+  file: "/uploads/Dressipi-whitepaper-Five-Things-Every-Retailer-Should-Know-About-Personalisation.pdf"
 testimonial:
   action: Download Whitepaper
 ---
