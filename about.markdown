@@ -119,10 +119,6 @@ sections:
     title: Web Developer
     linkedin: https://www.linkedin.com/in/sixtysticks
     image: "/uploads/davd-gibbs.jpg"
-  - name: Matt Thomas
-    title: Web Developer
-    linkedin: https://www.linkedin.com/in/matthew-thomas-a576a025/?ppe=1
-    image: "/uploads/matt-thomas.jpg"
   - name: Paul Woestelandt
     title: Web Developer
     linkedin: https://www.linkedin.com/in/pwoestelandt
