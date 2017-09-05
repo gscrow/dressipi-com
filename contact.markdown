@@ -16,4 +16,4 @@ google-maps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d
 layout: contact
 ---
 
-### Please use the form below to contact us if you have any questions or you want to schedule a demo.
+### Please use the form below to contact us if you have any questions or would like to schedule a demo.
