@@ -9,7 +9,7 @@ form-contact:
   formspree-ID: meeaabem
   button: Book a Demo
   redirect: "/thanks"
-  email_cc:
+  email_cc: 
 width: narrow
 layout: contact
 ---
