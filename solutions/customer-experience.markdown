@@ -9,7 +9,7 @@ header:
     and instore. "
   button:
     copy: Book a Demo
-    url: "/contact"
+    url: "/book-a-demo"
   hero-image: "/uploads/banner_style-hub.jpg"
   color: "#F0F0F0"
 include-form-demo: true
@@ -94,4 +94,3 @@ sections:
   - Shop Direct
 layout: product
 ---
-
