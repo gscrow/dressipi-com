@@ -5,16 +5,6 @@
       <h3>{{ site.form-demo.subtitle }}</h3>
     </hgroup>
 
-    <form class="form-demo__form" method="POST" action="https://formspree.io/{{ site.form-demo.formspree-ID }}">
-      <input type="text" name="_gotcha" style="display: none">
-      {% if site.form-demo.email_cc %}
-      <input type="hidden" name="_cc" value="{{site.form-demo.email_cc}}" />
-      {% endif %}
-      <input type="hidden" name="_next" value="{{ site.form-demo.redirect }}" />
-      <input type="hidden" name="_subject" value="New demo request" />
-      <input class="form-demo__email" type="email" name="email" placeholder="Enter your email">
-      <input class="form-demo__company" type="text" name="company_name" placeholder="Company name">
-      <button class="button button--large button-primary form-demo__submit" type="submit">{{ site.form-demo.button }}</button>
-    </form>
+    <a href="/book-a-demo" class="button button--large button-primary" title="">Book a Demo</a>
   </div>
 </div>
