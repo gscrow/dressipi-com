@@ -10,7 +10,7 @@ header:
     and lower markdowns. '
   button:
     copy: Book a Demo
-    url: "/contact"
+    url: "/book-a-demo"
   hero-image: "/uploads/banner_data-insights.jpg"
   color: transparent
 include-form-demo: true
@@ -67,4 +67,3 @@ sections:
   - Shop Direct
 layout: product
 ---
-

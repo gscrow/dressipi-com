@@ -29,7 +29,7 @@ sections:
     image: "/uploads/icon__cash.svg"
   button:
     copy: Book a Demo
-    url: "/contact"
+    url: "/book-a-demo"
     style: primary
 - title: Our Solutions
   subtitle: Online, Mobile, In Store
@@ -83,4 +83,3 @@ sections:
   - Autograph
 layout: index
 ---
-

@@ -10,7 +10,7 @@ header:
     better customer experiences, better products and better revenue and profitability. "
   button:
     copy: Book a Demo
-    url: "/contact"
+    url: "/book-a-demo"
   hero-image: "/uploads/banner_style-hub.jpg"
   color: white
 include-form-demo: true
@@ -53,7 +53,7 @@ sections:
   handle: slide
   width: narrow
   subsections:
-  - body: 
+  - body:
     image: "/uploads/slide_dressipi.png"
     hres-image: "/uploads/slide_dressipi.png"
 - title: Key Benefits
@@ -81,4 +81,3 @@ sections:
   - Shop Direct
 layout: product
 ---
-
