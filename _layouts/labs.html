@@ -24,6 +24,13 @@ layout: default
             </div>
 		      </div>
 		      {% endif %}
+          {% if subsection.video %}
+		      <div class="gutter project__image">
+						<div><!-- keep flex image ratio -->
+              <iframe width="560" height="315" src="{{ subsection.video }}" frameborder="0" allowfullscreen></iframe>
+            </div>
+		      </div>
+		      {% endif %}
 		      <div class="gutter project__copy{% if subsection.align == 'top' %}--top{% endif %}">
 		        <h2 class="project__title">{{ subsection.title }}</h2>
 		        <div class="project__body">{{ subsection.description | markdownify }}</div>
