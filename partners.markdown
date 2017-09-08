@@ -9,7 +9,7 @@ header:
     shopping and dressing solution.
   button:
     copy: Book a Demo
-    url: "#form-demo"
+    url: "/book-a-demo"
     style: primary
   width: full
   clients:
@@ -53,4 +53,3 @@ sections:
   - Autograph
 layout: partners
 ---
-

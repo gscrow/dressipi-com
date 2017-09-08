@@ -10,7 +10,7 @@ header:
     customers buy and return specific products."
   button:
     copy: Book a Demo
-    url: "#form-demo"
+    url: "/book-a-demo"
   hero-image: "/uploads/banner__home.jpg"
   link:
     copy: Discover our Solutions
