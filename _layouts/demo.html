@@ -9,12 +9,12 @@ layout: default
     <div class="gutter contact-form">
       {{ content }}
       <div class="form-contact">
-        <form class="form-contact__form" method="POST" action="https://formspree.io/{{ page.form-contact.formspree-ID }}">
+        <form class="form-contact__form" method="POST" action="https://formspree.io/{{ page.form-demo.formspree-ID }}">
           <input type="text" name="_gotcha" style="display: none">
-          {% if page.form-contact.email_cc %}
-          <input type="hidden" name="_cc" value="{{page.form-contact.email_cc}}" />
+          {% if page.form-demo.email_cc %}
+          <input type="hidden" name="_cc" value="{{page.form-demo.email_cc}}" />
           {% endif %}
-          <input type="hidden" name="_next" value="{{ page.form-contact.redirect }}" />
+          <input type="hidden" name="_next" value="{{ page.form-demo.redirect }}" />
           <input type="hidden" name="_subject" value="New contact form submit" />
           <div class="form-contact__input-group">
             <input type="input" class="form-contact__input" name="name" placeholder="Your name">
@@ -22,7 +22,7 @@ layout: default
             <input type="input" class="form-contact__input" name="phone number" placeholder="Your phone number">
             <input type="input" class="form-contact__input" name="company" placeholder="Your company">
           </div>
-          <button class="button button--large button-primary form-demo__submit" type="submit">{{ page.form-contact.button }}</button>
+          <button class="button button--large button-primary form-demo__submit" type="submit">{{ page.form-demo.button }}</button>
         </form>
       </div>
     </div>
