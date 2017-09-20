@@ -38,12 +38,12 @@ sections:
 - title: How Dressipi Can Help Retailers Transform Their Biggest Asset
   button:
     copy: Download our Whitepaper
-    url: "/downloads/whitepaper-how-dressipi-can-help-retailers-transform-their-biggest-asset/"
+    url: "/downloads/how-dressipi-can-help-retailers-transform-their-biggest-asset-whitepaper/"
     style: primary
 - title: Five Things Every Retailer Should Know About Personalisation
   button:
     copy: Download our Whitepaper
-    url: "/downloads/whitepaper-five-things-every-retailer-should-know-about-personalisation/"
+    url: "/downloads/five-things-every-retailer-should-know-about-personalisation-whitepaper/"
     style: primary
 layout: labs
 ---
