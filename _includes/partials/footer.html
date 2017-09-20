@@ -6,14 +6,6 @@
     <nav class="site-footer__nav">
       <div class="site-footer__cols">
         <div class="gutter site-footer__col">
-          <h3 class="site-footer__col-title">Connect</h3>
-          <ul>
-            {% for social in site.social.links %}
-            <li><a href="{{ social.link }}">{{ social.name }}</a></li>
-            {% endfor %}
-          </ul>
-        </div>
-        <div class="gutter site-footer__col">
           <h3 class="site-footer__col-title">Links</h3>
           <ul>
             {% assign footer_links = site.pages | where: 'navigation', 'footer' | sort: 'position' %}
@@ -22,6 +14,14 @@
             {% endfor %}
             <li><a href="https://blog.dressipi.com/">Blog</a></li>
             <li><a href="https://app.dressipi.com/login">Sign In</a></li>
+          </ul>
+        </div>
+        <div class="gutter site-footer__col">
+          <h3 class="site-footer__col-title">Connect</h3>
+          <ul>
+            {% for social in site.social.links %}
+            <li><a href="{{ social.link }}">{{ social.name }}</a></li>
+            {% endfor %}
           </ul>
         </div>
         <div class="gutter site-footer__col">
