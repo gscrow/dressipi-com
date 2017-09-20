@@ -40,7 +40,7 @@ sections:
     copy: Download our Whitepaper
     url: "/downloads/whitepaper-how-dressipi-can-help-retailers-transform-their-biggest-asset/"
     style: primary
-- title: Five Things Every Retailer Should Know...
+- title: Five Things Every Retailer Should Know About Personalisation
   button:
     copy: Download our Whitepaper
     url: "/downloads/whitepaper-five-things-every-retailer-should-know-about-personalisation/"
