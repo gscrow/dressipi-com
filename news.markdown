@@ -31,6 +31,8 @@ sections:
   subtitle: 
   handle: awards
   awards:
+  - image: "/uploads/RW_TECH_AWD_WINNER_STICKER_SILVER.png"
+    title: In-store CX Initiative of the Year - Silver Winner
   - image: "/uploads/award__world-retail-2017.png"
     title: The Rodney Fitch Award for Innovation & Creativity 2017 - Finalist
   - image: "/uploads/award__cogx.png"
