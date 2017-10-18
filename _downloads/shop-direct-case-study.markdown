@@ -23,7 +23,7 @@ layout: download
 
 ## In our free case study you will learn:
 
-* The main drivers behind Shop Direct's decision to work with Dressipi
+* The main drivers behind Shop Direct's decision to partner with Dressipi
 
 * How Dressipi has helped Shop Direct deliver personalisation to every customer
 
