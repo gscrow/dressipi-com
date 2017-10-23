@@ -94,6 +94,6 @@ exclude:
 - Gemfile.lock
 - README*
 - ".gitignore"
-plugins:
+plugins_dir:
 - jekyll-sitemap
-- jekyll-seo-tag
+# - jekyll-seo-tag
