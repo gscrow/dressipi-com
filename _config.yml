@@ -14,13 +14,12 @@ collections:
   posts:
     title: Posts
     output: true
+  tags:
+    title: Tags
+    output: true
   uploads:
     title: Uploads
     output: true
-  tags:
-    title: blog_tags
-    output: true
-    permalink: "/blog/tags/:title/"
 defaults:
 - scope:
     path: ''
