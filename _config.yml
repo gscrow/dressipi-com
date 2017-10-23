@@ -17,6 +17,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  blog-tags:
+    title: blog_tags
+    output: true
 defaults:
 - scope:
     path: ''
