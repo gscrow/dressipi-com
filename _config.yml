@@ -2,6 +2,10 @@
 title: Dressipi.com
 timezone: UTC
 collections:
+  blog_categories:
+    title: Categories
+    output: true
+    permalink: "/blog/categories/:title/"
   clients:
     title: Clients
     output: false
