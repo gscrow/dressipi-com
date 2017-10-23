@@ -33,7 +33,6 @@
       <a href="{{post.url}}"><img src="{{post.hero}}" alt="{{post.title}}" /></a>
     </p>
     {% endif %}
-{{post.excerpt}}
     {% if is_excerpt %}
       {{ post.excerpt | markdownify }}
     {% else %}
