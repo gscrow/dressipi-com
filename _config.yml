@@ -20,7 +20,7 @@ collections:
   blog_tags:
     title: Tags
     output: true
-    permalink: "/blog/tags/:title"
+    permalink: "/blog/tags/:title/"
   uploads:
     title: Uploads
     output: true
