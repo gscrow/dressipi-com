@@ -28,11 +28,12 @@
   {% endif %}
 
   <section class="article__content">
-    {% if post.hero %}
+<!--     {% if post.hero %}
     <p>
       <a href="{{post.url}}"><img src="{{post.hero}}" alt="{{post.title}}" /></a>
     </p>
-    {% endif %}
+    {% endif %} -->
+
     {% if is_excerpt %}
       {{ post.excerpt | markdownify }}
     {% else %}
