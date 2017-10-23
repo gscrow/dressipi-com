@@ -19,7 +19,7 @@ collections:
     output: true
   tags:
     title: blog_tags
-    output: false
+    output: true
     permalink: "/blog/tags/:title/"
 defaults:
 - scope:
