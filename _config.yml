@@ -20,6 +20,22 @@ collections:
 defaults:
 - scope:
     path: ''
+    type: posts
+  values:
+    permalink: "/blog/:title/"
+    layout: post
+    image: 
+    description: 
+    button:
+      title: 
+      url: 
+- scope:
+    path: ''
+    type: blog_tags
+  values:
+    layout: tag
+- scope:
+    path: ''
     type: downloads
   values:
     permalink: "/downloads/:title/"
@@ -94,6 +110,6 @@ exclude:
 - Gemfile.lock
 - README*
 - ".gitignore"
-plugins_dir:
+gems:
 - jekyll-sitemap
-# - jekyll-seo-tag
+- jekyll-seo-tag
