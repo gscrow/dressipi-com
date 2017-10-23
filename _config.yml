@@ -5,7 +5,6 @@ collections:
   blog_categories:
     title: Categories
     output: true
-    permalink: "/blog/categories/:title/"
   clients:
     title: Clients
     output: false
@@ -21,7 +20,6 @@ collections:
   blog_tags:
     title: Tags
     output: true
-    permalink: "/blog/tags/:title/"
   uploads:
     title: Uploads
     output: true
@@ -38,8 +36,15 @@ defaults:
       url: 
 - scope:
     path: ''
+    type: blog_categories
+  values:
+    permalink: "/blog/categories/:title/"
+    layout: category
+- scope:
+    path: ''
     type: blog_tags
   values:
+    permalink: "/blog/tags/:title/"
     layout: tag
 - scope:
     path: ''
