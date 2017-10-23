@@ -3,5 +3,5 @@ layout: default
 ---
 
 {% for post in site.posts limit:site.per_page %}
-  {% include post.html post=post is_excerpt=true %}
+  {% include partials/post.html post=post is_excerpt=true %}
 {% endfor %}

@@ -1,0 +1,16 @@
+.section-blog {
+	> .container {
+		@include flexbox;
+		@include flex-wrap(wrap);
+		@include justify-content(center);
+
+		.blog__content {
+			flex: 7;
+			padding-right: $gutter-width;
+		}
+
+		.blog__sidebar {
+			flex: 3;
+		}
+	}
+}
