@@ -1,5 +1,5 @@
 ---
 title: Trends
-permalink: "/blog/tags/trends/"
+date: 2017-10-23 04:40:00 Z
 ---
 
