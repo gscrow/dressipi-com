@@ -6,6 +6,12 @@
         <a href="{{ site.baseurl }}/" class="header__logo">{% include svgs/logo.svg %}</a>
         <nav role="navigation" class="navigation">
           <ul class="navigation_items">
+            {% if my_page_url contains 'blog' %}
+            {% assign category_links = site.blog_categories %}
+            {% for link in category_links %}
+              <li class="navigation__item"><a href="{{ link.url }}" class="navigation__link {% if page.url == link.url %}navigation__link--active{% endif %}"">{{ link.title }}</a></li>
+            {% endfor %}
+            {% else %}
             {% assign header_links = site.pages | where: 'navigation', 'header' | sort: 'position' %}
             {% for link in header_links %}
               {% if link.has-menu %}
@@ -18,6 +24,7 @@
               {% endif %}
             {% endfor %}
             <li class="navigation__item"><a href="/book-a-demo" class="button {% if my_page_url == '' %}button-default{% else %}button-primary{% endif %} navigation__button" title="Book a Demo">Book a Demo</a></li>
+            {% endif %}
           </ul>
         </nav>
         <button class="header-mobile-button">
