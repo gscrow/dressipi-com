@@ -17,7 +17,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-  tag:
+  tags:
     title: blog_tags
     output: true
     permalink: "/blog/:title/"
