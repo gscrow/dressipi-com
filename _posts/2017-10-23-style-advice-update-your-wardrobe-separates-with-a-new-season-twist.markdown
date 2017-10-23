@@ -1,6 +1,8 @@
 ---
 title: 'Style Advice: Update your wardrobe separates with a new season twist'
 date: 2017-10-23 03:15:00 Z
+tags:
+- trends
 layout: post
 ---
 
