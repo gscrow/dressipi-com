@@ -14,10 +14,29 @@ collections:
   posts:
     title: Posts
     output: true
+  blog_tags:
+    title: Tags
+    output: true
   uploads:
     title: Uploads
     output: true
 defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/blog/:title/"
+    layout: post
+    image: 
+    description: 
+    button:
+      title: 
+      url: 
+- scope:
+    path: ''
+    type: blog_tags
+  values:
+    layout: tag
 - scope:
     path: ''
     type: downloads
@@ -87,6 +106,7 @@ social:
     link: https://www.instagram.com/dressipi
   - name: LinkedIn
     link: https://www.linkedin.com/company/dressipi
+date_format: "%-d %B %Y"
 gtm-code: GTM-TRK2KPX
 permalink: pretty
 exclude:
@@ -94,6 +114,6 @@ exclude:
 - Gemfile.lock
 - README*
 - ".gitignore"
-plugins:
+gems:
 - jekyll-sitemap
 - jekyll-seo-tag
