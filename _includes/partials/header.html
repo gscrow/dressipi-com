@@ -28,7 +28,7 @@
     </div>
   </div>
   {% unless page.exclude-hero %}
-  <div class="hero{% if page.header.height =='tight' %} hero--tight{% endif %}{% unless my_page_url == '' %} hero-content {{ my_page_url | prepend: "hero-"}}{% endunless %}{% if page.header.hero-image %} hero--mobile{% endif %}" style="background: {% if page.header.hero-image %}linear-gradient(to left, rgba(255, 255, 255, 0) 30%, {{ page.header.color | default: '#f5f5f5' }} 50%), url({{ page.header.hero-image }}) no-repeat right{% else if page.header.color %}{{ page.header.color | default: '#F8F8F8' }}{% endif %};">
+  <div class="hero{% if page.header.height =='tight' or my_page_url contains 'blog' %} hero--tight{% endif %}{% unless my_page_url == '' %} hero-content {{ my_page_url | prepend: "hero-"}}{% endunless %}{% if page.header.hero-image %} hero--mobile{% endif %}" style="background: {% if page.header.hero-image %}linear-gradient(to left, rgba(255, 255, 255, 0) 30%, {{ page.header.color | default: '#f5f5f5' }} 50%), url({{ page.header.hero-image }}) no-repeat right{% else if page.header.color %}{{ page.header.color | default: '#F8F8F8' }}{% endif %};">
 
     <div class="container gutter">
       <div class="hero__content{% if page.header.width %}{{ page.header.width | prepend: '--' }}{% endif %}">

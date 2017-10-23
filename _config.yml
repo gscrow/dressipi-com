@@ -29,7 +29,6 @@ defaults:
     permalink: "/blog/:title/"
     layout: post
     image: 
-    description: 
     button:
       title: 
       url: 

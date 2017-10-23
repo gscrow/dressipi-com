@@ -5,7 +5,6 @@ permalink: "/blog/"
 navigation: footer
 header:
   title: Dressipi Blog
-  height: tight
 position: 9
 layout: blog
 ---
