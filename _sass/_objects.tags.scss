@@ -1,0 +1,10 @@
+.tag {
+	color: $text-color-soft;
+	font-size: ms(-3);
+	text-transform: uppercase;
+	letter-spacing: .5px;
+	padding: 4px 8px;
+	background: $background--light;
+	border: 1px solid $border-color;
+	border-radius: 3px;
+}

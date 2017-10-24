@@ -1,0 +1,35 @@
+.article {
+	margin-bottom: rhythm(10);
+
+	&__meta {
+		display: flex;
+		margin: rhythm(2) 0;
+		border-top: 1px solid $border-color;
+		padding-top: rhythm(2);
+	}
+
+	&__tags {
+		display: flex;
+		flex-basis: 60%;
+
+		> .article__tag {
+			margin: 0 5px 5px 0;
+		}
+	}
+
+	&__date {
+		flex-basis: 40%;
+		color: $text-color-soft;
+		font-size: ms(-1);
+		text-align: right;
+	}
+
+	&__content {
+		padding-bottom: rhythm(2);
+
+		&__more{
+			@include link-style;
+    	border-bottom: solid 2px $border-color;
+		}
+	}
+}

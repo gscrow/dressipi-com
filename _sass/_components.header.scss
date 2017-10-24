@@ -8,10 +8,34 @@ $header-height--mobile: 67px; // 1px border
   border-bottom: solid 1px $border-color;
   background: white;
 
+  &__navigation {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+    .subscribe-form {
+      display: flex;
+      width: calc-columns-width(3);
+      order: 1;
+      margin-left: rhythm(4);
+
+      &__email {
+        @include input-style(default);
+        border-radius: 3px 0 0 3px;
+        border-right: 0;
+        font-size: ms(-1);
+        flex-basis: 70%;
+      }
+
+      &__submit {
+        border-radius: 0 3px 3px 0;
+        flex-basis: 30%;
+      }
+    }
+  }
+
   // start primary navigation
   .navigation {
-    float: right;
-
     &__items {
       margin: 0;
       padding: 0;
@@ -27,7 +51,7 @@ $header-height--mobile: 67px; // 1px border
       }
 
       &:last-child {
-        margin: 0 0 0 rhythm(2);
+        margin: 0 0 0 rhythm(1);
       }
     }
 
@@ -47,6 +71,7 @@ $header-height--mobile: 67px; // 1px border
 
     &__button {
       font-size: ms(0);
+      margin-left: rhythm(1);
     }
 
     &-dropdown__menu .navigation__link {
