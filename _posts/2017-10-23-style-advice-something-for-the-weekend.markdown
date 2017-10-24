@@ -6,7 +6,6 @@ categories:
 tags:
 - trends
 - style tips
-is_excerpt: true
 layout: post
 ---
 
