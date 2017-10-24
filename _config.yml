@@ -51,6 +51,14 @@ defaults:
     layout: tag
 - scope:
     path: ''
+    type: authors
+  values:
+    permalink: "/blog/authors/:title/"
+    layout: author
+    image: 
+    twitter: 
+- scope:
+    path: ''
     type: downloads
   values:
     permalink: "/downloads/:title/"
