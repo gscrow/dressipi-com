@@ -2,6 +2,9 @@
 title: Dressipi.com
 timezone: UTC
 collections:
+  authors:
+    title: Authors
+    output: true
   blog_categories:
     title: Categories
     output: true
