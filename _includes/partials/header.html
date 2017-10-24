@@ -54,6 +54,10 @@
         <div class="header__subtitle">{{ page.header.body | markdownify }}</div>
         {% endif %}
 
+        {% if my_page_url contains 'author' and page.bio %}
+          <div class="header__subtitle">{{ page.bio | markdownify }}</div>
+        {% endif %}
+
         {% if my_page_url == 'partners' %}
         <ul class="client__logos">
         {% assign site_clients = site.clients | sort:'position' %}

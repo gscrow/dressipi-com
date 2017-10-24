@@ -34,6 +34,7 @@ defaults:
     permalink: "/blog/:title/"
     layout: post
     image: 
+    author: 
     button:
       title: 
       url: 
@@ -55,6 +56,7 @@ defaults:
   values:
     permalink: "/blog/authors/:title/"
     layout: author
+    bio: 
     image: 
     twitter: 
 - scope:

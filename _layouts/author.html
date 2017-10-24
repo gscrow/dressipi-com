@@ -2,10 +2,14 @@
 layout: default
 ---
 
+{% assign author_posts = site.posts | where: 'author', page.title %}
+
 <section class="section section-blog">
   <div class="container">
   	<div class="blog__content gutter">
-		{% include partials/post.html post=page %}
+  		{% for post in author_posts %}
+  			{% include partials/post.html post=post is_excerpt=true is_author=false %}
+			{% endfor %}
 		</div>
 
 	  <aside class="blog__sidebar gutter">
@@ -13,5 +17,3 @@ layout: default
 	  </aside>
 	</div>
 </div>
-
-

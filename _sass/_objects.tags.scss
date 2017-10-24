@@ -1,9 +1,11 @@
 .tag {
+	display: inline-block;
 	color: $text-color-soft;
 	font-size: ms(-3);
 	text-transform: uppercase;
 	letter-spacing: .5px;
-	padding: 4px 8px;
+	padding: 0 8px;
+	line-height: 25px;
 	background: $background--light;
 	border: 1px solid $border-color;
 	border-radius: 3px;
