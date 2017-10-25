@@ -17,6 +17,9 @@ collections:
   jobs:
     title: Jobs
     output: true
+  landings:
+    title: Landings
+    output: true
   posts:
     title: Posts
     output: true
