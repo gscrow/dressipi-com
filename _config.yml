@@ -103,6 +103,21 @@ defaults:
       hero-image: 
     include-form-demo: false
     layout: page
+    description:
+- scope:
+    path: ''
+    type: landings
+  values:
+    header:
+      title: 
+      body: 
+      button:
+        copy: 
+        url: 
+      hero-image: 
+    include-form-demo: false
+    layout: landing
+    description:
 - scope:
     path: ''
     type: jobs
