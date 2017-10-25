@@ -17,7 +17,7 @@ collections:
   jobs:
     title: Jobs
     output: true
-  "-":
+  landing:
     title: Landing Pages
     output: true
   posts:
