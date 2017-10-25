@@ -6,16 +6,14 @@ categories:
 tags:
 - trends
 - style tips
-image: "/uploads/award__internet-retailing-2015.png"
-author: Natalie Theo
-button:
-  title: Book a Demo
-  url: "/book-a-demo"
-description: Sometimes a trend is as much about a style of clothing or a colour or
-  pattern, as it is about how we style an outfit.
 layout: post
 ---
 
-Sometimes a trend is as much about a style of clothing or a colour or pattern, as it is about how we style an outfit. One of the key trends this season is a maxi dress (item of clothing) \+ knee-high or over-the-top-boots (item of clothing) styled together (very 70’s mood trend) and finished off with a slightly oversized vamped up denim shearling jacket (70s trend) and a bit of glitz (ornate embellishment trend).
+# This is a main headline
 
-Do you get the picture? What’s more this look is perfect for day or night as a pair of coloured or metallic high heeled boots is the new alternative to an evening sandal.
+## Sometimes you need an additional second title
+**Sometimes a trend** is as much about a style of clothing or a colour or pattern, as it is about how we style an outfit. One of the key trends this season is a maxi dress (item of clothing) \+ knee-high or over-the-top-boots ([item of clothing](/book-a-demo)) styled together (very 70’s mood trend) and finished off with a slightly oversized vamped up denim shearling jacket (70s trend) and a *bit of glitz* (ornate embellishment trend).
+
+### Or sometimes even a 3th level subtitle
+
+> Do you get the picture? What’s more this look is perfect for day or night as a pair of coloured or metallic high heeled boots is the new alternative to an evening sandal.
