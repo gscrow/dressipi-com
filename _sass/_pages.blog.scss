@@ -7,6 +7,12 @@
 		.blog__content {
 			flex: 7;
 			padding-right: $gutter-width;
+
+			&--single {
+				flex-basis: 100%;
+				@include margin-center;
+    		max-width: calc-columns-width(7);
+			}
 		}
 
 		.blog__sidebar {

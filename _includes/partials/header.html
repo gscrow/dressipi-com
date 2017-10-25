@@ -9,6 +9,7 @@
         <nav role="navigation" class="navigation navigation-blog">
         {% assign category_links = site.blog_categories %}
           <ul class="navigation_items">
+             <li class="navigation__item"><a href="/blog/" class="navigation__link {% if my_page_url == 'blog' %}navigation__link--active{% endif %}"">Latest Articles</a></li>
             {% for link in category_links %}
               <li class="navigation__item"><a href="{{ link.url }}" class="navigation__link {% if page.url == link.url %}navigation__link--active{% endif %}"">{{ link.title }}</a></li>
             {% endfor %}
@@ -48,7 +49,7 @@
   <div class="hero{% if page.header.height =='tight' or my_page_url contains 'blog' %} hero--tight{% endif %}{% unless my_page_url == '' %} hero-content {{ my_page_url | prepend: "hero-"}}{% endunless %}{% if page.header.hero-image %} hero--mobile{% endif %}" style="background: {% if page.header.hero-image %}linear-gradient(to left, rgba(255, 255, 255, 0) 30%, {{ page.header.color | default: '#f5f5f5' }} 50%), url({{ page.header.hero-image }}) no-repeat right{% else if page.header.color %}{{ page.header.color | default: '#F8F8F8' }}{% endif %};">
 
     <div class="container gutter">
-      <div class="hero__content{% if page.header.width %}{{ page.header.width | prepend: '--' }}{% endif %}">
+      <div class="hero__content{% if page.header.width %}{{ page.header.width | prepend: '--' }}{% endif %}{% if my_page_url contains 'blog' %}--extend{% endif %}">
         <h1 class="header__title">{{ page.header.title | default: page.title }}</h1>
         {% if page.header.body %}
         <div class="header__subtitle">{{ page.header.body | markdownify }}</div>

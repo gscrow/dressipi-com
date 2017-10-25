@@ -140,4 +140,3 @@ exclude:
 gems:
 - jekyll-sitemap
 - jekyll-seo-tag
-excerpt_separator: <!--more-->

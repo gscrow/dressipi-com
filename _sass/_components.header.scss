@@ -58,7 +58,7 @@ $header-height--mobile: 67px; // 1px border
     &__link {
       line-height: rhythm(4);
       display: inline-block;
-      padding: 0 rhythm(2);
+      padding: 0 rhythm(1);
 
       &--active {
         color: $text-color-soft;

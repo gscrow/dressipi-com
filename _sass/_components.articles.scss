@@ -4,7 +4,6 @@
 	&__footer {
 		display: flex;
 		flex-wrap: wrap;
-		margin: rhythm(2) 0;
 		border-top: 1px solid $border-color;
 		padding-top: rhythm(2);
 	}
@@ -19,6 +18,10 @@
 
 		> .article__tag {
 			margin: 0 5px 0 0;
+
+			&:last-child {
+				margin-right: 0;
+			}
 		}
 	}
 
@@ -52,7 +55,11 @@
 	}
 
 	&__content {
-		padding-bottom: rhythm(2);
+		padding-bottom: rhythm(3);
+
+		p:last-child 	{
+			margin-bottom: 0;
+		}
 
 		&__more{
 			@include link-style;
