@@ -103,6 +103,9 @@ form-demo:
   button: Book a Demo
   email_cc: 
   redirect: "/thanks"
+form-newsletter:
+  formspree-ID: 
+  button: Subscribe
 company:
   name: Stylemania Ltd.
   address:
@@ -129,4 +132,4 @@ exclude:
 gems:
 - jekyll-sitemap
 - jekyll-seo-tag
-excerpt_separator: ''
+excerpt_separator: 
