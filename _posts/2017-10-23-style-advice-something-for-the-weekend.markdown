@@ -7,6 +7,7 @@ tags:
 - trends
 - style tips
 author: Selina Mills
+download: Shop Direct Case Study
 layout: post
 ---
 
