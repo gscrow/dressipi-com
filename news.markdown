@@ -1,7 +1,7 @@
 ---
 title: News
 date: 2017-05-06 09:59:00 Z
-position: 9
+position: 8
 navigation: footer
 header:
   title: Dressipi in the Media

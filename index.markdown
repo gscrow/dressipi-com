@@ -1,6 +1,6 @@
 ---
 title: Home
-position: 2
+position: 0
 navigation: header
 header:
   title: Personalising the Entire Customer Experience
