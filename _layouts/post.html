@@ -7,7 +7,7 @@ layout: default
   	<div class="blog__content--single gutter">
 		{% include partials/post.html post=page %}
 			{% if page.button.title %}
-		  <div class="post__buttonWrap">
+		  <div class="buttonWrap">
 		    <a href="{{ page.button.url }}" class="button button-{{ page.button.style | default: 'primary' }} button--{{ page.button.type | default: 'medium' }}">{{ page.button.title }}</a>
 		  </div>
 		  {% endif %}

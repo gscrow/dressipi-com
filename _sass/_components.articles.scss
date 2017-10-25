@@ -57,8 +57,34 @@
 	&__content {
 		padding-bottom: rhythm(3);
 
+		h1 {
+		  font-size: ms(6);
+		  line-height: rhythm(6);
+		}
+
+		h2 {
+		  font-size: ms(3);
+		  line-height: rhythm(4);
+		}
+
+		h3 {
+		  font-size: ms(2);
+		  line-height: rhythm(3);
+		}
+
 		p:last-child 	{
 			margin-bottom: 0;
+		}
+
+		blockquote {
+		  margin: 0 0 rhythm(3) rhythm(-3.5);
+		  padding: rhythm(1) 0 rhythm(1) 28px;
+		  border-left: 2px solid $brand-primary-color;
+
+		  	p {
+		      font-size: ms(1);
+		      line-height: rhythm(4);
+		  	}
 		}
 
 		&__more{
