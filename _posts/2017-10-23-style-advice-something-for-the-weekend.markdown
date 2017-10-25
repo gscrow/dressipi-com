@@ -9,8 +9,6 @@ tags:
 layout: post
 ---
 
-![recommendations_landing.png](/uploads/recommendations_landing.png)
-
 First write a short paragraph to summarize this post. The first paragraph will automatically be used as post excerpt.
 
 # This is a main headline
