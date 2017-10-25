@@ -21,4 +21,8 @@ Of course, there was a bit of time to play dress up between take...namely with N
 
 > Do you get the picture? What’s more this look is perfect for day or night as a pair of coloured or metallic high heeled boots is the new alternative to an evening sandal.
 
+* bullet 1
+* bullet 2
+* bullet 3
+
 Of course, there was a bit of time to play dress up between take...namely with Natalie’s gorgeous pink Manolo Blahnik’s which I had been eyeing up all day. Oh and a pretty swish motorbike we found outside. But that’s besides the point….
