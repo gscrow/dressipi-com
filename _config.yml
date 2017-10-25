@@ -115,6 +115,11 @@ form-demo:
   button: Book a Demo
   email_cc: 
   redirect: "/thanks"
+form-newsletter:
+  formspree-ID: 
+  button: Subscribe
+  email_cc: 
+  redirect: "/thanks"
 company:
   name: Stylemania Ltd.
   address:
