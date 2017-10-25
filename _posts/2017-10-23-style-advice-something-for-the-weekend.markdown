@@ -9,6 +9,8 @@ tags:
 layout: post
 ---
 
+First write a short paragraph to summarize this post. The first paragraph will automatically be used as post excerpt.
+
 # This is a main headline
 
 ## Sometimes you need an additional second title
