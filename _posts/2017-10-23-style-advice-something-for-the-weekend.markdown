@@ -7,7 +7,6 @@ categories:
 - data
 tags:
 - trends
-is_excerpt: true
 layout: post
 ---
 

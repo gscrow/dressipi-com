@@ -7,6 +7,11 @@ layout: default
   	<div class="blog__content gutter">
 		{% include partials/post.html post=page %}
 		</div>
+		{% if page.button.title %}
+	  <div class="post__buttonWrap">
+	    <a href="{{ page.button.url }}" class="button button-{{ page.button.style | default: 'primary' }}">{{ page.button.title }}</a>
+	  </div>
+		{% endif %}
 
 	  <aside class="blog__sidebar gutter">
 	    <p>Blog aside content</p>

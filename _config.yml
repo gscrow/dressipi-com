@@ -34,10 +34,11 @@ defaults:
     permalink: "/blog/:title/"
     layout: post
     image: 
-    author: 
+    author:   
     button:
       title: 
       url: 
+    description:
 - scope:
     path: ''
     type: blog_categories
