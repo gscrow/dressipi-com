@@ -9,12 +9,10 @@ layout: default
   <div class="container">
   	<div class="blog__content gutter">
 			{% for post in category_posts %}
-  			{% include partials/post.html post=post is_excerpt=true is_author=true %}
+  			{% include partials/post.html post=post is_excerpt=true show_author=true %}
 			{% endfor %}
 		</div>
 
-	  <aside class="blog__sidebar gutter">
-	    <p>Blog aside content</p>
-	  </aside>
+	  {% include partials/sidebar-blog.html %}
 	</div>
 </div>

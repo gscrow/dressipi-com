@@ -1,6 +1,6 @@
 {% assign post = include.post %}
 {% assign is_excerpt = include.is_excerpt %}
-{% assign is_author = include.is_author %}
+{% assign show_author = include.show_author %}
 
 <article class="article">
   {% if is_excerpt %}
@@ -28,7 +28,7 @@
   <section class="article__footer">
     <div class="article__meta">
       {% assign author = site.authors | where: 'title', post.author | first %}
-      {% if author and is_author %}
+      {% if author and show_author %}
       <div class="article__author"><img class="article__author-profile" src='{{ author.image }}' alt="{{ author.title }}" title="{{ author.title }}" /><a href="{{ author.url }}">{{ author.title }}</a>
       </div>
       {% endif %}
