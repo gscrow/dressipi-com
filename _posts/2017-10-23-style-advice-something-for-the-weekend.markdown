@@ -6,7 +6,7 @@ categories:
 tags:
 - trends
 - style tips
-Author: Selina Mills
+author: Selina Mills
 layout: post
 ---
 
