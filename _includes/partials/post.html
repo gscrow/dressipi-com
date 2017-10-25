@@ -21,19 +21,6 @@
       </div>
       {% endif %}
     </div>
-    {% if post.tags %}
-    <ul class="article__tags">
-      {% for post_tag in post.tags %}
-        {% assign post_tag_downcase = post_tag | downcase %}
-        {% for site_tag in site.blog_tags %}
-          {% assign site_tag_title = site_tag.title | downcase %}
-          {% if site_tag_title == post_tag_downcase %}
-            <li class="article__tag"><a href="{{ site_tag.permalink }}" class="article__tag__link tag">{{ site_tag.title }}</a></li>
-          {% endif %}
-        {% endfor %}
-      {% endfor %}
-    </ul>
-    {% endif %}
   </section>
   {% endif %}
 
@@ -51,6 +38,22 @@
     {% endif %}
     {% if is_excerpt and post.excerpt != post.content %}
       <p><a href="{{ post.url }}" class="article__content__more">Read more</a></p>
+    {% endif %}
+  </section>
+
+  <section class="article__footer">
+    {% if post.tags %}
+    <ul class="article__tags">
+      {% for post_tag in post.tags %}
+        {% assign post_tag_downcase = post_tag | downcase %}
+        {% for site_tag in site.blog_tags %}
+          {% assign site_tag_title = site_tag.title | downcase %}
+          {% if site_tag_title == post_tag_downcase %}
+            <li class="article__tag"><a href="{{ site_tag.permalink }}" class="article__tag__link tag">{{ site_tag.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+    </ul>
     {% endif %}
   </section>
 </article>
