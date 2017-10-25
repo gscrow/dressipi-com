@@ -6,6 +6,8 @@ categories:
 tags:
 - trends
 - style tips
+image: "/uploads/award__internet-retailing-2015.png"
+author: Natalie Theo
 button:
   title: Book a Demo
   url: "/book-a-demo"
