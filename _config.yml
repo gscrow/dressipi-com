@@ -106,6 +106,8 @@ form-demo:
 form-newsletter:
   formspree-ID: 
   button: Subscribe
+  email_cc: 
+  redirect: "/thanks"
 company:
   name: Stylemania Ltd.
   address:
