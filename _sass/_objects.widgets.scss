@@ -1,0 +1,36 @@
+.widget {
+	margin: rhythm(1) 0 rhythm(5);
+
+	&--boxed {
+		border-radius: 3px;
+		background: $background--light;
+		padding: 20px;
+	}
+
+	ul {
+    @extend %list-styled;
+    font-size: ms(-1);
+  	line-height: rhythm(3);
+
+    li {
+    	> a:hover {
+    		color: $brand-primary-color;
+    	}
+    }
+  }
+
+	h3 {
+  	font-size: ms(2);
+  	line-height: rhythm(3.5);
+	}
+
+	p {
+		font-size: ms(-1);
+  	line-height: rhythm(3);
+  	margin: 0 0 rhythm(2) 0;
+
+		&:last-child {
+			margin: 0;
+		}
+	}
+}

@@ -15,9 +15,16 @@
             {% endfor %}
           </ul>
         </nav>
-        <form class="subscribe-form" action="" method="POST">
-          <input class="subscribe-form__email" type="email" name="fields[email]" placeholder="Enter your email" value="" />
-          <input class="subscribe-form__submit button button-primary" type="submit" name="submit" value="Subscribe" />
+        <form class="subscribe-form" method="POST" action="https://formspree.io/{{ site.form-newsletter.formspree-ID }}">
+          <input type="text" name="_gotcha" style="display: none">
+          {% if site.form-newsletter.email_cc %}
+          <input type="hidden" name="_cc" value="{{site.form-newsletter.email_cc}}" />
+          {% endif %}
+          <input type="hidden" name="_next" value="{{ site.form-newsletter.redirect }}" />
+          <input type="hidden" name="_subject" value="New Newsletter Submission" />
+          <input class="subscribe-form__email" type="email" name="Email" placeholder="Enter your email" />
+          <!-- <input class="subscribe-form__submit button button-primary" type="submit" name="submit" value="Subscribe" /> -->
+          <button class="subscribe-form__submit button button-primary" type="submit">{{ site.form-newsletter.button }}</button>
         </form>
         {% else %}
         <nav role="navigation" class="navigation">

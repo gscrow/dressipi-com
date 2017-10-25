@@ -65,6 +65,7 @@ defaults:
     type: downloads
   values:
     permalink: "/downloads/:title/"
+    include-on-blog: false
     form:
       title: Download Now
       button: Download Case Study

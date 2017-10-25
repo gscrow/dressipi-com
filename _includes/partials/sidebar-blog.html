@@ -1,3 +1,19 @@
 <aside class="blog__sidebar gutter">
+	<!-- Download – Whitepaper/Case Study -->
+	<section class="widget widget-download">
+		<h3>Downloads</h3>
+		{% assign downloads = site.downloads | sort: 'position' | where: 'include-on-blog', 'true' %}
+		<ul class="list-downloads">
+			{% for download in downloads %}
+			<li><a href="{{ download.url }}" class="">{{ download.title }}</a></li>
+			{% endfor %}
+		</ul>
+  </section>
 
+  <!-- Demo Request -->
+  <section  id="form-demo" class="widget widget--boxed widget-demo">
+		<h3>{{ site.form-demo.title }}</h3>
+		<p>{{ site.form-demo.subtitle }}</p>
+		<p><a href="/book-a-demo" class="button button-primary button--full" title="">Book a Demo</a></p>
+  </section>
 </aside>
