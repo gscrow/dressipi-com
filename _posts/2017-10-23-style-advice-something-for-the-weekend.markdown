@@ -6,6 +6,9 @@ categories:
 tags:
 - trends
 - style tips
+button:
+  title: Book a Demo
+  url: "/book-a-demo"
 layout: post
 ---
 
