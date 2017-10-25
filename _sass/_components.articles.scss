@@ -1,11 +1,11 @@
 .article {
 	margin-bottom: rhythm(10);
 
-	&__footer {
+	&__header {
 		display: flex;
 		flex-wrap: wrap;
-		border-top: 1px solid $border-color;
-		padding-top: rhythm(2);
+		border-bottom: 1px solid $border-color;
+		padding-bottom: rhythm(2);
 	}
 
 	&__tags {
@@ -55,7 +55,7 @@
 	}
 
 	&__content {
-		padding-bottom: rhythm(3);
+		padding: rhythm(3) 0;
 
 		h1 {
 		  font-size: ms(6);
