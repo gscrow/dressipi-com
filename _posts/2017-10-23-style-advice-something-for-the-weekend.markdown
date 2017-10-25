@@ -9,7 +9,8 @@ tags:
 button:
   title: Book a Demo
   url: "/book-a-demo"
-Field name: 
+description: Sometimes a trend is as much about a style of clothing or a colour or
+  pattern, as it is about how we style an outfit.
 layout: post
 ---
 
