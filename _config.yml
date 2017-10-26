@@ -17,9 +17,6 @@ collections:
   jobs:
     title: Jobs
     output: true
-  landings:
-    title: Landing Pages
-    output: true
   posts:
     title: Posts
     output: true
@@ -103,20 +100,6 @@ defaults:
       hero-image: 
     include-form-demo: false
     layout: page
-    description:
-- scope:
-    path: ''
-    type: landings
-  values:
-    header:
-      title: 
-      body: 
-      button:
-        copy: 
-        url: 
-      hero-image: 
-    include-form-demo: false
-    layout: landing
     description:
 - scope:
     path: ''
