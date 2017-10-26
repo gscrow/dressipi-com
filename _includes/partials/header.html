@@ -4,7 +4,7 @@
     <div class="header">
       <div class="container gutter">
         <a href="{{ site.baseurl }}/" class="header__logo">{% include svgs/logo.svg %}</a>
-        {% unless page.is-landing %}
+        {% unless page.is-landing-page %}
         <div class="header__navigation">
           {% if my_page_url contains 'blog' %}
           <nav role="navigation" class="navigation navigation-blog">

@@ -22,31 +22,58 @@ layout: default
 	</section>
 	{% endif %}
 
-	{% if page.is-landing %}
+	{% if page.is-landing-page %}
 	<section id="download" class="landing">
 		<div class="container">
 			<div class="landing__content">
 				{{ content }}
 			</div>
 			<div class="landing__form">
+ 			{% assign downloads = site.downloads %}
+      {% for download in downloads %}
+      {% if page.downloads contains download.title %}
 				<div class="form-download">
           <hgroup class="form-download__heading">
-            <h3>{{ page.form.title }}</h3>
+            <h3>{{ download.form.title }}</h3>
           </hgroup>
 
           <form class="form-download__form" method="POST" action="https://formspree.io/mgoaajkm">
             <input type="text" name="_gotcha" style="display: none">
-            <input type="hidden" name="_next" value="{{ page.form.file | default: '/' }}" />
+            <input type="hidden" name="_next" value="{{ download.form.file | default: '/' }}" />
             <input type="hidden" name="_subject" value="New Download – Email submission" />
             <!-- hidden field to be tested -->
-            <input type="hidden" name="page url" value="{{ page.url }}" />
+            <input type="hidden" name="download url" value="{{ download.url }}" />
             <input class="form-download__input" type="input" name="name" placeholder="Enter your name">
             <input class="form-download__input" type="email" name="email" placeholder="Enter your work email">
-            <button class="button button--large button-primary form-download__submit {{page.form.button_class}}" type="submit">
-              {{ page.form.button }}
+            <button class="button button--large button-primary form-download__submit {{download.form.button_class}}" type="submit">
+              {{ download.form.button }}
             </button>
           </form>
         </div>
+  		{% endif %}
+      {% endfor %}
+
+    <!--   <ul class="cases__list">
+      {% assign downloads = site.downloads | sort:'position' %}
+      {% for download in downloads %}
+        {% if section.downloads contains download.title %}
+        <li class="case-study__wrap">
+          <div class="case-study">
+            <div class="case-study__header">
+              {{ download.testimonial.author.name }}<span>{{ download.testimonial.author.job-title }}, {{ download.testimonial.author.company }}</span>
+              {% if download.testimonial.logo %}<div class="case-study__logo"><img src="{{ download.testimonial.logo }}" /></div>{% endif %}
+            </div>
+            <div class="case-study__image"><img src="{{ download.testimonial.author.image }}" /></div>
+            <div class="case-study__body"><p>{{ download.testimonial.body }}</p></div>
+            <div class="case-study__footer"><a href="{{ download.url }}" class="button button-primary">{{ download.testimonial.action }}</a></div>
+          </div>
+        </li>
+        {% endif %}
+      {% endfor %}
+      </ul> -->
+
+
+
 			</div>
 		</div>
 	</section>
