@@ -68,7 +68,7 @@ defaults:
     include-on-blog: true
     form:
       title: Download Now
-      button: Download Case Study
+      button: Download
       file: 
     testimonial:
       body: 
