@@ -10,8 +10,9 @@ header:
     experiences to influence buying behaviour at scale."
   button:
     copy: Download Whitepaper
-    url: "/downloads/how-dressipi-can-help-retailers-transform-their-biggest-asset-whitepaper/"
+    url: "#download"
 is-landing: true
+downloads: Five Things Every Retailer Should Know About Personalisation Whitepaper
 ---
 
 ## Download our free whitepaper ‘How Dressipi Can Help Retailers Transform Their Biggest Asset’ to learn:
