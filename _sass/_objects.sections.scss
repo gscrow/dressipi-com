@@ -22,18 +22,6 @@
     }
   }
 
-  &__body {
-    ul {
-      @extend %list-styled;
-
-      li {
-        > a:hover {
-          color: $brand-primary-color;
-        }
-      }
-    }
-  }
-
   &__footer {
     margin-top: rhythm(7);
   }

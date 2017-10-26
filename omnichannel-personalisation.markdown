@@ -11,6 +11,7 @@ header:
   button:
     copy: Download Whitepaper
     url: "/downloads/how-dressipi-can-help-retailers-transform-their-biggest-asset-whitepaper/"
+  hero-image: "/uploads/banner_biggest_asset_whitepaper.jpg"
 is-landing: true
 downloads: Five Things Every Retailer Should Know About Personalisation Whitepaper
 ---
