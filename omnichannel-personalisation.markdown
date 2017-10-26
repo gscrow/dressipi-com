@@ -12,9 +12,9 @@ header:
     copy: Download Whitepaper
     url: "/downloads/how-dressipi-can-help-retailers-transform-their-biggest-asset-whitepaper/"
 is-landing: true
-downloads: Five Things Every Retailer Should Know About Personalisation Whitepaper
 ---
 
-### Download our free whitepaper ‘How Dressipi Can Help Retailers Transform Their Biggest Asset’ to learn:
+## Download our free whitepaper ‘How Dressipi Can Help Retailers Transform Their Biggest Asset’ to learn:
+
 * Why bricks and mortar retailers have the advantage over pure play ecommerce merchants
 * How Dressipi is transforming the instore shopping experience in an increasingly digital age
