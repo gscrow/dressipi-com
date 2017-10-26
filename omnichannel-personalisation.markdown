@@ -12,7 +12,7 @@ header:
     copy: Download Whitepaper
     url: "#download"
   hero-image: "/uploads/banner_biggest_asset_whitepaper.jpg"
-is-landing: true
+is-landing-page: true
 downloads: Five Things Every Retailer Should Know About Personalisation Whitepaper
 ---
 
