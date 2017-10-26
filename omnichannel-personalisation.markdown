@@ -10,6 +10,7 @@ header:
   button:
     copy: Download Whitepaper
     url: "/downloads/how-dressipi-can-help-retailers-transform-their-biggest-asset-whitepaper/"
+is-landing: true
 ---
 
 ### Download our free whitepaper ‘How Dressipi Can Help Retailers Transform Their Biggest Asset’ to learn:
