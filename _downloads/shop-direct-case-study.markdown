@@ -3,6 +3,8 @@ title: Shop Direct Case Study
 date: 2017-05-10 11:20:00 Z
 include-on-blog: true
 form:
+  title: Download Free Case Study
+  button: Download Case Study
   file: "/uploads/Dressipi-Case-Study-Personalising-the-Entire-Customer-Experience-for-Shop-Direct.pdf"
   button_class: case-study
 testimonial:

@@ -74,6 +74,14 @@
     width: 100%;
     height: rhythm(8);
   }
+
+// overwrite .case-study class
+// @Rob Bevan --> Fix needed: replace .case-study with .btn-case-study and update your tracking
+  button.case-study {
+  	max-width: 100%;
+  	display: block;
+  	flex-direction: inherit;
+  }
 }
 
 @include responsive(tablet) {
