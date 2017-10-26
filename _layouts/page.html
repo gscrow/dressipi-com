@@ -21,7 +21,15 @@ layout: default
       {% endfor %}
 	</section>
 	{% endif %}
-	{{ content }}
+
+	<section class="section">
+		<div class="section__body">
+			<div class="container gutter">
+				{{ content }}
+			</div>
+		</div>
+
+	</section>
 
 	{% if page.is-landing %}
 		Landing Page
