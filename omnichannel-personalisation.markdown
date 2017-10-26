@@ -2,6 +2,7 @@
 title: Omnichannel Personalisation
 date: 2017-10-26 07:07:00 Z
 position: 14
+is-landing: true
 header:
   title: The leaders in Omnichannel Personalisation
   body: "## Dressipi is the global leader in Omnichannel Personalisation. We give
@@ -11,7 +12,6 @@ header:
   button:
     copy: Download Whitepaper
     url: "#download"
-is-landing: true
 downloads: Five Things Every Retailer Should Know About Personalisation Whitepaper
 ---
 
