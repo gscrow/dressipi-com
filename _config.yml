@@ -99,6 +99,8 @@ defaults:
         url: 
       hero-image: 
     include-form-demo: false
+    is-landing-page: false
+    downloads:
     layout: page
     description:
 - scope:
