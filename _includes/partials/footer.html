@@ -13,6 +13,11 @@
             <li><a href="{{ link.url }}">{{ link.title }}</a></li>
             {% endfor %}
             <!-- <li><a href="https://blog.dressipi.com/">Blog</a></li> -->
+            <!-- Resources Dropdown Menu -->
+            {% assign resources_links = site.resources | sort: 'position' %}
+            {% for link in resources_links %}
+            <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+            {% endfor %}
             <li><a href="https://app.dressipi.com/login">Sign In</a></li>
           </ul>
         </div>

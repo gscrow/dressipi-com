@@ -73,6 +73,7 @@ defaults:
   values:
     permalink: "/downloads/:title/"
     resource: 
+    image:
     form:
       title: Download Now
       button: Download

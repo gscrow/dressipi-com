@@ -1,10 +1,36 @@
 ---
 layout: default
 ---
+
+{% assign my_page_url = page.url | remove: '/' | remove: 'resources' %}
+
+{% assign whitepapers = site.downloads | sort: 'position' | where: 'resource', 'Whitepaper' %}
+
 <section class="section section-resources">
   <div class="container">
   	<div class="resources__content gutter">
-			Resource page
+			{% case my_page_url %}
+			{% when 'case-studies' %}
+				{% assign downloads = site.downloads | sort: 'position' | where: 'resource', 'Case Study' %}
+			{% when 'whitepapers' %}
+				{% assign downloads = site.downloads | sort: 'position' | where: 'resource', 'Whitepaper' %}
+			{% endcase %}
+      <section class="resources__list">
+      	{% for download in downloads %}
+        <div class="resource">
+        	{% if download.image %}
+        	<div class="resource__image">
+        		<p><img src="{{download.image}}" title="{{ download.title }}" /></p>
+        	</div>
+        	{% endif %}
+					<div class="resource__content">
+						{{ download.content | markdownify }}
+						<p><a href="{{ download.url }}" class="button button--medium button-primary">{{ download.form.button }}</a></p>
+			  	</div>
+			  </div>
+      	{% endfor %}
+      </section>
+
 		</div>
 	</div>
 </div>
