@@ -1,11 +1,22 @@
 <aside class="blog__sidebar gutter">
-	<!-- Download – Whitepaper/Case Study -->
+	<!-- Download – Case Studies -->
 	<section class="widget widget-download">
-		<h3>Downloads</h3>
-		{% assign downloads = site.downloads | sort: 'position' | where: 'include-on-blog', 'true' %}
+		<h3>Case Studies</h3>
+		{% assign case_studies = site.downloads | sort: 'position' | where: 'resource', 'Case Study' %}
 		<ul class="list-downloads">
-			{% for download in downloads %}
-			<li><a href="{{ download.url }}" class="">{{ download.title }}</a></li>
+			{% for case_study in case_studies %}
+			<li><a href="{{ case_study.url }}" class="">{{ case_study.title }}</a></li>
+			{% endfor %}
+		</ul>
+  </section>
+
+  <!-- Download – Whitepapers -->
+	<section class="widget widget-download">
+		<h3>Whitepapers</h3>
+		{% assign whitepapers = site.downloads | sort: 'position' | where: 'resource', 'Whitepaper' %}
+		<ul class="list-downloads">
+			{% for whitepaper in whitepapers %}
+			<li><a href="{{ whitepaper.url }}" class="">{{ whitepaper.title }}</a></li>
 			{% endfor %}
 		</ul>
   </section>

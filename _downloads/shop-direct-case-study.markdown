@@ -1,7 +1,7 @@
 ---
 title: Shop Direct Case Study
 date: 2017-05-10 11:20:00 Z
-include-on-blog: true
+resource: Case Study
 form:
   title: Download Free Case Study
   button: Download Case Study

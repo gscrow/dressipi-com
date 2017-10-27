@@ -32,21 +32,18 @@
           <ul class="navigation_items">
           {% for link in header_links %}
             {% if link.has-menu %}
-              {% assign parent = link.title | downcase %}
-              <li class="navigation__item navigation-dropdown">
-                <span class="navigation-dropdown__trigger {% if page.url contains link.url %}navigation-dropdown__trigger--active{% endif %}">{{ link.title }}</span>
-                {% case parent %}
-                {% when 'solutions' %}
-                  {% include partials/navigation.html context='/solutions/' %}
-                {% when 'resources' %}
-                  {% include partials/navigation.html context='/resources/' %}
-                {% endcase %}
-              </li>
-              {% else %}
-              <li class="navigation__item"><a href="{{ link.url }}" class="navigation__link {% if page.url == link.url %}navigation__link--active{% endif %}"">{{ link.title }}</a></li>
+            <li class="navigation__item navigation-dropdown">
+              <span class="navigation-dropdown__trigger {% if page.url contains link.url %}navigation-dropdown__trigger--active{% endif %}">{{ link.title }}</span>
+                {% include partials/navigation.html context='/solutions/' %}
+            </li>
+            {% else %}
+            <li class="navigation__item"><a href="{{ link.url }}" class="navigation__link {% if page.url == link.url %}navigation__link--active{% endif %}"">{{ link.title }}</a></li>
             {% endif %}
           {% endfor %}
-          <li class="navigation__item"><a href="/book-a-demo" class="button {% if my_page_url == '' %}button-default{% else %}button-primary{% endif %} navigation__button" title="Book a Demo">Book a Demo</a></li>
+         <li class="navigation__item navigation-dropdown"><span class="navigation-dropdown__trigger {% if page.url contains link.url %}navigation-dropdown__trigger--active{% endif %}">Resources</span>
+
+         </li>
+        <li class="navigation__item"><a href="/book-a-demo" class="button {% if my_page_url == '' %}button-default{% else %}button-primary{% endif %} navigation__button" title="Book a Demo">Book a Demo</a></li>
         </ul>
         </nav>
         {% endif %}

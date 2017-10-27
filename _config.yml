@@ -20,6 +20,9 @@ collections:
   posts:
     title: Posts
     output: true
+  resources:
+    title: Resources
+    output: true
   blog_tags:
     title: Tags
     output: true
@@ -53,6 +56,11 @@ defaults:
     layout: tag
 - scope:
     path: ''
+    type: resources
+  values:
+    layout: resource
+- scope:
+    path: ''
     type: authors
   values:
     permalink: "/blog/authors/:title/"
@@ -64,7 +72,7 @@ defaults:
     type: downloads
   values:
     permalink: "/downloads/:title/"
-    include-on-blog: true
+    resource: 
     form:
       title: Download Now
       button: Download
