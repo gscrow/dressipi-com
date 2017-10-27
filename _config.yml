@@ -33,7 +33,7 @@ defaults:
   values:
     permalink: "/blog/:title/"
     layout: post
-    image: 
+    hero: 
     author:   
     button:
       title: 
@@ -57,7 +57,6 @@ defaults:
   values:
     permalink: "/blog/authors/:title/"
     layout: author
-    bio: 
     image: 
     twitter: 
 - scope:
@@ -139,6 +138,7 @@ social:
   - name: LinkedIn
     link: https://www.linkedin.com/company/dressipi
 date_format: "%-d %B %Y"
+per_page: 10
 gtm-code: GTM-TRK2KPX
 permalink: pretty
 exclude:

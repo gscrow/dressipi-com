@@ -20,7 +20,7 @@ layout: default
 	      	{% assign downloads = site.downloads | sort: 'position' %}
 	      	{% for download in downloads %}
 	        {% if page.download contains download.title %}
-	        	<h3>Downloads</h3>
+	        	<h3>{{ download.form.title }}</h3>
 						{{ download.content | markdownify }}
 						<p><a href="{{ download.url }}" class="button button--medium button-primary">{{ download.form.button }}</a></p>
 	        {% endif %}

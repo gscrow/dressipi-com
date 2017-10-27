@@ -6,6 +6,7 @@ categories:
 tags:
 - trends
 - style tips
+hero: "/uploads/something-for-the-weekend.jpg"
 author: Selina Mills
 download: Shop Direct Case Study
 layout: post

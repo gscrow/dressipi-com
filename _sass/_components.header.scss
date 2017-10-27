@@ -11,7 +11,6 @@ $header-height--mobile: 67px; // 1px border
   &__navigation {
     display: flex;
     justify-content: flex-end;
-    align-items: center;
 
     .subscribe-form {
       display: flex;
@@ -36,6 +35,9 @@ $header-height--mobile: 67px; // 1px border
 
   // start primary navigation
   .navigation {
+    display: flex;
+    align-items: center;
+
     &__items {
       margin: 0;
       padding: 0;
@@ -292,7 +294,7 @@ $header-height--mobile: 67px; // 1px border
 
       &__item {
         display: block;
-        margin: 0;
+        margin: 0 rhythm(2);
 
         &:first-child > .navigation__link {
           border-top: none;
@@ -323,6 +325,15 @@ $header-height--mobile: 67px; // 1px border
           visibility: visible;
           opacity: 1;
         }
+      }
+    }
+
+    &__navigation {
+
+      .subscribe-form {
+        display: flex;
+        width: auto;
+        margin: 0 rhythm(2);
       }
     }
 

@@ -1,0 +1,27 @@
+.archive {
+	&__items {
+
+	}
+
+	&__month {
+		margin: rhythm(5) 0 rhythm(2);
+
+		&:first-child {
+			margin-top: 0;
+		}
+	}
+
+	&__item {
+		display: flex;
+		margin-bottom: rhythm(1);
+	}
+
+	&__day {
+		color: $text-color-soft;
+    width: 1.75em;
+	}
+
+	&__link {
+		@include link-style;
+	}
+}

@@ -6,7 +6,6 @@
 
 		.blog__content {
 			flex: 7;
-			padding-right: $gutter-width;
 
 			&--single {
 				flex-basis: 100%;
@@ -17,6 +16,21 @@
 
 		.blog__sidebar {
 			flex: 3;
+		}
+
+		.blog__buttonWrap {
+			margin-bottom: rhythm(5);
+		}
+	}
+}
+
+
+@include responsive(tablet) {
+	.section-blog {
+		> .container {
+			.blog__content, .blog__sidebar{
+				flex-basis: 100%;
+			}
 		}
 	}
 }
