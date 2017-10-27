@@ -7,7 +7,7 @@
         <div class="header__navigation">
         {% if my_page_url contains 'blog' %}
         <nav role="navigation" class="navigation">
-        {% assign category_links = site.blog_categories %}
+          {% assign category_links = site.blog_categories %}
           <ul class="navigation_items">
              <li class="navigation__item"><a href="/blog/" class="navigation__link {% if my_page_url == 'blog' %}navigation__link--active{% endif %}"">Latest Articles</a></li>
             {% for link in category_links %}
@@ -28,23 +28,20 @@
         </nav>
         {% else %}
         <nav role="navigation" class="navigation">
-          {% assign header_links = site.pages | where: 'navigation', 'header' | sort: 'position' %}
           <ul class="navigation_items">
-          {% for link in header_links %}
-            {% if link.has-menu %}
-            <li class="navigation__item navigation-dropdown">
-              <span class="navigation-dropdown__trigger {% if page.url contains link.url %}navigation-dropdown__trigger--active{% endif %}">{{ link.title }}</span>
-                {% include partials/navigation.html context='/solutions/' %}
-            </li>
-            {% else %}
-            <li class="navigation__item"><a href="{{ link.url }}" class="navigation__link {% if page.url == link.url %}navigation__link--active{% endif %}"">{{ link.title }}</a></li>
-            {% endif %}
-          {% endfor %}
-         <li class="navigation__item navigation-dropdown"><span class="navigation-dropdown__trigger {% if page.url contains link.url %}navigation-dropdown__trigger--active{% endif %}">Resources</span>
-
-         </li>
-        <li class="navigation__item"><a href="/book-a-demo" class="button {% if my_page_url == '' %}button-default{% else %}button-primary{% endif %} navigation__button" title="Book a Demo">Book a Demo</a></li>
-        </ul>
+            {% assign header_links = site.pages | where: 'navigation', 'header' | sort: 'position' %}
+            {% for link in header_links %}
+              {% if link.has-menu %}
+                <li class="navigation__item navigation-dropdown">
+                  <span class="navigation-dropdown__trigger {% if page.url contains link.url %}navigation-dropdown__trigger--active{% endif %}">{{ link.title }}</span>
+                  {% include partials/navigation.html context='/solutions/' %}
+                </li>
+                {% else %}
+                <li class="navigation__item"><a href="{{ link.url }}" class="navigation__link {% if page.url == link.url %}navigation__link--active{% endif %}"">{{ link.title }}</a></li>
+              {% endif %}
+            {% endfor %}
+            <li class="navigation__item"><a href="/book-a-demo" class="button {% if my_page_url == '' %}button-default{% else %}button-primary{% endif %} navigation__button" title="Book a Demo">Book a Demo</a></li>
+          </ul>
         </nav>
         {% endif %}
         <button class="header-mobile-button">
