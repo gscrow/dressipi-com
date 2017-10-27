@@ -11,6 +11,10 @@ layout: default
 			{% for post in category_posts %}
   			{% include partials/post.html post=post is_excerpt=true show_author=true %}
 			{% endfor %}
+
+			{% if category_posts == nil %}
+				<h3>There are no articles in the category {{ category }} yet.</h3>
+			{% endif %}
 		</div>
 
 	  {% include partials/sidebar-blog.html %}

@@ -12,7 +12,7 @@
     <div class="article__meta">
       {% assign author = site.authors | where: 'title', post.author | first %}
       {% if author and show_author %}
-      <div class="article__author"><img class="article__author-profile" src='{{ author.image }}' alt="{{ author.title }}" title="{{ author.title }}" /><a href="{{ author.url }}">{{ author.title }}</a>
+      <div class="article__author"><img class="article__author-profile thumb--small thumb--rounded" src='{{ author.image }}' alt="{{ author.title }}" title="{{ author.title }}" /><a href="{{ author.url }}">{{ author.title }}</a>
       </div>
       {% endif %}
       {% if post.date %}
@@ -27,7 +27,7 @@
   <section class="article__content">
     {% if post.hero %}
     <p>
-      <a href="{{post.url}}"><img src="{{post.hero}}" alt="{{post.title}}" /></a>
+      <a href="{{post.url}}"><img class="article__image" src="{{post.hero}}" alt="{{post.title}}" /></a>
     </p>
     {% endif %}
 

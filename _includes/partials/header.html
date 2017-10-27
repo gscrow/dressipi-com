@@ -6,7 +6,7 @@
         <a href="{{ site.baseurl }}/" class="header__logo">{% include svgs/logo.svg %}</a>
         <div class="header__navigation">
         {% if my_page_url contains 'blog' %}
-        <nav role="navigation" class="navigation navigation-blog">
+        <nav role="navigation" class="navigation">
         {% assign category_links = site.blog_categories %}
           <ul class="navigation_items">
              <li class="navigation__item"><a href="/blog/" class="navigation__link {% if my_page_url == 'blog' %}navigation__link--active{% endif %}"">Latest Articles</a></li>
@@ -14,18 +14,18 @@
               <li class="navigation__item"><a href="{{ link.url }}" class="navigation__link {% if page.url == link.url %}navigation__link--active{% endif %}"">{{ link.title }}</a></li>
             {% endfor %}
           </ul>
+          <form class="subscribe-form" method="POST" action="https://formspree.io/{{ site.form-newsletter.formspree-ID }}">
+            <input type="text" name="_gotcha" style="display: none">
+            {% if site.form-newsletter.email_cc %}
+            <input type="hidden" name="_cc" value="{{site.form-newsletter.email_cc}}" />
+            {% endif %}
+            <input type="hidden" name="_next" value="{{ site.form-newsletter.redirect }}" />
+            <input type="hidden" name="_subject" value="New Newsletter Submission" />
+            <input class="subscribe-form__email" type="email" name="Email" placeholder="Enter your email" />
+            <!-- <input class="subscribe-form__submit button button-primary" type="submit" name="submit" value="Subscribe" /> -->
+            <button class="subscribe-form__submit button button-primary" type="submit">{{ site.form-newsletter.button }}</button>
+          </form>
         </nav>
-        <form class="subscribe-form" method="POST" action="https://formspree.io/{{ site.form-newsletter.formspree-ID }}">
-          <input type="text" name="_gotcha" style="display: none">
-          {% if site.form-newsletter.email_cc %}
-          <input type="hidden" name="_cc" value="{{site.form-newsletter.email_cc}}" />
-          {% endif %}
-          <input type="hidden" name="_next" value="{{ site.form-newsletter.redirect }}" />
-          <input type="hidden" name="_subject" value="New Newsletter Submission" />
-          <input class="subscribe-form__email" type="email" name="Email" placeholder="Enter your email" />
-          <!-- <input class="subscribe-form__submit button button-primary" type="submit" name="submit" value="Subscribe" /> -->
-          <button class="subscribe-form__submit button button-primary" type="submit">{{ site.form-newsletter.button }}</button>
-        </form>
         {% else %}
         <nav role="navigation" class="navigation">
           {% assign header_links = site.pages | where: 'navigation', 'header' | sort: 'position' %}
@@ -63,13 +63,12 @@
 
     <div class="container gutter">
       <div class="hero__content{% if page.header.width %}{{ page.header.width | prepend: '--' }}{% endif %}{% if my_page_url contains 'blog' %}--extend{% endif %}">
+        {% if my_page_url contains 'author' and page.image %}
+          <img src="{{ page.image }}" title="{{ page.title }}" class="thumb thumb--rounded"/>
+        {% endif %}
         <h1 class="header__title">{{ page.header.title | default: page.title }}</h1>
         {% if page.header.body %}
         <div class="header__subtitle">{{ page.header.body | markdownify }}</div>
-        {% endif %}
-
-        {% if my_page_url contains 'author' and page.bio %}
-          <div class="header__subtitle">{{ page.bio | markdownify }}</div>
         {% endif %}
 
         {% if my_page_url == 'partners' %}
