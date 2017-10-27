@@ -24,3 +24,24 @@
 	  margin-left: $gutter-width;
   }
 }
+
+@include responsive(tablet) {
+	.landing {
+		&__content {
+			flex-basis: 100%;
+		}
+
+		&__form {
+			flex-basis: 100%;
+			margin-left: 0;
+		}
+	}
+
+	.form-download {
+  	padding: rhythm(2);
+	}
+}
+
+@include responsive(mobile) {
+
+}

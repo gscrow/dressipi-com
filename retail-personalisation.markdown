@@ -8,8 +8,9 @@ header:
   button:
     copy: Book a Demo
     url: "/book-a-demo/"
-  hero-image: "/uploads/banner_biggest_asset_whitepaper.jpg"
+  hero-image: "/uploads/banner_style-hub.jpg"
 is-landing-page: true
+description: Dressipi is the global leader in Retail Personalisation. We give each customer their own tailored shopping experience online and instore, enabling retailers to match customers with products and experiences to influence buying behaviour at scale.
 ---
 
 ## Why businesses choose Dressipi:

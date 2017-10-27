@@ -28,6 +28,7 @@ $page-max-width: ($column-width + $gutter-width) * 9; // 9 columns grid system
 
 // responsive breakpoints
 $breakpoints: (
+	desktop: 960px,
   tablet: 800px,
   mobile: 480px
 );

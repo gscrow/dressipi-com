@@ -11,6 +11,7 @@ header:
   hero-image: "/uploads/banner_biggest_asset_whitepaper.jpg"
 is-landing-page: true
 downloads: Five Things Every Retailer Should Know About Personalisation Whitepaper
+description: How to Improve Customer Experience Instore
 ---
 
 ## Download our free whitepaper ‘How Dressipi Can Help Retailers Transform Their Biggest Asset’ to learn:

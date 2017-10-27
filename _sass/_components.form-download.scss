@@ -1,0 +1,65 @@
+.form-download {
+  padding: rhythm(4);
+  border: solid 1px $brand-primary-color;
+  border-radius: $border-radius--base;
+  background: white;
+
+  &__heading {
+    margin: 0 0 rhythm(2);
+
+    > h3 {
+      color: $brand-primary-color;
+    }
+  }
+
+  &__form {
+    margin-top: rhythm(3);
+  }
+
+  &__input {
+    @include input-style(default);
+
+    height: rhythm(8);
+    margin-bottom: rhythm(2);
+  }
+
+  &__submit {
+    width: 100%;
+    height: rhythm(8);
+  }
+
+// overwrite .case-study class
+// @Rob Bevan --> Fix needed: replace .case-study with .btn-case-study and update your tracking
+  button.case-study {
+  	max-width: 100%;
+  	display: block;
+  	flex-direction: inherit;
+  }
+}
+
+@include responsive(desktop) {
+  .form-download {
+    padding: rhythm(2);
+
+    &__heading {
+      > h3 {
+        font-size: ms(2);
+      }
+    }
+
+    &__submit, &__input {
+      font-size: ms(0);
+    }
+  }
+}
+
+@include responsive(tablet) {
+  .form-download {
+
+    &__heading {
+      > h3 {
+        font-size: ms(2);
+      }
+    }
+  }
+}
