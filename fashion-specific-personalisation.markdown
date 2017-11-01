@@ -4,7 +4,10 @@ date: 2017-10-26 07:07:00 Z
 position: 16
 header:
   title: The leaders in Fashion-Specific Personalisation
-  body: "## Dressipi is the global leader in Fashion-Specific Personalisation. We give each customer their own tailored shopping experience online and instore, enabling retailers to match customers with products and experiences to influence buying behaviour at scale."
+  body: "## Dressipi is the global leader in Fashion-Specific Personalisation. We
+    give each customer their own tailored shopping experience online and instore,
+    enabling retailers to match customers with products and experiences to influence
+    buying behaviour at scale."
   button:
     copy: Download Case Study
     url: "/book-a-demo/"

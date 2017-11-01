@@ -37,11 +37,11 @@ defaults:
     permalink: "/blog/:title/"
     layout: post
     hero: 
-    author:   
+    author: 
     button:
       title: 
       url: 
-    description:
+    description: 
 - scope:
     path: ''
     type: blog_categories
@@ -73,7 +73,7 @@ defaults:
   values:
     permalink: "/downloads/:title/"
     resource: 
-    image:
+    image: 
     form:
       title: Download Now
       button: Download
@@ -108,9 +108,9 @@ defaults:
       hero-image: 
     include-form-demo: false
     is-landing-page: false
-    downloads:
+    downloads: 
     layout: page
-    description:
+    description: 
 - scope:
     path: ''
     type: jobs

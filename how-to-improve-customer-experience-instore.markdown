@@ -4,7 +4,9 @@ date: 2017-10-26 07:07:00 Z
 position: 15
 header:
   title: The leaders in Omnichannel Personalisation
-  body: "## Dressipi is the global leader in Fashion Personalisation. We improve customer experience instore and online by enabling retailers to match customers with products and experiences to influence buying behaviour at scale."
+  body: "## Dressipi is the global leader in Fashion Personalisation. We improve customer
+    experience instore and online by enabling retailers to match customers with products
+    and experiences to influence buying behaviour at scale."
   button:
     copy: Download Whitepaper
     url: "#download"

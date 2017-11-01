@@ -1,12 +1,12 @@
 ---
 title: 'Style Advice: Update your wardrobe separates with a new season twist'
 date: 2017-10-23 03:15:00 Z
-author: Philippa Mew
 categories:
 - retail
 tags:
 - trends
 - style tips
+author: Philippa Mew
 layout: post
 ---
 

@@ -4,7 +4,10 @@ date: 2017-10-26 07:07:00 Z
 position: 16
 header:
   title: How to Improve Customer Experience Online
-  body: "## With an ever changing retail environment, comes ever changing customer demands. Dressipi gives each customer their own personalised shopping experience online and instore, enabling retailers to match customers with products and experiences to influence buying behaviour at scale."
+  body: "## With an ever changing retail environment, comes ever changing customer
+    demands. Dressipi gives each customer their own personalised shopping experience
+    online and instore, enabling retailers to match customers with products and experiences
+    to influence buying behaviour at scale."
   button:
     copy: Download Whitepaper
     url: "/book-a-demo/"
