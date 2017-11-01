@@ -127,7 +127,7 @@ form-demo:
   email_cc: 
   redirect: "/thanks"
 form-newsletter:
-  formspree-ID: 
+  formspree-ID: mkjvowyx
   button: Subscribe
   email_cc: 
   redirect: "/thanks"
