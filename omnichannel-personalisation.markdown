@@ -11,8 +11,13 @@ header:
   button:
     copy: Download Whitepaper
     url: "#download"
+  hero-image: "/uploads/banner_biggest_asset_whitepaper.jpg"
 is-landing-page: true
 downloads: Five Things Every Retailer Should Know About Personalisation Whitepaper
+description: Dressipi is the global leader in Omnichannel Personalisation. We give
+    each customer their own tailored shopping experience across all channels and devices
+    online and instore. This enables retailers to match customers with products and
+    experiences to influence buying behaviour at scale.
 ---
 
 ## Download our free whitepaper ‘How Dressipi Can Help Retailers Transform Their Biggest Asset’ to learn:

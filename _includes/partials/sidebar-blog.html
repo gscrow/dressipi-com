@@ -1,0 +1,30 @@
+<aside class="blog__sidebar gutter">
+	<!-- Download – Case Studies -->
+	<section class="widget widget-download">
+		<h3>Case Studies</h3>
+		{% assign case_studies = site.downloads | sort: 'position' | where: 'resource', 'Case Study' %}
+		<ul class="list-downloads">
+			{% for case_study in case_studies %}
+			<li><a href="{{ case_study.url }}" class="">{{ case_study.title }}</a></li>
+			{% endfor %}
+		</ul>
+  </section>
+
+  <!-- Download – Whitepapers -->
+	<section class="widget widget-download">
+		<h3>Whitepapers</h3>
+		{% assign whitepapers = site.downloads | sort: 'position' | where: 'resource', 'Whitepaper' %}
+		<ul class="list-downloads">
+			{% for whitepaper in whitepapers %}
+			<li><a href="{{ whitepaper.url }}" class="">{{ whitepaper.title }}</a></li>
+			{% endfor %}
+		</ul>
+  </section>
+
+  <!-- Demo Request -->
+  <section  id="form-demo" class="widget widget--boxed widget-demo">
+		<h3>{{ site.form-demo.title }}</h3>
+		<p>{{ site.form-demo.subtitle }}</p>
+		<p><a href="/book-a-demo" class="button button-primary button--full" title="">Book a Demo</a></p>
+  </section>
+</aside>

@@ -74,6 +74,10 @@
   }
 }
 
+[class$="__buttonWrap"] {
+  text-align: center;
+}
+
 // tablet styles
 @include responsive(tablet) {
   .gutter {

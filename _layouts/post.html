@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<section class="section section-blog">
+  <div class="container">
+  	<div class="blog__content--single gutter">
+			{% include partials/post.html post=page show_author=true %}
+			{% if page.button.title %}
+		  <div class="buttonWrap">
+		    <a href="{{ page.button.url }}" class="button button-{{ page.button.style | default: 'primary' }} button--{{ page.button.type | default: 'medium' }}">{{ page.button.title }}</a>
+		  </div>
+		  {% endif %}
+
+			<!-- Download – Whitepaper/Case Study -->
+			{% if page.download %}
+			<section class="downloads">
+				<article class="article">
+					<div class="article__content">
+	      	{% assign downloads = site.downloads | sort: 'position' %}
+	      	{% for download in downloads %}
+	        {% if page.download contains download.title %}
+	        	<h3>{{ download.form.title }}</h3>
+						{{ download.content | markdownify }}
+						<p><a href="{{ download.url }}" class="button button--medium button-primary">{{ download.form.button }}</a></p>
+	        {% endif %}
+	      	{% endfor %}
+			  	</div>
+			  </article>
+		  </section>
+		  {% endif %}
+		</div>
+	</div>
+</div>
+
+

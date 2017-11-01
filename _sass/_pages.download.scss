@@ -45,37 +45,6 @@
 	}
 }
 
-.form-download {
-  padding: rhythm(4);
-  border: solid 1px $brand-primary-color;
-  border-radius: $border-radius--base;
-  background: white;
-
-  &__heading {
-    margin: 0 0 rhythm(2);
-
-    > h3 {
-      color: $brand-primary-color;
-    }
-  }
-
-  &__form {
-    margin-top: rhythm(3);
-  }
-
-  &__input {
-    @include input-style(default);
-
-    height: rhythm(8);
-    margin-bottom: rhythm(2);
-  }
-
-  &__submit {
-    width: 100%;
-    height: rhythm(8);
-  }
-}
-
 @include responsive(tablet) {
 	.hero-case-study {
 		padding: rhythm(8) 0;
@@ -90,10 +59,6 @@
 				margin: 0;
 			}
 		}
-	}
-
-	.form-download {
-  	padding: rhythm(2);
 	}
 }
 

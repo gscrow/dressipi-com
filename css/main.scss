@@ -25,6 +25,9 @@
 @import 'objects.layout';
 @import 'objects.sections';
 @import 'objects.tables';
+@import 'objects.tags';
+@import 'objects.widgets';
+@import 'objects.thumbs';
 
 // blocks layer
 
@@ -36,7 +39,10 @@
 @import 'components.projects';
 @import 'components.clients';
 @import 'components.form-demo';
+@import 'components.form-download';
 @import 'components.case-study';
+@import 'components.articles';
+@import 'components.resources';
 
 // page layer
 @import 'pages.partners';
@@ -47,5 +53,8 @@
 @import 'pages.download';
 @import 'pages.news';
 @import 'pages.howitworks';
+@import 'pages.landing';
+@import 'pages.blog';
+@import 'pages.archive';
 
 // trumps layer

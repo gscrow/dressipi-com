@@ -1,0 +1,16 @@
+.tag {
+	display: inline-block;
+	color: $text-color-soft;
+	font-size: ms(-4);
+	text-transform: uppercase;
+	letter-spacing: .5px;
+	padding: 0 5px;
+	line-height: 25px;
+	background: $background--light;
+	border: 1px solid $border-color;
+	border-radius: 3px;
+
+	&:hover {
+		color: $brand-primary-color;
+	}
+}
