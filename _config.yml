@@ -36,7 +36,7 @@ defaults:
   values:
     permalink: "/blog/:title/"
     layout: post
-    hero: 
+    image: 
     author: 
     button:
       title: 
