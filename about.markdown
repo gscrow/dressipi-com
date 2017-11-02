@@ -123,6 +123,18 @@ sections:
     title: Web Developer
     linkedin: https://www.linkedin.com/in/pwoestelandt
     image: "/uploads/paul-woestelandt.jpg"
+  - name: Jessica Rosati
+    title: Data Scientist
+    linkedin: https://www.linkedin.com/in/jessica-rosati-4b685481/
+    image: 
+  - name: Hassan Iskaf
+    title: Web Developer
+    linkedin: https://uk.linkedin.com/in/hassan-iskaf
+    image: 
+  - name: Matthew Dean
+    title: Head of Sales
+    linkedin: https://www.linkedin.com/in/matthew-dean-92a3151/
+    image: 
   button:
     copy: Contact Us
     url: "/contact"
