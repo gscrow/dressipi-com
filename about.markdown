@@ -96,6 +96,10 @@ sections:
     title: Business Insight Analyst
     linkedin: https://www.linkedin.com/in/daria-biryukova-3502aa51
     image: "/uploads/daria-biryukova.jpg"
+  - name: Jessica Rosati
+    title: Data Scientist
+    linkedin: https://www.linkedin.com/in/jessica-rosati-4b685481/
+    image: "/uploads/jessica_rosati_photo.jpg"
   - name: Natalie Theo
     title: Style Director
     linkedin: https://www.linkedin.com/in/natalie-theo-5b561160/?ppe=1
@@ -123,14 +127,10 @@ sections:
     title: Web Developer
     linkedin: https://www.linkedin.com/in/pwoestelandt
     image: "/uploads/paul-woestelandt.jpg"
-  - name: Jessica Rosati
-    title: Data Scientist
-    linkedin: https://www.linkedin.com/in/jessica-rosati-4b685481/
-    image: 
   - name: Hassan Iskaf
     title: Web Developer
     linkedin: https://uk.linkedin.com/in/hassan-iskaf
-    image: 
+    image: "/uploads/Hassan%20I.jpg"
   - name: Matthew Dean
     title: Head of Sales
     linkedin: https://www.linkedin.com/in/matthew-dean-92a3151/
