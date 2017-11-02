@@ -99,7 +99,7 @@ sections:
   - name: Jessica Rosati
     title: Data Scientist
     linkedin: https://www.linkedin.com/in/jessica-rosati-4b685481/
-    image: "/uploads/jessica_rosati_photo.jpg"
+    image: "/uploads/jessica_rosati_photo%20copy.jpg"
   - name: Natalie Theo
     title: Style Director
     linkedin: https://www.linkedin.com/in/natalie-theo-5b561160/?ppe=1
