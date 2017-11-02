@@ -1,7 +1,7 @@
 ---
 title: How to Improve Customer Experience Instore
 date: 2017-10-26 07:07:00 Z
-position: 16
+position: 17
 header:
   title: The leaders in Fashion Personalisation
   body: "## Dressipi is the global leader in Fashion Personalisation. We give each

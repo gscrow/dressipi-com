@@ -1,7 +1,7 @@
 ---
 title: How to Improve Customer Experience Instore
 date: 2017-10-26 07:07:00 Z
-position: 16
+position: 19
 header:
   title: How to Improve Customer Experience Online
   body: "## With an ever changing retail environment, comes ever changing customer
