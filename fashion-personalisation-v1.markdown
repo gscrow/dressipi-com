@@ -1,7 +1,7 @@
 ---
 title: Fashion Personalisation v1
 date: 2017-10-26 07:07:00 Z
-position: 17
+position: 18
 header:
   title: The leaders in Fashion Personalisation
   body: "## Dressipi is the global leader in Fashion Personalisation. We give each
