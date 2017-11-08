@@ -1,7 +1,7 @@
 ---
 title: Fashion-Specific Personalisation v1
 date: 2017-10-26 07:07:00 Z
-position: 20
+position: 21
 header:
   title: The leaders in Fashion-Specific Personalisation
   body: "## Dressipi is the global leader in Fashion-Specific Personalisation. We
