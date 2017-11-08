@@ -1,5 +1,5 @@
 ---
-title: How to Improve Customer Experience Instore
+title: Fashion Personalisation v1
 date: 2017-10-26 07:07:00 Z
 position: 17
 header:
@@ -14,7 +14,7 @@ header:
   hero-image: "/uploads/banner_sdg_withlogo.jpg"
 is-landing-page: true
 downloads: Shop Direct Case Study
-description: How to Improve Customer Experience Instore
+description: Fashion Personalisation v1
 ---
 
 ## Download our free case study ‘Personalising the Entire Customer Experience for Shop Direct’ to learn:
