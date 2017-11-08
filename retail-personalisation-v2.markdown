@@ -15,9 +15,9 @@ is-landing-page: true
 downloads: Shop Direct Case Study
 ---
 
-Download our free case study ‘Personalising the Entire Customer Experience for Shop Direct’ to learn:
+## Download our free case study ‘Personalising the Entire Customer Experience for Shop Direct’ to learn:
 
-The main drivers behind Shop Direct’s decision to partner with Dressipi
-How Dressipi has helped Shop Direct deliver personalisation to every customer
-Insights into the positive results of the partnership
+* The main drivers behind Shop Direct’s decision to partner with Dressipi
+* How Dressipi has helped Shop Direct deliver personalisation to every customer
+* Insights into the positive results of the partnership
 
