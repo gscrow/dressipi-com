@@ -14,4 +14,4 @@ testimonial:
 
 ## How can retailers use the right data to understand what is driving return rates?
 
-In this paper Sarah McVittie, co-founder of Dressipi, discusses the importance of understanding the key drivers behind returns and how retailers can tackle it by using better data.
+In this paper Sarah McVittie, Co-Founder of Dressipi, discusses the importance of understanding the key drivers behind returns and how retailers can tackle it by using better data.
