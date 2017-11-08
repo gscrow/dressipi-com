@@ -1,5 +1,5 @@
 ---
-title: How to Improve Customer Experience Instore
+title: Fashion-Specific Personalisation v1
 date: 2017-10-26 07:07:00 Z
 position: 18
 header:
@@ -9,16 +9,15 @@ header:
     enabling retailers to match customers with products and experiences to influence
     buying behaviour at scale."
   button:
-    copy: Download Case Study
+    copy: Book A Demo
     url: "/book-a-demo/"
-  hero-image: "/uploads/banner_sdg_withlogo.jpg"
+  hero-image: "/uploads/banner_style-hub.jpg"
 is-landing-page: true
-downloads: Shop Direct Case Study
-description: How to Improve Customer Experience Instore
+description: Fashion-Specific Personalisation v1
 ---
 
-## Download our free case study ‘Personalising the Entire Customer Experience for Shop Direct’ to learn:
+## Why businesses choose Dressipi:
 
-* The main drivers behind Shop Direct’s decision to partner with Dressipi
-* How Dressipi has helped Shop Direct deliver personalisation to every customer
-* Insights into the positive results of the partnership
+* Increase in net incremental revenue per visitor by 5-8%
+* Increase in AOV and frequency of purchase
+* Reduce returns by 5% percentage points
