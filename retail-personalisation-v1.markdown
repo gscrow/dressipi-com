@@ -1,5 +1,5 @@
 ---
-title: How to Improve Customer Experience Instore
+title: Retail Personalisation v1
 date: 2017-10-26 07:07:00 Z
 position: 20
 header:
