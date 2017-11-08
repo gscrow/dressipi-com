@@ -10,7 +10,7 @@ header:
     to influence buying behaviour at scale."
   button:
     copy: Download Whitepaper
-    url: "/book-a-demo/"
+    url: "#download"
   hero-image: "/uploads/banner_five_things_whitepaper.jpg"
 is-landing-page: true
 downloads: Five Things Every Retailer Should Know About Personalisation Whitepaper
