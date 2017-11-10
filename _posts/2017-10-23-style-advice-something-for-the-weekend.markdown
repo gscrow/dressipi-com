@@ -8,7 +8,7 @@ tags:
 - style tips
 image: "/uploads/something-for-the-weekend.jpg"
 author: Selina Mills
-download: Shop Direct Case Study
+download: Shop Direct
 layout: post
 ---
 

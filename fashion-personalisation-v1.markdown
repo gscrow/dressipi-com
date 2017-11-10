@@ -13,7 +13,7 @@ header:
     url: "#download"
   hero-image: "/uploads/banner_sdg_withlogo.jpg"
 is-landing-page: true
-downloads: Shop Direct Case Study
+downloads: Shop Direct
 description: Fashion Personalisation v1
 ---
 

@@ -12,7 +12,7 @@ header:
     copy: Download Case Study
     url: "#download"
 is-landing-page: true
-downloads: Shop Direct Case Study
+downloads: Shop Direct
 ---
 
 ## Download our free case study ‘Personalising the Entire Customer Experience for Shop Direct’ to learn:

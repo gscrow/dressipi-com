@@ -13,7 +13,7 @@ header:
     url: "#download"
   hero-image: "/uploads/banner_sdg_withlogo.jpg"
 is-landing-page: true
-downloads: Shop Direct Case Study
+downloads: Shop Direct
 ---
 
 ## Download our free whitepaper ‘Five Things Every Retailer Should Know About Personalisation’ to learn:

@@ -13,7 +13,7 @@ header:
     url: "#download"
   hero-image: "/uploads/banner_five_things_whitepaper.jpg"
 is-landing-page: true
-downloads: Five Things Every Retailer Should Know About Personalisation Whitepaper
+downloads: Five Things Every Retailer Should Know About Personalisation
 description: How to Improve Customer Experience Online
 ---
 

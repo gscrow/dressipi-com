@@ -1,5 +1,5 @@
 ---
-title: Shop Direct Case Study
+title: Shop Direct
 date: 2017-05-10 11:20:00 Z
 resource: Case Study
 form:
