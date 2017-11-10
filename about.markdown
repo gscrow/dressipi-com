@@ -134,10 +134,9 @@ sections:
   - name: Matthew Dean
     title: Head of Sales
     linkedin: https://www.linkedin.com/in/matthew-dean-92a3151/
-    image: 
+    image:
   button:
     copy: Contact Us
     url: "/contact"
 layout: about
 ---
-
