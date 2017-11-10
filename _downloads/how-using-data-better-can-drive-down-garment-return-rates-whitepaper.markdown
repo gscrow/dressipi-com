@@ -10,8 +10,8 @@ testimonial:
   action: Download Whitepaper
 ---
 
-# How Using Data Better Can Drive Down Garment Return Rates
+# Learn How Using Data Better Can Drive Down Garment Return Rates
 
-## How can retailers use the right data to understand what is driving return rates?
+## Gain an understanding as to how you can leverage the data you hold to reduce return rates.
 
-In this paper Sarah McVittie, Co-Founder of Dressipi, discusses the importance of understanding the key drivers behind returns and how retailers can tackle it by using better data.
+In this paper Sarah McVittie, Co-Founder of Dressipi, discusses the importance of understanding the key drivers behind returns, and how you can use the data you hold to tackle the issue.
