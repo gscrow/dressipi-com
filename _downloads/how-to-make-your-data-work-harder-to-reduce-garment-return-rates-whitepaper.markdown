@@ -13,7 +13,7 @@ testimonial:
   action: Download Whitepaper
 ---
 
-# Learn How How To Make Your Data Work Harder To Reduce Garment Return Rates
+# Learn How To Make Your Data Work Harder To Reduce Garment Return Rates
 
 ## Gain an understanding of how to leverage the data you hold to reduce return rates.
 
