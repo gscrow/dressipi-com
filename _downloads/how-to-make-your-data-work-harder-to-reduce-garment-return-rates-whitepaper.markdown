@@ -1,5 +1,7 @@
 ---
-title: How Using Data Better Can Drive Down Garment Return Rates Whitepaper
+title: |-
+  How To Make Your Data Work
+  Harder To Reduce Garment Return Rates Whitepaper
 date: 2017-10-27 13:41:00 Z
 resource: Whitepapers
 form:
@@ -10,7 +12,7 @@ testimonial:
   action: Download Whitepaper
 ---
 
-# Learn How Using Data Better Can Drive Down Garment Return Rates
+# Learn How How To Make Your Data Work Harder To Reduce Garment Return Rates
 
 ## Gain an understanding as to how you can leverage the data you hold to reduce return rates.
 
