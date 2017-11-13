@@ -7,6 +7,7 @@ resource: Whitepapers
 form:
   title: Download Free Whitepaper
   button: Download Whitepaper
+  file: "/uploads/Whitepaper-How-To-Make-Your-Data-Work-Harder-To-Reduce-Garment-Return-Rates.pdf"
   button_class: whitepaper
 testimonial:
   action: Download Whitepaper
