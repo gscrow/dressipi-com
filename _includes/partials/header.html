@@ -71,8 +71,8 @@
           <img src="{{ page.image }}" title="{{ page.title }}" class="thumb thumb--rounded"/>
         {% endif %}
         <h1 class="header__title">{{ page.header.title | default: page.title }}</h1>
-        {% if my_page_url contains 'author' and page.image and page.twitter %}
-        <h4><img class="twitter-logo" src="/assets/twitter.png"></a>   {{ page.twitter }}</h4>
+        {% if my_page_url contains 'author' and page.twitter %}
+        <h4><a href="http://twitter.com/{{ page.twitter }}" target="_blank"><img class="twitter-logo" src="/assets/twitter.png">   {{ page.twitter }}</a></h4>
         {% endif %}
         {% if page.header.body %}
         <div class="header__subtitle">{{ page.header.body | markdownify }}</div>
