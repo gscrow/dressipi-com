@@ -1,7 +1,7 @@
 ---
 title: Retail Personalisation (Demo)
 date: 2017-10-26 07:07:00 Z
-position: 24
+position: 25
 header:
   title: The leaders in Retail Personalisation
   body: "## Dressipi is the global leader in Retail Personalisation. We give each

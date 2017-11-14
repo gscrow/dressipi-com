@@ -1,7 +1,7 @@
 ---
 title: Retail Personalisation (Case Study)
 date: 2017-11-08 15:00:00 Z
-position: 25
+position: 24
 header:
   title: The leaders in Retail Personalisation
   body: Dressipi is the global leader in Retail Personalisation. We give each customer
