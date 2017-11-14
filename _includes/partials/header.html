@@ -64,7 +64,6 @@
   </div>
   {% unless page.exclude-hero %}
   <div class="hero{% if page.header.height =='tight' or my_page_url contains 'blog' or my_page_url contains 'resources' %} hero--tight{% endif %}{% unless my_page_url == '' %} hero-content {{ my_page_url | prepend: "hero-"}}{% endunless %}{% if page.header.hero-image %} hero--mobile{% endif %}" style="background: {% if page.header.hero-image %}linear-gradient(to left, rgba(255, 255, 255, 0) 30%, {{ page.header.color | default: '#f5f5f5' }} 50%), url({{ page.header.hero-image }}) no-repeat right{% else if page.header.color %}{{ page.header.color | default: '#F8F8F8' }}{% endif %};">
-
     <div class="container gutter">
       <div class="hero__content{% if page.header.width %}{{ page.header.width | prepend: '--' }}{% endif %}{% if my_page_url contains 'blog' %}--extend{% endif %}">
         {% if my_page_url contains 'author' and page.image %}
@@ -77,7 +76,6 @@
         {% if page.header.body %}
         <div class="header__subtitle">{{ page.header.body | markdownify }}</div>
         {% endif %}
-
         {% if my_page_url == 'partners' %}
         <ul class="client__logos">
         {% assign site_clients = site.clients | sort:'position' %}
@@ -88,7 +86,6 @@
         {% endfor %}
         </ul>
         {% endif %}
-
         {% unless page.header.button.copy == nil %}
         <div class="header__button-group">
           <a href="{{ page.header.button.url }}" class="header__button button-{{ page.header.button.style | default: 'primary' }} anchor-link">{{ page.header.button.copy }}</a>
