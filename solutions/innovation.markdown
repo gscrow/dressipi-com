@@ -53,7 +53,7 @@ sections:
   handle: slide
   width: narrow
   subsections:
-  - body: 
+  - body:
     image: "/uploads/slide_dressipi.png"
     hres-image: "/uploads/slide_dressipi.png"
 - title: Key Benefits
@@ -78,7 +78,6 @@ sections:
 - title: Case Study
   handle: cases
   downloads:
-  - Shop Direct
+  - Personalising the Entire Customer Experience for Shop Direct
 layout: product
 ---
-

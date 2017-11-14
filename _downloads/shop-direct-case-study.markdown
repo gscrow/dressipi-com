@@ -1,5 +1,5 @@
 ---
-title: Shop Direct
+title: Personalising the Entire Customer Experience for Shop Direct
 date: 2017-05-10 11:20:00 Z
 resource: Case Study
 form:

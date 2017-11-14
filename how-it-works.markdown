@@ -54,7 +54,6 @@ sections:
 - title: Case Study
   handle: cases
   downloads:
-  - Shop Direct
+  - Personalising the Entire Customer Experience for Shop Direct
 layout: how-it-works
 ---
-
