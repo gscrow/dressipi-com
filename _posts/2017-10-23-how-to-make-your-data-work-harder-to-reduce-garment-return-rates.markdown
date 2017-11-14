@@ -29,7 +29,7 @@ There is no silver bullet for solving this problem, as there are many reasons wh
  
 My latest whitepaper explores insight from a panel both myself and Vicky Brock (formerly of Clear Returns) participated in at the recent Tech.Retail Week event. The discussion revolved around how retailers can make their data work harder to reduce garment return rates.
  
-The highlights from the panel (and in turn, [the whitepaper](/downloads/how-to-make-your-data-work-harder-to-reduce-garment-return-rates-whitepaper/) are as follows:
+The highlights from the panel (and in turn, [the whitepaper](/downloads/how-to-make-your-data-work-harder-to-reduce-garment-return-rates-whitepaper/)) are as follows:
 
 ### 1) The main costs incurred by returns and how they impact the business
 
