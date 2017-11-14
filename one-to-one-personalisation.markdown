@@ -4,10 +4,10 @@ date: 2017-11-08 15:33:00 Z
 position: 27
 header:
   title: One to One Personalisation
-  body: Dressipi is the global leader in One to One Personalisation. We give each
+  body: "## Dressipi is the global leader in One to One Personalisation. We give each
     customer their own tailored shopping experience online and instore, enabling retailers
     to match customers with products and experiences to influence buying behaviour
-    at scale.
+    at scale."
   button:
     copy: Download Case Study
     url: "#download"
