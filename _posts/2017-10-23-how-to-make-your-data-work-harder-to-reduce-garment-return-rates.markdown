@@ -8,7 +8,9 @@ tags:
 - style tips
 image: "/uploads/something-for-the-weekend.jpg"
 author: Sarah McVittie
-download: Shop Direct Case Study
+download: |-
+  How To Make Your Data Work
+  Harder To Reduce Garment Return Rates Whitepaper
 layout: post
 ---
 
@@ -52,6 +54,6 @@ Returns broadly fall into the following areas:
 * Wrong products/features
 * Misleading press/marketing images
 
-Both Vicky and I agreed that returns are always going to be a feature of the retail industry, but at their current levels, they are too expensive and unsustainable. The future of the industry relies on retailers using their data in a smarter way and taking action to gain real clarity as to the key metrics that can drive revenue growth alongside profit/margin growth. This, alongside one to one personalisation that provides richer and more relevant customer experiences, will ensure that retail stays ahead of the curve.
+Both Vicky and I agreed that returns are always going to be a feature of the retail industry, but at their current levels, they are too expensive and unsustainable. The future of the industry relies on retailers using their data in a smarter way and taking action to gain real clarity as to the key metrics that can drive revenue growth alongside profit/margin growth. This, alongside [one to one personalisation](/one-to-one-personalisation/) that provides richer and more relevant customer experiences, will ensure that retail stays ahead of the curve.
 
-To read the whitepaper in detail and to gain an insight into how you can reduce returns by up to 5% percentage points (including a quick returns analysis retailers can easily do), download it now.
+To read the whitepaper in detail and to gain an insight into how you can reduce returns by up to 5% percentage points (including a quick returns analysis retailers can easily do), [download it now](/downloads/how-to-make-your-data-work-harder-to-reduce-garment-return-rates-whitepaper/).
