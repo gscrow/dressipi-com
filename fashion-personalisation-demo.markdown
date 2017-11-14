@@ -10,7 +10,8 @@ header:
     at scale.
   button:
     copy: Book A Demo
-    url: "#download"
+    url: "/book-a-demo/"
+  hero-image: "/uploads/banner_style-hub.jpg"
 is-landing-page: true
 description: Dressipi is the global leader in Fashion Personalisation. We give each
   customer their own tailored shopping experience online and instore, enabling retailers
