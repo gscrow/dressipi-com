@@ -12,6 +12,11 @@ header:
     copy: Download Whitepaper
     url: "#download"
   hero-image: "/uploads/banner_five_things_whitepaper.jpg"
+is-landing-page: true
+description: With an ever changing retail environment, comes ever changing customer
+  demands. Dressipi helps retailers create a personalised shopping experience for
+  each customer, matching customers with products and experiences to influence buying
+  behaviour at scale.
 ---
 
 ## Download our free whitepaper ‘Five Things Every Retailer Should Know About Personalisation’ to learn:
