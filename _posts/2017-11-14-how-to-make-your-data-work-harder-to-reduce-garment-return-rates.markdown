@@ -9,7 +9,7 @@ tags:
 - how to reduce returns
 - retail
 - one to one personalisation
-image: "/uploads/something-for-the-weekend.jpg"
+image: "/uploads/alexandra-gorn-260989-486dd7.jpg"
 author: Sarah McVittie
 description: How To Make Your Data Work Harder To Reduce Garment Return Rates.
 download: |-
