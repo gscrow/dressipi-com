@@ -1,10 +1,10 @@
 ---
-title: Fashion Personalisation v1
-date: 2017-10-26 07:07:00 Z
-position: 20
+title: Retail Personalisation (Case Study)
+date: 2017-11-08 15:00:00 Z
+position: 24
 header:
-  title: The leaders in Fashion Personalisation
-  body: "## Dressipi is the global leader in Fashion Personalisation. We give each
+  title: The Leaders in Retail Personalisation
+  body: "## Dressipi is the global leader in Retail Personalisation. We give each
     customer their own tailored shopping experience online and instore, enabling retailers
     to match customers with products and experiences to influence buying behaviour
     at scale."
@@ -14,7 +14,10 @@ header:
   hero-image: "/uploads/banner_sdg_withlogo.jpg"
 is-landing-page: true
 downloads: Shop Direct Case Study
-description: Fashion Personalisation v1
+description: Dressipi is the global leader in Retail Personalisation. We give each
+  customer their own tailored shopping experience online and instore, enabling retailers
+  to match customers with products and experiences to influence buying behaviour at
+  scale.
 ---
 
 ## Download our free case study ‘Personalising the Entire Customer Experience for Shop Direct’ to learn:
