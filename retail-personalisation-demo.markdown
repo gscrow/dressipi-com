@@ -24,5 +24,3 @@ description: Dressipi is the global leader in Retail Personalisation. We give ea
 * Increase in net incremental revenue per visitor by 5-8%
 * Increase in AOV and frequency of purchase
 * Reduce returns by 5% percentage points
-
-
