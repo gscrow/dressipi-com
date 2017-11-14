@@ -15,7 +15,7 @@ download: |-
 layout: post
 ---
 
-Sarah McVittie, co-founder of Dressipi recently participated in a panel on returns at Tech.Retail Week. Here are her highlights.
+Sarah McVittie, co-founder of Dressipi recently participated in a panel on returns at Tech.Retail Week. In this post, she shares her highlights.
 
 # How To Make Your Data Work Harder To Reduce Garment Return Rates
 
@@ -41,9 +41,11 @@ We identified 3 main areas of cost:
 
 ### 2) Highlighting the quantity and quality of data issue
 
-As mentioned earlier in this post, the data held by retailers is rarely good enough (in both quantity and quality) to predict and reduce returns. At Dressipi, we can do far more accurate propensity modelling on customer profile features and their tendency to buy and keep certain garments. This is due to the very detailed data we collect on every customer, and the taxonomy we created for every product category, (tagging every single product with up to 40-50 features). 
+As mentioned earlier in this post, the data held by retailers is rarely good enough (in both quantity and quality) to predict and reduce returns. 
 
-### 3) Focus on the right metrics to drive up revenues >and margins
+At Dressipi, we can do far more accurate propensity modelling on customer profile features and their tendency to buy and keep certain garments. This is due to the very detailed data we collect on every customer, and the taxonomy we created for every product category, (tagging every single product with up to 40-50 features). 
+
+### 3) Focus on the right metrics to drive up revenues *and* margins
 
 Retailers typically focus on conversion and gross sales, but this can be misleading and won’t always lead to margin improvement without due consideration being given to return rates.
 
@@ -54,6 +56,7 @@ Returns broadly fall into the following areas:
 * Customer behaviour
 * Wrong products/features
 * Misleading press/marketing images
+
 
 Both Vicky and I agreed that returns are always going to be a feature of the retail industry, but at their current levels, they are too expensive and unsustainable. The future of the industry relies on retailers using their data in a smarter way and taking action to gain real clarity as to the key metrics that can drive revenue growth alongside profit/margin growth. This, alongside [one to one personalisation](/one-to-one-personalisation/) that provides richer and more relevant customer experiences, will ensure that retail stays ahead of the curve.
 
