@@ -11,8 +11,13 @@ header:
   button:
     copy: Download Case Study
     url: "#download"
+  hero-image: "/uploads/banner_sdg_withlogo.jpg"
 is-landing-page: true
 downloads: Shop Direct Case Study
+description: Dressipi is the global leader in One to One Personalisation. We give
+  each customer their own tailored shopping experience online and instore, enabling
+  retailers to match customers with products and experiences to influence buying behaviour
+  at scale.
 ---
 
 ## Download our free case study ‘Personalising the Entire Customer Experience for Shop Direct’ to learn:
