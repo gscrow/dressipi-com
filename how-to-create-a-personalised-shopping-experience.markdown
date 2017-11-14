@@ -4,10 +4,10 @@ date: 2017-11-08 15:24:00 Z
 position: 19
 header:
   title: How to Create a Personalised Shopping Experience
-  body: With an ever changing retail environment, comes ever changing customer demands.
-    Dressipi helps retailers create a personalised shopping experience for each customer,
-    matching customers with products and experiences to influence buying behaviour
-    at scale.
+  body: "## With an ever changing retail environment, comes ever changing customer
+    demands. Dressipi helps retailers create a personalised shopping experience for
+    each customer, matching customers with products and experiences to influence buying
+    behaviour at scale."
   button:
     copy: Download Whitepaper
     url: "#download"
