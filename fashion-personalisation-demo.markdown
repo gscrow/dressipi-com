@@ -1,5 +1,5 @@
 ---
-title: Fashion Personalisation v2
+title: Fashion Personalisation (Demo)
 date: 2017-11-08 15:17:00 Z
 position: 21
 header:
@@ -7,17 +7,19 @@ header:
   body: Dressipi is the global leader in Fashion Personalisation. We give each customer
     their own tailored shopping experience online and instore, enabling retailers
     to match customers with products and experiences to influence buying behaviour
-    at scale
+    at scale.
   button:
-    copy: Download Case Study
+    copy: Book A Demo
     url: "#download"
-  hero-image: "/uploads/banner_sdg_withlogo.jpg"
 is-landing-page: true
-downloads: Shop Direct Case Study
+description: Dressipi is the global leader in Fashion Personalisation. We give each
+  customer their own tailored shopping experience online and instore, enabling retailers
+  to match customers with products and experiences to influence buying behaviour at
+  scale.
 ---
 
-## Download our free case study ‘Personalising the Entire Customer Experience for Shop Direct’ to learn:
+## Why businesses choose Dressipi
 
-* The main drivers behind Shop Direct’s decision to partner with Dressipi
-* How Dressipi has helped Shop Direct deliver personalisation to every customer
-* Insights into the positive results of the partnership
+* Increase in net incremental revenue per visitor by 5-8%
+* Increase in AOV and frequency of purchase
+* Reduce returns by 5% percentage points
