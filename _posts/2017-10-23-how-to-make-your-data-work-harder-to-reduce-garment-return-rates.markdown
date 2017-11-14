@@ -18,7 +18,7 @@ download: |-
 layout: post
 ---
 
-Sarah McVittie, co-founder of Dressipi recently participated in a panel on returns at Tech.Retail Week. In this post, she shares her highlights.
+Sarah McVittie, Co-Founder of Dressipi recently participated in a panel on returns at Tech.Retail Week. In this post, she shares her highlights.
 
 # How To Make Your Data Work Harder To Reduce Garment Return Rates
 
