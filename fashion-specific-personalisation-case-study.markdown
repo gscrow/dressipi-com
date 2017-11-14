@@ -1,5 +1,5 @@
 ---
-title: Fashion-Specific Personalisation v2
+title: Fashion-Specific Personalisation (Case Study)
 date: 2017-11-08 15:13:00 Z
 position: 23
 header:
@@ -14,6 +14,10 @@ header:
   hero-image: "/uploads/banner_sdg_withlogo.jpg"
 is-landing-page: true
 downloads: Shop Direct Case Study
+description: Dressipi is the global leader in Fashion-Specific Personalisation. We
+  give each customer their own tailored shopping experience online and instore, enabling
+  retailers to match customers with products and experiences to influence buying behaviour
+  at scale.
 ---
 
 ## Download our free case study ‘Personalising the Entire Customer Experience for Shop Direct’ to learn:
