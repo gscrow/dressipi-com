@@ -8,7 +8,7 @@ form-demo:
   formspree-ID: meajnovm
   button: Book a Demo
   redirect: "/thanks"
-  email_cc:
+  email_cc: 
 width: narrow
 layout: demo
 ---
