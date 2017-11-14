@@ -14,7 +14,10 @@ header:
   hero-image: "/uploads/banner_five_things_whitepaper.jpg"
 is-landing-page: true
 downloads: Five Things Every Retailer Should Know About Personalisation
-description: How to Improve Customer Experience Online
+description: With an ever changing retail environment comes ever changing customer
+  demands. Dressipi gives each customer their own personalised shopping experience
+  online and instore, enabling retailers to match customers with products and experiences
+  to influence buying behaviour at scale.
 ---
 
 ## Download our free whitepaper ‘Five Things Every Retailer Should Know About Personalisation’ to learn:
