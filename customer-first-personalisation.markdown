@@ -13,7 +13,7 @@ header:
     url: "#download"
   hero-image: "/uploads/banner_five_things_whitepaper.jpg"
 is-landing-page: true
-downloads: Five Things Every Retailer Should Know About Personalisation Whitepaper
+downloads: Five Things Every Retailer Should Know About Personalisation
 description: Dressipi is the global leader in Customer First Personalisation. We give
   each customer their own tailored shopping experience online and instore, enabling
   retailers to match customers with products and experiences to influence buying behaviour

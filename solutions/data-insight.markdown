@@ -64,7 +64,7 @@ sections:
 - title: Case Study
   handle: cases
   downloads:
-  - Shop Direct Case Study
+  - Shop Direct
 layout: product
 ---
 

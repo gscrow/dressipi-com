@@ -13,7 +13,7 @@ header:
     url: "#download"
   hero-image: "/uploads/banner_sdg_withlogo.jpg"
 is-landing-page: true
-downloads: Shop Direct Case Study
+downloads: Shop Direct
 description: Dressipi is the global leader in Fashion Personalisation. We give each
   customer their own tailored shopping experience online and instore, enabling retailers
   to match customers with products and experiences to influence buying behaviour at

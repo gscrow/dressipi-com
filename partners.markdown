@@ -36,7 +36,7 @@ sections:
   - title: The Results
     image: "/uploads/icon__results.svg"
   downloads:
-  - Shop Direct Case Study
+  - Shop Direct
 - title: Explore More
   body: Try it for yourself by clicking the links below, or visit our [How it Works](/how-it-works)
     page to find out more about how to integrate this technology into your own site.
@@ -53,4 +53,3 @@ sections:
   - Autograph
 layout: partners
 ---
-
