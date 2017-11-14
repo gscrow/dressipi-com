@@ -8,6 +8,7 @@ tags:
 - style tips
 image: "/uploads/something-for-the-weekend.jpg"
 author: Sarah McVittie
+description: How To Make Your Data Work Harder To Reduce Garment Return Rates.
 download: |-
   How To Make Your Data Work
   Harder To Reduce Garment Return Rates Whitepaper
