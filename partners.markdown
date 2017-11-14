@@ -1,6 +1,6 @@
 ---
 title: Partners
-position: 1
+position: 0
 navigation: header
 header:
   title: Partnering with Leading Global Brands
@@ -53,4 +53,3 @@ sections:
   - Autograph
 layout: partners
 ---
-
