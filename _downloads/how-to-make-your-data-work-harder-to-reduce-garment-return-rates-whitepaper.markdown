@@ -1,7 +1,7 @@
 ---
 title: |-
   How To Make Your Data Work
-  Harder To Reduce Garment Return Rates Whitepaper
+  Harder To Reduce Garment Return Rates
 date: 2017-10-27 13:41:00 Z
 resource: Whitepapers
 form:

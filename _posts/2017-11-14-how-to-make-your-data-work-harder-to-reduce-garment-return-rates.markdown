@@ -14,7 +14,7 @@ author: Sarah McVittie
 description: How To Make Your Data Work Harder To Reduce Garment Return Rates.
 download: |-
   How To Make Your Data Work
-  Harder To Reduce Garment Return Rates Whitepaper
+  Harder To Reduce Garment Return Rates
 layout: post
 ---
 
@@ -27,11 +27,11 @@ Sarah McVittie, Co-Founder of Dressipi recently participated in a panel on retur
 They can impact so many areas of operations, with the poor quality and sparsity of data held by many retailers exacerbating the issue. Everything from the lack of data on the customer (their preferences, who they are), the transactions data (often incomplete and housed in various different locations) and the product data (sparsely and inaccurately attributed) all impact how retailers may find it difficult to truly understand what is contributing to high return rates.
 
 There is no silver bullet for solving this problem, as there are many reasons why items are returned, and each of these reasons will impact each retailer differently.
- 
-> At Dressipi we’ve established that firstly, it is important to get the right data in place, and to then use it to understand the quickest and easiest way to reduce returns without impacting or reducing revenue or sales. For example, is it customer behaviour, product/feature mix or different marketing behaviour causing high return rates? 
- 
+
+> At Dressipi we’ve established that firstly, it is important to get the right data in place, and to then use it to understand the quickest and easiest way to reduce returns without impacting or reducing revenue or sales. For example, is it customer behaviour, product/feature mix or different marketing behaviour causing high return rates?
+
 My latest whitepaper explores insight from a panel both myself and Vicky Brock (formerly of Clear Returns) participated in at the recent Tech.Retail Week event. The discussion revolved around how retailers can make their data work harder to reduce garment return rates.
- 
+
 The highlights from the panel (and in turn, [the whitepaper](/downloads/how-to-make-your-data-work-harder-to-reduce-garment-return-rates-whitepaper/)) are as follows:
 
 ### 1) The main costs incurred by returns and how they impact the business
@@ -44,9 +44,9 @@ We identified 3 main areas of cost:
 
 ### 2) Highlighting the quantity and quality of data issue
 
-As mentioned earlier in this post, the data held by retailers is rarely good enough (in both quantity and quality) to predict and reduce returns. 
+As mentioned earlier in this post, the data held by retailers is rarely good enough (in both quantity and quality) to predict and reduce returns.
 
-At Dressipi, we can do far more accurate propensity modelling on customer profile features and their tendency to buy and keep certain garments. This is due to the very detailed data we collect on every customer, and the taxonomy we created for every product category, (tagging every single product with up to 40-50 features). 
+At Dressipi, we can do far more accurate propensity modelling on customer profile features and their tendency to buy and keep certain garments. This is due to the very detailed data we collect on every customer, and the taxonomy we created for every product category, (tagging every single product with up to 40-50 features).
 
 ### 3) Focus on the right metrics to drive up revenues *and* margins
 
