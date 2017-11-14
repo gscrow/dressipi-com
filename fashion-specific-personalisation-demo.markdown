@@ -1,5 +1,5 @@
 ---
-title: Fashion-Specific Personalisation v1
+title: Fashion-Specific Personalisation (Demo)
 date: 2017-10-26 07:07:00 Z
 position: 22
 header:
@@ -13,7 +13,10 @@ header:
     url: "/book-a-demo/"
   hero-image: "/uploads/banner_style-hub.jpg"
 is-landing-page: true
-description: Fashion-Specific Personalisation v1
+description: Dressipi is the global leader in Fashion-Specific Personalisation. We
+  give each customer their own tailored shopping experience online and instore, enabling
+  retailers to match customers with products and experiences to influence buying behaviour
+  at scale.
 ---
 
 ## Why businesses choose Dressipi:
