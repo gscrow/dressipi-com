@@ -25,11 +25,11 @@ Martijn’s three trends to watch included:
 
 * Machine Learning — Use data to keep learning. Emphasis must be placed on developing smarter machines that can adapt on the go. Gathering insights and making real changes based on these is what will drive innovation forward.
 * Immersive Experiences — In years gone by we would treasure our pen and take it everywhere with us – this has now evolved into whatever device helps make our lives easier and more efficient. The rise of more and more connected devices around the home reflects this.
-* Faster Decision Making — The consumer is faced with far too much choice. The winners are the retailers who are going to help their customers make faster and better decisions, whether that is through natural language search or more personalised shopping journeys. In short, retailers need to show up when the customer wants them to.
+* Faster Decision Making — The consumer is faced with far too much choice. The winners are the retailers who are going to help their customers make faster and better decisions, whether that is through natural language search or more [personalised shopping journeys](https://dressipi.com/solutions/customer-experience/). In short, retailers need to show up when the customer wants them to.
 
 ### 2) Physical Stores Need to Provide Emotional Experiences
 
-For mass market retailers seeking to survive the new “horizontal world” Laurie Ann Goldman (PE Board Director and Advisor, Joe & The Juice) declared that the emotional experience gained by shopping should not be underestimated. She claimed that customers still look for one-on-one interactions to help them to find exactly what they want. The challenge, naturally, was in providing this intimate in-store experience at scale.
+For mass market retailers seeking to survive the new “horizontal world” Laurie Ann Goldman (PE Board Director and Advisor, Joe & The Juice) declared that the emotional experience gained by shopping should not be underestimated. She claimed that customers still look for one-on-one interactions to help them to find exactly what they want. The challenge, naturally, was in providing this intimate in-store experience at scale. 
 
 In addition, Terry Lundgren (Executive Chairman, Macy’s) highlighted that bricks & mortar stores are here to stay. He claimed that they are “still crucial in the changing retail landscape” and that we need to think more deeply about how to reinvent malls, especially in the US which has three times more retail space per consumer than the global average. He believes that exclusive product, exciting store experiences and online investment will all contribute to saving US department stores.
 
@@ -41,13 +41,8 @@ In her view, "customer experience" is an overused phrase – the future is livin
 
 ### 4) Competence Transcends Gender and Race
 
-Another highlight of the event was the World Retail Awards, where Dressipi were nominated for the Rodney Fitch Award for Innovation & Creativity Award.
+Another highlight of the event was the World Retail Awards, where Dressipi were nominated for the [Rodney Fitch Award for Innovation & Creativity Award](https://dressipi.com/news/).
 
 The well-deserved winner of the Woman of the Year award was Zyda Rylands (CEO, Woolworths South Africa). Rylands is an incredibly inspirational figure who was recognised for her impressive commercial success in the retail sector, having been with Woolworths for over a decade. Although Zyda expressed that “competence transcends gender and race”, she highlighted that there is still work to do to raise the profile of women in the retail sector and improve gender diversity in the leadership space.
 
-In summary, the World Retail Congress was a resounding success and reaffirmed to me that Dressipi is innovating in a space where retailers are crying out for solutions that help them serve their customers to the best of their ability.
-
-
-Both Vicky and I agreed that returns are always going to be a feature of the retail industry, but at their current levels, they are too expensive and unsustainable. The future of the industry relies on retailers using their data in a smarter way and taking action to gain real clarity as to the key metrics that can drive revenue growth alongside profit/margin growth. This, alongside [one to one personalisation](/one-to-one-personalisation/) that provides richer and more relevant customer experiences, will ensure that retail stays ahead of the curve.
-
-To read the whitepaper in detail and to gain an insight into how you can reduce returns by up to 5% percentage points (including a quick returns analysis retailers can easily do), [download it now](/downloads/how-to-make-your-data-work-harder-to-reduce-garment-return-rates-whitepaper/).
+In summary, the World Retail Congress was a resounding success and reaffirmed to me that [Dressipi is innovating](https://dressipi.com/solutions/innovation/) in a space where retailers are crying out for solutions that help them serve their customers to the best of their ability.
