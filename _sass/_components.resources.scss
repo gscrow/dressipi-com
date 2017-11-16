@@ -11,7 +11,8 @@
 	}
 
 	&__content {
-		flex: 8;
+		flex: 7;
+
 		h1 {
 			@extend .h3;
 		}
@@ -34,8 +35,8 @@
 	}
 
 	&__image {
-		flex: 2;
-		margin-right: $gutter-width;
+		flex: 3;
+		margin-left: $gutter-width;
 
 		img {
 			display: block;
@@ -49,14 +50,15 @@
 
 @include responsive(tablet) {
 	.resource {
-
 		&__content {
 			flex-basis: 100%;
 		}
 
 		&__image {
 			flex-basis: 100%;
-			margin-right: 0;
+			order: -1;
+			margin-left: 0;
+			margin-bottom: rhythm(3);
 		}
 	}
 }

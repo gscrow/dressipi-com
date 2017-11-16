@@ -18,15 +18,15 @@ layout: default
       <section class="resources__list">
       	{% for download in downloads %}
         <div class="resource">
-        	{% if download.image %}
-        	<div class="resource__image">
-        		<p><img src="{{download.image}}" title="{{ download.title }}" /></p>
-        	</div>
-        	{% endif %}
 					<div class="resource__content">
 						{{ download.content | markdownify }}
 						<p><a href="{{ download.url }}" class="button button--medium button-primary">{{ download.form.button }}</a></p>
 			  	</div>
+			  	{% if download.image %}
+        	<div class="resource__image">
+        		<p><img src="{{download.image}}" title="{{ download.title }}" /></p>
+        	</div>
+        	{% endif %}
 			  </div>
       	{% endfor %}
       </section>
