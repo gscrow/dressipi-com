@@ -1,6 +1,16 @@
 ---
 title: Highlights from the World Retail Congress 2017
 date: 2017-04-12 10:35:00 Z
+categories:
+- news
+tags:
+- world retail congress
+- technology
+- data
+- personalisation
+- retail technology
+- fashion technology
+- retail
 image: "/uploads/20170406_220329.jpg"
 author: Philippa Mew
 ---
