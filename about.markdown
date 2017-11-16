@@ -119,10 +119,6 @@ sections:
     title: PR & Marketing
     linkedin: https://www.linkedin.com/in/philippa-mew-34544032/
     image: "/uploads/philippa-mew.jpg"
-  - name: David Gibbs
-    title: Web Developer
-    linkedin: https://www.linkedin.com/in/sixtysticks
-    image: "/uploads/davd-gibbs.jpg"
   - name: Paul Woestelandt
     title: Web Developer
     linkedin: https://www.linkedin.com/in/pwoestelandt
