@@ -57,6 +57,4 @@ Another highlight of the event was the World Retail Awards, where Dressipi were 
 
 The well-deserved winner of the Woman of the Year award was Zyda Rylands (CEO, Woolworths South Africa). Rylands is an incredibly inspirational figure who was recognised for her impressive commercial success in the retail sector, having been with Woolworths for over a decade. Although Zyda expressed that *“competence transcends gender and race”*, she highlighted that there is still work to do to raise the profile of women in the retail sector and improve gender diversity in the leadership space.
 
----
-
-In summary, the World Retail Congress was a resounding success and reaffirmed to me that [Dressipi is innovating](https://dressipi.com/solutions/innovation/) in a space where retailers are crying out for solutions that help them serve their customers to the best of their ability.
+>In summary, the World Retail Congress was a resounding success and reaffirmed to me that [Dressipi is innovating](https://dressipi.com/solutions/innovation/) in a space where retailers are crying out for solutions that help them serve their customers to the best of their ability.
