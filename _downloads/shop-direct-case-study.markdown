@@ -2,7 +2,7 @@
 title: Personalising the Entire Customer Experience for Shop Direct
 date: 2017-05-10 11:20:00 Z
 resource: Case Study
-image: "/uploads/sdg_withlogo.PNG"
+image: "/uploads/sdg_withlogo_small.PNG"
 form:
   title: Download Free Case Study
   button: Download Case Study
