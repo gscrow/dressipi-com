@@ -53,7 +53,7 @@ In her view, "customer experience" is an overused phrase – the future is livin
 
 ### 4) Competence Transcends Gender and Race
 
-Another highlight of the event was the World Retail Awards, where Dressipi were nominated for the [Rodney Fitch Award for Innovation & Creativity Award](https://dressipi.com/news/).
+Another highlight of the event was the World Retail Awards, where Dressipi were nominated for the [Rodney Fitch Award for Innovation & Creativity](https://dressipi.com/news/).
 
 The well-deserved winner of the Woman of the Year award was Zyda Rylands (CEO, Woolworths South Africa). Rylands is an incredibly inspirational figure who was recognised for her impressive commercial success in the retail sector, having been with Woolworths for over a decade. Although Zyda expressed that *“competence transcends gender and race”*, she highlighted that there is still work to do to raise the profile of women in the retail sector and improve gender diversity in the leadership space.
 
