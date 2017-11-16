@@ -33,9 +33,9 @@ Martijn declared that we no longer *“go”* online, we *“live”* online, co
 
 Martijn’s three trends to watch included:
 
-* Machine Learning- Use data to keep learning. Emphasis must be placed on developing smarter machines that can adapt on the go. Gathering insights and making real changes based on these is what will drive innovation forward.
-* Immersive Experiences - In years gone by we would treasure our pen and take it everywhere with us – this has now evolved into whatever device helps make our lives easier and more efficient. The rise of more and more connected devices around the home reflects this.
-* Faster Decision Making - The consumer is faced with far too much choice. The winners are the retailers who are going to help their customers make faster and better decisions, whether that is through natural language search or more [personalised shopping journeys](https://dressipi.com/solutions/customer-experience/). In short, retailers need to show up when the customer wants them to.
+* ###Machine Learning- Use data to keep learning. Emphasis must be placed on developing smarter machines that can adapt on the go. Gathering insights and making real changes based on these is what will drive innovation forward.
+* ###Immersive Experiences - In years gone by we would treasure our pen and take it everywhere with us – this has now evolved into whatever device helps make our lives easier and more efficient. The rise of more and more connected devices around the home reflects this.
+* ###Faster Decision Making - The consumer is faced with far too much choice. The winners are the retailers who are going to help their customers make faster and better decisions, whether that is through natural language search or more [personalised shopping journeys](https://dressipi.com/solutions/customer-experience/). In short, retailers need to show up when the customer wants them to.
 
 ### 2) Physical Stores Need to Provide Emotional Experiences
 
