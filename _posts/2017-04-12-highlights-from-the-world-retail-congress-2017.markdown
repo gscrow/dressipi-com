@@ -15,7 +15,7 @@ image: "/uploads/20170406_220329.jpg"
 author: Philippa Mew
 ---
 
-Dressipi were thrilled to be selected as one of 5 start-ups who exhibited at the recent World Retail Congress, Dubai. In this post Philippa Mew, Marketing & PR Associate of Dressipi shares her highlights.
+Dressipi were thrilled to be selected as one of 5 start-ups who exhibited at the recent World Retail Congress in Dubai. In this post Philippa Mew, Marketing & PR Associate of Dressipi shares her highlights.
 
 # Highlights from the World Retail Congress 2017
 
@@ -39,7 +39,7 @@ Martijn’s three trends to watch included:
 
 ### 2) Physical Stores Need to Provide Emotional Experiences
 
-For mass market retailers seeking to survive the new *“horizontal world”* Laurie Ann Goldman (PE Board Director and Advisor, Joe & The Juice) declared that the emotional experience gained by shopping should not be underestimated. She claimed that customers still look for [one-on-one interactions](https://dressipi.com/one-to-one-personalisation/) to help them to find exactly what they want. The challenge, naturally, was in providing this intimate in-store experience at scale. 
+For mass market retailers seeking to survive the new *“horizontal world”* Laurie Ann Goldman (PE Board Director and Advisor, Joe & The Juice) declared that the emotional experience gained by shopping should not be underestimated. She claimed that customers still look for [one-to-one interactions](https://dressipi.com/one-to-one-personalisation/) to help them to find exactly what they want. The challenge, naturally, was in providing this intimate in-store experience at scale. 
 
 In addition, Terry Lundgren (Executive Chairman, Macy’s) highlighted that bricks & mortar stores are here to stay. He claimed that they are *“still crucial in the changing retail landscape”* and that we need to think more deeply about how to reinvent malls, especially in the US which has three times more retail space per consumer than the global average. He believes that exclusive product, exciting store experiences and online investment will all contribute to saving US department stores.
 
