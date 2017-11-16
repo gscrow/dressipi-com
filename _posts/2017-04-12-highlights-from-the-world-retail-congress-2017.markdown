@@ -45,7 +45,7 @@ For mass market retailers seeking to survive the new *“horizontal world”* La
 
 In addition, Terry Lundgren (Executive Chairman, Macy’s) highlighted that bricks & mortar stores are here to stay. He claimed that they are *“still crucial in the changing retail landscape”* and that we need to think more deeply about how to reinvent malls, especially in the US which has three times more retail space per consumer than the global average. He believes that exclusive product, exciting store experiences and online investment will all contribute to saving US department stores.
 
->*Dressipi's co-founder Donna North has written a whitepaper on how stores can be transformed into a retailer’s biggest asset not their biggest liability. To find out more [download it now](https://dressipi.com/downloads/how-dressipi-can-help-retailers-transform-their-biggest-asset-whitepaper/).*
+>*Dressipi's co-founder Donna North has written a whitepaper on how stores can be transformed into a retailer’s biggest asset not their biggest liability. To find out more [download it now](https://dressipi.com/downloads/how-dressipi-can-help-retailers-transform-their-biggest-asset-whitepaper/). *
 
 ### 3) ‘Customer Experience’ is Becoming an Overused Phrase
 
