@@ -2,7 +2,7 @@
 title: How Dressipi Can Help Retailers Transform Their Biggest Asset
 date: 2017-05-12 04:38:00 Z
 resource: Whitepaper
-image: "/uploads/Biggest_Asset_Whitepaper.jpg"
+image: "/uploads/Biggest_Asset_Whitepaper_small.jpg"
 form:
   title: Download Free Whitepaper
   button: Download Whitepaper
