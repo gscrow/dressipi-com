@@ -12,6 +12,7 @@ form:
   button_class: whitepaper
 testimonial:
   action: Download Whitepaper
+layout: download
 ---
 
 # Learn How To Make Your Data Work Harder To Reduce Garment Return Rates
