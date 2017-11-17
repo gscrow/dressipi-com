@@ -1,7 +1,7 @@
 ---
 title: Five Things Every Retailer Should Know About Personalisation
 date: 2017-08-22 13:19:00 Z
-resource: Whitepaper
+resource: Whitepapers
 image: "/uploads/Five_Things_Whitepaper_small.jpg"
 form:
   title: Download Free Whitepaper

@@ -11,9 +11,9 @@ layout: default
   	<div class="resources__content gutter">
 			{% case my_page_url %}
 			{% when 'case-studies' %}
-				{% assign downloads = site.downloads | sort: 'position' | where: 'resource', 'Case Study' %}
+				{% assign downloads = site.downloads | sort: 'position' | where: 'resource', 'Case Studies' %}
 			{% when 'whitepapers' %}
-				{% assign downloads = site.downloads | sort: 'position' | where: 'resource', 'Whitepaper' %}
+				{% assign downloads = site.downloads | sort: 'position' | where: 'resource', 'Whitepapers' %}
 			{% endcase %}
       <section class="resources__list">
       	{% for download in downloads %}
