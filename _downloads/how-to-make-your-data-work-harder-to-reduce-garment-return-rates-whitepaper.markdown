@@ -4,7 +4,7 @@ title: |-
   Harder To Reduce Garment Return Rates
 date: 2017-10-27 13:41:00 Z
 resource: Whitepapers
-image: "/uploads/alexandra-gorn-260989-486dd7.jpg"
+image: "/uploads/returns_small.jpg"
 form:
   title: Download Free Whitepaper
   button: Download Whitepaper
