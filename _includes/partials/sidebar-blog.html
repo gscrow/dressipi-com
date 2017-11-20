@@ -2,7 +2,7 @@
 	<!-- Download – Case Studies -->
 	<section class="widget widget-download">
 		<h3>Case Studies</h3>
-		{% assign case_studies = site.downloads | sort: 'position' | where: 'resource', 'Case Study' %}
+		{% assign case_studies = site.downloads | sort: 'position' | where: 'resource', 'Case Studies' %}
 		<ul class="list-downloads">
 			{% for case_study in case_studies %}
 			<li><a href="{{ case_study.url }}" class="">{{ case_study.title }}</a></li>
@@ -13,7 +13,7 @@
   <!-- Download – Whitepapers -->
 	<section class="widget widget-download">
 		<h3>Whitepapers</h3>
-		{% assign whitepapers = site.downloads | sort: 'position' | where: 'resource', 'Whitepaper' %}
+		{% assign whitepapers = site.downloads | sort: 'position' | where: 'resource', 'Whitepapers' %}
 		<ul class="list-downloads">
 			{% for whitepaper in whitepapers %}
 			<li><a href="{{ whitepaper.url }}" class="">{{ whitepaper.title }}</a></li>
