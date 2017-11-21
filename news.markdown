@@ -31,7 +31,7 @@ sections:
   subtitle: 
   handle: awards
   awards:
-  - image: "/uploads/RW_AWARDS_LOGO_FINALIST.png"
+  - image: "/uploads/RW_AWARDS_LOGO_FINALIST%20(1).png"
     title: Customer Innovation - Finalist
   - image: "/uploads/award__silver-tech-2017.png"
     title: In-store CX Initiative of the Year - Silver Winner
