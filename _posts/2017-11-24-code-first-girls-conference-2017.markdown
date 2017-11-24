@@ -10,6 +10,9 @@ tags:
 image: "/uploads/CFG.jpg"
 author: Philippa Mew
 description: 'Code First: Girls Conference 2017'
+download: |-
+  How To Make Your Data Work
+  Harder To Reduce Garment Return Rates
 ---
 
 Being big advocates for women in tech, Dressipi had the pleasure of attending the most recent [Code First: Girls Conference 2017](http://www.codefirstgirls.org.uk/conference-2017.html) at the London offices of Twitter.  
