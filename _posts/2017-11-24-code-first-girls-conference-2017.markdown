@@ -6,7 +6,10 @@ categories:
 tags:
 - coding
 - women in tech
-- code firts
+- code first
+- CFGConf17
+- fashion technology
+- personalisation
 image: "/uploads/CFG.jpg"
 author: Philippa Mew
 description: 'Code First: Girls Conference 2017'
