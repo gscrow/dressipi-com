@@ -10,7 +10,7 @@ tags:
 - CFGConf17
 - fashion technology
 - personalisation
-image: "/uploads/CFG.jpg"
+image: "/uploads/CFG-a73eec.jpg"
 author: Philippa Mew
 description: 'Code First: Girls Conference 2017'
 download: |-
