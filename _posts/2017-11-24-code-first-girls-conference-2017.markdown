@@ -24,9 +24,9 @@ This conference was organised to inspire and empower women to start a career in 
 
 As explained by Stacy-Ann Sinclair from Bank of America Merrill Lynch, *“It is important to stay open and transparent”, adding how “we need to be clever about AI - it's a tool that solves particular problems and risks. These agents need to be unbiased, and creators have a responsibility to be transparent. Be worried but with a pinch of salt!”* By this she means that those training AI datasets have natural biases and, as a result that those working in AI need to be cognisant of these inherent biases and how they can influence outcomes.
  
-Another highlight of the day was the workshop *“Building a personal narrative”* lead by Anna Baird from LinkedIn. Baird highlighted the power behind your story and personal brand. She explained that the three most important things that will allow you to grow your career are:
+Another highlight of the day was the workshop *“Building a personal narrative”* lead by Anna Baird from LinkedIn. Baird highlighted the power behind your story and personal brand. 
 
-Martijn’s three trends to watch included:
+She explained that the three most important things that will allow you to grow your career are:
 
 * **To structure your career identity**
 * **To take bigger and better opportunities**
