@@ -35,6 +35,6 @@ She explained that the three most important things that will allow you to grow y
 In summary, the third Code First: Girls Conference 2017 was a resounding success. A very supportive and entrepreneurial, coding spirit could be sensed throughout the room. The packed Twitter offices  spoke volumes for the appeal of events like this which are essential if we are to motivate and to encourage more women into the technology industry.
 
 
->To find out more about how we are using the latest advancements in machine learning and AI to provide [one-to-one personalisation])https://dressipi.com/one-to-one-personalisation/) to some of the biggest UK retailers, take a look at our cutting edge [fashion retail innovation](https://dressipi.com/solutions/innovation/).
+>To find out more about how we are using the latest advancements in machine learning and AI to provide [one-to-one personalisation](https://dressipi.com/one-to-one-personalisation/) to some of the biggest UK retailers, take a look at our cutting edge [fashion retail innovation](https://dressipi.com/solutions/innovation/).
 
 >We’re always on the lookout for amazing talent to join our diverse and ever-growing team. Take a look at what [jobs](https://dressipi.com/careers/) we have on offer.
