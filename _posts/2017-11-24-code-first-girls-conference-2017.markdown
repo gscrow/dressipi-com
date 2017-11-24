@@ -20,7 +20,7 @@ Being big advocates for women in tech, Dressipi had the pleasure of attending th
 
 This conference was organised to inspire and empower women to start a career in technology and entrepreneurship, whilst also helping to make the tech industry more accessible. Events like these give women the opportunity to understand what it takes to succeed in tech, something our co-founder Donna North recently spoke about during her interview with [Everywoman](https://startups.co.uk/female-tech-leaders-talk-gender-pay-gap-stem-skills/), when she talked about the importance of encouraging and highlighting more female role models in the technology industry.
 
-The conference consisted of motivational talks and insightful panel discussions, the most interesting being *“Should we be worried? The ethics of Artificial Intelligence (AI)”*. This panel focused on demystifying the dangers of machine learning and the gender bias in AI.
+>The conference consisted of motivational talks and insightful panel discussions, the most interesting being *“Should we be worried? The ethics of Artificial Intelligence (AI)”*. This panel focused on demystifying the dangers of machine learning and the gender bias in AI.
 
 As explained by Stacy-Ann Sinclair from Bank of America Merrill Lynch, *“It is important to stay open and transparent”, adding how “we need to be clever about AI - it's a tool that solves particular problems and risks. These agents need to be unbiased, and creators have a responsibility to be transparent. Be worried but with a pinch of salt!”* By this she means that those training AI datasets have natural biases and, as a result that those working in AI need to be cognisant of these inherent biases and how they can influence outcomes.
  
