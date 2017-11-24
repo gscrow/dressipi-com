@@ -8,6 +8,8 @@ tags:
 - women in tech
 - code firts
 image: "/uploads/CFG.jpg"
+author: Philippa Mew
+description: 'Code First: Girls Conference 2017'
 ---
 
 Being big advocates for women in tech, Dressipi had the pleasure of attending the most recent Code First: Girls Conference 2017 at the London offices of Twitter.  
