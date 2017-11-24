@@ -25,7 +25,7 @@ This conference was organised to inspire and empower women to start a career in 
 
 >The conference consisted of motivational talks and insightful panel discussions, the most interesting being *“Should we be worried? The ethics of Artificial Intelligence (AI)”*. This panel focused on demystifying the dangers of machine learning and the gender bias in AI.
 
-As explained by Stacy-Ann Sinclair from Bank of America Merrill Lynch, *“It is important to stay open and transparent”, adding how “we need to be clever about AI - it's a tool that solves particular problems and risks. These agents need to be unbiased, and creators have a responsibility to be transparent. Be worried but with a pinch of salt!”* By this she means that those training AI datasets have natural biases and, as a result that those working in AI need to be cognisant of these inherent biases and how they can influence outcomes.
+As explained by Stacy-Ann Sinclair from Bank of America Merrill Lynch, *“It is important to stay open and transparent”*, adding how *“we need to be clever about AI - it's a tool that solves particular problems and risks. These agents need to be unbiased, and creators have a responsibility to be transparent. Be worried but with a pinch of salt!”* By this she means that those training AI datasets have natural biases and, as a result that those working in AI need to be cognisant of these inherent biases and how they can influence outcomes.
  
 Another highlight of the day was the workshop *“Building a personal narrative”* lead by Anna Baird from LinkedIn. Baird highlighted the power behind your story and personal brand. 
 
