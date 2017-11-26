@@ -9,11 +9,11 @@ layout: default
 		<div class="landing__content">
 			{{ content }}
 		</div>
-		{% if page.downloads %}
 		<div class="landing__form">
+    {% if page.downloads %}
 			{% assign downloads = site.downloads %}
-    {% for download in downloads %}
-    {% if page.downloads contains download.title %}
+      {% for download in downloads %}
+      {% if page.downloads contains download.title %}
 			<div class="form-download">
         <hgroup class="form-download__heading">
           <h3>{{ download.form.title }}</h3>
@@ -32,10 +32,12 @@ layout: default
           </button>
         </form>
       </div>
+		  {% endif %}
+      {% endfor %}
+    {% elsif page.is-demo-page %}
+      {% include partials/form-demo.html %}
 		{% endif %}
-    {% endfor %}
-		</div>
-		{% endif %}
+    </div>
 	</div>
 </section>
 <section class="section">

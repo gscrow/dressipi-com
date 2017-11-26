@@ -17,8 +17,8 @@
   <!-- include content -->
   <main role="main">
   {{ content }}
-  {% if page.include-form-demo %}
-  {% include partials/form-demo.html %}
+  {% if page.has-demo-section %}
+  {% include partials/book-a-demo.html %}
   {% endif %}
   </main>
 

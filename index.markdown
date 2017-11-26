@@ -13,7 +13,7 @@ header:
   link:
     copy: Discover our Solutions
     url: "#features"
-include-form-demo: true
+has-demo-section: true
 sections:
 - title: Results
   subtitle: What You Can Expect
