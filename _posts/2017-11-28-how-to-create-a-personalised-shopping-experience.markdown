@@ -1,6 +1,9 @@
 ---
 title: How To Create A Personalised Shopping Experience
 date: 2017-11-28 15:21:00 Z
+author: Natalie Theo
+description: How To Create A Personalised Shopping Experience
+download: Five Things Every Retailer Should Know About Personalisation
 ---
 
 Natalie Theo, Dressipi’s Style Director describes the buzz term 'Personalisation', and explores how retailers can use it to create one to one shopping experiences for their customers that will delight and inspire them.
@@ -41,36 +44,11 @@ We believe that these represent a key differentiator and enable us to truly [inn
  
 Creating  personalised shopping experiences reduces the search costs for consumers reduces choice as we only show customers garments that suit their shape and style. It instills confidence in the purchases made: with outfitting customers learn how to style something they might be thinking of buying and to style it for different occasions suited to their needs and lifestyle. It champions versatility by showing how to wear a new purchase with something already in your wardrobe.
 
-
-The highlights from the panel (and in turn, [the whitepaper](/downloads/how-to-make-your-data-work-harder-to-reduce-garment-return-rates-whitepaper/)) are as follows:
-
-### 1) The main costs incurred by returns and how they impact the business
-
-We identified 3 main areas of cost:
-
-* Costs of getting product back into circulation
-* Opportunity cost of not having available stock
-* Restocking costs
-
-### 2) Highlighting the quantity and quality of data issue
-
-As mentioned earlier in this post, the data held by retailers is rarely good enough (in both quantity and quality) to predict and reduce returns.
-
-At Dressipi, we can do far more accurate propensity modelling on customer profile features and their tendency to buy and keep certain garments. This is due to the very detailed data we collect on every customer, and the taxonomy we created for every product category, (tagging every single product with up to 40-50 features).
-
-### 3) Focus on the right metrics to drive up revenues *and* margins
-
-Retailers typically focus on conversion and gross sales, but this can be misleading and won’t always lead to margin improvement without due consideration being given to return rates.
-
-### 4) Analyse your data to understand your key drivers
-
-Returns broadly fall into the following areas:
-
-* Customer behaviour
-* Wrong products/features
-* Misleading press/marketing images
+Most importantly, no matter how confident or not a customer may be, personalisation inspires -  it adds that element of fun to the user experience whether it’s through curated and personalised homepages and weekly style emails or simply through a spot-on style recommendation with a fashion twist.
 
 
-Both Vicky and I agreed that returns are always going to be a feature of the retail industry, but at their current levels, they are too expensive and unsustainable. The future of the industry relies on retailers using their data in a smarter way and taking action to gain real clarity as to the key metrics that can drive revenue growth alongside profit/margin growth. This, alongside [one to one personalisation](/one-to-one-personalisation/) that provides richer and more relevant customer experiences, will ensure that retail stays ahead of the curve.
+>If you are at the beginning of your personalisation journey and are interested in learning Five Things Every Retailer Should Know About Personalisation, [download our recent whitepaper](https://dressipi.com/downloads/five-things-every-retailer-should-know-about-personalisation-whitepaper/) by Dressipi’s co-founder Donna North.
 
->To read the whitepaper in detail and to gain an insight into how you can reduce returns by up to 5% percentage points (including a quick returns analysis retailers can easily do), [download it now](/downloads/how-to-make-your-data-work-harder-to-reduce-garment-return-rates-whitepaper/).
+>Equally, if you are interested in a demo to see how we could provide our personalisation solutions for you and reduce return rates by 5% percentage points, book a demo today.
+
+Photo by Ewan Robertson on Unsplash
