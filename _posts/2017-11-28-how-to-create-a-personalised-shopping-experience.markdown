@@ -43,7 +43,7 @@ Fashion is emotional and constantly evolving. How customers think of fashion cha
 
 We believe that these represent a key differentiator and enable us to truly [innovate](https://dressipi.com/solutions/innovation/) compared to many of our competitors’ purely click-based approach to personalisation (i.e. people like you clicked this, so you’ll probably like this).
  
-Creating [personalised shopping experiences](https://dressipi.com/true-personalisation/) reduces the search costs for consumers as we only show customers garments that suit their shape and style, instilling confidence in the purchases made. For example, with the outfits we automatically generate for each customer, they learn how to style something they might be thinking of buying and learn how make it work for different occasions, all suited to their personal needs and lifestyle. In addition, it champions versatility by showing how to wear a new purchase with something already in your wardrobe.
+Creating [personalised shopping experiences](https://dressipi.com/true-personalisation/) reduces the search costs for consumers as we only show customers garments that suit their shape and style, instilling confidence in the purchases made. For example, with the outfits we automatically generate for each customer, they learn how to style something they might be thinking of buying and learn how make it work for different occasions. In addition, it champions versatility by showing how to wear a new purchase with something already in your wardrobe.
 
 [image]: https://uploads/JL_outfit.png
 
