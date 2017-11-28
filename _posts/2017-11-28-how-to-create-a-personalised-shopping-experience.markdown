@@ -7,7 +7,7 @@ description: How To Create A Personalised Shopping Experience
 download: Five Things Every Retailer Should Know About Personalisation
 ---
 
-Natalie Theo, Dressipi’s Style Director describes the meaning of Personalisation, and explores how retailers can use it to create one to one shopping experiences for their customers that will delight and inspire them.
+Natalie Theo, Dressipi’s Style Director describes the meaning of Personalisation, and explores how retailers can use it to create [one to one shopping experiences](https://dressipi.com/one-to-one-personalisation/) for their customers that will delight and inspire them.
 
 # How To Create A Personalised Shopping Experience
 
