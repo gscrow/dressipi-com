@@ -32,7 +32,7 @@ Thanks to each customer’s unique and ever evolving Fashion Fingerprint® (thei
 
 For many retailers personalisation is  likely to become a key focus in 2018. Firstly it represents an opportunity for retailers to empower better customer experiences, and secondly, increased revenue with a service that adds that ‘human touch’ to the customer journey and lets her know *“we’re listening to you”*.
 
-> *We’ve always known at Dressipi right from the start that turning face to face real time personal shopping experiences into algorithms that constantly learn and evolve as the customer does, requires the style team and tech team to work hand in hand. That’s exactly what we do.*
+> *We’ve always known right from the start that turning face to face real time personal shopping experiences into algorithms that constantly learn and evolve as the customer does, requires the style team and tech team to work hand in hand. At Dressipi, that’s exactly what we do.*
  
 Fashion is emotional and constantly evolving. How customers think of fashion changes with time, inspiration and context which is why our algorithms take into account fashion specific information updated daily by the style team. This operates on many levels:
 
@@ -44,6 +44,8 @@ Fashion is emotional and constantly evolving. How customers think of fashion cha
 We believe that these represent a key differentiator and enable us to truly [innovate](https://dressipi.com/solutions/innovation/) compared to many of our competitors’ purely click-based approach to personalisation (i.e. people like you clicked this, so you’ll probably like this).
  
 Creating [personalised shopping experiences](https://dressipi.com/true-personalisation/) reduces the search costs for consumers as we only show customers garments that suit their shape and style, instilling confidence in the purchases made. For example, with the outfits we automatically generate for each customer, they learn how to style something they might be thinking of buying and learn how make it work for different occasions, all suited to their personal needs and lifestyle. In addition, it champions versatility by showing how to wear a new purchase with something already in your wardrobe.
+
+[image]: https://uploads/JL_outfit.png
 
 Most importantly, no matter how confident or not a customer may be, Personalisation inspires -  it adds that element of fun to the user experience whether it’s through curated and personalised homepages and weekly style emails or simply through a spot-on style recommendation with a fashion twist.
 
