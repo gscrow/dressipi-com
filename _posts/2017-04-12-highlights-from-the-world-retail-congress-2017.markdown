@@ -11,7 +11,7 @@ tags:
 - retail technology
 - fashion technology
 - retail
-image: "/uploads/20170406_220329.jpg"
+image: "/uploads/WRC_banner.jpg"
 author: Philippa Mew
 description: Highlights from the World Retail Congress 2017
 download: How Dressipi Can Help Retailers Transform Their Biggest Asset
