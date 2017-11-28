@@ -55,7 +55,7 @@ Creating [personalised shopping experiences](https://dressipi.com/true-personali
 
 Below are two examples of the personalised [outfit recommendations](https://dressipi.com/solutions/customer-experience/) we provide on John Lewis: 
 
-![image](/uploads/JL_outfit_2.png)![image](/uploads/JL_outfit_1.png)
+![image](/uploads/JL_outfit_2.png)  ![image](/uploads/JL_outfit_1.png)
 
 Most importantly, no matter how confident or not a customer may be, Personalisation inspires -  it adds that element of fun to the user experience whether it’s through curated and personalised homepages and weekly style emails or simply through a spot-on style recommendation with a fashion twist.
 
