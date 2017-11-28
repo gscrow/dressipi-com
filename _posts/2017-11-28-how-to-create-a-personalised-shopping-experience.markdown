@@ -32,7 +32,7 @@ Thanks to each customer’s unique and ever evolving Fashion Fingerprint® (thei
 
 For many retailers personalisation is  likely to become a key focus in 2018. Firstly it represents an opportunity for retailers to empower better customer experiences, and secondly, increased revenue with a service that adds that ‘human touch’ to the customer journey and lets her know *“we’re listening to you”*.
 
-> We’ve always known at Dressipi right from the start that turning face to face real time personal shopping experiences into algorithms that constantly learn and evolve as the customer does, requires the style team and tech team to work hand in hand. That’s exactly what we do.
+> *We’ve always known at Dressipi right from the start that turning face to face real time personal shopping experiences into algorithms that constantly learn and evolve as the customer does, requires the style team and tech team to work hand in hand. That’s exactly what we do.*
  
 Fashion is emotional and constantly evolving. How customers think of fashion changes with time, inspiration and context which is why our algorithms take into account fashion specific information updated daily by the style team. This operates on many levels:
 
