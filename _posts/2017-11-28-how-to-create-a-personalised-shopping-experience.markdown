@@ -26,7 +26,7 @@ Personalisation starts with the customer and ends with the customer. It’s an o
 
 These are all crucial data points that we continually capture and learn from, highlighting that putting the customer needs first enables us to create a [truly personalised shopping solution](https://dressipi.com/true-personalisation/) for our retail partners.
 
-> Download our case study [‘How Shop Direct Benefited from Dressipi’s One-To-One Personalisation’](https://dressipi.com/downloads/shop-direct-case-study/) to discover how Dressipi has helped Shop Direct deliver personalisation to every customer
+> Download our case study [‘How Shop Direct Benefited from Dressipi’s One-To-One Personalisation’](https://dressipi.com/downloads/shop-direct-case-study/) to discover how Dressipi has helped Shop Direct deliver personalisation to every customer.
 
 Thanks to each customer’s unique and ever evolving Fashion Fingerprint® (their unique fashion profile) and the fact that Dressipi has the largest set of product fit and style data available in the world today, retailer’s products are mapped to a customer as if it were the result of that very intimate discussion she might have had with a personal stylist in real time.
 
