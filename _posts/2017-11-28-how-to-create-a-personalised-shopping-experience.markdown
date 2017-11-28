@@ -58,8 +58,8 @@ Creating [personalised shopping experiences](https://dressipi.com/true-personali
 Most importantly, no matter how confident or not a customer may be, Personalisation inspires -  it adds that element of fun to the user experience whether it’s through curated and personalised homepages and weekly style emails or simply through a spot-on style recommendation with a fashion twist.
 
 
->If you are at the beginning of your personalisation journey and are interested in learning Five Things Every Retailer Should Know About Personalisation, [download our recent whitepaper](https://dressipi.com/downloads/five-things-every-retailer-should-know-about-personalisation-whitepaper/) by Dressipi’s co-founder Donna North.
+>If you are at the beginning of your Personalisation journey and are interested in learning Five Things Every Retailer Should Know About Personalisation, [download our recent whitepaper](https://dressipi.com/downloads/five-things-every-retailer-should-know-about-personalisation-whitepaper/) by Dressipi’s co-founder Donna North.
 
->Equally, if you are interested in a demo to see how we could provide our personalisation solutions for you and reduce return rates by 5% percentage points, book a demo today.
+>Equally, if you are interested in a demo to see how we could provide our Personalisation solutions for you and reduce return rates by 5% percentage points, [book a demo](https://dressipi.com/book-a-demo/) today.
 
-Photo by Ewan Robertson on Unsplash
+Header Photo by Ewan Robertson on Unsplash
