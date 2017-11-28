@@ -9,7 +9,7 @@ tags:
 - fashion personalisation
 - how to create a personalised shopping experience
 - retail technology
-image: "/uploads/ewan-robertson-208022.jpg"
+image: "/uploads/personalised%20shopping%20small.jpg"
 author: Natalie Theo
 description: How To Create A Personalised Shopping Experience
 download: Five Things Every Retailer Should Know About Personalisation
