@@ -53,6 +53,8 @@ We believe that these represent a key differentiator and enable us to truly [inn
  
 Creating [personalised shopping experiences](https://dressipi.com/true-personalisation/) reduces the search costs for consumers as we only show customers garments that suit their shape and style, instilling confidence in the purchases made. For example, with the outfits we automatically generate for each customer, they learn how to style something they might be thinking of buying and learn how make it work for different occasions. In addition, it champions versatility by showing how to wear a new purchase with something already in your wardrobe.
 
+Below are two examples of the outfit recommendations on John Lewis: 
+
 ![image](/uploads/JL_outfit.png)![image](/uploads/JL_2.png)
 
 Most importantly, no matter how confident or not a customer may be, Personalisation inspires -  it adds that element of fun to the user experience whether it’s through curated and personalised homepages and weekly style emails or simply through a spot-on style recommendation with a fashion twist.
