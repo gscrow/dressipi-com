@@ -13,7 +13,7 @@ header:
     url: "/book-a-demo"
   hero-image: "/uploads/banner_data-insights.jpg"
   color: transparent
-include-form-demo: true
+has-demo-section: true
 sections:
 - title: Reactive to Predictive Retailing
   handle: intro

@@ -13,7 +13,7 @@ header:
     url: "/book-a-demo"
   hero-image: "/uploads/banner_style-hub.jpg"
   color: white
-include-form-demo: true
+has-demo-section: true
 sections:
 - title: Future-proof Your Business
   handle: intro

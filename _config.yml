@@ -106,8 +106,8 @@ defaults:
         copy: 
         url: 
       hero-image: 
-    include-form-demo: false
     is-landing-page: false
+    is-demo-page: false
     downloads: 
     layout: page
     description: 

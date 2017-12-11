@@ -22,7 +22,7 @@ header:
   - JD Williams
   - Evans
   - Autograph
-include-form-demo: true
+has-demo-section: true
 sections:
 - title: Case Study
   subtitle: The following case study outlines the impact Dressipi has had on some
