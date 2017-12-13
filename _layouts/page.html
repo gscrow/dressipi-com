@@ -57,6 +57,7 @@ layout: default
 </section>
 {% else %}
 <div class="container gutter page-content{% if page.width %}{{ page.width | prepend: '--' }}{% endif %}">
+	{{ content }}
 	{% if my_page_url == '404.html' %}
   <section class="container--narrow">
   	<div class="container">
