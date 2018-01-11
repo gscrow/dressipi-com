@@ -2,6 +2,7 @@
 title: Zara’s Self-Service Check Out Highlights a Stronger Focus on Creating Better
   In-Store Customer Experiences
 date: 2018-01-11 12:56:00 Z
+image: "/uploads/zara%20blog%20main%20image.jpg"
 author: Natalie Theo
 description: Zara’s Self-Service Check Out Highlights a Stronger Focus on Creating
   Better In-Store Customer Experiences
