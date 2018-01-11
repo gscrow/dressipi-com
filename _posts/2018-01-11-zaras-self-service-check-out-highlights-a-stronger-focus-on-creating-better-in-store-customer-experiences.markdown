@@ -16,8 +16,8 @@ tags:
 - innovation
 image: "/uploads/zara%20blog%20main%20image.jpg"
 author: Natalie Theo
-description: Zara’s Self-Service Check Out Highlights a Stronger Focus on Creating
-  Better In-Store Customer Experiences
+description: Natalie Theo, Dressipi’s Style Director tries out Zara’s new self-service
+  check out technology for herself.
 download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
