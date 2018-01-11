@@ -35,7 +35,7 @@ Cue Zara and the self-service checkout. Using a self-checkout is something that�
 
 Zara is trialling out this service at one of its Oxford Street stores. On the downside, if I hadn’t read about it on Twitter, I wouldn’t have known it existed. The self-service kiosks are located upstairs on the first floor tucked away, albeit in a very sleek and almost zen-like section. It’s also not immediately obvious what they are.
 
-<p style="text-align:center"><img src ="/uploads/Zara%201_resized.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Zara%201_resized.jpg"/></p>
 
 On the upside, from a convenience point of view, this service is perfect as it resulted in cutting down on my shopping time. In addition, no-one else was using the kiosks, although I was there at one of the quieter times in the morning.
 
@@ -46,12 +46,12 @@ Overall it was as easy if not easier than shopping online with the added bonus t
 
 The touchscreen interface worked seamlessly and guided me smoothly through the quick transaction process from start to finish.
 
-<p style="text-align:center"><img src ="/uploads/zara%203%20resized.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/zara%203%20resized.jpg"/></p>
 
 I got excited at Step 1 and the thought of not having to scan my garment – a leopard print scarf – as all I had to do was hold it close to the kiosk and it detected the barcode. As if by magic the price and scarf immediately appeared on the screen. However, with the second garment, I did have a supermarket self-service check out moment with the jacket I wanted to buy. The kiosk did not “automatically recognise” the item as promised so I was prompted to scan the barcode, which I had to do a few times.
 
 
-<p style="text-align:center"><img src ="/uploads/zara_2_resized.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/zara_2_resized.jpg"/></p>
 
 Still, a small price to pay for an otherwise smooth and quick experience. Payment was effortless as was removing the security tag. A few minutes later I was wearing my scarf and had popped my jacket into a bag hanging on the side of the kiosks.
 
