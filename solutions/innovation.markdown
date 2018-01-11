@@ -13,8 +13,9 @@ header:
     url: "/book-a-demo"
   hero-image: "/uploads/banner_style-hub.jpg"
   color: white
-description: Our fashion personalisation solution is constantly upgrading and evolving.
-  Click here and learn more about our latest advances in Machine Learning and AI.
+description: Dressipi Labs is a source of constant innovation in fashion retail personalisation.
+  Click here to learn more about our lab projects that we believe will become valuable
+  tools for customers and retailers in the near future.
 has-demo-section: true
 sections:
 - title: Future-proof Your Business
