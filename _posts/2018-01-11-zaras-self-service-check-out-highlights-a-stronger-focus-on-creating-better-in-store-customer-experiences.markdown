@@ -27,7 +27,7 @@ Natalie Theo, Dressipi’s Style Director tries out Zara’s new self-service ch
 
 ## Any solution retailers can provide to map the convenience of shopping online to the [in-store experience](https://dressipi.com/how-to-improve-customer-experience-instore/) is a solution that’s heading in the right direction.
 
-One way is solving the problem of how to avoid those long and arduous queues to pay for your items. I can’t count the number of times when the length of a lunchtime queue was the deciding factor of whether to purchase or not.
+One way is solving the problem of how to avoid those long and tiresome queues to pay for your items. I can’t count the number of times when the length of a lunchtime queue was the deciding factor of whether to purchase or not.
 
 Cue Zara and the self-service checkout. Using a self-checkout is something that’s become second nature for me when shopping at supermarkets or Boots – despite the usual technical glitches involved with unidentified items in the basket or barcodes on scrunched up stickers that are impossible to scan. To be able to have that ‘beat the queue’ option at Zara was something that appealed to me and I felt marked a move towards using technology to create more seamless in-store experiences for the customer.
 
