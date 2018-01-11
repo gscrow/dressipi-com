@@ -13,6 +13,8 @@ header:
   link:
     copy: Discover our Solutions
     url: "#features"
+description: Dressipi is the leader in fashion personalisation, increasing AOV and
+  decreasing returns. Click here and learn what benefits it could bring to your business.
 has-demo-section: true
 sections:
 - title: Results
