@@ -8,6 +8,7 @@ header:
   body: "### The following represent some of the publications and websites that have
     covered our innovative solutions in recent years."
   width: extend
+description: Discover Dressipi's latest press articles and award accolades.
 publications:
 - title: "“Fashion turns to data analytics to cut number of returned items”"
   image: "/uploads/logo__financial-times.svg"
