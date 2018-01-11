@@ -2,6 +2,18 @@
 title: Zara’s Self-Service Check Out Highlights a Stronger Focus on Creating Better
   In-Store Customer Experiences
 date: 2018-01-11 12:56:00 Z
+categories:
+- retail
+tags:
+- how to reduce returns
+- retail technology
+- zara
+- self check out
+- zara self check out
+- instore experience
+- better customer service
+- retail innovation
+- innovation
 image: "/uploads/zara%20blog%20main%20image.jpg"
 author: Natalie Theo
 description: Zara’s Self-Service Check Out Highlights a Stronger Focus on Creating
@@ -9,7 +21,7 @@ description: Zara’s Self-Service Check Out Highlights a Stronger Focus on Crea
 download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
-Natalie Theo, Dressipi’s Style Director tries out Zara’s new self-service technology for herself.
+Natalie Theo, Dressipi’s Style Director tries out Zara’s new self-service check out technology for herself.
 
 # Zara’s Self-Service Check Out Highlights a Stronger Focus on Creating Better In-Store Customer Experiences.
 
@@ -23,7 +35,7 @@ Cue Zara and the self-service checkout. Using a self-checkout is something that�
 
 Zara is trialling out this service at one of its Oxford Street stores. On the downside, if I hadn’t read about it on Twitter, I wouldn’t have known it existed. The self-service kiosks are located upstairs on the first floor tucked away, albeit in a very sleek and almost zen-like section. It’s also not immediately obvious what they are.
 
-![Zara 1.jpg](/uploads/Zara%201.jpg)
+![Zara 1_resized.jpg](/uploads/Zara%201_resized.jpg)
 
 On the upside, from a convenience point of view, this service is perfect as it resulted in cutting down on my shopping time. In addition, no-one else was using the kiosks, although I was there at one of the quieter times in the morning. 
  
@@ -34,11 +46,11 @@ Overall it was as easy if not easier than shopping online with the added bonus t
 
 The touchscreen interface worked seamlessly and guided me smoothly through the quick transaction process from start to finish.
 
-![IMG-20171003-WA0010.jpg](/uploads/IMG-20171003-WA0010.jpg)
+![zara 3 resized.jpg](/uploads/zara%203%20resized.jpg)
  
 I got excited at Step 1 and the thought of not having to scan my garment – a leopard print scarf – as all I had to do was hold it close to the kiosk and it detected the barcode. As if by magic the price and scarf immediately appeared on the screen. However, with the second garment, I did have a supermarket self-service check out moment with the jacket I wanted to buy. The kiosk did not “automatically recognise” the item as promised so I was prompted to scan the barcode, which I had to do a few times.
 
-![20171129_100436-7eb449.jpg](/uploads/20171129_100436-7eb449.jpg)
+![zara_2_resized.jpg](/uploads/zara_2_resized.jpg)
 
 Still, a small price to pay for an otherwise smooth and quick experience. Payment was effortless as was removing the security tag. A few minutes later I was wearing my scarf and had popped my jacket into a bag hanging on the side of the kiosks.
  
