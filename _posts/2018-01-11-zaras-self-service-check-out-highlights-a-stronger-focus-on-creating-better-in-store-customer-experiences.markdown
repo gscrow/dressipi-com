@@ -37,7 +37,7 @@ The touchscreen interface worked seamlessly and guided me smoothly through the q
  
 I got excited at Step 1 and the thought of not having to scan my garment – a leopard print scarf – as all I had to do was hold it close to the kiosk and it detected the barcode. As if by magic the price and scarf immediately appeared on the screen. However, with the second garment, I did have a supermarket self-service check out moment with the jacket I wanted to buy. The kiosk did not “automatically recognise” the item as promised so I was prompted to scan the barcode, which I had to do a few times.
 
-![20171129_100436.jpg](/uploads/20171129_100436.jpg)
+![20171129_100436-7eb449.jpg](/uploads/20171129_100436-7eb449.jpg)
 
 Still, a small price to pay for an otherwise smooth and quick experience. Payment was effortless as was removing the security tag. A few minutes later I was wearing my scarf and had popped my jacket into a bag hanging on the side of the kiosks.
  
