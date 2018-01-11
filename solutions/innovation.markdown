@@ -13,6 +13,8 @@ header:
     url: "/book-a-demo"
   hero-image: "/uploads/banner_style-hub.jpg"
   color: white
+description: Our fashion personalisation solution is constantly upgrading and evolving.
+  Click here and learn more about our latest advances in Machine Learning and AI.
 has-demo-section: true
 sections:
 - title: Future-proof Your Business
