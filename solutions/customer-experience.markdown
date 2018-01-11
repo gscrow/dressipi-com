@@ -12,6 +12,8 @@ header:
     url: "/book-a-demo"
   hero-image: "/uploads/banner_style-hub.jpg"
   color: "#F0F0F0"
+description: Discover the key features of Dressipi's fashion personalisation solution
+  and see what benefits it can bring to your business.
 has-demo-section: true
 sections:
 - title: Key Features
