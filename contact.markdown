@@ -4,6 +4,8 @@ date: 2017-05-06 09:50:00 Z
 position: 8
 header:
   height: tight
+description: Get in touch to learn more about how we can provide fashion personalisation
+  solutions for your business.
 form-contact:
   formspree-ID: meeaabem
   button: Send Request
