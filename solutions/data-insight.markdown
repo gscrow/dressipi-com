@@ -13,6 +13,9 @@ header:
     url: "/book-a-demo"
   hero-image: "/uploads/banner_data-insights.jpg"
   color: transparent
+description: Dressipi's Data Insight tools will help you make better buying and merchandising
+  decisions, delivering higher sell-through rates and lower markdowns. Click here
+  to learn more.
 has-demo-section: true
 sections:
 - title: Reactive to Predictive Retailing
