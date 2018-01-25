@@ -1,5 +1,5 @@
 ---
-title: From Clicks to Bricks - Boden's Newest Flagship Store
+title: From Clicks to Bricks - Boden's New Flagship Store
 date: 2018-01-25 15:32:00 Z
 categories:
 - retail
@@ -19,7 +19,7 @@ description: As more and more pureplay retailers open physical stores, Natalie T
 download: Five Things Every Retailer Should Know About Personalisation
 ---
 
-As more and more pureplay retailers open physical stores, Natalie Theo, Dressipi’s Style Director ventures to Boden's newest flagship.
+As more and more pureplay retailers open physical stores, Natalie Theo, Dressipi’s Style Director ventures to Boden's new flagship.
 
 # From Clicks to Bricks - Boden's Newest Flagship Store.
 
