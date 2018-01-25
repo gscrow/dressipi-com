@@ -26,7 +26,7 @@ As more and more pureplay retailers open physical stores, Natalie Theo, Dressipi
 
 This is something I’m used to seeing on Boden's online site accompanied by a witty catchphrase or two, and they’ve managed to replicate this when stepping into their first flagship store on the King’s Road. In an expanding push into bricks-and-mortar, the retailer has brought their big bouncy bright personality to the heart of London, adding to their store in Hanger Lane and concessions in John Lewis.
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Zara%201_resized.jpg"/></p>
+
 
 Their re-engagement with the physical retail space at the end of last year came at a time when pureplayers such as beauty brand Glossier and online giant Amazon were upping their emotional quotient by offering customers physical touchpoints. Glossier hosted a London pop-up store and Amazon a Black Friday pop-up complete with sampling experiences and workshops. Pureplay retailers moving into bricks and mortar spaces is becoming increasingly common, turning the challenge of declining footfall on its head. A prime example of this is Missguided, who opened their first physical store in Westfield back in 2016.
 
