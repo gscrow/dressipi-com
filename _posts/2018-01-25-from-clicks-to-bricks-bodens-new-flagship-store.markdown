@@ -29,7 +29,7 @@ This is something I’m used to seeing on Boden's online site accompanied by a w
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/boden_1.jpg"/></p>
 
-Their re-engagement with the physical retail space at the end of last year came at a time when pureplayers such as beauty brand Glossier and online giant Amazon were upping their emotional quotient by offering customers physical touchpoints. Glossier hosted a London pop-up store and Amazon a Black Friday pop-up complete with sampling experiences and workshops. Pureplay retailers moving into bricks and mortar spaces is becoming increasingly common, turning the challenge of declining footfall on its head. A prime example of this is Missguided, who opened their first physical store in Westfield back in 2016.
+Their re-engagement with the physical retail space at the end of last year came at a time when pureplayers such as beauty brand Glossier and online giant Amazon were upping their emotional quotient by offering customers physical touchpoints. Glossier hosted a London pop-up store and Amazon a Black Friday pop-up complete with sampling experiences and workshops. Pureplay retailers moving into bricks and mortar spaces is becoming increasingly common. A prime example of this is Missguided, who opened their first physical store in Westfield back in 2016.
 
 > Download our whitepaper [‘How Dressipi Can Help Retailers Transform Their Biggest Asset’](https://dressipi.com/downloads/how-dressipi-can-help-retailers-transform-their-biggest-asset-whitepaper/) to discover how stores can be transformed into a retailer’s biggest asset not their biggest liability through the power of [one-to-one personalisation](https://dressipi.com/one-to-one-personalisation/).
 
