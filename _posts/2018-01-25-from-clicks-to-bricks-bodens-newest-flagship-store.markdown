@@ -1,9 +1,12 @@
 ---
 title: From Clicks to Bricks - Boden's Newest Flagship Store
 date: 2018-01-25 15:32:00 Z
+author: Natalie Theo
+description: As more and more pureplay retailers open physical stores, Natalie Theo,
+  Dressipi’s Style Director ventures to Boden's newest flagship.
 ---
 
-In the light of more and more pureplay retailers opening physical stores, Natalie Theo, Dressipi’s Style Director ventures to Boden's newest flagship.
+As more and more pureplay retailers open physical stores, Natalie Theo, Dressipi’s Style Director ventures to Boden's newest flagship.
 
 # From Clicks to Bricks - Boden's Newest Flagship Store.
 
@@ -30,4 +33,3 @@ Online, the witty ‘how to wear it’ and ‘why to buy it’ content that acco
 Boden’s flagship store is jostling for prime retail space with the likes of Massimo Dutti, Zara, Whistles and Joseph, not to mention the myriad of childrenswear stores along the King’s Road, making this a perfect location for them to attract new customers. The challenge, however, will be to avoid the growing concern of reduced footfall in-store - retailers need to work hard to provide great in-store experiences that keep people inspired and wanting to return.
 
 > Discover how to transform your physical store into your biggest asset by downloading our whitepaper [“How Dressipi Can Help Retailers Transform Their Biggest Asset”](https://dressipi.com/downloads/how-dressipi-can-help-retailers-transform-their-biggest-asset-whitepaper/)
-
