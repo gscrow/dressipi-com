@@ -1,6 +1,17 @@
 ---
 title: From Clicks to Bricks - Boden's Newest Flagship Store
 date: 2018-01-25 15:32:00 Z
+categories:
+- retail
+tags:
+- boden
+- boden store
+- instore experience
+- how to create a personalised shopping experience
+- retail
+- better customer service
+- innovation
+- retail innovation
 author: Natalie Theo
 description: As more and more pureplay retailers open physical stores, Natalie Theo,
   Dressipi’s Style Director ventures to Boden's newest flagship.
@@ -13,7 +24,7 @@ As more and more pureplay retailers open physical stores, Natalie Theo, Dressipi
 
 ## It’s quite something to walk right into a wall of Boden brights and a cocoon of clashing prints.
 
-I’m used to seeing these on their online site accompanied by a witty catchphrase or two. They’ve managed to replicate this when stepping into their first flagship store on the King’s Road. In an expanding push into bricks-and-mortar, the retailer has brought their big bouncy bright personality to the heart of London. This adds to their growing list, with a store in Hanger Lane and concessions in John Lewis, Nordstrom, Next Label and Zalando.
+This is something I’m used to seeing on their online site accompanied by a witty catchphrase or two, and they’ve managed to replicate this when stepping into their first flagship store on the King’s Road. In an expanding push into bricks-and-mortar, the retailer has brought their big bouncy bright personality to the heart of London, adding to their store in Hanger Lane and concessions in John Lewis.
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Zara%201_resized.jpg"/></p>
 
