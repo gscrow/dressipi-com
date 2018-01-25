@@ -21,11 +21,11 @@ download: Five Things Every Retailer Should Know About Personalisation
 
 As more and more pureplay retailers open physical stores, Natalie Theo, Dressipi’s Style Director ventures to Boden's new flagship.
 
-# From Clicks to Bricks - Boden's Newest Flagship Store.
+# From Clicks to Bricks - Boden's New Flagship Store.
 
 ## It’s quite something to walk right into a wall of Boden brights and a cocoon of clashing prints.
 
-This is something I’m used to seeing on Boden's online site accompanied by a witty catchphrase or two, and they’ve managed to replicate this when stepping into their first flagship store on the King’s Road. In an expanding push into bricks-and-mortar, the retailer has brought their big bouncy bright personality to the heart of London, adding to their store in Hanger Lane and concessions in John Lewis.
+This is something I’m used to seeing on Boden's online site accompanied by a witty catchphrase or two, and they’ve managed to replicate this when stepping into their flagship store on the King’s Road. In an expanding push into bricks-and-mortar, the retailer has brought their big bouncy bright personality to the heart of London, adding to their store in Hanger Lane and concessions in John Lewis.
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/boden_1.jpg"/></p>
 
