@@ -129,10 +129,6 @@ sections:
     title: Web Developer
     linkedin: https://uk.linkedin.com/in/hassan-iskaf
     image: "/uploads/Hassan%20I.jpg"
-  - name: Matthew Dean
-    title: Head of Sales
-    linkedin: https://www.linkedin.com/in/matthew-dean-92a3151/
-    image: "/uploads/Matthew_Dean.jpg"
   button:
     copy: Contact Us
     url: "/contact"
