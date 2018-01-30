@@ -1,6 +1,7 @@
 ---
 title: Monthly Retail Round-Up - January 2018
 date: 2018-01-30 12:25:00 Z
+image: "/uploads/monthly_round_up_Jan_banner.jpg"
 author: Philippa Mew
 description: Some of the best articles from the world of retail and its supporting
   industries.
