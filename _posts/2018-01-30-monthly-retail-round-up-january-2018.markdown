@@ -49,7 +49,7 @@ BoF stated that Asos *‘profited at the expense of its store-based rivals’*, 
 
 But even Asos are trying to find ways to defend themselves against the likes of Amazon, who continue to innovate, introducing services such as same-day delivery. According to the [FT](https://www.ft.com/content/795935ac-0205-11e8-9650-9c0ad2d7c5b5), Amazon are *‘set to overtake Macy’s to be the largest seller of clothing to Americans this year’*. Analysts Nomura estimate that ‘apparel could be a $45bn-$85bn business for Amazon by 2020’.  These statistics are a very real threat as they make fashion their top priority.
 
-If Asos are taking measures to differentiate themselves, then bricks and mortar retailers should even more so. A recent article by [CNBC](https://www.cnbc.com/2018/01/17/fashion-is-getting-personal-as-brands-battle-for-shoppers.html) states that brands are in a constant battle for claiming a greater share of customer spend, *‘Retailers are finding their websites must mimic some of the same experiences that could be offered in a physical store, bringing the same level of expertise that an associate would give in helping a customer make a selection’*.
+If the likes of Asos are taking measures to differentiate themselves, then bricks and mortar retailers should even more so. A recent article by [CNBC](https://www.cnbc.com/2018/01/17/fashion-is-getting-personal-as-brands-battle-for-shoppers.html) states that brands are in a constant battle for claiming a greater share of customer spend, *‘Retailers are finding their websites must mimic some of the same experiences that could be offered in a physical store, bringing the same level of expertise that an associate would give in helping a customer make a selection’*.
 
 
 
