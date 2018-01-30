@@ -79,6 +79,6 @@ The article puts an emphasis on re-thinking personal assistance using AI, as wel
 The WIRED article also comments on how luxury retailers must think more strategically about extending conversations they have with their customers in-store into *‘after-sales care and analytics*’.
 
 
-We hope you enjoyed the round-up. Please feel free to get in touch with any stories you feel would be of interest. 
+We hope you enjoyed the round-up. Please feel free to [get in touch](https://dressipi.com/contact/) with any stories you feel would be of interest. 
 
 >Photo by Simon Launay from Unsplash.
