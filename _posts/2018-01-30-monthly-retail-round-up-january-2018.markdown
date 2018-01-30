@@ -21,9 +21,9 @@ At Dressipi we like to be right up to date and think you should be too! So, what
 
 January saw the release of [KPMG’s Annual Retail Survey 2018](https://home.kpmg.com/uk/en/home/insights/2018/01/kpmg-annual-retail-survey-2018.html). The extensive report looks at the *‘buying, returns and brand experience of over 1,600 KPMG employees in their capacity as consumers’*. 
 
-As well as giving insight on Black Friday, increasing mobile usage, Brexit and sales processes, the report focuses heavily on the shifting expectations of customers when it comes to shopping experiences both online and in store. 
+As well as giving insight on Black Friday, increasing mobile usage, Brexit and sales processes, the report focuses heavily on the shifting expectations of customers when it comes to shopping experiences both online and in-store. 
 
-The segment *“Improving the customer experience, are retailers ahead of the pack?”* highlighted the important role of retail in driving better customer experiences, something that should be increasingly possible given recent advancements in AI, Machine Learning and using customer data in a more meaningful way.
+The segment *'Improving the customer experience, are retailers ahead of the pack?'* highlighted the important role of retail in driving better customer experiences, something that should be increasingly possible given recent advancements in AI, Machine Learning and using customer data in a more meaningful way.
 
 Mounting pressure from customers for outstanding services (such as better transactional experiences, a greater choice when it comes to delivery options, personalisation, a greater focus on sustainability, or more flexible returns) means it is essential for retailers to stay ahead of the curve. As the report boldly states, *'retailers are faced with a stark choice: innovate around the consumer and catch up, or get left behind'*.
 
