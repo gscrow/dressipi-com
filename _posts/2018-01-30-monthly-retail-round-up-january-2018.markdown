@@ -17,7 +17,7 @@ Some of the best articles from the world of retail and its supporting industries
 At Dressipi we like to be right up to date and think you should be too! So, what better way to be in the know than with a round-up of the most interesting stories we’ve come across this month? 
 
 
-###1) KPMG’s Annual Retail Survey 2018
+## 1) KPMG’s Annual Retail Survey 2018
 
 January saw the release of [KPMG’s Annual Retail Survey 2018](https://home.kpmg.com/uk/en/home/insights/2018/01/kpmg-annual-retail-survey-2018.html). The extensive report looks at the *‘buying, returns and brand experience of over 1,600 KPMG employees in their capacity as consumers’*. 
 
@@ -30,7 +30,7 @@ Mounting pressure from customers for outstanding services (such as better transa
 You can read the full report by downloading it from the [KPMG website](https://home.kpmg.com/uk/en/home/insights/2018/01/kpmg-annual-retail-survey-2018.html).
 
 
-###2) Zara launches new online-only store
+##2) Zara launches new online-only store
 
 Zara continues to surge ahead as a leader in retail as it opens its new online-only store in London. As [reported by Drapers](https://www.drapersonline.com/news/zara-to-launch-first-online-only-store-in-london/7028764.article?blocktitle=Latest-News&contentID=15719), the Westfield Stratford City store *‘will offer a small edit of women’s and men’s clothing for online purchase directly in store, as well as access to the retailer’s full catalogue online’*. Store staff will also play a crucial role, assisting customers with mobile devices.
 
@@ -41,7 +41,7 @@ Chairman and CEO of Inditex, Pablo Isla has called it *“another milestone in o
 Dressipi’s Style Director, Natalie Theo recently wrote a [blog post on Zara’s self-checkout stations](https://dressipi.com/blog/zaras-self-service-check-out-highlights-a-stronger-focus-on-creating-better-in-store-customer-experiences/), once again, displaying Zara’s desire to be seen as a leader in creating seamless in-store experiences that are relevant and enjoyable for customers.
 
 
-###3) Asos profits rise, but can they ever beat Amazon?
+##3) Asos profits rise, but can they ever beat Amazon?
 
 [The Business of Fashion](https://www.businessoffashion.com/articles/news-analysis/asos-uk-revival-shows-online-retailers-escaped-store-gloom) reported on Asos Plc’s recently published results. Sales in the UK (Asos’s largest market) rose 23% to £300.9 million in the four months ended December 31st.
 
@@ -53,7 +53,7 @@ If Asos are taking measures to differentiate themselves, then bricks and mortar 
 
 
 
-###4) WIRED’s six ways that new technology will revolutionise shopping
+##4) WIRED’s six ways that new technology will revolutionise shopping
 
 With constant reports of store closures ([896 high street shops closed in 2016](http://www.wired.co.uk/article/six-learnings-future-retail-consumer)) and declining footfall, [WIRED](http://www.wired.co.uk/article/six-learnings-future-retail-consumer) is adamant that *‘Retailers must combine emotion with innovation if they want to survive growing consumer demand and economic pressure’*.
 
