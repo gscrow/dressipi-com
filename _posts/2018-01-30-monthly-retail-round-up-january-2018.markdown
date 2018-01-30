@@ -57,7 +57,10 @@ If the likes of Asos are taking measures to differentiate themselves, then brick
 
 With constant reports of store closures ([896 high street shops closed in 2016](http://www.wired.co.uk/article/six-learnings-future-retail-consumer)) and declining footfall, [WIRED](http://www.wired.co.uk/article/six-learnings-future-retail-consumer) is adamant that *‘Retailers must combine emotion with innovation if they want to survive growing consumer demand and economic pressure’*.
 
-The article puts an emphasis on re-thinking personal assistance using AI (you can find another really interesting article [here](https://www.kamcity.com/namnews/uk-and-ireland/supermarkets/amazon-go-tech-will-bring-new-era-personalised-shopping-wont-kill-human-interaction/) by KamCity on how despite the launch of new check-out free technology (Amazon Go), human interaction is still very important and will be used to *‘complement and enhance the relationships customers have with human sales staff’*), as well as improving payment methods. It also comments on how luxury retailers must think more strategically about extending conversations they have with their customers in-store into *‘after-sales care and analytics*’.
+The article puts an emphasis on re-thinking personal assistance using AI, as well as improving payment methods. You can find another really interesting article [here](https://www.kamcity.com/namnews/uk-and-ireland/supermarkets/amazon-go-tech-will-bring-new-era-personalised-shopping-wont-kill-human-interaction/) by KamCity on how despite the launch of new check-out free technology (Amazon Go), human interaction is still very important and will be used to *‘complement and enhance the relationships customers have with human sales staff’*. 
+
+The WIRED article also comments on how luxury retailers must think more strategically about extending conversations they have with their customers in-store into *‘after-sales care and analytics*’.
+
 
 We hope you enjoyed the round-up. Please feel free to get in touch with any stories you feel would be of interest. 
 
