@@ -5,7 +5,7 @@ header:
   body: We are launching a new, updated Dressipi service which will make shopping
     for clothes even easier and more personal. <br>While we do this, we’ll be pausing
     the Dressipi service.<br>You can still get your personal Dressipi recommendations
-    at many leading retailers, just click here to access.
+    at many leading retailers, follow the links below to access.
   width: full
   handle: call-to-action
   clients:
@@ -18,4 +18,3 @@ header:
   - Evans
 layout: landing
 ---
-
