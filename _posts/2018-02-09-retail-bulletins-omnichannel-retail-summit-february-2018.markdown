@@ -46,25 +46,24 @@ In short, his top tips for implementing omnichannel solutions were to focus on t
 
 ## 3) Omnichannel in 2018 has an Entirely New Meaning
 
-[The Business of Fashion](https://www.businessoffashion.com/articles/news-analysis/asos-uk-revival-shows-online-retailers-escaped-store-gloom) reported on Asos Plc’s recently published results. Sales in the UK (Asos’s largest market) rose 23% to £300.9 million in the four months ended December 31st.
+The term omnichannel alludes to retailers being organised into channels, and therefore silos. This is still largely the case for most retailers, which further emphasises the need for innovation to facilitate an end-to-end brand experience. 
 
-BoF stated that Asos *‘profited at the expense of its store-based rivals’*, emphasising the growing influence of pureplays, and the increasing need for bricks and mortar retailers to step up their in-store offering if they are to differentiate themselves. 
+Furthermore, everybody talks about putting the customer right at the centre and working from there, but how do you ensure everyone in your business is on board and makes this a priority? Kate Franklin former Group Marketing & Omnichannel Director, Cotswold Outdoor says that culture in an organisation is crucial - all the top decision makers need to look at the end to end customer journey, and realise how their decisions could affect or ultimately benefit each other.
 
-But even Asos are trying to find ways to defend themselves against the likes of Amazon, who continue to innovate, introducing services such as same-day delivery. According to the [FT](https://www.ft.com/content/795935ac-0205-11e8-9650-9c0ad2d7c5b5), Amazon are *‘set to overtake Macy’s to be the largest seller of clothing to Americans this year’*. Analysts Nomura estimate that ‘apparel could be a $45bn-$85bn business for Amazon by 2020’.  These statistics are a very real threat as they make fashion their top priority.
-
-If the likes of Asos are taking measures to differentiate themselves, then bricks and mortar retailers should even more so. A recent article by [CNBC](https://www.cnbc.com/2018/01/17/fashion-is-getting-personal-as-brands-battle-for-shoppers.html) states that brands are in a constant battle for claiming a greater share of customer spend, *‘Retailers are finding their websites must mimic some of the same experiences that could be offered in a physical store, bringing the same level of expertise that an associate would give in helping a customer make a selection’*.
+Speaking of customer journeys, Peter Scott, former President, Sprint Inc Dixons Carphone, further highlighted how the devil is in the detail - breaking a customer journey down step by step, and finding the sales opportunities, barriers and pain points is crucial. This might seem obvious, but at a time when great customer experiences are pivotal to success, this isn’t something that can be overlooked. He also added that this is a good exercise to do to identify where the measuring opportunities are. After all, its all about testing!
 
 
+## 4) Embrace New Tech, But Don’t Let It Become a Barrier
 
-## 4) WIRED’s six ways that new technology will revolutionise shopping
+When implementing new technology, Ian McBeth, former Head of IT, Furniture Village is adamant that businesses need to do something practical that has real commercial value. It is easy to get caught up in potentially gimmicky clienteling experiences and VR, but essentially, retailers need to find a solution that suits their business and what they are trying to deliver to the customer.
 
-With constant reports of store closures ([896 high street shops closed in 2016](http://www.wired.co.uk/article/six-learnings-future-retail-consumer)) and declining footfall, [WIRED](http://www.wired.co.uk/article/six-learnings-future-retail-consumer) is adamant that *‘Retailers must combine emotion with innovation if they want to survive growing consumer demand and economic pressure’*.
+Martin Newman, Non-Executive Director, White Stuff made an important point that in the past, retailers used to hold all the power and customers had limited choice. Now, customers have far too much choice, enabling lots of disruptors to come in. Retailers, therefore, need to rethink how they use their stores, and embrace what he likes to call “Customer Centric Transformation”. In his opinion, there are two main points of friction in stores: 1) Checkout 2) Changing Rooms. Prioritising pain points such as these and making them more seamless is key in his opinion.
+ 
+For Steve Gray, Director, SG Retail, loyalty programmes are a great way to join online and instore data, enabling you to get that 360-degree view of the customer. Gaining real-time stock information using RFID tagging is another way fashion retailers can use tech effectively.
 
-The article puts an emphasis on re-thinking personal assistance using AI, as well as improving payment methods. You can find another really interesting article [here](https://www.kamcity.com/namnews/uk-and-ireland/supermarkets/amazon-go-tech-will-bring-new-era-personalised-shopping-wont-kill-human-interaction/) by KamCity on how despite the launch of new check-out free technology (Amazon Go), human interaction is still very important and will be used to *‘complement and enhance the relationships customers have with human sales staff’*. 
-
-The WIRED article also comments on how luxury retailers must think more strategically about extending conversations they have with their customers in-store into *‘after-sales care and analytics*’.
+I was glad when Tony Brown, CEO, Beales Department Stores brought us crashing back down to earth with a reminder that ultimately it’s all about the **product**! It's easy to lose sight of this, but if retailers spend the time creating products that perfectly fit what their customer wants to buy, then you’ve solved half the problem.
 
 
-We hope you enjoyed the round-up. Please feel free to [get in touch](https://dressipi.com/contact/) with any stories you feel would be of interest. 
+In summary, digital experiences that hold the customer at its heart and provide truly helpful and delightful experiences, are those that will win. It was evident from the event that retailers are coming under increasing pressure to innovate and stay ahead, which fits perfectly with my favourite quote of the day from the brilliant Kate Franklin, who quite rightly said, *“Customers are moving faster than the retailers - so keep up!”* 
 
 >Photo by Simon Launay from Unsplash.
