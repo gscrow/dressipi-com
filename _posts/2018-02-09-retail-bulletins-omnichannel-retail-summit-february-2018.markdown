@@ -43,7 +43,7 @@ Stefan Schmidhammer, IT Retail Innovation Manager at Swarovski spoke extensively
 
 The concept was based around a virtual try-on stand which launched at the end of 2017. Customers could virtually try on jewellery to then buy and have fun with selfie screens and Snapchat style interactions. Apparently, it is very difficult to replicate the sparkle from Swarovski products on screen, so they spent some time perfecting this. 
 
-While it is undoubtedly exciting to see businesses experimenting with new ways of interacting with their customers, it is a little unclear how these experiences create value and deliver on a businesses KPI’s. These sorts of experiments also strike me as being difficult to measure in terms of the ROI.
+While it is undoubtedly exciting to see businesses experimenting with new ways of interacting with their customers, it is a little unclear how these experiences create value and deliver on a businesses KPI’s. These kind of experiments also strike me as being difficult to measure in terms of the ROI.
 
 ## 2) Don’t Be Scared of Data - Be Excited About What It Can Do For You
 
