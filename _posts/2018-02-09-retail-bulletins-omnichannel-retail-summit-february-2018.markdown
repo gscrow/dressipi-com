@@ -58,13 +58,13 @@ Andrew Mann, Vice President Insight, Pricing & Digital CRM at Asda firmly believ
 
 His example of Disney’s “Magic Band” (essentially a tracking device!) to help manage your stay at the resort was a particularly good way of showcasing how brands are using tech in new ways to delight and fulfil expectations of great customer service.
 
-In short, his top tips for implementing omnichannel solutions were to focus on the customer, be best friends with your IT team (I wholeheartedly agree!), and most importantly within the business culture, don’t pass down the fear of using data intelligently.
+In short, his top tips for implementing [omnichannel solutions](https://dressipi.com/omnichannel-personalisation/) were to focus on the customer, be best friends with your IT team (I wholeheartedly agree!), and most importantly within the business culture, don’t pass down the fear of using data intelligently.
 
 ## 3) Omnichannel in 2018 has an Entirely New Meaning
 
 The term omnichannel alludes to retailers being organised into channels, and therefore silos. This is still largely the case for most retailers, which further emphasises the need for innovation to facilitate an end-to-end brand experience. 
 
-Furthermore, everybody talks about putting the customer right at the centre and working from there, but how do you ensure everyone in your business is on board and makes this a priority? Kate Franklin former Group Marketing & Omnichannel Director, Cotswold Outdoor says that culture in an organisation is crucial - all the top decision makers need to look at the end to end customer journey, and realise how their decisions could affect or ultimately benefit each other.
+Furthermore, everybody talks about putting the customer right at the centre and working from there, but how do you ensure everyone in your business is on board and makes this a priority? Kate Franklin former Group Marketing & Omnichannel Director, Cotswold Outdoor says that culture in an organisation is crucial - all the top decision makers need to look at the end to end customer journey together, and realise how their decisions could affect or ultimately benefit each other.
 
 Speaking of customer journeys, Peter Scott, former President, Sprint Inc Dixons Carphone, further highlighted how the devil is in the detail - breaking a customer journey down step by step, and finding the sales opportunities, barriers and pain points is crucial. This might seem obvious, but at a time when great customer experiences are pivotal to success, this isn’t something that can be overlooked. He also added that this is a good exercise to do to identify where the measuring opportunities are. After all, its all about testing!
 
