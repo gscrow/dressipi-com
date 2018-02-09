@@ -8,6 +8,11 @@ tags:
 - retail technology
 - multichannel retail
 - omnichannel retail
+- retail bulletin
+- fashion technology
+- fashion personalisation
+- instore experience
+- instore technology
 image: "/uploads/IMG_20180207_115532_760.png"
 author: Philippa Mew
 description: Omnichannel. Or is it ‘Multichannel’? How about ‘A Single View of the
