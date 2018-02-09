@@ -21,6 +21,8 @@ description: Omnichannel. Or is it ‘Multichannel’? How about ‘A Single Vie
 download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
+Highlights from this year's Omnichannel Retail Summit, hosted by Retail Bulletin.
+
 # Omnichannel. Or is it ‘Multichannel’? How about ‘A Single View of the Customer’?
 
 ## Many buzzwords within the industry are used to describe what is essentially understanding customer behaviour across all shopping channels to deliver the best possible experience from start to finish.
