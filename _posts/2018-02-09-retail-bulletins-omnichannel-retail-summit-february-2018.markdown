@@ -66,7 +66,7 @@ The term omnichannel alludes to retailers being organised into channels, and the
 
 Furthermore, everybody talks about putting the customer right at the centre and working from there, but how do you ensure everyone in your business is on board and makes this a priority? Kate Franklin former Group Marketing & Omnichannel Director, Cotswold Outdoor says that culture in an organisation is crucial - all the top decision makers need to look at the end to end customer journey together, and realise how their decisions could affect or ultimately benefit each other.
 
-Speaking of customer journeys, Peter Scott, former President, Sprint Inc Dixons Carphone, further highlighted how the devil is in the detail - breaking a customer journey down step by step, and finding the sales opportunities, barriers and pain points is crucial. This might seem obvious, but at a time when great [customer experiences] are pivotal to success, this isn’t something that can be overlooked. He also added that this is a good exercise to do to identify where the measuring opportunities are. After all, its all about testing!
+Speaking of customer journeys, Peter Scott, former President, Sprint Inc Dixons Carphone, further highlighted how the devil is in the detail - breaking a customer journey down step by step, and finding the sales opportunities, barriers and pain points is crucial. This might seem obvious, but at a time when great [customer experiences](ressipi.com/how-to-improve-customer-experience-instore/) are pivotal to success, this isn’t something that can be overlooked. He also added that this is a good exercise to do to identify where the measuring opportunities are. After all, its all about testing!
 
 
 ## 4) Embrace New Tech, But Don’t Let It Become a Barrier
@@ -80,6 +80,6 @@ For Steve Gray, Director, SG Retail, loyalty programmes are a great way to join 
 I was glad when Tony Brown, CEO, Beales Department Stores brought us crashing back down to earth with a reminder that ultimately it’s all about the **product**! It's easy to lose sight of this, but if retailers spend the time creating products that perfectly fit what their customer wants to buy, then you’ve solved half the problem.
 
 
-In summary, digital experiences that hold the customer at its heart and provide truly helpful and delightful experiences, are those that will win. It was evident from the event that retailers are coming under increasing pressure to innovate and stay ahead, which fits perfectly with my favourite quote of the day from the brilliant Kate Franklin, who quite rightly said, *“Customers are moving faster than the retailers - so keep up!”* 
+>In summary, digital experiences that hold the customer at its heart and provide truly helpful and delightful experiences, are those that will win. It was evident from the event that retailers are coming under increasing pressure to innovate and stay ahead, which fits perfectly with my favourite quote of the day from the brilliant Kate Franklin, who quite rightly said, *“Customers are moving faster than the retailers - so keep up!”* 
 
 >To find out more about how Dressipi can deliver a truly [omnichannel experience](https://dressipi.com/omnichannel-personalisation/) for your customers, please [get in touch](https://dressipi.com/contact/)
