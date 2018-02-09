@@ -3,6 +3,9 @@ title: Retail Bulletin’s Omnichannel Retail Summit – February 2018
 date: 2018-02-09 10:42:00 Z
 image: "/uploads/IMG_20180207_115532_760.png"
 author: Philippa Mew
+description: Highlights from this year's Omnichannel Retail Summit, hosted by Retail
+  Bulletin.
+download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
 Highlights from this year's Omnichannel Retail Summit, hosted by Retail Bulletin.
@@ -17,7 +20,7 @@ In order to truly understand the intent and preferences of customers, their offl
 
 Of course, this is easier said than done.
 
-As the title suggests, this year’s Omnichannel Retail Summit, hosted by The Retail Bulletin focused on *‘How Omnichannel Investment is Driving the Future of Businesses’*. With a lineup of fantastic leaders from the wider retail industry, the day-long event included lively interactive panels and thought leadership presentations all centred around *‘providing the best ‘total’ retail experience’*. 
+As the title suggests, this year’s [Omnichannel Retail Summit](https://www.theretailbulletin.com/retail-events/omnichannel-summit-2018/), hosted by The Retail Bulletin focused on *‘How Omnichannel Investment is Driving the Future of Businesses’*. With a lineup of fantastic leaders from the wider retail industry, the day-long event included lively interactive panels and thought leadership presentations all centred around *‘providing the best ‘total’ retail experience’*. 
 
 My key learnings from the event include the following:
 
@@ -66,4 +69,4 @@ I was glad when Tony Brown, CEO, Beales Department Stores brought us crashing ba
 
 In summary, digital experiences that hold the customer at its heart and provide truly helpful and delightful experiences, are those that will win. It was evident from the event that retailers are coming under increasing pressure to innovate and stay ahead, which fits perfectly with my favourite quote of the day from the brilliant Kate Franklin, who quite rightly said, *“Customers are moving faster than the retailers - so keep up!”* 
 
->Photo by Simon Launay from Unsplash.
+>To find out more about how Dressipi can deliver a truly [omnichannel experience]( for your customers, please
