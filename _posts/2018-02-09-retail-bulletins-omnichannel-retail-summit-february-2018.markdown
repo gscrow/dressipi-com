@@ -66,7 +66,7 @@ The term omnichannel alludes to retailers being organised into channels, and the
 
 Furthermore, everybody talks about putting the customer right at the centre and working from there, but how do you ensure everyone in your business is on board and makes this a priority? Kate Franklin former Group Marketing & Omnichannel Director, Cotswold Outdoor says that culture in an organisation is crucial - all the top decision makers need to look at the end to end customer journey together, and realise how their decisions could affect or ultimately benefit each other.
 
-Speaking of customer journeys, Peter Scott, former President, Sprint Inc Dixons Carphone, further highlighted how the devil is in the detail - breaking a customer journey down step by step, and finding the sales opportunities, barriers and pain points is crucial. This might seem obvious, but at a time when great customer experiences are pivotal to success, this isn’t something that can be overlooked. He also added that this is a good exercise to do to identify where the measuring opportunities are. After all, its all about testing!
+Speaking of customer journeys, Peter Scott, former President, Sprint Inc Dixons Carphone, further highlighted how the devil is in the detail - breaking a customer journey down step by step, and finding the sales opportunities, barriers and pain points is crucial. This might seem obvious, but at a time when great [customer experiences] are pivotal to success, this isn’t something that can be overlooked. He also added that this is a good exercise to do to identify where the measuring opportunities are. After all, its all about testing!
 
 
 ## 4) Embrace New Tech, But Don’t Let It Become a Barrier
