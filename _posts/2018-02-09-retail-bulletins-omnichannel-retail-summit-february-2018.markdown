@@ -1,5 +1,5 @@
 ---
-title: Retail Bulletin’s Omnichannel Retail Summit
+title: Retail Bulletin’s Omnichannel Retail Summit 2018
 date: 2018-02-09 10:42:00 Z
 categories:
 - news
