@@ -35,23 +35,16 @@ Retailers have an abundance of data, however not all of it will be useful and th
 
 Andrew Mann, Vice President Insight, Pricing & Digital CRM at Asda firmly believes that you should always point your business strategy towards where the organisation (and ultimately the customer) wants to go. Data can help you do this in 4 ways:
 
-Transformational Understanding of the Business 
-- Getting to know your business inside out and better than anyone else
+* **Transformational Understanding of the Business** - Getting to know your business inside out and better than anyone else.
+* **Delivering the Most Relevant, Inspirational Messaging** - Clever storytelling which makes sure people see the most relevant stories for them.
+* **Creation of New Services** - Building new experiences that didn’t exist previously
+* **Creation of Stronger Communities** - Ensuring people in the business and customers feel part of something
 
+His example of Disney’s “Magic Band” (essentially a tracking device!) to help you manage your stay at the resort was a particularly good way of showcasing how brands are using tech in new ways to delight and fulfil expectations of great customer service.
 
-Delivering the Most Relevant, Inspirational Messaging 
--  Clever storytelling which makes sure people see the most relevant stories for them
+In short, his top tips for implementing omnichannel solutions were to focus on the customer, be best friends with your IT team, and most importantly within the business culture, don’t pass down the fear of using data intelligently.
 
-
-Creation of New Services
-- Building new experiences that didn’t exist previously
-
-
-Creation of Stronger Communities
-	- Ensuring people in the business and customers feel part of something
-
-
-## 3) Asos profits rise, but can they ever beat Amazon?
+## 3) Omnichannel in 2018 has an Entirely New Meaning
 
 [The Business of Fashion](https://www.businessoffashion.com/articles/news-analysis/asos-uk-revival-shows-online-retailers-escaped-store-gloom) reported on Asos Plc’s recently published results. Sales in the UK (Asos’s largest market) rose 23% to £300.9 million in the four months ended December 31st.
 
