@@ -3,9 +3,15 @@ title: Retail Bulletin’s Omnichannel Retail Summit – February 2018
 date: 2018-02-09 10:42:00 Z
 categories:
 - retail
+tags:
+- omnichannel
+- retail technology
+- multichannel retail
+- omnichannel retail
 image: "/uploads/IMG_20180207_115532_760.png"
 author: Philippa Mew
-description: Highlights from this year's Omnichannel Retail Summit, hosted by Retail
+description: Omnichannel. Or is it ‘Multichannel’? How about ‘A Single View of the
+  Customer’? Highlights from this year's Omnichannel Retail Summit, hosted by Retail
   Bulletin.
 download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
@@ -16,7 +22,7 @@ Highlights from this year's Omnichannel Retail Summit, hosted by Retail Bulletin
 
 ## Many buzzwords within the industry are used to describe what is essentially understanding customer behaviour across all shopping channels to deliver the best possible experience from start to finish.
 
-Connecting that customer journey is gold dust for retailers. Whether its increasing brand loyalty, boosting acquisition and retention or driving sales, the omnichannel experience (when done correctly) has the potential to be transformative for a business.
+Connecting that customer journey is gold dust for retailers. Whether its increasing brand loyalty, boosting acquisition and retention or driving sales, the [omnichannel experience](https://dressipi.com/omnichannel-personalisation/) (when done correctly) has the potential to be transformative for a business.
 
 In order to truly understand the intent and preferences of customers, their offline and online interactions with a brand should not exist separately, but rather work together, with data being the foundation that allows customers to have seamless (and accurate) interactions with that brand.
 
