@@ -56,7 +56,7 @@ Andrew Mann, Vice President Insight, Pricing & Digital CRM at Asda firmly believ
 * **Creation of New Services** - Building new experiences that didn’t exist previously
 * **Creation of Stronger Communities** - Ensuring people in the business and customers feel part of something
 
-His example of Disney’s “Magic Band” (essentially a tracking device!) to help you manage your stay at the resort was a particularly good way of showcasing how brands are using tech in new ways to delight and fulfil expectations of great customer service.
+His example of Disney’s “Magic Band” (essentially a tracking device!) to help manage your stay at the resort was a particularly good way of showcasing how brands are using tech in new ways to delight and fulfil expectations of great customer service.
 
 In short, his top tips for implementing omnichannel solutions were to focus on the customer, be best friends with your IT team (I wholeheartedly agree!), and most importantly within the business culture, don’t pass down the fear of using data intelligently.
 
