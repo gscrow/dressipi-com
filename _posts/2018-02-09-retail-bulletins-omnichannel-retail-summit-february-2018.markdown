@@ -47,7 +47,7 @@ While it is undoubtedly exciting to see businesses experimenting with new ways o
 
 ## 2) Don’t Be Scared of Data - Be Excited About What It Can Do For You
 
-Retailers have an abundance of data, however not all of it will be useful and there is bound to be data sparsity in areas concerning the customer for (example capturing attitudinal data and personal preferences). Where the challenge lies is how to package this data into a useful and insightful format that helps better decision making.
+Retailers have an abundance of data, however not all of it will be useful and there is bound to be data sparsity in areas concerning the customer (for example capturing attitudinal data and personal preferences). Where the challenge lies is how to package this data into a useful and insightful format that helps better decision making.
 
 Andrew Mann, Vice President Insight, Pricing & Digital CRM at Asda firmly believes that you should always point your business strategy towards where the organisation (and ultimately the customer) wants to go. Data can help you do this in 4 ways:
 
