@@ -17,32 +17,38 @@ In order to truly understand the intent and preferences of customers, their offl
 
 Of course, this is easier said than done.
 
-As the title suggests, this year’s Omnichannel Retail Summit, hosted by The Retail Bulletin focused on ‘How Omnichannel Investment is Driving the Future of Businesses’. With a lineup of fantastic leaders from the wider retail industry, the day-long event included lively interactive panels and thought leadership presentations all centred around ‘providing the best ‘total’ retail experience’. 
+As the title suggests, this year’s Omnichannel Retail Summit, hosted by The Retail Bulletin focused on *‘How Omnichannel Investment is Driving the Future of Businesses’*. With a lineup of fantastic leaders from the wider retail industry, the day-long event included lively interactive panels and thought leadership presentations all centred around *‘providing the best ‘total’ retail experience’*. 
 
 My key learnings from the event include the following:
 
-## 1) KPMG’s Annual Retail Survey 2018
+## 1) Retailers are Beginning to Focus on Strong Interactive Experiences 
 
-January saw the release of [KPMG’s Annual Retail Survey 2018](https://home.kpmg.com/uk/en/home/insights/2018/01/kpmg-annual-retail-survey-2018.html). The extensive report looks at the *‘buying, returns and brand experience of over 1,600 KPMG employees in their capacity as consumers’*. 
+Stefan Schmidhammer, IT Retail Innovation Manager at Swarovski spoke extensively about their “Sparkle Pop Up” in Milan and Toronto, which didn’t have any physical products for sale. 
 
-As well as giving insight on Black Friday, increasing mobile usage, Brexit and sales processes, the report focuses heavily on the shifting expectations of customers when it comes to shopping experiences both online and in-store. 
+The concept was based around a virtual try-on stand which launched at the end of 2017. Customers could virtually try on jewellery to then buy and have fun with selfie screens and Snapchat style interactions. Apparently, it is very difficult to replicate the sparkle from Swarovski products on screen, so they spent some time perfecting this. 
 
-The segment *'Improving the customer experience, are retailers ahead of the pack?'* highlighted the important role of retail in driving better customer experiences, something that should be increasingly possible given recent advancements in AI, Machine Learning and using customer data in a more meaningful way.
+While it is undoubtedly exciting to see businesses experimenting with new ways of interacting with their customers, it is a little unclear how these experiences create value and deliver on a businesses KPI’s. These sorts of experiments also strike me as being difficult to measure in terms of the ROI.
 
-Mounting pressure from customers for outstanding services (such as better transactional experiences, a greater choice when it comes to delivery options, personalisation, a greater focus on sustainability, or more flexible returns) means it is essential for retailers to stay ahead of the curve. As the report boldly states, *'retailers are faced with a stark choice: innovate around the consumer and catch up, or get left behind'*.
+## 2) Don’t Be Scared of Data - Be Excited About What It Can Do For You
 
-You can read the full report by downloading it from the [KPMG website](https://home.kpmg.com/uk/en/home/insights/2018/01/kpmg-annual-retail-survey-2018.html).
+Retailers have an abundance of data, however not all of it will be useful and there is bound to be data sparsity in areas concerning the customer for (example capturing attitudinal data and personal preferences). Where the challenge lies is how to package this data into a useful and insightful format that helps better decision making.
+
+Andrew Mann, Vice President Insight, Pricing & Digital CRM at Asda firmly believes that you should always point your business strategy towards where the organisation (and ultimately the customer) wants to go. Data can help you do this in 4 ways:
+
+Transformational Understanding of the Business 
+- Getting to know your business inside out and better than anyone else
 
 
-## 2) Zara launches new online-only store
+Delivering the Most Relevant, Inspirational Messaging 
+-  Clever storytelling which makes sure people see the most relevant stories for them
 
-Zara continues to surge ahead as a leader in retail as it opens its new online-only store in London. As [reported by Drapers](https://www.drapersonline.com/news/zara-to-launch-first-online-only-store-in-london/7028764.article?blocktitle=Latest-News&contentID=15719), the Westfield Stratford City store *‘will offer a small edit of women’s and men’s clothing for online purchase directly in store, as well as access to the retailer’s full catalogue online’*. Store staff will also play a crucial role, assisting customers with mobile devices.
 
-Trialling technologies is nothing new for the Spanish giant as they continually experiment with different store concepts to merge online and offline experiences. New mirror, RFID and scanning technology coupled with product recommendation systems highlight the importance of, and increasing demand for, access to personalisation services whilst shopping.
+Creation of New Services
+- Building new experiences that didn’t exist previously
 
-Chairman and CEO of Inditex, Pablo Isla has called it *“another milestone in our strategy of integrating our stores with the online world, which defines our identity as a business”*. 
 
-Dressipi’s Style Director, Natalie Theo recently wrote a [blog post on Zara’s self-checkout stations](https://dressipi.com/blog/zaras-self-service-check-out-highlights-a-stronger-focus-on-creating-better-in-store-customer-experiences/), once again, displaying Zara’s desire to be seen as a leader in creating seamless in-store experiences that are relevant and enjoyable for customers.
+Creation of Stronger Communities
+	- Ensuring people in the business and customers feel part of something
 
 
 ## 3) Asos profits rise, but can they ever beat Amazon?
