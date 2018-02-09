@@ -73,7 +73,11 @@ Speaking of customer journeys, Peter Scott, former President, Sprint Inc Dixons 
 
 When implementing new technology, Ian McBeth, former Head of IT, Furniture Village is adamant that businesses need to do something practical that has real commercial value. It is easy to get caught up in potentially gimmicky clienteling experiences and VR, but essentially, retailers need to find a solution that suits their business and what they are trying to deliver to the customer.
 
-Martin Newman, Non-Executive Director, White Stuff made an important point that in the past, retailers used to hold all the power and customers had limited choice. Now, customers have far too much choice, enabling lots of disruptors to come in. Retailers, therefore, need to rethink how they use their stores, and embrace what he likes to call “Customer Centric Transformation”. In his opinion, there are two main points of friction in stores: 1) Checkout 2) Changing Rooms. Prioritising pain points such as these and making them more seamless is key in his opinion.
+Martin Newman, Non-Executive Director, White Stuff made an important point that in the past, retailers used to hold all the power and customers had limited choice. Now, customers have far too much choice, enabling lots of disruptors to come in. Retailers, therefore, need to rethink how they use their stores, and embrace what he likes to call “Customer Centric Transformation”. In his opinion, there are two main points of friction in stores: 
+1) Checkout 
+2) Changing Rooms. 
+
+Prioritising pain points such as these and making them more seamless is key in his opinion.
  
 For Steve Gray, Director, SG Retail, loyalty programmes are a great way to join online and instore data, enabling you to get that 360-degree view of the customer. Gaining real-time stock information using RFID tagging is another way fashion retailers can use tech effectively.
 
