@@ -5,24 +5,21 @@ date: 2018-02-28 15:04:00 Z
 
 Some of the best articles from the world of retail and its supporting industries.
 
-# Monthly Retail Round-Up - January 2018
+# Monthly Retail Round-Up - February 2018
 
-## The retail industry moves at a rapid pace and is constantly changing. This, paired with new technological advancements means it can be difficult to keep up.
-
-At Dressipi we like to be right up to date and think you should be too! So, what better way to be in the know than with a round-up of the most interesting stories we’ve come across this month? 
+## February has been a busy month, bringing a number of fashion weeks for A/W 2018 and lots of other retail news. Here are the top stories to keep you up to date.
 
 
-## 1) KPMG’s Annual Retail Survey 2018
+## 1) Farfetch teams up with Chanel and Burberry
 
-January saw the release of [KPMG’s Annual Retail Survey 2018](https://home.kpmg.com/uk/en/home/insights/2018/01/kpmg-annual-retail-survey-2018.html). The extensive report looks at the *‘buying, returns and brand experience of over 1,600 KPMG employees in their capacity as consumers’*. 
+Farfetch was popular in retail news this February with two big headlines announcing partnerships with Chanel and Burberry.
 
-As well as giving insight on Black Friday, increasing mobile usage, Brexit and sales processes, the report focuses heavily on the shifting expectations of customers when it comes to shopping experiences both online and in-store. 
+According to [Glossy](http://www.glossy.co/evolution-of-luxury/burberrys-partnership-with-farfetch-will-accelerate-its-see-now-buy-now-business-model), Burberry *“is picking up the pace of its see-now-buy-now business model”*. The partnership with Farfetch will result in Burberry’s “entire global inventory to be available through an e-commerce platform”. This will allow for global distribution, giving the brand access to 150 countries. You can read more about this new collaboration in the [Telegraph](https://www.telegraph.co.uk/business/2018/02/15/burberry-expand-online-reach-farfetch-tie-up/).
 
-The segment *'Improving the customer experience, are retailers ahead of the pack?'* highlighted the important role of retail in driving better customer experiences, something that should be increasingly possible given recent advancements in AI, Machine Learning and using customer data in a more meaningful way.
+Quite different is Farfetch’s strategic partnership with Chanel. They have no plans to sell any of their inventory through Farfetch, with Bruno Pavlovsky, Chanel’s president of fashion emphasising, *“We are not starting to sell Chanel on the Farfetch marketplace - I want to be very clear on that. Our position on eCommerce is the same. We want to connect our customers with our product and our boutiques are the best way to do so. We strongly believe that digital will never replace the feeling of being in a fitting room and trying on Chanel piece.”*
 
-Mounting pressure from customers for outstanding services (such as better transactional experiences, a greater choice when it comes to delivery options, personalisation, a greater focus on sustainability, or more flexible returns) means it is essential for retailers to stay ahead of the curve. As the report boldly states, *'retailers are faced with a stark choice: innovate around the consumer and catch up, or get left behind'*.
+So what does this partnership involve? [Drapers](https://www.drapersonline.com/7029147.article?utm_source=newsletter&utm_medium=email&utm_campaign=DR_EditorialNewsletters.Reg:%20Send%20-%20Daily%20News&mkt_tok=eyJpIjoiT1dNMU1tVTVZall6TnpNMiIsInQiOiJyanV6T3E3VWVNZG10TEVLd2UzM0JIUll4Q2NoQ0xrVVRwZkJXSXd4WnkzeUllRzNDcFdVKytIdWR6bVdXemx0ZklUQmN2WUllSEVoV0p1a1ZDTDRkTWdWeHRzeEZpaytYOUJoeVg0NVJOWXV2VHZkM0JodVNYalJHMzJVUkRZWSJ9) suggests that Chanel wants to create an *“ultra-personalised”* experience within its stores and will work with Farfetch to develop a range of digital initiatives, using Farfetch’s digital know-how to give staff insights on customer’s preferences. This falls in line with Farfetch’s mission, quoted by founder and CEO José Neves as *“To reinvent the luxury shopping experience online as well as offline”*
 
-You can read the full report by downloading it from the [KPMG website](https://home.kpmg.com/uk/en/home/insights/2018/01/kpmg-annual-retail-survey-2018.html).
 
 
 ## 2) Zara launches new online-only store
