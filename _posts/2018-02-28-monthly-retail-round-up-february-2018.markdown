@@ -1,6 +1,8 @@
 ---
 title: Monthly Retail Round-Up - February 2018
 date: 2018-02-28 15:04:00 Z
+categories:
+- news
 ---
 
 Some of the best articles from the world of retail and its supporting industries.
