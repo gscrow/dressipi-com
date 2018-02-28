@@ -3,6 +3,17 @@ title: Monthly Retail Round-Up - February 2018
 date: 2018-02-28 15:04:00 Z
 categories:
 - news
+tags:
+- retail news
+- retail technology
+- fashion technology
+- London Fashion Week
+- innovation
+- Farfetch
+- Chanel
+- Burberry
+- Mango
+- Internet Retailing
 ---
 
 Some of the best articles from the world of retail and its supporting industries.
