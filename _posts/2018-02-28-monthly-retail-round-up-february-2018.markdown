@@ -36,23 +36,25 @@ This is yet another firm signal that retailers must keep innovating if they are 
 
 Internet Retailing released their Top500 Report this February. This report isn’t solely based on revenue, store networks or website traffic but also on six Performance Dimensions, including ‘Strategy and Innovation’, ‘The Customer’, ‘Operations and Logistics’, ‘Merchandising’, ‘Brand Engagement’ and ‘Mobile and Cross-channel’. 
 
-BoF stated that Asos *‘profited at the expense of its store-based rivals’*, emphasising the growing influence of pureplays, and the increasing need for bricks and mortar retailers to step up their in-store offering if they are to differentiate themselves. 
+In 2018, Argos and Screwfix replaced Asda and John Lewis to join Amazon, Boots, M&S and Tesco in the Elite section of the Top 500 report. So what does it take to get into the Elite or Leading groups? The top 3 findings included:
 
-But even Asos are trying to find ways to defend themselves against the likes of Amazon, who continue to innovate, introducing services such as same-day delivery. According to the [FT](https://www.ft.com/content/795935ac-0205-11e8-9650-9c0ad2d7c5b5), Amazon are *‘set to overtake Macy’s to be the largest seller of clothing to Americans this year’*. Analysts Nomura estimate that ‘apparel could be a $45bn-$85bn business for Amazon by 2020’.  These statistics are a very real threat as they make fashion their top priority.
+* To be a leader in best-in-class customer experience, retailers meet demanding shopper expectations of both service and usability. 98% of retailers use Facebook and Twitter to communicate with their customers, followed by 96% by phone and 93% by email.
 
-If the likes of Asos are taking measures to differentiate themselves, then bricks and mortar retailers should even more so. A recent article by [CNBC](https://www.cnbc.com/2018/01/17/fashion-is-getting-personal-as-brands-battle-for-shoppers.html) states that brands are in a constant battle for claiming a greater share of customer spend, *‘Retailers are finding their websites must mimic some of the same experiences that could be offered in a physical store, bringing the same level of expertise that an associate would give in helping a customer make a selection’*.
+* Retailers enabling shoppers to browse products for inspiration and find specific items quickly are top for ‘Merchandising’. M&S, Debenhams and Ocado all have barcode scanners. M&S and Ocado show written product reviews and Debenhams have a predictive search.
 
+* There are many ways in which retailers can perform best in ‘Mobile and Cross-Channel’. 62% of retailers offer collection for online orders, up from 57% in 2017. Most retailers have a mobile app, however only 34% show stock visibility through their mobile website, while 58% have store finders and only 20% have store checkers. 
 
+Internet Retailing concluded, *“Already 2018 is shaping up to be a competitive year in which retailers that reach out to engage with customers and offer efficient and joined-up cross-channel services seem best place to succeed.”* You can download and read the full report [here])http://email.internetretailing.net/public/webform/render_form/9eosaiwbe921wc0kz0eg0aknxa46v/1029114782659b5196550ee637d8080f/addcontact).
 
-## 4) WIRED’s six ways that new technology will revolutionise shopping
+## 4) London Fashion Week A/W18
 
-With constant reports of store closures ([896 high street shops closed in 2016](http://www.wired.co.uk/article/six-learnings-future-retail-consumer)) and declining footfall, [WIRED](http://www.wired.co.uk/article/six-learnings-future-retail-consumer) is adamant that *‘Retailers must combine emotion with innovation if they want to survive growing consumer demand and economic pressure’*.
+Showcasing the best of British design and complete with catwalks, designer showrooms and presentations, there were a few things to take away from London Fashion Week 2018.
 
-The article puts an emphasis on re-thinking personal assistance using AI, as well as improving payment methods. You can find another really interesting article [here](https://www.kamcity.com/namnews/uk-and-ireland/supermarkets/amazon-go-tech-will-bring-new-era-personalised-shopping-wont-kill-human-interaction/) by KamCity on how despite the launch of new check-out free technology (Amazon Go), human interaction is still very important and will be used to *‘complement and enhance the relationships customers have with human sales staff’*. 
+After 17 years as the creative head of Burberry, Christopher Bailey showed his final collection at London Fashion Week 2018. Supporting youth charities for LGBTQ+ rights, Burberry’s usual tan, black and red tartan in the collection had a rainbow stripe. Read what Drapers has to say about his final collection [here](https://www.drapersonline.com/product-and-trade-shows/comment-bailey-says-goodbye-to-burberry-with-final-lfw-collection/7029117.article?blocktitle=London-Fashion-Week:-Autumn-18&contentID=20795).
 
-The WIRED article also comments on how luxury retailers must think more strategically about extending conversations they have with their customers in-store into *‘after-sales care and analytics*’.
+With Christopher Bailey’s last London Fashion Week came the Queen’s first. Sitting next to Vogue’s editor-in-chief, Anna Wintour, the Queen attended her first ever London Fashion Show. The collection was by Richard Quinn who has just been announced as a new addition to Designers at Debenhams, with his first collaboration due to launch in May. She was there to present Richard Quinn with the inaugural Queen Elizabeth II Award for British Design. You can read more about his show and the Queen in [Vogue](http://www.vogue.co.uk/article/the-queen-london-fashion-week-british-design-award).
 
 
 We hope you enjoyed the round-up. Please feel free to [get in touch](https://dressipi.com/contact/) with any stories you feel would be of interest. 
 
->Photo by Simon Launay from Unsplash.
+>Photo from [CNBC](https://www.cnbc.com/2018/02/21/queen-surprises-london-fashion-week-with-anna-wintour.html)
