@@ -14,28 +14,27 @@ Some of the best articles from the world of retail and its supporting industries
 
 Farfetch was popular in retail news this February with two big headlines announcing partnerships with Chanel and Burberry.
 
-According to [Glossy](http://www.glossy.co/evolution-of-luxury/burberrys-partnership-with-farfetch-will-accelerate-its-see-now-buy-now-business-model), Burberry *“is picking up the pace of its see-now-buy-now business model”*. The partnership with Farfetch will result in Burberry’s “entire global inventory to be available through an e-commerce platform”. This will allow for global distribution, giving the brand access to 150 countries. You can read more about this new collaboration in the [Telegraph](https://www.telegraph.co.uk/business/2018/02/15/burberry-expand-online-reach-farfetch-tie-up/).
+According to [Glossy](http://www.glossy.co/evolution-of-luxury/burberrys-partnership-with-farfetch-will-accelerate-its-see-now-buy-now-business-model), Burberry *'is picking up the pace of its see-now-buy-now business model'*. The partnership with Farfetch will result in Burberry’s 'entire global inventory to be available through an e-commerce platform'. This will allow for global distribution, giving the brand access to 150 countries. You can read more about this new collaboration in the [Telegraph](https://www.telegraph.co.uk/business/2018/02/15/burberry-expand-online-reach-farfetch-tie-up/).
 
 Quite different is Farfetch’s strategic partnership with Chanel. They have no plans to sell any of their inventory through Farfetch, with Bruno Pavlovsky, Chanel’s president of fashion emphasising, *“We are not starting to sell Chanel on the Farfetch marketplace - I want to be very clear on that. Our position on eCommerce is the same. We want to connect our customers with our product and our boutiques are the best way to do so. We strongly believe that digital will never replace the feeling of being in a fitting room and trying on Chanel piece.”*
 
-So what does this partnership involve? [Drapers](https://www.drapersonline.com/7029147.article?utm_source=newsletter&utm_medium=email&utm_campaign=DR_EditorialNewsletters.Reg:%20Send%20-%20Daily%20News&mkt_tok=eyJpIjoiT1dNMU1tVTVZall6TnpNMiIsInQiOiJyanV6T3E3VWVNZG10TEVLd2UzM0JIUll4Q2NoQ0xrVVRwZkJXSXd4WnkzeUllRzNDcFdVKytIdWR6bVdXemx0ZklUQmN2WUllSEVoV0p1a1ZDTDRkTWdWeHRzeEZpaytYOUJoeVg0NVJOWXV2VHZkM0JodVNYalJHMzJVUkRZWSJ9) suggests that Chanel wants to create an *“ultra-personalised”* experience within its stores and will work with Farfetch to develop a range of digital initiatives, using Farfetch’s digital know-how to give staff insights on customer’s preferences. This falls in line with Farfetch’s mission, quoted by founder and CEO José Neves as *“To reinvent the luxury shopping experience online as well as offline”*
+So what does this partnership involve? [Drapers](https://www.drapersonline.com/7029147.article?utm_source=newsletter&utm_medium=email&utm_campaign=DR_EditorialNewsletters.Reg:%20Send%20-%20Daily%20News&mkt_tok=eyJpIjoiT1dNMU1tVTVZall6TnpNMiIsInQiOiJyanV6T3E3VWVNZG10TEVLd2UzM0JIUll4Q2NoQ0xrVVRwZkJXSXd4WnkzeUllRzNDcFdVKytIdWR6bVdXemx0ZklUQmN2WUllSEVoV0p1a1ZDTDRkTWdWeHRzeEZpaytYOUJoeVg0NVJOWXV2VHZkM0JodVNYalJHMzJVUkRZWSJ9) suggests that Chanel wants to create an *'ultra-personalised'* experience within its stores. It will work with Farfetch to develop a range of digital initiatives and use Farfetch’s digital know-how to give staff insights on customer’s preferences. This falls in line with Farfetch’s mission, quoted by founder and CEO José Neves as *“To reinvent the luxury shopping experience online as well as offline.”*
 
 
+## 2) Mango to launch digital fitting rooms
 
-## 2) Zara launches new online-only store
+Mango has taken a step towards improving their in-store experience by announcing a partnership with Vodafone, rolling out new digital fitting rooms which will feature smart mirrors. 
 
-Zara continues to surge ahead as a leader in retail as it opens its new online-only store in London. As [reported by Drapers](https://www.drapersonline.com/news/zara-to-launch-first-online-only-store-in-london/7028764.article?blocktitle=Latest-News&contentID=15719), the Westfield Stratford City store *‘will offer a small edit of women’s and men’s clothing for online purchase directly in store, as well as access to the retailer’s full catalogue online’*. Store staff will also play a crucial role, assisting customers with mobile devices.
+[Drapers](https://www.drapersonline.com/news/mango-to-launch-digital-fitting-rooms/7029101.article) reported that the new functionality which is part of the brand’s *'digital transformation project'* will allow shoppers to scan clothes tags and contact store staff to request different sizes and colours of items. The mirror will also recommend additional clothes to complete outfits.
 
-Trialling technologies is nothing new for the Spanish giant as they continually experiment with different store concepts to merge online and offline experiences. New mirror, RFID and scanning technology coupled with product recommendation systems highlight the importance of, and increasing demand for, access to personalisation services whilst shopping.
+Mango Chief Client Officer Guillermo Corominas said, *“This is a really exciting project for Mango. We see the future of retailing as a blend of the online and the offline.“These new fitting rooms are another step in the digital transformation of our stores to create a whole new experience for our customers.*
 
-Chairman and CEO of Inditex, Pablo Isla has called it *“another milestone in our strategy of integrating our stores with the online world, which defines our identity as a business”*. 
-
-Dressipi’s Style Director, Natalie Theo recently wrote a [blog post on Zara’s self-checkout stations](https://dressipi.com/blog/zaras-self-service-check-out-highlights-a-stronger-focus-on-creating-better-in-store-customer-experiences/), once again, displaying Zara’s desire to be seen as a leader in creating seamless in-store experiences that are relevant and enjoyable for customers.
+This is yet another firm signal that retailers must keep innovating if they are to stay ahead of the game and keep up with customer demand and expectations.
 
 
-## 3) Asos profits rise, but can they ever beat Amazon?
+## 3) Internet Retailing Publish 2018 Top500 Report
 
-[The Business of Fashion](https://www.businessoffashion.com/articles/news-analysis/asos-uk-revival-shows-online-retailers-escaped-store-gloom) reported on Asos Plc’s recently published results. Sales in the UK (Asos’s largest market) rose 23% to £300.9 million in the four months ended December 31st.
+Internet Retailing released their Top500 Report this February. This report isn’t solely based on revenue, store networks or website traffic but also on six Performance Dimensions, including ‘Strategy and Innovation’, ‘The Customer’, ‘Operations and Logistics’, ‘Merchandising’, ‘Brand Engagement’ and ‘Mobile and Cross-channel’. 
 
 BoF stated that Asos *‘profited at the expense of its store-based rivals’*, emphasising the growing influence of pureplays, and the increasing need for bricks and mortar retailers to step up their in-store offering if they are to differentiate themselves. 
 
