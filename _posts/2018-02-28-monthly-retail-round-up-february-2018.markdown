@@ -15,7 +15,7 @@ tags:
 - Mango
 - Internet Retailing
 image: "/uploads/Screen%20Shot%202018-02-28%20at%2015.25.55.png"
-author: Georgina Fisher
+author: Philippa Mew
 description: Some of the best articles from the world of retail and its supporting
   industries.
 ---
