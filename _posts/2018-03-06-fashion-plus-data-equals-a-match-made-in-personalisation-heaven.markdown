@@ -22,7 +22,7 @@ download: Personalising the Entire Customer Experience for Shop Direct
 
 Fashion Authority can't be taught and it can't be bought. Natalie Theo, Dressipi’s Style Director explores the importance of fashion intuition, and how combining it with data creates a powerful personalisation solution.
 
-# Fashion + Data  = A Match Made in Personalisation Heaven
+# Fashion + Data = A Match Made in Personalisation Heaven
 
 ## In a [recent interview](http://www.glossy.co/ecommerce/farfetchs-vp-of-creative-yasmin-sewell-fashion-authority-doesnt-come-from-analyzing-data) about her fashion-led vision for Farfetch, Yasmin Sewell Vice President Of Style and Creative told Glossy’s Hilary Milnes, “Fashion authority doesn’t come from analyzing data.”
 
