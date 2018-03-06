@@ -1,6 +1,23 @@
 ---
 title: Fashion + Data = A Match Made in Personalisation Heaven
 date: 2018-03-06 16:45:00 Z
+categories:
+- retail
+tags:
+- fashion technology
+- fashion authority
+- fashion personalisation
+- retail technology
+- how to create a personalised shopping experience
+- innovation
+- retail personalisation
+- data
+image: "/uploads/Natalie%20and%20Nick.jpg"
+author: Natalie Theo
+description: Fashion Authority can't be taught and it can't be bought. Natalie Theo,
+  Dressipi’s Style Director explores the importance of fashion intuition, and how
+  combining it with data creates a powerful personalisation solution.
+download: Five Things Every Retailer Should Know About Personalisation
 ---
 
 Fashion Authority can't be taught and it can't be bought. Natalie Theo, Dressipi’s Style Director explores the importance of fashion intuition, and how combining it with data creates a powerful personalisation solution.
