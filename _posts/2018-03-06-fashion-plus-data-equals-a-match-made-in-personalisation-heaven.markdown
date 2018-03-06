@@ -3,7 +3,7 @@ title: Fashion + Data = A Match Made in Personalisation Heaven
 date: 2018-03-06 16:45:00 Z
 ---
 
-Fashion Authority can't be taught and it can't be bought. Natalie Theo, Dressipi’s Style Director explores the importance of fashion intuition, and how when combined with data a potent results-driven combination
+Fashion Authority can't be taught and it can't be bought. Natalie Theo, Dressipi’s Style Director explores the importance of fashion intuition, and how combining it with data creates a powerful personalisation solution.
 
 # Fashion + Data  = A Match Made in Personalisation Heaven
 
@@ -21,4 +21,4 @@ Our fashion and tech team have worked hand-in-hand right from the start, which i
 
 At a time when ecommerce sites like Farfetch and Yoox Net-A-Porter are ramping up the content publishing arm of their businesses (YAP’s content platform went from weekly to daily and then there’s Farfetch’s content and commerce partnership with Condé Nast) I can’t help but imagine what a game changer layering this level of fashion personalisation onto that fashion authority would be…
 
-> If you are at the beginning of your Personalisation journey and are interested in learning Five Things Every Retailer Should Know About Personalisation, [download our recent whitepaper](https://dressipi.com/downloads/five-things-every-retailer-should-know-about-personalisation-whitepaper/) by Dressipi’s co-founder Donna North.
+> If you are at the beginning of your Personalisation journey and are interested in learning 'Five Things Every Retailer Should Know About Personalisation', [download our recent whitepaper](https://dressipi.com/downloads/five-things-every-retailer-should-know-about-personalisation-whitepaper/) by Dressipi’s co-founder Donna North.
