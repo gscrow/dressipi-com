@@ -32,7 +32,7 @@ sections:
   subtitle: 
   handle: awards
   awards:
-  - image: "/uploads/Millenial%202020.JPG"
+  - image: "/uploads/award__millenial.png"
     title: Best Innovation Commerce-Enabler / Best Retail Solution - Finalist
   - image: "/uploads/RW_AWARDS_LOGO_FINALIST_Small-92d0cf.png"
     title: Customer Innovation - Finalist
