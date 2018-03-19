@@ -14,7 +14,7 @@ Donna North, Dressipi’s Co-Founder discuss a new and exciting phase for retail
 
 ## Contrary to the hyperbole and prediction of the demise of the high street, a new excitement is emerging among retailers.
 
-Recent reports published by the likes of PWC (covered by [Business Insider](http://uk.businessinsider.com/generation-z-vs-millennials-in-shopping-2017-10) have revealed that despite what would be expected in today’s digital age, young shoppers prefer to shop in-store - *'81% of young Gen Z respondents said they preferred to shop in stores, while 40% said they will only shop in stores.'*  Furthermore, the brands the younger generations are mostly purchasing (online or instore) are those that already have a physical presence.  
+Recent reports published by the likes of PWC (covered by [Business Insider])(http://uk.businessinsider.com/generation-z-vs-millennials-in-shopping-2017-10) have revealed that despite what would be expected in today’s digital age, young shoppers prefer to shop in-store - *'81% of young Gen Z respondents said they preferred to shop in stores, while 40% said they will only shop in stores.'*  Furthermore, the brands the younger generations are mostly purchasing (online or instore) are those that already have a physical presence.  
 
 Such evidence has caused the conversation to finally switch focus from high street doom and gloom to a new phase of retail. Bricks & mortar retailers won’t die - they will evolve, and they have every chance of succeeding if they focus on joining their exceptional knowledge with the right tools and services. This will result in the creation of the best experiences for their specific customers.
 
