@@ -1,6 +1,9 @@
 ---
 title: A New Phase of Retail - The Evolution of Bricks & Mortar Retailers
 date: 2018-03-19 10:13:00 Z
+image: "/uploads/timothy-muza-572-unsplash.jpg"
+author: Donna North
+download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
 Donna North, Dressipi’s Co-Founder discuss a new and exciting phase for retail.
@@ -42,4 +45,4 @@ Without a doubt, there’s an exciting momentum building which is a win-win for 
 
 >If you are interested in a demo to see how we could provide our Personalisation solutions for you and reduce return rates by 5% percentage points, [book a demo](https://dressipi.com/book-a-demo/) today.
 
-Header Photo by Timothy Muza on Unsplash
+> Header Photo by Timothy Muza on Unsplash
