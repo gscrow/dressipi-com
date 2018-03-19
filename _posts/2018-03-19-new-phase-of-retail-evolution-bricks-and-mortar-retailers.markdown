@@ -1,7 +1,7 @@
 ---
 title: A New Phase of Retail - The Evolution of Bricks & Mortar Retailers
 date: 2018-03-19 10:13:00 Z
-image: "/uploads/timothy-muza-572-unsplash.jpg"
+image: "/uploads/timothy-muza-572-unsplash.png"
 author: Donna North
 description: Bricks & mortar retailers won't die, they'll evolve. Donna North, Dressipi’s
   Co-Founder discuss a new and exciting phase for retail.
