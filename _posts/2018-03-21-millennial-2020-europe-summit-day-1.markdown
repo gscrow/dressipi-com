@@ -4,8 +4,6 @@ date: 2018-03-21 16:59:00 Z
 author: Philippa Mew
 ---
 
-# Millennial 2020 - Europe Summit Day 1
-
 ## Held at The Old Truman Brewery, London, Millennial 2020’s Europe Summit was a two-day event exploring the future trends in retail, marketing and commerce. 
 
 At a time when the pace of change is rapid, events such as this are a great opportunity to not only hear from experts within the industry but also look into the metaphorical crystal ball and think to the future. What exciting developments lie ahead, we can’t be sure, but what we do know is that the consumer is king and retailers are bowing down to them.
