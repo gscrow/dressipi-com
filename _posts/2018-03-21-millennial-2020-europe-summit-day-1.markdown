@@ -12,7 +12,7 @@ Alex Wood, Europe Editor of Forbes (and founder of The Memo which published [thi
 
 Some key highlights from Day 1 (you can check out Day 2 highlights [here]) included:
 
->##1. Data and Creativity - The Perfect Combination
+## 1) Data and Creativity - The Perfect Combination
 
 Pepijn Rijvers, CMO, Booking.com boasted a built-in-house bot that handles 30% of Booking.com’s customer enquiries in under 5 minutes.  An impressive statistic, however, do we need to be careful of losing that human touch and authenticity? On [Day 2] of this event Joe Rohrlich, General Manager of EMEA at Bazaarvoice said that as consumers we look for “*authentic signals*” and are nervous about “*what is real and what isn’t real*”.
 
@@ -20,7 +20,7 @@ In Pepijn’s opinion, this is where the combination of data and creativity come
 
 This certainly isn’t a new concept. In a [recent interview](https://www.glossy.co/ecommerce/farfetchs-vp-of-creative-yasmin-sewell-fashion-authority-doesnt-come-from-analyzing-data) about her fashion-led vision for Farfetch, Yasmin Sewell Vice President Of Style and Creative told Glossy’s Hilary Milnes, “*Fashion authority doesn’t come from analyzing data*.” Dressipi’s Style Director Natalie Theo explored this in [a recent blog post](https://dressipi.com/blog/fashion-plus-data-equals-a-match-made-in-personalisation-heaven/) on the importance of fashion intuition and how combining it with data creates a powerful personalisation solution.
 
->##2. Building an Authentic Brand is Key to Success
+## 2) Building an Authentic Brand is Key to Success
 
 Speaking of brand authenticity, Jeyan Heper, CEO, Lifestyles, provided the audience with some interesting stats: 
 
@@ -34,7 +34,7 @@ To counter this mistrust, Jeyan stressed the importance of authenticity - it can
 We cannot shy away from the role that data plays when marketing to customers. Trust can be difficult to achieve and is nurtured over time based on how customers see businesses treating their data. It is therefore extremely important to get your marketing intent right to build meaningful and long-lasting relationships with your customers.
 
 
->##3. Millennials are the Experts
+## 3) Millennials are the Experts
 
 Gen X, Y, Z...Millennials. I personally can’t keep track of the letters and their corresponding ages, but businesses certainly need to. According to Lana Glazman, VP - Corporate Innovation EU, Estee Lauder, “*we need to recognise millenials as the experts - they know more than we can possibly imagine*.”
 
@@ -44,7 +44,7 @@ Recent reports published by the likes of PWC (covered by [Business Insider](http
 
 Dressipi’s co-founder Donna North explores this further in [her latest blog post](https://dressipi.com/blog/new-phase-of-retail-evolution-bricks-and-mortar-retailers/), “A New Phase of Retail - The Evolution of Bricks & Mortar Retailers”.
 
-##To conclude…
+## To conclude…
 
 Retailers have to be agile. Rob Bloom, Group Digital Director, McLaren stated that no business is too big to be agile. They have to, “*continue to reinvent - react, respond, change and adapt to what is going on out there*.” 
 
