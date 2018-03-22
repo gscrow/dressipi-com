@@ -66,7 +66,7 @@ We cannot shy away from the role that data plays when marketing to customers. Tr
 
 ## 3) Millennials are the Experts
 
-Gen X, Y, Z...Millennials. I personally can’t keep track of the letters and their corresponding ages, but businesses certainly need to. According to Lana Glazman, VP - Corporate Innovation EU, Estee Lauder, “*we need to recognise millenials as the experts - they know more than we can possibly imagine*.”
+Gen X, Y, Z...Millennials. I personally can’t keep track of the letters and their corresponding ages, but businesses certainly need to. According to Lana Glazman, VP - Corporate Innovation EU, Estee Lauder, “*we need to recognise millennials as the experts - they know more than we can possibly imagine*.”
 
 The youth of today are those who determine a retailers’ evolution. They call the shots when expressing how they wish to interact with a brand, which is why it is important to understand what truly connects with a millennial audience - what are the trigger points and what is the appetite for content? Their behaviour, however, might not always be what you expect... 
 
@@ -82,6 +82,6 @@ If they keep their finger on the pulse and use valuable data to not only leverag
 
 But don’t run the risk of being too intrusive when it comes to using data - as put perfectly by Henry Eccles, Head of eCommerce UK, Google, “*there’s a big difference between creepy and concierge*.”
 
-We also can’t forget the added bonus of Dressipi’s ‘Ones to Watch Award’ nomination. Although we missed out on the title, we were thrilled to be in the running for Best Innovation Commerce-Enabler / Best Retail Solution.
+We also can’t forget the added bonus of Dressipi’s ‘Ones to Watch Award’ nomination. Although we missed out on the title, we were thrilled to be in the running for Best Innovation Commerce-Enabler / Best Retail Solution!
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Awards.JPG"/></p>
