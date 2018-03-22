@@ -2,7 +2,7 @@
 title: Millennial 2020 - Europe Summit Day 2
 date: 2018-03-22 10:01:00 Z
 categories:
-- retail
+- news
 tags:
 - retail technology
 - retail
