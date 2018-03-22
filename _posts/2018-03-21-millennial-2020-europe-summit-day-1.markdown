@@ -3,6 +3,9 @@ title: Millennial 2020 - Europe Summit Day 1
 date: 2018-03-21 16:59:00 Z
 image: "/uploads/Marketing_Team.jpg"
 author: Philippa Mew
+description: 'Held at The Old Truman Brewery, London, Millennial 2020’s Europe Summit
+  was a two-day event exploring the future trends in retail, marketing and commerce. '
+download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
 ## Held at The Old Truman Brewery, London, Millennial 2020’s Europe Summit was a two-day event exploring the future trends in retail, marketing and commerce. 
@@ -57,3 +60,4 @@ But don’t run the risk of being too intrusive when it comes to using data - as
 
 We also can’t forget the added bonus of Dressipi’s ‘Ones to Watch Award’ nomination. Although we missed out on the title, we were thrilled to be in the running for Best Innovation Commerce-Enabler / Best Retail Solution.
 
+![image](/uploads/Awards.JPG)
