@@ -63,8 +63,8 @@ Brands need to get smarter about what to do with the potential goldmine of data 
 
 People continually speak about “seamlessness”, but what does it truly mean? Although used too frequently, it still holds great importance when broken down as follows:
 
-* ## Seamless Technology - Implementing tech to ensure the smooth running of the business 
-* ## Seamless Customer Experience - The continual effortless interaction customers have with the brand at different touch points
+* **Seamless Technology** - Implementing tech to ensure the smooth running of the business 
+* **Seamless Customer Experience** - The continual effortless interaction customers have with the brand at different touch points
 
 Simon Bell, Managing Director, Diligent Commerce suggested that these two ideas have to link, “*To have something truly seamless you need internal* [business] *seamlessness before it gets to the customer*.” He also stated that within businesses, “*There should be a single mind of thought that comes from the top (CEO) and this should be felt at every single touch point*.” This ensures one overall objective throughout the business so everyone talks to the customer in the same way.
 
