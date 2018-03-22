@@ -42,7 +42,7 @@ Highlights from a jam-packed Day 2 (if you missed Day 1, check out our blog post
 
 According to Michael Beutler, Sustainability Operations Director, Kering, “*Retailers are thinking about surviving” with Michael Ward, Managing Director, Harrods adding, “Retailers need to be relevant, or die*”.
 
-It’s no secret that bricks and mortar retailers are struggling. Data provided by the BRC-Springboard Footfall and Vacancies Monitor (referenced in the [FT](https://www.ft.com/content/cfda2374-f7be-11e7-8715-e94187b3017e) showed that ‘*the big losers were bricks-and-mortar retailers where the number of people shopping fell 3.5 per cent in December, the worst monthly result since the economic recovery started to pick up in 2013*’.
+It’s no secret that bricks and mortar retailers are struggling. Data provided by the BRC-Springboard Footfall and Vacancies Monitor (referenced in the [FT](https://www.ft.com/content/cfda2374-f7be-11e7-8715-e94187b3017e)) showed that ‘*the big losers were bricks-and-mortar retailers where the number of people shopping fell 3.5 per cent in December, the worst monthly result since the economic recovery started to pick up in 2013*’.
 
 Smart mirrors, robots and many other digital technologies are now emerging in-store, striving to make shopping ‘easier’, but what else must the high street do to encourage customers into stores rather than into the arms of online? 
 
