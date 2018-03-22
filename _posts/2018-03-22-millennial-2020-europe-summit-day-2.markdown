@@ -70,7 +70,7 @@ Simon Bell, Managing Director, Diligent Commerce suggested that these two ideas 
 
 There are many ways retailers look to provide seamless experiences for their customers (scanning barcodes, tills at point of purchase) but there is still a long way to go. Henry Eccles, Head of eCommerce UK, Google, gave a strong viewpoint that retailers aren’t personalising nearly enough given the wealth of data and technology available today. He claimed they were missing a big opportunity to drive sales, and highlighted that, “*AI should be built across the fabric of every organisation*” - retailers can’t just think about single touch points anymore. Every platform needs to be integrated.
 
-## To conclude…
+## To Conclude…
 
 Personalisation is still high on the agenda. Retailers are starting to realise they need to take immediate action by planning [how to deliver true personalisation](https://dressipi.com/how-to-deliver-true-personalisation/) across every single touch point and every single device to avoid being left behind. 
 
