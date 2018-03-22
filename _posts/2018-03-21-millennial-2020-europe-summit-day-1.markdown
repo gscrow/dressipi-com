@@ -32,7 +32,9 @@ Held at The Old Truman Brewery, London, Millennial 2020’s Europe Summit was a 
 
 # Millennial 2020 - Europe Summit Day 1
 
-At a time when the pace of change is rapid, events such as this are a great opportunity to not only hear from experts within the industry but also look into the metaphorical crystal ball and think to the future. What exciting developments lie ahead, we can’t be sure, but what we do know is that the consumer is king and retailers are bowing down to them.
+## At a time when the pace of change is rapid, events such as this are a great opportunity to not only hear from experts within the industry but also look into the metaphorical crystal ball and think to the future. 
+
+What exciting developments lie ahead, we can’t be sure, but what we do know is that the consumer is king and retailers are bowing down to them.
 
 Alex Wood, Europe Editor of Forbes (and founder of The Memo which published [this article](https://www.thememo.com/2016/07/18/why-confidence-is-so-crucial-for-the-future-of-online-clothes-shopping/) about Dressipi) described a current shift, “*from an industrial age to an information age*.” He emphasised that “*digital brings a new way to tell stories*”, and although speaking primarily about how we consume news today, I also feel this is applicable to how retailers are using data to tell stories to their customers, enhancing their brand and creating better experiences. 
 
