@@ -12,7 +12,7 @@ download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 
 At a time when the pace of change is rapid, events such as this are a great opportunity to not only hear from experts within the industry but also look into the metaphorical crystal ball and think to the future. What exciting developments lie ahead, we can’t be sure, but what we do know is that the consumer is king and retailers are bowing down to them.
 
-Alex Wood, Europe Editor of Forbes (and founder of The Memo which published [this article](https://www.thememo.com/2016/07/18/why-confidence-is-so-crucial-for-the-future-of-online-clothes-shopping/) about Dressipi) described a current shift, “*from an industrial age to an information age*.” He emphasised that “digital brings a new way to tell stories”, and although speaking primarily about how we consume news today, I also feel this is applicable to how retailers are using data to tell stories to their customers, enhancing their brand and creating better experiences. 
+Alex Wood, Europe Editor of Forbes (and founder of The Memo which published [this article](https://www.thememo.com/2016/07/18/why-confidence-is-so-crucial-for-the-future-of-online-clothes-shopping/) about Dressipi) described a current shift, “*from an industrial age to an information age*.” He emphasised that “*digital brings a new way to tell stories*”, and although speaking primarily about how we consume news today, I also feel this is applicable to how retailers are using data to tell stories to their customers, enhancing their brand and creating better experiences. 
 
 ![image](/uploads/Alex_Wood.jpg)
 
@@ -50,7 +50,7 @@ Recent reports published by the likes of PWC (covered by [Business Insider](http
 
 Dressipi’s co-founder Donna North explores this further in [her latest blog post](https://dressipi.com/blog/new-phase-of-retail-evolution-bricks-and-mortar-retailers/), “A New Phase of Retail - The Evolution of Bricks & Mortar Retailers”.
 
-## To conclude…
+## To Conclude…
 
 Retailers have to be agile. Rob Bloom, Group Digital Director, McLaren stated that no business is too big to be agile. They have to, “*continue to reinvent - react, respond, change and adapt to what is going on out there*.” 
 
