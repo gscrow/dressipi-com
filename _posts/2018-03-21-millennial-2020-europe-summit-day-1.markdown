@@ -16,11 +16,11 @@ Alex Wood, Europe Editor of Forbes (and founder of The Memo which published [thi
 
 ![image](/uploads/Alex_Wood.jpg)
 
-Some key highlights from Day 1 (you can check out Day 2 highlights [here]) included:
+Some key highlights from Day 1 (you can check out Day 2 highlights [here](https://dressipi.com/blog/millennial-2020-europe-summit-day-2/) included:
 
 ## 1) Data and Creativity - The Perfect Combination
 
-Pepijn Rijvers, CMO, Booking.com boasted a built-in-house bot that handles 30% of Booking.com’s customer enquiries in under 5 minutes.  An impressive statistic, however, do we need to be careful of losing that human touch and authenticity? On [Day 2] of this event Joe Rohrlich, General Manager of EMEA at Bazaarvoice said that as consumers we look for “*authentic signals*” and are nervous about “*what is real and what isn’t real*”.
+Pepijn Rijvers, CMO, Booking.com boasted a built-in-house bot that handles 30% of Booking.com’s customer enquiries in under 5 minutes.  An impressive statistic, however, do we need to be careful of losing that human touch and authenticity? On [Day 2](https://dressipi.com/blog/millennial-2020-europe-summit-day-2/) of this event Joe Rohrlich, General Manager of EMEA at Bazaarvoice said that as consumers we look for “*authentic signals*” and are nervous about “*what is real and what isn’t real*”.
 
 In Pepijn’s opinion, this is where the combination of data and creativity come in. He firmly believes that these shouldn’t exist separately, but instead work together - firstly the process and technicalities should be data driven, then comes the creativity tool which adds colour and authenticity to your brand.
 
