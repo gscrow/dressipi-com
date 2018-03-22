@@ -24,9 +24,13 @@ description: 'After a busy first day at Millennial 2020, Day 2 began with a keyn
 download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
-# After a busy [first day](dressipi.com/blog/millennial-2020-europe-summit-day-1/) at Millennial 2020, Day 2 began with a keynote panel discussing ‘Reinventing the brand’. 
+After a busy [first day](dressipi.com/blog/millennial-2020-europe-summit-day-1/) at Millennial 2020, Day 2 began with a keynote panel discussing ‘Reinventing the brand’. 
 
-Julian Burnett formerly of House of Fraser set the tone for the day’s myriad of panels by stating, “*retailers are fundamentally physical things*”. What begs to be discussed is given this physicality, how can retailers adapt and evolve to meet the changing needs of their customers? 
+# Millennial 2020 - Europe Summit Day 2
+
+## Julian Burnett formerly of House of Fraser set the tone for the day’s myriad of panels by stating, “*retailers are fundamentally physical things*”. 
+
+What begs to be discussed is given this physicality, how can retailers adapt and evolve to meet the changing needs of their customers? 
 
 Digital technology is moving at a rapid pace, and for retailers to be leaders in their industry they need to embrace these advancements and start using new emerging technology surrounding AI, machine learning and data analytics (to name a few buzzwords). “*One of the biggest assets in our industry is data*” highlighted Julian, adding “*We are entering the next period of retail revolution and data will be at the forefront of that*." 
 
@@ -48,9 +52,9 @@ I sometimes find it hard to find tangible examples of success when it comes to i
 
 Given the increasing pressure retailers are facing to keep fresh and change, some may not fully understand the hesitance when it comes to introducing new technology. Sean McKee stressed that it’s a big investment which needs careful planning and execution. According to him, there are three key points to consider:
 
-* The cost of rolling out the appropriate technology
-* Establishing the exact use and participation of the technology
-* Ensuring the technology has sufficient utilisation from both staff and customers
+* **The cost of rolling out the appropriate technology**
+* **Establishing the exact use and participation of the technology**
+* **Ensuring the technology has sufficient utilisation from both staff and customers**
 
 It’s very easy to get caught up in fancy tech, but what is imperative is making sure it works for you and your business. As Guy Smith, Group Design Director, Arcadia highlighted, “*figuring out what you want to measure first is important, then decide how to do it*”. 
 
@@ -67,9 +71,9 @@ On a panel titled: ‘Artificial Intelligence and Voice Technology Transforming 
 
 On the topic of voice tech, what struck me most was the opportunity retailers have to develop the idea of using it for purchasing. According to Hakan Thyr, Director of Strategic Partnerships, EMEA, the current top three requests made to the likes of Alexa are:
 
-* Ask a simple question (e.g. What’s the capital of France?)
-* Stream music
-* Ask about the weather
+* **Ask a simple question (e.g. What’s the capital of France?)**
+* **Stream music**
+* **Ask about the weather**
 
 The opportunity to expand and develop what he calls “voice commerce” is very exciting, and has huge potential as developments in natural language processing means chatbots are becoming a viable customer solution.
 
