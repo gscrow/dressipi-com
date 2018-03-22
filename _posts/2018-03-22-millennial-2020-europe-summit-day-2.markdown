@@ -8,7 +8,7 @@ description: 'After a busy first day at Millennial 2020, Day 2 began with a keyn
 download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
-# After a busy first day at Millennial 20/20 (you can read all about it in our other blog post [here]), Day 2 began with a keynote panel discussing ‘Reinventing the brand’. 
+# After a busy [first day](dressipi.com/blog/millennial-2020-europe-summit-day-1/) at Millennial 2020, Day 2 began with a keynote panel discussing ‘Reinventing the brand’. 
 
 Julian Burnett formerly of House of Fraser set the tone for the day’s myriad of panels by stating, “*retailers are fundamentally physical things*”. What begs to be discussed is given this physicality, how can retailers adapt and evolve to meet the changing needs of their customers? 
 
@@ -16,7 +16,7 @@ Julian Burnett formerly of House of Fraser set the tone for the day’s myriad o
 
 Digital technology is moving at a rapid pace, and for retailers to be leaders in their industry they need to embrace these advancements and start using new emerging technology surrounding AI, machine learning and data analytics (to name a few buzzwords). “*One of the biggest assets in our industry is data*” highlighted Julian, adding “*We are entering the next period of retail revolution and data will be at the forefront of that*." 
 
-Highlights from a jam-packed Day 2 included:
+Highlights from a jam-packed Day 2 (if you missed Day 1, check out our blog post [here](dressipi.com/blog/millennial-2020-europe-summit-day-1/) included:
 
 ## 1. Bricks & Mortar Retailers - Be Relevant or Die
 
