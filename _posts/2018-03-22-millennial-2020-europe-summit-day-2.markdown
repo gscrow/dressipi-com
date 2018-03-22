@@ -12,17 +12,17 @@ download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 
 Julian Burnett formerly of House of Fraser set the tone for the day’s myriad of panels by stating, “*retailers are fundamentally physical things*”. What begs to be discussed is given this physicality, how can retailers adapt and evolve to meet the changing needs of their customers? 
 
-![image](/uploads/Day%202%20Panel_Keynote.JPG)
-
 Digital technology is moving at a rapid pace, and for retailers to be leaders in their industry they need to embrace these advancements and start using new emerging technology surrounding AI, machine learning and data analytics (to name a few buzzwords). “*One of the biggest assets in our industry is data*” highlighted Julian, adding “*We are entering the next period of retail revolution and data will be at the forefront of that*." 
 
-Highlights from a jam-packed Day 2 (if you missed Day 1, check out our blog post [here](dressipi.com/blog/millennial-2020-europe-summit-day-1/) included:
+![image](/uploads/Day%202%20Panel_Keynote.JPG)
+
+Highlights from a jam-packed Day 2 (if you missed Day 1, check out our blog post [here](dressipi.com/blog/millennial-2020-europe-summit-day-1/)) included:
 
 ## 1. Bricks & Mortar Retailers - Be Relevant or Die
 
 According to Michael Beutler, Sustainability Operations Director, Kering, “*Retailers are thinking about surviving” with Michael Ward, Managing Director, Harrods adding, “Retailers need to be relevant, or die*”.
 
-It’s no secret that bricks and mortar retailers are struggling. Data provided by the BRC-Springboard Footfall and Vacancies Monitor (referenced in the FT) showed that ‘*the big losers were bricks-and-mortar retailers where the number of people shopping fell 3.5 per cent in December, the worst monthly result since the economic recovery started to pick up in 2013*’.
+It’s no secret that bricks and mortar retailers are struggling. Data provided by the BRC-Springboard Footfall and Vacancies Monitor (referenced in the [FT](https://www.ft.com/content/cfda2374-f7be-11e7-8715-e94187b3017e) showed that ‘*the big losers were bricks-and-mortar retailers where the number of people shopping fell 3.5 per cent in December, the worst monthly result since the economic recovery started to pick up in 2013*’.
 
 Smart mirrors, robots and many other digital technologies are now emerging in-store, striving to make shopping ‘easier’, but what else must the high street do to encourage customers into stores rather than into the arms of online? 
 
@@ -41,11 +41,11 @@ It’s very easy to get caught up in fancy tech, but what is imperative is makin
 We need to keep sight of the simple fact that new technologies are there to help customers and make experiences more enjoyable. As Michael Ward states, “*You can’t forget that experience of being in-store – tech is there to perform a task*”. The big advantage that bricks and mortar stores have is that they can interact with their customers in a way that online retailers such as Amazon can’t. Our co-founder Donna North explores this in her most [recent blog post](https://dressipi.com/blog/new-phase-of-retail-evolution-bricks-and-mortar-retailers/) on the imminent evolution of brick and mortar retailers.
 
 
-## 2. “*Retailers Don’t Tell Customers What To Do Anymore - It’s Now The Other Way Round*”, Susanne Given, Outfittery
+## 2. “*Retailers Don’t Tell Customers What To Do Anymore - It’s Now The Other Way Round*” - Susanne Given, Outfittery
 
 Do people genuinely want to give up their data in exchange for a better experience? Well perhaps, if the customer feels like they have the control.
 
-As highlighted by Skip Fidura, Client Services Director, dotmailer on [Day 1], customers are inclined to ask the question, “*I give you my data. You give me…?*”. This marks what he calls a “*contextual revolution*”, whereby the customer is becoming all too aware of the value their data holds. Furthermore, they have a growing expectation of exchanging it for something truly valuable.
+As highlighted by Skip Fidura, Client Services Director, dotmailer on [Day 1](dressipi.com/blog/millennial-2020-europe-summit-day-1/), customers are inclined to ask the question, “*I give you my data. You give me…?*”. This marks what he calls a “*contextual revolution*”, whereby the customer is becoming all too aware of the value their data holds. Furthermore, they have a growing expectation of exchanging it for something truly valuable.
 
 On a panel titled: ‘Artificial Intelligence and Voice Technology Transforming Commerce’, Nick Wilsdon, SEO Lead, Vodafone Group commented, “*If we want virtual assistants we need to give out more data and get used to giving up lots of data*”. He is also of the opinion that, “*People are willing to give up their data for convenience*.” 
 
@@ -72,6 +72,6 @@ There are many ways retailers look to provide seamless experiences for their cus
 
 ## To conclude…
 
-Personalisation is still high on the agenda. Retailers are starting to realise they need to take immediate action by planning how to deliver true personalisation across every single touch point and every single device to avoid being left behind. 
+Personalisation is still high on the agenda. Retailers are starting to realise they need to take immediate action by planning [how to deliver true personalisation]( across every single touch point and every single device to avoid being left behind. 
 
 As put perfectly by Susanne Given, “*Retail is going through a seismic shift*”. More than ever before, innovation is paramount to improving customer experiences and getting ahead. It's the way retailers choose to deliver this to meet rising customer expectations, which will be a key indicator of success. 
