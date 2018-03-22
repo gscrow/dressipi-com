@@ -56,3 +56,4 @@ If they keep their finger on the pulse and use valuable data to not only leverag
 But don’t run the risk of being too intrusive when it comes to using data - as put perfectly by Henry Eccles, Head of eCommerce UK, Google, “*there’s a big difference between creepy and concierge*.”
 
 We also can’t forget the added bonus of Dressipi’s ‘Ones to Watch Award’ nomination. Although we missed out on the title, we were thrilled to be in the running for Best Innovation Commerce-Enabler / Best Retail Solution.
+
