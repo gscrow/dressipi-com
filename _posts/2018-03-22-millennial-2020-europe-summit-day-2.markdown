@@ -59,7 +59,7 @@ The opportunity to expand and develop what he calls “voice commerce” is very
 
 Brands need to get smarter about what to do with the potential goldmine of data that may become available to them, with George Goley, CTO, Sainsbury’s-Argos emphasising,“*What’s new is the depth to which we interact with customers - every time they are on their phone, walk into a store or connect with a beacon. There is therefore an enormous amount of data and the retailer wants to be able to express that data*.” 
 
-## 3. “Seamlessness” Is An Overused Word, But It’s Still Extremely Relevant 
+## 3. “Seamlessness” Is An Overused Word, But It’s Still Relevant 
 
 People continually speak about “seamlessness”, but what does it truly mean? Although used too frequently, it still holds great importance when broken down as follows:
 
