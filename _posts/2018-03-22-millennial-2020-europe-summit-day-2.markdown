@@ -24,7 +24,7 @@ Smart mirrors, robots and many other digital technologies are now emerging in-st
 
 I sometimes find it hard to find tangible examples of success when it comes to implementing “of the moment” tech, however Sean McKee, Director of eCommerce and Customer Experience, Schuh gave us an interesting case study. The high street shoe business has introduced the ability to take payment at point of sale. Not only has mobilising tills saved, “*100 seconds per transaction*” it has freed up much-needed space, such as in the Marble Arch branch where the kid’s section is now where the tills used to be.
 
-![image](/uploads/Panel_Day2.2jpg.jpg)
+![image](/uploads/Panel_Day2.2.2jpg.jpg)
 
 Given the increasing pressure retailers are facing to keep fresh and change, some may not fully understand the hesitance when it comes to introducing new technology. Sean McKee stressed that it’s a big investment which needs careful planning and execution. According to him, there are three key points to consider:
 
