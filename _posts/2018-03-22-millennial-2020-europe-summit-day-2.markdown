@@ -8,6 +8,8 @@ image: "/uploads/Panel_Day2.jpg"
 
 Julian Burnett formerly of House of Fraser set the tone for the day’s myriad of panels by stating, “*retailers are fundamentally physical things*”. What begs to be discussed is given this physicality, how can retailers adapt and evolve to meet the changing needs of their customers? 
 
+/uploads/Panel_Day2.2jpg.jpg
+
 Digital technology is moving at a rapid pace, and for retailers to be leaders in their industry they need to embrace these advancements and start using new emerging technology surrounding AI, machine learning and data analytics (to name a few buzzwords). “*One of the biggest assets in our industry is data*” highlighted Julian, adding “*We are entering the next period of retail revolution and data will be at the forefront of that*." 
 
 Highlights from a jam-packed Day 2 included:
