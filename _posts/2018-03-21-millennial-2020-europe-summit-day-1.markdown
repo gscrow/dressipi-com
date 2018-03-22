@@ -54,8 +54,8 @@ This certainly isn’t a new concept. In a [recent interview](https://www.glossy
 
 Speaking of brand authenticity, Jeyan Heper, CEO, Lifestyles, provided the audience with some interesting stats: 
 
-* 72% of consumers do not trust advertising
-* 92% of consumers trust friends and family more than advertising
+* **72% of consumers do not trust advertising**
+* **92% of consumers trust friends and family more than advertising**
 
 These are staggeringly high figures, but perhaps not unsurprising if you reflect on your own relationship to advertising.
 
