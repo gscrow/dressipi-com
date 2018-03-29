@@ -1,6 +1,10 @@
 ---
 title: Monthly Retail Round-Up - March 2018
 date: 2018-03-29 08:07:00 Z
+image: "/uploads/banner_march.JPG"
+author: Philippa Mew
+description: There’s no stopping retail. With lots of news to keep track of, Dressipi
+  brings you this month's best stories.
 ---
 
 Some of the best articles from the world of retail and its supporting industries.
@@ -60,4 +64,4 @@ Harvey Nichols is the first department store to join Farfetch with their product
 
 We hope you enjoyed the round-up. Please feel free to [get in touch](https://dressipi.com/contact/) with any stories you feel would be of interest. 
 
->Photo from [CNBC](https://www.cnbc.com/2018/02/21/queen-surprises-london-fashion-week-with-anna-wintour.html)
+>Photo of Zara AR app from [Evening Standard](https://www.standard.co.uk/fashion/zara-to-launch-an-augmented-reality-app-in-its-stores-a3789441.html)
