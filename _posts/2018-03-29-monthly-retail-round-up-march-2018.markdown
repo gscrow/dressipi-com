@@ -86,4 +86,4 @@ Harvey Nichols is the first department store to join Farfetch with their product
 
 We hope you enjoyed the round-up. Please feel free to [get in touch](https://dressipi.com/contact/) with any stories you feel would be of interest. 
 
->Photo of Zara AR app from [Evening Standard](https://www.standard.co.uk/fashion/zara-to-launch-an-augmented-reality-app-in-its-stores-a3789441.html)
+> Photo by Ashim D’Silva on Unsplash
