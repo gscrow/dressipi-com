@@ -1,6 +1,28 @@
 ---
 title: Monthly Retail Round-Up - March 2018
 date: 2018-03-29 08:07:00 Z
+categories:
+- news
+tags:
+- retail news
+- zara
+- AR
+- Augmented Reality
+- news
+- ASOS
+- Instagram Shopping
+- retail innovation
+- innovation
+- fashion technology
+- retail
+- how to create a personalised shopping experience
+- instore experience
+- self check out
+- zara self check out
+- instore technology
+- multichannel retail
+- Farfetch
+- future of retail
 image: "/uploads/banner_march.JPG"
 author: Philippa Mew
 description: There’s no stopping retail. With lots of news to keep track of, Dressipi
