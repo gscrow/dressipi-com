@@ -40,9 +40,9 @@ Some of the best articles from the world of retail and its supporting industries
 
 With Zara opening their online-only store in Westfield Stratford and [digital kiosks in January](https://dressipi.com/blog/zaras-self-service-check-out-highlights-a-stronger-focus-on-creating-better-in-store-customer-experiences/), Inditex continues to implement new technology to stride ahead of competitors. 
 
-Many retailers are looking to improve and accelerate their ‘click and collect’ services, and Zara’s latest technology move this month was to roll out in-store robots for buy online pickup in-store purchases. 
+Many retailers are looking to improve and accelerate their ‘click and collect’ services, and Zara’s latest move this month was to roll out in-store robots for buy online pickup in-store purchases. 
 
-As reported by [Retail Dive],(https://www.retaildive.com/news/zara-aims-to-automate-pickup-with-in-store-robots/518564/) “*The service automates the pickup process by prompting customers at pickup stations to enter a code that activates an in-store warehouse robot to begin searching for the requested order. The robot then delivers it to a dropbox.*”
+As reported by [Retail Dive](https://www.retaildive.com/news/zara-aims-to-automate-pickup-with-in-store-robots/518564/), “*The service automates the pickup process by prompting customers at pickup stations to enter a code that activates an in-store warehouse robot to begin searching for the requested order. The robot then delivers it to a dropbox.*”
 
 Zara also announced they will introduce a mobile augmented reality app to be used on their displays in stores from April. [Reuters](https://www.reuters.com/article/us-inditex-zara-technology/zara-to-lure-millennials-with-augmented-reality-displays-idUSKCN1GP2TC) reported that this technology:
 
