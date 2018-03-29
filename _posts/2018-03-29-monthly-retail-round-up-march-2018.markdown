@@ -23,7 +23,7 @@ tags:
 - multichannel retail
 - Farfetch
 - future of retail
-image: "/uploads/banner_march.JPG"
+image: "/uploads/banner_march2.JPG"
 author: Philippa Mew
 description: There’s no stopping retail. With lots of news to keep track of, Dressipi
   brings you this month's best stories.
