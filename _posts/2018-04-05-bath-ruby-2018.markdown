@@ -3,7 +3,7 @@ title: Bath Ruby 2018
 date: 2018-04-05 11:26:00 Z
 ---
 
-Fred Cheung, Dressipi's CTO shares his top highlights.
+Fred Cheung, Dressipi's CTO shares his highlights.
 
 # Bath Ruby 2018
 
