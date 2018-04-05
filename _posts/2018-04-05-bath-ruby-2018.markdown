@@ -3,3 +3,27 @@ title: Bath Ruby 2018
 date: 2018-04-05 11:26:00 Z
 ---
 
+Fred Cheung, Dressipi's CTO shares his top highlights.
+
+# Bath Ruby 2018
+
+## At Dressipi we know it's important to be up to speed on developments not only in the fashion and retail world but also the tech world.
+
+They are both fast moving and ever changing, so whether it’s [Code First: Girls Conference](https://dressipi.com/blog/code-first-girls-conference-2017/) or [Millennial 2020 Europe Summit](https://dressipi.com/blog/millennial-2020-europe-summit-day-1/), we like to be right where the action happens.
+
+Two weeks ago I travelled to Bath Ruby with my colleague Paul Woestelandt, one of Dressipi's Web Developers. A conference for Rubyists of all skill levels, we were joined by a fantastic lineup of speakers, giving both technical and non-technical talks on a range of subjects.
+
+We hoped for two days of interesting, inspiring and relevant talks about Ruby and its ecosystem. Simon Starr, the conference’s Producer delivered (again) on all three counts, with one of the most balanced conference schedules I have ever seen. There really was something for everyone, from the Ruby neophyte to seasoned engineers.
+
+It would be hard to talk about conference highlights without mentioning Yukihiro Matsumoto’s (Matz’s) talk. He gave insights into the reasons that led him to create Ruby, one of them being to increase programmer happiness. He also talked about some of the exciting parts of the Ruby 3x3 initiative (Ruby 3 should be 3 x faster) such as the new JIT, guilds & static type analysis. It was great to hear the vision behind Ruby from the horse's mouth, and there were lots of fun little historical tidbits too, such as his first programming language being a variant of basic where all variables were global and could only be one letter long.
+
+A particular highlight for me was Andy Croll's talk, "The impermanence of software". Creator of One Ruby Thing and organiser of Brighton Ruby, Andy gave us a sobering reminder that most "once in a lifetime" opportunities fail, with very little to show for it at the end. For example, when a startup fails, the software you toiled over during nights and weekends usually disappears without a trace.
+
+Andrew Nesbitt, Founder of Libraries.io and Co-host of The Manifest picked up where he left off at Brighton Ruby last year, unweaving the web of dependencies to find the surprisingly small number of people many Rubyists depend on (usually on a daily basis). His suggestion is that what we as users have most to contribute is how we are actually using their code and in what environments (for example what platforms is a gem installed on, which portions are actually used etc.) This was a great mixture of interesting and fun, finished with a brilliant final flourish when he revealed that he’d been surreptitiously collecting this exact data on one of his npm modules (with over 400k downloads).
+
+Lastly, no roundup would be complete without a tip of the hat to Yusuke Endoh's talk (a Ruby core team member) - a series of mind-bending hacks, quines and the most insane fizzbuzz solution I have ever seen.
+
+At the start of the second day, Kerri Miller asked "Is Ruby Died?", a thoughtful look back on how "real" languages evolve and borrow over hundreds or thousands of years and the parallels we can draw with programming languages. From the energy and excitement of Bath Ruby, I think it's fair to say that the answer to her question is a resounding No! Ruby is definitely here to stay.
+
+For more information on Bath Ruby, follow [this link](https://2018.bathruby.uk/).
+
