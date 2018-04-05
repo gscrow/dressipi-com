@@ -38,5 +38,5 @@ Lastly, no roundup would be complete without a tip of the hat to Yusuke Endoh's 
 
 At the start of the second day, Kerri Miller asked "Is Ruby Died?", a thoughtful look back on how "real" languages evolve and borrow over hundreds or thousands of years and the parallels we can draw with programming languages. From the energy and excitement of Bath Ruby, I think it's fair to say that the answer to her question is a resounding No! Ruby is definitely here to stay.
 
-For more information on Bath Ruby, follow [this link](https://2018.bathruby.uk/).
+> For more information on Bath Ruby, follow [this link](https://2018.bathruby.uk/).
 
