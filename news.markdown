@@ -32,6 +32,8 @@ sections:
   subtitle: 
   handle: awards
   awards:
+  - image: "/uploads/Computing_award.JPG"
+    title: Mobile Project of the Year - Finalist
   - image: "/uploads/award__millenial.png"
     title: Best Innovation Commerce-Enabler / Best Retail Solution - Finalist
   - image: "/uploads/RW_AWARDS_LOGO_FINALIST_Small-92d0cf.png"
