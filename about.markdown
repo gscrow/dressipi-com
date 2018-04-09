@@ -86,10 +86,6 @@ sections:
     title: Machine Learning Developer
     linkedin: http://soliton.vm.bytemark.co.uk/pub/jjg/en
     image: "/uploads/jj.-green.jpg"
-  - name: Yi Sheng Chan
-    title: Machine Learning Developer
-    linkedin: https://www.linkedin.com/in/chanyisheng/
-    image: "/uploads/yi-sheng-chan.jpg"
   - name: Jiazhen Xie
     title: Software Engineer
     linkedin: https://www.linkedin.com/in/jiazhen-xie-25663763/?ppe=1
