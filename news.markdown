@@ -32,7 +32,7 @@ sections:
   subtitle: 
   handle: awards
   awards:
-  - image: "/uploads/Computing_award.JPG"
+  - image: "/uploads/computing.png"
     title: Mobile Project of the Year - Finalist
   - image: "/uploads/award__millenial.png"
     title: Best Innovation Commerce-Enabler / Best Retail Solution - Finalist
