@@ -120,7 +120,7 @@ sections:
   - name: Georgina Fisher
     title: 'Sales & Marketing Associate '
     linkedin: https://www.linkedin.com/in/georgina-fisher-408689151/
-    image: "/uploads/Georgina%20Fisher%20-%20Sales%20&%20Marketing%20Associate.png"
+    image: "/uploads/Georgina%20Fisher%20-%20Sales%20&%20Marketing%20Associate.jpg"
   - name: Paul Woestelandt
     title: Web Developer
     linkedin: https://www.linkedin.com/in/pwoestelandt
