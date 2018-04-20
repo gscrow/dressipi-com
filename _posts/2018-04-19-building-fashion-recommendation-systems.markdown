@@ -23,7 +23,7 @@ description: In an environment where customer is king, retailers are prioritisin
 download: Five Things Every Retailer Should Know About Personalisation
 ---
 
-In an environment where customer is king, retailers are prioritising creating delightful and efficient personalised shopping experiences. Nick Landia, Dressipi's Chief Data Scientist explores how highly intelligent and effective fashion recommender systems will be at the heart of this and the challenges involved.
+Nick Landia, Dressipi's Chief Data Scientist explores the challenges of building intelligent and effective fashion recommendation systems to create highly personalised shopping experiences.
 
 # Building Recommender Systems for Fashion
 
