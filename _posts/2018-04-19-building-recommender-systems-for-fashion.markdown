@@ -35,8 +35,8 @@ Fashion is an extremely dynamic and ever-changing industry, with challenges exis
 
 
 > **1. Short Lifetime of Items**
-> Garments only exist to be sold for a very short period of time. This is different to other verticals such as films or music which can always be purchased fairly easily for a very long time. The result is that in fashion each individual item only has a short period in which to collect data about it, meaning the domain ends up very sparse, even more so that in traditional recommender system domains. 
-> Moreover, we cannot wait to collect a large/sufficient amount of data on an item in order to recommend it confidently, so have to use novel approaches to make predictions at the start of an item’s lifetime. 
+Garments only exist to be sold for a very short period of time. This is different to other verticals such as films or music which can always be purchased fairly easily for a very long time. The result is that in fashion each individual item only has a short period in which to collect data about it, meaning the domain ends up very sparse, even more so that in traditional recommender system domains. 
+Moreover, we cannot wait to collect a large/sufficient amount of data on an item in order to recommend it confidently, so have to use novel approaches to make predictions at the start of an item’s lifetime. 
 
 **2. High Volume of Items**
 
