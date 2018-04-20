@@ -29,7 +29,7 @@ Nick Landia, Dressipi's Chief Data Scientist explores the challenges of building
 
 Businesses such as Spotify and Netflix have been trailblazers in the recommender systems world. More than 80% of the TV shows people watch on Netflix are discovered through the platform’s recommendation system ([Wired](http://www.wired.co.uk/article/how-do-netflixs-algorithms-work-machine-learning-helps-to-predict-what-viewers-will-like)) and Discover Weekly playlists boasted 40 million unique users just a year after it launched in July 2015 ([TechCrunch](https://techcrunch.com/2016/05/25/playlists-not-blogs/)).
 
-In contrast, the fashion industry has been relatively slow on the uptake when it comes to robust recommender systems, but for good reason.
+In contrast, the fashion industry has been relatively slow on the uptake when it comes to robust recommendation systems, but for good reason.
 
 ## What are the Challenges?
 
