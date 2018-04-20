@@ -1,6 +1,19 @@
 ---
 title: Building Recommender Systems for Fashion
 date: 2018-04-19 14:24:00 Z
+categories:
+- data
+tags:
+- data science
+- data
+- recommender systems
+- fashion technology
+- fashion personalisation
+- technology
+- retail technology
+- retail innovation
+- one to one personalisation
+- true personalisation
 image: "/uploads/Screen%20Shot%202018-04-19%20at%2015.28.31.png"
 author: Nick Landia
 download: Five Things Every Retailer Should Know About Personalisation
