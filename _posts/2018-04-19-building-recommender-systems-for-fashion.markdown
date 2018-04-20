@@ -1,5 +1,5 @@
 ---
-title: Building Recommender Systems for Fashion
+title: Building Fashion Recommendation Systems
 date: 2018-04-19 14:24:00 Z
 categories:
 - data
