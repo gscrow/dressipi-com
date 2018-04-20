@@ -46,6 +46,7 @@ How well do retailers really know their customers? People shop across multiple r
 
 ### Customer Related Challenges
 
+
 **1. Customer Preferences Can Be Fickle and Change Rapidly**
 
 Tastes change over time. As trends come and go, so do people’s clothing preferences - I might hate florals, but suddenly they are in fashion so I’ll actively search for a floral shirt. Lifestyles also change, which can greatly influence a customer’s purchase decisions (for example, we might put on weight, have children or change careers). 
