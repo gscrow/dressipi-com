@@ -16,10 +16,9 @@ tags:
 - true personalisation
 image: "/uploads/Screen%20Shot%202018-04-19%20at%2015.28.31.png"
 author: Nick Landia
-description: In an environment where customer is king, retailers are prioritising
-  creating delightful and efficient personalised shopping experiences. Nick Landia,
-  Dressipi's Chief Data Scientist explores how highly intelligent and effective fashion
-  recommender systems will be at the heart of this.
+description: Nick Landia, Dressipi's Chief Data Scientist explores the challenges
+  of building intelligent and effective fashion recommendation systems to create highly
+  personalised shopping experiences.
 download: Five Things Every Retailer Should Know About Personalisation
 ---
 
