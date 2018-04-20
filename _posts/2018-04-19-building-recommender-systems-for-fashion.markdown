@@ -34,7 +34,7 @@ Fashion is an extremely dynamic and ever-changing industry, with challenges exis
 ### Retailer Related Challenges
 
 
-**1. Short Lifetime of Items**
+> **1. Short Lifetime of Items**
 
 Garments only exist to be sold for a very short period of time. This is different to other verticals such as films or music which can always be purchased fairly easily for a very long time. The result is that in fashion each individual item only has a short period in which to collect data about it, meaning the domain ends up very sparse, even more so that in traditional recommender system domains. 
 
@@ -51,7 +51,7 @@ How well do retailers really know their customers? People shop across multiple r
 ### Customer Related Challenges
 
 
-**1. Customer Preferences Can Be Fickle and Change Rapidly**
+> **1. Customer Preferences Can Be Fickle and Change Rapidly**
 
 Tastes change over time. As trends come and go, so do people’s clothing preferences - I might hate florals, but suddenly they are in fashion so I’ll actively search for a floral shirt. Lifestyles also change, which can greatly influence a customer’s purchase decisions (for example, we might put on weight, have children or change careers). 
 
@@ -72,7 +72,7 @@ Furthermore, as established above, garments and customer preferences change over
 
 At Dressipi we established that:
 
-**1. Customers are looking for guidance and validation of their fashion choices** 
+> **1. Customers are looking for guidance and validation of their fashion choices** 
 
 Customers might not know what fits them best or be seeking guidance on what items of clothing will suit them. For some, clothing that suits their body shape is important, whereas for others, they are simply looking to get to the best pair of black jeans as quickly as possible. 
 
