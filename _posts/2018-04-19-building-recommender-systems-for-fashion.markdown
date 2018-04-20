@@ -29,7 +29,7 @@ Fashion is an extremely dynamic and ever-changing industry, with challenges exis
 
 ### Retailer Related Challenges
 
-1.**Short Lifetime of Items**
+**1. Short Lifetime of Items**
 
 Garments only exist to be sold for a very short period of time. This is different to other verticals such as films or music which can always be purchased fairly easily for a very long time. The result is that in fashion each individual item only has a short period in which to collect data about it, meaning the domain ends up very sparse, even more so that in traditional recommender system domains. 
 
