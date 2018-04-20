@@ -96,4 +96,4 @@ Customers are increasingly demanding and expecting highly personalised and curat
 
 In an environment where customer is king, retailers are prioritising creating delightful and efficient [personalised shopping experiences](https://dressipi.com/solutions/customer-experience/) both online and in store. This piece highlights that highly intelligent and effective fashion recommendation systems will be at the heart of this. Although complex to create (due to the multiple challenges posed by both the retailer and the customer), when integrated fully it becomes a essential tool, translating into multiple business benefits and an improved customer experience.
 
-> Photo by rawpixel.com on Unsplash
+> Banner photo by rawpixel.com on Unsplash
