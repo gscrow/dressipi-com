@@ -23,11 +23,12 @@ Businesses such as Spotify and Netflix have been trailblazers in the recommender
 
 In contrast, the fashion industry has been relatively slow on the uptake when it comes to robust recommender systems, but for good reason.
 
-## What are the Challenges?
+# ## What are the Challenges?
 
 Fashion is an extremely dynamic and ever-changing industry, with challenges existing on both the retailer’s and the customer's side:
 
 ### Retailer Related Challenges
+
 
 **1. Short Lifetime of Items**
 
@@ -35,25 +36,25 @@ Garments only exist to be sold for a very short period of time. This is differen
 
 Moreover, we cannot wait to collect a large/sufficient amount of data on an item in order to recommend it confidently, so have to use novel approaches to make predictions at the start of an item’s lifetime. 
 
-2.**High Volume of Items**
+**2. High Volume of Items**
 
 Large retailers release new garments daily, meaning there is a constant high turnover of products. For example, fast fashion retailer Zara delivers new products to its stores every two weeks ([Forbes](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/deborahweinswig/2017/08/28/retailers-should-think-like-zara-what-we-learned-at-the-august-magic-trade-show/&refURL=&referrer=#17bc3ac73e52)). Not only does this create problems around understanding product availability, but also ensuring that the recommender system is sophisticated enough to capture data on the garments on an ongoing basis.
 
-3.**Data Sparsity**
+**3. Data Sparsity**
 
 How well do retailers really know their customers? People shop across multiple retailers and channels. A customer might buy their jeans from one retailer and then go to another to buy a top. Each retailer only has a very limited view on their customer’s full preference profile and overall spend on clothing.
 
 ### Customer Related Challenges
 
-1.**Customer Preferences Can Be Fickle and Change Rapidly**
+**1. Customer Preferences Can Be Fickle and Change Rapidly**
 
 Tastes change over time. As trends come and go, so do people’s clothing preferences - I might hate florals, but suddenly they are in fashion so I’ll actively search for a floral shirt. Lifestyles also change, which can greatly influence a customer’s purchase decisions (for example, we might put on weight, have children or change careers). 
 
-2.**Seasonality**
+**2. Seasonality**
 
 What people buy in the Winter varies drastically to what people buy in the Summer, which means the recommender system needs to be aware of how people’s dressing and spending habits change at different times of the year. At the start of Summer, the last available data about summer clothes for a particular customer is almost a year old, so it can be challenging to successfully use that data and figure out if the customer’s taste has changed in the meantime.
 
-3.**Everyone Is Different!**
+**3. Everyone Is Different!**
 
 This may seem obvious, and is applicable to other industries, but what I like varies drastically to what my friend likes. I may be very trend led so want to see the latest trend items, whereas my friend likes the classics so just wants to see basic, functional items. This means that a one size fits all solution simply won’t work, and neither will generic customer segmentation methods based on clicks etc that don’t have a very deep view of the customer.
 
@@ -66,15 +67,15 @@ Furthermore, as established above, garments and customer preferences change over
 
 At Dressipi we established that:
 
-1.**Customers are looking for guidance and validation of their fashion choices** 
+**1. Customers are looking for guidance and validation of their fashion choices** 
 
 Customers might not know what fits them best or be seeking guidance on what items of clothing will suit them. For some, clothing that suits their body shape is important, whereas for others, they are simply looking to get to the best pair of black jeans as quickly as possible. 
 
-2.**There are objective fashion do’s and don'ts that professional stylists know about but customers might not**
+**2. There are objective fashion do’s and don'ts that professional stylists know about but customers might not**
 
 This is where the importance of fashion expertise comes in. At Dressipi we have a team of stylists who work alongside our tech team to ensure the nuances surrounding fashion are captured in our algorithms. Natalie Theo, Dressipi’s Style Director wrote about the important combination of fashion intuition and data in her [latest blog post](https://dressipi.com/blog/fashion-plus-data-equals-a-match-made-in-personalisation-heaven/). 
 
-3.**Trends and popular culture events influence user preference and public perception quickly and sometimes drastically**
+**3. Trends and popular culture events influence user preference and public perception quickly and sometimes drastically**
 
 It may be that red and pink are historically a no-go combination. If all of a sudden the catwalk dictates that pink and red styled together is a top trend for SS18, the recommender system needs to understand that so that outfits are styled appropriately (but perhaps only shown to people who have high fashion confidence).
 
