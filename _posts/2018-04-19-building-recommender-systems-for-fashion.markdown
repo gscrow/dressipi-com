@@ -1,6 +1,8 @@
 ---
 title: Building Recommender Systems for Fashion
 date: 2018-04-19 14:24:00 Z
+author: Nick Landia
+download: Five Things Every Retailer Should Know About Personalisation
 ---
 
 Businesses such as Spotify and Netflix have been trailblazers in the recommender systems world. More than 80% of the TV shows people watch on Netflix are discovered through the platform’s recommendation system ([Wired](http://www.wired.co.uk/article/how-do-netflixs-algorithms-work-machine-learning-helps-to-predict-what-viewers-will-like)) and Discover Weekly playlists boasted 40 million unique users just a year after it launched in July 2015 ([TechCrunch](https://techcrunch.com/2016/05/25/playlists-not-blogs/)).
