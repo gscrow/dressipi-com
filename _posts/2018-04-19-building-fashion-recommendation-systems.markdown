@@ -39,14 +39,13 @@ Fashion is an extremely dynamic and ever-changing industry, with challenges exis
 
 
 > **1. Short Lifetime of Items** -
-Garments only exist to be sold for a very short period of time. This is different to other verticals such as films or music which can always be purchased fairly easily for a very long time. The result is that in fashion each individual item only has a short period in which to collect data about it, meaning the domain ends up very sparse, even more so that in traditional recommender system domains. 
-Moreover, we cannot wait to collect a large/sufficient amount of data on an item in order to recommend it confidently, so have to use novel approaches to make predictions at the start of an item’s lifetime. 
+Garments only exist to be sold for a very short period of time. This is different to other verticals such as films or music which can always be purchased fairly easily for a very long time. The result is that in fashion each individual item only has a short period in which to collect data about it, meaning the domain ends up very sparse, even more so that in traditional recommendation system domains. 
 
 > **2. High Volume of Items** -
-Large retailers release new garments daily, meaning there is a constant high turnover of products. For example, fast fashion retailer Zara delivers new products to its stores every two weeks ([Forbes](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/deborahweinswig/2017/08/28/retailers-should-think-like-zara-what-we-learned-at-the-august-magic-trade-show/&refURL=&referrer=#17bc3ac73e52)). Not only does this create problems around understanding product availability, but also ensuring that the recommender system is sophisticated enough to capture data on the garments on an ongoing basis.
+Large retailers release new garments daily, meaning there is a constant high turnover of products. For example, fast fashion retailer Zara delivers new products to its stores every two weeks ([Forbes](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/deborahweinswig/2017/08/28/retailers-should-think-like-zara-what-we-learned-at-the-august-magic-trade-show/&refURL=&referrer=#17bc3ac73e52)). Not only does this create problems around understanding product availability, but also ensuring that the recommendation system is sophisticated enough to capture data on the garments on an ongoing basis.
 
 > **3. Data Sparsity** -
-How well do retailers really know their customers? People shop across multiple retailers and channels. A customer might buy their jeans from one retailer and then go to another to buy a top. Each retailer only has a very limited view on their customer’s full preference profile and overall spend on clothing.
+How well do retailers *really* know their customers? People shop across multiple retailers and channels. A customer might buy their jeans from one retailer and then go to another to buy a top. Each retailer has a very limited view on their customer’s full preference profile and overall spend on clothing.
 
 ### Customer Related Challenges
 
