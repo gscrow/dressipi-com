@@ -23,7 +23,7 @@ description: In an environment where customer is king, retailers are prioritisin
 download: Five Things Every Retailer Should Know About Personalisation
 ---
 
-In an environment where customer is king, retailers are prioritising creating delightful and efficient personalised shopping experiences. Nick Landia, Dressipi's Chief Data Scientist explores how highly intelligent and effective fashion recommender systems will be at the heart of this.
+In an environment where customer is king, retailers are prioritising creating delightful and efficient personalised shopping experiences. Nick Landia, Dressipi's Chief Data Scientist explores how highly intelligent and effective fashion recommender systems will be at the heart of this and the challenges involved.
 
 # Building Recommender Systems for Fashion
 
@@ -31,7 +31,7 @@ Businesses such as Spotify and Netflix have been trailblazers in the recommender
 
 In contrast, the fashion industry has been relatively slow on the uptake when it comes to robust recommender systems, but for good reason.
 
-# What are the Challenges?
+## What are the Challenges?
 
 Fashion is an extremely dynamic and ever-changing industry, with challenges existing on both the retailer’s and the customer's side:
 
@@ -61,7 +61,7 @@ What people buy in the Winter varies drastically to what people buy in the Summe
 This may seem obvious, and is applicable to other industries, but what I like varies drastically to what my friend likes. I may be very trend led so want to see the latest trend items, whereas my friend likes the classics so just wants to see basic, functional items. This means that a one size fits all solution simply won’t work, and neither will generic customer segmentation methods based on clicks etc that don’t have a very deep view of the customer.
 
 
-# Building a Fashion Recommender System
+## Building a Fashion Recommender System
 
 Unlike other domains, fashion recommendations should not be purely based on the customer’s personal taste and past activity. There are many external factors (many of which are emotional) that make building a fashion recommender system all the more complex. Public perceptions must be taken into account, as well as fashion rules, outfit guidelines and current trends.
 
@@ -92,7 +92,7 @@ Many companies providing recommendations in this space have realised that the cu
 
 This information, alongside our garment tagging technology (each garment is tagged with a series of data points), allows the recommender system to give high-quality recommendation features such as style advice, outfits, and [product recommendations on a truly one-to-one level](https://dressipi.com/one-to-one-personalisation/), enhancing the customer’s shopping experience based on their intent.
 
-# In Summary
+## In Summary
 
 Customers are increasingly demanding and expecting highly personalised and curated shopping experiences, which not only benefit the customer, but also the retailer. According to [Forbes](https://www.forbes.com/sites/shephyken/2017/10/29/personalized-customer-experience-increases-revenue-and-loyalty/#663517f94bd6), personalisation leads to increased revenue, fewer returns and increased loyalty, and we see this already with the retailers that we partner with, delivering a 5% percentage point reduction in returns (you can read a whitepaper by our co-founder Sarah McVittie on making data work harder to reduce garment return rates [here](https://dressipi.com/downloads/how-to-make-your-data-work-harder-to-reduce-garment-return-rates-whitepaper/)).
 
