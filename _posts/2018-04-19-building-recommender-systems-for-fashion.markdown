@@ -65,13 +65,16 @@ Furthermore, as established above, garments and customer preferences change over
 
 At Dressipi we established that:
 
-> **1. Customers are looking for guidance and validation of their fashion choices**  -
+**1. Customers are looking for guidance and validation of their fashion choices**
+
 Customers might not know what fits them best or be seeking guidance on what items of clothing will suit them. For some, clothing that suits their body shape is important, whereas for others, they are simply looking to get to the best pair of black jeans as quickly as possible. 
 
-> **2. There are objective fashion do’s and don'ts that professional stylists know about but customers might not** -
+**2. There are objective fashion do’s and don'ts that professional stylists know about but customers might not**
+
 This is where the importance of fashion expertise comes in. At Dressipi we have a team of stylists who work alongside our tech team to ensure the nuances surrounding fashion are captured in our algorithms. Natalie Theo, Dressipi’s Style Director wrote about the important combination of fashion intuition and data in her [latest blog post](https://dressipi.com/blog/fashion-plus-data-equals-a-match-made-in-personalisation-heaven/). 
 
-> **3. Trends and popular culture events influence user preference and public perception quickly and sometimes drastically** -
+**3. Trends and popular culture events influence user preference and public perception quickly and sometimes drastically**
+
 It may be that red and pink are historically a no-go combination. If all of a sudden the catwalk dictates that pink and red styled together is a top trend for SS18, the recommender system needs to understand that so that outfits are styled appropriately (but perhaps only shown to people who have high fashion confidence).
 
 
