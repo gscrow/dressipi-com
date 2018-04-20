@@ -54,7 +54,7 @@ How well do retailers *really* know their customers? People shop across multiple
 Tastes change over time. As trends come and go, so do people’s clothing preferences - I might hate florals, but suddenly they are in fashion so I’ll actively search for a floral shirt. Lifestyles also change, which can greatly influence a customer’s purchase decisions (for example, we might put on weight, have children or change careers). 
 
 > **2. Seasonality** -
-What people buy in the Winter varies drastically to what people buy in the Summer, which means the recommender system needs to be aware of how people’s dressing and spending habits change at different times of the year. At the start of Summer, the last available data about summer clothes for a particular customer is almost a year old, so it can be challenging to successfully use that data and figure out if the customer’s taste has changed in the meantime.
+What people buy in the Winter varies drastically to what people buy in the Summer, which means the recommendation system needs to be aware of how people’s dressing and spending habits change at different times of the year. At the start of Summer, the last available data about summer clothes for a particular customer is almost a year old, so it can be challenging to successfully use that data and figure out if the customer’s taste has changed in the meantime.
 
 > **3. Everyone Is Different!** -
 This may seem obvious, and is applicable to other industries, but what I like varies drastically to what my friend likes. I may be very trend led so want to see the latest trend items, whereas my friend likes the classics so just wants to see basic, functional items. This means that a one size fits all solution simply won’t work, and neither will generic customer segmentation methods based on clicks etc that don’t have a very deep view of the customer.
@@ -70,7 +70,7 @@ At Dressipi we established that:
 
 **1. Customers are looking for guidance and validation of their fashion choices**
 
-Customers might not know what fits them best or be seeking guidance on what items of clothing will suit them. For some, clothing that suits their body shape is important, whereas for others, they are simply looking to get to the best pair of black jeans as quickly as possible. 
+Customers might not know what fits them best or be seeking guidance on what items of clothing suit them. For some, clothing that suits their body shape is important, whereas for others, they are simply looking to get to the best pair of black jeans as quickly as possible. 
 
 **2. There are objective fashion do’s and don'ts that professional stylists know about but customers might not**
 
@@ -78,7 +78,7 @@ This is where the importance of fashion expertise comes in. At Dressipi we have 
 
 **3. Trends and popular culture events influence user preference and public perception quickly and sometimes drastically**
 
-It may be that red and pink are historically a no-go combination. If all of a sudden the catwalk dictates that pink and red styled together is a top trend for SS18, the recommender system needs to understand that so that outfits are styled appropriately (but perhaps only shown to people who have high fashion confidence).
+It may be that red and pink are historically a no-go combination. If all of a sudden the catwalk dictates that pink and red styled together is a top trend for SS18, the recommendation system needs to understand that so outfits are styled appropriately (but perhaps only shown to people who have high fashion confidence).
 
 
 Many companies providing recommendations in this space have realised that the customer-item interaction data alone can only get you so far. We’ve come to understand over time that you can’t blindly trust historical interaction data. That’s why at Dressipi, we gather additional information about customers by asking them to create a profile where they give us information such as:
@@ -89,7 +89,7 @@ Many companies providing recommendations in this space have realised that the cu
 - Lifestyle
 - Attitudes to Fashion
 
-This information, alongside our garment tagging technology (each garment is tagged with a series of data points), allows the recommender system to give high-quality recommendation features such as style advice, outfits, and [product recommendations on a truly one-to-one level](https://dressipi.com/one-to-one-personalisation/), enhancing the customer’s shopping experience based on their intent.
+This information, alongside our garment tagging technology (each garment is tagged with a series of data points), allows the recommendation system to give high-quality recommendation features such as style advice, outfits, and [product recommendations on a truly one-to-one level](https://dressipi.com/one-to-one-personalisation/), enhancing the customer’s shopping experience based on their intent.
 
 ## In Summary
 
