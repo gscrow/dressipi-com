@@ -32,7 +32,7 @@ sections:
   subtitle: 
   handle: awards
   awards:
-  - image: "/uploads/rs_awards_Shortlisted_2018_outlines.jpg"
+  - image: "/uploads/rs_awards_Shortlisted_2018_outlines%20(1).jpg"
     title: 'In-Store Innovation of the Year (and others) - Finalist  '
   - image: "/uploads/computing.png"
     title: Mobile Project of the Year - Finalist
