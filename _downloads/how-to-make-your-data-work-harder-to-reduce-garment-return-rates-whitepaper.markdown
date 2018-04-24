@@ -7,7 +7,7 @@ resource: Whitepapers
 image: "/uploads/returns_small.jpg"
 form:
   title: Download Free Whitepaper
-  checkbox: I agree to receive marketing materials by email and a phone consultation.
+  checkbox: I agree to receive marketing materials by email.
   button: Download Whitepaper
   file: "/uploads/Whitepaper-How-To-Make-Your-Data-Work-Harder-To-Reduce-Garment-Return-Rates.pdf"
   button_class: whitepaper
