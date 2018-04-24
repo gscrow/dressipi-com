@@ -5,6 +5,7 @@ resource: Whitepapers
 image: "/uploads/Biggest_Asset_Whitepaper_small.jpg"
 form:
   title: Download Free Whitepaper
+  checkbox: I agree to receive marketing materials by email and a phone consultation.
   button: Download Whitepaper
   file: "/uploads/Whitepaper-How-Dressipi-Can-Help-Retailers-Transform-Their-Biggest-Asset-913ff1.pdf"
   button_class: whitepaper
