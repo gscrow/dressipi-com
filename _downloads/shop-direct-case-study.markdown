@@ -5,7 +5,7 @@ resource: Case Studies
 image: "/uploads/sdg_withlogo_small.PNG"
 form:
   title: Download Free Case Study
-  checkbox: I agree to receive marketing materials by email. 
+  checkbox: I agree to receive marketing materials by email.
   button: Download Case Study
   file: "/uploads/Dressipi-Case-Study-Personalising-the-Entire-Customer-Experience-for-Shop-Direct.pdf"
   button_class: case-study
