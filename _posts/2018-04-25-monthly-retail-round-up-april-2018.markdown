@@ -57,4 +57,4 @@ Collaboration between designers and high street brands can work well as it offer
 
 ### We hope you enjoyed the round-up. Please feel free to get in touch with any stories you feel would be of interest. 
 
-> Photo by X on Unsplash
+> Banner Photo by Hannah Morgan on Unsplash
