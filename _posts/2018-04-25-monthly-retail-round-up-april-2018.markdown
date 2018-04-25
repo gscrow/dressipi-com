@@ -1,6 +1,7 @@
 ---
 title: Monthly Retail Round-Up - April 2018
 date: 2018-04-25 14:27:00 Z
+image: "/uploads/image%20(8).png"
 author: Georgina Fisher
 description: With lots of news to keep track of, Dressipi brings you this month's
   best stories from the world of retail and its supporting industries.
