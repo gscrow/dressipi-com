@@ -1,6 +1,7 @@
 ---
 title: Monthly Retail Round-Up - April 2018
 date: 2018-04-25 14:27:00 Z
+author: Georgina Fisher
 ---
 
 Some of the best articles from the world of retail and its supporting industries.
@@ -15,7 +16,7 @@ Some of the best articles from the world of retail and its supporting industries
 
 Furthermore, Rachael Stott from Future Laboratory stated, “*Technologies such as in-store face-tracking AI can be used to provide a hyper-personalised service based on metrics such as previous purchases, style preferences and even someone’s current mood.*”
 
-There are many retailers currently using AI, including Farfetch, who are encouraging customers to use their smartphones in-store to create wish lists and to let shop assistants know how chatty they are feeling. Other examples include Tommy Hilfiger’s partnership with IBM and the Fashion Institute of Technology to identify upcoming trends, and Adidas’ Speedfactory which creates different trainers for 5 other cities based on the specific demands of that city. 
+There are many retailers currently using AI, including Farfetch, who are encouraging customers to use their smartphones in-store to create wish lists and to let shop assistants know how chatty they are feeling. Other examples include Tommy Hilfiger’s partnership with IBM and the Fashion Institute of Technology to identify upcoming trends, and Adidas’ Speedfactory which creates different trainers for London and 5 other cities based on the specific demands of that city. 
 
 You can read the full report [here](http://ll1.workcast.net/10573/8311124275420960/Documents/Drapers%20Report%C2%A0%E2%80%93%20Artificial%20Intelligence.pdf).
 
@@ -47,9 +48,9 @@ Luxury e-commerce is growing fast and other luxury brands are using this idea of
 
 ### 4) H&M Collaboration with Moschino
 
-Since H&M’s first designer collaboration with Karl Lagerfeld in 2004, it has seen many other successful collaborations with Stella McCartney and Versace. 
+Since H&M’s first designer collaboration with Karl Lagerfeld in 2004, the brand has seen many other successful collaborations with Stella McCartney and Versace. 
 
-The Swedish high street chain’s most recent announcement is a collaboration with Italian fashion brand Moschino. A collection of Womenswear and Menswear is due to be released in November 2018 and expected to be extremely popular just as H&M’s previous collaborations were. Reported in Vogue, Jeremy Scott, Creative Director, Moschino announced, "I am so excited about Moschino [tv] H&M, my life’s work has been to connect with people through fashion, and with this collaboration I’ll be able to reach more of my fans than I’ve ever had the ability to do." 
+The Swedish high street chain’s most recent announcement is a collaboration with Italian fashion brand Moschino. A collection of Womenswear and Menswear is due to be released in November 2018 and expected to be extremely popular just as H&M’s previous collaborations were. Reported in Vogue, Jeremy Scott, Creative Director, Moschino announced, "*I am so excited about Moschino [tv] H&M, my life’s work has been to connect with people through fashion, and with this collaboration I’ll be able to reach more of my fans than I’ve ever had the ability to do.*" 
 
 Collaboration between designers and high street brands can work well as it offers the designer a larger, usually younger customer base, and therefore many potential future clients.
 
