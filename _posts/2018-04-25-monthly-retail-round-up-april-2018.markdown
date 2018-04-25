@@ -1,6 +1,27 @@
 ---
 title: Monthly Retail Round-Up - April 2018
 date: 2018-04-25 14:27:00 Z
+categories:
+- news
+tags:
+- one to one personalisation
+- retail
+- retail technology
+- retail news
+- retail innovation
+- future of retail
+- news
+- AI
+- Artificial Intelligence
+- personalisation
+- fashion personalisation
+- better customer service
+- customer experience
+- shopping instore
+- how to create a personalised shopping experience
+- beast from the east
+- KPMG
+- Farfetch
 image: "/uploads/image%20(8).png"
 author: Georgina Fisher
 description: With lots of news to keep track of, Dressipi brings you this month's
