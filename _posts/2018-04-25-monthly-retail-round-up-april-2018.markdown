@@ -55,6 +55,6 @@ The Swedish high street chain’s most recent announcement is a collaboration wi
 Collaboration between designers and high street brands can work well as it offers the designer a larger, usually younger customer base, and therefore many potential future clients.
 
 
-We hope you enjoyed the round-up. Please feel free to get in touch with any stories you feel would be of interest. 
+### We hope you enjoyed the round-up. Please feel free to get in touch with any stories you feel would be of interest. 
 
 > Photo by X on Unsplash
