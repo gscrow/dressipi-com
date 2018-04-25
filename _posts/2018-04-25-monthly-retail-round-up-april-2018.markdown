@@ -74,7 +74,7 @@ Luxury e-commerce is growing fast and other luxury brands are using this idea of
 
 Since H&M’s first designer collaboration with Karl Lagerfeld in 2004, the brand has seen many other successful collaborations with Stella McCartney and Versace. 
 
-The Swedish high street chain’s most recent announcement is a collaboration with Italian fashion brand Moschino. A collection of Womenswear and Menswear is due to be released in November 2018 and expected to be extremely popular just as H&M’s previous collaborations were. Reported in Vogue, Jeremy Scott, Creative Director, Moschino announced, "*I am so excited about Moschino [tv] H&M, my life’s work has been to connect with people through fashion, and with this collaboration I’ll be able to reach more of my fans than I’ve ever had the ability to do.*" 
+The Swedish high street chain’s most recent announcement is a collaboration with Italian fashion brand Moschino. A collection of Womenswear and Menswear is due to be released in November 2018 and expected to be extremely popular just as H&M’s previous collaborations were. Reported in [Vogue](http://www.vogue.co.uk/article/hm-announces-collaboration), Jeremy Scott, Creative Director, Moschino announced, "*I am so excited about Moschino [tv] H&M, my life’s work has been to connect with people through fashion, and with this collaboration I’ll be able to reach more of my fans than I’ve ever had the ability to do.*" 
 
 Collaboration between designers and high street brands can work well as it offers the designer a larger, usually younger customer base, and therefore many potential future clients.
 
