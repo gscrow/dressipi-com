@@ -33,6 +33,8 @@ The Retail Business Technology Expo (RBTE) held at Kensington Olympia is the lar
 
 ## In this rapidly changing world of retail, and with the increasing use of technology, there is a mounting pressure for retailers to understand what they can do to bring themselves to the front of the pack.
 
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/!RBTE panel-56c490.jpg"/></p>
+
 There were many industry experts present who shared their thoughts, with some fascinating panel discussions. Key highlights included:
 
 ## 1. *“In-store shopping is never going away.”* Alison Wiltshire, Global Practice Lead, Retail and Consumer Goods, BT
