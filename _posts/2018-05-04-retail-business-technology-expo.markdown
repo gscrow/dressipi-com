@@ -14,7 +14,7 @@ In this rapidly changing world of retail, and with the increasing use of technol
 
 There were many industry experts present who shared their thoughts, with some fascinating panel discussions. Key highlights included:
 
-1. ## *“In-store shopping is never going away.”* Alison Wiltshire, Global Practice Lead, Retail and Consumer Goods, BT
+## 1. *“In-store shopping is never going away.”* Alison Wiltshire, Global Practice Lead, Retail and Consumer Goods, BT
 
 Despite recent reports of store closure dominating the press, the importance of bricks and mortar retail is one shared by many. Bruno Pavlovsky, Fashion President, Chanel recently told [Drapers](https://www.drapersonline.com/7029147.article?utm_source=newsletter&utm_medium=email&utm_campaign=DR_EditorialNewsletters.Reg:%20Send%20-%20Daily%20News&mkt_tok=eyJpIjoiT1dNMU1tVTVZall6TnpNMiIsInQiOiJyanV6T3E3VWVNZG10TEVLd2UzM0JIUll4Q2NoQ0xrVVRwZkJXSXd4WnkzeUllRzNDcFdVKytIdWR6bVdXemx0ZklUQmN2WUllSEVoV0p1a1ZDTDRkTWdWeHRzeEZpaytYOUJoeVg0NVJOWXV2VHZkM0JodVNYalJHMzJVUkRZWSJ9), *“We strongly believe that digital will never replace the feeling of being in a fitting room and trying on a Chanel piece.” *
 
@@ -24,7 +24,7 @@ Retailers have to make their stores a destination. *“There has to be a reason 
 
 There has been a lot of investment in in-store technology, as customers want a similarly convenient experience to what they get shopping online - *“The successful retailers are those that are truly omnichannel”* stated Ken Daly, CEO, JML. Furthermore, retailers want to know as much as possible about their customers when they walk through that door, such as whether they have recently bought something or whether they are considering purchasing something online.
 
-2. ## *“It is fast becoming all about the smartphone.”* Louisa Nicholls, Senior Online Trading Manager, John Lewis
+## 2. *“It is fast becoming all about the smartphone.”* Louisa Nicholls, Senior Online Trading Manager, John Lewis
 
 Not only do our smartphones hold an increasing amount of data, they also make sure we are always connected and can have whatever we want whenever we want it. *“We used to go out to the high street to get stuff and now stuff comes to us”* stated Howard Saunders, Retail Futurist, 22nd&5th. 
 
@@ -32,7 +32,7 @@ As more and more millennials are getting to an age where they want to spend mone
 
 Retailers are increasingly using smartphones to make this information available and enhance the customer experience, including Zara, who recently launched their AR app for customers to see models in-store through their smartphone camera (you can read about this in more detail in our [March Monthly Round Up](https://dressipi.com/blog/monthly-retail-round-up-march-2018/)). 
 
-3. ## *“Customers are the centre of the universe.”* Howard Saunders, Retail Futurist, 22nd&5th
+## 3. *“Customers are the centre of the universe.”* Howard Saunders, Retail Futurist, 22nd&5th
 
 Customer experience is the most important thing in retail. It is something that will never change and is an ethos that still sits at the heart of most retailers’ strategies. *“Our customers at John Lewis are the most important thing to us”* stated Louisa Nicholls. 
 
@@ -42,9 +42,9 @@ Kash Ghedia, Head of Technology, Dixons Carphone highlighted, *“It is not abou
 
 James Lipscombe, Managing Director and Owner, The Chesterford Group gave us his top pointers to offer great customer experience:
 
-* ### Making sure your shops/website/app look fantastic
-* ### Everything has got to be fast, easy and accurate, online and in-store
-* ### Being able to offer a personalised shopping experience
+* **Making sure your shops/website/app look fantastic**
+* **Everything has got to be fast, easy and accurate, online and in-store**
+* **Being able to offer a personalised shopping experience**
 
 ## To Conclude…
 
