@@ -42,9 +42,9 @@ Kash Ghedia, Head of Technology, Dixons Carphone highlighted, *“It is not abou
 
 James Lipscombe, Managing Director and Owner, The Chesterford Group gave us his top pointers to offer great customer experience:
 
-* **Making sure your shops/website/app look fantastic**
-* **Everything has got to be fast, easy and accurate, online and in-store**
-* **Being able to offer a personalised shopping experience**
+*** Making sure your shops/website/app look fantastic
+* Everything has got to be fast, easy and accurate, online and in-store
+* Being able to offer a personalised shopping experience**
 
 ## To Conclude…
 
