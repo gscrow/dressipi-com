@@ -33,8 +33,6 @@ The Retail Business Technology Expo (RBTE) held at Kensington Olympia is the lar
 
 ## In this rapidly changing world of retail, and with the increasing use of technology, there is a mounting pressure for retailers to understand what they can do to bring themselves to the front of the pack.
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/RBTE%20panel-56c490.jpg"/></p>
-
 There were many industry experts present who shared their thoughts, with some fascinating panel discussions. Key highlights included:
 
 ## 1. *“In-store shopping is never going away.”* Alison Wiltshire, Global Practice Lead, Retail and Consumer Goods, BT
@@ -46,6 +44,8 @@ Customers still like shopping in-store - *"81% of UK consumers see the physical 
 Retailers have to make their stores a destination. *“There has to be a reason for going there and it has to be an experience,”* highlighted Daniel Bobroff, Founder and Former Investment Director, ASOS Ventures. Many brands are doing this well, such as Topshop’s flagship store at Oxford Circus which over the years has created a number of unique experiences including turning part of the ground floor into the set of ‘Stranger Things’. 
 
 There has been a lot of investment in in-store technology, as customers want a similarly convenient experience to what they get shopping online - *“The successful retailers are those that are truly omnichannel”* stated Ken Daly, CEO, JML. Furthermore, retailers want to know as much as possible about their customers when they walk through that door, such as whether they have recently bought something or whether they are considering purchasing something online.
+
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/RBTE%20panel-56c490.jpg"/></p>
 
 ## 2. *“It is fast becoming all about the smartphone.”* Louisa Nicholls, Senior Online Trading Manager, John Lewis
 
