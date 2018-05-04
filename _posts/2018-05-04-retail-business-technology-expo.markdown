@@ -20,10 +20,10 @@ tags:
 - customer experience
 - seamless experience
 - digital technology
+image: "/uploads/RBTE2018.png"
 author: Georgina Fisher
-description: The Retail Business Technology Expo (RBTE) held at Kensington Olympia
-  is the largest retail solutions event dedicated to helping retailers map out their
-  future strategies.
+description: The Retail Business Technology Expo (RBTE) is the largest retail solutions
+  event dedicated to helping retailers map out their future strategies.
 download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
