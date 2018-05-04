@@ -77,4 +77,4 @@ Ultimately retailers need to take a step back and think about the experience the
 
 Technology shouldn’t be ‘tech for tech’s sake’. Retailers need to know their own business, what they want to achieve and implement the technology that will enable them to reach their goals.
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Day%202%20Panel_Keynote.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Exhibitors.jpg"/></p>
