@@ -1,5 +1,5 @@
 ---
-title: Retail Business Technology Expo
+title: Retail Business Technology Expo Highlights
 date: 2018-05-04 09:27:00 Z
 categories:
 - news
@@ -29,7 +29,7 @@ download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 
 The Retail Business Technology Expo (RBTE) held at Kensington Olympia is the largest retail solutions event dedicated to helping retailers map out their future strategies.
 
-# Retail Business Technology Expo
+# Retail Business Technology Expo Highlights
 
 ## In this rapidly changing world of retail, and with the increasing use of technology, there is a mounting pressure for retailers to understand what they can do to bring themselves to the front of the pack.
 
