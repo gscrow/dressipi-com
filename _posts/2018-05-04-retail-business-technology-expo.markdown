@@ -1,6 +1,9 @@
 ---
 title: Retail Business Technology Expo
 date: 2018-05-04 09:27:00 Z
+image: "/uploads/IMG_4065%20(1).jpg"
+author: Nick Landia
+description: hello
 ---
 
 # This is some text
