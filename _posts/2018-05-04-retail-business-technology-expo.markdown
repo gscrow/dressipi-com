@@ -76,3 +76,5 @@ As highlighted by Dr. Tim Denison, Director of Retail Intelligence, Ipsos, *“T
 Ultimately retailers need to take a step back and think about the experience the customer wants when they walk into a store, and if the technology chosen achieves this whilst providing value to the business. 
 
 Technology shouldn’t be ‘tech for tech’s sake’. Retailers need to know their own business, what they want to achieve and implement the technology that will enable them to reach their goals.
+
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Day%202%20Panel_Keynote.JPG"/></p>
