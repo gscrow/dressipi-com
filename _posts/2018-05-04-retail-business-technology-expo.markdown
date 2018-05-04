@@ -1,8 +1,28 @@
 ---
 title: Retail Business Technology Expo
 date: 2018-05-04 09:27:00 Z
+categories:
+- news
+tags:
+- retail business technology expo
+- rbte
+- retail
+- retail technology
+- instore technology
+- instore experience
+- omnichannel retail
+- millennials
+- personalisation
+- retail events
+- retail personalisation
+- future of retail
+- smartphone
+- customer experience
+- seamless experience
+- digital technology
 author: Georgina Fisher
-description: hello
+description: 'Highlights from the Retail Business Technology Expo 2018 - the largest
+  retail solutions event of the year. '
 download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
