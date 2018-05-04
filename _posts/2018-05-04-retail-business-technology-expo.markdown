@@ -21,8 +21,9 @@ tags:
 - seamless experience
 - digital technology
 author: Georgina Fisher
-description: 'Highlights from the Retail Business Technology Expo 2018 - the largest
-  retail solutions event of the year. '
+description: The Retail Business Technology Expo (RBTE) held at Kensington Olympia
+  is the largest retail solutions event dedicated to helping retailers map out their
+  future strategies.
 download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
