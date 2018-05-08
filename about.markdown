@@ -109,10 +109,6 @@ sections:
     title: Junior Stylist Manager
     linkedin: https://www.linkedin.com/in/selina-mills/?ppe=1
     image: "/uploads/selina-mills.jpg"
-  - name: Anusha Ramesh
-    title: Product Manager
-    linkedin: https://www.linkedin.com/in/rameshanusha
-    image: "/uploads/anusha-ramesh.jpg"
   - name: Philippa Mew
     title: Marketing Manager
     linkedin: https://www.linkedin.com/in/philippa-mew-34544032/
