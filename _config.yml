@@ -29,6 +29,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  privacy:
+    title: privacy
+    output: true
 defaults:
 - scope:
     path: ''
