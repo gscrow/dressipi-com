@@ -1,5 +1,5 @@
 ---
-title: Terms & Conditions
+title: Dressipi Terms of Service
 date: 2017-05-06 10:17:00 Z
 position: 13
 navigation: meta
@@ -10,70 +10,115 @@ header:
 layout: page
 ---
 
-#### Dated 13 June 2013.
+#### Dated 14 May 2018.
 
-## 1. Who operates this website?
+These Terms govern your use of Dressipi and the products, features, apps, services, technologies, and software we offer (the Services), except where we expressly state that separate terms (and not these) apply.
 
-This website (the **Website**) is operated by StyleMania Limited, a company registered in England and Wales under registration number 7063626 whose registered office is at  StyleMania Ltd, 10th Floor, 20 Eastbourne Terrace, London, W2 6LG, UK, trading as "Dressipi" (**we**, **us** or **Dressipi**).
+You are entering into this contract with Dressipi, a trading name of StyleMania Ltd a company registered in England and Wales under registration number 7063626 whose registered office is at StyleMania Ltd, 10th Floor, 20 Eastbourne Terrace, London, W2 6LG, UK, trading as “Dressipi” (we, us or Dressipi).
 
-## 2. What are these terms about?
 
-**2.1** These terms set out some important points about use of the Website.  In order to use the Website you have to agree to these terms, as they apply to all use of the Website, and they form a legally binding contract between you and us.  By using the Website you agree to be bound by these terms, and they take effect on your first use of the Website and on each occasion that you use the Website. If you do not agree to be bound by these terms you may not access or use the Website.
+## Our Services
+Dressipi’s mission is to help people easily find and decide on the clothes they buy and enable retailers to become more customer centric and efficient, thereby reducing wastage in the fashion industry. To help fulfil this mission, we provide the Services as described below:
 
-**2.2** We may change these terms from time to time and so you should check them regularly. Your continued use of the Website will be deemed acceptance of the updated or amended terms.  We last updated these terms on 27 May 2013.
+### Provide Personalised Recommendations for You:
+What you buy and wear is unique to you. We help you (and millions of shoppers) easily find items that will suit your individual style, taste and preferences and can be worn well with items that are already in your wardrobe.
+We use the data we have to create these tailored recommendations (and associated content) - for example, your profile information, your preferences, the choices and settings you select and your activity and transactions on Dressipi sites, apps and plug-ins that our retail partners use.  Keeping your profile accurate and up-to-date helps us to make these recommendations more accurate and relevant. Any information that we hold about you or any personal data that you supply to us under these Terms shall always be processed in accordance with applicable laws and terms of our Privacy Policy. If any information is gained about you via our cookies or other similar technologies, we always act in accordance with our Cookies Policy. Where cookies or other technologies which collect personal data or other information are held solely within our retailers’ environments, this is outside the scope of these Terms and our Services. You should therefore always check the privacy and cookies policy, as well as your general preferences if available, on each individual retailer website that you visit.
 
-**2.3** We reserve the right to suspend or terminate the registration of any user who, in our opinion, is in breach of these terms.
+### Empower Retailers to Improve Efficiency
+We develop data products and solutions that enable our retail partners to get a deeper understanding of the types of clothes and features their customers prefer and want to buy.  With this information our retail partners can establish a more efficient and optimised value chain which will ultimately reduce industry wastage.
 
-## 3. How does the Website work, and what is Dressipi's role?
+Our retail partners pay us to provide them with a list of recommendations for each shopper, which they use to personalise your shopping journey experience when you are on their sites, in their stores or receiving communications from them (in accordance with your settings). Our retail partners can also pay us to provide them with insights that help them better forecast the types and volumes of products they should creating, buying and selling.
 
-**3.1** The Website allows you to use our matching technology to capture your style preferences and recommend compatible clothes and accessories, in a quick, easy and personalised way.  We do not charge service fees to users of the Website. In the future, Dressipi may offer a premium subscription service offering Members who pay a fee access to specific features.
 
-**3.2** The recommended clothes and accessories are made available by retailers, and not Dressipi.  Dressipi is not a retailer, and is not an agent of any retailer.  Your purchase of the products will be from the retailers, will be subject to the retailers' terms of sale (and returns policy), and we are not involved in the purchase.  We are not responsible for any purchases you make from retailers, or for any after sale service or returns, for any defects in any products, or for the retailers' websites.
+## Contract
+You agree that by clicking “Sign Up”, “Connect Now”, or similar, registering, accessing or using our Services (described above), you are agreeing to enter into a legally binding contract with Dressipi.
 
-**3.3** We do our best to ensure the information we receive from retailers about their products is accurate and up to date but it might contain errors. We cannot guarantee that products are as described, available, or any specific quality and we make no representations or warranties as to the completeness, accuracy, adequacy, currency or reliability of retailer's content.
+If you do not agree to this contract (“Contract” or “Terms of Service”), do not click “Sign Up”, “Connect Now” (or similar) and do not access or otherwise use any of our Services. If you wish to terminate this contract, at any time you can do so by closing your account and no longer accessing or using our Services. This is based on the conditions for using our Services and does not have any bearing on your privacy or other statutory rights.
 
-**3.4** We are not liable for any loss or damage of any sort incurred in relation to any purchase of any goods or services you make from any retailer.
+Registered users of our Services are “Members” and unregistered users are “Visitors”. This Contract applies to both Members and Visitors.
 
-**3.5** The Website contains hyperlinks to other websites. If you use the hyperlinks to access these other sites, you will leave the Website and your browser will be re–directed to the other sites. Those sites may have their own terms of use and privacy policies.  Those sites are operated by third parties and we are not responsible for the content, information, services, products or advertisements presented by any of those other sites.
+## Our Data Policy and Your Privacy Choices
+We collect and use your personal data to provide the Services described above to you. You can learn about how we collect and use your data in our Privacy Policy. We also encourage you to review the privacy choices you have about the ways in which we use data in your Account Settings.
+If you don’t have an account, you can opt out here.
 
-**3.6** Nothing in these terms limits or excludes Dressipi's liability for death or personal injury caused by its negligence.
+## Your Commitments to Dressipi
 
-**3.7** The Website and the services available through it are provided "as is" and on an "as available" basis, we do not warrant that the Website will be uninterrupted or error free, that defects will be corrected, or that the Website will be free of viruses or bugs.
+### Service Eligibility
 
-**3.8** To the extent permitted by law, Dressipi excludes all representations and warranties including any implied warranties of satisfactory quality, fitness for a particular purpose, non–infringement, compatibility and accuracy. Dressipi does not guarantee the timeliness, completeness or performance of the Website or any of the content. While we try to ensure that all content is correct at the time of publication no responsibility is accepted by or on behalf of Dressipi for any errors, omissions or inaccurate content on the Website.
+The Services are not for use by anyone under the age of 13. We provide our Services to you and others to help advance our mission. In exchange, we need you to make the following commitments:
+You are the "Minimum Age" or older
+You will provide accurate information about yourself
+You will use your account for personal purposes only
+You will not share your password, give access to your Dressipi account to others, or transfer your account to anyone else (without our permission). If, with our permission, you transfer your account or give access to anyone else, you are responsible for ensuring that all persons who access your account are aware of these Terms and other applicable terms and conditions and policies, and that they comply with them.
+Further, if you choose, or you are provided with, a user identification code, password or any other piece of information as part of our security procedures, you must treat such information as confidential. You must not disclose it to any third party. We have the right to disable any user identification code or password, whether chosen by you or allocated by us, at any time, if in our reasonable opinion you have failed to comply with any of the provisions of these terms of use. If you know or suspect that anyone other than you knows your user identification code or password, you must promptly contact us.
 
-**3.9 **Dressipi shall not be liable for any of the following losses or damage (whether such damage or losses were foreseen, foreseeable, known or otherwise): (a) loss of data; (b) loss of revenue or anticipated profits; (c) loss of business; (d) loss of opportunity; (e) loss of goodwill or injury to reputation; (f) losses suffered by third parties; or (g) any indirect, consequential, special or exemplary damages arising from the use of the Website.
+### Notices and Messages
 
-## 4. What if there is a problem with a product I buy after seeing a recommendation on the Website?
+In order for us to perform the Contract and provide the Services to you, we will provide notices and messages to you in the following ways:
+Within the Service
+Or sent to the contact information you provide to us (e.g., email, mobile number).
+You agree to keep your contact information up to date.
 
-Any queries or concerns relating to the product should be addressed to the relevant retailer.  You should contact the retailer, and read their returns policy.
+Such communications as described above are strictly necessary for the performance of these Terms and Conditions and the proper running of your account, and do not constitute marketing emails. However, you are able to access and review your Account Settings at any time to control and limit the type of messages you receive from us.
 
-## 5. What about my personal information?
 
-**5.1** In order to provide a personalised service we collect certain information from you upon registration and through your use of the service.  Details about what data we collect and what we use it for is set out in our [Privacy Policy](/privacy).You should read this carefully.  By accepting these terms, and by using the Website, you are also accepting the [Privacy Policy](/privacy).
+## Third Party and Retailer Online Environments
 
-**5.2** The retailers you choose to buy products from may also collect personal data about you and you should make sure you read their privacy policies. We are not responsible for their use of the data you provide to them.
+We are not responsible for third party or retailer websites containing our technology, on which our technology is placed, or which you may have access to when using our Services. We are also not responsible for how they may use your personal data, unless we have entered into a specific agreement with them (for more information, please see our Privacy Policy).
 
-## 6. What rules apply to use of the Website?
+Therefore, the use and placement of our technology on any third party or retailer websites should not be interpreted as approval by us of those websites or information you may obtain or have access to from them.
 
-**6.1** You may only use the Website for non-commercial, personal, lawful purposes, and in a way that does not infringe anyone's rights or restrict or inhibit anyone else's use and enjoyment of the Website. Prohibited behaviour includes harassing or causing distress or inconvenience to any person, transmitting obscene or offensive content or disrupting the normal flow of dialogue within the Website.
+If you wish to complain about information and materials on third party or retailer websites, then please contact the owner of the website in question directly.
 
-**6.2** All copyright, trademarks, design rights, patents and other intellectual property rights (registered and unregistered) in the content on the Website, including all names, images, logos and brands, is owned by Dressipi or its licensors.  The brands and logos of the retailers, and product images, are owned by the retailers and their licensors.   You may not copy, reproduce, republish, disassemble, decompile, reverse engineer, download, post, alter, broadcast, transmit, make available to the public, or otherwise use the Website content in any way except for your own personal, non–commercial use and as part of using the services available on the Website.
+## Rights and Limits
 
-## 7. What about my personal profile and password?
+### Your License to Dressipi
 
-**7.1** You must ensure that any information you provide to us will be accurate and up to date, including your correct name, email address and other details. In the future, there may be an option to have a public personal profile for which you may choose a pseudonym.
+As between you and Dressipi, you own the content and information that you submit to the Services, and you are only granting Dressipi and our retail partners the following non-exclusive license:
 
-**7.2** You are responsible for all activities that occur under your account or password and agree you will not sell, transfer or assign your user account. You are responsible for maintaining the confidentiality of your password and for restricting access to your computer so that others may not access the Website using your name, username or password in whole or in part.
+A worldwide, transferable and sublicensable right to host, access, use, copy, modify, distribute, publish, and process information and content (consistent with your settings) that you provide through our Services and the services of others, without any further consent, notice and/or compensation to you or others.
 
-**7.3** Creation of multiple registrations in such a manner as to attempt to manipulate the Website or recommendations from Dressipi is prohibited and we reserve the right to decline registration attempts that appear to us not to be genuine customer registrations.
+You can end this license for specific content by deleting your content from the Services, or generally by closing your account.
 
-## 8. What other general terms apply?
+You should know that, for technical reasons, content you delete may persist for a limited period of time in backup copies, and unless required by law or for claims management purposes, we will always ensure that any personal data contained in this content is pseudonymised or encrypted as appropriate.
 
-**8.1** We may run competitions, promotions, prize draws and other opportunities on the Website and these will be governed by a separate set of terms and conditions. A link to these terms and conditions will be available on the Website, alongside details of the specific competition, promotion, prize draw and other opportunities. You should read those terms and conditions including any eligibility requirements.
 
-**8.2** If any of these terms are determined to be illegal, invalid or otherwise unenforceable then that term shall be deleted from these terms and the remaining terms shall survive and continue to be binding and enforceable.
+### Permission to Share Your Profile & Preferences
 
-**8.3** The failure or delay of Dressipi to exercise or enforce any right in these terms does not waive Dressipi's right to enforce that right.
+When you connect your profile to any of our retail partners you give us permission to share your profile, data with that retailer (in accordance with your Account Settings and our Privacy Policy).
 
-**8.4** These terms shall be governed by and interpreted in accordance with the laws of England and Wales which shall have exclusive jurisdiction over any disputes.
+This data will only be used to improve your personalised shopping experience with that retailer and to improve their understanding of the types of clothes and features their customers prefer and want to buy.
+
+
+## Additional Provisions
+
+### Updating our Terms
+
+We work constantly to improve our solutions and develop new features to make our Services better for you. As a result, we may need to update these Terms from time to time to accurately reflect our Services and practices. Unless otherwise required by law, we will notify you (for example, by email or through our Services) before we make changes to these Terms and give you an opportunity to review them before they go into effect. Once any updated Terms are in effect, you will be bound by them if you continue to use our Services.
+We hope that you will continue using our Services, but if you do not agree to our updated Terms you can delete your account at any time, without prejudice to your privacy or other statutory rights.
+
+
+## Limits on Liability
+
+Please note that we only provide our Services to you for domestic and private use. You agree not to use our Services for any commercial or business purposes, and we have no liability to you for any loss of profit, loss of business, business interruption, or loss of business opportunity.
+
+You are responsible for configuring your information technology, computer programmes and platform use our Services. You should use your own virus protection software. You must not misuse our Services by knowingly manipulating or copying our technology, including by introducing viruses, trojans, worms, logic bombs or other material that is malicious or technologically harmful or in contravention of any other applicable laws. We will take such actions seriously, and where required by law or to safeguard our position, report any such actions to the relevant law enforcement authorities and we will co-operate with those authorities which may involve disclosing your identity to them. In the event of such actions, the Services provided to you will cease immediately.
+
+We will use reasonable skill and care in providing our Services to you and in keeping a secure and error-free environment, but we cannot guarantee that our Services will always function without disruptions, delays, or imperfections or that our Services or technology will be secure or free from bugs or viruses.
+
+Provided we have acted with reasonable skill and care, we do not accept responsibility for: losses not caused by our breach of these Terms or otherwise by our acts; losses which are not reasonably foreseeable by you and us at the time of entering into these Terms; and events beyond our reasonable control.
+
+
+## Termination
+Both you and Dressipi may terminate this contract at any time with notice to the other. On termination, you lose the right to access or use the Services.
+
+
+## Disputes
+We try to provide clear rules so that we can limit or hopefully avoid disputes between you and us. If a dispute does arise, however, it's useful to know up front where it can be resolved and what laws will apply.
+
+These terms shall be governed by and interpreted in accordance with the laws of England and Wales which shall have exclusive jurisdiction over any disputes.
+
+
+
+
+#### Date of Last Revision: May 11, 2018
