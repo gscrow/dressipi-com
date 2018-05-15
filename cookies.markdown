@@ -3,10 +3,10 @@ title: Dressipi Cookies Policy
 date: 2017-05-06 10:17:00 Z
 position: 14
 navigation: meta
-width: narrow
 header:
   width: extend
   height: tight
+width: narrow
 layout: page
 ---
 
@@ -110,14 +110,14 @@ To find out more about cookies, including how to see what cookies have been set 
 ## Other Helpful Resources
 Browser manufacturers provide help pages relating to cookie management in their products. Click on the links below for more information.
 
-Google Chrome
-Internet Explorer
-Mozilla Firefox
-Safari (Desktop)
-Safari (Mobile)
-Android Browser
-Opera
-Opera Mobile
+* Google Chrome
+* Internet Explorer
+* Mozilla Firefox
+* Safari (Desktop)
+* Safari (Mobile)
+* Android Browser
+* Opera
+* Opera Mobile
 
 
 
