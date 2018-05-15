@@ -113,17 +113,6 @@ Browser manufacturers provide help pages relating to cookie management in their 
 * Google Chrome
 * Internet Explorer
 * Mozilla Firefox
-* Safari (Desktop)
-* Safari (Mobile)
-* Android Browser
-* Opera
-* Opera Mobile
-
-
-
-
-
-
 
 <div id="cookies-table"></div>
 ## Cookies used by Dressipi
