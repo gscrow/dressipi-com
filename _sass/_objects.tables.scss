@@ -30,6 +30,11 @@ table {
   vertical-align: top;
 }
 
+td > a {
+  text-decoration: none;
+  color: #E81E75;
+}
+
 .table thead:first-child tr th,
 %table thead:first-child tr th,
 .table thead:first-child tr td,

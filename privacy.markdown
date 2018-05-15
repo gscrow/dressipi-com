@@ -10,132 +10,258 @@ header:
 layout: page
 ---
 
-#### Dated 13 June 2013.
+## Your Privacy Matters
 
-## 1. Who operates this website?
+Dressipi’s mission is to help people easily find and decide on the clothes they buy and enable retailers to become more customer centric and efficient, thereby reducing wastage in the fashion industry.
 
-This website (**the Website**) is operated by StyleMania Limited, a company registered in England and Wales under registration number 7063626 whose registered office is at StyleMania Ltd, 10th Floor, 20 Eastbourne Terrace, London, W2 6LG, UK, trading as “Dressipi” (**we**, **us** or **Dressipi**).
+We are 100% committed to protecting the privacy and security of our Members and Visitors.
 
-## 2. What is this policy about?
 
-Dressipi is committed to protecting your personal information when you use the Website and we want our users to have a safe and enjoyable experience. It is completely optional to become a registered user (a Member), and when you choose to do so, you will need to create your Dressipi Fashion Fingerprint® (fashion profiler) and enter certain personal data about yourself. To become a Member you will be required to set up an account with password, email address and your gender.  You may also wish to add your body shape information, clothes sizes, your colouring, age and other fashion preferences.  This policy explains what information we collect about you, and what we use it for, and also your rights in relation to that information.
+We ask that you read this privacy notice carefully as it contains important information about who we are, how and why we collect, store, use and share personal information, your rights in relation to your personal information and on how to contact us and supervisory authorities in the event you have a complaint.
 
-## 3. What information will Dressipi collect about me?
+## Our Principles
 
-### Unregistered Users
+* We are transparent about the data we collect about you, how we use it and who we share it with.
 
-3.1 We encourage you to register with us in order to be part of the Dressipi community and to take full advantage of Dressipi's features detailed below. However, you may choose not to register and take advantage of any feature of our site where registration is not required.  If you do not register, then the information we collect from you is limited. We log your IP address in order to help diagnose problems with our applications or hosting environments, administer our Web site and track usage statistics. It would be extremely difficult for us to identify you through your IP address, and we make no attempt to do so. If you reached our site by clicking on a link or advertisement on another site, then we also log that information. This helps us to maximize our Internet exposure, and to understand the interests of our users. All of this information is collected and used only in the aggregate; that is, it is entered into our database, where we can use it to generate overall reports on our visitors, but not reports about individual visitors.
+* We will only use your data to improve and personalise your experience.
 
-3.2 We also place small files known as 'cookies' (and/or similar technology) on your computer's hard drive to maintain the integrity of our content and to provide our users with a better site experience. Please see section 11 below for more information about  the cookies we place.
+* We protect and secure your data.
 
-3.3 You do not always need to be a registered Member to participate in Dressipi competitions. When you sign up to participate in competitions which Dressipi may run from time to time on the Service, we will probably ask for personal information about you. This can consist of information such as your name, email address, postal address, telephone or mobile number or date of birth.
+* We give you the control to decide what you share and what you receive from us  .
 
-### Members
+## Services
 
-3.5 If you choose to register with us, we will collect personal information from you including your name, email address, gender, and password.  We may also give you the opportunity to add optional information about yourself.
+This Privacy Policy applies to Dressipi.com, Your Style
+Adviser, Your Personal Edit, My Topshop Wardrobe
+and other Dressipi related sites, apps, plug-ins and
+communications.
 
-3.6 You may also, be able to include optional information under the following categories: about you, your age, your interests and brand preferences, your body measurements, as well as contact information for other people that you provide to us. The information we collect may vary, but we only collect the information that you provide to us as part of using the Website (such as your likes and dislikes) or otherwise authorise us to collect.
+## Data Controllers and Contracting Parties
 
-3.7 We may store all or some of your personal information in a cookie file on your hard drive, so that our system will recognize you each time you visit our site. In that way, we can save your preferences from visit to visit and present you with a customized Web site, without requiring you to log into our site every time you visit.  Please see section 11 below for more information about  the cookies we place.
+For all our Services, the data controller – that’s the company that’s responsible for your privacy is Dressipi, a trading name of StyleMania Ltd.
 
-### Retailer partners and hyperlinks
+References in this Privacy Policy to “Dressipi”, “we”, “us” or “our” mean StyleMania Limited (a company registered in England and Wales under registration no 7063626 whose registered office is at StyleMania Ltd, 10th Floor, 20 Eastbourne Terrace, London, W2 6LG, UK, trading as “Dressipi”).   
+When we refer to “you” or “yours” in this Privacy Policy, we are referring to you, as a Member or Visitor, or “data subject”.
 
-3.8 If you visit our site by 'clicking–through' from a site operated by one of our partners, and you have registered with that partner, then certain information about you that you have provided to that partner may be transmitted to us. You should review the privacy policy of the website from which you reached our site in order to determine what information was collected and how you agreed that our partner could use that information. Regardless of what information was transmitted to us, however, we don't keep it unless you register with us.
+Sometimes, our <a href="#privacy" class="anchor-link-privacy">retail partners</a> may also be data controllers in respect of your personal information when they are also able to make decisions about how it is processed. You should check with our <a href="#privacy" class="anchor-link-privacy">retail partners</a> directly if you require information about how they handle your privacy rights.
+On other occasions, we are acting as a data processor of your personal data, when we are only processing information about you on the basis of strict instructions from our retailers.
 
-3.9 If you choose to purchase any clothing or accessories (or any other service Dressipi will or may provide) by clicking on a link provided on the Website to a retailer's website, that retailer will collect your personal details (such as your credit card number, address, etc.) for the purpose of completing your chosen transaction. We may be provided with confirmation of your transactions with such retailers and, in some instances, such confirmation may include your personal information. Aside from such confirmations, the only information that we will collect with respect to such retailer links is: (a) the number of generic Dressipi users who use such links; (b) the number of purchases made by these generic users; and (c) your name, email address destination and selected product so that we may contact you to enquire about your experience or to propose compatible products (if you agree, see section 4 below).
+Similarly, when we require our retailers to process your personal data in accordance with our instructions, our retailers act as data processors in this instance. In all cases of data processing, whether carried out by us or by third parties on our behalf, we always ensure that your rights are protected via appropriate safeguards, such as by using contractual processing agreements and complying with the applicable laws.
 
-3.10 The Website contains hyperlinks to websites owned and operated by third parties including the retailers described above. These third party websites have their own privacy policies, including cookies, and we urge you to review them. They will govern the use of personal information you submit or are collected by cookies whilst visiting these websites. We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk.
+## Change
 
-## 4. How will Dressipi use my information?
+The data protection law in the UK changed on 25 May 2018. Although this Privacy Policy sets out most of your rights under the new laws, we might update this Privacy Policy from time to time to take new guidance, rules, regulations and best practice into account. Therefore, we may change this page from time to time, to reflect how we are processing your data.
 
-### To personalise the way content is presented to you
+If we make significant changes, we will provide you notice through our Services, or by other means, to give you the opportunity to review the changes before they become effective. If you object to any changes, you may close your account or modify your settings in 	your <a href="#privacy" class="anchor-link-privacy">Account Settings</a>.
 
-4.1 As part of the Dressipi registration process you will be given the option to create your Dressipi's Fashion Fingerprint®. Having selected various options (and any options that we may add to in the future), you will be presented with garments that you then decide which you prefer. This will create your automated style preferences which enables Dressipi to tailor and match the content presented to you so that the recommendations you receive are personalised according to our machine learning algorithms.
+Please ensure that you keep yourself updated as to the latest Privacy Policy in force on our website on each visit. In the event of changes published or any notice sent about any changes to this Privacy Policy, the collection, use and sharing of your personal data will be subject to the updated Privacy Policy.
 
-### To contact you
+## Data We Collect
 
-4.2 We will use the email address and any other means provided by you when you register to contact you from time to time. This may be for security reasons (so that we can check that you are who you say you are, by sending you an initial validation email), to inform you about planned maintenance to the Website or other disruptions, to ask your opinion about the Website, to invite you to participate in surveys about Dressipi services, or to keep you updated on the services currently available on the Website as well as any changes to those services and those that we intend to launch in the future.  Other than for security reasons, we will only contact you where you have agreed that we may do so.
+### Data You Provide to Us
 
-4.3 Where you have agreed, we may also use such personal information to send you our newsletters and marketing communications (including by email or SMS where you agree), on behalf of others and ourselves, regarding products and services that we think may be of interest to you, or to deliver targeted advertisements, promotions and other similar initiatives to you. While this may include material about third party products or services, those third parties will not contact you directly (unless you subsequently ask them to or agree that we may share your details for that purpose).
+To properly provide the Dressipi Services and ensure that you have the best possible user experience, we need to process some information about you. Of course, you have the right to object to your data being collected and more information about your rights is set out at section below called “How Can You Exercise your Rights Provided Under the GDPR”, but please be aware that if you do not wish us to process your personal data, the quality of our Services to you may be reduced.
 
-4.4 We won't pass your email address on to anyone to contact you directly about their own products or services, unless you have provided your prior consent for us to do so.
+For the purpose of the Services, the types of information we collect about you are:
 
-4.5 Where you have provided consent, you may opt out at any time.
+### Registration
 
-### Statistical analysis
+To create an account, you need to provide data including your name, email address (and/or mobile number) and a password.
 
-4.6 We may use your information in order to generate anonymous statistics regarding use of the Website. We may share this anonymous information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
+### Profile
 
-## 5. Will Dressipi share my information with anyone else?
+You have choices about the information on your profile, such as your colouring, sizes, item preferences & attitude towards shopping and dressing (Your Fashion Fingerprint).
 
-5.1 We will keep your information confidential except as set out in this policy or where disclosure is required or permitted by law.
+Your profile information helps you to get more from our Services, including helping us find and show you items that best match your shape, style and existing wardrobe. It’s your choice whether to include sensitive information on your profile, and even if you choose not to, you will still be able to use our Services and benefit from an enjoyable user experience.
 
-5.2 If you engage in any disruptive behaviour the Website, Dressipi may use your personal information to stop such behaviour. Where Dressipi reasonably believes that you are or may be in breach of any of applicable law (e.g. because content you have posted may be defamatory), Dressipi may use your personal information to inform relevant third parties or law enforcement agencies about the content and your behaviour.
+### Wish Listing, Liking & Disliking
 
-5.3 If Dressipi is acquired by another company or sells all or a portion of its assets to another company, or in the event of a merger or reorganisation, it is likely that user information will be a part of the assets transferred and may be disclosed to the new company.
+We collect information about which items and features you wish list, like or dislike.
 
-5.4 We may need to share your information with third party suppliers that support the Website and our services such as our web hosting provider and email marketing provider (only where you have opted in to receive such marketing as described above).
 
-5.5 We may use third–party advertising companies to target and serve ads when you visit the Website. These companies may use information (this will not include your name, address – though possibly the location of your home town–, or email address) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and other tracking technologies to measure advertising effectiveness. Any information that these third parties collect via cookies is generally not personally identifiable (unless, for example, you provide personal information to them through an ad or email message).  Please see section 11 below for more information about the cookies these adservers place.
+### Browsing & Scanning
 
-## 6. What rules apply to "Invite a Friend"?
+We collect information about which items you look at online and which items you scan instore.
 
-If you click on 'Invitations' or 'Tell a Friend' and submit email addresses your contacts to invite to Dressipi, you accept that by doing so, an email invitation will be sent on your behalf, to the relevant email address, and that a reminder email could be sent to that contact on your behalf. By inviting your contacts to join Dressipi, you agree that you have obtained their prior consent to send them such an invitation and a reminder. Dressipi will store the name and email address of your contacts for the purpose of automatically adding the respondent to your contacts list and to send a reminder to that invitation on the Member's behalf. Dressipi does not sell these email addresses or use them to send any other communication besides invitations and the reminder to an invitation on behalf of the Member. You or your 'Friend' can request the removal of their details from our database at any time by sending an email to:
-[unsubscribe@dressipi.com](mailto:unsubscribe@dressipi.com)
 
-## 7. What is Dressipi's policy regarding children?
+### Saving
 
-Children under the age of 13 are not eligible to use the Website and must not attempt to register with Dressipi and/or submit any personal information to us. We don't knowingly collect personal information from any person who is under the age of 13 or allow them to register. If it comes to our attention that we have collected personal data from a person under the age of 13, we will delete the relevant information as quickly as possible. If you have reason to believe that this has occurred, please contact us at  [unsubscribe@dressipi.com](mailto:unsubscribe@dressipi.com).  If you are aged between 13 and 17, please get your parent/guardian's permission beforehand whenever you provide personal information to the Dressipi website. Users of that age without this consent are not allowed to provide us with personal information or use the Website.
+We collect information about which items you choose to save.
 
-## 8. How do I opt out or update my personal information?
+### Missions & Requests
 
-8.1 You may have your registration details, including your profile, removed at any time. To remove yourself, please email us at [unsubscribe@dressipi.com](mailto:unsubscribe@dressipi.com) and we will endeavour to remove your details within 7 days of receipt of the email.
+We collect information when you choose to set a mission or request recommendations for a specific event or occasion (for example, ‘you are looking for a dress for a wedding').
 
-8.2 You can review and update the personal information you have provided through the registration process by clicking on 'My Profile' on your account page.
 
-8.3 To simply opt out of receiving marketing materials from us please email us at [unsubscribe@dressipi.com](mailto:unsubscribe@dressipi.com).  To opt out of receiving marketing communications from the retailers please contact them or follow their unsubscribe mechanisms.
+### Retail Partners
 
-## 9. How long will Dressipi hold my information and is it secure?
+We receive data about your activities when you use the services of our <a href="#privacy" class="anchor-link-privacy">retail partners</a>, such as items you have purchased, viewed, scanned or wish listed.
 
-9.1 We employ firewalls and store all of our files and information on computer hardware which require password access. You should never disclose your account password to unauthorised people. We use certain security measures to help keep your personal information safe, but we cannot guarantee that these measures will stop any users trying to get around the privacy or security settings on the Website. Consequently, you acknowledge that there are circumstances in which your personal information may be accessed by unauthorised persons.
+This only includes information on the items. It NEVER includes payment information (such as your credit or debit card number) OR home address/shipping details.
 
-9.2 In the event that we believe the security of your personal information in our possession or control may have been compromised, we may seek to notify you. If a notification is appropriate, we would endeavour to do so as promptly as possible under the circumstances, and, to the extent we have your e–mail address, we may notify you by e–mail.
+Our <a href="#privacy" class="anchor-link-privacy">retail partners</a> may provide this information whether you have a Dressipi account, are logged into your Dressipi account or are a Visitor. For example, a retailer could tell us about a purchase you made in one of its stores.
 
-9.3 We will hold your personal information on our systems for as long as is necessary to provide the relevant services.  If you wish to cancel your registration as a Member your account will be deleted, however your anonymised Fashion Fingerprint® data is retained for internal analysis to continue to improve the service.
+We require each of these partners to have lawful rights to collect, use and share your data before providing any data to us. Learn more our retail partners <a href="#privacy" class="anchor-link-privacy">here</a>.
 
-## 10. Will this Privacy Policy change?
+### Service Use
 
-We may change this privacy policy from time to time and so you should check it regularly. Your continued use of the Website will be deemed acceptance of the updated or amended policy.  We last updated this policy on 27 May 2013.
+We log usage data when you visit or otherwise use our Services, including our app and retail partner solutions (e.g. our plugins that appear on our retail partner sites), such as the items that you view or engage with; the features that you use; the time, frequency and duration of your visits; when you install or update our mobile app.   We use log-ins, cookies, device information and internet protocol (“IP”) addresses to identify you and log your use. This helps you to benefit from an overall streamlined user experience.
 
-## 11. Cookies
+### Cookies, Web Beacons and Other Similar Technologies
 
-11.1 A cookie is a small amount of data, which often includes a unique identifier that is sent to your computer or mobile device(referred to here as a 'device') browser from a website and is stored on your device's hard drive. Each website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. Many sites do this whenever a user visits their website in order to track online traffic flows.
+As further described in our [Cookies Policy](https://dressipi.com/cookies/), we use cookies and similar technologies (e.g., web beacons, pixels, tags and device identifiers) to recognise you and/or your device(s) on, off and across our Services. We also allow some others to use cookies as described in our [Cookies Policy](https://dressipi.com/cookies/).
 
-11.2 We use cookies for the following purposes:(a) **Performance —**
-To collect data that we can use to improve the efficiency and quality of our service and the Website, identifying you as a valid user and to help personalise your Dressipi experience in conjunction with your profile, and remembering that you have used the Website before, meaning we can identify the number of unique visitors we receive to different parts of the Website. (b) **Necessary session management —**
-Managing your login session so you can move easily from one page to another within the Website and your page requests are loaded in smooth and secure manner; (c)
-**Functionality —**
-Storing your preferences and selections, and customising elements of the layout and/or content of the pages of the Website for you. (d) **Internet based advertising —**
-Gathering information about the pages on the Website, and also other information about other websites that you visit, so as to place you in a "market segment".  This information is collected by reference to the IP address that you are using and so does not identify you personally, but does include information about the country and city you are in, together with the name of your internet service provider. This information is then used to place interest-based adverts on the Website and other websites believed to be relevant to your market segment.  For more information about this type of interest based advertising, and about how to turn this feature off please visit  [www.youronlinechoices.com/uk/](http://www.youronlinechoices.com/uk/)  Without these cookies, advertisements you encounter will be less relevant to you and to your interests.
+You can control cookies through your browser settings and other tools. You can also opt-out from our use of cookies and similar technologies that track your behaviour on the sites of others.
 
-11.3 We currently employ session cookies as well as persistent cookies which stay on your computer after you have gone offline. Persistent cookies remain in the "cookies" folder after you have closed your web browser.
 
-11.4 The cookies we use and what we use then for is explained further below:
+### Your Device and Location
 
-| Cookie name | Purpose | More Information |
-| --- | --- | --- |
-| Dressipi credentials cookieuser_credentials | Allows us to verify that you are logged in. It is removed upon logout or when the browser is closed | Session |
-| Dressipi session cookie_dressipi.com_session | Stores transient information such as error messages and the last page visited. It is removed upon logout or when the browser is closed | Session |
-| Last logged in cookielast_login | The email of the last person to have logged in is store and pre filled when you return to the Website. This cookie last 48 hours and is only set when using the M&S Style Adviser service | Persistent |
-| Last login id cookielast_user_id | An opaque value identifying the last Dressipi user to have used the site. This is used to provide limited personalisation of content when a visitor is no longer logged in | Persistent, 3 weeks |
-| Authentication cookieRemember_me_token | Allows users of the M&S Style Adviser to stay logged in for up to 2 years | Persistent, 2 years |
-|  | Third party cookies |  |
-| Google (Analytics) _utma _utmc _utmz | As explained above we use Google Analytics to help us collect anonymous statistics on visitors to the site, where vistors have come to the site from, how long a user spends on the site and the pages they visited. This helps us to understand how people use the site and to make improvements to our site. | Persistent & session 2 years 30 minutes Session 6 months [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout) |
+When you visit or leave our Services (including our plugins or cookies or similar technology on the sites of others), we receive the URL of both the site you came from and the one you go to next. We also get information about your IP address, proxy server, operating system, web browser and add-ons, device identifier and features, and/or ISP or your mobile carrier. We will ask you to opt-in before we use GPS or other tools to identify your precise location.
 
-11.5 You can opt out of Google's use of cookies by visiting Google's Ads Settings ([http://www.google.com/settings/ads](http://www.google.com/settings/ads)). Alternatively, you can point your visitors to opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative ([http://www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/)) opt-out page.
 
-11.6 Most browsers have cookies turned on as a default, but you can always disable cookies or only allow non–persistent cookies via your browser preferences. You can also learn more about cookies by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org) which includes additional useful information on cookies and how to block cookies using different types of browser. If you choose to disable cookies, however, you won't be able enjoy a significant proportion of Dressipi's functionality. Please remember that cookies cannot read your hard drive or give any information collected to any third party. A cookie can only be read by the organisation that sets it.
+### Other
 
-## 12. How can I find out what personal information Dressipi holds about me?
+We are continually looking for ways to improve our Services and often introduce new features, which may require the collection of new information. If we collect materially different personal data or materially change how we use your data, we will notify you and may also modify this Privacy Policy.
 
-Under the Data Protection Act you have the right to request a copy of the personal information Dressipi holds about you and to have any inaccuracies corrected. (We charge £10 for information requests and will require you to prove your identity). We will use reasonable efforts to supply, correct or delete personal information about you on our files.  Please address requests and questions about this or any other question about this Privacy Policy to [privacy@dressipi.com](mailto:privacy@dressipi.com).
+## How We Use Your Information
+
+How we use your personal data will depend on which Services you use, how you use those Services and the choices you make in your <a href="#privacy" class="anchor-link-privacy">Account Settings</a>.
+
+### To Provide Personalised Recommendations
+We use all the data that we have about you to provide useful, personalised clothing and dressing recommendations that are both unique and relevant to you.
+
+To create these recommendations (and content) we use your profile, preferences, activities, usage and transactions data, including the help of automated systems and inferences we make. If any decisions are made about you by automated decision-making mechanisms (also called profiling), you may be entitled to review the decision or seek further information in some instances. We will never conduct profiling in respect of sensitive or special category data (such as health data, race, ethnic origins) unless you give us your express consent to do so.
+
+### To Provide Location Specific Recommendations
+ We use location-related information - such as your current location - to give you precise recommendations based on where you are (for example, to recommend your top items in a specific store or inform you of the availability of an item close to you).
+
+
+### To Connect to Many Retailers
+Our Services allow you to use your profile to easily view recommendations and receive content whenever you are within the online or instore environments of any of our <a href="#privacy" class="anchor-link-privacy">retail partners</a>.  To do so, you choose to “connect” your profile with each individual retailer. It is your choice whether to connect to any or all retail partners within the Dressipi retail partner network.
+
+### To Communicate with You
+We will contact you through email, mobile phone, notices posted on our websites or apps, and other ways through our Services, including text messages and push notifications.
+
+We will send you messages about the availability of our Services, security, or other service-related issues. We also send messages about how to use the Services and updates.
+
+If your settings allow and you have opted-in to this via your account, we may also occasionally send you tailored recommendations and promotional messages from us and our partners.
+
+You may change your communication preferences at any time.
+
+Please be aware that you cannot opt-out of receiving service messages from us, including security and legal notices.
+
+
+### To Provide Measurement & Analytics
+We use the information we have, to help our retailer partners measure the effectiveness of our Services and help them better understand the types of people who shop with them and the types of items they want to buy. This helps our retail partners become more efficient by helping them better forecast the type of products that appeal to their customer base and the volume and sizing of their product ranges.
+
+### Advertising
+We do not share your personal data with any third-party advertisers or ad networks and specifically preclude our retail partners from doing the same.
+
+### To Improve Our Services to You
+We use the information we have, to conduct research and development for the further development of our Services to provide you and others with a better, more useful personalised experience and drive growth and engagement with our Services.
+
+We seek to create a more efficient and optimised value chain for global fashion retailers by giving them access to solutions and data that will help them make more precise merchandising and marketing decisions.
+
+### To Provide Customer Support
+We use the data to investigate, respond to and resolve complaints and Service issues (e.g., bugs).
+
+### Aggregate Insights
+We use your data to produce and share aggregated insights that do not identify you. For example, we may use your data to generate statistics about the item preferences of our users.
+
+### Security and Investigations
+We use your data if we think it’s necessary for security purposes or to investigate possible fraud or other violations of our User Agreement or this Privacy Policy and/or attempts to harm our Members or Visitors.
+
+
+## How is this Information Shared?
+### Profile
+Your data is not visible to or shared with any other parties other than those retail partners who you have chosen to connect to.
+
+You can adjust what data is shared with each individual retail partner in your <a href="#privacy" class="anchor-link-privacy">Account Settings</a>.
+
+The information that is shared with a retailer when you connect your profile is as follows:
+Your name and email address
+Your profile information such as your colouring, sizes, garment preferences & attitude towards shopping and dressing (but only if you have provided this information to us – please remember that there is no requirement for you to do so, but the more information we have about your preferences, the more we are able to tailor our Services to you)
+Items that you have wish listed or disliked when in that specific retailer’s store, website or mobile app
+Items that you have scanned when in that specific retailer’s store
+
+### Recommendations Ranking
+We may also send our retail partners a list of products and the order in which to display those products to you.  For example, if you clicked on the jeans category on a retailer website, we would send the retailer a list of jeans to show you ordered by what we understand you will like most. This can also be used to select the products used in emails sent to you.
+
+### Service Providers
+We provide information and content to vendors and other service providers who support our business, such as by providing technical infrastructure services, analysing how our Services are used, providing customer service or conducting surveys. They will have access to your information as reasonably necessary to perform these tasks on our behalf and are obligated not to disclose or use it for other purposes.
+
+### Researchers and Academics
+We also provide information and content to research partners and academics to conduct research that advances scholarship and innovation. We only provide anonymised information necessary to their research and they are obligated to only use it in ways approved by us.
+
+### Legal Disclosures
+It is possible that we will need to disclose information about you when required by law, subpoena, or other legal process or if we have a good faith belief that disclosure is reasonably necessary to
+
+(1) investigate, prevent, or take action regarding suspected or actual illegal activities or to assist government enforcement agencies;
+
+(2) enforce our agreements with you,
+
+(3) investigate and defend ourselves against any third-party claims or allegations,
+
+(4) protect the security or integrity of our Service (such as by sharing with companies facing similar threats); or
+
+(5) exercise or protect the rights and safety of Dressipi, our Users, personnel, or others. We attempt to notify Users about legal demands for their personal data when appropriate in our judgment, unless prohibited by law or court order or when the request is an emergency. We may dispute such demands when we believe, in our discretion, that the requests are overbroad, vague or lack proper authority, but we do not promise to challenge every demand.
+
+### New Owner
+We can also share your personal data as part of a sale, merger or change in control, or in preparation for any of these events. Any other entity which buys us or part of our business will have the right to continue to use your data, but only in the manner set out in this Privacy Policy unless you agree otherwise
+
+
+## What is Our Legal Basis for Processing Data?
+We collect, use and share the data that we have in the ways described above:
+In respect of the Services:
+as necessary to fulfil our Dressipi [Terms of Service](https://dressipi.com/terms-and-conditions/)
+as necessary to comply with our legal obligations;
+as necessary for your legitimate interests, those of our retailers, as well as in our interests in providing an innovative, personalised and useful service to our members, visitors and partners. As you benefit from our Services as a shopper which improves your overall customer experience, we do not consider our legitimate interests are overridden by your interests or fundamental rights and freedoms that require protection of personal data, because our mutual legitimate interests are likely to closely align – the use and provision of an excellent and personalised retail experience.
+
+In respect of sensitive data and other data you provide via “Your Fashion Fingerprint” or in your account:
+consistent with your consent and information which you voluntarily share with us, which you may revoke at any time through your <a href="#privacy" class="anchor-link-privacy">Account Settings</a>.
+
+We also comply with all applicable laws in respect of cookies, including by seeking your consent and opt-in where appropriate. Where we have no control over cookie preferences because our Services are integrated into a retailer environment which is controlled directly by an individual retailer, we ensure that such retailers are contractually bound to respect your privacy rights. You should also check the privacy and cookies policies on the retailer websites that you visit.
+
+Learn more about these legal bases and how they relate to the ways in which we process data.
+
+## International Transfers
+
+From time to time, we may transfer your personal data outside the European Economic Area (EEA) from time to time, such as to our retailers who may be based outside of the EEA.
+
+Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to your personal data by ensuring that at least one of the following safeguards is implemented:
+
+We may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe.
+Where we make transfers to the US or Switzerland, we may transfer data to third parties if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US or Europe and Switzerland.
+Please [contact](mailto:privacy@dressipi.com) us if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
+
+## How Can You Exercise your Rights Provided Under the GDPR?
+
+### Data Retention, Account Deactivation and Deletion
+We retain your personal data while your account is in existence or as needed to provide you Services. This includes data you or others provided to us and data generated or inferred from your use of our Services.
+
+Even if you only use our Services when looking for a new item every few months we will retain your information and keep your profile open until you decide to close your account. This decision is based on research that we have conducted in respect of online shopping habits.
+
+In some cases, we choose to retain certain information in an anonymous, depersonalised or aggregated form to use it for research, data analysis and improving our Services.
+
+### Rights to Access and Control Your Personal Data
+We provide many choices about the collection, use and sharing of your data. We offer you <a href="#privacy" class="anchor-link-privacy">Account Settings</a> to control and manage the personal data we have about you and the ability to delete or correct data added to your profile.
+
+You can [ask us for a copy of your personal data](mailto:privacy@dressipi.com), which we will provide in machine readable form.
+
+### Account Closure
+When you delete your account, we delete your name, email address, mobile number and identifying information such as IP addresses. It is not possible to recover a deleted account. If you have chosen to connect with any of our retail partners, we will request that they also delete your information.
+
+To delete your account at any time, please visit your <a href="#privacy" class="anchor-link-privacy">Account Settings</a>. We generally delete closed account information within 30 days of account closure, except as noted below.
+
+We retain your personal data even after you have closed your account if reasonably necessary to comply with our legal obligations (including law enforcement requests), meet regulatory requirements, resolve disputes, maintain security, prevent fraud and abuse, enforce our User Agreement, or fulfil your request to “unsubscribe” from further messages from us. We will retain de-personalised information after your account has been closed.
+
+
+## Other Important Information
+
+### Security
+
+We implement security safeguards designed to protect your data, such as HTTPS and encrypting data at rest. We regularly monitor our systems for possible vulnerabilities and attacks. However, we cannot warrant the security of any information that you send us because the nature of the Internet is an inherently unsecure environment. When using online services generally, including our Services, there is no guarantee that data may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+
+### Contact Information
+
+If you have questions or complaints regarding this Policy, please first contact Dressipi via [privacy@dressipi.com](mailto:privacy@dressipi.com). You can also reach us by physical mail. If contacting us does not resolve your complaint, you have more options which include the right to lodge a complaint with a supervisory authority, in particular in the European Union (or European Economic Area) state where you work, normally live or where any alleged infringement of data protection laws occurred. The supervisory authority in the UK is the Information Commissioner who may be contacted at [www.ico.org.uk/concerns/](https://ico.org.uk/concerns/) or by telephone: 0303 123 1113.

@@ -11,6 +11,15 @@ $(document).ready(function() {
   });
 
 
+  $('.anchor-link-privacy').on('click', function() {
+    var scrollTop = $(this.hash).offset().top - 155;
+
+    $('html,body').animate({
+      scrollTop: scrollTop
+    }, 1000);
+    return false;
+  });
+
   // mobile menu trigger
   $('.header-mobile-button').on('click', function() {
     $(this).toggleClass('header-mobile-button--open');
