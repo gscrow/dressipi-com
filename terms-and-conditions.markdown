@@ -10,11 +10,9 @@ header:
 layout: page
 ---
 
-#### Dated 14 May 2018.
-
 These Terms govern your use of Dressipi and the products, features, apps, services, technologies, and software we offer (the Services), except where we expressly state that separate terms (and not these) apply.
 
-You are entering into this contract with Dressipi, a trading name of StyleMania Ltd a company registered in England and Wales under registration number 7063626 whose registered office is at StyleMania Ltd, 10th Floor, 20 Eastbourne Terrace, London, W2 6LG, UK, trading as “Dressipi” (we, us or Dressipi).
+You are entering into this contract with Dressipi, a trading name of StyleMania Ltd a company registered in England and Wales under registration number 7063626 whose registered office is at StyleMania Ltd, 10th Floor, 20 Eastbourne Terrace, London, W2 6LG, UK, trading as “Dressipi” (***we, us*** or ***Dressipi***).
 
 
 ## Our Services
@@ -22,7 +20,7 @@ Dressipi’s mission is to help people easily find and decide on the clothes the
 
 ### Provide Personalised Recommendations for You:
 What you buy and wear is unique to you. We help you (and millions of shoppers) easily find items that will suit your individual style, taste and preferences and can be worn well with items that are already in your wardrobe.
-We use the data we have to create these tailored recommendations (and associated content) - for example, your profile information, your preferences, the choices and settings you select and your activity and transactions on Dressipi sites, apps and plug-ins that our retail partners use.  Keeping your profile accurate and up-to-date helps us to make these recommendations more accurate and relevant. Any information that we hold about you or any personal data that you supply to us under these Terms shall always be processed in accordance with applicable laws and terms of our Privacy Policy. If any information is gained about you via our cookies or other similar technologies, we always act in accordance with our Cookies Policy. Where cookies or other technologies which collect personal data or other information are held solely within our retailers’ environments, this is outside the scope of these Terms and our Services. You should therefore always check the privacy and cookies policy, as well as your general preferences if available, on each individual retailer website that you visit.
+We use the data we have to create these tailored recommendations (and associated content) - for example, your profile information, your preferences, the choices and settings you select and your activity and transactions on Dressipi sites, apps and plug-ins that our retail partners use.  Keeping your profile accurate and up-to-date helps us to make these recommendations more accurate and relevant. Any information that we hold about you or any personal data that you supply to us under these Terms shall always be processed in accordance with applicable laws and terms of our [Privacy Policy](https://dressipi.com/privacy/) . If any information is gained about you via our cookies or other similar technologies, we always act in accordance with our [Cookies Policy](https://dressipi.com/cookies/). Where cookies or other technologies which collect personal data or other information are held solely within our retailers’ environments, this is outside the scope of these Terms and our Services. You should therefore always check the privacy and cookies policy, as well as your general preferences if available, on each individual retailer website that you visit.
 
 ### Empower Retailers to Improve Efficiency
 We develop data products and solutions that enable our retail partners to get a deeper understanding of the types of clothes and features their customers prefer and want to buy.  With this information our retail partners can establish a more efficient and optimised value chain which will ultimately reduce industry wastage.
@@ -38,8 +36,8 @@ If you do not agree to this contract (“Contract” or “Terms of Service”),
 Registered users of our Services are “Members” and unregistered users are “Visitors”. This Contract applies to both Members and Visitors.
 
 ## Our Data Policy and Your Privacy Choices
-We collect and use your personal data to provide the Services described above to you. You can learn about how we collect and use your data in our Privacy Policy. We also encourage you to review the privacy choices you have about the ways in which we use data in your Account Settings.
-If you don’t have an account, you can opt out here.
+We collect and use your personal data to provide the Services described above to you. You can learn about how we collect and use your data in our [Privacy Policy](https://dressipi.com/privacy/). We also encourage you to review the privacy choices you have about the ways in which we use data in your <a href="#privacy" class="anchor-link-privacy">Account Settings</a>.
+If you don’t have an account, you can opt out <a href="#privacy" class="anchor-link-privacy">here</a>.
 
 ## Your Commitments to Dressipi
 
@@ -50,7 +48,7 @@ You are the "Minimum Age" or older
 You will provide accurate information about yourself
 You will use your account for personal purposes only
 You will not share your password, give access to your Dressipi account to others, or transfer your account to anyone else (without our permission). If, with our permission, you transfer your account or give access to anyone else, you are responsible for ensuring that all persons who access your account are aware of these Terms and other applicable terms and conditions and policies, and that they comply with them.
-Further, if you choose, or you are provided with, a user identification code, password or any other piece of information as part of our security procedures, you must treat such information as confidential. You must not disclose it to any third party. We have the right to disable any user identification code or password, whether chosen by you or allocated by us, at any time, if in our reasonable opinion you have failed to comply with any of the provisions of these terms of use. If you know or suspect that anyone other than you knows your user identification code or password, you must promptly contact us.
+Further, if you choose, or you are provided with, a user identification code, password or any other piece of information as part of our security procedures, you must treat such information as confidential. You must not disclose it to any third party. We have the right to disable any user identification code or password, whether chosen by you or allocated by us, at any time, if in our reasonable opinion you have failed to comply with any of the provisions of these terms of use. If you know or suspect that anyone other than you knows your user identification code or password, you must promptly [contact us](mailto:privacy@dressipi.com).
 
 ### Notices and Messages
 
@@ -59,12 +57,12 @@ Within the Service
 Or sent to the contact information you provide to us (e.g., email, mobile number).
 You agree to keep your contact information up to date.
 
-Such communications as described above are strictly necessary for the performance of these Terms and Conditions and the proper running of your account, and do not constitute marketing emails. However, you are able to access and review your Account Settings at any time to control and limit the type of messages you receive from us.
+Such communications as described above are strictly necessary for the performance of these Terms and Conditions and the proper running of your account, and do not constitute marketing emails. However, you are able to access and review your <a href="#privacy" class="anchor-link-privacy">Account Settings</a> at any time to control and limit the type of messages you receive from us.
 
 
 ## Third Party and Retailer Online Environments
 
-We are not responsible for third party or retailer websites containing our technology, on which our technology is placed, or which you may have access to when using our Services. We are also not responsible for how they may use your personal data, unless we have entered into a specific agreement with them (for more information, please see our Privacy Policy).
+We are not responsible for third party or retailer websites containing our technology, on which our technology is placed, or which you may have access to when using our Services. We are also not responsible for how they may use your personal data, unless we have entered into a specific agreement with them (for more information, please see our [Privacy Policy](https://dressipi.com/privacy/)).
 
 Therefore, the use and placement of our technology on any third party or retailer websites should not be interpreted as approval by us of those websites or information you may obtain or have access to from them.
 
@@ -85,7 +83,7 @@ You should know that, for technical reasons, content you delete may persist for 
 
 ### Permission to Share Your Profile & Preferences
 
-When you connect your profile to any of our retail partners you give us permission to share your profile, data with that retailer (in accordance with your Account Settings and our Privacy Policy).
+When you connect your profile to any of our retail partners you give us permission to share your profile, data with that retailer (in accordance with your <a href="#privacy" class="anchor-link-privacy">Account Settings</a> and our [Privacy Policy](https://dressipi.com/privacy/)).
 
 This data will only be used to improve your personalised shopping experience with that retailer and to improve their understanding of the types of clothes and features their customers prefer and want to buy.
 

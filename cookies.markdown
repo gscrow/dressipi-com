@@ -10,9 +10,6 @@ header:
 layout: page
 ---
 
-#### Dated 14 May 2018.
-
-
 ## Your Privacy Matters
 We believe in being clear and open about how we collect and use data related to you. This policy provides detailed information about how and when we use cookies.
 
@@ -75,7 +72,7 @@ We do not use cookies for any form of advertising.
 
 ## What Third-Party Cookies does Dressipi Use?
 
-Our cookie table lists the third-party cookies on our sites. Please note that the names of cookies, pixels and other technologies may change over time.
+Our <a href="#cookies-table" class="anchor-link-privacy">cookie table</a> lists the third-party cookies on our sites. Please note that the names of cookies, pixels and other technologies may change over time.
 
 Sometimes, third parties (such as social media providers) can place cookies on websites, apps and other technologies to track their subscribed users. This is not something that we authorise, but should this occur outside of our knowledge or control, these third parties are responsible for those cookies.
 
@@ -97,7 +94,9 @@ This then confirms that you are happy to accept our use of cookies. When we are 
 
 Where our retailers use our cookies and make them available to you via their online environment, we always ensure that our retailers respect your opt-in and privacy rights, for example, in our agreements with them.
 
-If you don't want us to use cookies when you visit Dressipi, you can opt-out of some cookies on your Account Settings page.
+If you don't want us to use cookies when you visit Dressipi, you can opt-out of some cookies on your <a href="#privacy" class="anchor-link-privacy">Account Settings</a> page.
+
+If you don’t have an account, you can opt out <a href="#privacy" class="anchor-link-privacy">here</a>.
 
 For us to recognise that you have opted out of cookies, we must place our Dressipi opt-out cookie on your device so we can know not to set other Dressipi cookies the next time you visit.
 
@@ -126,7 +125,7 @@ Opera Mobile
 
 
 
-
+<div id="cookies-table"></div>
 ## Cookies used by Dressipi
 ### These are cookies set by Dressipi and used only by Dressipi
 
@@ -150,7 +149,7 @@ These are cookies set by Dressipi and readable by the retailer you are visiting.
 
 ### Cookies used by third parties
 
-These are cookies set and used by third parties providing services to Dressipi. See https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage for more information on google analytics
+These are cookies set and used by third parties providing services to Dressipi. See [www.developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) for more information on google analytics
 
 | Cookie | Expiration | More Information |
 | --- | --- | --- |
