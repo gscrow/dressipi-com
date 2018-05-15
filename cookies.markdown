@@ -104,8 +104,7 @@ If you do not want to receive cookies, you can also change your browser settings
 
 Please note that your Dressipi clothing recommendations will not work properly without cookies.
 
-To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit wikipedia.org, www.allaboutcookies.org, or www.aboutcookies.org.
-
+To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit <a href="https://wikipedia.org" target="_blank">www.wikipedia.org</a>, <a href="http://allaboutcookies.org" target="_blank">www.allaboutcookies.org</a>, or <a href="http://aboutcookies.org" target="_blank">www.aboutcookies.org</a>.
 
 ## Other Helpful Resources
 Browser manufacturers provide help pages relating to cookie management in their products. Click on the links below for more information.
@@ -129,7 +128,7 @@ Browser manufacturers provide help pages relating to cookie management in their 
 | dressipi-session | Session cookie | Stores temporary data such as error messages |
 | last-login | 2 years | Encrypted copy of the email address you last logged in with. This allows us to prefill the email field on the login form |
 | Dressipi-mobile | 2 years | Records whether we should be showing you the mobile version of our site |
-| _ga, _gid, _gat | Up to 2 years | These cookies are set by google analytics, which we use to analyse how our site is used See https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage |
+| _ga, _gid, _gat | Up to 2 years | These cookies are set by google analytics, which we use to analyse how our site is used See <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage" target="_blank">www.developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage </a>|
 | Dressipi_status | 2 years | This allows the retailer you are visiting to know that you have already completed signup with dressipi. |
 
 
@@ -143,7 +142,7 @@ These are cookies set by Dressipi and readable by the retailer you are visiting.
 
 ### Cookies used by third parties
 
-These are cookies set and used by third parties providing services to Dressipi. See [www.developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) for more information on google analytics
+These are cookies set and used by third parties providing services to Dressipi. See a <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage" target="_blank">www.developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage </a>  for more information on google analytics
 
 | Cookie | Expiration | More Information |
 | --- | --- | --- |

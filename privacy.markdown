@@ -196,15 +196,15 @@ We also provide information and content to research partners and academics to co
 ### Legal Disclosures
 It is possible that we will need to disclose information about you when required by law, subpoena, or other legal process or if we have a good faith belief that disclosure is reasonably necessary to
 
-(1) investigate, prevent, or take action regarding suspected or actual illegal activities or to assist government enforcement agencies;
+* Investigate, prevent, or take action regarding suspected or actual illegal activities or to assist government enforcement agencies;
 
-(2) enforce our agreements with you,
+* Enforce our agreements with you,
 
-(3) investigate and defend ourselves against any third-party claims or allegations,
+* Investigate and defend ourselves against any third-party claims or allegations,
 
-(4) protect the security or integrity of our Service (such as by sharing with companies facing similar threats); or
+* Protect the security or integrity of our Service (such as by sharing with companies facing similar threats); or
 
-(5) exercise or protect the rights and safety of Dressipi, our Users, personnel, or others. We attempt to notify Users about legal demands for their personal data when appropriate in our judgment, unless prohibited by law or court order or when the request is an emergency. We may dispute such demands when we believe, in our discretion, that the requests are overbroad, vague or lack proper authority, but we do not promise to challenge every demand.
+* Exercise or protect the rights and safety of Dressipi, our Users, personnel, or others. We attempt to notify Users about legal demands for their personal data when appropriate in our judgment, unless prohibited by law or court order or when the request is an emergency. We may dispute such demands when we believe, in our discretion, that the requests are overbroad, vague or lack proper authority, but we do not promise to challenge every demand.
 
 ### New Owner
 We can also share your personal data as part of a sale, merger or change in control, or in preparation for any of these events. Any other entity which buys us or part of our business will have the right to continue to use your data, but only in the manner set out in this Privacy Policy unless you agree otherwise
@@ -264,4 +264,4 @@ We implement security safeguards designed to protect your data, such as HTTPS an
 
 ### Contact Information
 
-If you have questions or complaints regarding this Policy, please first contact Dressipi via [privacy@dressipi.com](mailto:privacy@dressipi.com). You can also reach us by physical mail. If contacting us does not resolve your complaint, you have more options which include the right to lodge a complaint with a supervisory authority, in particular in the European Union (or European Economic Area) state where you work, normally live or where any alleged infringement of data protection laws occurred. The supervisory authority in the UK is the Information Commissioner who may be contacted at [www.ico.org.uk/concerns/](https://ico.org.uk/concerns/) or by telephone: 0303 123 1113.
+If you have questions or complaints regarding this Policy, please first contact Dressipi via [privacy@dressipi.com](mailto:privacy@dressipi.com). You can also reach us by physical mail. If contacting us does not resolve your complaint, you have more options which include the right to lodge a complaint with a supervisory authority, in particular in the European Union (or European Economic Area) state where you work, normally live or where any alleged infringement of data protection laws occurred. The supervisory authority in the UK is the Information Commissioner who may be contacted at <a href="https://ico.org.uk/concerns/" target="_blank">www.ico.org.uk/concerns/</a> or by telephone: 0303 123 1113.
