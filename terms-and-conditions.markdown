@@ -44,18 +44,18 @@ If you don’t have an account, you can opt out <a href="#privacy" class="anchor
 ### Service Eligibility
 
 The Services are not for use by anyone under the age of 13. We provide our Services to you and others to help advance our mission. In exchange, we need you to make the following commitments:
-You are the "Minimum Age" or older
-You will provide accurate information about yourself
-You will use your account for personal purposes only
-You will not share your password, give access to your Dressipi account to others, or transfer your account to anyone else (without our permission). If, with our permission, you transfer your account or give access to anyone else, you are responsible for ensuring that all persons who access your account are aware of these Terms and other applicable terms and conditions and policies, and that they comply with them.
-Further, if you choose, or you are provided with, a user identification code, password or any other piece of information as part of our security procedures, you must treat such information as confidential. You must not disclose it to any third party. We have the right to disable any user identification code or password, whether chosen by you or allocated by us, at any time, if in our reasonable opinion you have failed to comply with any of the provisions of these terms of use. If you know or suspect that anyone other than you knows your user identification code or password, you must promptly [contact us](mailto:privacy@dressipi.com).
+* You are the "Minimum Age" or older
+* You will provide accurate information about yourself
+* You will use your account for personal purposes only
+* You will not share your password, give access to your Dressipi account to others, or transfer your account to anyone else (without our permission). If, with our permission, you transfer your account or give access to anyone else, you are responsible for ensuring that all persons who access your account are aware of these Terms and other applicable terms and conditions and policies, and that they comply with them.
+* Further, if you choose, or you are provided with, a user identification code, password or any other piece of information as part of our security procedures, you must treat such information as confidential. You must not disclose it to any third party. We have the right to disable any user identification code or password, whether chosen by you or allocated by us, at any time, if in our reasonable opinion you have failed to comply with any of the provisions of these terms of use. If you know or suspect that anyone other than you knows your user identification code or password, you must promptly [contact us](mailto:privacy@dressipi.com).
 
 ### Notices and Messages
 
 In order for us to perform the Contract and provide the Services to you, we will provide notices and messages to you in the following ways:
-Within the Service
-Or sent to the contact information you provide to us (e.g., email, mobile number).
-You agree to keep your contact information up to date.
+* Within the Service
+* Or sent to the contact information you provide to us (e.g., email, mobile number).
+* You agree to keep your contact information up to date.
 
 Such communications as described above are strictly necessary for the performance of these Terms and Conditions and the proper running of your account, and do not constitute marketing emails. However, you are able to access and review your <a href="#privacy" class="anchor-link-privacy">Account Settings</a> at any time to control and limit the type of messages you receive from us.
 

@@ -179,10 +179,10 @@ Your data is not visible to or shared with any other parties other than those re
 You can adjust what data is shared with each individual retail partner in your <a href="#privacy" class="anchor-link-privacy">Account Settings</a>.
 
 The information that is shared with a retailer when you connect your profile is as follows:
-Your name and email address
-Your profile information such as your colouring, sizes, garment preferences & attitude towards shopping and dressing (but only if you have provided this information to us – please remember that there is no requirement for you to do so, but the more information we have about your preferences, the more we are able to tailor our Services to you)
-Items that you have wish listed or disliked when in that specific retailer’s store, website or mobile app
-Items that you have scanned when in that specific retailer’s store
+* Your name and email address
+* Your profile information such as your colouring, sizes, garment preferences & attitude towards shopping and dressing (but only if you have provided this information to us – please remember that there is no requirement for you to do so, but the more information we have about your preferences, the more we are able to tailor our Services to you)
+* Items that you have wish listed or disliked when in that specific retailer’s store, website or mobile app
+* Items that you have scanned when in that specific retailer’s store
 
 ### Recommendations Ranking
 We may also send our retail partners a list of products and the order in which to display those products to you.  For example, if you clicked on the jeans category on a retailer website, we would send the retailer a list of jeans to show you ordered by what we understand you will like most. This can also be used to select the products used in emails sent to you.
@@ -213,12 +213,12 @@ We can also share your personal data as part of a sale, merger or change in cont
 ## What is Our Legal Basis for Processing Data?
 We collect, use and share the data that we have in the ways described above:
 In respect of the Services:
-as necessary to fulfil our Dressipi [Terms of Service](https://dressipi.com/terms-and-conditions/)
-as necessary to comply with our legal obligations;
-as necessary for your legitimate interests, those of our retailers, as well as in our interests in providing an innovative, personalised and useful service to our members, visitors and partners. As you benefit from our Services as a shopper which improves your overall customer experience, we do not consider our legitimate interests are overridden by your interests or fundamental rights and freedoms that require protection of personal data, because our mutual legitimate interests are likely to closely align – the use and provision of an excellent and personalised retail experience.
+* as necessary to fulfil our Dressipi [Terms of Service](https://dressipi.com/terms-and-conditions/)
+* as necessary to comply with our legal obligations;
+* as necessary for your legitimate interests, those of our retailers, as well as in our interests in providing an innovative, personalised and useful service to our members, visitors and partners. As you benefit from our Services as a shopper which improves your overall customer experience, we do not consider our legitimate interests are overridden by your interests or fundamental rights and freedoms that require protection of personal data, because our mutual legitimate interests are likely to closely align – the use and provision of an excellent and personalised retail experience.
 
 In respect of sensitive data and other data you provide via “Your Fashion Fingerprint” or in your account:
-consistent with your consent and information which you voluntarily share with us, which you may revoke at any time through your <a href="#privacy" class="anchor-link-privacy">Account Settings</a>.
+* consistent with your consent and information which you voluntarily share with us, which you may revoke at any time through your <a href="#privacy" class="anchor-link-privacy">Account Settings</a>.
 
 We also comply with all applicable laws in respect of cookies, including by seeking your consent and opt-in where appropriate. Where we have no control over cookie preferences because our Services are integrated into a retailer environment which is controlled directly by an individual retailer, we ensure that such retailers are contractually bound to respect your privacy rights. You should also check the privacy and cookies policies on the retailer websites that you visit.
 
@@ -230,9 +230,9 @@ From time to time, we may transfer your personal data outside the European Econo
 
 Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to your personal data by ensuring that at least one of the following safeguards is implemented:
 
-We may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe.
-Where we make transfers to the US or Switzerland, we may transfer data to third parties if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US or Europe and Switzerland.
-Please [contact](mailto:privacy@dressipi.com) us if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
+* We may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe.
+* Where we make transfers to the US or Switzerland, we may transfer data to third parties if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US or Europe and Switzerland.
+* Please [contact](mailto:privacy@dressipi.com) us if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
 
 ## How Can You Exercise your Rights Provided Under the GDPR?
 
