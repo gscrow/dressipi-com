@@ -108,7 +108,7 @@ To find out more about cookies, including how to see what cookies have been set 
 
 
 ## Other Helpful Resources
-Browser manufacturers provide help pages relating to cookie management in their products. Click on the links below for more information.
+Browser manufacturers provide help pages relating to cookie management in their products. Click on the links below for more information:
 
 * Google Chrome
 * Internet Explorer
