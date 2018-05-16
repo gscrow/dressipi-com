@@ -1,5 +1,5 @@
 ---
-title: Dressipi Cookies Policy
+title: Cookies Policy
 date: 2017-05-06 10:17:00 Z
 position: 14
 navigation: meta
@@ -12,7 +12,6 @@ layout: page
 
 ## Your Privacy Matters
 We believe in being clear and open about how we collect and use data related to you. This policy provides detailed information about how and when we use cookies.
-
 
 ## What is a Cookie?
 A cookie is a small file placed on your web browser or device that stores and retrieves information.
