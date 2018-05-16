@@ -108,14 +108,14 @@ To find out more about cookies, including how to see what cookies have been set 
 ## Other Helpful Resources
 Browser manufacturers provide help pages relating to cookie management in their products. Click on the links below for more information.
 
-* Google Chrome
-* Internet Explorer
-* Mozilla Firefox
-* Safari (Desktop)
-* Safari (Mobile)
-* Android Browser
-* Opera
-* Opera Mobile
+* <a href="https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en" target="_blank" class="web-browser">Google Chrome</a>
+* <a href="https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies" target="_blank" class="web-browser">Internet Explorer</a>
+* <a href="https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences" target="_blank" class="web-browser">Mozilla Firefox</a>
+* <a href="https://support.apple.com/kb/ph21411?locale=en_GB" target="_blank" class="web-browser">Safari (Desktop)</a>
+* <a href="https://support.apple.com/en-gb/HT201265" target="_blank" class="web-browser">Safari (Mobile)</a>
+* <a href="" target="_blank" class="web-browser">Android Browser</a>
+* <a href="https://www.opera.com/help/tutorials/security/privacy/" target="_blank" class="web-browser">Opera</a>
+* <a href="https://www.opera.com/help/tutorials/security/privacy/" target="_blank" class="web-browser">Opera Mobile</a>
 
 <div id="cookies-table"></div>
 ## Cookies used by Dressipi
