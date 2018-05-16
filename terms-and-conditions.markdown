@@ -10,7 +10,7 @@ width: narrow
 layout: page
 ---
 
-<em>Our Terms have been updated. The full agreement is below. Please note some of the links will not be active before 23 May 2018. </em>
+<em>Our Terms have been updated. The full agreement is below. Please note some of the links will not be active before 23 May 2018.</em>
 
 These Terms govern your use of Dressipi and the products, features, apps, services, technologies, and software we offer (the Services), except where we expressly state that separate terms (and not these) apply.
 
