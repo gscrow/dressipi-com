@@ -118,8 +118,10 @@ Browser manufacturers provide help pages relating to cookie management in their 
 * <a href="https://www.opera.com/help/tutorials/security/privacy/" target="_blank" class="web-browser">Opera Mobile</a>
 
 <div id="cookies-table"></div>
-## Cookies used by Dressipi
-### These are cookies set by Dressipi and used only by Dressipi
+## Cookies Table
+
+### Cookies used by Dressipi
+These are cookies set by Dressipi and used only by Dressipi.
 
 | Cookie | Expiration | More Information |
 | --- | --- | --- |

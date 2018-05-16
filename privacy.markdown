@@ -10,7 +10,7 @@ width: narrow
 layout: page
 ---
 
-<em>Our Privacy Policy has been updated. The full policy is below. Please note some of the links will not be active before 23 May 2018.</em>
+<blockquote class="hi"><em>Our Privacy Policy has been updated. The full policy is below. Please note some of the links will not be active before 23 May 2018.</em></blockquote>
 
 ## Your Privacy Matters
 
