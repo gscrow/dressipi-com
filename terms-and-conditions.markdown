@@ -10,13 +10,15 @@ header:
 layout: page
 ---
 
+*Our Terms have been updated. The full agreement is below. Please note some of the links will not be active before 23 May 2018. *
+
 These Terms govern your use of Dressipi and the products, features, apps, services, technologies, and software we offer (the Services), except where we expressly state that separate terms (and not these) apply.
 
 You are entering into this contract with Dressipi, a trading name of StyleMania Ltd a company registered in England and Wales under registration number 7063626 whose registered office is at StyleMania Ltd, 10th Floor, 20 Eastbourne Terrace, London, W2 6LG, UK, trading as “Dressipi” (***we, us*** or ***Dressipi***).
 
 
 ## Our Services
-Dressipi’s mission is to help people easily find and decide on the clothes they buy and enable retailers to become more customer centric and efficient, thereby reducing wastage in the fashion industry. To help fulfil this mission, we provide the Services as described below:
+Dressipi’s mission is to help people easily find and decide on the clothes they buy, enabling retailers to be more customer-centric and efficient. To help fulfil this mission, we provide the Services as described below:
 
 ### Provide Personalised Recommendations for You:
 What you buy and wear is unique to you. We help you (and millions of shoppers) easily find items that will suit your individual style, taste and preferences and can be worn well with items that are already in your wardrobe.
