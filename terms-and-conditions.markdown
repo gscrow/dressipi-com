@@ -18,7 +18,7 @@ You are entering into this contract with Dressipi, a trading name of StyleMania 
 
 
 ## Our Services
-Dressipi’s mission is to help people easily find and decide on the clothes they buy, enabling retailers to be more customer-centric and efficient. To help fulfil this mission, we provide the Services as described below:
+Dressipi’s mission is to help people easily find the clothes they will love, and enable retailers to be more customer-centric and efficient. To help fulfil this mission, we provide the Services as described below:
 
 ### Provide Personalised Recommendations for You:
 What you buy and wear is unique to you. We help you (and millions of shoppers) easily find items that will suit your individual style, taste and preferences and can be worn well with items that are already in your wardrobe.
