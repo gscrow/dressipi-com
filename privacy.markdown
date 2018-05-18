@@ -14,7 +14,7 @@ layout: page
 
 ## Your Privacy Matters
 
-Dressipi’s mission is to help people easily find the clothes they will love, and enable retailers to be more customer-centric and efficient.
+Dressipi’s mission is to help people easily find the clothes they will love and enable retailers to be more customer-centric and efficient.
 
 We are 100% committed to protecting the privacy and security of our Members and Visitors.
 
