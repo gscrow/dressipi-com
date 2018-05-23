@@ -5,3 +5,4 @@ position: 6
 logo: "/uploads/logo__wallis.svg"
 link: http://www.wallis.co.uk/en/wluk/category/your-style-adviser-2567573/home?geoip=noredirect
 ---
+
