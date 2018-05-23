@@ -35,4 +35,18 @@ According to [Fashion United](https://fashionunited.uk/news/retail/inditex-opens
 
 ### 3) ASOS Instant
 
+[Drapers ](https://www.drapersonline.com/7030354.article?utm_source=newsletter&utm_medium=email&utm_campaign=DR_EditorialNewsletters.Reg:%20Send%20-%20Daily%20News&mkt_tok=eyJpIjoiTnpCbU16WmxNVEZsTnpObSIsInQiOiJieDhYd2JnV2ZRWlZMaFB3ellTUTZSUWdqU05cL3UyS2F6bnhqenRTVU81NnhCTDBJM0RJMEdUVVdWRG0xOWRHU243WlwvYjVrQ0Vpand5SXRjXC9maVZOb3lvYUNzXC9IRk5uUGxncXZ3aVlacCtaVHlESUxaMGE5ekpjbGNadW1yTUgifQ%3D%3D)reported that, *“ASOS has announced the arrival of its same-day delivery service ASOS Instant in Birmingham, after successful launches in London, Leeds and Manchester.”* If you place an order before 12pm, Monday to Friday, customers could get this order that same day, costing you only £9.95.
 
+[Fashion United](https://fashionunited.uk/news/retail/more-than-a-quarter-of-brits-shop-online-once-a-week/2018051529632?utm_source=FashionUnited+UK+Trade+Journal&utm_campaign=91a871624e-EMAIL_CAMPAIGN_2018_05_15&utm_medium=email&utm_term=0_18295b0d8e-91a871624e-151222577) highlighted, *“More than a quarter of Brits shop online once a week.”* Delivery is important with the rise of online shopping, with a spokesperson for Royal Mail Parcels saying in a statement, *“Consumers are looking for convenience”* ([Fashion United](https://fashionunited.uk/news/retail/more-than-a-quarter-of-brits-shop-online-once-a-week/2018051529632?utm_source=FashionUnited+UK+Trade+Journal&utm_campaign=91a871624e-EMAIL_CAMPAIGN_2018_05_15&utm_medium=email&utm_term=0_18295b0d8e-91a871624e-151222577)). ASOS’ delivery system has a huge number of convenient options such as delivery subscriptions, next-day delivery, click and collect, one-hour delivery slots and free returns.
+
+4) Royal Wedding Boosts Retail Sales
+
+After poor retail sales over the last few months and [Easter](https://dressipi.com/blog/monthly-retail-round-up-april-2018/), the good weather *“has helped boost footfall and sales,”* as reported in [Drapers](https://www.drapersonline.com/news/fashion-sales-boosted-by-good-weather/7030412.article?search=https%3a%2f%2fwww.drapersonline.com%2fsearcharticles%3fqsearch%3d1%26keywords%3dweather) from the BDO’s high street sales tracker. External factors have a huge influence on retail sales - the sunshine, May bank holiday weekends and the Royal wedding have helped boost sales (especially in occasionwear).
+
+Back in 2011, Prince William and Kate Middleton’s wedding also had a positive effect on sales with the UK occasionwear market growing by 1.1% between March 2011 and March 2012 (Figures from Kantar WorldPanel, reported in [Drapers](https://www.drapersonline.com/news/women-are-seeking-that-special-something/5036257.article)). By the end of August, [Springboard](https://www.spring-board.info/review-download/royal-wedding-footfall-sales-forecast-2018) predicts that the Royal Wedding: 
+
+* Is set to boost retail sales across the UK by an estimated £195.5 million (+0.2% uplift).
+* Will increase footfall by an average of +0.3%.
+* Non-food which includes fashion will reach £48.9 million as a result of the much talked about ‘Meghan Effect’.
+
+## We hope you enjoyed the round-up. Please feel free to get in touch with any stories you feel would be of interest. 
