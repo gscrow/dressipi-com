@@ -25,8 +25,6 @@ layout: default
           </hgroup>
 
           <form class="form-download__form" method="POST" action="https://formspree.io/mgoaajkm">
-            <input type="checkbox" name="marketing" style="margin-bottom: 32px; margin-left: -2px; float: left; width: 5%;" id="checkOpt" name="subscribe">
-            <label for="checkOpt" style="font-size: 84%;">{{ page.form.checkbox }}</label>
             <input type="text" name="_gotcha" style="display: none">
             <input type="hidden" name="_next" value="{{ page.form.file | default: '/' }}" />
             <input type="hidden" name="_subject" value="New Download – Email submission" />
@@ -34,6 +32,8 @@ layout: default
             <input type="hidden" name="page url" value="{{ page.url }}" />
             <input class="form-download__input" type="input" name="name" placeholder="Enter your name">
             <input class="form-download__input" type="email" name="email" placeholder="Enter your work email">
+            <input type="checkbox" name="marketing"  id="checkOpt" name="subscribe">
+            <label for="checkOpt" class="checkOpt__label">{{ page.form.checkbox }}</label>
             <button class="button button--large button-primary form-download__submit {{page.form.button_class}}" type="submit">
               {{ page.form.button }}
             </button>

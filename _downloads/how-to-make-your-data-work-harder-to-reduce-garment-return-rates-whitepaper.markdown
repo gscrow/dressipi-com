@@ -7,7 +7,7 @@ resource: Whitepapers
 image: "/uploads/returns_small.jpg"
 form:
   title: Download Free Whitepaper
-  checkbox: I agree to receive marketing materials by email.
+  checkbox: Yes, I would like to receive marketing communications regarding Dressipi products and services
   button: Download Whitepaper
   file: "/uploads/Whitepaper-How-To-Make-Your-Data-Work-Harder-To-Reduce-Garment-Return-Rates.pdf"
   button_class: whitepaper

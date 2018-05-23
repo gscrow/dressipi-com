@@ -23,6 +23,17 @@
     margin-bottom: rhythm(2);
   }
 
+  #checkOpt {
+    margin-bottom: 55px;
+    margin-left: -2px;
+    float: left;
+    width: 5%;
+  }
+
+  .checkOpt__label {
+    font-size: 84%;
+  }
+
   &__submit {
     width: 100%;
     height: rhythm(8);
@@ -47,8 +58,12 @@
       }
     }
 
+    .checkOpt__label {
+      font-size: 81%;
+    }
+
     &__submit, &__input {
-      font-size: ms(0);
+      font-size: 0.9rem;
     }
   }
 }
@@ -60,6 +75,10 @@
       > h3 {
         font-size: ms(2);
       }
+    }
+
+  #checkOpt {
+    margin-bottom: 55px;
     }
   }
 }
