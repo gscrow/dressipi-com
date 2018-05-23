@@ -50,3 +50,5 @@ Back in 2011, Prince William and Kate Middleton’s wedding also had a positive 
 * Non-food which includes fashion will reach £48.9 million as a result of the much talked about ‘Meghan Effect’.
 
 ## We hope you enjoyed the round-up. Please feel free to get in touch with any stories you feel would be of interest. 
+
+> Banner Photo by Priscilla Du Preez on Unsplash
