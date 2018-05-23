@@ -10,8 +10,6 @@ width: narrow
 layout: page
 ---
 
-<blockquote class="hi"><em>Our Privacy Policy has been updated. The full policy is below. Please note some of the links will not be active before 23 May 2018.</em></blockquote>
-
 ## Your Privacy Matters
 
 Dressipi’s mission is to help people easily find the clothes they will love and enable retailers to be more customer-centric and efficient.
