@@ -5,4 +5,3 @@ position: 5
 logo: "/uploads/logo__nike.svg"
 link: http://www.very.co.uk/nike-personal-wardrobe.page
 ---
-
