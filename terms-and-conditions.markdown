@@ -25,7 +25,7 @@ We use the data we have to create these tailored recommendations (and associated
 ### Empower Retailers to Improve Efficiency
 We develop data products and solutions that enable our retail partners to get a deeper understanding of the types of clothes and features their customers prefer and want to buy.  With this information our retail partners can establish a more efficient and optimised value chain which will ultimately reduce industry wastage.
 
-Our retail partners pay us to provide them with a list of recommendations for each shopper, which they use to personalise your shopping journey experience when you are on their sites, in their stores or receiving communications from them (in accordance with your settings). Our retail partners can also pay us to provide them with insights that help them better forecast the types and volumes of products they should creating, buying and selling.
+Our retail partners pay us to provide them with a list of recommendations for each shopper, which they use to personalise your shopping journey experience when you are on their sites, in their stores or receiving communications from them (in accordance with your settings). Our retail partners can also pay us to provide them with insights that help them better forecast the types and volumes of products they should be creating, buying and selling.
 
 
 ## Contract
