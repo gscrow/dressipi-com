@@ -81,7 +81,7 @@
         {% assign site_clients = site.clients | sort:'position' %}
         {% for client in site_clients %}
           {% if page.header.clients contains client.title %}
-          <li class="client__logo"><img src="{{ client.logo }}" class="" alt="{{ client.title }}" /></li>
+          <li class="client__logo {{ client.class }}" ><img src="{{ client.logo }}" alt="{{ client.title }}" /></li>
           {% endif %}
         {% endfor %}
         </ul>
