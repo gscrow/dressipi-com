@@ -5,7 +5,8 @@ resource: Whitepapers
 image: "/uploads/Five_Things_Whitepaper_small.jpg"
 form:
   title: Download Free Whitepaper
-  checkbox: Yes, I would like to receive marketing communications regarding Dressipi products and services
+  checkbox: Yes, I would like to receive marketing communications regarding Dressipi
+    products and services
   button: Download Whitepaper
   file: "/uploads/Dressipi-whitepaper-Five-Things-Every-Retailer-Should-Know-About-Personalisation.pdf"
   button_class: whitepaper
