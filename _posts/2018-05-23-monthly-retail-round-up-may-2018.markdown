@@ -1,7 +1,28 @@
 ---
 title: Monthly Retail Round-Up - May 2018
 date: 2018-05-23 14:13:00 Z
+categories:
+- news
+tags:
+- one to one personalisation
+- retail
+- retail technology
+- retail news
+- retail innovation
+- future of retail
+- news
+- Sainsburys
+- Asda
+- supermarket fashion
+- Zara
+- digital store
+- zara self check out
+- interactive mirrors
+- asos instant
+- royal wedding
 author: Georgina Fisher
+description: With lots of news to keep track of, Dressipi brings you this month's
+  best stories from the world of retail and its supporting industries.
 ---
 
 Some of the best articles from the world of retail and its supporting industries.
