@@ -8,7 +8,7 @@ Interested in disrupting the trillion-pound retail industry? We’re tackling on
 
 ### Where you can make an impact?
 
-As a Data Engineer in the Dressipi team, you will be working closely with the Data Science and Recommendations teams, helping them implement and deploy algorithms in a scalable manner. You’ll proactively monitor the performance of our infrastructure, data architecture and deployment processes and design and implement improvements to them.
+As a Data Engineer in the Dressipi team, you’ll be leading the design and implementation of improvements to the performance of our infrastructure, data architecture and deployment processes. You will be working closely with the Data Science and Recommendations teams, helping them implement and deploy algorithms in a scalable manner.
 
 Our current stack comprises Ruby, Python, Java and a small amount of rust and utilises a wide range of AWS services. We’re always interested in trying new technologies or approaches.  
 
@@ -21,9 +21,9 @@ We are not a traditional tech start-up; it is an exciting environment with a div
 
 * Work with engineers to improve the efficiency of data queries and infrastructure for both offline and online use cases
 
-* Pinpoint and help resolve bottlenecks and inefficiencies across infrastructure, queries, implementation and algorithms.
+* Pinpoint and help resolve bottlenecks and inefficiencies across infrastructure, queries, implementation and algorithms
 
-* Recommend and guide changes to infrastructure, choice of datastores, data architecture, deployment processes
+* Lead changes to infrastructure, choice of datastores, data architecture, deployment processes
 
 * Monitor performance of infrastructure to catch issues before they become a problem
 
