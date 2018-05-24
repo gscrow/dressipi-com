@@ -20,6 +20,7 @@ tags:
 - interactive mirrors
 - asos instant
 - royal wedding
+image: "/uploads/May%20monthly%20round%20up.jpg"
 author: Georgina Fisher
 description: With lots of news to keep track of, Dressipi brings you this month's
   best stories from the world of retail and its supporting industries.
