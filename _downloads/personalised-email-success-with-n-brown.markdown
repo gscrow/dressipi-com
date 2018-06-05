@@ -2,6 +2,9 @@
 title: Personalised Email Success with N Brown
 date: 2018-06-05 15:12:00 Z
 resource: Case Studies
+image: "/uploads/JDW_Case_Study_Small_Image.png"
+form:
+  title: Download Free Case Study
 ---
 
 # How N Brown Benefited from Dressipi’s Personalised Email Solution
