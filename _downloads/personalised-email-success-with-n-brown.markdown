@@ -18,6 +18,7 @@ testimonial:
     name: Ralph Tucker
     job-title: Chief Product and Supply Officer
     company: N Brown
+    image: "/uploads/JDW_Case_Study_Small_Image.png"
   action: Download Case Study
 ---
 
