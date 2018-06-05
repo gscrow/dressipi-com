@@ -1,11 +1,19 @@
 .hero-partners {
 	.client__logos {
 		margin: rhythm(8) 0;
+
+		&.jdw {
+			width: 200px;
+		}
 	}
 }
 
 .client__logos {
 	margin-top: rhythm(8);
+
+	&.jdw {
+		width: 200px;
+	}
 }
 
 .cases__list {
@@ -15,5 +23,9 @@
 @include responsive(mobile) {
 	.hero-partners .client__logos {
 		margin: rhythm(4) 0;
+
+		&.jdw {
+			width: 200px;
+		}
 	}
 }

@@ -53,7 +53,7 @@ layout: default
     <div class="container clients">
       <ul class="client__logos">
       {% for client in site.clients %}
-        <li class="client__logo"><img src="{{ client.logo }}" class="" alt="{{ client.title }}" /></li>
+        <li class="client__logo {{ client.class }}"><img src="{{ client.logo }}" class="" alt="{{ client.title }}" /></li>
       {% endfor %}
       </ul>
     </div>

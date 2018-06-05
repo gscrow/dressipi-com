@@ -49,7 +49,7 @@ layout: default
       <ul class="client__logos">
         {% assign site_clients = site.clients | sort:'position' %}
         {% for client in site_clients %}
-        <li class="client__logo" class= "hi"><a href="{{ client.link }}" target="_blank" title="{{ client.title }}" ><img src="{{ client.logo }}" alt="{{ client.title }}" /></a></li>
+        <li class="client__logo {{ client.class }}"><a href="{{ client.link }}" target="_blank" title="{{ client.title }}" ><img src="{{ client.logo }}" alt="{{ client.title }}" /></a></li>
         {% endfor %}
       </ul>
     </div>
