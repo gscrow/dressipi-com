@@ -17,6 +17,7 @@ testimonial:
     name: Beverley Imrie
     job-title: Digital Director
     company: Wallis
+    image: "/uploads/logo__wallis.svg"
   action: Download Case Study
 ---
 
