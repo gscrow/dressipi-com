@@ -13,12 +13,11 @@ testimonial:
   body: "“One of the most successful parts of our partnership with Dressipi is the
     personalised weekly Style Adviser emails. They consistently outperform our own
     BAU emails by 3x.”"
-  logo: "/uploads/N-BROWN-NEW-LOGO.png"
+  logo: "/uploads/N-BROWN-NEW-LOGO-a078d4.png"
   author:
     name: Ralph Tucker
     job-title: Chief Product and Supply Officer
     company: N Brown
-    image: "/uploads/N-BROWN-NEW-LOGO-a078d4.png"
   action: Download Case Study
 ---
 
