@@ -6,6 +6,11 @@ image: "/uploads/JDW_Case_Study_Small_Image.png"
 form:
   title: Download Free Case Study
   button: Download Case Study
+  file: "/uploads/Dressipi-Case-Study-Personalised-Email-Success-With-NBrown.pdf"
+testimonial:
+  body: "“One of the most successful parts of our partnership with Dressipi is the
+    personalised weekly Style Adviser emails. They consistently outperform our own
+    BAU emails by 3x.”"
 ---
 
 # How N Brown Benefited from Dressipi’s Personalised Email Solution
