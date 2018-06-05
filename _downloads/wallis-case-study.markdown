@@ -13,7 +13,6 @@ form:
 testimonial:
   body: "“Having personalisation technology within your business is a must in today’s
     retail environment. Dressipi have helped us achieve that.”\n"
-  logo: "/uploads/logo__wallis.svg"
   author:
     name: Beverley Imrie
     job-title: Digital Director
