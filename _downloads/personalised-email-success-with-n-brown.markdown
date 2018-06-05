@@ -5,6 +5,7 @@ resource: Case Studies
 image: "/uploads/JDW_Case_Study_Small_Image.png"
 form:
   title: Download Free Case Study
+  button: Download Case Study
 ---
 
 # How N Brown Benefited from Dressipi’s Personalised Email Solution
