@@ -16,7 +16,7 @@ testimonial:
     clicks through from other parts of the site.”"
   author:
     name: Paul Hornby
-    job-title: Head of eCommerce
+    job-title: Former Head of eCommerce
     company: Shop Direct
     image: "/uploads/sdg_withlogo_small_partner_pg.png"
   action: Download Case Study
