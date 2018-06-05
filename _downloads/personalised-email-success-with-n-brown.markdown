@@ -7,10 +7,19 @@ form:
   title: Download Free Case Study
   button: Download Case Study
   file: "/uploads/Dressipi-Case-Study-Personalised-Email-Success-With-NBrown.pdf"
+  checkbox: Yes, I would like to receive marketing communications regarding Dressipi
+    products and services
 testimonial:
   body: "“One of the most successful parts of our partnership with Dressipi is the
     personalised weekly Style Adviser emails. They consistently outperform our own
     BAU emails by 3x.”"
+  logo: "/uploads/N-BROWN-NEW-LOGO.png"
+  author:
+    name: Ralph Tucker
+    job-title: Chief Product and Supply Officer
+    company: N Brown
+    image: "/uploads/N-BROWN-NEW-LOGO-a078d4.png"
+  action: Download Case Study
 ---
 
 # How N Brown Benefited from Dressipi’s Personalised Email Solution
