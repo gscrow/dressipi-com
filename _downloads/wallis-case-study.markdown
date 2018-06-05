@@ -6,6 +6,7 @@ image: "/uploads/Wallis_Small_Case_Study_Image.png"
 form:
   title: Download Free Case Study
   button: Download Case Study
+  file: "/uploads/Dressipi-Case-Study-Delivering-One-to-One-Personalisation-for-Wallis.pdf"
   checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services
   button_class: case-study
