@@ -24,7 +24,7 @@ testimonial:
 
 # How N Brown Benefited from Dressipi’s Personalised Email Solution
 
-##In our free case study you will learn:
+## In our free case study you will learn:
 
 * How Dressipi delivered a bespoke personalised email solution to the JD Williams brand
 
