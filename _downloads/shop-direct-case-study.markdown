@@ -5,10 +5,10 @@ resource: Case Studies
 image: "/uploads/sdg_withlogo_small.PNG"
 form:
   title: Download Free Case Study
-  checkbox: Yes, I would like to receive marketing communications regarding Dressipi
-    products and services
   button: Download Case Study
   file: "/uploads/Dressipi-Case-Study-Personalising-the-Entire-Customer-Experience-for-Shop-Direct.pdf"
+  checkbox: Yes, I would like to receive marketing communications regarding Dressipi
+    products and services
   button_class: case-study
 testimonial:
   body: "“Customers with a Dressipi profile clicking through from the Style Hub to
@@ -18,7 +18,7 @@ testimonial:
   logo: "/uploads/logo__shop-direct-group.svg"
   author:
     name: Paul Hornby
-    job-title: Head of eCommerce
+    job-title: Former Head of eCommerce
     company: Shop Direct
     image: "/uploads/paul-hornby.jpg"
   action: Download Case Study
