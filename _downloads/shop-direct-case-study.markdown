@@ -1,6 +1,5 @@
 ---
 title: Personalising the Entire Customer Experience for Shop Direct
-position: 2
 date: 2017-05-10 11:20:00 Z
 resource: Case Studies
 image: "/uploads/sdg_withlogo_small.PNG"
@@ -15,6 +14,7 @@ testimonial:
   body: "“Customers with a Dressipi profile clicking through from the Style Hub to
     a product page are 76% more likely to place an order than when the same customer
     clicks through from other parts of the site.”"
+  logo: "/uploads/logo__shop-direct-group.svg"
   author:
     name: Paul Hornby
     job-title: Former Head of eCommerce

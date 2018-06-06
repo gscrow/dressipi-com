@@ -1,6 +1,5 @@
 ---
 title: Delivering One-to-One Personalisation for Wallis
-position: 1
 date: 2018-06-05 14:46:00 Z
 resource: Case Studies
 image: "/uploads/Wallis_Small_Case_Study_Image.png"
@@ -14,6 +13,7 @@ form:
 testimonial:
   body: "“Having personalisation technology within your business is a must in today’s
     retail environment. Dressipi have helped us achieve that.”\n"
+  logo: "/uploads/logo__wallisblack%20(1).svg"
   author:
     name: Beverley Imrie
     job-title: Digital Director
@@ -26,8 +26,8 @@ testimonial:
 
 ## In our free case study you will learn:
 
-* How Dressipi has delivered incremental revenue gains to Wallis
+* How Dressipi has delivered incremental revenue gains for Wallis
 
-* How personalisation benefits the customer as well as the Wallis business itself
+* How personalisation benefits the customer and Wallis
 
-* The ease of implementation and positive results of the partnership
+* The ease of implementation and positive ROI from the partnership 

@@ -1,6 +1,5 @@
 ---
 title: Personalised Email Success with N Brown
-position: 3
 date: 2018-06-05 15:12:00 Z
 resource: Case Studies
 image: "/uploads/JDW_Case_Study_Small_Image.png"
@@ -14,6 +13,7 @@ testimonial:
   body: "“One of the most successful parts of our partnership with Dressipi is the
     personalised weekly Style Adviser emails. They consistently outperform our own
     BAU emails by 3x.”"
+  logo: "/uploads/N-BROWN-NEW-LOGO-a078d4.png"
   author:
     name: Ralph Tucker
     job-title: Chief Product and Supply Officer
@@ -28,6 +28,6 @@ testimonial:
 
 * How Dressipi delivered a bespoke personalised email solution to the JD Williams brand
 
-* The high level of support Dressipi gives to JD Williams on an ongoing basis
+* The high level of support Dressipi gives JD Williams to ensure ongoing success
 
-* The positive results of the partnership
+* The positive ROI resulting from deploying Dressipi’s personalisation solution
