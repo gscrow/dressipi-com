@@ -90,7 +90,7 @@ sections:
       at the individual level and creates data that can be fed back to retailers to
       help them optimise key metrics.
     image: "/uploads/icon__data-driven.svg"
-- title: Case Study
+- title: Case Studies
   handle: cases
   downloads:
   - Personalising the Entire Customer Experience for Shop Direct
