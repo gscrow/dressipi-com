@@ -31,6 +31,7 @@
       font-weight: 400;
       display: block;
       color: $text-color-soft;
+      height: 50px;
     }
   }
 
@@ -67,6 +68,7 @@
     max-width: calc-columns-width(2);
   }
 }
+
 @include responsive(tablet) {
   .case-study {
     max-width: calc-columns-width(3);
@@ -74,6 +76,12 @@
     &__wrap {
       margin-right: $tablet-gutter-width / 2;
       margin-left: $tablet-gutter-width / 2;
+    }
+
+    &__header{
+      span {
+        height: auto;
+      }
     }
   }
 }
@@ -87,6 +95,12 @@
       margin-left: $mobile-gutter-width / 2;
     }
 
+    &__header{
+      span {
+        height: auto;
+      }
+    }
+    
     &__image {
       max-height: 100%;
     }
