@@ -8,7 +8,7 @@
 .case-study {
   display: flex;
   flex-direction: column;
-  max-width: calc-columns-width(3);
+  max-width: calc-columns-width(2.3);
   height: 100%;
 
   &__wrap {
@@ -62,8 +62,15 @@
   }
 }
 
+@media screen and (max-width:910px) and (min-width:800px) {
+  .case-study {
+    max-width: calc-columns-width(2);
+  }
+}
 @include responsive(tablet) {
   .case-study {
+    max-width: calc-columns-width(3);
+
     &__wrap {
       margin-right: $tablet-gutter-width / 2;
       margin-left: $tablet-gutter-width / 2;

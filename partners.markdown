@@ -39,8 +39,8 @@ sections:
   - title: The Results
     image: "/uploads/icon__results.svg"
   downloads:
-  - Personalising the Entire Customer Experience for Shop Direct
   - Delivering One-to-One Personalisation for Wallis
+  - Personalising the Entire Customer Experience for Shop Direct
   - Personalised Email Success with N Brown
 - title: Explore More
   body: Try it for yourself by clicking the links below, or visit our [How it Works](/how-it-works)
@@ -58,4 +58,3 @@ sections:
   - Autograph
 layout: partners
 ---
-

@@ -1,5 +1,6 @@
 ---
 title: Personalised Email Success with N Brown
+position: 3
 date: 2018-06-05 15:12:00 Z
 resource: Case Studies
 image: "/uploads/JDW_Case_Study_Small_Image.png"
