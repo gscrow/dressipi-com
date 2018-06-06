@@ -14,6 +14,7 @@ testimonial:
   body: "“Having personalisation technology within your business is a must in today’s
     retail environment. Dressipi have helped us achieve that.”\n"
   logo: "/uploads/logo__wallisblack%20(1).svg"
+  class: wallis
   author:
     name: Beverley Imrie
     job-title: Digital Director
@@ -30,4 +31,4 @@ testimonial:
 
 * How personalisation benefits the customer and Wallis
 
-* The ease of implementation and positive ROI from the partnership 
+* The ease of implementation and positive ROI from the partnership

@@ -14,6 +14,7 @@ testimonial:
     personalised weekly Style Adviser emails. They consistently outperform our own
     BAU emails by 3x.”"
   logo: "/uploads/N-BROWN-NEW-LOGO-a078d4.png"
+  class: nbrown
   author:
     name: Ralph Tucker
     job-title: Chief Product and Supply Officer

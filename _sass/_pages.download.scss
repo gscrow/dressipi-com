@@ -36,6 +36,10 @@
 			.case-study__logo {
 				margin: 0 0 rhythm(3) 0;
 				display: block;
+
+				&.wallis, &.nbrown {
+					width: 140px;
+				}
 			}
 	  }
 
