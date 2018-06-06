@@ -64,7 +64,7 @@ sections:
     image: "/uploads/icon_customer-chat.svg"
   - title: Make better informed decisions at a SKU and size level
     image: "/uploads/icon_sku.svg"
-- title: Case Study
+- title: Case Studies
   handle: cases
   downloads:
   - Personalising the Entire Customer Experience for Shop Direct
