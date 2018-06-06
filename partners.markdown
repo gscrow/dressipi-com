@@ -58,4 +58,3 @@ sections:
   - Autograph
 layout: partners
 ---
-

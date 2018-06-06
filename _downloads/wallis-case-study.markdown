@@ -1,5 +1,6 @@
 ---
 title: Delivering One-to-One Personalisation for Wallis
+position: 1
 date: 2018-06-05 14:46:00 Z
 resource: Case Studies
 image: "/uploads/Wallis_Small_Case_Study_Image.png"
