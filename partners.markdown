@@ -28,8 +28,8 @@ description: Dressipi works with some of the UK's biggest retailers, helping the
 has-demo-section: true
 sections:
 - title: Case Study
-  subtitle: The following case study outlines the impact Dressipi has had on some
-    of its major international clients.
+  subtitle: The following case studies outline the impact Dressipi has had on some
+    of its major clients.
   handle: cases
   subsections:
   - title: Learn the Client's Key Challenges
