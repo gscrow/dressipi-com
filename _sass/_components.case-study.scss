@@ -50,7 +50,7 @@
   }
 
   &__logo {
-    margin-top: rhythm(3);
+    display: none;
   }
 
   &__footer {
@@ -100,7 +100,7 @@
         height: auto;
       }
     }
-    
+
     &__image {
       max-height: 100%;
     }
