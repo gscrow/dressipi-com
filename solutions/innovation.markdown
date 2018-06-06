@@ -82,6 +82,8 @@ sections:
   handle: cases
   downloads:
   - Personalising the Entire Customer Experience for Shop Direct
+  - Delivering One-to-One Personalisation for Wallis
+  - Personalised Email Success with N Brown
 layout: product
 ---
 
