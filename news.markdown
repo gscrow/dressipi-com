@@ -10,6 +10,9 @@ header:
   width: extend
 description: Discover Dressipi's latest press articles and award accolades.
 publications:
+- title: '"Retail isn''t just about e-commerce anymore. Here are the Top UK companies
+    switching up the fashion game"'
+  image: "/uploads/ES_png.png"
 - title: "“Fashion turns to data analytics to cut number of returned items”"
   image: "/uploads/logo__financial-times.svg"
 - title: "“One of Britain’s top tech firms growing 1,000pc a year”"
