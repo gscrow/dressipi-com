@@ -21,6 +21,7 @@ tags:
 - Top 50
 description: 'Following hot on the heels of San Francisco and New York, London is
   a city brimming with tech talent. '
+download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
 Following hot on the heels of San Francisco and New York, London is a city brimming with tech talent. 
