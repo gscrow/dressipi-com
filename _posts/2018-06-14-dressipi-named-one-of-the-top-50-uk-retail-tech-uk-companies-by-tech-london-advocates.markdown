@@ -2,6 +2,25 @@
 title: Dressipi Named One Of The Top 50 UK Retail Tech UK Companies by Tech London
   Advocates
 date: 2018-06-14 14:48:00 Z
+categories:
+- news
+tags:
+- RetailTech 50 Catalogue
+- RetailTech 50
+- retail technology
+- London Tech Week
+- Retail
+- technology
+- Tech London Advocates
+- instore technology
+- digital technology
+- MishiPay
+- Mercaux
+- Poq
+- retail personalisation
+- Top 50
+description: 'Following hot on the heels of San Francisco and New York, London is
+  a city brimming with tech talent. '
 ---
 
 Following hot on the heels of San Francisco and New York, London is a city brimming with tech talent. 
