@@ -23,3 +23,14 @@ The evening was a great success, with some other businesses present that are wor
 ## MishiPay
 
 Daniel Helman, VP Sales, described how [MishiPay](https://www.mishipay.com/home) benefits both customers and retailers by providing a seamless checkout experience where the customer scans the item, pays and then leaves without having to queue.
+
+## Mercaux
+
+Jonathan Horemans, Strategic Business Development, explained how [Mercaux](https://mercaux.com/) links online and in-store experiences. Through an app, employees can be given full product knowledge, take inventory checks, and give the customer outfits suggestions for a chosen garment.
+
+## Poq
+
+Balint Szeplaki, Head of Product at [Poq](https://poqcommerce.com/)outlined how they build apps across multiple devices for their clients including Missguided and House of Fraser.
+
+
+There are a huge number of businesses innovating and breaking into the retail sector, and given our expertise in [retail personalisation](https://dressipi.com/retail-personalisation-case-study/), Dressipi was delighted to be considered one of the top UK companies switching up the fashion game. Thanks very much to Tech London Advocates for hosting a brilliant evening.
