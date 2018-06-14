@@ -17,8 +17,7 @@ publications:
   image: "/uploads/logo__financial-times.svg"
 - title: "“One of Britain’s top tech firms growing 1,000pc a year”"
   image: "/uploads/logo__the-telegraph.svg"
-- title: "“Marks & Spencer, Shop Direct and others team up to trial personalisation
-    technology”"
+- title: "“Shop Direct and others team up to trial personalisation technology”"
   image: "/uploads/logo__retailweek.svg"
 - title: "“It’s a pretty ground-breaking idea, bridging the gap between online and
     offline shopping”"
