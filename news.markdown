@@ -34,6 +34,8 @@ sections:
   subtitle: 
   handle: awards
   awards:
+  - image: "/uploads/tech-london-advocates-logo-black.png"
+    title: Top 50 Retail Tech Businesses
   - image: "/uploads/rs_awards_Shortlisted_2018_outlines%20(1).jpg"
     title: 'In-Store Innovation of the Year (and others) - Finalist  '
   - image: "/uploads/computing.png"
