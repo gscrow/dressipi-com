@@ -6,7 +6,7 @@ navigation: footer
 header:
   title: Dressipi in the Media
   body: "### The following represent some of the publications and websites that have
-    covered our innovative solutions in recent years."
+    covered our innovative solutions."
   width: extend
 description: Discover Dressipi's latest press articles and award accolades.
 publications:
@@ -35,7 +35,7 @@ sections:
   handle: awards
   awards:
   - image: "/uploads/tech-london-advocates-logo-black.png"
-    title: Top 50 Retail Tech Businesses
+    title: Top 50 UK Retail Tech Businesses
   - image: "/uploads/rs_awards_Shortlisted_2018_outlines%20(1).jpg"
     title: 'In-Store Innovation of the Year (and others) - Finalist  '
   - image: "/uploads/computing.png"
