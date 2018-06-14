@@ -10,6 +10,5 @@ header:
     url: "/"
     style: secondary
   width: extend
-layout: page
+layout: landing
 ---
-
