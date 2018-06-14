@@ -8,7 +8,7 @@ Following hot on the heels of San Francisco and New York, London is a city brimm
 
 # Dressipi Named One Of The Top 50 UK Retail Tech UK Companies by Tech London Advocates
 
-Venture capital investments into the UK’s tech sector reached all all-time high of £2.99bn in 2017, almost double the total invested in 2016 ([City A.M](http://www.cityam.com/278258/londons-tech-scene-pulls-record-gbp25bn-2017-venture)). With the tech sector employing 2.1m people across the UK ([City A.M](http://www.cityam.com/287551/new-startup-visas-bring-top-global-talent-londons-tech)), what better place to host Europe's largest festival of tech and innovation than the UK capital itself?
+## Venture capital investments into the UK’s tech sector reached all all-time high of £2.99bn in 2017, almost double the total invested in 2016 ([City A.M](http://www.cityam.com/278258/londons-tech-scene-pulls-record-gbp25bn-2017-venture)). With the tech sector employing 2.1m people across the UK ([City A.M](http://www.cityam.com/287551/new-startup-visas-bring-top-global-talent-londons-tech)), what better place to host Europe's largest festival of tech and innovation than the UK capital itself?
 
 [London Tech Week](https://londontechweek.com/) brings together 55,000 attendees to enjoy hundreds of events taking place across the city, with the aim of showcasing the best and brightest tech around. A big contributor to the festival are [Tech London Advocates](http://www.techlondonadvocates.org.uk/), an unrivalled collection of tech leaders, experts and investors, hosting events that discuss the challenges and opportunities facing the city’s technology sector.
 
