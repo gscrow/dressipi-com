@@ -19,6 +19,7 @@ tags:
 - Poq
 - retail personalisation
 - Top 50
+image: "/uploads/Banner%20Image%20(1)-e16bfa.jpg"
 author: Philippa Mew
 description: 'Following hot on the heels of San Francisco and New York, London is
   a city brimming with tech talent. '
@@ -33,7 +34,7 @@ Venture capital investments into the UK’s tech sector reached all all-time hig
 
 [London Tech Week](https://londontechweek.com/) brings together 55,000 attendees to enjoy hundreds of events taking place across the city, with the aim of showcasing the best and brightest tech around. A big contributor to the festival are [Tech London Advocates](http://www.techlondonadvocates.org.uk/), an unrivalled collection of tech leaders, experts and investors, hosting events that discuss the challenges and opportunities facing the city’s technology sector.
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Exibitors.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Catalogue.jpg"/></p>
 
 One of their events at London Tech Week was the launch of the [Retail Tech 50 Catalogue](http://www.techlondonadvocates.org.uk/wp-content/uploads/2018/06/RetailTech_Gatefold_Pages.pdf), showcasing the Top 50 UK Retail Tech businesses. Categories covered all areas from Payments, Data & Analytics, Supply Chain & Delivery, and In-Store Tech. Dressipi were delighted to be part of the Top 50 in the Ecom & Digital category, alongside many other brilliant businesses.
 
