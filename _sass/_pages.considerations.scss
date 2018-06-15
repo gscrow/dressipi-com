@@ -6,7 +6,7 @@
     position: relative;
     top: 120px;
     left: 12px;
-    width: 180px;
+    width: 200px;
     height: 500px;
     overflow: scroll;
 
@@ -14,7 +14,7 @@
       position: fixed;
       top: 114px;
       left: 12px;
-      width: 180px;
+      width: 200px;
       height: 500px;
       overflow: scroll;
     }
@@ -29,6 +29,7 @@
         li {
           font-size: 15px;
           display: block;
+          font-weight: 700;
 
           margin: 0 rhythm(1);
 
@@ -42,13 +43,16 @@
             }
 
             &:hover {
-              color: $text-color-soft;
-              background: #dadada;
+              background: #ececec;
             }
           }
 
-          .long-text {
-            // font-size: 10px;
+          .one-in {
+            font-weight: 400;
+          }
+
+          .two-in {
+            font-weight: 200;
           }
 
           &:before {
@@ -74,6 +78,7 @@
       .content-wrapper {
         width: 100%;
         float: left;
+        padding-left: 10px;
 
         h1 {
           font-size: ms(6);
