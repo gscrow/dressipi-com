@@ -20,9 +20,9 @@ tags:
 - Top 50
 image: "/uploads/Banner%20Image%20(1)-e16bfa.jpg"
 author: Philippa Mew
-description: 'Following hot on the heels of San Francisco and New York, London is
-  a city brimming with tech talent. '
-download: How Dressipi Can Help Retailers Transform Their Biggest Asset
+description: Dressipi was delighted to be named one of the Top 50 UK Retail Tech companies
+  switching up the fashion game by Tech London Advocates.
+download: Five Things Every Retailer Should Know About Personalisation
 ---
 
 Following hot on the heels of San Francisco and New York, London is a city brimming with tech talent. 
@@ -35,13 +35,13 @@ Venture capital investments into the UK’s tech sector reached all all-time hig
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Catalogue.jpg"/></p>
 
-One of their events at London Tech Week was the launch of the [Retail Tech 50 Catalogue](http://www.techlondonadvocates.org.uk/wp-content/uploads/2018/06/RetailTech_Gatefold_Pages.pdf), showcasing the Top 50 UK Retail Tech businesses. Categories covered all areas from Payments, Data & Analytics, Supply Chain & Delivery, and In-Store Tech. Dressipi were delighted to be part of the Top 50 in the Ecom & Digital category, alongside many other brilliant businesses.
+One of their events at London Tech Week was the launch of the [Retail Tech 50 Catalogue](http://www.techlondonadvocates.org.uk/wp-content/uploads/2018/06/RetailTech_Gatefold_Pages.pdf), showcasing the Top 50 UK Retail Tech businesses. Categories covered all areas from Payments, Data & Analytics, Supply Chain & Delivery, and In-Store Tech. Dressipi were delighted to be part of the Ecom & Digital category, alongside many other brilliant businesses.
 
-[The Evening Standard](https://www.standard.co.uk/tech/tech-london-advocates-retail-tech-start-ups-uk-a3861591.html) covered the event, featuring Dressipi in their Top 8 and stating that retail isn’t just about e-commerce anymore. Eugene Fisher, TLA’s Retail Tech group lead highlighted, *“While ASOS and Farfetch represent some of London’s internationally acclaimed successes, this list highlights the brightest and best of our vibrant start-up ecosystem.” *
+[The Evening Standard](https://www.standard.co.uk/tech/tech-london-advocates-retail-tech-start-ups-uk-a3861591.html) covered the event, featuring Dressipi in their Top 8 and stating that retail isn’t just about e-commerce anymore. Eugene Fisher, TLA’s Retail Tech group lead highlighted, *“While ASOS and Farfetch represent some of London’s internationally acclaimed successes, this list highlights the brightest and best of our vibrant start-up ecosystem.”*
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Top50.jpg"/></p>
 
-The evening was a great success, with some other businesses present that are working on [improving customer experience](https://dressipi.com/solutions/customer-experience/):
+The evening was a great success, with a few of the chosen businesses presenting how they are also working on [improving customer experience](https://dressipi.com/solutions/customer-experience/):
 
 ## MishiPay
 
