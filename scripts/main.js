@@ -62,6 +62,6 @@ $(document).ready(function() {
 
   //sticky side nav
   var sticky = new Waypoint.Sticky({
-    element: $(".sticky-nav")[0]
+    element: $(".sticky-side-nav")[0]
   });
 });
