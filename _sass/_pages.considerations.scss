@@ -2,6 +2,10 @@
   padding: 0;
 
   .nav-wrapper {
+    @media screen and (max-width: 600px) {
+      display: none;
+    }
+
     float: left;
     position: relative;
     top: 120px;
@@ -79,6 +83,7 @@
         width: 100%;
         float: left;
         padding-left: 10px;
+        padding-bottom: 20px;
 
         h1 {
           font-size: ms(6);
@@ -184,5 +189,10 @@
 
   .gutter {
     padding-left: 110px;
+
+    @media screen and (max-width: 600px) {
+      padding-right: 15px;
+      padding-left: 15px;
+    }
   }
 }
