@@ -1,6 +1,5 @@
 ---
-title: Dressipi Named One Of The Top 50 UK Retail Tech UK Companies by Tech London
-  Advocates
+title: Dressipi Named One Of The Top 50 UK Retail Tech Companies by Tech London Advocates
 date: 2018-06-14 14:48:00 Z
 categories:
 - news
@@ -28,7 +27,7 @@ download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 
 Following hot on the heels of San Francisco and New York, London is a city brimming with tech talent. 
 
-# Dressipi Named One Of The Top 50 UK Retail Tech UK Companies by Tech London Advocates
+# Dressipi Named One Of The Top 50 UK Retail Tech Companies by Tech London Advocates
 
 Venture capital investments into the UK’s tech sector reached all all-time high of £2.99bn in 2017, almost double the total invested in 2016 ([City A.M](http://www.cityam.com/278258/londons-tech-scene-pulls-record-gbp25bn-2017-venture)). With the tech sector employing 2.1m people across the UK ([City A.M](http://www.cityam.com/287551/new-startup-visas-bring-top-global-talent-londons-tech)), what better place to host Europe's largest festival of tech and innovation than the UK capital itself?
 
