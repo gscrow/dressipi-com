@@ -17,5 +17,5 @@ header:
   - Very
   - Evans
 layout: landing
+sitemap: false
 ---
-

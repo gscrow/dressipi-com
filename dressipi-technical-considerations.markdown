@@ -7,6 +7,7 @@ header:
   height: tight
 width: narrow
 layout: considerations
+sitemap: false
 ---
 
 <div id="Security">
