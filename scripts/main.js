@@ -24,7 +24,7 @@ $(document).ready(function() {
     return false;
   });
 
-  $(".side-nav-item").on("click", function() {
+  $(".anchor-link-privacy").on("click", function() {
     var scrollTop = $(this.hash).offset().top - 130;
 
     $("html,body").animate(
