@@ -24,18 +24,6 @@ $(document).ready(function() {
     return false;
   });
 
-  $(".anchor-link-privacy").on("click", function() {
-    var scrollTop = $(this.hash).offset().top - 130;
-
-    $("html,body").animate(
-      {
-        scrollTop: scrollTop
-      },
-      1000
-    );
-    return false;
-  });
-
   // mobile menu trigger
   $(".header-mobile-button").on("click", function() {
     $(this).toggleClass("header-mobile-button--open");
@@ -59,9 +47,4 @@ $(document).ready(function() {
             .dequeue();
         });
     });
-
-  //sticky side nav
-  var sticky = new Waypoint.Sticky({
-    element: $(".sticky-side-nav")[0]
-  });
 });

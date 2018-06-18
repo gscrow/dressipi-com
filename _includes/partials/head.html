@@ -10,38 +10,59 @@
   {% endif %}
   <!-- Drift -->
   <script>
-    !(function() {
-      var t;
-      if (((t = window.driftt = window.drift = window.driftt || []), !t.init))
-        return t.invoked
-          ? void (window.console && console.error && console.error("Drift snippet included twice."))
-          : ((t.invoked = !0),
-             (t.methods = ["identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on"]),
-             (t.factory = function(e) {
-            return function() {
-              var n;
-              return (n = Array.prototype.slice.call(arguments)), n.unshift(e), t.push(n), t;
-            };
-          }),
-          t.methods.forEach(function(e) {
-            t[e] = t.factory(e);
-          }),
-          (t.load = function(t) {
-            var e, n, o, i;
-            (e = 3e5),
-              (i = Math.ceil(new Date() / e) * e),
-              (o = document.createElement("script")),
-              (o.type = "text/javascript"),
-              (o.async = !0),
-              (o.crossorigin = "anonymous"),
-              (o.src = "https://js.driftt.com/include/" + i + "/" + t + ".js"),
-              (n = document.getElementsByTagName("script")[0]),
-              n.parentNode.insertBefore(o, n);
-          }));
-    })();
-    drift.SNIPPET_VERSION = "0.3.1";
-    drift.load("if6cxigczbsd");
-  </script>
+  !(function() {
+  var t;
+  if (((t = window.driftt = window.drift = window.driftt || []), !t.init))
+    return t.invoked
+      ? void (
+          window.console &&
+          console.error &&
+          console.error("Drift snippet included twice.")
+        )
+      : ((t.invoked = !0),
+        (t.methods = [
+          "identify",
+          "config",
+          "track",
+          "reset",
+          "debug",
+          "show",
+          "ping",
+          "page",
+          "hide",
+          "off",
+          "on"
+        ]),
+        (t.factory = function(e) {
+          return function() {
+            var n;
+            return (
+              (n = Array.prototype.slice.call(arguments)),
+              n.unshift(e),
+              t.push(n),
+              t
+            );
+          };
+        }),
+        t.methods.forEach(function(e) {
+          t[e] = t.factory(e);
+        }),
+        (t.load = function(t) {
+          var e, n, o, i;
+          (e = 3e5),
+            (i = Math.ceil(new Date() / e) * e),
+            (o = document.createElement("script")),
+            (o.type = "text/javascript"),
+            (o.async = !0),
+            (o.crossorigin = "anonymous"),
+            (o.src = "https://js.driftt.com/include/" + i + "/" + t + ".js"),
+            (n = document.getElementsByTagName("script")[0]),
+            n.parentNode.insertBefore(o, n);
+        }));
+})();
+drift.SNIPPET_VERSION = "0.3.1";
+drift.load("if6cxigczbsd");
+</script>
   <!-- End Drift -->
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -50,7 +71,6 @@
   <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i" rel="stylesheet">
   <link href="{{ "/css/main.css" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}" rel="stylesheet">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.url }}">
-  <link href="/css/prism.css" rel="stylesheet" />
   {% seo %}
   <meta name="msvalidate.01" content="83A7D378677C4F4102B969411E92A925" />
 </head>
