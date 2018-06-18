@@ -47,14 +47,4 @@ $(document).ready(function() {
             .dequeue();
         });
     });
-
-  drift.on("ready", api => {
-    if (
-      window.location.href === "https://dressipi.com/privacy/" ||
-      window.location.href === "https://dressipi.com/cookies/" ||
-      window.location.href === "https://dressipi.com/terms-and-conditions/"
-    ) {
-      api.widget.hide();
-    }
-  });
 });
