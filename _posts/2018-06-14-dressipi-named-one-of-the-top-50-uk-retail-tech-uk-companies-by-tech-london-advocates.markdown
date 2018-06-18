@@ -55,6 +55,7 @@ Jonathan Horemans, Strategic Business Development, explained how [Mercaux](https
 
 Balint Szeplaki, Head of Product at [Poq](https://poqcommerce.com/) outlined how they build apps across multiple devices for their clients including Missguided and House of Fraser.
 
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Speaking.jpg"/></p>
+
 There are a huge number of businesses innovating and breaking into the retail sector, and given our expertise in [retail personalisation](https://dressipi.com/retail-personalisation-case-study/), Dressipi was delighted to be considered [one of the top UK companies switching up the fashion game](http://www.techlondonadvocates.org.uk/wp-content/uploads/2018/06/RetailTech_Gatefold_Pages-3.pdf). Thanks very much to Tech London Advocates for hosting a brilliant evening.
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Speaking.jpg"/></p>
