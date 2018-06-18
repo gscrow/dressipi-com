@@ -50,7 +50,9 @@
                 {% endfor %}
               </ul>
             </li>
+              {% unless page.layout == 'privacy' %}
             <li class="navigation__item"><a href="/book-a-demo" class="button {% if my_page_url == '' %}button-default{% else %}button-primary{% endif %} navigation__button" title="Book a Demo">Book a Demo</a></li>
+            {% endunless %}
           </ul>
         </nav>
         {% endif %}

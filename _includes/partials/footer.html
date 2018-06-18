@@ -37,7 +37,9 @@
             {{site.company.address.street}}<br/>
             {{site.company.address.city}}
           </address>
+          {% unless page.layout == 'privacy' %}
           <a href="/book-a-demo" class="button button--small button-secondary" title="">Book a Demo</a>
+          {% endunless %}
         </div>
       </div>
       {% assign meta_links = site.pages | where: 'navigation', 'meta' | sort: 'position' %}
