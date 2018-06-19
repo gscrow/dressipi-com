@@ -37,8 +37,10 @@
             {{site.company.address.street}}<br/>
             {{site.company.address.city}}
           </address>
-          {% unless page.layout == 'privacy' %}
+          {% unless page.layout == 'privacy'%}
+          {% unless page.layout == 'landing'%}
           <a href="/book-a-demo" class="button button--small button-secondary" title="">Book a Demo</a>
+          {% endunless %}
           {% endunless %}
         </div>
       </div>
