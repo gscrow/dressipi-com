@@ -22,7 +22,7 @@ sections:
     description: |-
       PAC is an ambitious project that creates a new personalisation experience instore and centralises a customer's data from across channels and retailers in a single place.
 
-      We are working with M&S, Wallis and Very to make the shopping experience better by offering advice and recommendations aligned with how the customer wants to shop.
+      We are working with three of our retail partners to make the shopping experience better by offering advice and recommendations aligned with how the customer wants to shop.
 
       This improves revenues for retailers by a considerable advancement in the quality of predictions of what a shopper is most likely to buy and keep.
     video: https://www.youtube.com/embed/zk-K1dM1rrI?rel=0
