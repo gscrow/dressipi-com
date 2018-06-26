@@ -25,7 +25,7 @@ sections:
       We are working with three of our retail partners to make the shopping experience better by offering advice and recommendations aligned with how the customer wants to shop.
 
       This improves revenues for retailers by a considerable advancement in the quality of predictions of what a shopper is most likely to buy and keep.
-    video: https://www.youtube.com/embed/zk-K1dM1rrI?rel=0
+    video: https://www.youtube.com/embed/zk-K1dM1rrI?rel=0&showinfo=0&color=white
   - title: Predictive Retailing
     description: "For the first time ever, Dressipi is allowing retailers to connect
       actual customer & visitor profile data with actual garment data (at the feature
@@ -37,4 +37,3 @@ sections:
     image: "/uploads/labs_predictive-retailing@2x.png"
 layout: labs
 ---
-
