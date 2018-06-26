@@ -32,4 +32,28 @@ High street retailers aren’t the only ones trying to bridge online and offline
 
 Instead of queries going to the customer service team, customers will speak through messaging, photo sharing and live video streaming with actual stylists based at Harvey Nichols. As reported in [The Industry Fashion](https://www.theindustry.fashion/harvey-nichols-partners-with-hero-to-offer-live-shopping-online/), Harvey Nichols wants to offer their online customers the same level of luxury, personalised service that they would expect at their stores.
 
+### 3) Westfield London’s Technology Plans
+
+In March, Westfield London opened its new expansion. Anchored by John Lewis, other retailers including Boden, Primark and H&M opened new and improved stores, centred around customer experience and new technology. This June, [Fashion United](https://fashionunited.uk/news/retail/westfield-unveils-the-future-of-retail-destination-2028/2018060430007) reported that marking their 10 year anniversary, Westfield has unveiled a new concept named ‘Destination 2028’.
+
+Destination 2028 will include features such as:
+* Eye scanners recalling information on entry on a visitor's former purchases and recommendations for personalised fast-lanes
+* Magic mirrors and smart changing rooms will give shoppers a virtual reflection of themselves wearing new garments
+* Delivery drones flying over walkways, delivering purchases to shoppers
+
+Myf Ryan, Chief Marketing Officer, Westfield UK and Europe highlighted ([Fashion United](https://fashionunited.uk/news/retail/westfield-unveils-the-future-of-retail-destination-2028/2018060430007)), *"We’ll continue to work closely with brands to deliver innovative retail spaces that create the ideal environment for them and our visitors – including developing technologies that converge digital and physical shopping to enhance that Extra-perience in state-of-the-art surroundings."*
+
+### 4) ASOS Partnering with Tech Start-Ups
+
+In [March](https://dressipi.com/blog/monthly-retail-round-up-march-2018/), ASOS partnered with Israeli fashion startup Zeekit Online Shopping Ltd to launch a new AR feature on their site which included a range of models of different sizes and body shapes. This June, ASOS has collaborated with another Israeli company Re:Tech, an innovation hub that looks to connect with new technology companies. [CalcalistTech](https://www.calcalistech.com/ctech/articles/0,7340,L-3739985,00.html) reported that *“Re:Tech is a retail-oriented hub that aims to connect startups developing e-commerce, adtech, fintech, and fashion-related technologies with interested companies.”*
+
+[Essential Retail](https://www.essentialretail.com/news/asos-connects-with-israeli-retail/) explained, *“Businesses invited to apply include those focused on solving key challenges for online retailers, such as enhancing user experience, optimising conversion and saving costs.”*
+
+In a statement reported in [CalcalistTech](https://www.calcalistech.com/ctech/articles/0,7340,L-3739985,00.html), Cliff Cohen, Chief Information Officer, Asos expressed, *“Israel is renowned for its cutting-edge tech startups, many of which are developing solutions across retail, fashion and e-commerce. With Re:Tech’s help, we’ll be able to plug into this thinking to solve challenges and potentially foster long-term partnerships.”*
+
+## We hope you enjoyed the round-up. Please feel free to get in touch with any stories you feel would be of interest.
+
+> Banner Photo by freestocks.org on Unsplash
+
+
 
