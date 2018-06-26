@@ -31,6 +31,8 @@ sections:
     copy: Book a Demo
     url: "/book-a-demo"
     style: primary
+- title: The Value Dressipi Unlocks For Retailers
+  handle: youtube
 - title: Our Solutions
   subtitle: Online, Mobile, In Store
   handle: features
@@ -83,4 +85,3 @@ sections:
   - Autograph
 layout: index
 ---
-
