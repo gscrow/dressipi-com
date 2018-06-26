@@ -17,6 +17,8 @@ description: Discover how we deliver fashion personalisation solutions to some o
   the biggest names in retail.
 has-demo-section: true
 sections:
+- title: How The Solution Works
+  handle: youtube
 - title: How it Works
   handle: steps
   subsections:
@@ -61,4 +63,3 @@ sections:
   - Personalised Email Success with N Brown
 layout: how-it-works
 ---
-

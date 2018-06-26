@@ -18,7 +18,6 @@ has-demo-section: true
 sections:
 - title: How Dressipi Improves Customer Experience
   handle: youtube
-
 - title: Key Features
   handle: features
   color: light-grey
