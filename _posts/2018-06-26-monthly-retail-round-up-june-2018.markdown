@@ -46,7 +46,7 @@ Reported in [The Financial](https://www.finchannel.com/technology/73806-h-m-grou
 
 High street retailers aren’t the only ones trying to bridge online and offline to create seamless shopping experiences. Luxury retailer Harvey Nichols announced a collaboration with the retail technology company, Hero. [The Drum](http://www.thedrum.com/news/2018/06/12/harvey-nichols-enlists-hero-help-it-use-ai-bring-online-and-offline-closer-together) reported:
 
-* *“Harvey Nichols leverage Hero's live shopping capabilities to let online consumers connect with in-store stylists in Harvey Nics' seven stores.” *
+* *“Harvey Nichols leverage Hero's live shopping capabilities to let online consumers connect with in-store stylists in Harvey Nics' seven stores.”*
 * Hero will enable shoppers to access a platform called Black Book. *“Customers who opt into Black Book can stay connected with their preferred stylist, in-store and online. When they're signed up to this service, they can also discover product offerings and recommendations.”* 
 
 Instead of queries going to the customer service team, customers will speak through messaging, photo sharing and live video streaming with actual stylists based at Harvey Nichols. As reported in [The Industry Fashion](https://www.theindustry.fashion/harvey-nichols-partners-with-hero-to-offer-live-shopping-online/), Harvey Nichols wants to offer their online customers the same level of luxury, personalised service that they would expect at their stores.
