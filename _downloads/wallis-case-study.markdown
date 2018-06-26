@@ -2,6 +2,7 @@
 title: Delivering One-to-One Personalisation for Wallis
 date: 2018-06-05 14:46:00 Z
 position: 1
+position-list: 1
 resource: Case Studies
 image: "/uploads/Wallis_Small_Case_Study_Image.png"
 form:
@@ -28,8 +29,8 @@ testimonial:
 
 ## In our free case study you will learn:
 
-* How Dressipi has delivered incremental revenue gains for Wallis
+- How Dressipi has delivered incremental revenue gains for Wallis
 
-* How personalisation benefits the customer and Wallis
+- How personalisation benefits the customer and Wallis
 
-* The ease of implementation and positive ROI from the partnership
+- The ease of implementation and positive ROI from the partnership

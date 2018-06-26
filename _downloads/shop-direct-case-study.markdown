@@ -2,6 +2,7 @@
 title: Personalising the Entire Customer Experience for Shop Direct
 date: 2017-05-10 11:20:00 Z
 position: 2
+position-list: 3
 resource: Case Studies
 image: "/uploads/sdg_withlogo_small.PNG"
 form:
@@ -29,8 +30,8 @@ layout: download
 
 ## In our free case study you will learn:
 
-* The main drivers behind Shop Direct's decision to partner with Dressipi
+- The main drivers behind Shop Direct's decision to partner with Dressipi
 
-* How Dressipi has helped Shop Direct deliver personalisation to every customer
+- How Dressipi has helped Shop Direct deliver personalisation to every customer
 
-* Insights into the positive results of the partnership
+- Insights into the positive results of the partnership

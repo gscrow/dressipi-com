@@ -2,6 +2,7 @@
 title: Personalised Email Success with N Brown
 date: 2018-06-05 15:12:00 Z
 position: 3
+position-list: 2
 resource: Case Studies
 image: "/uploads/JDW_Case_Study_Small_Image.png"
 form:
@@ -28,8 +29,8 @@ testimonial:
 
 ## In our free case study you will learn:
 
-* How Dressipi delivered a bespoke personalised email solution to the JD Williams brand
+- How Dressipi delivered a bespoke personalised email solution to the JD Williams brand
 
-* The high level of support Dressipi gives JD Williams to ensure ongoing success
+- The high level of support Dressipi gives JD Williams to ensure ongoing success
 
-* The positive ROI resulting from deploying Dressipi’s personalisation solution
+- The positive ROI resulting from deploying Dressipi’s personalisation solution
