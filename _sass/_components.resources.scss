@@ -1,64 +1,62 @@
-
 .resource {
-	@include flexbox;
-	@include flex-wrap(wrap);
-	margin-bottom: rhythm(5);
-	padding-bottom: rhythm(6);
-	border-bottom: 1px solid $border-color;
+  @include flexbox;
+  @include flex-wrap(wrap);
+  margin-bottom: rhythm(5);
+  padding-bottom: rhythm(6);
+  border-bottom: 1px solid $border-color;
 
-	&:last-child {
-		border-bottom: none;
-	}
+  &:last-child {
+    border-bottom: none;
+  }
 
-	&__content {
-		flex: 7;
+  &__content {
+    flex: 7;
 
-		h1 {
-			@extend .h3;
-		}
+    h1 {
+      @extend .h3;
+    }
 
-		h2 {
-			font-size: ms(1);
-			line-height: rhythm(3.5);
-			margin-bottom: rhythm(2);
-		}
+    h2 {
+      font-size: ms(1);
+      line-height: rhythm(3.5);
+      margin-bottom: rhythm(2);
+    }
 
-		p {
-			&:last-child {
-				margin-bottom: 0;
-			}
-		}
+    p {
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
 
-		ul {
-			@extend %list-styled;
-		}
-	}
+    ul {
+      @extend %list-styled;
+    }
+  }
 
-	&__image {
-		flex: 3;
-		margin-left: $gutter-width;
+  &__image {
+    flex: 3;
+    margin-left: $gutter-width;
 
-		img {
-			display: block;
-  		max-width: 100%;
-  		height: auto;
-  		border-radius: 3px;
-		}
-	}
+    img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      border-radius: 3px;
+    }
+  }
 }
 
-
 @include responsive(tablet) {
-	.resource {
-		&__content {
-			flex-basis: 100%;
-		}
+  .resource {
+    &__content {
+      flex-basis: 100%;
+    }
 
-		&__image {
-			flex-basis: 100%;
-			order: -1;
-			margin-left: 0;
-			margin-bottom: rhythm(3);
-		}
-	}
+    &__image {
+      flex-basis: 100%;
+      order: -1;
+      margin-left: 0;
+      margin-bottom: rhythm(3);
+    }
+  }
 }

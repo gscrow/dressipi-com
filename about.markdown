@@ -130,4 +130,3 @@ sections:
     url: "/contact"
 layout: about
 ---
-
