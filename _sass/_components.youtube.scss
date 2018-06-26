@@ -1,3 +1,25 @@
-.youtube {
-  text-align: center;
+.video-wrapper {
+  width: 50%;
+  margin: 0 auto;
+
+  .video-responsive {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+
+    iframe {
+      left: 0;
+      top: 0;
+      height: 100%;
+      width: 100%;
+      position: absolute;
+    }
+  }
+}
+
+@include responsive(tablet) {
+  .video-wrapper {
+    width: 80%;
+  }
 }
