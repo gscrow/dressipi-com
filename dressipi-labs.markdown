@@ -37,3 +37,4 @@ sections:
     image: "/uploads/labs_predictive-retailing@2x.png"
 layout: labs
 ---
+
