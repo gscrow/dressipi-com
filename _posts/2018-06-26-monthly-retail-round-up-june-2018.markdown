@@ -1,6 +1,25 @@
 ---
 title: Monthly Retail Round-Up - June 2018
 date: 2018-06-26 14:44:00 Z
+categories:
+- news
+tags:
+- retail
+- retail technology
+- retail news
+- retail innovation
+- H&M
+- Voice Interactive Mirrors
+- Augmented Reality
+- Harvey Nichols
+- one to one personalisation
+- Westfield
+- Destination 2028
+- ASOS
+- Re:Tech
+author: Georgina Fisher
+description: With lots of news to keep track of, Dressipi brings you this month's
+  best stories from the world of retail and its supporting industries.
 ---
 
 Some of the best articles from the world of retail and its supporting industries.
