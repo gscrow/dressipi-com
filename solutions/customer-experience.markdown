@@ -16,6 +16,9 @@ description: Discover the key features of Dressipi's fashion personalisation sol
   and see what benefits it can bring to your business.
 has-demo-section: true
 sections:
+- title: How Dressipi Improves Customer Experience
+  handle: youtube
+
 - title: Key Features
   handle: features
   color: light-grey
@@ -98,4 +101,3 @@ sections:
   - Personalised Email Success with N Brown
 layout: product
 ---
-
