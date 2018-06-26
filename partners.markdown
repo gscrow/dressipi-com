@@ -27,6 +27,8 @@ description: Dressipi works with some of the UK's biggest retailers, helping the
   and physical stores. Discover who they are
 has-demo-section: true
 sections:
+- title: The Value Dressipi Unlocks For Retailers
+  handle: youtube
 - title: Case Studies
   subtitle: The following case studies outline the impact Dressipi has had on some
     of its major clients.
@@ -58,4 +60,3 @@ sections:
   - Autograph
 layout: partners
 ---
-
