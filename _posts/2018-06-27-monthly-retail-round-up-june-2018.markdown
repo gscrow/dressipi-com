@@ -1,7 +1,6 @@
 ---
 title: Monthly Retail Round-Up - June 2018
 date: 2018-06-27 10:23:00 Z
-published: false
 categories:
 - news
 tags:
