@@ -11,8 +11,8 @@ header:
     url: "/book-a-demo"
   hero-image: "/uploads/banner__home.jpg"
   link:
-    copy: Discover our Solutions
-    url: "#features"
+    copy: Watch Video
+    url: "#The Value Dressipi Unlocks For Retailers"
 description: Dressipi is the leader in fashion personalisation, increasing AOV and
   decreasing returns. Click here and learn what benefits it could bring to your business.
 has-demo-section: true
