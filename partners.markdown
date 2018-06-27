@@ -8,8 +8,8 @@ header:
     a common goal of seeking to offer their customers a truly data-driven, personalised
     shopping and dressing solution.
   button:
-    copy: Book a Demo
-    url: "/book-a-demo"
+    copy: Watch Video
+    url: "#youtube"
     style: primary
   width: full
   clients:
