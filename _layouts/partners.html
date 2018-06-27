@@ -4,7 +4,7 @@ layout: default
 
 {% for section in page.sections %}
 {% assign handle = section.handle %}
-<section class="section {% if handle %}{{ section.handle | prepend: 'section-' | append: ' ' }}{% endif %}background--{{ section.color | default:'white' }}">
+<section id="{{ handle }}"  class="section {% if handle %}{{ section.handle | prepend: 'section-' | append: ' ' }}{% endif %}background--{{ section.color | default:'white' }}">
   <!-- section heading group -->
   <hgroup class="container gutter section__heading">
     {% if section.title %}<h3>{{ section.title }}</h3>{% endif %}
