@@ -6,6 +6,9 @@ navigation: header
 header:
   title: Personalisation is our Passion
   body: "### We are proud to be known as the global leader in fashion-specific personalisation."
+  button:
+    copy: Watch Video
+    url: "#intro"
   width: extend
 description: Personalisation is our passion. Take a look at Dressipi's history, our
   team, and our journey to becoming the leader in fashion-specific personalisation.
