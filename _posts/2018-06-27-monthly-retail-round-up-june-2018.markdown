@@ -31,7 +31,7 @@ Some of the best articles from the world of retail and its supporting industries
 
 ### 1) H&M Group Unveil Tech Developments to Rival Zara
 
-New technology is constantly transforming the retail industry, with Zara rolling out their futuristic store in [May](https://dressipi.com/blog/monthly-retail-round-up-may-2018/). Fast fashion retailer, H&M is merging the digital and physical by launching cutting edge technology to create new and exciting shopping experiences that rival their main competitor, Zara. A couple of the few new features H&M has launched this month include:
+New technology is constantly transforming the retail industry, with Zara rolling out their futuristic store in [May](https://dressipi.com/blog/monthly-retail-round-up-may-2018/). Fast fashion retailer H&M is merging the digital and physical by launching cutting edge technology to create new and exciting shopping experiences that rival their main competitor, Zara. A couple of the few new features H&M has launched this month include:
 
 * **Voice Interactive Mirrors**
 
