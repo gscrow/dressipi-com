@@ -17,7 +17,7 @@ tags:
 - Destination 2028
 - ASOS
 - Re:Tech
-image: "/uploads/June_Monthly_Round_Up.jpg"
+image: "/uploads/Top50.jpg"
 author: Georgina Fisher
 description: With lots of news to keep track of, Dressipi brings you this month's
   best stories from the world of retail and its supporting industries.
