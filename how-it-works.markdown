@@ -13,6 +13,9 @@ header:
     url: "/book-a-demo"
   hero-image: "/uploads/banner__how-it-works.jpg"
   color: "#F0F0F0"
+  link:
+    copy: Watch Video
+    url: "#youtube"
 description: Discover how we deliver fashion personalisation solutions to some of
   the biggest names in retail.
 has-demo-section: true
