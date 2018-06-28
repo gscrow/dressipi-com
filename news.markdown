@@ -37,7 +37,7 @@ sections:
   - image: "/uploads/tech-london-advocates-logo-black-09fced.png"
     title: Top 50 UK Retail Tech Businesses
   - image: "/uploads/rs_awards_Shortlisted_2018_outlines%20(1).jpg"
-    title: 'In-Store Innovation of the Year (and others) - Finalist  '
+    title: 'Retail Partnership of the Year (Online) - Winners  '
   - image: "/uploads/computing.png"
     title: Mobile Project of the Year - Finalist
   - image: "/uploads/award__millenial.png"
