@@ -30,7 +30,7 @@ As discussed in Dressipi’s Whitepaper, ‘[How Dressipi can Help Retailers Tra
 
 * 74% still prefer physical stores compared to just 26% preferring online shopping
 * 49% of people said their most loved element of the in-store experience is touching and trying things out
-* 70% said they enjoy the full experience of going into stores to browse, see what’s new and buy what they like ([Internet Retailing](https://internetretailing.net/themes/themes/-while-81-of-consumers-prefer-physical-stores-so-a-third-can-showroom-15848))
+* 70% said they enjoy the full experience of going into stores to browse, see what’s new and buy what they like [Internet Retailing](https://internetretailing.net/themes/themes/-while-81-of-consumers-prefer-physical-stores-so-a-third-can-showroom-15848)
 
 However, customers want the convenience and increasingly [personalised experiences](https://dressipi.com/solutions/customer-experience/) they get online to be translated into a store environment. This is where technology comes in - with reports of CVA’s and store closures dominating the press, retailers are turning to cutting-edge technologies to help them boost in-store sales at this turbulent time.
 
