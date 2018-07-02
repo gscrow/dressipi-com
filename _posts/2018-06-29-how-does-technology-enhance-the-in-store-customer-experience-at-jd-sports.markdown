@@ -1,8 +1,25 @@
 ---
 title: How does Technology Enhance the In-Store Customer Experience at JD Sports?
 date: 2018-06-29 11:52:00 Z
+tags:
+- JD Sports
+- Technology
+- instore technology
+- instore experience
+- customer experience
+- retail
+- innovation
+- better customer service
+- retail innovation
+- digital technology
+- physical store
 image: "/uploads/JD%20Sports%20Banner.JPG"
 author: Georgina Fisher
+description: With the athleisure trend rapidly growing, and reports of international
+  store expansion in the press, Georgina Fisher visited JD Sports’ flagship on Oxford
+  Street to see what technologies they have adopted to improve customer experience
+  in-store.
+download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
 When a customer walks into a store they expect a great experience, and these expectations are continuously growing.
