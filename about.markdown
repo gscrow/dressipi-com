@@ -131,7 +131,7 @@ sections:
   - name: Marija Mandić
     title: Junior Software Engineer
     linkedin: https://www.linkedin.com/in/marija-mandic/
-    image: 
+    image: "/uploads/marija-headshot.jpeg"
   button:
     copy: Contact Us
     url: "/contact"
