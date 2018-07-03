@@ -128,6 +128,10 @@ sections:
     title: Web Developer
     linkedin: https://uk.linkedin.com/in/hassan-iskaf
     image: "/uploads/Hassan%20I.jpg"
+  - name: Marija Mandić
+    title: Junior Software Engineer
+    linkedin: https://www.linkedin.com/in/marija-mandic/
+    image: 
   button:
     copy: Contact Us
     url: "/contact"
