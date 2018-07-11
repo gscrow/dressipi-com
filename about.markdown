@@ -19,10 +19,12 @@ sections:
   body: "> Our mission is to help retailers grow and stay relevant by giving their
     customers the confidence to look and feel great and removing all hassle from the
     shopping experience. \n\nWe believe that personalisation at the individual level
-    underpins superior recommendations. It is the foundation of a truly helpful shopping
-    journey for customers and creates the data and insights that help retailers improve
-    product ranges and solve inefficiencies.\n\nOver 3.5 million women currently use
-    our service to make better shopping and dressing decisions every day."
+    underpins superior recommendations. It is the foundation of a truly [helpful shopping
+    journey for customers](https://dressipi.com/solutions/customer-experience/) and
+    creates the [data and insights](https://dressipi.com/solutions/data-insight/)
+    that help retailers improve product ranges and solve inefficiencies.\n\nOver 3.5
+    million women currently use our service to make better shopping and dressing decisions
+    every day."
 - title: Why Dressipi
   handle: why-us
   columns: 2
@@ -39,7 +41,7 @@ sections:
   - title: Proven Results
     body: In A/B tests Dressipi has consistently proven to deliver 5-8% increase in
       net incremental revenue per visitor, over and above gains from any competitive
-      solution.
+      solution. Take a look at our [Case Studies](https://dressipi.com/resources/case-studies/).
   - title: Specific Fashion Domain Knowledge
     body: We understand that fashion and how customers think of fashion changes with
       time, inspiration and context. Our algorithms take account of fashion specific
