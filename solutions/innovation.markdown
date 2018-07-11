@@ -7,7 +7,8 @@ header:
     to dressing or shopping, what they want to add to their wardrobe or the events
     and occasions they buy for. \n\nAt Dressipi we believe knowing the answers to
     these questions is the most important opportunity for retailers – it empowers
-    better customer experiences, better products and better revenue and profitability. "
+    better [customer experiences](https://dressipi.com/solutions/customer-experience/),
+    better products and better revenue and profitability. "
   button:
     copy: Book a Demo
     url: "/book-a-demo"
@@ -21,15 +22,15 @@ sections:
 - title: Future-proof Your Business
   handle: intro
   width: narrow
-  body: "> With technology developed by one of the most talented teams of technologists,
-    data scientists and stylists, Dressipi has built one of the most advanced personalised
-    solutions available for fashion retail today. \n\nDressipi uses the latest advances
-    in Machine Learning and AI alongside the largest set of product fit and style
-    data available in the world. \n\nInnovation and adaptability are key. Our solution
-    is an ensemble of algorithms that we constantly evolve by integrating newly discovered
-    methods along with our proprietary algorithms. This future-proofs a retailer’s
-    personalisation roadmap and reflects how fashion and customer requirements evolve
-    over time."
+  body: "> With technology developed by one of the most [talented teams](https://dressipi.com/about/)
+    of technologists, data scientists and stylists, Dressipi has built one of the
+    most advanced personalised solutions available for fashion retail today. \n\nDressipi
+    uses the latest advances in Machine Learning and AI alongside the largest set
+    of product fit and style data available in the world. \n\nInnovation and adaptability
+    are key. Our solution is an ensemble of algorithms that we constantly evolve by
+    integrating newly discovered methods along with our proprietary algorithms. This
+    future-proofs a retailer’s personalisation roadmap and reflects how fashion and
+    customer requirements evolve over time."
 - title: Key Features
   handle: features
   color: light-grey
