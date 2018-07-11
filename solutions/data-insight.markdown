@@ -22,10 +22,11 @@ sections:
   handle: intro
   width: narrow
   body: For fashion-specific personalisation to be truly transformational, personalising
-    the product experience and customer experience are equally important. Dressipi
-    supports the creative process by giving actionable insights that help retailers
-    optimise the product range for the upcoming season, as well as more accurately
-    predicting the correct quantity and size for each individual location.
+    the product experience and [customer experience](https://dressipi.com/solutions/customer-experience/)
+    are equally important. Dressipi supports the creative process by giving actionable
+    insights that help retailers optimise the product range for the upcoming season,
+    as well as more accurately predicting the correct quantity and size for each individual
+    location.
   subsections:
   - title: 'Retailers can quickly and easily:'
     body: |
