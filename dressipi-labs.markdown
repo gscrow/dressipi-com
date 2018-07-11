@@ -30,10 +30,10 @@ sections:
     description: "For the first time ever, Dressipi is allowing retailers to connect
       actual customer & visitor profile data with actual garment data (at the feature
       level). \n\nThis will take us from a world of reactive and gut-based retailing
-      to a more informed, data-driven world of predictive retailing. This does not
-      distract from creativity and new trends but allows each retailer to better predict
-      how they should respond to key trends, key pieces and how they benchmark against
-      their peers."
+      to a more informed, [data-driven world of predictive retailing](https://dressipi.com/solutions/data-insight/).
+      This does not distract from creativity and new trends but allows each retailer
+      to better predict how they should respond to key trends, key pieces and how
+      they benchmark against their peers."
     image: "/uploads/labs_predictive-retailing@2x.png"
 layout: labs
 ---
