@@ -14,7 +14,14 @@ header:
     url: "/contact"
     style: secondary
   hero-image: "/uploads/banner_labs.jpg"
+  link:
+    copy: Watch Video
+    url: "#youtube"
+    color: "#F0F0F0"
+
 sections:
+- title: The Future of Retail
+  handle: youtube
 - title: Our Projects
   handle: projects
   subsections:
@@ -37,4 +44,3 @@ sections:
     image: "/uploads/labs_predictive-retailing@2x.png"
 layout: labs
 ---
-

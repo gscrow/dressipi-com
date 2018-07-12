@@ -4,7 +4,7 @@ layout: default
 
 {% for section in page.sections %}
 {% assign handle = section.handle %}
-<section class="section {% if handle %}{{ section.handle | prepend: 'section-' | append: ' ' }}{% endif %}background--{{ section.color | default:'white' }}">
+<section  id="{{ handle }}" class="section {% if handle %}{{ section.handle | prepend: 'section-' | append: ' ' }}{% endif %}background--{{ section.color | default:'white' }}">
 	<!-- section heading group -->
   <hgroup class="container gutter section__heading">
     {% if section.title %}<h3>{{ section.title }}</h3>{% endif %}
@@ -13,6 +13,15 @@ layout: default
 
 	<!-- section content group -->
   <div class="section__body">
+    {% case handle %}
+    {% when 'youtube' %}
+    <div class="video-wrapper">
+      <div class="video-responsive">
+        <div class="video yt-about"> <iframe width="560" height="315" src="https://www.youtube.com/embed/GlxD47z8TKU?rel=0&showinfo=0&color=white" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+    {% when 'projects' %}
 		<div class="projects">
 		  {% for subsection in section.subsections %}
 		  <div class="project">
@@ -40,6 +49,8 @@ layout: default
 		  </div>
 		  {% endfor %}
 		</div>
+    {% endcase %}
+
   </div>
 
   {% if section.button %}
@@ -48,7 +59,13 @@ layout: default
   	<a href="{{ section.button.url }}" class="button button--medium button-{{ section.button.style | default: 'secondary' }}">{{ section.button.copy }}</a>
   </div>
   {% endif %}
+
+
 </section>
+
+
+
+{% endfor %}
 <div id="form-demo" class="form-demo section">
   <div class="container gutter">
     <hgroup class="form-demo__heading">
@@ -58,5 +75,3 @@ layout: default
     </hgroup>
   </div>
 </div>
-
-{% endfor %}
