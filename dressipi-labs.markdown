@@ -18,7 +18,6 @@ header:
     copy: Watch Video
     url: "#youtube"
     color: "#F0F0F0"
-
 sections:
 - title: The Future of Retail
   handle: youtube
@@ -44,3 +43,4 @@ sections:
     image: "/uploads/labs_predictive-retailing@2x.png"
 layout: labs
 ---
+
