@@ -58,3 +58,7 @@ Reported by [Marketing Week](https://www.marketingweek.com/2018/06/28/missguided
 Missguided sends free clothes to the Love Island contestants every few weeks to suit their individual style, and with over 3 million people watching Love Island every night, this gives Missguided access to large amounts of potential customers, watching contestants dressed in their products.
 
 [Retail Gazette](https://www.retailgazette.co.uk/blog/2018/07/superdrug-profits-jump-thanks-love-island-tie/) also stated that Missguided is not the only retailer profiting from the hit reality show. *“Superdrug saw both profits and revenues rise. In the 12 months to December 30, revenues edged up 2.3% to £1.2 billion, while pre-tax profits jumped 16% to £92.9 million.”*
+
+## We hope you enjoyed the round-up. Please feel free to get in touch with any stories you feel would be of interest.
+
+> Banner Photo by Daniel von Appen on Unsplash
