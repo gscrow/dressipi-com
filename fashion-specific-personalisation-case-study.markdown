@@ -1,5 +1,5 @@
 ---
-title: Fashion-Specific Personalisation (Case Study)
+title: Fashion-Specific Personalisation
 date: 2017-11-08 15:13:00 Z
 position: 22
 header:
