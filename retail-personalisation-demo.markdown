@@ -1,5 +1,5 @@
 ---
-title: Retail Personalisation (Demo)
+title: Retail Personalisation
 date: 2017-10-26 07:07:00 Z
 position: 25
 header:
