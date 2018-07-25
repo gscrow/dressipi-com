@@ -1,5 +1,5 @@
 ---
-title: Fashion-Specific Personalisation (Demo)
+title: Fashion-Specific Personalisation
 date: 2017-10-26 07:07:00 Z
 position: 23
 header:
