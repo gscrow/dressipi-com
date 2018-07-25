@@ -1,6 +1,24 @@
 ---
 title: Monthly Retail Round-Up - July 2018
 date: 2018-07-25 08:54:00 Z
+categories:
+- news
+tags:
+- retail
+- retail news
+- sustainability
+- retail sustainability
+- ASOS
+- H&M
+- John Lewis
+- Amazon Prime Day
+- retail technology
+- Nike
+- In-Store Shoping App
+- Missguided
+author: Georgina Fisher
+description: With lots of news to keep track of, Dressipi brings you this month's
+  best stories from the world of retail and its supporting industries.
 ---
 
 Some of the best articles from the world of retail and its supporting industries.
