@@ -65,9 +65,9 @@ Reported in [RACKED](https://www.racked.com/2018/7/19/17591310/nike-live-concept
 * **In-Store Shopping App**
 
 [Hypebeast](https://hypebeast.com/2018/7/nike-in-store-retail-shopping-app-video) reported that Nike has launched the Nike App at Retail. This app will let customers:
-1. See if their size is in store, allowing for same day reservations
-2. NikePlus members will be given access to special Nike products, exclusive discounts, and partner awards
-3. Scan barcodes to learn more about any product and find more sizes and colours
+* See if their size is in store, allowing for same day reservations
+* NikePlus members will be given access to special Nike products, exclusive discounts, and partner awards
+* Scan barcodes to learn more about any product and find more sizes and colours
 
 ### 4) Missguided’s Partnership with Love Island
 
