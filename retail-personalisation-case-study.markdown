@@ -1,5 +1,5 @@
 ---
-title: Retail Personalisation (Case Study)
+title: Retail Personalisation
 date: 2017-11-08 15:00:00 Z
 position: 24
 header:
