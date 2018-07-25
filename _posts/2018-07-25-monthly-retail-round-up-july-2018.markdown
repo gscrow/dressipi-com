@@ -58,16 +58,16 @@ However, [Internet Retailing](https://internetretailing.net/themes/amazon-report
 
 Retailers are always finding new ways to connect with tech-savvy customers. In [June](https://dressipi.com/blog/monthly-retail-round-up-june-2018/), both H&M and Harvey Nichols announced their plans to try to bridge the gap between online and offline experiences. This July, Nike is trying to do the same by launching the following:
 
-* ** Live-Concept Store**
+* **Live-Concept Store**
 
 Reported in [RACKED](https://www.racked.com/2018/7/19/17591310/nike-live-concept-store-digital-physical-retail-brick-and-mortar-online-shopping), Nike has launched their first ‘live-concept store’, in Los Angeles. It includes features such as being able to text the store and request that a new pair of trainers (or another product) be handed to you at the curb, just like a drive-thru. Michael Martin, Vice President of Digital Products, Nike, highlighted, *“We wanted to optimize for speed and convenience.”*
 
 * **In-Store Shopping App**
 
 [Hypebeast](https://hypebeast.com/2018/7/nike-in-store-retail-shopping-app-video) reported that Nike has launched the Nike App at Retail. This app will let customers:
- - See if their size is in store, allowing for same day reservations
- - NikePlus members will be given access to special Nike products, exclusive discounts, and partner awards
- - Scan barcodes to learn more about any product and find more sizes and colours
+1. See if their size is in store, allowing for same day reservations
+2. NikePlus members will be given access to special Nike products, exclusive discounts, and partner awards
+3. Scan barcodes to learn more about any product and find more sizes and colours
 
 ### 4) Missguided’s Partnership with Love Island
 
