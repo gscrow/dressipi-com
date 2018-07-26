@@ -1,6 +1,6 @@
 ---
 title: Monthly Retail Round-Up - July 2018
-date: 2018-07-25 08:54:00 Z
+date: 2018-07-26 08:54:00 Z
 categories:
 - news
 tags:
