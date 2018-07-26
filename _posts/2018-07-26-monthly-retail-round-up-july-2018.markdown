@@ -30,7 +30,7 @@ Some of the best articles from the world of retail and its supporting industries
 
 ### 1) Push for Retailers to Become More Sustainable
 
-The [Drapers Sustainability Report](http://guides.drapersonline.com/5922.guide) was released this July and centered around creating a circular business model for fashion. This includes:
+The [Drapers Sustainability Report](http://guides.drapersonline.com/5922.guide) was released this July and centred around creating a circular business model for fashion. This includes:
 
 * Increasing clothing recycling
 * Reducing the industry’s reliance on raw materials, e.g. Cotton 
