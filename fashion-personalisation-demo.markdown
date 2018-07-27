@@ -22,6 +22,6 @@ description: Dressipi is the global leader in Fashion Personalisation. We give e
 
 ## Why businesses choose Dressipi:
 
-* Increase in net incremental revenue per visitor by 5-8%
-* Increase in AOV and frequency of purchase
-* Reduce returns by 5% percentage points
+- Increase in net incremental revenue per visitor by 5-8%
+- Increase in AOV and frequency of purchase
+- Reduce returns by 5% percentage points
