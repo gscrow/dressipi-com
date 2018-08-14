@@ -90,7 +90,7 @@ sections:
   - name: Martyn Jobber
     title: Chief Commercial Officer
     linkedin: https://www.linkedin.com/in/martyn-jobber-059608/
-    image: 
+    image: "/uploads/Martyn_Jobber_Headshot.jpeg"
   - name: Jonny Aloysius
     title: Head of Finance
     linkedin: https://www.linkedin.com/in/jonny-aloysius-1562463
