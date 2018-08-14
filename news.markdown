@@ -61,7 +61,7 @@ sections:
       A Killer Experience - Finalist
 
       Best Tech - Finalist
-  - image: 
+  - image: "/uploads/award__millenial1.jpg"
     title: Best Connected Experience of the Year / Most Intelligent Use of Data -
       Finalist
 layout: news
