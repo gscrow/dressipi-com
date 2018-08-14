@@ -40,7 +40,9 @@ sections:
   - image: "/uploads/tech-london-advocates-logo-black-09fced.png"
     title: Top 50 UK Retail Tech Businesses
   - image: "/uploads/rs_awards_Shortlisted_2018_outlines%20(1).jpg"
-    title: Retail Partnership of the Year (Online) - Winner
+    title: |-
+      Retail Partnership of the Year (Online)
+      Winner
   - image: "/uploads/computing.png"
     title: Mobile Project of the Year - Finalist
   - image: "/uploads/award__millenial.png"
@@ -48,7 +50,9 @@ sections:
   - image: "/uploads/RW_AWARDS_LOGO_FINALIST_Small-92d0cf.png"
     title: Customer Innovation - Finalist
   - image: "/uploads/award__silver-tech-2017.png"
-    title: In-store CX Initiative of the Year - Silver Winner
+    title: |-
+      In-store CX Initiative of the Year
+      Silver Winner
   - image: "/uploads/award__world-retail-2017.png"
     title: The Rodney Fitch Award for Innovation & Creativity 2017 - Finalist
   - image: "/uploads/award__cogx.png"
