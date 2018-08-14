@@ -61,13 +61,9 @@ sections:
       A Killer Experience - Finalist
 
       Best Tech - Finalist
-  - image: "/uploads/award__digital-awards.png"
-    title: |-
-      Best Customer Experience - Finalist
-
-      Best Tech - Finalist
-  - image: "/uploads/award__retail-system-awards.png"
-    title: Best Use of Tech for Personalisation - Winner
+  - image: 
+    title: Best Connected Experience of the Year / Most Intelligent Use of Data -
+      Finalist
 layout: news
 ---
 
