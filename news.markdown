@@ -50,9 +50,7 @@ sections:
   - image: "/uploads/RW_AWARDS_LOGO_FINALIST_Small-92d0cf.png"
     title: Customer Innovation - Finalist
   - image: "/uploads/award__silver-tech-2017.png"
-    title: |-
-      In-store CX Initiative of the Year
-      Silver Winner
+    title: In-store CX Initiative of the Year - Silver Winner
   - image: "/uploads/award__world-retail-2017.png"
     title: The Rodney Fitch Award for Innovation & Creativity 2017 - Finalist
   - image: "/uploads/award__cogx.png"
