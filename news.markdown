@@ -34,6 +34,9 @@ sections:
   subtitle: 
   handle: awards
   awards:
+  - image: "/uploads/award__millenial1.jpg"
+    title: Best Connected Experience of the Year   Most Intelligent Use of Data -
+      Finalists
   - image: "/uploads/tech-london-advocates-logo-black-09fced.png"
     title: Top 50 UK Retail Tech Businesses
   - image: "/uploads/rs_awards_Shortlisted_2018_outlines%20(1).jpg"
@@ -61,9 +64,6 @@ sections:
       A Killer Experience - Finalist
 
       Best Tech - Finalist
-  - image: "/uploads/award__millenial1.jpg"
-    title: Best Connected Experience of the Year / Most Intelligent Use of Data -
-      Finalist
 layout: news
 ---
 
