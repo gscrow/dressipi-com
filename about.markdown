@@ -87,6 +87,14 @@ sections:
     title: Chief Data Scientist
     linkedin: https://www.linkedin.com/in/nicklandia/?ppe=1
     image: "/uploads/nick-landia.jpg"
+  - name: Martyn Jobber
+    title: Chief Commercial Officer
+    linkedin: https://www.linkedin.com/in/martyn-jobber-059608/
+    image: 
+  - name: Jonny Aloysius
+    title: Head of Finance
+    linkedin: https://www.linkedin.com/in/jonny-aloysius-1562463
+    image: 
   - name: JJ. Green
     title: Machine Learning Developer
     linkedin: http://soliton.vm.bytemark.co.uk/pub/jjg/en
@@ -134,14 +142,6 @@ sections:
     title: Junior Software Engineer
     linkedin: https://www.linkedin.com/in/marija-mandic/
     image: "/uploads/marija-headshot.jpeg"
-  - name: Martyn Jobber
-    title: Chief Commercial Officer
-    linkedin: https://www.linkedin.com/in/martyn-jobber-059608/
-    image: 
-  - name: Jonny Aloysius
-    title: Head of Finance
-    linkedin: https://www.linkedin.com/in/jonny-aloysius-1562463
-    image: 
   button:
     copy: Contact Us
     url: "/contact"
