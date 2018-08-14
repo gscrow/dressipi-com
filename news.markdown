@@ -35,8 +35,8 @@ sections:
   handle: awards
   awards:
   - image: "/uploads/award__millenial1.jpg"
-    title: "Best Connected Experience of the Year - Finalist  \n\nMost Intelligent
-      Use of Data - Finalist"
+    title: Best Connected Experience of the Year / Most Intelligent Use of Data -
+      Finalists
   - image: "/uploads/tech-london-advocates-logo-black-09fced.png"
     title: Top 50 UK Retail Tech Businesses
   - image: "/uploads/rs_awards_Shortlisted_2018_outlines%20(1).jpg"
@@ -44,10 +44,7 @@ sections:
   - image: "/uploads/computing.png"
     title: Mobile Project of the Year - Finalist
   - image: "/uploads/award__millenial.png"
-    title: |-
-      Best Innovation Commerce-Enabler - Finalist
-
-      Best Retail Solution - Finalist
+    title: Best Innovation Commerce-Enabler / Best Retail Solution - Finalists
   - image: "/uploads/RW_AWARDS_LOGO_FINALIST_Small-92d0cf.png"
     title: Customer Innovation - Finalist
   - image: "/uploads/award__silver-tech-2017.png"
