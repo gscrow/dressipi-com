@@ -95,22 +95,6 @@ sections:
     title: Head of Finance
     linkedin: https://www.linkedin.com/in/jonny-aloysius-1562463
     image: 
-  - name: JJ. Green
-    title: Machine Learning Developer
-    linkedin: http://soliton.vm.bytemark.co.uk/pub/jjg/en
-    image: "/uploads/jj.-green.jpg"
-  - name: Jiazhen Xie
-    title: Software Engineer
-    linkedin: https://www.linkedin.com/in/jiazhen-xie-25663763/?ppe=1
-    image: "/uploads/jiazhen-xie.jpg"
-  - name: Daria Biryukova
-    title: Business Insight Analyst
-    linkedin: https://www.linkedin.com/in/daria-biryukova-3502aa51
-    image: "/uploads/daria-biryukova.jpg"
-  - name: Jessica Rosati
-    title: Data Scientist
-    linkedin: https://www.linkedin.com/in/jessica-rosati-4b685481/
-    image: "/uploads/jessica_rosati_photo%20copy.jpg"
   - name: Natalie Theo
     title: Style Director
     linkedin: https://www.linkedin.com/in/natalie-theo-5b561160/?ppe=1
@@ -130,6 +114,22 @@ sections:
     title: 'Sales & Marketing Associate '
     linkedin: https://www.linkedin.com/in/georgina-fisher-408689151/
     image: "/uploads/Georgina%20Fisher%20-%20Sales%20&%20Marketing%20Associate.jpg"
+  - name: JJ. Green
+    title: Machine Learning Developer
+    linkedin: http://soliton.vm.bytemark.co.uk/pub/jjg/en
+    image: "/uploads/jj.-green.jpg"
+  - name: Jiazhen Xie
+    title: Software Engineer
+    linkedin: https://www.linkedin.com/in/jiazhen-xie-25663763/?ppe=1
+    image: "/uploads/jiazhen-xie.jpg"
+  - name: Daria Biryukova
+    title: Business Insight Analyst
+    linkedin: https://www.linkedin.com/in/daria-biryukova-3502aa51
+    image: "/uploads/daria-biryukova.jpg"
+  - name: Jessica Rosati
+    title: Data Scientist
+    linkedin: https://www.linkedin.com/in/jessica-rosati-4b685481/
+    image: "/uploads/jessica_rosati_photo%20copy.jpg"
   - name: Paul Woestelandt
     title: Web Developer
     linkedin: https://www.linkedin.com/in/pwoestelandt
