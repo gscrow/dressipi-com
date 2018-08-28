@@ -28,5 +28,27 @@ Each piece of clothing comes with *“a smart Bluetooth chip from [Awear Solutio
 
 The customer can opt out of this, however if they choose not to, Tommy Hilfiger will know how many times the garment has been worn and the circumstances in which they have worn it. Retailers will be able to get data and post-sale analytics on product usage and therefore, will be able to tailor promotions for loyal customers (concert tickets, gift cards etc).
 
+### 3) House of Fraser Saved by Sports Direct
+
+The hot topic in retail this month was Sports Direct’s purchase of House of Fraser for £90m. A statement made by Sports Direct, was reported in [Internet Retailing](https://internetretailing.net/industry/industry/house-of-fraser-dies-and-rises-again-thanks-to-sports-direct--but-what-next-18245?Preview=1&utm_source=bm23&utm_medium=email&utm_term=House+of+Fraser+dies+and+rises+again+thanks+to+Sports+Direct+%E2%80%93+but+what+next?&utm_content=IR+newsletter+-+10+August+2018&utm_campaign=10/08/2018), *“The group has acquired all of the UK stores of House of Fraser, the House of Fraser brand and all the stock in the business”*.
+
+Mike Ashley, Founder, Sports Direct has had an 11% stake in House of Fraser since 2004. However, he was not the only interested party to buy the 169-year-old department store. Philip Day, Owner of Edinburgh Woollen Mill, and Alteri Investors were the other frontrunners to buy House of Fraser.
+
+Many people had views on what this will mean for House of Fraser including Sofie Willmott, Senior Retail Analyst, GlobalData who stated, *"To give House of Fraser the best chance of survival, Sports Direct and its owner Mike Ashley must make drastic changes to both its product proposition and store environment to entice shoppers back”* ([Internet Retailing](https://internetretailing.net/industry/industry/house-of-fraser-dies-and-rises-again-thanks-to-sports-direct--but-what-next-18245?Preview=1&utm_source=bm23&utm_medium=email&utm_term=House+of+Fraser+dies+and+rises+again+thanks+to+Sports+Direct+%E2%80%93+but+what+next?&utm_content=IR+newsletter+-+10+August+2018&utm_campaign=10/08/2018)).
+
+Furthermore, there have been growing concerns around the fate of its bricks and mortar stores, however the saving of the Oxford Street flagship was recently reported in [Drapers](https://www.drapersonline.com/news/ashley-secures-house-of-fraser-oxford-street-flagship/7031803.article?search=https%3a%2f%2fwww.drapersonline.com%2fsearcharticles%3fqsearch%3d1%26keywords%3dhouse+of+fraser), *“cementing his intentions for the department store chain”*.
+
+### 4) Forever 21 Rolls Out Visual Search Feature
+
+Forever 21 has teamed up with [Donde Search](https://www.dondesearch.com/) to create a new visual search and navigation feature on their website. [Retail Dive](https://www.retaildive.com/news/forever-21-visual-search-tool-boosted-purchase-value-by-20/530770/) reported that the feature *“lets shoppers search by clicking icons representing attributes desired in an outfit, such as a skirt's length and fit, or a shirt's neckline and color, and not have to type terms into a search bar”*.
+
+‘Discover your Style’ was first launched in May on the iOS app but only available for the dresses and tops categories. However, the immediate boost in sales saw the retailer scaling the solution with a spokesman saying (reported in [WWD](https://wwd.com/business-news/technology/forever-21-visual-search-1202776337/)), *“In the first month after launching the feature, Forever 21 saw an increase in sales conversions and a 20% increase in average purchase value for the two test categories. This initial success led Forever 21 executives to fast-track the large-scale web integration of Donde Search’s technology”*.
+
+In a press release, reported in [Retail Dive](https://www.retaildive.com/news/forever-21-visual-search-tool-boosted-purchase-value-by-20/530770/), Alex Ok, President, Forever 21 said *"Visual search technology bridges the gap between the convenience of online shopping and the rich discovery experience of traditional retail by enabling our customers to search for clothing in the same way they think about it – using visuals, not words"*. 
+
+## We hope you enjoyed the round-up. Please feel free to get in touch with any stories you feel would be of interest.
+
+> Banner Photo by Becca McHaffie on Unsplash
+
 
 
