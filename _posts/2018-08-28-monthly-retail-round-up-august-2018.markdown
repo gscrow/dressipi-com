@@ -1,8 +1,24 @@
 ---
 title: Monthly Retail Round-Up - August 2018
 date: 2018-08-28 12:44:00 Z
+categories:
+- news
+tags:
+- retail
+- retail news
+- Sainsburys
+- check out free
+- retail technology
+- Tommy Hilfiger
+- fashion technology
+- House of Fraser
+- Sports Direct
+- Forever 21
+- Visual search
 image: "/uploads/Aug%20Monthly%20Round%20Up.jpg"
 author: Georgina Fisher
+description: With lots of news to keep track of, Dressipi brings you this month's
+  best stories from the world of retail and its supporting industries.
 ---
 
 Some of the best articles from the world of retail and its supporting industries.
