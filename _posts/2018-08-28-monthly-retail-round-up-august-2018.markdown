@@ -2,6 +2,7 @@
 title: Monthly Retail Round-Up - August 2018
 date: 2018-08-28 12:44:00 Z
 image: "/uploads/Aug%20Monthly%20Round%20Up.jpg"
+author: Georgina Fisher
 ---
 
 Some of the best articles from the world of retail and its supporting industries.
@@ -49,6 +50,3 @@ In a press release, reported in [Retail Dive](https://www.retaildive.com/news/fo
 ## We hope you enjoyed the round-up. Please feel free to get in touch with any stories you feel would be of interest.
 
 > Banner Photo by Becca McHaffie on Unsplash
-
-
-
