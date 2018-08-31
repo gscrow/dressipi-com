@@ -142,6 +142,10 @@ sections:
     title: Junior Software Engineer
     linkedin: https://www.linkedin.com/in/marija-mandic/
     image: "/uploads/marija-headshot.jpeg"
+  - name: Leo Yeung
+    title: Front End Engineer
+    linkedin: https://www.linkedin.com/in/leo-yeung-298434150/
+    image: "/uploads/profile_pic.jpg"
   button:
     copy: Contact Us
     url: "/contact"
