@@ -122,10 +122,6 @@ sections:
     title: Software Engineer
     linkedin: https://www.linkedin.com/in/jiazhen-xie-25663763/?ppe=1
     image: "/uploads/jiazhen-xie.jpg"
-  - name: Daria Biryukova
-    title: Business Insight Analyst
-    linkedin: https://www.linkedin.com/in/daria-biryukova-3502aa51
-    image: "/uploads/daria-biryukova.jpg"
   - name: Jessica Rosati
     title: Data Scientist
     linkedin: https://www.linkedin.com/in/jessica-rosati-4b685481/
