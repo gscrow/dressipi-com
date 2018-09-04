@@ -12,6 +12,7 @@ form:
   checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services
   button_class: case-study
+  img: <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=300788&conversionId=551785&fmt=gif">
 testimonial:
   body: "“Having personalisation technology within your business is a must in today’s
     retail environment. Dressipi have helped us achieve that.”\n"
