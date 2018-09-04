@@ -10,7 +10,7 @@ form:
   button: Download Whitepaper
   file: "/uploads/Whitepaper-How-Dressipi-Can-Help-Retailers-Transform-Their-Biggest-Asset-913ff1.pdf"
   button_class: whitepaper
-  linkedin_tracking:
+  linkedin_tracking: 
 testimonial:
   action: Download Whitepaper
 layout: download

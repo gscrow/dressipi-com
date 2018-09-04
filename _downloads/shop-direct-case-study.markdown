@@ -12,7 +12,7 @@ form:
   checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services
   button_class: case-study
-  linkedin_tracking:
+  linkedin_tracking: 
 testimonial:
   body: "“Customers with a Dressipi profile clicking through from the Style Hub to
     a product page are 76% more likely to place an order than when the same customer
