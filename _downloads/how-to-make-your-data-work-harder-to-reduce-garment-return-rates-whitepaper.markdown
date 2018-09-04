@@ -12,6 +12,7 @@ form:
   button: Download Whitepaper
   file: "/uploads/Whitepaper-How-To-Make-Your-Data-Work-Harder-To-Reduce-Garment-Return-Rates.pdf"
   button_class: whitepaper
+  linkedin_tracking:
 testimonial:
   action: Download Whitepaper
 layout: download

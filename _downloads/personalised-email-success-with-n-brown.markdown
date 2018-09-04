@@ -11,6 +11,7 @@ form:
   file: "/uploads/Dressipi-Case-Study-Personalised-Email-Success-With-NBrown.pdf"
   checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services
+  linkedin_tracking:
 testimonial:
   body: "“One of the most successful parts of our partnership with Dressipi is the
     personalised weekly Style Adviser emails. They consistently outperform our own

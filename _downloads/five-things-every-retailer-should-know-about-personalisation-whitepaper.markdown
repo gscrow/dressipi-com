@@ -10,6 +10,7 @@ form:
   button: Download Whitepaper
   file: "/uploads/Dressipi-whitepaper-Five-Things-Every-Retailer-Should-Know-About-Personalisation.pdf"
   button_class: whitepaper
+  linkedin_tracking:
 testimonial:
   action: Download Whitepaper
 ---
