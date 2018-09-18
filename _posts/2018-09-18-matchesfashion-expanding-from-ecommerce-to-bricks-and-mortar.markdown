@@ -15,8 +15,7 @@ author: Georgina Fisher
 description: With physical retail spaces increasingly being occupied by brands that
   started online, Georgina Fisher visited 5 Carlos Place, Matchesfashion’s new concept
   store.
-Field name: 
-Key: 
+download: Five Things Every Retailer Should Know About Personalisation
 ---
 
 With physical retail spaces increasingly being occupied by brands that started online, Georgina Fisher visited 5 Carlos Place, Matchesfashion’s new concept store.
