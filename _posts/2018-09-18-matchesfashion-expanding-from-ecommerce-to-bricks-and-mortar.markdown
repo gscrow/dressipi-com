@@ -1,6 +1,22 @@
 ---
 title: Matchesfashion - Expanding from Ecommerce to Bricks and Mortar
 date: 2018-09-18 10:40:00 Z
+categories:
+- retail
+tags:
+- Matchesfashion
+- 5 Carlos Place
+- Ecommerce
+- bricks & mortar
+- concept space
+- physical store
+- In-store technology
+author: Georgina Fisher
+description: With physical retail spaces increasingly being occupied by brands that
+  started online, Georgina Fisher visited 5 Carlos Place, Matchesfashion’s new concept
+  store.
+Field name: 
+Key: 
 ---
 
 With physical retail spaces increasingly being occupied by brands that started online, Georgina Fisher visited 5 Carlos Place, Matchesfashion’s new concept store.
@@ -21,4 +37,9 @@ Not only do stores allow customers to try on products and allow for face to face
 # Matchesfashion
 
 5 Carlos Place is a retail, events and broadcasting space, connecting the physical and digital by bringing Matchesfashion’s online shopping and content into one space. Reported in [Vogue](https://www.vogue.co.uk/article/the-future-of-retail-stores), Jess Christie, Chief Brand Officer, Matchesfashion announced *"We want to bring a sense of enjoyment back to physical retail and create a sense of community"*.
+
+For the launch of 5 Carlos Place, Matchesfashion collaborated with Prada to create an installation with Prada marked vending machines, pinball machines and 100 products only available in the Matchesfashion store. This fun-filled shopping space spans over the first 2 floors of the beautiful red-bricked Marylebone building, with collaborations by new designers changing every few weeks, bringing a freshness and exclusivity to an exciting and ever evolving space.
+
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/JD%20Sports.PNG"/></p>
+
 
