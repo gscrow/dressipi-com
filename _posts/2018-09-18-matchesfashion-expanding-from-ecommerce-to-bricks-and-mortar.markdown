@@ -19,7 +19,7 @@ Field name:
 Key: 
 ---
 
-With physical retail spaces increasingly being occupied by brands that started online, Georgina Fisher visited 5 Carlos Place, Matchesfashion’s new concept store.
+With physical retail spaces increasingly being occupied by brands that started online, I visited 5 Carlos Place, Matchesfashion’s new concept store.
 
 # Matchesfashion - Expanding from Ecommerce to Bricks and Mortar
 
@@ -34,7 +34,7 @@ Despite this growth, [stores still play a huge role in the customer shopping jou
 
 Not only do stores allow customers to try on products and allow for face to face style advice, they are also being increasingly introduced to enable immersive brand experiences and encourage the social aspect of shopping. Luxury fashion retailer Matchesfashion has taken this to the next level with 5 Carlos Place, creating a concept space which allows more than just shopping.
 
-# Matchesfashion
+# 5 Carlos Place
 
 5 Carlos Place is a retail, events and broadcasting space, connecting the physical and digital by bringing Matchesfashion’s online shopping and content into one space. Reported in [Vogue](https://www.vogue.co.uk/article/the-future-of-retail-stores), Jess Christie, Chief Brand Officer, Matchesfashion announced *"We want to bring a sense of enjoyment back to physical retail and create a sense of community"*.
 
