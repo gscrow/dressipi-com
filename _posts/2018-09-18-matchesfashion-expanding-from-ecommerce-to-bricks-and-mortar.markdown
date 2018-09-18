@@ -46,7 +46,7 @@ QR codes are everywhere to encourage scanning and interaction, prompting custome
 
 Despite a strong focus on technology, the space doesn’t include gimmicks such as magic mirrors or VR headsets, but rather tech that genuinely helps the customer and enriches their experience. As [Drapers](https://www.drapersonline.com/news/first-look-matchesfashion-opens-new-retail-space-5-carlos-place/7031983.article?search=https%3a%2f%2fwww.drapersonline.com%2fsearcharticles%3fqsearch%3d1%26keywords%3dmatches)reports *“The store includes subtle mobile technology throughout that is connected to the Matchesfashion app, which allows shoppers full access to the retailer’s product range. The technology will also give staff access to visitor’s sizing information, past orders and browsing history, using a bespoke algorithm that helps staff to suggest relevant and personalised recommendations.”* Furthermore, the algorithm allows for staff to send the customer follow up personalised emails (once they have left the store) with other relevant product suggestions. 
 
-|To read how we at Dressipi delivered a bespoke personalised email solution to one of our retail clients, outperforming the retailers own emails, check out our [case study](https://dressipi.com/downloads/personalised-email-success-with-n-brown/).|
+> To read how we at Dressipi delivered a bespoke personalised email solution to one of our retail clients, outperforming the retailers own emails, check out our [case study](https://dressipi.com/downloads/personalised-email-success-with-n-brown/).
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/JD%20Sports.PNG"/></p>
 
