@@ -11,6 +11,7 @@ tags:
 - concept space
 - physical store
 - In-store technology
+image: "/uploads/Matches%20Fashion%20front%20(2).jpg"
 author: Georgina Fisher
 description: With physical retail spaces increasingly being occupied by brands that
   started online, Georgina Fisher visited 5 Carlos Place, Matchesfashion’s new concept
