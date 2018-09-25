@@ -9,6 +9,8 @@ form:
   checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services
   button_class: whitepaper
+testimonial:
+  action: Download Whitepaper
 ---
 
 # A Beginner's Guide to Fashion Personalisation
