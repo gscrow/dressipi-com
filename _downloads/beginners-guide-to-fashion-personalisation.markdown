@@ -15,7 +15,7 @@ form:
 
 ## Providing customers with a personalised shopping experience is no longer a 'nice to have', it's a must-have - but where to start?
 
-This short paper outlines:
+## This short paper outlines:
 
 * How fashion personalisation works
 * The key benefits it brings to both the retailer and the customer
