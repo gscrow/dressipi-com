@@ -5,12 +5,17 @@ resource: Whitepapers
 form:
   title: Download Free Whitepaper
   button: Download Whitepaper
-  file: "/uploads/Whitepaper-Beginner's-Guide-To-Fashion-Personalisation.pdf"
+  file: "/uploads/Whitepaper-Beginners-Guide-To-Fashion-Personalisation.pdf"
   checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services
   button_class: whitepaper
 ---
 
-#
+# A Beginner's Guide to Fashion Personalisation
 
 ##
+
+This short paper outlines how fashion
+personalisation can help address some of the challenges
+arising from the paradox of choice we all face, leading to more
+satisfactory outcomes for both parties.
