@@ -2,6 +2,7 @@
 title: Beginner's Guide to Fashion Personalisation
 date: 2018-09-25 13:40:00 Z
 resource: Whitepapers
+image:
 form:
   title: Download Your Guide  to Fashion Personalisation
   button: Download Free Whitepaper
@@ -19,6 +20,6 @@ testimonial:
 
 ## This short paper outlines:
 
-* How fashion personalisation works
-* The key benefits it brings to both the retailer and the customer
-* How to get started
+- How fashion personalisation works
+- The key benefits it brings to both the retailer and the customer
+- How to get started
