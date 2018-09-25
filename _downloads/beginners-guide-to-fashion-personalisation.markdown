@@ -13,9 +13,9 @@ form:
 
 # A Beginner's Guide to Fashion Personalisation
 
-## Providing customers with a personalised shopping experience is no longer a 'nice to have', it's a must-have. 
+## Providing customers with a personalised shopping experience is no longer a 'nice to have', it's a must-have, but how do you know where to start?
 
-Where do you start? This short paper outlines:
+This short paper outlines:
 
 * How fashion personalisation works
 * The key benefits it brings to both the retailer and the customer
