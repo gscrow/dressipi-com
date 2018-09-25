@@ -13,7 +13,7 @@ form:
 
 # A Beginner's Guide to Fashion Personalisation
 
-## Providing customers with a personalised shopping experience is no longer a 'nice to have', it's a must-have, but how do you know where to start?
+## Providing customers with a personalised shopping experience is no longer a 'nice to have', it's a must-have - but where to start?
 
 This short paper outlines:
 
