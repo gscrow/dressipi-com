@@ -13,9 +13,12 @@ form:
 
 # A Beginner's Guide to Fashion Personalisation
 
-##
+## Personalising the customer experience is no longer a nice to have for retailers, its a must have
 
 This short paper outlines how fashion
-personalisation can help address some of the challenges
+personalisation can help address the challenges
 arising from the paradox of choice we all face, leading to more
-satisfactory outcomes for both parties.
+satisfactory outcomes for both the retailer and the customer.
+
+* yes
+* no
