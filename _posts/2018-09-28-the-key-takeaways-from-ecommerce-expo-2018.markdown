@@ -59,7 +59,7 @@ Nicola Millard, Head of Customer Insights & Futures, BT emphasised how smartphon
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/IMG_5569.JPG"/></p>
 
-In addition, data can and should be used in stores to speak to customers on a truly [one-to-one level](https://dressipi.com/one-to-one-personalisation/). As Simon Calvert pointed out, “technology enables us to be better shopkeepers” - it's all about creating a more interactive experience in store, whether through giving style advice or helping the customer validate a purchase. Seth Ellison, Executive VP and President, Europe, Levi’s explained that the brand was proud of the collaborative experience it has created between the customer, their partners and employees, which in 2017 delivered the best results they for two decades.
+In addition, data can and should be used in stores to speak to customers on a truly [one-to-one level](https://dressipi.com/one-to-one-personalisation/). As Simon Calvert pointed out, “technology enables us to be better shopkeepers” - it's all about creating a more interactive experience in store, whether through giving style advice or helping the customer validate a purchase. Seth Ellison, Executive VP and President, Europe, Levi’s explained that the brand was proud of the collaborative experience it has created between the customer, their partners and employees, which in 2017 delivered the best results they had for two decades.
 
 ## In Summary…
 
