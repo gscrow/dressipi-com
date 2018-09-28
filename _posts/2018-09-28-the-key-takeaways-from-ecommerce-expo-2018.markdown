@@ -23,13 +23,13 @@ Here are some of the most interesting takeaways from a packed two days at the Ol
 
 Some interesting insight on consumer behaviour and decision-making processes were shared by several industry experts. David Khon, Customer & eCommerce Director at Heal's touched on Fast and Slow Thinking - Fast being automatic, frequent, emotional, stereotypic, unconscious thoughts, and Slow being effortful, infrequent, logical, calculating, conscious thoughts.
 
-David argued that consumers tend to rely on fast thinking when making decisions because it's sometimes too much effort for our brains to engage in slow thinking. Heal’s have been doing some work with [Hero on bridging the gap between online and in-store](https://dressipi.com/blog/monthly-retail-round-up-june-2018/), using a chat interface that provides a “digital touch” - consumers can speak to Heal’s store staff instantly and ask for advice in real time, helping them with “the tyranny of choice that makes it difficult for consumers to navigate” so they can come to a decision quicker.
+David argued that consumers tend to rely on fast thinking when making decisions because it's sometimes too much effort for our brains to engage in slow thinking. Heal’s have been doing some work with Hero on bridging the gap between online and in-store (we covered Hero's work with Harvey Nichols in our [June Monthly Retail Round-Up](https://dressipi.com/blog/monthly-retail-round-up-june-2018/)), using a chat interface that provides a “digital touch” - consumers can speak to Heal’s store staff instantly and ask for advice in real time, helping them with “the tyranny of choice that makes it difficult for consumers to navigate” so they can come to a decision quicker.
 
 > Download our whitepaper [‘How Dressipi Can Help Retailers Transform Their Biggest Asset’](https://dressipi.com/downloads/how-dressipi-can-help-retailers-transform-their-biggest-asset-whitepaper/) to discover how retailers should be maximising their stores.
 
 Customer expectations are higher than ever at every part of the journey, with the speed at which they get through that journey being paramount. Jonathan Bowers, MD, UKFast did a talk titled ‘The Psychology of Speed in Ecommerce’ where he informed us that consumers “will wait for live chat for 45 seconds” and have a “want it now” attitude. Jonathan explained that our brains remember the first moment and last moment of any shopping experience – landing page and shopping cart, so retailers better be sure the experience of getting there was as quick and painless as possible if they want to stay in the good books. Essentially, speed = happy customers.
 
-## Give Customers the Right Message at the Right Time through the Right channel
+## Give Customers the Right Message at the Right Time Through the Right Channel
 
 Easy, right? In principle yes, in practice, not so much. The consumer is a fickle, complicated beast that can change their mind or behaviour in an instant. Understanding their intention when interacting with your brand online or in-store is tricky enough, then putting the perfect product in front of them that meets their expectations at that exact time is the next challenge. 
 
@@ -37,7 +37,7 @@ Easy, right? In principle yes, in practice, not so much. The consumer is a fickl
 
 Skip Fidura, Strategy & Insight Director, DotMailer expressed the importance of the timely nature of messaging, “The consumer wants us to be **where** they want to be, **when** they want to be there, delivering **what** they want to hear in a format that is **convenient to them** at that moment.” Skip’s stat of 5x more people reading the subject line than actually opening the email highlights the importance of making sure communication is delivered when the consumer is wanting/expecting it and really nailing subject lines.
 
-> Check out our [case study with NBrown](https://dressipi.com/downloads/personalised-email-success-with-n-brown/) where we delivered a bespoke personalised email solution to the JD Williams brand
+> Check out our [case study with NBrown](https://dressipi.com/downloads/personalised-email-success-with-n-brown/) where we delivered a bespoke personalised email solution to the JD Williams brand.
 
 Oliver Jones, Commercial Director, UK – Insider spoke about real-time influencing and why customer context is key. Understanding data instantly to influence consumer decision making at that very moment to drive that next transaction (whenever it may be) is extremely powerful.
 
@@ -55,7 +55,7 @@ Simon Calvert, Trading Director, Bonmarché highlighted that data and technology
 
 Mobiles are increasingly becoming somewhat of a third arm - without it, you feel lost, and only when it is taken away from you do you realise your reliance on it to help you navigate the world and influence the decisions you make. This doesn’t stop at figuring out how to get from A to B - we use mobiles to browse, buy and research products 24/7 whether we’re commuting or waiting impatiently for that friend who’s always late.
 
-Nicola Millard, Head of Customer Insights & Futures, BT emphasised how smartphones are becoming more important in delivering exceptional digital experiences and how we need to think more broadly in terms of “swipes and voice interfaces”. She revealed that 79% of people are more loyal to organisations that are easy to contact, with 56% saying convenience was more important to them than the price of the product. Chatbots are a popular and effective way of communicating with customers, but as Nicola correctly pointed out, “chatbots are only as good as the data you give them.” 
+Nicola Millard, Head of Customer Insights & Futures, BT emphasised how smartphones are becoming more important in delivering exceptional digital experiences and how we need to think more broadly in terms of “swipes and voice interfaces”. She revealed that 79% of people are more loyal to organisations that are easy to contact, and 56% of people said convenience was more important to them than the price of the product. Chatbots are a popular and effective way of communicating with customers, but as Nicola correctly pointed out, “chatbots are only as good as the data you give them.” 
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/IMG_5569.JPG"/></p>
 
