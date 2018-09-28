@@ -3,6 +3,8 @@ title: Key Takeaways From Ecommerce Expo 2018
 date: 2018-09-28 10:36:00 Z
 ---
 
+# Key Takeaways From Ecommerce Expo 2018
+
 This year’s [Ecommerce Expo](https://www.ecommerceexpo.co.uk/) lived up to expectations - many stalls (with many sweets), an overwhelming amount of brilliant companies doing fascinating things, and lest we forget, jostling for a seat at industry talks.
 
 From talks on [omnichannel](https://dressipi.com/omnichannel-personalisation/) to [personalisation](https://dressipi.com/how-to-deliver-true-personalisation/) to customer engagement, two days of information overload can leave us feeling slightly saturated and trying to figure out where on earth to begin. Yes - it's all about the [customer experience](https://dressipi.com/how-to-create-a-personalised-shopping-experience/). Yes - retailers need to use data smartly and effectively. Yes - online and offline need to work together. But how do you join the dots?
@@ -47,9 +49,9 @@ Mobiles are increasingly becoming somewhat of a third arm - without it, you feel
 
 Nicola Millard, Head of Customer Insights & Futures, BT emphasised how smartphones are becoming more important in delivering exceptional digital experiences and how we need to think more broadly in terms of “swipes and voice interfaces”. She revealed that 79% of people are more loyal to organisations that are easy to contact, with 56% saying convenience was more important to them than the price of the product. Chatbots are a popular and effective way of communicating with customers, but as Nicola correctly pointed out, “chatbots are only as good as the data you give them.” 
 
-In addition, data can and should be used in stores to speak to customers on a truly [one-to-one level](https://dressipi.com/one-to-one-personalisation/). As Simon Calvert pointed out, “technology enables us to be better shopkeepers” - it's all about creating a more interactive experience in store, whether through giving style advice or helping the customer validate a purchase. Seth Ellison, Executive VP and President, Europe, Levi’s explained that the brand was proud of the collaborative experience it has created between the customer, their partners and employees, which in 2017 delivered the best results they for two decades.
-
 [IMAGE SETH]
+
+In addition, data can and should be used in stores to speak to customers on a truly [one-to-one level](https://dressipi.com/one-to-one-personalisation/). As Simon Calvert pointed out, “technology enables us to be better shopkeepers” - it's all about creating a more interactive experience in store, whether through giving style advice or helping the customer validate a purchase. Seth Ellison, Executive VP and President, Europe, Levi’s explained that the brand was proud of the collaborative experience it has created between the customer, their partners and employees, which in 2017 delivered the best results they for two decades.
 
 ## In Summary…
 
