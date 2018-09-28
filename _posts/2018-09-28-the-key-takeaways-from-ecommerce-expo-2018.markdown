@@ -49,7 +49,7 @@ NBrown is an example of a retailer who transformed their business - because of t
 
 Simon Calvert, Trading Director, Bonmarché highlighted that data and technology are crucial to producing customer insight that drive effective decision making. As far as he’s concerned, there’s only one KPI and that’s customer satisfaction which is achieved by exceeding their expectations in every way.
 
-![IMG_5561.JPG](/uploads/IMG_5561.JPG)
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/IMG_5561.JPG"/></p>
 
 ## In Case You Hadn’t Heard, It's All About Mobile First and In-store Experiences
 
@@ -57,7 +57,7 @@ Mobiles are increasingly becoming somewhat of a third arm - without it, you feel
 
 Nicola Millard, Head of Customer Insights & Futures, BT emphasised how smartphones are becoming more important in delivering exceptional digital experiences and how we need to think more broadly in terms of “swipes and voice interfaces”. She revealed that 79% of people are more loyal to organisations that are easy to contact, with 56% saying convenience was more important to them than the price of the product. Chatbots are a popular and effective way of communicating with customers, but as Nicola correctly pointed out, “chatbots are only as good as the data you give them.” 
 
-![IMG_5569.JPG](/uploads/IMG_5569.JPG)
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/IMG_5569.JPG"/></p>
 
 In addition, data can and should be used in stores to speak to customers on a truly [one-to-one level](https://dressipi.com/one-to-one-personalisation/). As Simon Calvert pointed out, “technology enables us to be better shopkeepers” - it's all about creating a more interactive experience in store, whether through giving style advice or helping the customer validate a purchase. Seth Ellison, Executive VP and President, Europe, Levi’s explained that the brand was proud of the collaborative experience it has created between the customer, their partners and employees, which in 2017 delivered the best results they for two decades.
 
