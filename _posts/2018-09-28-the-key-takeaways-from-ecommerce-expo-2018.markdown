@@ -3,6 +3,8 @@ title: Key Takeaways From Ecommerce Expo 2018
 date: 2018-09-28 10:36:00 Z
 ---
 
+For those who weren't able to make the yearly Ecommerce Expo, or simply didn't have enough time to squeeze in the best talks, here are our main takeways from the event.
+
 # Key Takeaways From Ecommerce Expo 2018
 
 This year’s [Ecommerce Expo](https://www.ecommerceexpo.co.uk/) lived up to expectations - many stalls (with many sweets), an overwhelming amount of brilliant companies doing fascinating things, and lest we forget, jostling for a seat at industry talks.
