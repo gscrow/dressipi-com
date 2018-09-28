@@ -3,6 +3,8 @@ title: Key Takeaways From Ecommerce Expo 2018
 date: 2018-09-28 10:36:00 Z
 ---
 
+![20180927_125227.jpg](/uploads/20180927_125227.jpg)
+
 For those who weren't able to make the yearly Ecommerce Expo, or simply didn't have enough time to squeeze in the best talks, here are our main takeways from the event.
 
 # Key Takeaways From Ecommerce Expo 2018
@@ -19,7 +21,7 @@ Some interesting insight on consumer behaviour and decision-making processes wer
 
 David argued that consumers tend to rely on fast thinking when making decisions because it's sometimes too much effort for our brains to engage in slow thinking. Heal’s have been doing some work with [Hero on bridging the gap between online and in-store](https://dressipi.com/blog/monthly-retail-round-up-june-2018/), using a chat interface that provides a “digital touch” - consumers can speak to Heal’s store staff instantly and ask for advice in real time, helping them with “the tyranny of choice that makes it difficult for consumers to navigate” so they can come to a decision quicker.
 
-> Download our whitepaper [‘How Dressipi Can Help Retailers Transform Their Biggest Asset’](https://dressipi.com/downloads/how-dressipi-can-help-retailers-transform-their-biggest-asset-whitepaper/) to discover how stores can be transformed into a retailer’s biggest asset not their biggest liability.
+> Download our whitepaper [‘How Dressipi Can Help Retailers Transform Their Biggest Asset’](https://dressipi.com/downloads/how-dressipi-can-help-retailers-transform-their-biggest-asset-whitepaper/) to discover how retailers should be maximising their stores.
 
 Customer expectations are higher than ever at every part of the journey, with the speed at which they get through that journey being paramount. Jonathan Bowers, MD, UKFast did a talk titled ‘The Psychology of Speed in Ecommerce’ where he informed us that consumers “will wait for live chat for 45 seconds” and have a “want it now” attitude. Jonathan explained that our brains remember the first moment and last moment of any shopping experience – landing page and shopping cart, so retailers better be sure the experience of getting there was as quick and painless as possible if they want to stay in the good books. Essentially, speed = happy customers.
 
@@ -27,11 +29,11 @@ Customer expectations are higher than ever at every part of the journey, with th
 
 Easy, right? In principle yes, in practice, not so much. The consumer is a fickle, complicated beast that can change their mind or behaviour in an instant. Understanding their intention when interacting with your brand online or in-store is tricky enough, then putting the perfect product in front of them that meets their expectations at that exact time is the next challenge. 
 
-[IMAGE SKIP]
+[IMG_5565.JPG](/uploads/IMG_5565.JPG)
 
 Skip Fidura, Strategy & Insight Director, DotMailer expressed the importance of the timely nature of messaging, “The consumer wants us to be **where** they want to be, **when** they want to be there, delivering **what** they want to hear in a format that is **convenient to them** at that moment.” Skip’s stat of 5x more people reading the subject line than actually opening the email highlights the importance of making sure communication is delivered when the consumer is wanting/expecting it and really nailing subject lines.
 
-N BROWN CASE STUDY
+> Check out our [case study with NBrown](https://dressipi.com/downloads/personalised-email-success-with-n-brown/) where we delivered a bespoke personalised email solution to the JD Williams brand
 
 Oliver Jones, Commercial Director, UK – Insider spoke about real-time influencing and why customer context is key. Understanding data instantly to influence consumer decision making at that very moment to drive that next transaction (whenever it may be) is extremely powerful.
 
@@ -39,11 +41,11 @@ Oliver Jones, Commercial Director, UK – Insider spoke about real-time influenc
 
 NBrown is an example of a retailer who transformed their business - because of their customer’s demands, they moved seamlessly from a catalogue business to an online business. Ann Steer, NBrown’s Chief Customer Officer, stressed that retailers must make data a priority. 90% of new NBrown customers come through digital channels, and they’ve invested heavily in data to unlock opportunities to “decode the past and reinvent the future”.
 
-RETURNS WHITEPAPER
+> Our Co-Founder Sarah McVittie wrote a whitepaper on how retailers can leverage the data they hold to reduce return rates. [Download it for free](https://dressipi.com/downloads/how-to-make-your-data-work-harder-to-reduce-garment-return-rates-whitepaper/).
 
 Simon Calvert, Trading Director, Bonmarché highlighted that data and technology are crucial to producing customer insight that drive effective decision making. As far as he’s concerned, there’s only one KPI and that’s customer satisfaction which is achieved by exceeding their expectations in every way.
 
-[IMAGE SIMON]
+[IMG_5561.JPG](/uploads/IMG_5561.JPG)
 
 ## In Case You Hadn’t Heard, It's All About Mobile First and In-store Experiences
 
@@ -51,7 +53,7 @@ Mobiles are increasingly becoming somewhat of a third arm - without it, you feel
 
 Nicola Millard, Head of Customer Insights & Futures, BT emphasised how smartphones are becoming more important in delivering exceptional digital experiences and how we need to think more broadly in terms of “swipes and voice interfaces”. She revealed that 79% of people are more loyal to organisations that are easy to contact, with 56% saying convenience was more important to them than the price of the product. Chatbots are a popular and effective way of communicating with customers, but as Nicola correctly pointed out, “chatbots are only as good as the data you give them.” 
 
-[IMAGE SETH]
+[IMG_5569.JPG](/uploads/IMG_5569.JPG)
 
 In addition, data can and should be used in stores to speak to customers on a truly [one-to-one level](https://dressipi.com/one-to-one-personalisation/). As Simon Calvert pointed out, “technology enables us to be better shopkeepers” - it's all about creating a more interactive experience in store, whether through giving style advice or helping the customer validate a purchase. Seth Ellison, Executive VP and President, Europe, Levi’s explained that the brand was proud of the collaborative experience it has created between the customer, their partners and employees, which in 2017 delivered the best results they for two decades.
 
