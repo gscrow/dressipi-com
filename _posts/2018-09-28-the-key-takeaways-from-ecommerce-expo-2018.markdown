@@ -6,6 +6,7 @@ author: Philippa Mew
 description: For those who weren't able to make the yearly Ecommerce Expo, or simply
   didn't have enough time to squeeze in the best talks, here are our main takeways
   from the event.
+download: Five Things Every Retailer Should Know About Personalisation
 ---
 
 For those who weren't able to make the yearly Ecommerce Expo, or simply didn't have enough time to squeeze in the best talks, here are our main takeways from the event.
@@ -32,7 +33,7 @@ Customer expectations are higher than ever at every part of the journey, with th
 
 Easy, right? In principle yes, in practice, not so much. The consumer is a fickle, complicated beast that can change their mind or behaviour in an instant. Understanding their intention when interacting with your brand online or in-store is tricky enough, then putting the perfect product in front of them that meets their expectations at that exact time is the next challenge. 
 
-![IMG_5565.JPG](/uploads/IMG_5565.JPG)
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/IMG_5565.JPG"/></p>
 
 Skip Fidura, Strategy & Insight Director, DotMailer expressed the importance of the timely nature of messaging, “The consumer wants us to be **where** they want to be, **when** they want to be there, delivering **what** they want to hear in a format that is **convenient to them** at that moment.” Skip’s stat of 5x more people reading the subject line than actually opening the email highlights the importance of making sure communication is delivered when the consumer is wanting/expecting it and really nailing subject lines.
 
