@@ -41,7 +41,7 @@ Simon Calvert, Trading Director, Bonmarché highlighted that data and technology
 
 [IMAGE SIMON]
 
-In case you hadn’t heard, it's all about mobile first and in-store experiences
+## In Case You Hadn’t Heard, It's All About Mobile First and In-store Experiences
 
 Mobiles are increasingly becoming somewhat of a third arm - without it, you feel lost, and only when it is taken away from you do you realise your reliance on it to help you navigate the world and influence the decisions you make. This doesn’t stop at figuring out how to get from A to B - we use mobiles to browse, buy and research products 24/7 whether we’re commuting or waiting impatiently for that friend who’s always late.
 
