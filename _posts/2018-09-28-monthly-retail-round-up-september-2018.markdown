@@ -1,6 +1,20 @@
 ---
 title: Monthly Retail Round-Up - September 2018
 date: 2018-09-28 14:15:00 Z
+categories:
+- news
+tags:
+- retail
+- retail news
+- Harvey Nichols
+- John Lewis
+- Debenhams
+- Retailers rebranding
+- Smartzer
+- retail technology
+- Instagram Shopping
+- Snapchat Shopping
+- Amazon
 image: "/uploads/September%20Round%20Up.jpg"
 author: Georgina Fisher
 description: With lots of news to keep track of, Dressipi brings you this month's
