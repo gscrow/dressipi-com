@@ -17,7 +17,7 @@ Some interesting insight on consumer behaviour and decision-making processes wer
 
 David argued that consumers tend to rely on fast thinking when making decisions because it's sometimes too much effort for our brains to engage in slow thinking. Heal’s have been doing some work with [Hero on bridging the gap between online and in-store](https://dressipi.com/blog/monthly-retail-round-up-june-2018/), using a chat interface that provides a “digital touch” - consumers can speak to Heal’s store staff instantly and ask for advice in real time, helping them with “the tyranny of choice that makes it difficult for consumers to navigate” so they can come to a decision quicker.
 
-WHITEPAPER ON IN STORE BIGGEST ASSET
+> Download our whitepaper [‘How Dressipi Can Help Retailers Transform Their Biggest Asset’](https://dressipi.com/downloads/how-dressipi-can-help-retailers-transform-their-biggest-asset-whitepaper/) to discover how stores can be transformed into a retailer’s biggest asset not their biggest liability.
 
 Customer expectations are higher than ever at every part of the journey, with the speed at which they get through that journey being paramount. Jonathan Bowers, MD, UKFast did a talk titled ‘The Psychology of Speed in Ecommerce’ where he informed us that consumers “will wait for live chat for 45 seconds” and have a “want it now” attitude. Jonathan explained that our brains remember the first moment and last moment of any shopping experience – landing page and shopping cart, so retailers better be sure the experience of getting there was as quick and painless as possible if they want to stay in the good books. Essentially, speed = happy customers.
 
