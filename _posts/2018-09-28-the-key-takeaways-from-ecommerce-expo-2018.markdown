@@ -1,5 +1,5 @@
 ---
-title: The Key Takeaways From Ecommerce Expo 2018
+title: Key Takeaways From Ecommerce Expo 2018
 date: 2018-09-28 10:36:00 Z
 ---
 
