@@ -2,7 +2,7 @@
 title: Beginner's Guide to Fashion Personalisation
 date: 2018-09-25 13:40:00 Z
 resource: Whitepapers
-image: "/uploads/Five_Things_Whitepaper_small.jpg"
+image: "/uploads/image%20(13).png"
 form:
   title: Download Your Guide  to Fashion Personalisation
   button: Download Free Whitepaper
