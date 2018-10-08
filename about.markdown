@@ -146,6 +146,10 @@ sections:
     title: Machine Learning Engineer
     linkedin: https://www.linkedin.com/in/maria-cristina-dominguez-3a09ab106
     image: "/uploads/Maria_Dominguez.jpg"
+  - name: Joe Margrie-Rouse
+    title: Data Engineer
+    linkedin: https://www.linkedin.com/in/joe-margrie-rouse/
+    image: 
   button:
     copy: Contact Us
     url: "/contact"
