@@ -149,7 +149,7 @@ sections:
   - name: Joe Margrie-Rouse
     title: Data Engineer
     linkedin: https://www.linkedin.com/in/joe-margrie-rouse/
-    image: 
+    image: "/uploads/Joe%20MR.JPG"
   button:
     copy: Contact Us
     url: "/contact"
