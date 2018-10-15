@@ -13,6 +13,10 @@ is-landing-page: true
 downloads: |-
   How To Make Your Data Work
   Harder To Reduce Garment Return Rates
+description: Dressipi is the global leader in fashion-specific personalisation. We
+  give each customer their own tailored shopping experience online and in store, enabling
+  retailers to match customers with products and experiences to influence buying at
+  scale.
 ---
 
 ## Download our free whitepaper 'How To Make Your Data Work Harder To Reduce Garment Return Rates' to learn:
