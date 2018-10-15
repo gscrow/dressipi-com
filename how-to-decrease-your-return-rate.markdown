@@ -7,6 +7,8 @@ header:
     by 5% percentage points.
 ---
 
-Learn How To Make Your Data Work Harder To Reduce Garment Return Rates
-Gain an understanding of how to leverage the data you hold to reduce return rates.
-In this paper Sarah McVittie, Co-Founder of Dressipi, discusses the importance of understanding the key drivers behind returns, and how you can use the data you hold to tackle the issue.
+## Download our free whitepaper 'How To Make Your Data Work Harder To Reduce Garment Return Rates' to learn:
+
+* How to leverage the data you hold to reduce return rates
+* The importance of understanding the key drivers behind returns 
+* How personalisation can help tackle the issue
