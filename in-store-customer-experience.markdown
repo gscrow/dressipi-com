@@ -3,8 +3,19 @@ title: In-Store Customer Experience
 date: 2018-10-15 15:17:00 Z
 header:
   title: In-Store Customer Experience
+  body: "## Dressipi is the global leader in Fashion Personalisation. We improve customer
+    experience instore and online by enabling retailers to match customers with products
+    and experiences to influence buying behaviour at scale."
+  button:
+    copy: Download Whitepaper
+    url: "#download"
+  hero-image: "/uploads/banner_biggest_asset_whitepaper.jpg"
+is-landing-page: true
+downloads: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
-## What if stores can be transformed into a retailer’s biggest asset not their biggest liability?
+## Download our free whitepaper ‘How Dressipi Can Help Retailers Transform Their Biggest Asset’ to learn:
 
-In this short paper Donna North, co-founder of Dressipi, argues that contrary to popular opinion, it’s the bricks and mortar retailers who have the advantage over pure play ecommerce merchants.
+* Why bricks and mortar retailers have the advantage over pure play ecommerce merchants
+
+* How Dressipi is transforming the in-store shopping experience in an increasingly digital age
