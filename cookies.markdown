@@ -1,7 +1,7 @@
 ---
 title: Cookies Policy
 date: 2017-05-06 10:17:00 Z
-position: 17
+position: 16
 navigation: meta
 header:
   width: extend

@@ -1,6 +1,6 @@
 ---
 title: Partners
-position: 3
+position: 2
 navigation: header
 header:
   title: Partnering with Leading Global Brands
