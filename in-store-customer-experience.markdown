@@ -3,9 +3,10 @@ title: In-Store Customer Experience
 date: 2018-10-15 15:17:00 Z
 header:
   title: In-Store Customer Experience
-  body: "## Dressipi is the global leader in Fashion Personalisation. We improve customer
-    experience in-store and online by enabling retailers to match customers with products
-    and experiences to influence buying behaviour at scale."
+  body: |-
+    ## There is a huge opportunity for retailers to maximise their stores’ profitability by improving customer service and experiences whilst in-store.
+
+    Dressipi improves customer experience in-store (and online) by enabling retailers to match customers with products and experiences to influence buying behaviour at scale.
   button:
     copy: Download Whitepaper
     url: "#download"
