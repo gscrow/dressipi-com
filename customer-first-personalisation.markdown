@@ -20,8 +20,8 @@ description: Dressipi is the global leader in Customer First Personalisation. We
   at scale.
 ---
 
-## Download our free whitepaper ‘Five Things Every Retailer Should Know About Personalisation’ to learn:
+## Download our free case study 'How Wallis Benefited from Dressipi’s Personalisation Solutions' to learn:
 
-* How to get started and navigate the numerous personalisation solutions on offer
-* How to build genuinely trusted connections with customers
-* How to leverage personalisation to deliver value for your business
+* How Dressipi has delivered incremental revenue gains for Wallis
+* How personalisation benefits the customer and Wallis
+* The ease of implementation and positive ROI from the partnership
