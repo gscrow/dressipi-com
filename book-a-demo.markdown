@@ -1,7 +1,7 @@
 ---
 title: Book a Demo
 date: 2017-05-06 09:50:00 Z
-position: 11
+position: 13
 header:
   height: tight
 description: Book a demo today to see how Dressipi can provide fashion personalisation

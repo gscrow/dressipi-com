@@ -1,7 +1,7 @@
 ---
 title: One to One Personalisation
 date: 2017-11-08 15:33:00 Z
-position: 27
+position: 31
 header:
   title: One to One Personalisation
   body: "## Dressipi is the global leader in One to One Personalisation. We give each

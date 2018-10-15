@@ -1,5 +1,6 @@
 ---
 title: Home
+position: 0
 header:
   title: Personalising the Entire Customer Experience
   body: "## The leader in fashion personalisation, Dressipi empowers retailers to

@@ -1,7 +1,7 @@
 ---
 title: Customer First Personalisation
 date: 2017-11-08 15:27:00 Z
-position: 26
+position: 30
 header:
   title: Customer First Personalisation
   body: "## Dressipi is the global leader in Customer First Personalisation. We give

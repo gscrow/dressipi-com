@@ -1,6 +1,7 @@
 ---
 title: Enhancing the Customer Journey
 date: 2018-10-15 15:03:00 Z
+position: 2
 header:
   title: Enhancing the Customer Journey
   body: Dressipi is the world’s only fashion-specific personalisation platform. We
