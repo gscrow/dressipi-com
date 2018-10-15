@@ -1,7 +1,7 @@
 ---
 title: How to Improve Customer Experience Instore
 date: 2017-10-26 07:07:00 Z
-position: 21
+position: 22
 header:
   title: How to Improve Customer Experience Instore
   body: "## Dressipi is the global leader in Fashion Personalisation. We improve customer
