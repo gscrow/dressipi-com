@@ -10,6 +10,7 @@ header:
   button:
     copy: Download Case Study
     url: "#download"
+  hero-image: "/uploads/banner_sdg_withlogo_nbrown.jpg"
 is-landing-page: true
 downloads: Personalised Email Success with N Brown
 description: Dressipi is the global leader in fashion-specific personalisation. We
