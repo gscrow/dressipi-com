@@ -10,6 +10,7 @@ header:
   button:
     copy: Download Whitepaper
     url: "#download"
+  hero-image: "/uploads/banner_sdg_withlogo_returns.jpg"
 is-landing-page: true
 downloads: |-
   How To Make Your Data Work
