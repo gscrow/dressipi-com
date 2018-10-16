@@ -11,6 +11,7 @@ header:
   button:
     copy: Download Case Study
     url: "#download"
+  hero-image: "/uploads/banner_sdg_withlogo_wallis.jpg"
 is-landing-page: true
 downloads: Delivering One-to-One Personalisation for Wallis
 description: Dressipi is the global leader in Customer First Personalisation. We give
