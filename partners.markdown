@@ -21,7 +21,6 @@ header:
   - Nike
   - JD Williams
   - Evans
-  - Autograph
 description: Dressipi works with some of the UK's biggest retailers, helping them
   improve their omnichannel eCommerce personalisation strategy across their online
   and physical stores. Discover who they are
@@ -57,7 +56,6 @@ sections:
   - JD Williams
   - Very
   - Evans
-  - Autograph
 layout: partners
 ---
 
