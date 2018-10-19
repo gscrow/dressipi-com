@@ -106,6 +106,10 @@ sections:
     title: Junior Stylist Manager
     linkedin: https://www.linkedin.com/in/selina-mills/?ppe=1
     image: "/uploads/selina-mills.jpg"
+  - name: Elisenda Torras
+    title: Junior Stylist Manager
+    linkedin: https://www.linkedin.com/in/elisenda-torras/
+    image: "/uploads/Elisenda%20Torras.png"
   - name: Philippa Mew
     title: Marketing Manager
     linkedin: https://www.linkedin.com/in/philippa-mew-34544032/
@@ -127,14 +131,13 @@ sections:
     linkedin: https://www.linkedin.com/in/jessica-rosati-4b685481/
     image: "/uploads/jessica_rosati_photo%20copy.jpg"
   - name: Paul Woestelandt
-    title: " Software Engineer"
+    title: Web Developer
     linkedin: https://www.linkedin.com/in/pwoestelandt
     image: "/uploads/paul-woestelandt.jpg"
   - name: Hassan Iskaf
-    title: Front-End Engineer
+    title: Web Developer
     linkedin: https://uk.linkedin.com/in/hassan-iskaf
     image: "/uploads/Hassan%20I.jpg"
-    Key: 
   - name: Marija Mandić
     title: Junior Software Engineer
     linkedin: https://www.linkedin.com/in/marija-mandic/
