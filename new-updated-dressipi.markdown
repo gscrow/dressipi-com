@@ -2,7 +2,7 @@
 title: New Updated Dressipi
 position: 1
 header:
-  title: Exciting news!
+  title: Exciting News!
   body: We are launching a new, updated Dressipi service which will make shopping
     for clothes even easier and more personal. <br>While we do this, we’ll be pausing
     the Dressipi service.<br>You can still get your personal Dressipi recommendations
@@ -17,7 +17,7 @@ header:
   - JD Williams
   - Very
   - Evans
-layout: landing
 sitemap: false
+layout: landing
 ---
 
