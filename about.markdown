@@ -109,7 +109,7 @@ sections:
   - name: Elisenda Torras
     title: Junior Stylist Manager
     linkedin: https://www.linkedin.com/in/elisenda-torras/
-    image: "/uploads/Elisenda%20Torras.png"
+    image: "/uploads/Elisenda%20Torras-b16c1a.png"
   - name: Philippa Mew
     title: Marketing Manager
     linkedin: https://www.linkedin.com/in/philippa-mew-34544032/
