@@ -83,7 +83,6 @@ sections:
   - JD Williams
   - Very
   - Evans
-  - Autograph
 layout: index
 ---
 
