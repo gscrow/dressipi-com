@@ -131,11 +131,11 @@ sections:
     linkedin: https://www.linkedin.com/in/jessica-rosati-4b685481/
     image: "/uploads/jessica_rosati_photo%20copy.jpg"
   - name: Paul Woestelandt
-    title: Web Developer
+    title: Software Engineer
     linkedin: https://www.linkedin.com/in/pwoestelandt
     image: "/uploads/paul-woestelandt.jpg"
   - name: Hassan Iskaf
-    title: Web Developer
+    title: Front End Engineer
     linkedin: https://uk.linkedin.com/in/hassan-iskaf
     image: "/uploads/Hassan%20I.jpg"
   - name: Marija Mandić
