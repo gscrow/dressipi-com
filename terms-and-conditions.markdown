@@ -117,4 +117,4 @@ We try to provide clear rules so that we can limit or hopefully avoid disputes b
 
 These terms shall be governed by and interpreted in accordance with the laws of England and Wales which shall have exclusive jurisdiction over any disputes.
 
-#### Date of Last Revision: May 11, 2018
+#### Date of Last Revision: September 28, 2018

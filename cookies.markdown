@@ -129,7 +129,7 @@ Browser manufacturers provide help pages relating to cookie management in their 
 - <a href="https://www.opera.com/help/tutorials/security/privacy/" target="_blank" class="web-browser">Opera</a>
 - <a href="https://www.opera.com/help/tutorials/security/privacy/" target="_blank" class="web-browser">Opera Mobile</a>
 
-Date of Last Revision: September 28, 2018
+#### Date of Last Revision: September 28, 2018
 
 <div id="cookies-table"></div>
 ## Cookies Table
