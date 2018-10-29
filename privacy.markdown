@@ -133,7 +133,7 @@ We use location-related information - such as your current location - to give yo
 
 ### To Connect to Many Retailers
 
-Our Services allow you to use your profile to easily view recommendations and receive content whenever you are within the online or instore environments of any of our <a href="#privacy" class="anchor-link-privacy">retail partners</a>. To do so, you choose to “connect” your profile with each individual retailer. It is your choice whether to connect to any or all retail partners within the Dressipi retail partner network.
+Our Services allow you to use your profile to easily view recommendations and receive content whenever you are within the online or instore environments of any of our <a href="#privacy" class="anchor-link-privacy">retail partners</a>. To do so, you choose to “connect” your profile with each individual retailer. It is your choice whether to connect to any or all retail partners within the Dressipi retail partner network, and you can modify your choices at any time, either through the <a href="#privacy" class="anchor-link-privacy">account page</a> or directly via the retailer website (for example, by modifying your cookies preferences).
 
 ### To Communicate with You
 
@@ -278,3 +278,5 @@ We implement security safeguards designed to protect your data, such as HTTPS an
 ### Contact Information
 
 If you have questions or complaints regarding this Policy, please first contact Dressipi via [privacy@dressipi.com](mailto:privacy@dressipi.com). You can also reach us by physical mail. If contacting us does not resolve your complaint, you have more options which include the right to lodge a complaint with a supervisory authority, in particular in the European Union (or European Economic Area) state where you work, normally live or where any alleged infringement of data protection laws occurred. The supervisory authority in the UK is the Information Commissioner who may be contacted at <a href="https://ico.org.uk/concerns/" target="_blank">www.ico.org.uk/concerns/</a> or by telephone: 0303 123 1113.
+
+#### Date of Last Revision: September 28, 2018
