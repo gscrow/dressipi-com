@@ -24,13 +24,21 @@ Yes, we use cookies and other technologies to ensure everyone who uses Dressipi 
 
 Cookies help us to provide, protect and improve Dressipi solutions and products. For example, cookies help us to keep your account safe.
 
-By continuing to visit or use our services, you are agreeing to the use of cookies and similar technologies for the purposes we describe below.
+By continuing to visit or use our services, or by ticking any consent box or by otherwise providing us with your consent, you are agreeing to the use of cookies and similar technologies for the purposes we describe below.
 
 ## When does Dressipi Use Cookies?
 
 We use cookies if you have a Dressipi account, use the Dressipi solutions or visit our retail partners who use Dressipi solutions and plug ins.
 
 They enable us to identify you or your device, secure access to your account (including helping us know if someone attempts to login in to your account from a different device), easily enable you to connect your profile to retailers in our network and serve individually personalised clothing and outfit recommendations to you.
+
+## How Long does Dressipi Use Cookies for?
+
+Dressipi only uses cookies for as long as is necessary in order to provide the most optimised services to you. In accordance with the law, Dressipi will never use cookies within its own controlled online environments for longer than 24 months following your acceptance of our cookies. Your acceptance of our cookies may be continuously refreshed as you use our services, for example when you update your profile data via our online platform, via the account settings page or when your consent is collated when you visit our site or use our services. Further details about how long our cookies are used are set out in the table below.
+
+## How Long does Dressipi Use Cookies for?
+
+Dressipi only uses cookies for as long as is necessary in order to provide the most optimised services to you. In accordance with the law, Dressipi will never use cookies within its own controlled online environments for longer than 24 months following your acceptance of our cookies. Your acceptance of our cookies may be continuously refreshed as you use our services, for example when you update your profile data via our online platform, via the <a href="#privacy" class="anchor-link-privacy">account settings</a> page or when your consent is collated when you visit our site or use our services. Further details about how long our cookies are used are set out in the table below.
 
 ## What Types of Cookies Does Dressipi Use?
 
@@ -94,7 +102,7 @@ Where we are responsible for the overall online environment, we will ask you to 
 
 This then confirms that you are happy to accept our use of cookies. When we are not responsible for the overall online environment (i.e., when this belongs to our retailers or other third parties which use our technology), you will be able to manage your consent of cookies, plug-ins and other similar technologies via that retailer or third-party environment directly.
 
-Where our retailers use our cookies and make them available to you via their online environment, we always ensure that our retailers respect your opt-in and privacy rights, for example, in our agreements with them.
+Where our retailers use our cookies and make them available to you via their online environment, we always ensure that our retailers respect your opt-in and privacy rights, for example, in our agreements with them. We therefore strongly recommend that you check the privacy and cookies policies of each retailer website that you visit, and that you update your cookies preferences on that website directly. Even if the cookie used belongs to us, the retailer is ultimately responsible for ensuring that your privacy rights are respected. If you have any queries or complaints about how cookies are being used within one of our retailer’s online environments, please contact that retailer directly.
 
 If you don't want us to use cookies when you visit Dressipi, you can opt-out of some cookies on your <a href="#privacy" class="anchor-link-privacy">Account Settings</a> page.
 
@@ -121,6 +129,8 @@ Browser manufacturers provide help pages relating to cookie management in their 
 - <a href="https://www.opera.com/help/tutorials/security/privacy/" target="_blank" class="web-browser">Opera</a>
 - <a href="https://www.opera.com/help/tutorials/security/privacy/" target="_blank" class="web-browser">Opera Mobile</a>
 
+Date of Last Revision: September 28, 2018
+
 <div id="cookies-table"></div>
 ## Cookies Table
 
@@ -128,14 +138,14 @@ Browser manufacturers provide help pages relating to cookie management in their 
 
 These are cookies set by Dressipi and used only by Dressipi.
 
-| Cookie              | Expiration     | More Information                                                                                                                                                                                                                                                                                   |
-| ------------------- | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| remember_user_token | 2 years        | Allows us to identify you when you return                                                                                                                                                                                                                                                          |
-| dressipi-session    | Session cookie | Stores temporary data such as error messages                                                                                                                                                                                                                                                       |
-| last-login          | 2 years        | Encrypted copy of the email address you last logged in with. This allows us to prefill the email field on the login form                                                                                                                                                                           |
-| Dressipi-mobile     | 2 years        | Records whether we should be showing you the mobile version of our site                                                                                                                                                                                                                            |
-| \_ga, \_gid, \_gat  | Up to 2 years  | These cookies are set by google analytics, which we use to analyse how our site is used See <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage" target="_blank">www.developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage </a> |
-| Dressipi_status     | 2 years        | This allows the retailer you are visiting to know that you have already completed signup with dressipi.                                                                                                                                                                                            |
+| Cookie              | Expiration                                                                                              | More Information                                                                                                                                                                                                                                                                                   |
+| ------------------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| remember_user_token | 24 months                                                                                               | Allows us to identify you when you return                                                                                                                                                                                                                                                          |
+| dressipi-session    | Session cookie (terminates at the end of your current session and in any case, never exceeds 24 months) | Stores temporary data such as error messages                                                                                                                                                                                                                                                       |
+| last-login          | 24 months                                                                                               | Encrypted copy of the email address you last logged in with. This allows us to prefill the email field on the login form                                                                                                                                                                           |
+| Dressipi-mobile     | 24 months                                                                                               | Records whether we should be showing you the mobile version of our site                                                                                                                                                                                                                            |
+| \_ga, \_gid, \_gat  | Up to 24 months                                                                                         | These cookies are set by google analytics, which we use to analyse how our site is used See <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage" target="_blank">www.developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage </a> |
+| Dressipi_status     | 24 months                                                                                               | This allows the retailer you are visiting to know that you have already completed signup with dressipi.                                                                                                                                                                                            |
 
 ### Cookies used by our retail partners
 
@@ -143,14 +153,14 @@ These are cookies set by Dressipi and readable by the retailer you are visiting.
 
 | Cookie          | Expiration | More Information                                                                                        |
 | --------------- | ---------- | ------------------------------------------------------------------------------------------------------- |
-| Dressipi_status | 2 years    | This allows the retailer you are visiting to know that you have already completed signup with dressipi. |
+| Dressipi_status | 24 months  | This allows the retailer you are visiting to know that you have already completed signup with dressipi. |
 
 ### Cookies used by third parties
 
 These are cookies set and used by third parties providing services to Dressipi. See a <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage" target="_blank">www.developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage </a> for more information on google analytics
 
-| Cookie | Expiration    | More Information                             |
-| ------ | ------------- | -------------------------------------------- |
-| \_ga   | Up to 2 years | Used by google analytics to identify users.  |
-| \_gat  | 1 minute      | Used by google analytics to throttle request |
-| \_gid  | 24 hours      | Used by google analytics to identify users.  |
+| Cookie | Expiration      | More Information                             |
+| ------ | --------------- | -------------------------------------------- |
+| \_ga   | Up to 24 months | Used by google analytics to identify users.  |
+| \_gat  | 1 minute        | Used by google analytics to throttle request |
+| \_gid  | 24 hours        | Used by google analytics to identify users.  |
