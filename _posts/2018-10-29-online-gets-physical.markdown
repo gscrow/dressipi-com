@@ -33,7 +33,7 @@ Amazon has billed their latest pop-up shop, ‘Amazon Fashion Hosts,’ as:
 
 Supermodel Lara Stone and radio and TV presenter Nick Grimshaw helped kickstart things at a star-studded launch that shouted out, “We’re here. We’re cool. We’re stylish. Shop us live”.
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Amazon%20Lara.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Amazon%20Lara%20and%20clothes.PNG"/></p>
 
 Why go to an ‘off the beaten shopping path’ corner of Baker Street to buy and browse pieces from Amazon when you can scroll online from the comfort of your own home whilst wondering who’ll win Bake Off? Because sometimes a curated edit of fashion that showcases trends and key pieces and takes the hassle out of the continuous online trawl is just the nudge you need to convert you from browser to buyer. After all, that animal print New Look dress you never knew was stocked on Amazon has more hanger appeal IRL than online. 
 
