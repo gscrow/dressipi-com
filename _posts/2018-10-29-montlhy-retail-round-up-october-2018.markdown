@@ -1,5 +1,5 @@
 ---
-title: Montlhy Retail Round-Up - October 2018
+title: Monthly Retail Round-Up - October 2018
 date: 2018-10-29 15:57:00 Z
 categories:
 - news
