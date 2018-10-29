@@ -16,6 +16,7 @@ tags:
 - Hush
 - pop up shops
 - Amazon pop-up shop
+image: "/uploads/Oct%20Monthly%20Round%20Up.jpg"
 author: Georgina Fisher
 description: With lots of news to keep track of, Dressipi brings you this month's
   best stories from the world of retail and its supporting industries.
