@@ -1,6 +1,20 @@
 ---
 title: Online Gets Physical
 date: 2018-10-29 17:00:00 Z
+categories:
+- retail
+tags:
+- Amazon
+- Amazon pop-up shop
+- bricks & mortar
+- physical store
+- customer experience
+image: "/uploads/Amazon%20banner.jpg"
+author: Natalie Theo
+description: As some of the industry's key online players are popping up as temporary
+  bricks-and-mortar stores, Natalie Theo, Dressipi's Style Director visited Amazon's
+  new shop.
+download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
 Popping up all over the place in temporary albeit seductive bricks-and-mortar incarnations are some of the industry’s key online players. They’re not just stopping at uber-stylish retail spaces - they are layering on a high octane dose of experience, experience and more experience.
