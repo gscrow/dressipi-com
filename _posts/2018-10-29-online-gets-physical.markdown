@@ -13,7 +13,7 @@ image: "/uploads/Amazon%20banner.jpg"
 author: Natalie Theo
 description: As some of the industry's key online players are popping up as temporary
   bricks-and-mortar stores, Natalie Theo, Dressipi's Style Director visited Amazon's
-  new shop.
+  new store.
 download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
