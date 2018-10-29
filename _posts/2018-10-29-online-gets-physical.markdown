@@ -1,5 +1,5 @@
 ---
-title: Online Gets Physical
+title: Amazon Gets Physical
 date: 2018-10-29 17:00:00 Z
 categories:
 - retail
@@ -17,9 +17,11 @@ description: As some of the industry's key online players are popping up as temp
 download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
-Popping up all over the place in temporary albeit seductive bricks-and-mortar incarnations are some of the industry’s key online players. They’re not just stopping at uber-stylish retail spaces - they are layering on a high octane dose of experience, experience and more experience.
 
-# Online Gets Physical
+
+# Amazon Gets Physical
+
+Popping up all over the place in temporary albeit seductive bricks-and-mortar incarnations are some of the industry’s key online players. They’re not just stopping at uber-stylish retail spaces - they are layering on a high octane dose of experience, experience and more experience.
 
 In celebration of its 10th anniversary (they have an LA store), Gwyneth Paltrow’s GOOP hit the streets of Notting Hill complete with a plush interior designed townhouse and Instagram worthy launch dinner that even if you don’t buy anything will leave you dipping into the site on a daily basis for a bit of voyeuristic wellness.  
 
@@ -33,7 +35,7 @@ Supermodel Lara Stone and radio and TV presenter Nick Grimshaw helped kickstart 
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Amazon%20Lara.jpg"/></p>
 
-Why go to an ‘off the beaten shopping path’ corner of Baker Street to buy and browse pieces from Amazon when you can scroll online from the comfort of your own home whilst wondering who’ll win Bake Off? Because sometimes a curated edit of fashion that showcases trends and key pieces and takes the hassle out of the continuous online trawl is just the nudge you need to convert you from browser to buyer. After all, that animal print New Look dress you never knew was stocked on Amazon has more hangar appeal IRL than online. 
+Why go to an ‘off the beaten shopping path’ corner of Baker Street to buy and browse pieces from Amazon when you can scroll online from the comfort of your own home whilst wondering who’ll win Bake Off? Because sometimes a curated edit of fashion that showcases trends and key pieces and takes the hassle out of the continuous online trawl is just the nudge you need to convert you from browser to buyer. After all, that animal print New Look dress you never knew was stocked on Amazon has more hanger appeal IRL than online. 
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Amazon%20New%20Look.PNG"/></p>
 
