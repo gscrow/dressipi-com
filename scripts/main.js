@@ -30,6 +30,9 @@ $(document).ready(function() {
     $(".navigation").toggleClass("navigation--open");
   });
 
+  // add target blank to all anchors in blogs
+  $(".blog__content--single a").attr("target", "_blank");
+
   // affix header
   $(".header")
     .affix({
