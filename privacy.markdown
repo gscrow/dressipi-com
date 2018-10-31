@@ -269,6 +269,8 @@ To delete your account at any time, please visit your <a href="#privacy" class="
 
 We retain your personal data even after you have closed your account if reasonably necessary to comply with our legal obligations (including law enforcement requests), meet regulatory requirements, resolve disputes, maintain security, prevent fraud and abuse, enforce our User Agreement, or fulfil your request to “unsubscribe” from further messages from us. We will retain de-personalised information after your account has been closed.
 
+If you have any queries about how your data is handled by our retailer partners within their online environments, please contact that retailer directly (for example, via the details set out in that retailer’s privacy policy).
+
 ## Other Important Information
 
 ### Security

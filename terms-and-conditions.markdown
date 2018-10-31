@@ -70,6 +70,8 @@ We are not responsible for third party or retailer websites containing our techn
 
 Therefore, the use and placement of our technology on any third party or retailer websites should not be interpreted as approval by us of those websites or information you may obtain or have access to from them.
 
+We have no control over the contents of those sites or resources. User-generated content on those third party or retailer websites is not verified or approved by us. The views expressed by other users, third parties or our retailers on third party or retailer sites do not represent our views or values. We strongly recommend that you verify the privacy and cookies policies for each retailer site that you visit and ensure that you update your preferences on those sites directly.
+
 If you wish to complain about information and materials on third party or retailer websites, then please contact the owner of the website in question directly.
 
 ## Rights and Limits
