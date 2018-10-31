@@ -62,7 +62,7 @@ With [Matchesfashion](https://dressipi.com/blog/matchesfashion-expanding-from-ec
 
 Stores still play a huge role in the customer shopping journey, as customers like to try before they buy. However, stores aren’t simply places to make a purchase. Hush’s pop up will also be a place for *“style talks, beauty workshops and an evening with top fashion influencers, as well as collaborative events with local businesses, such as yoga classes and sustainable food events”* ([Fashion United](https://fashionunited.uk/news/retail/hush-launches-a-series-of-pop-ups/2018101039382)).
 
-Amazon Fashion also launched a pop-up last week, in a space where online meets offline. Stock in the shop changed every other day with different themes, accompanied by activities and experiences. You can read all about it here in Dressipi’s Style Director, Natalie Theo’s blog post.
+Amazon Fashion also launched a pop-up last week, in a space where online meets offline. Stock in the shop changed every other day with different themes, accompanied by activities and experiences. You can read all about it [here](https://dressipi.com/blog/online-gets-physical/) in Dressipi’s Style Director, Natalie Theo’s blog post.
 
 ## We hope you enjoyed the round-up. Please feel free to get in touch with any stories you feel would be of interest.
 
