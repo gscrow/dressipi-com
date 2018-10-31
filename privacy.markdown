@@ -97,7 +97,7 @@ This only includes information on the items. It NEVER includes payment informati
 
 Our <a href="#privacy" class="anchor-link-privacy">retail partners</a> may provide this information whether you have a Dressipi account, are logged into your Dressipi account or are a Visitor. For example, a retailer could tell us about a purchase you made in one of its stores.
 
-We require each of these partners to have lawful rights to collect, use and share your data before providing any data to us. Learn more our retail partners <a href="#privacy" class="anchor-link-privacy">here</a>.
+We require each of these partners to have lawful rights to collect, use and share your data before providing any data to us. When you are visiting websites operated by any of our retail partners, we strongly suggest that you review their privacy and cookies policies. Learn more our retail partners <a href="#privacy" class="anchor-link-privacy">here</a>.
 
 ### Service Use
 
