@@ -64,7 +64,12 @@ drift.SNIPPET_VERSION = "0.3.1";
 drift.load("if6cxigczbsd");
 
 drift.on("ready", api => {
- if($('div').is('.privacy')) {
+
+  if($('section').is('.privacy')) || if (
+    window.location.href === "https://dressipi.com/privacy/" ||
+    window.location.href === "https://dressipi.com/cookies/" ||
+    window.location.href === "https://dressipi.com/terms-and-conditions/"
+  ) {
     api.widget.hide();
   }
 });
