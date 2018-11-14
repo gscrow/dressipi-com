@@ -64,15 +64,13 @@ drift.SNIPPET_VERSION = "0.3.1";
 drift.load("if6cxigczbsd");
 
 drift.on("ready", api => {
+  if (
+    window.location.href == "https://dressipi.com/privacy/" ||
+    window.location.href == "https://dressipi.com/cookies/" ||
+    window.location.href == "https://dressipi.com/terms-and-conditions/"
+  ) { $('#drift-widget-container').css( "display", "none" )}
+  });
 
-  if($('section').is('.privacy') || (
-    window.location.href === "https://dressipi.com/privacy/" ||
-    window.location.href === "https://dressipi.com/cookies/" ||
-    window.location.href === "https://dressipi.com/terms-and-conditions/"
-  )){
-    api.widget.hide();
-  }
-});
 </script>
   <!-- End Drift -->
   <meta charset="utf-8">
