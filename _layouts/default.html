@@ -15,6 +15,9 @@
   {% endunless %}
 
   <!-- include content -->
+  {% if my_page_url == 'privacy' or my_page_url == 'cookies' or my_page_url == 'terms-and-conditions'%}
+  <section class="privacy" >
+  {% endif %}
   <main role="main">
   {{ content }}
   {% if page.has-demo-section %}
