@@ -65,11 +65,11 @@ drift.load("if6cxigczbsd");
 
 drift.on("ready", api => {
 
-  if($('section').is('.privacy')) || if (
+  if($('section').is('.privacy') || (
     window.location.href === "https://dressipi.com/privacy/" ||
     window.location.href === "https://dressipi.com/cookies/" ||
     window.location.href === "https://dressipi.com/terms-and-conditions/"
-  ) {
+  )){
     api.widget.hide();
   }
 });
