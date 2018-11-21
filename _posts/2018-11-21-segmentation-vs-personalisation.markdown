@@ -44,7 +44,7 @@ The above begs the key question - Is it an artificial constraint to segment peop
 
 There is little doubt that automated micro-segmentation, done correctly, should deliver improved results over the more static and hypothetical alternatives. However, there is more fluidity and dynamism in our personalities today than ever before, and our customer journeys are individual and growing in complexity.
 
-[IMAGE]
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Blog_2_smaller.png"/></p>
 
 Our decision making is unique, as is our timing, our sensitivities and our affinities to products and product features. Nowhere is this more pertinent than in [fashion retailing](https://dressipi.com/blog/building-fashion-recommendation-systems/). 
 
