@@ -1,6 +1,21 @@
 ---
 title: Segmentation vs Personalisation
 date: 2018-11-21 14:32:00 Z
+tags:
+- one to one personalisation
+- personalisation
+- how to create a personalised shopping experience
+- segmentation
+- segmentation vs personalisation
+- retail technology
+- retail
+- fashion technology
+- better customer service
+- retail innovation
+- innovation
+- future of retail
+- customer experience
+- true personalisation
 author: Donna North
 description: With technology developing at a rapid pace, how best to target customers
   and deliver products and experiences that are relevant to them is a hotly debated
