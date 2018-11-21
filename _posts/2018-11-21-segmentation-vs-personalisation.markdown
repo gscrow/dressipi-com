@@ -81,3 +81,5 @@ Retailers often view personalisation at scale as a daunting undertaking, requiri
 Segmentation is useful for businesses and will continue to play a role in aligning top line thinking and communication since it’s impossible for a human to keep hundreds of thousands of customers in mind. Personalisation, however, is important to (and works brilliantly for) both businesses and customers meaning it has entered the stage of being the dominant force. 
 
 I personally believe that as the application of ML and deep learning techniques improve, segmentation use cases will diminish or become a distant memory, with personalisation becoming the norm and part of the experience that customers expect when interacting with brands.
+
+> Banner Photo by rawpixel on Unsplash
