@@ -32,7 +32,7 @@ Segmentation can inform product market strategy by enabling customer mapping to 
 
 However, it is rather static and doesn’t take into consideration user behaviour nor the multiple touch points (online, mobile, in-store, search, social media) that influence a customers’ micro-moments such as help deciding what to buy.
 
-[IMAGE]
+<p style="text-align:center"><img style="margin-left: 0px" src ="![Blog_1_smaller.png](/uploads/Blog_1_smaller.png)"/></p>
 
 Additionally, consumers are rarely part of one segment. They could belong to multiple segments at different times of the day and week. You may have a professional working woman during the week, who runs marathons on weekends and happens to be a mother of 3 children. This is a good example of one person with different behaviour patterns, interests and product affinities at different points in time.
 
