@@ -1,6 +1,11 @@
 ---
 title: Segmentation vs Personalisation
 date: 2018-11-21 14:32:00 Z
+author: Donna North
+description: With technology developing at a rapid pace, how best to target customers
+  and deliver products and experiences that are relevant to them is a hotly debated
+  topic. Dressipi's Co-Founder Donna North looks at Segmentation vs Personalisation,
+  and why the latter will soon become the norm.
 ---
 
 With technology developing at a rapid pace, how best to target customers and deliver products and experiences that are relevant to them is a hotly debated topic.
@@ -70,7 +75,7 @@ Personalisation can reduce acquisition costs by as much as 50%, lift revenues by
 
 Retailers often view personalisation at scale as a daunting undertaking, requiring millions in investments. But successful businesses start small, generate top-line impact quickly—in a matter of weeks —and then it is self-funding after that.
 
-To Conclude...
+## To Conclude...
 
 Segmentation is useful for businesses and will continue to play a role in aligning top line thinking and communication since it’s impossible for a human to keep hundreds of thousands of customers in mind. Personalisation, however, is important to (and works brilliantly for) both businesses and customers meaning it has entered the stage of being the dominant force. 
 
