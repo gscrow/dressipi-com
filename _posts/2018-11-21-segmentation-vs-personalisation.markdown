@@ -56,7 +56,7 @@ So, as a fashion retailer, using segmentation might initially get some improveme
 
 Personalisation doesn’t care about putting customers into segments. It concerns itself with collecting data and learning as much as possible about each individual customer, so it can respond to each unique need in real time. 
 
-[IMAGE] 
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Blog_3_smaller.png"/></p>
 
 It understands that you are a working woman, a marathon runner and a mother. That you will be buying a tailored suit one day and a biker jacket the next. It knows your likes and dislikes at a feature level, it knows the clothes that suit you best and those you will avoid or return. It saw that you bought the coat you were looking for last week and knows you won’t be buying another for at least a year. It understands that you buy your trainers online and your dresses in-store.
 
