@@ -36,7 +36,7 @@ However, organisations that leverage **personalisation** outperform peers by 5 t
 Segmentation and [personalisation](https://dressipi.com/downloads/five-things-every-retailer-should-know-about-personalisation-whitepaper/) are not the same. They do different things and have a very different impact on results. It is key, therefore, to understand each, their potential, their limitations and the range of value they can contribute.
 
 
-# Segmentation
+## Segmentation
 
 Segmentation has evolved over recent years – from more traditional persona-based segmentation to present day microsegments.
 
@@ -70,7 +70,7 @@ Here, the customer is shopping in the context of their shape, their size, their 
 
 So, as a fashion retailer, using segmentation might initially get some improvements using automated micro-segments, but you’re not going to make any progress in transforming the [understanding of your customers](https://dressipi.com/customer-first-personalisation/) and delivering on their actual wants, which is vital to driving long-term growth and profitability.  Only personalisation can deliver that.
 
-# Personalisation
+## Personalisation
 
 Personalisation doesn’t care about putting customers into segments. It concerns itself with collecting data and learning as much as possible about each individual customer, so it can respond to each unique need in real time. 
 
@@ -94,7 +94,7 @@ Personalisation can reduce acquisition costs by as much as 50%, lift revenues by
 
 Retailers often view personalisation at scale as a daunting undertaking, requiring millions in investments. But successful businesses start small, generate top-line impact quickly—in a matter of weeks —and then it is self-funding after that.
 
-# To Conclude...
+## To Conclude...
 
 Segmentation is useful for businesses and will continue to play a role in aligning top line thinking and communication since it’s impossible for a human to keep hundreds of thousands of customers in mind. Personalisation, however, is important to (and works brilliantly for) both businesses and customers meaning it has entered the stage of being the dominant force. 
 
