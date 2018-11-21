@@ -19,13 +19,15 @@ tags:
 image: "/uploads/rawpixel-1080873-unsplash%20(1).jpg"
 author: Donna North
 description: How best to target customers and deliver products and experiences that
-  are relevant to them is a hotly debated topic. Dressipi's Co-Founder Donna North
-  looks at Segmentation vs Personalisation, and why the latter will soon become the
-  norm.
+  are truly relevant to them is a hotly debated topic. Dressipi's Co-Founder Donna
+  North looks at Segmentation vs Personalisation, and why the latter will soon become
+  the norm.
 download: Beginner's Guide to Fashion Personalisation
 ---
 
-With technology developing at a rapid pace, how best to target customers and deliver products and experiences that are relevant to them is a hotly debated topic.
+With technology developing at a rapid pace, how best to target customers and deliver products and experiences that are truly relevant to them is a hotly debated topic.
+
+# Segmentation vs Personalisation
 
 Many businesses talk about the importance of **segmentation** and the positive impact it can have. In fact, organisations that leverage customer segmentation are likely to outperform peers who don’t by 11 % in sales growth (5% in operating margin improvements).
 
