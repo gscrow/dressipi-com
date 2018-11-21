@@ -16,11 +16,12 @@ tags:
 - future of retail
 - customer experience
 - true personalisation
+image: "/uploads/rawpixel-1080873-unsplash%20(1).jpg"
 author: Donna North
-description: With technology developing at a rapid pace, how best to target customers
-  and deliver products and experiences that are relevant to them is a hotly debated
-  topic. Dressipi's Co-Founder Donna North looks at Segmentation vs Personalisation,
-  and why the latter will soon become the norm.
+description: How best to target customers and deliver products and experiences that
+  are relevant to them is a hotly debated topic. Dressipi's Co-Founder Donna North
+  looks at Segmentation vs Personalisation, and why the latter will soon become the
+  norm.
 download: Beginner's Guide to Fashion Personalisation
 ---
 
