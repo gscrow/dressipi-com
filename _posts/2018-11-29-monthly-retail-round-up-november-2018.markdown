@@ -1,6 +1,23 @@
 ---
 title: Monthly Retail Round-Up - November 2018
 date: 2018-11-29 09:23:00 Z
+categories:
+- news
+tags:
+- retail
+- retail news
+- black friday
+- asos fit technology
+- fit analytics
+- matalan
+- UX lab
+- n brown
+- decoded
+- retail technology
+image: "/uploads/November%20Monthly%20Round%20Up.jpg"
+author: Georgina Fisher
+description: With lots of news to keep track of, Dressipi brings you this month's
+  best stories from the world of retail and its supporting industries.
 ---
 
 Some of the best articles from the world of retail and its supporting industries.
