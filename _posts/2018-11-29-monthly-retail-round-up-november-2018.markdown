@@ -30,9 +30,30 @@ Have a look at the Black Friday Drapers 2018 deal tracker [here](https://www.dra
 
 ### 2) Asos Rolls Out Fit Technology
 
-Retail Systems reported that “Asos is rolling out an artificial intelligence (AI) sizing tool across its global websites and mobile apps.”
+[Retail Systems](http://www.retail-systems.com/rs/ASOS_Rolls_Out_AI_Driven_Sizing_Feature.php) reported that *“Asos is rolling out an artificial intelligence (AI) sizing tool across its global websites and mobile apps.”*
 
+The partnership with [Fit Analytics](https://www.fitanalytics.com/), helps Asos provide bespoke sizing recommendations for all their customers, based on data from previous purchases and returns. For a more improved and personalised result, customers can answer 3 additional questions about height, weight and fit preference.
 
+Andy Berks, Digital Product Director, Asos said in a press release, reported in [Drapers](https://www.drapersonline.com/7033123.article?utm_source=newsletter&utm_medium=email&utm_campaign=DR_EditorialNewsletters.Reg:%20Send%20-%20Daily%20News&mkt_tok=eyJpIjoiTldWaE9EZzFPREl3TkRBeSIsInQiOiJ2Smp4Y1d2cmZKK2NNdWRpaDYxdFA5NWh6MENzTmE2TDYxXC9PZVhrRUNxMittTkRUdWthbXUwUWpEXC9nTklOQW12bWw1eU54dlwvbmlmM05jZ1diOHlcL0kzd0d1YzFMWHVBelJaSFhKbHBUTEFTc1FPb2RmcUJrNlo0WDNlcjRaQkIifQ%3D%3D), *“We want to do all we can to make sure our customers are getting the right size, first time. This is where Asos Fit Assistant comes in – we can now offer personalised size recommendations across Asos collections, exclusive labels and fashion favourites.”*
 
+[Returns cost a huge amount to retailers every year](https://dressipi.com/how-to-decrease-your-return-rate/), with many customers buying multiple sizes. The Fit Assistant feature will help customers get the sizing right the first time, therefore eliminating ordering multiple sizes and improving customer experience. A benefit to both the retailer and the customer.
 
+### 3) Matalan’s Omnichannel Experience
 
+Fashion and home retailer, Matalan has launched an initiative this November with the purpose of improving their omnichannel strategy and customer experience.
+
+Reported in [Fashion Network](https://uk.fashionnetwork.com/news/Matalan-opens-UX-centre-in-Knowsley,1037232.html#.W_wtSuj7Q2w), *“Matalan has opened a user experience lab in its head office in Knowsley in an effort to better understand its consumers’ shopping journey.”* Matalan proposes to bring customers to the UX lab to interact with them more frequently. This will help them get a wider understanding of their customers online shopping journeys and behaviour, along with feedback on their omnichannel proposition, in an aim to find new solutions and improvements.
+
+Paul Hornby, Director of Ecommerce, Matalan (reported in [Fashion Network](https://uk.fashionnetwork.com/news/Matalan-opens-UX-centre-in-Knowsley,1037232.html#.W_wtSuj7Q2w)) said, *“Our UX Lab re-enforces our customer-centric, omnichannel ambitions. We’ve always had the opportunity to interact with our customers in store but haven’t had the same opportunity online. That has now changed and this step-change in our access to qualitative data from real customers will help us continue to improve the omnichannel customer experience.”*
+
+### 4) N Brown Partners with Decoded
+
+[Retail Week](https://www.retail-week.com/fashion/n-brown-partners-with-tech-educator-decoded/7030430.article) reported, *“N Brown has partnered with tech firm [Decoded](https://decoded.com/) to train employees in its organisation to use data and analytics.”* N Brown *“plans to use the technology throughout the business from optimising the customer journey to predicting consumer demand for a product or improving employee retention rates.”*
+
+In a statement, published in [Retail Times](https://www.retailtimes.co.uk/n-brown-partners-with-decoded-and-corndel-to-power-its-data-rich-retailer-vision/), Gareth Powell, Director of Data Science, N Brown, said, *“This is a fantastic opportunity to upskill more of our colleagues in Data Science from a mind set and technical perspective. Data is now ingrained in online retail and is a fundamental pillar for the future growth of N Brown.”*
+
+A similar partnership was made in July this year with M&S. Reported in [Retail Week](https://www.retail-week.com/technology/mands-launches-worlds-first-retail-data-academy/7029626.article), M&S partnered with Decoded for their biggest digital investment to date, to create *“the world’s first retail data academy”*, with the aim of becoming the *“most data-literate leadership team in retail”*.
+
+## We hope you enjoyed the round-up. Please feel free to get in touch with any stories you feel would be of interest.
+
+> Banner Photo by PhotoMix Ltd. on Pexels
