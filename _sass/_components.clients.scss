@@ -8,10 +8,14 @@
 
   &__logo {
     margin: rhythm(3) rhythm(5);
-    
-  	&.jdw {
-  		width: 200px;
-  	}
+
+    &.jdw {
+      width: 200px;
+    }
+
+    &.the-modist {
+      width: 300px;
+    }
   }
 }
 

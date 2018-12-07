@@ -1,31 +1,43 @@
 .hero-partners {
-	.client__logos {
-		margin: rhythm(8) 0;
+  .client__logos {
+    margin: rhythm(8) 0;
 
-		&.jdw {
-			width: 200px;
-		}
-	}
+    &.jdw {
+      width: 200px;
+    }
+
+    &.the-modist {
+      width: 300px;
+    }
+  }
 }
 
 .client__logos {
-	margin-top: rhythm(8);
+  margin-top: rhythm(8);
 
-	&.jdw {
-		width: 200px;
-	}
+  &.jdw {
+    width: 200px;
+  }
+
+  &.the-modist {
+    width: 300px;
+  }
 }
 
 .cases__list {
-	margin-top: rhythm(8);
+  margin-top: rhythm(8);
 }
 
 @include responsive(mobile) {
-	.hero-partners .client__logos {
-		margin: rhythm(4) 0;
+  .hero-partners .client__logos {
+    margin: rhythm(4) 0;
 
-		&.jdw {
-			width: 200px;
-		}
-	}
+    &.jdw {
+      width: 200px;
+    }
+
+    &.the-modist {
+      width: 300px;
+    }
+  }
 }
