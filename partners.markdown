@@ -18,7 +18,7 @@ header:
   - Topshop
   - Wallis
   - Very
-  - Nike
+  - The Modist
   - JD Williams
   - Evans
 description: Dressipi works with some of the UK's biggest retailers, helping them
@@ -51,11 +51,10 @@ sections:
   - John Lewis
   - Littlewoods
   - Topshop
-  - Nike
+  - The Modist
   - Wallis
   - JD Williams
   - Very
   - Evans
 layout: partners
 ---
-

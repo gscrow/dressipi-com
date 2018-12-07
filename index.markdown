@@ -79,10 +79,9 @@ sections:
   - Topshop
   - very
   - Wallis
-  - Nike
+  - The Modist
   - JD Williams
   - Very
   - Evans
 layout: index
 ---
-
