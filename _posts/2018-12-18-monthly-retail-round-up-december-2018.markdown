@@ -1,6 +1,17 @@
 ---
 title: Monthly Retail Round-Up - December 2018
 date: 2018-12-18 12:44:00 Z
+categories:
+- news
+tags:
+- retail
+- retail news
+- Farfetch
+- Visual Search
+- H&M
+- Yoox
+- AI Stylist
+- Bestseller sustainability strategy
 image: "/uploads/Dec%20Banner%20Photo.jpg"
 author: Georgina Fisher
 description: With lots of news to keep track of, Dressipi brings you this month's
