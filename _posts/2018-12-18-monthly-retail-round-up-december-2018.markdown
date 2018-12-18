@@ -41,13 +41,13 @@ The store will include a fashion assortment specifically tailored to Hammersmith
 * A ‘Repair and Remake’ station where H&M will repair customer-owned H&M clothing.
 * Personalisation in the shape of customised embroidery with prices starting at around the £3 mark.
 * Screens showing images of customers wearing recent purchases that they have shared using the #HMxME hashtag on Instagram.
-* Self-checkouts in addition to normal till points (the first H&M in the UK to do this...Zara launched self-checkouts earlier this year, which you can read about in our [blog post](https://dressipi.com/blog/zaras-self-service-check-out-highlights-a-stronger-focus-on-creating-better-in-store-customer-experiences/) where we went to try it out for ourselves).
+* Self-checkouts in addition to normal till points (the first H&M in the UK to do this...Zara launched self-checkouts earlier this year, which you can read about in our [blog post](https://dressipi.com/blog/zaras-self-service-check-out-highlights-a-stronger-focus-on-creating-better-in-store-customer-experiences/).
 
 ### 3) Yoox Launches AI Stylist
 
 Another luxury e-commerce platform is in the news this December. Reported in [Drapers](https://www.drapersonline.com/7033452.article?utm_source=newsletter&utm_medium=email&utm_campaign=DR_EditorialNewsletters.Paid:%20Send%20-%20Daily%20News&mkt_tok=eyJpIjoiTnpNMVptRmlOR0l6TVRrdyIsInQiOiJnNEFvdGd2dHZNVGwwUGpodTIxRWszU1JzTFNBRWs5bTRIZFlkaVNmckJqUDc2d1wvSkVjcUpmblQ0MXRHQXRIWFd3R0ZnRmg4cEpXdjRIcnhyeFVERU9yV1B2cWFKZ1JWbEpTSnBPNlJcL3czMXFXQnYzMTZqaTc0Y1dVdmo2Ung0In0%3D), YOOX launched an AI-powered stylist. 
 
-The feature, YOOXMIRROR, allows customers to explore new looks by mixing and matching garments and accessories on a virtual avatar, Daisy. Daisy can be customised with different hair colour and skin tones which best relate to the customer, or they can upload their own picture. Reported in [Fashion Network](https://us.fashionnetwork.com/news/YNAP-unveils-Yoox-Mirror-AI-based-avatar-styling-suite,1044171.html#.XBjtYmj7RaR), *“Customers can see how a look will suit them (or at least how it looks on an avatar, which is a big step forward from static product images).” *
+The feature, YOOXMIRROR, allows customers to explore new looks by mixing and matching garments and accessories on a virtual avatar, Daisy. Daisy can be customised with different hair colour and skin tones which best relate to the customer, or they can upload their own picture. Reported in [Fashion Network](https://us.fashionnetwork.com/news/YNAP-unveils-Yoox-Mirror-AI-based-avatar-styling-suite,1044171.html#.XBjtYmj7RaR), *“Customers can see how a look will suit them (or at least how it looks on an avatar, which is a big step forward from static product images).”*
 
 There are 250 products that Daisy will be able to showcase every week, and customers can then share the looks they have created on social media. This will get them to gain immediate feedback to decide whether to purchase the items or save them directly into their wishlist, the Yoox DreamBox. In addition to this, Daisy has taken over the YOOX Instagram account.
 
