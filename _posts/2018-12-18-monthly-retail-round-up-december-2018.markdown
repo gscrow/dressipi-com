@@ -41,7 +41,7 @@ The store will include a fashion assortment specifically tailored to Hammersmith
 * A ‘Repair and Remake’ station where H&M will repair customer-owned H&M clothing.
 * Personalisation in the shape of customised embroidery with prices starting at around the £3 mark.
 * Screens showing images of customers wearing recent purchases that they have shared using the #HMxME hashtag on Instagram.
-* Self-checkouts in addition to normal till points (the first H&M in the UK to do this...Zara launched self-checkouts earlier this year, which you can read about in our [blog post] (https://dressipi.com/blog/zaras-self-service-check-out-highlights-a-stronger-focus-on-creating-better-in-store-customer-experiences/) where we went to try it out for ourselves.)
+* Self-checkouts in addition to normal till points (the first H&M in the UK to do this...Zara launched self-checkouts earlier this year, which you can read about in our [blog post](https://dressipi.com/blog/zaras-self-service-check-out-highlights-a-stronger-focus-on-creating-better-in-store-customer-experiences/) where we went to try it out for ourselves.)
 
 ### 3) Yoox Launches AI Stylist
 
