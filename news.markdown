@@ -19,9 +19,8 @@ publications:
   image: "/uploads/logo__the-telegraph.svg"
 - title: "“Shop Direct and others team up to trial personalisation technology”"
   image: "/uploads/logo__retailweek.svg"
-- title: "“It’s a pretty ground-breaking idea, bridging the gap between online and
-    offline shopping”"
-  image: "/uploads/logo__the-memo.png"
+- title: "“How Retail Changes When Algorithms Curate Everything We Buy”"
+  image: "/uploads/HBR_logo_black.svg"
 - title: "“One of the hottest 50 UK tech startups”"
   image: "/uploads/logo__city-am.svg"
 - title: "“Online Fashion-Advice Startup Dressipi Woos E-Commerce Clients”"
