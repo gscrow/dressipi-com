@@ -7,28 +7,25 @@ date: 2019-01-23 12:25:00 Z
 
 Thanks to the relentless media coverage, we were exposed to a blustery storm of CVA’s, declining footfall and store closures which flooded the papers with little relief. Throw in the sharpest sales drop in 22 years with a side order of Brexit and the picture looks pretty bleak. 
 
-But it wasn’t all doom and gloom. There were moments of positivity and (dare I say it) excitement - innovative in-store technology from big high street players, bricks and mortar retailers such as Zara stepping up their focus on customer experiences, and the likes of Amazon, Matches and Boden experimenting further with a physical presence.
+But it wasn’t all doom and gloom. There were moments of positivity and (dare I say it) excitement - [innovative in-store technology](https://dressipi.com/blog/how-does-technology-enhance-the-in-store-customer-experience-at-jd-sports/) from big high street players, bricks and mortar retailers such as Zara stepping up their [focus on customer experiences](https://dressipi.com/blog/zaras-self-service-check-out-highlights-a-stronger-focus-on-creating-better-in-store-customer-experiences/), and the likes of [Amazon](https://dressipi.com/blog/online-gets-physical/), [Matches](https://dressipi.com/blog/matchesfashion-expanding-from-ecommerce-to-bricks-and-mortar/) and [Boden](https://dressipi.com/blog/from-clicks-to-bricks-bodens-new-flagship-store/) experimenting further with a physical presence.
 
-At Dressipi we’ve always believed that retailers need to start thinking differently if they’re going to come out on top, and this starts with the customer. Yes, retail is going through a period of change. Yes the road ahead is unknown, but one thing is for certain - the high street isn’t dying, its evolving and brands have a huge opportunity to jump on board and ride the wave of change if they’re prepared and smart enough to think outside the box.
+At Dressipi we’ve always believed that retailers need to start thinking differently if they’re going to come out on top, and this starts with the customer. Yes, retail is going through a period of change. Yes the road ahead is unknown, but one thing is for certain - [the high street isn’t dying, its evolving](https://dressipi.com/blog/new-phase-of-retail-evolution-bricks-and-mortar-retailers/) and brands have a huge opportunity to jump on board and ride the wave of change if they’re prepared and smart enough to think outside the box.
 
-The purpose of this piece is not to dwell on the past but rather look to the future. Now we’ve had some time to get back into the swing of things, here are our top 4 predictions for 2019:
+The purpose of this piece is not to dwell on the past but rather [look to the future](https://www.youtube.com/watch?v=GlxD47z8TKU&t=3s). Now we’ve had some time to get back into the swing of things, here are our top 4 predictions for 2019:
 
-There’s More In-Store
+## There’s More In-Store
 
-20% of retail sales are done online, so you do the maths - 80% of transactions still happen in bricks and mortar stores. Although this channel shift will continue, the rate of online growth is slowing so the mix of in-store purchases is unlikely to be higher than 25%. What is likely to change is the way in which transactions take place in stores. 
+[20% of retail sales](https://www.ons.gov.uk/businessindustryandtrade/retailindustry/timeseries/j4mc/drsi) are made online, so you do the maths - 80% of transactions still happen in bricks and mortar stores. Although this channel shift will continue, the rate of online growth is slowing so the mix of in-store purchases is unlikely to be higher than 25%. What is likely to change is the way in which transactions take place in stores. 
 
-We believe that 2019 will see an increase in availability and popularity of self-checkouts, alongside a greater roll-out of technology to solve instore issues such as queuing.
+We believe that 2019 will see an increase in availability and [popularity of self-checkouts](https://dressipi.com/blog/zaras-self-service-check-out-highlights-a-stronger-focus-on-creating-better-in-store-customer-experiences/), alongside a greater roll-out of technology to solve instore issues such as queuing.
 
 Furthermore, we’ll see more brands scaling back their stores to provide highly curated edits depending on location and clientele (all driven by data insights) - take H&M’s concept store in Hammersmith as an example, or COS’s in Coal Drops Yard.  We’ll also see a surge in functionalities such as Scan-and-Go shopping where customers have the ability to view a product in-store, scan a VR code, and have it delivered to them at home. Convenience is key here.
 
-
-
-
-The Inevitable Consolidation
+## The Inevitable Consolidation
 
 There is well documented over-capacity in the mid-market, both in terms of real estate and in terms of product produced. Put simply, there aren’t enough women to buy the number of products produced and what people are willing to spend on clothing varies drastically.
 
-We predict that the gap separating the winners and losers in retail will start to widen even further, with 2019 seeing some large high profile casualties or much-needed consolidation. The winners will be those that clearly understand their customer, have excellent product and a value proposition that resonates. Although everyone understands the value of good structured data, the winners start to capitalise on that to surge ahead. In short, data-driven retailers will succeed over gut retailers. 
+We predict that the gap separating the winners and losers in retail will start to widen even further, with 2019 seeing some large high profile casualties or much-needed consolidation. The winners will be those that clearly understand their customer, have excellent product and a value proposition that resonates. Although everyone understands the value of good structured data, the winners start to capitalise on that to surge ahead. In short, [data-driven retailers](https://www.youtube.com/watch?v=FxKrRJhkVyA&t=2s) will succeed over gut retailers. 
 
 Customer Experiences Take A Leap
 
