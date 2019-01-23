@@ -44,7 +44,7 @@ With mounting pressure from the government and consumers alike, retailers will b
 In addition, let’s not forget the wastage in the sourcing and production of too many garments (with an average sell-through rate of 60%) that continues to be an issue. Again, retailers who start to [capitalise on their data](https://dressipi.com/downloads/how-to-make-your-data-work-harder-to-reduce-garment-return-rates-whitepaper/) will produce more of the right product in the right sizes at the right price for their particular customer base. Supply chain efficiency will not only create less wastage but also drive margin improvement.
 
 
-
+## To Conclude...
 
 The pace of change within retail is rapid and its safe to say that the likes of Amazon are the wolves biting at the heels of more traditional retailers. The need to stay ahead of the curve and be truly forward thinking is more important than ever. Those that use data intelligently in all areas of their business to deliver great product, customer service and value proposition will be the ones that stand the test of time.
 
