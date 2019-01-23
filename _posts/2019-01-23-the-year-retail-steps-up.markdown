@@ -21,11 +21,11 @@ The purpose of this piece is not to dwell on the past but rather [look to the fu
 
 ## 1) There’s More In-Store
 
-[20% of retail sales](https://www.ons.gov.uk/businessindustryandtrade/retailindustry/timeseries/j4mc/drsi) are made online, so you do the maths - 80% of transactions still happen in bricks and mortar stores. Although this channel shift will continue, the rate of online growth is slowing so the mix of in-store purchases is unlikely to be higher than 25%. What is likely to change is the way in which transactions take place in stores. 
+[20% of retail sales](https://www.ons.gov.uk/businessindustryandtrade/retailindustry/timeseries/j4mc/drsi) are made online, so you do the maths - 80% of transactions still happen in bricks and mortar stores. Although this channel shift will continue, the rate of online growth is slowing so the mix of in-store purchases is unlikely to be higher than 25%. With this in mind, what is likely to change is the way in which transactions take place in stores. 
 
-We believe that 2019 will see an increase in availability and [popularity of self-checkouts](https://dressipi.com/blog/zaras-self-service-check-out-highlights-a-stronger-focus-on-creating-better-in-store-customer-experiences/), alongside a greater roll-out of technology to solve instore issues such as queuing.
+We believe 2019 will see an increase in availability and [popularity of self-checkouts](https://dressipi.com/blog/zaras-self-service-check-out-highlights-a-stronger-focus-on-creating-better-in-store-customer-experiences/), alongside a greater roll-out of technology to solve in-store issues such as queuing.
 
-Furthermore, we’ll see more brands scaling back their stores to provide highly curated edits depending on location and clientele (all driven by data insights) - take H&M’s concept store in Hammersmith as an example, or COS’s in Coal Drops Yard.  We’ll also see a surge in functionalities such as Scan-and-Go shopping where customers have the ability to view a product in-store, scan a VR code, and have it delivered to them at home. Convenience is key here.
+Furthermore, we’ll see more brands scaling back their stores to provide highly curated edits depending on location and clientele (all driven by data insights) - take H&M’s concept store in Hammersmith as an example, or COS’s in Coal Drops Yard.  We’ll also see a surge in functionalities such as Scan-and-Go shopping where customers have the ability to view a product in-store, scan a VR code, and have it delivered to them at home. Convenience is key.
 
 ## 2) The Inevitable Consolidation
 
