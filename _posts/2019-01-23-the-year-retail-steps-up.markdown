@@ -46,6 +46,6 @@ In addition, let’s not forget the wastage in the sourcing and production of to
 
 ## To Conclude...
 
-The pace of change within retail is rapid and its safe to say that the likes of Amazon are the wolves biting at the heels of more traditional retailers. The need to stay ahead of the curve and be truly forward thinking is more important than ever. Those that use data intelligently in all areas of their business to deliver great product, customer service and value proposition will be the ones that stand the test of time.
+The pace of change within retail is rapid and its safe to say that the likes of Amazon are the wolves biting at the heels of more traditional retailers. The need to [stay ahead of the curve](https://www.youtube.com/watch?v=GlxD47z8TKU&t=3s) and be truly forward thinking is more important than ever. Those that use data intelligently in all areas of their business to deliver great product, customer service and value proposition will be the ones that stand the test of time.
 
 
