@@ -1,6 +1,7 @@
 ---
 title: The Year Retail Steps Up
 date: 2019-01-23 12:25:00 Z
+image: "/uploads/commerce-crown-group-374894%20(1).jpg"
 author: Philippa Mew
 description: 2018 was undoubtedly a tough year for retail and one that will be remembered
   for many years to come. As we look to the year ahead, these are our top predictions
@@ -55,4 +56,4 @@ In addition, let’s not forget the wastage in the sourcing and production of to
 
 The pace of change within retail is rapid and its safe to say that the likes of Amazon are the wolves biting at the heels of more traditional retailers. The need to [stay ahead of the curve](https://www.youtube.com/watch?v=GlxD47z8TKU&t=3s) and be truly forward thinking is more important than ever. Those that use data intelligently in all areas of their business to deliver great product, customer service and value proposition will be the ones that stand the test of time.
 
-
+Banner photo by Matthew Henry from Pexels.
