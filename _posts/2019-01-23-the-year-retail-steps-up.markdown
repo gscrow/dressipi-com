@@ -15,7 +15,7 @@ At Dressipi we’ve always believed that retailers need to start thinking differ
 
 The purpose of this piece is not to dwell on the past but rather [look to the future](https://www.youtube.com/watch?v=GlxD47z8TKU&t=3s). Now we’ve had some time to get back into the swing of things, here are our top 4 predictions for 2019:
 
-## There’s More In-Store
+## 1) There’s More In-Store
 
 [20% of retail sales](https://www.ons.gov.uk/businessindustryandtrade/retailindustry/timeseries/j4mc/drsi) are made online, so you do the maths - 80% of transactions still happen in bricks and mortar stores. Although this channel shift will continue, the rate of online growth is slowing so the mix of in-store purchases is unlikely to be higher than 25%. What is likely to change is the way in which transactions take place in stores. 
 
@@ -23,13 +23,13 @@ We believe that 2019 will see an increase in availability and [popularity of sel
 
 Furthermore, we’ll see more brands scaling back their stores to provide highly curated edits depending on location and clientele (all driven by data insights) - take H&M’s concept store in Hammersmith as an example, or COS’s in Coal Drops Yard.  We’ll also see a surge in functionalities such as Scan-and-Go shopping where customers have the ability to view a product in-store, scan a VR code, and have it delivered to them at home. Convenience is key here.
 
-## The Inevitable Consolidation
+## 2) The Inevitable Consolidation
 
 There is well documented over-capacity in the mid-market, both in terms of real estate and in terms of product produced. Put simply, there aren’t enough women to buy the number of products produced and what people are willing to spend on clothing varies drastically.
 
 We predict that the gap separating the winners and losers in retail will start to widen even further, with 2019 seeing some large high profile casualties or much-needed consolidation. The winners will be those that clearly understand their customer, have excellent product and a value proposition that resonates. Although everyone understands the value of good structured data, the winners start to capitalise on that to surge ahead. In short, [data-driven retailers](https://www.youtube.com/watch?v=FxKrRJhkVyA&t=2s) will succeed over gut retailers. 
 
-## Customer Experiences Take A Leap
+## 3) Customer Experiences Take A Leap
 
 2018 saw some great progress where brands focussed on [improving customer experiences](https://www.youtube.com/watch?v=_y_njgfUdbg&t=4s), but it fell short of where we believe retail is truly heading.
 
@@ -37,7 +37,7 @@ Rather than playing at the edges, we predict 2019 will see the launch of the fir
 
 In stores we’ll see an increase in real-time context assistance for customers, helping to guide and educate them better as they shop. Online, we’ll see properly tailored experiences and truly relevant content in marketing material such as emails.
 
-## No Hiding From Sustainability
+## 4) No Hiding From Sustainability
 
 With mounting pressure from the government and consumers alike, retailers will be forced to look more seriously at their impact on people and the environment, building genuine purpose-driven initiatives into their businesses. We’ll see more retailers offering customer initiatives (e.g. & Other Stories’ 10% discount for customers who recycle beauty packaging and textiles in their stores), and using more recycled materials in their products (e.g. Adidas).
 
