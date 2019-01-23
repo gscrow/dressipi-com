@@ -1,9 +1,13 @@
 ---
-title: The Year Retail Steps Up
+title: The Year for Retail to Step Up
 date: 2019-01-23 12:25:00 Z
 author: Philippa Mew
 download: Five Things Every Retailer Should Know About Personalisation
 ---
+
+We take a look at our top predictions in the world of retail for 2019.
+
+# The Year for Retail to Step Up
 
 2018 was undoubtedly a tough year for retail and one that will be remembered for many years to come. 
 
