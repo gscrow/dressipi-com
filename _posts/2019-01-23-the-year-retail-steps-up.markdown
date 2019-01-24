@@ -25,7 +25,7 @@ The purpose of this piece is not to dwell on the past but rather [look to the fu
 
 ## 1) There’s More In-Store
 
-An average of [20% of retail sales](https://www.ons.gov.uk/businessindustryandtrade/retailindustry/timeseries/j4mc/drsi) are done online, so you do the maths - 80% of transactions still happen in bricks and mortar stores. Although this channel shift will continue, the rate of online growth is slowing so the mix of online purchases is unlikely to be significantly higher. 
+An average of [20% of retail sales](https://www.ons.gov.uk/businessindustryandtrade/retailindustry/timeseries/j4mc/drsi) are done online, so you do the maths - 80% of transactions still happen in bricks and mortar stores. Although this channel shift will continue, the rate of online growth is slowing so the mix of online purchases is unlikely to be significantly higher that an average of 20.9% by the end of 2019 (Mintel). 
 
 We believe 2019 will see an increase in availability and [popularity of self-checkouts](https://dressipi.com/blog/zaras-self-service-check-out-highlights-a-stronger-focus-on-creating-better-in-store-customer-experiences/), alongside a greater roll-out of technology to solve in-store issues such as queuing.
 
