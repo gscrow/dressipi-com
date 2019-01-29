@@ -75,13 +75,10 @@ sections:
   handle: clients
   clients:
   - John Lewis
-  - Littlewoods
   - Topshop
-  - very
   - Wallis
   - The Modist
   - JD Williams
-  - Very
   - Evans
 layout: index
 ---
