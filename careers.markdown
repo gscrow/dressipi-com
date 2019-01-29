@@ -27,7 +27,7 @@ sections:
     matches customers with products and experiences to influence behavior at scale.
     \n\nBacked by a great group of investors, Dressipi is trusted to deliver real
     impact to the bottom line for some of the largest retailers including John Lewis,
-    Arcadia Group, Shop Direct and others."
+    Arcadia Group and others."
 - title: Join our Team
   handle: join
   body: Multi award winning and working on ground-breaking technology which is having
@@ -64,4 +64,3 @@ sections:
 '
 layout: careers
 ---
-
