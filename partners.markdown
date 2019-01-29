@@ -47,12 +47,10 @@ sections:
   handle: call-to-action
   clients:
   - John Lewis
-  - Littlewoods
   - Topshop
   - The Modist
   - Wallis
   - JD Williams
-  - Very
   - Evans
 layout: partners
 ---
