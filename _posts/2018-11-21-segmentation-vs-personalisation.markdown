@@ -2,24 +2,23 @@
 title: Segmentation vs Personalisation
 date: 2018-11-21 14:32:00 Z
 tags:
-  - one to one personalisation
-  - personalisation
-  - how to create a personalised shopping experience
-  - segmentation
-  - segmentation vs personalisation
-  - retail technology
-  - retail
-  - fashion technology
-  - better customer service
-  - retail innovation
-  - innovation
-  - future of retail
-  - customer experience
-  - true personalisation
+- one to one personalisation
+- personalisation
+- how to create a personalised shopping experience
+- segmentation
+- segmentation vs personalisation
+- retail technology
+- retail
+- fashion technology
+- better customer service
+- retail innovation
+- innovation
+- future of retail
+- customer experience
+- true personalisation
 image: "/uploads/rawpixel-1080873-unsplash%20(1).jpg"
 author: Donna North
-description:
-  How best to target customers and deliver products and experiences that
+description: How best to target customers and deliver products and experiences that
   are truly relevant to them is a hotly debated topic. Dressipi's Co-Founder Donna
   North looks at Segmentation vs Personalisation, and why the latter will soon become
   the norm.
