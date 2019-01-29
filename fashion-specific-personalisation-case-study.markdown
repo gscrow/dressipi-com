@@ -13,7 +13,7 @@ header:
     url: "#download"
   hero-image: "/uploads/banner_sdg_withlogo_wallis.jpg"
 is-landing-page: true
-downloads: Personalising the Entire Customer Experience for Shop Direct
+downloads: Delivering One-to-One Personalisation for Wallis
 description: Dressipi is the global leader in Fashion-Specific Personalisation. We
   give each customer their own tailored shopping experience online and instore, enabling
   retailers to match customers with products and experiences to influence buying behaviour
