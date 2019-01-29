@@ -11,17 +11,17 @@ header:
   button:
     copy: Download Case Study
     url: "#download"
-  hero-image: "/uploads/banner_sdg_withlogo.jpg"
+  hero-image: "/uploads/banner_sdg_withlogo_wallis.jpg"
 is-landing-page: true
-downloads: Personalising the Entire Customer Experience for Shop Direct
+downloads: Delivering One-to-One Personalisation for Wallis
 description: Dressipi is the global leader in One to One Personalisation. We give
   each customer their own tailored shopping experience online and instore, enabling
   retailers to match customers with products and experiences to influence buying behaviour
   at scale.
 ---
 
-## Download our free case study ‘Personalising the Entire Customer Experience for Shop Direct’ to learn:
+## Download our free case study ‘How Wallis Benefited from Dressipi’s Personalisation Solutions’ to learn:
 
-* The main drivers behind Shop Direct’s decision to partner with Dressipi
-* How Dressipi has helped Shop Direct deliver personalisation to every customer
-* Insights into the positive results of the partnership
+* How Dressipi has delivered incremental revenue gains for Wallis
+* How personalisation benefits the customer and Wallis
+* The ease of implementation and positive ROI from the partnership
