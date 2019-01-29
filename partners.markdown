@@ -14,10 +14,8 @@ header:
   width: full
   clients:
   - John Lewis
-  - Littlewoods
   - Topshop
   - Wallis
-  - Very
   - The Modist
   - JD Williams
   - Evans
