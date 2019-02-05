@@ -71,7 +71,7 @@ James Lipscombe, Managing Director and Owner, The Chesterford Group gave us his 
 
 ## To Conclude…
 
-As highlighted by Dr. Tim Denison, Director of Retail Intelligence, Ipsos, *“Technology and retailing are increasingly interlinked.”* There are an overwhelming number of technologies available to retailers - from ways to track footfall to multiple self-service checkout options, no wonder they struggle deciding which ones to pick. 
+As highlighted by Dr. Tim Denison, Director of Retail Intelligence, [Ipsos](https://www.ipsos-retailperformance.com/), *“Technology and retailing are increasingly interlinked.”* There are an overwhelming number of technologies available to retailers - from ways to track footfall to multiple self-service checkout options, no wonder they struggle deciding which ones to pick. 
 
 Ultimately retailers need to take a step back and think about the experience the customer wants when they walk into a store, and if the technology chosen achieves this whilst providing value to the business. 
 
