@@ -37,7 +37,7 @@ An increasing number of luxury retailers are partnering with specialists such as
 For their newest partnership, reported in [Drapers](https://www.drapersonline.com/7034588.article?utm_source=newsletter&utm_medium=email&utm_campaign=DR_EditorialNewsletters.Reg:%20Send%20-%20Daily%20News&mkt_tok=eyJpIjoiTXpGbFpqZ3pOamMyTkRCaiIsInQiOiJpVkRJN2JxekFDU3lDeEpOT1doYnVCQmw5bmYrNmpcL1ZLOERjcWw5bERldmNkdWg4ZXVHc2lkKzhKRlpxQklkQ0NlekdZT0kxVG5WaDRFXC9SR1p4OUxmK1wvMzlCZm9vVmtSeFBqVEk4ZlRPSFdyK2JBdkJLQ2NDQzZyM1Q2MGRWcCJ9), *“Harrods is teaming up with Farfetch to provide its new global ecommerce platform from next year.”* Harrods’ new and improved website will be operational from 2020 and will be using components of [Farfetch Black & White Solutions](https://aboutfarfetch.com/about/black-white/). These solutions are for luxury fashion brands and retailers: 
 
 * Delivering a global, multi-channel ecommerce offering that enables retailers and brands to seamlessly interact with their consumers
-* Allowing them to focus on the creative aspects of their businesses
+* Allowing them to focus on the creative aspects of their [businesses](https://docs.google.com/document/d/1h73LvF2n3YWSWOnME7DyDjtyDbvwwCve9Dxbc31luCY/edit)
 
 Reported in [Fashion United](https://fashionunited.uk/news/retail/harrods-partners-up-with-farfetch-on-new-e-commerce-platform/2019022641787), *“Black & White Solutions will provide Harrods with e-commerce management, operations support, international logistics support, and technical support, allowing the company to focus on the “creative” parts of the business, such as marketing, brand relationship, product strategy, editorial content, and customer service.”*
 
