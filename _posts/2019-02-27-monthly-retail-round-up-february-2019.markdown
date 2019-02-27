@@ -37,7 +37,7 @@ An increasing number of luxury retailers are partnering with specialists such as
 For their newest partnership, reported in [Drapers](https://www.drapersonline.com/7034588.article?utm_source=newsletter&utm_medium=email&utm_campaign=DR_EditorialNewsletters.Reg:%20Send%20-%20Daily%20News&mkt_tok=eyJpIjoiTXpGbFpqZ3pOamMyTkRCaiIsInQiOiJpVkRJN2JxekFDU3lDeEpOT1doYnVCQmw5bmYrNmpcL1ZLOERjcWw5bERldmNkdWg4ZXVHc2lkKzhKRlpxQklkQ0NlekdZT0kxVG5WaDRFXC9SR1p4OUxmK1wvMzlCZm9vVmtSeFBqVEk4ZlRPSFdyK2JBdkJLQ2NDQzZyM1Q2MGRWcCJ9), *“Harrods is teaming up with Farfetch to provide its new global ecommerce platform from next year.”* Harrods’ new and improved website will be operational from 2020 and will be using components of [Farfetch Black & White Solutions](https://aboutfarfetch.com/about/black-white/). These solutions are for luxury fashion brands and retailers: 
 
 * Delivering a global, multi-channel ecommerce offering that enables retailers and brands to seamlessly interact with their consumers
-* Allowing them to focus on the creative aspects of their [businesses](https://docs.google.com/document/d/1h73LvF2n3YWSWOnME7DyDjtyDbvwwCve9Dxbc31luCY/edit)
+* Allowing them to focus on the creative aspects of their businesses
 
 Reported in [Fashion United](https://fashionunited.uk/news/retail/harrods-partners-up-with-farfetch-on-new-e-commerce-platform/2019022641787), *“Black & White Solutions will provide Harrods with e-commerce management, operations support, international logistics support, and technical support, allowing the company to focus on the “creative” parts of the business, such as marketing, brand relationship, product strategy, editorial content, and customer service.”*
 
@@ -47,8 +47,8 @@ If a customer isn’t able to be at home to receive a delivery it's frustrating 
 
 [Amazon Key](https://www.digitaltrends.com/home/what-is-amazon-key/) was launched last year which lets a delivery person enter your house and drop the parcel inside safely through installing smart locks and cameras. The most recent developments this month for Amazon delivery are:
 
-* Reported in [Retail Gazette](https://www.retailgazette.co.uk/blog/2019/02/amazon-soon-deliver-packages-daily-bus/), “Amazon customers could soon be able to collect their packages from public transport vehicles they use on their daily commute.”
-* Reported in [Retail Gazette](https://www.retailgazette.co.uk/blog/2019/01/amazon-launches-autonomous-scout-delivery-robot/), “Amazon has launched an autonomous delivery robot called Amazon Scout and will begin testing the device near its headquarters in Seattle.”
+* Reported in [Retail Gazette](https://www.retailgazette.co.uk/blog/2019/02/amazon-soon-deliver-packages-daily-bus/), *“Amazon customers could soon be able to collect their packages from public transport vehicles they use on their daily commute.”*
+* Reported in [Retail Gazette](https://www.retailgazette.co.uk/blog/2019/01/amazon-launches-autonomous-scout-delivery-robot/), *“Amazon has launched an autonomous delivery robot called Amazon Scout and will begin testing the device near its headquarters in Seattle.”*
 
 Similarly to all the February Monthly Retail Round-Up stories, Amazon is trying to [improve customer experience](https://dressipi.com/solutions/customer-experience/) and they have chosen to do this through experimenting with delivery ideas.
 
