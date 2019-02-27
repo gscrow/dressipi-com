@@ -47,8 +47,8 @@ If a customer isn’t able to be at home to receive a delivery it's frustrating 
 
 [Amazon Key](https://www.digitaltrends.com/home/what-is-amazon-key/) was launched last year which lets a delivery person enter your house and drop the parcel inside safely through installing smart locks and cameras. The most recent developments this month for Amazon delivery are:
 
-* Reported in [Retail Gazette](https://www.retailgazette.co.uk/blog/2019/02/amazon-soon-deliver-packages-daily-bus/), *“Amazon customers could soon be able to collect their packages from public transport vehicles they use on their daily commute.”*
-* Reported in [Retail Gazette](https://www.retailgazette.co.uk/blog/2019/01/amazon-launches-autonomous-scout-delivery-robot/), *“Amazon has launched an autonomous delivery robot called Amazon Scout and will begin testing the device near its headquarters in Seattle.”*
+* Reported in [Retail Gazette](https://www.retailgazette.co.uk/blog/2019/02/amazon-soon-deliver-packages-daily-bus/), “Amazon customers could soon be able to collect their packages from public transport vehicles they use on their daily commute.”
+* Reported in [Retail Gazette](https://www.retailgazette.co.uk/blog/2019/01/amazon-launches-autonomous-scout-delivery-robot/), “Amazon has launched an autonomous delivery robot called Amazon Scout and will begin testing the device near its headquarters in Seattle.”
 
 Similarly to all the February Monthly Retail Round-Up stories, Amazon is trying to [improve customer experience](https://dressipi.com/solutions/customer-experience/) and they have chosen to do this through experimenting with delivery ideas.
 
