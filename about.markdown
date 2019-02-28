@@ -146,10 +146,6 @@ sections:
     title: Front End Engineer
     linkedin: https://www.linkedin.com/in/leo-yeung-298434150/
     image: "/uploads/profile_pic.jpg"
-  - name: Maria Dominguez
-    title: Machine Learning Engineer
-    linkedin: https://www.linkedin.com/in/maria-cristina-dominguez-3a09ab106
-    image: "/uploads/Maria_Dominguez.jpg"
   - name: Joe Margrie-Rouse
     title: Data Engineer
     linkedin: https://www.linkedin.com/in/joe-margrie-rouse/
