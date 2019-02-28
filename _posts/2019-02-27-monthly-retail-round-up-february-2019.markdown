@@ -2,19 +2,18 @@
 title: Monthly Retail Round-Up - February 2019
 date: 2019-02-27 15:00:00 Z
 categories:
-  - news
+- news
 tags:
-  - retail
-  - retail news
-  - Amazon
-  - Farfetch
-  - Harrods
-  - Luxury retailer
-  - Virtual fitting room
+- retail
+- retail news
+- Amazon
+- Farfetch
+- Harrods
+- Luxury retailer
+- Virtual fitting room
 image: "/uploads/Feb19%20blog.png"
 author: Georgina Fisher
-description:
-  With lots of news to keep track of, Dressipi brings you this month's
+description: With lots of news to keep track of, Dressipi brings you this month's
   best stories from the world of retail and its supporting industries.
 ---
 
