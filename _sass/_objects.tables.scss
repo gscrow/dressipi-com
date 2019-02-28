@@ -30,11 +30,12 @@ table {
   vertical-align: top;
 }
 
-td > a, li > .web-browser {
+td > a,
+li > .web-browser,
+.anchor-inside-bullet-point {
   text-decoration: none;
-  color: #E81E75;
+  color: #e81e75;
 }
-
 
 .table thead:first-child tr th,
 %table thead:first-child tr th,

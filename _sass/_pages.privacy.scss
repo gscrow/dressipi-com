@@ -1,26 +1,24 @@
 .hero-privacy {
-	.hero__content {
-		max-width: calc-columns-width(7);
+  .hero__content {
+    max-width: calc-columns-width(7);
     @include margin-center;
     @include text-center;
-	}
+  }
 }
 
 .page-content--narrow > h4:first-of-type {
-	margin-bottom: rhythm(4);
-	color: $text-color-soft;
+  margin-bottom: rhythm(4);
+  color: $text-color-soft;
 }
 
 .page-content--narrow > h3 {
-	font-size: 18px;
+  font-size: 18px;
 }
-.hi{
-	margin: 0 0 24px -28px;
-padding: 8px 0 8px 28px;
-border-left: 2px solid #E81E75;
+.hi {
+  margin: 0 0 24px -28px;
+  padding: 8px 0 8px 28px;
+  border-left: 2px solid #e81e75;
 }
-
-
 
 table {
   font-size: ms(-1);
