@@ -1,7 +1,7 @@
 ---
 title: Personalised Email Success with N Brown
 date: 2018-06-05 15:12:00 Z
-position: 3
+position: 2
 resource: Case Studies
 image: "/uploads/JDW_Case_Study_Small_Image.png"
 form:
@@ -10,7 +10,8 @@ form:
   file: "/uploads/A%20Dressipi%20case%20study-N-Brown.pdf"
   checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services
-  linkedin_tracking: 
+  button_class: case-study
+  linkedin_tracking:
 testimonial:
   body: "“One of the most successful parts of our partnership with Dressipi is the
     personalised weekly Style Adviser emails. They consistently outperform our own
