@@ -2,7 +2,7 @@
 title: Five Things Every Retailer Should Know About Personalisation
 date: 2017-08-22 13:19:00 Z
 resource: Whitepapers
-image: "/uploads/Dressipi-Whitepaper-Five-Things-Every-Retailer-Should-Know-About-Personalisation-146d28.pdf"
+image: "/uploads/Five_Things_Whitepaper_small.jpg"
 form:
   title: Download Free Whitepaper
   button: Download Whitepaper
