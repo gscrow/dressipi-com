@@ -6,7 +6,7 @@ image: "/uploads/Five_Things_Whitepaper_small.jpg"
 form:
   title: Download Free Whitepaper
   button: Download Whitepaper
-  file: "/uploads/Dressipi-whitepaper-Five-Things-Every-Retailer-Should-Know-About-Personalisation.pdf"
+  file: "/uploads/Dressipi-Whitepaper-Five-Things-Every-Retailer-Should-Know-About-Personalisation-a8c06d.pdf"
   checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services
   button_class: whitepaper
