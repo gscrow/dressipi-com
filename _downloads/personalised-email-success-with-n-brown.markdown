@@ -11,7 +11,7 @@ form:
   checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services
   button_class: case-study
-  linkedin_tracking:
+  linkedin_tracking: 
 testimonial:
   body: "“One of the most successful parts of our partnership with Dressipi is the
     personalised weekly Style Adviser emails. They consistently outperform our own
