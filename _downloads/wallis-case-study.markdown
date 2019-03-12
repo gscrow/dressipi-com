@@ -1,14 +1,13 @@
 ---
-title: Delivering One-to-One Personalisation for Wallis
+title: Accelerating Wallis to be Truly Predictive
 date: 2018-06-05 14:46:00 Z
 position: 1
-position-list: 1
 resource: Case Studies
 image: "/uploads/Wallis_Small_Case_Study_Image.png"
 form:
   title: Download Free Case Study
   button: Download Case Study
-  file: "/uploads/Dressipi-Case-Study-Delivering-One-to-One-Personalisation-for-Wallis.pdf"
+  file: "/uploads/A%20Dressipi%20case%20study-Wallis.pdf"
   checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services
   button_class: case-study
@@ -24,9 +23,10 @@ testimonial:
     image: "/uploads/Wallis_CS_Image_Partner_Pg.png"
   action: Download Case Study
   class: wallis
+position-list: 1
 ---
 
-# How Wallis Benefited from Dressipi’s Personalisation Solutions
+# How Wallis Benefited from Dressipi’s Fashion Prediction Platform
 
 ## In our free case study you will learn:
 
