@@ -7,10 +7,10 @@ resource: Whitepapers
 image: "/uploads/returns_small.jpg"
 form:
   title: Download Free Whitepaper
+  button: Download Whitepaper
+  file: "/uploads/Dressipi-Whitepaper-How-To-Make-Data-Work-Harder-To-Reduce-Garment-Return-Rates.pdf"
   checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services
-  button: Download Whitepaper
-  file: "/uploads/Whitepaper-How-To-Make-Your-Data-Work-Harder-To-Reduce-Garment-Return-Rates.pdf"
   button_class: whitepaper
   linkedin_tracking: 
 testimonial:
