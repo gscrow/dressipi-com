@@ -82,7 +82,7 @@ sections:
 - title: Case Studies
   handle: cases
   downloads:
-  - Delivering One-to-One Personalisation for Wallis
+  - Accelerating Wallis to be Truly Predictive
   - Personalised Email Success with N Brown
 layout: product
 ---
