@@ -5,10 +5,10 @@ resource: Whitepapers
 image: "/uploads/Biggest_Asset_Whitepaper_small.jpg"
 form:
   title: Download Free Whitepaper
+  button: Download Whitepaper
+  file: "/uploads/Dressipi-Whitepaper-How-Dressipi-Can-Help-Retailers-Transform-Their-Biggest-Asset.pdf"
   checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services
-  button: Download Whitepaper
-  file: "/uploads/Whitepaper-How-Dressipi-Can-Help-Retailers-Transform-Their-Biggest-Asset-913ff1.pdf"
   button_class: whitepaper
   linkedin_tracking: 
 testimonial:
