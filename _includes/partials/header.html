@@ -52,7 +52,7 @@
             </li>
             {% unless page.layout == 'landing'%}
               {% unless page.layout == 'privacy' %}
-            <li class="navigation__item"><a href="/book-a-demo" class="button {% if my_page_url == '' %}button-default{% else %}button-primary{% endif %} navigation__button" title="Book a Demo">Book a Demo</a></li>
+            <li class="navigation__item"><a href="/contact" class="button {% if my_page_url == '' %}button-default{% else %}button-primary{% endif %} navigation__button" title="Let's Talk">Let's Talk</a></li>
             {% endunless %}
             {% endunless %}
           </ul>
@@ -80,7 +80,7 @@
         {% if page.header.body %}
         <div class="header__subtitle">{{ page.header.body | markdownify }}</div>
         {% endif %}
-        {% if my_page_url == 'partners' %}
+        {% if my_page_url == 'clients' %}
         <ul class="client__logos">
         {% assign site_clients = site.clients | sort:'position' %}
         {% for client in site_clients %}

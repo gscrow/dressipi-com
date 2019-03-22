@@ -1,4 +1,4 @@
-.hero-partners {
+.hero-clients {
   .client__logos {
     margin: rhythm(8) 0;
   }
@@ -13,7 +13,7 @@
 }
 
 @include responsive(mobile) {
-  .hero-partners .client__logos {
+  .hero-clients .client__logos {
     margin: rhythm(4) 0;
   }
 }
