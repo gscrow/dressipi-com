@@ -2,24 +2,23 @@
 title: A New Phase of Retail - The Evolution of Bricks & Mortar Retailers
 date: 2018-03-19 10:13:00 Z
 categories:
-  - retail
+- retail
 tags:
-  - one to one personalisation
-  - personalisation
-  - fashion technology
-  - bricks & mortar
-  - instore experience
-  - instore technology
-  - retail technology
-  - retail innovation
-  - true personalisation
-  - retail personalisation
-  - how to create a personalised shopping experience
-  - better customer service
+- one to one personalisation
+- personalisation
+- fashion technology
+- bricks & mortar
+- instore experience
+- instore technology
+- retail technology
+- retail innovation
+- true personalisation
+- retail personalisation
+- how to create a personalised shopping experience
+- better customer service
 image: "/uploads/timothy-muza-572-unsplash.png"
 author: Donna North
-description:
-  Bricks & mortar retailers won't die, they'll evolve. Donna North, Dressipi’s
+description: Bricks & mortar retailers won't die, they'll evolve. Donna North, Dressipi’s
   Co-Founder discuss a new and exciting phase for retail.
 download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---

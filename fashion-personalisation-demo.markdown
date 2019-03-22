@@ -4,8 +4,7 @@ date: 2017-11-08 15:17:00 Z
 position: 27
 header:
   title: The Leaders in Fashion Personalisation
-  body:
-    "## Dressipi is the global leader in Fashion Personalisation. We give each
+  body: "## Dressipi is the global leader in Fashion Personalisation. We give each
     customer their own tailored shopping experience online and instore, enabling retailers
     to match customers with products and experiences to influence buying behaviour
     at scale."
@@ -15,8 +14,7 @@ header:
   hero-image: "/uploads/banner_style-hub.jpg"
 is-landing-page: true
 is-demo-page: true
-description:
-  Dressipi is the global leader in Fashion Personalisation. We give each
+description: Dressipi is the global leader in Fashion Personalisation. We give each
   customer their own tailored shopping experience online and instore, enabling retailers
   to match customers with products and experiences to influence buying behaviour at
   scale.

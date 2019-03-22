@@ -2,13 +2,13 @@
 title: How To Create A Personalised Shopping Experience
 date: 2017-11-28 15:21:00 Z
 categories:
-  - retail
+- retail
 tags:
-  - one to one personalisation
-  - retail personalisation
-  - fashion personalisation
-  - how to create a personalised shopping experience
-  - retail technology
+- one to one personalisation
+- retail personalisation
+- fashion personalisation
+- how to create a personalised shopping experience
+- retail technology
 image: "/uploads/personalised%20shopping%20small.jpg"
 author: Natalie Theo
 description: How To Create A Personalised Shopping Experience
