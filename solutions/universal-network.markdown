@@ -1,8 +1,8 @@
 ---
-title: Data Insight
+title: Universal Network
 position: 1
 header:
-  title: Data Insight
+  title: Universal Network
   body:
     "Dressipi’s Data Insight tools are designed to help retailers understand the
     who, why and what behind key performance metrics. This contributes to a more accurate

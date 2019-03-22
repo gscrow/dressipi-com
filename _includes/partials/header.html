@@ -80,7 +80,7 @@
         {% if page.header.body %}
         <div class="header__subtitle">{{ page.header.body | markdownify }}</div>
         {% endif %}
-        {% if my_page_url == 'partners' %}
+        {% if my_page_url == 'clients' %}
         <ul class="client__logos">
         {% assign site_clients = site.clients | sort:'position' %}
         {% for client in site_clients %}

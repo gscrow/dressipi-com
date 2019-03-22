@@ -1,8 +1,8 @@
 ---
-title: Customer Experience
+title: Predictive Retail
 position: 0
 header:
-  title: Customer Experience
+  title: Predictive Retail
   body:
     "### Greet shoppers personally, showcase their most relevant products and
     demonstrate your interest in assisting them. Dressipi helps the world’s leading
