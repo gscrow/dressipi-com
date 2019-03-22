@@ -1,16 +1,17 @@
 ---
-title: Book a Demo
+title: Let's Talk
 date: 2017-05-06 09:50:00 Z
 position: 12
 header:
   height: tight
-description: Book a demo today to see how Dressipi can provide fashion personalisation
+description:
+  Let's Talk today to see how Dressipi can provide fashion personalisation
   solutions for your business, increasing AOV and decreasing returns.
 form-demo:
   formspree-ID: meajnovm
-  button: Book a Demo
+  button: Let's Talk
   redirect: "/thanks"
-  email_cc: 
+  email_cc:
 width: narrow
 layout: demo
 ---

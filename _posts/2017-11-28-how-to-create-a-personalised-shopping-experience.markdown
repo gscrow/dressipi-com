@@ -2,13 +2,13 @@
 title: How To Create A Personalised Shopping Experience
 date: 2017-11-28 15:21:00 Z
 categories:
-- retail
+  - retail
 tags:
-- one to one personalisation
-- retail personalisation
-- fashion personalisation
-- how to create a personalised shopping experience
-- retail technology
+  - one to one personalisation
+  - retail personalisation
+  - fashion personalisation
+  - how to create a personalised shopping experience
+  - retail technology
 image: "/uploads/personalised%20shopping%20small.jpg"
 author: Natalie Theo
 description: How To Create A Personalised Shopping Experience
@@ -61,6 +61,6 @@ Most importantly, no matter how confident or not a customer may be, Personalisat
 
 > If you are at the beginning of your Personalisation journey and are interested in learning Five Things Every Retailer Should Know About Personalisation, [download our recent whitepaper](https://dressipi.com/downloads/five-things-every-retailer-should-know-about-personalisation-whitepaper/) by Dressipi’s co-founder Donna North.
 
-> Equally, if you are interested in a demo to see how we could provide our Personalisation solutions for you and reduce return rates by 5% percentage points, [book a demo](https://dressipi.com/book-a-demo/) today.
+> Equally, if you are interested in a demo to see how we could provide our Personalisation solutions for you and reduce return rates by 5% percentage points, [let's talk](https://dressipi.com/contact/) today.
 
 Header Photo by Ewan Robertson on Unsplash
