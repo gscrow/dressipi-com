@@ -1,9 +1,9 @@
 ---
 title: Exponea
-date: 2019-03-17 04:24:00 Z
-position: 1
+date: 2019-03-25 11:47:00 Z
 class: exponea
-logo: "/uploads/logo__exponea.png"
-link: 
 ---
 
+
+
+![logo__exponea.png](/uploads/logo__exponea.png)
