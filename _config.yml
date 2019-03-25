@@ -29,6 +29,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  integrations:
+    title: integrations
+    output: true
   test:
     title: test
     output: true
