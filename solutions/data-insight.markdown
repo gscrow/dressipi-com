@@ -1,6 +1,6 @@
 ---
-title: Data Products
-position: 2
+title: Data Insight
+position: 3
 header:
   body:
     "What if you could truly understand each of your customers intimately? The

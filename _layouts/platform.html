@@ -4,6 +4,8 @@ layout: default
 
 {% for section in page.sections %}
 {% assign handle = section.handle %}
+{% assign branch = section.subsections.branch %}
+
 <section  id="{{ handle }}" class="section {% if handle %}{{ section.handle | prepend: 'section-' | append: ' ' }}{% endif %}background--{{ section.color | default:'white' }}">
 	<!-- section heading group -->
   <hgroup class="container gutter section__heading">
@@ -14,11 +16,17 @@ layout: default
 	<!-- section content group -->
   <div class="section__body">
     {% case handle %}
-    {% when 'youtube' %}
+    {% when 'predict-platform' %}
     <div class="video-wrapper">
+      {% if section.description %}<h4>{{ section.description }}</h4>{% endif %}
       <div class="video-responsive">
-        <div class="video yt-about"> <iframe width="560" height="315" src="https://www.youtube.com/embed/GlxD47z8TKU?rel=0&showinfo=0&color=white" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        {% if section.image %}
+        <div class="gutter project__image">
+          <div><!-- keep flex image ratio -->
+            <img src="{{ section.image }}" alt="{{ section.title }}" {% if section.hres-image %}srcset="{{ section.hres-image }} 2x"{% endif %} />
+          </div>
         </div>
+        {% endif %}
       </div>
     </div>
     {% when 'projects' %}
@@ -42,7 +50,12 @@ layout: default
 		      {% endif %}
 		      <div class="gutter project__copy{% if subsection.align == 'top' %}--top{% endif %}">
 		        <h2 class="project__title">{{ subsection.title }}</h2>
-		        <div class="project__body">{{ subsection.description | markdownify }}</div>
+            {% if subsection.branch == 'getting-started' %}
+		        <div class="project__body">{{ subsection.description | markdownify }} {{ content }}</div>
+            {% endif %}
+            {% if subsection.branch == 'platform-integrations' %}
+            <div class="project__body">{{ subsection.description | markdownify }}</div>
+            {% endif %}
 		        {% if subsection.action %}<a href="{{ subsection.action.url }}" class="button button-{{ subsection.action.style | default: 'secondary' }}">{{ subsection.action.copy }}</a>{% endif %}
 		      </div>
 		    </div>

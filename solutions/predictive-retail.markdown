@@ -1,6 +1,6 @@
 ---
 title: Predictive Retail
-position: 0
+position: 1
 header:
   title: Predictive Retail
   body:

@@ -17,24 +17,28 @@ header:
     style: secondary
   hero-image: "/uploads/banner_labs.jpg"
   link:
-    copy: Watch Video
-    url: "#youtube"
+    copy: Learn More
+    url: "#predict-platform"
     color: "#F0F0F0"
 sections:
   - title: The Future of Retail
-    handle: youtube
+    handle: predict-platform
+    description: |-
+      The Dressipi Engine is the core of the platform and has been built with scale and computational speed at top of mind. As soon as data enters the engine, it begins building models representing customer preferences, behaviour, and future buying patterns. At any given time, the Dressipi Engine can process hundreds of millions of data points for analysis.
+
+    image: "/uploads/predictive-platform-img.png"
+
   - title: Our Projects
     handle: projects
     subsections:
-      - title: Portable & Connected (PAC)
+      - title: Getting Started
+        branch: getting-started
         description: |-
-          PAC is an ambitious project that creates a new personalisation experience instore and centralises a customer's data from across channels and retailers in a single place.
+          Having worked with leading retailers for a number of years, Dressipi understands that any technology you consider needs to be easy to implement and demonstrate success quickly, which is why the open Fashion Prediction Platform wraps around your existing infrastructure to improve ROI from all platforms.
 
-          We are working with three of our retail partners to make the shopping experience better by offering advice and recommendations aligned with how the customer wants to shop.
-
-          This improves revenues for retailers by a considerable advancement in the quality of predictions of what a shopper is most likely to buy and keep.
         video: https://www.youtube.com/embed/zk-K1dM1rrI?rel=0&showinfo=0&color=white
-      - title: Predictive Retailing
+      - title: Current Platform Integrations
+        branch: platform-integrations
         description:
           "For the first time ever, Dressipi is allowing retailers to connect
           actual customer & visitor profile data with actual garment data (at the feature
@@ -44,5 +48,21 @@ sections:
           to better predict how they should respond to key trends, key pieces and how
           they benchmark against their peers."
         image: "/uploads/labs_predictive-retailing@2x.png"
-layout: labs
+        integrations:
+          - IBM
+          - Exponea
+          - Ometria
+          - Sales Force
+          - Sap Hybris
+layout: platform
 ---
+
+All we need from you is:
+
+- Transaction data
+- Product feed
+- Add some tags to your pages
+
+Dressipi then sends you their APIs and you're good to go!
+
+<a href="/contact" class="button button--large button-primary" title="">{{ site.form-demo.button }}</a>
