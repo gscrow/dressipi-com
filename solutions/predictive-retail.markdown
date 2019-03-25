@@ -1,6 +1,6 @@
 ---
 title: Predictive Retail
-position: 0
+position: 1
 header:
   title: Predictive Retail
   body: "### Greet shoppers personally, showcase their most relevant products and
