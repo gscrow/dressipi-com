@@ -29,7 +29,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-  integrations:
+  test:
     title: integrations
     output: true
 defaults:
