@@ -32,9 +32,6 @@ collections:
   integrations:
     title: integrations
     output: true
-  test:
-    title: test
-    output: true
 defaults:
 - scope:
     path: ''
