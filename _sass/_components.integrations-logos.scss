@@ -1,0 +1,9 @@
+ul {
+  .integration__logo {
+    width: 100px;
+
+    &:before {
+      display: none;
+    }
+  }
+}
