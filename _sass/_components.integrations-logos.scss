@@ -1,9 +1,27 @@
-ul {
-  .integration__logo {
+.integration {
+  &__logos {
+    @include flexbox;
+    @include flex-wrap(wrap);
+    @include justify-content(center);
+    @include align-items(center);
+  }
+
+  &__logo {
     width: 100px;
+    margin-right: 48px !important;
 
     &:before {
       display: none;
+    }
+  }
+}
+
+// mobile responsive styles
+@include responsive(mobile) {
+  .client {
+    &__logo {
+      text-align: center;
+      flex-basis: 100%;
     }
   }
 }
