@@ -47,9 +47,7 @@ sections:
       to better predict how they should respond to key trends, key pieces and how
       they benchmark against their peers."
     image: "/uploads/labs_predictive-retailing@2x.png"
-    test:
-    - IBm
-    - Exponea
+    integrations: IBM
 layout: platform
 ---
 
