@@ -48,8 +48,8 @@ sections:
       they benchmark against their peers."
     image: "/uploads/labs_predictive-retailing@2x.png"
     integrations:
-    - IBM
     - Exponea
+    - IBM
     - Ometria
     - Sales Force
     - Sap Hybris
