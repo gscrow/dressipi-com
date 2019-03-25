@@ -47,12 +47,6 @@ sections:
       to better predict how they should respond to key trends, key pieces and how
       they benchmark against their peers."
     image: "/uploads/labs_predictive-retailing@2x.png"
-    integrations:
-    - Exponea
-    - IBM
-    - Ometria
-    - Sales Force
-    - Sap Hybris
 layout: platform
 ---
 

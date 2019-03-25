@@ -29,9 +29,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-  integrations:
-    title: integrations
-    output: true
 defaults:
 - scope:
     path: ''
