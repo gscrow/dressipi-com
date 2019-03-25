@@ -17,9 +17,9 @@ layout: default
   <div class="section__body">
     {% case handle %}
     {% when 'predict-platform' %}
-    <div class="video-wrapper">
-      {% if section.description %}<h4>{{ section.description }}</h4>{% endif %}
-      <div class="video-responsive">
+    <div class="img-wrapper">
+      {% if section.description %}<p class="project__body">{{ section.description }}</p>{% endif %}
+      <div class="img-responsive">
         {% if section.image %}
         <div class="gutter project__image">
           <div><!-- keep flex image ratio -->
