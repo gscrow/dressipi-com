@@ -19,7 +19,8 @@ description: Dressipi is the leader in fashion personalisation, increasing AOV a
 has-demo-section: true
 sections:
 - title: Trusted by Leading Brands
-  subtitle: Dressipi delivers unbeatable revenue growth to some of the UK's biggest retailers
+  subtitle: Dressipi delivers unbeatable revenue growth to some of the UK's biggest
+    retailers
   handle: clients
   clients:
   - John Lewis
@@ -52,24 +53,31 @@ sections:
   color: light-grey
   subsections:
   - title: Predictive Retail
-    body: "Dressipi's fashion-specific AI and algorithms understand each of your customers intimately and deliver
-      best in class recommendations and prediction scores across the entire customer journey. Retailers can be more profitable, more customer-centric and more efficient. "
+    body: 'Dressipi''s fashion-specific AI and algorithms understand each of your
+      customers intimately and deliver best in class recommendations and prediction
+      scores across the entire customer journey. Retailers can be more profitable,
+      more customer-centric and more efficient. '
     action:
       copy: Learn More
       url: "/solutions/predictive-retail"
     image: "/uploads/home_recommendations-screen.png"
     hres-image: "/uploads/home_recommendations-screen@2x.png"
   - title: Universal Network
-    body: 'An industry first, the Universal Network is an application at the epicentre of digital innovation. It
-      allows for the collaboration and connection of data across all participating retailers and channels, delivering more data, better customer experiences and even better results. '
+    body: 'An industry first, the Universal Network is an application at the epicentre
+      of digital innovation. It allows for the collaboration and connection of data
+      across all participating retailers and channels, delivering more data, better
+      customer experiences and even better results. '
     image: "/uploads/home_data-insights.png"
     hres-image: "/uploads/home_data-insights@2x.png"
     action:
       copy: Learn More
       url: "/solutions/universal-network/"
   - title: Data Insight
-    body: "Dressipi's Fashion Prediction Platform is based on the biggest and most accurate dataset in the retail
-      industry, powering billions of product and outfit predictions. Access to a unique database of over 5 million connected fashion customers and proprietary product enrichment data leads to better-informed decisions to supply matching, merchandising and acquisition."
+    body: Dressipi's Fashion Prediction Platform is based on the biggest and most
+      accurate dataset in the retail industry, powering billions of product and outfit
+      predictions. Access to a unique database of over 5 million connected fashion
+      customers and proprietary product enrichment data leads to better-informed decisions
+      to supply matching, merchandising and acquisition.
     action:
       copy: Learn More
       url: "/solutions/data-insight/"
@@ -89,3 +97,4 @@ sections:
   - Long Tall Sally
 layout: index
 ---
+
