@@ -31,6 +31,8 @@ sections:
   - Evans
   - River Island
   - Long Tall Sally
+- title: The Value Dressipi Unlocks For Retailers
+  handle: youtube
 - title: Results
   subtitle: What You Can Expect
   handle: benefits
@@ -45,8 +47,6 @@ sections:
     copy: Let's Talk
     url: "/contact"
     style: primary
-- title: The Value Dressipi Unlocks For Retailers
-  handle: youtube
 - title: Solutions
   subtitle: Online, Mobile, In Store
   handle: features
@@ -85,4 +85,3 @@ sections:
     hres-image: "/uploads/home_style-hub@2x.png"
 layout: index
 ---
-
