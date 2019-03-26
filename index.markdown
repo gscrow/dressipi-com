@@ -18,6 +18,18 @@ description: Dressipi is the leader in fashion personalisation, increasing AOV a
   decreasing returns. Click here and learn what benefits it could bring to your business.
 has-demo-section: true
 sections:
+- title: Trusted by Leading Brands
+  subtitle: Dressipi delivers unbeatable revenue growth to some of the UK's biggest retailers
+  handle: clients
+  clients:
+  - John Lewis
+  - Topshop
+  - Wallis
+  - The Modist
+  - JD Williams
+  - Evans
+  - River Island
+  - Long Tall Sally
 - title: Results
   subtitle: What You Can Expect
   handle: benefits
