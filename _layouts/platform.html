@@ -17,17 +17,15 @@ layout: default
   <div class="section__body">
     {% case handle %}
     {% when 'predict-platform' %}
-    <div class="img-wrapper">
+    <div class="container">
       {% if section.description %}<p class="project__body">{{ section.description }}</p>{% endif %}
-      <div class="img-responsive">
-        {% if section.image %}
-        <div class="gutter project__image">
-          <div><!-- keep flex image ratio -->
-            <img src="{{ section.image }}" alt="{{ section.title }}" {% if section.hres-image %}srcset="{{ section.hres-image }} 2x"{% endif %} />
-          </div>
+      {% if section.image %}
+      <div class="gutter project__image">
+        <div><!-- keep flex image ratio -->
+          <img src="{{ section.image }}" alt="{{ section.title }}" {% if section.hres-image %}srcset="{{ section.hres-image }} 2x"{% endif %} />
         </div>
-        {% endif %}
       </div>
+      {% endif %}
     </div>
     {% when 'projects' %}
 		<div class="projects">
@@ -38,13 +36,6 @@ layout: default
 		      <div class="gutter project__image">
 						<div><!-- keep flex image ratio -->
               <img src="{{ subsection.image }}" alt="{{ subsection.title }}" {% if subsection.hres-image %}srcset="{{ subsection.hres-image }} 2x"{% endif %} />
-            </div>
-		      </div>
-		      {% endif %}
-          {% if subsection.video %}
-		      <div class="gutter project__image">
-						<div><!-- keep flex image ratio -->
-              <iframe width="484" height="270" src="{{ subsection.video }}" frameborder="0" allowfullscreen></iframe>
             </div>
 		      </div>
 		      {% endif %}

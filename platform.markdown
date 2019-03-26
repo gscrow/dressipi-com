@@ -27,26 +27,24 @@ sections:
     and future buying patterns. At any given time, the Dressipi Engine can process
     hundreds of millions of data points for analysis.
   image: "/uploads/predictive-platform-img.png"
-- title: Our Projects
+- title: Getting Started
   handle: projects
   subsections:
-  - title: Getting Started
+  - title:
     branch: getting-started
     description: Having worked with leading retailers for a number of years, Dressipi
       understands that any technology you consider needs to be easy to implement and
       demonstrate success quickly, which is why the open Fashion Prediction Platform
       wraps around your existing infrastructure to improve ROI from all platforms.
-    video: https://www.youtube.com/embed/zk-K1dM1rrI?rel=0&showinfo=0&color=white
-  - title: Current Platform Integrations
+    video:
+
+- title: Current Platform Integrations
+  handle: projects
+  subsections:
+  - title:
     branch: platform-integrations
-    description: "For the first time ever, Dressipi is allowing retailers to connect
-      actual customer & visitor profile data with actual garment data (at the feature
-      level). \n\nThis will take us from a world of reactive and gut-based retailing
-      to a more informed, [data-driven world of predictive retailing](https://dressipi.com/solutions/data-insight/).
-      This does not distract from creativity and new trends but allows each retailer
-      to better predict how they should respond to key trends, key pieces and how
-      they benchmark against their peers."
-    image: "/uploads/labs_predictive-retailing@2x.png"
+    description: "Dressipi integrates seamlessly with many widely used platforms."
+    image:
     integrations:
     - Exponea
     - Ometria
