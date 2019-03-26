@@ -46,40 +46,33 @@ sections:
     style: primary
 - title: The Value Dressipi Unlocks For Retailers
   handle: youtube
-- title: Our Solutions
+- title: Solutions
   subtitle: Online, Mobile, In Store
   handle: features
   color: light-grey
   subsections:
-  - title: Customer Experience
-    body: 'Captivate shoppers, boost conversion and increase customer lifetime value.
-      Dressipi makes it easy for retailers to give every customer their own personal
-      shopping journey by showing personalised product, outfit and size recommendations,
-      in real time and across every channel. '
+  - title: Predictive Retail
+    body: "Dressipi's fashion-specific AI and algorithms understand each of your customers intimately and deliver
+      best in class recommendations and prediction scores across the entire customer journey. Retailers can be more profitable, more customer-centric and more efficient. "
     action:
       copy: Learn More
-      url: "/solutions/customer-experience/"
+      url: "/solutions/predictive-retail"
     image: "/uploads/home_recommendations-screen.png"
     hres-image: "/uploads/home_recommendations-screen@2x.png"
-  - title: Data Insight
-    body: 'Simplify the complexity of product assortment and inventory by making a
-      move to more predictive retailing. Dressipi turns complex customer, garment
-      and behavioural data into actionable insights that can quickly be used to make
-      better decisions and optimise future demand requirements. '
+  - title: Universal Network
+    body: 'An industry first, the Universal Network is an application at the epicentre of digital innovation. It
+      allows for the collaboration and connection of data across all participating retailers and channels, delivering more data, better customer experiences and even better results. '
     image: "/uploads/home_data-insights.png"
     hres-image: "/uploads/home_data-insights@2x.png"
     action:
       copy: Learn More
-      url: "/solutions/data-insight/"
-  - title: Innovation
-    body: Dressipi’s technology is built on proprietary algorithms built by one of
-      the most talented teams of technologists, data scientists and stylists in fashion
-      retail.  It uses the latest advances in Machine Learning and AI alongside the
-      largest set of product style, fit and preference data available in the world
-      today.
+      url: "/solutions/universal-network/"
+  - title: Data Insight
+    body: "Dressipi's Fashion Prediction Platform is based on the biggest and most accurate dataset in the retail
+      industry, powering billions of product and outfit predictions. Access to a unique database of over 5 million connected fashion customers and proprietary product enrichment data leads to better-informed decisions to supply matching, merchandising and acquisition."
     action:
       copy: Learn More
-      url: "/solutions/innovation/"
+      url: "/solutions/data-insight/"
     image: "/uploads/home_style-hub.png"
     hres-image: "/uploads/home_style-hub@2x.png"
 - title: Happy Clients
@@ -96,4 +89,3 @@ sections:
   - Long Tall Sally
 layout: index
 ---
-
