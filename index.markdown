@@ -83,18 +83,6 @@ sections:
       url: "/solutions/data-insight/"
     image: "/uploads/home_style-hub.png"
     hres-image: "/uploads/home_style-hub@2x.png"
-- title: Happy Clients
-  subtitle: Use Dressipi to Personalise the Entire Customer Experience
-  handle: clients
-  clients:
-  - John Lewis
-  - Topshop
-  - Wallis
-  - The Modist
-  - JD Williams
-  - Evans
-  - River Island
-  - Long Tall Sally
 layout: index
 ---
 
