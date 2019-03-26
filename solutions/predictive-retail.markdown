@@ -59,24 +59,6 @@ sections:
       based or triggered based on activity.  '
     image: "/uploads/recommendations_email.png"
     hres-image: "/uploads/recommendations_email@2x.png"
-  - title: Landing & Content Pages
-    body: Match any keyword or promotional theme to create a personalised alternative
-      for every campaign.
-    image: "/uploads/recommendations_landing.png"
-    hres-image: "/uploads/recommendations_landing@2x.png"
-  - title: Amiya – Stylebot
-    body: The future of search and the first step towards voice based recommendations.
-      Amiya, our Style Bot is on hand to answer individual customer questions such
-      as “I'm going to a smart, city wedding, what should I wear?”
-    image: "/uploads/recommendations_style-bot.png"
-    hres-image: "/uploads/recommendations_style-bot@2x.png"
-  - title: Style Hub
-    body: 'Enable your customers to have their fashion life in a central place and
-      recreate the one-to-one touch of your best personal stylist. The Style Hub showcases
-      new and context relevant products (Personal Daily Picks), helps customers easily
-      buy new products to go with those they already own (Wardrobe) and stores all
-      their inspiration (Saved Outfits & Likes) and preferences (Fashion Fingerprint). '
-    image: "/uploads/style-hub_wardrobe.png"
 - title: Key Benefits
   handle: benefits
   subsections:
@@ -102,4 +84,3 @@ sections:
   - Personalised Email Success with N Brown
 layout: product
 ---
-
