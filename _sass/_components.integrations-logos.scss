@@ -4,11 +4,13 @@
     @include flex-wrap(wrap);
     @include justify-content(center);
     @include align-items(center);
+    padding-left: 8% !important;
   }
 
   &__logo {
     width: 15%;
-    margin-right: 48px !important;
+    margin-right: 120px !important;
+    min-width: 120px;
 
     &:before {
       display: none;
@@ -17,11 +19,22 @@
 }
 
 // mobile responsive styles
+
+@include responsive(tablet) {
+  .integration {
+    &__logo {
+      width: 22%;
+      margin-bottom: 35px !important;
+    }
+  }
+}
+
 @include responsive(mobile) {
   .client {
     &__logo {
       text-align: center;
       flex-basis: 100%;
+      margin-right: 65px !important;
     }
   }
 }
