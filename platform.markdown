@@ -50,6 +50,7 @@ sections:
     - Sap Hybris
     - Sales Force
     - IBM
+    - Astound
 layout: platform
 ---
 
