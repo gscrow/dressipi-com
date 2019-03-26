@@ -19,18 +19,19 @@ description: Dressipi Labs is a source of constant innovation in fashion retail 
   tools for customers and retailers in the near future.
 has-demo-section: true
 sections:
-- title: Future-proof Your Business
+- title: Reactive to Predictive Retailing
   handle: intro
   width: narrow
-  body: "> With technology developed by one of the most [talented teams](https://dressipi.com/about/)
-    of technologists, data scientists and stylists, Dressipi has built one of the
-    most advanced personalised solutions available for fashion retail today. \n\nDressipi
-    uses the latest advances in Machine Learning and AI alongside the largest set
-    of product fit and style data available in the world. \n\nInnovation and adaptability
-    are key. Our solution is an ensemble of algorithms that we constantly evolve by
-    integrating newly discovered methods along with our proprietary algorithms. This
-    future-proofs a retailer’s personalisation roadmap and reflects how fashion and
-    customer requirements evolve over time."
+  body: "> Dressipi's Fashion Prediction Platform is based on the biggest and most
+    accurate customer and garment dataset in the industry, powering billions of product
+    and outfit predictions every year. \n\nWith the wealth of data provided from using
+    Dressipi's platform, retailers can begin to move from reactive to predictive retailing.
+    This contributes to:\n- A more accurate model for future buying\n- Honing expert
+    gut instincts \n- Contributing additional insight into existing merchandising
+    tools to deliver higher sell-through rates and lower markdowns.\n\nThis does not
+    distract from creativity and new trends but allows each retailer to better predict
+    how they should respond to key trends, key pieces and how they benchmark against
+    their peers."
 - title: Key Features
   handle: features
   color: light-grey
