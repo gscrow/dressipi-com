@@ -12,6 +12,9 @@ header:
   button:
     copy: Let's Talk
     url: "/contact"
+  link:
+    copy: Watch Video
+    url: "#youtube"
   hero-image: "/uploads/banner_style-hub.jpg"
   color: white
 description: Dressipi Labs is a source of constant innovation in fashion retail personalisation.
