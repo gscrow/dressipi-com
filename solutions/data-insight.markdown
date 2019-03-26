@@ -35,53 +35,37 @@ sections:
     distract from creativity and new trends but allows each retailer to better predict
     how they should respond to key trends, key pieces and how they benchmark against
     their peers."
+- title: Why Personalisation Is Hard To Achieve
+  handle: youtube
 - title: Key Features
   handle: features
   color: light-grey
   subsections:
-  - title: The Dressipi Engine
-    body: "The Dressipi Engine is the core of the platform. It has been built with
-      scale and computational speed at top of mind. As soon as data enters the engine,
-      it begins building models representing customer preferences, behaviour, and
-      future buying patterns. \n\nAt any given time, the Dressipi Engine can process
-      hundreds of millions of data points for analysis. The more data, the better
-      the signal we receive. \n\nOur machine learning technology continuously evaluates
-      the performance of our recommendations to select the most effective algorithms
-      for every customer at every given time. And, while other providers rely on telling
-      customers \"people like you also like this\", Dressipi presents more helpful
-      and fashion specific advice such as \"This fit & flare style is a must have
-      dress for you and will work well worn with your biker jacket\".\n"
-  - title: 'API '
-    body: In addition to our base solutions the Dressipi platform has a flexible API
-      to feed data and recommendations into existing platforms and solutions, giving
-      retailers complete flexibility and differentiation over how they present a fully
-      personalised customer experience. Built to accept any data sources and integration
-      with future applications such as AR and VR.
+  - title: Customer Data
+    body: "Dressipi has a proven methodology for capturing high volumes of fashion-specific customer data, giving retailers a deeper understanding of core customers and customer segments across all product sales and returns.\n\nThe unique database of over 5 million connected fashion customers means retailers can see accurate data on attitudes to trends, preferences, lifestyle and where else the customer shops for key wardrobe items along with how their profile attributes shift over time.\n"
+  - title: Garment Data
+    body: "Dressipi's proprietary garment enrichment data created by real stylists is a world first. Each garment receives up to 35 data points which are checked and validated by an in-house stylist team.\n\nThis industry unique way of labelling and cataloguing product streams gives the retailer a useful, data-driven view of all products attributes. It enables the platform to match the right size and fit of each garment to each customer as well as to create automated outfit suggestions in real-time that are personal to every customer."
+  - title: Actionable Insights
+    body: By feeding the garment, customer, purchase and behaviour data back to the retailer, data-driven decision   making can form the foundation of your business driving more efficiencies in buying and merchandising, better customer experiences and less wastage.
 - title: Dressipi's Personalisation Engine
   handle: slide
   width: narrow
   subsections:
-  - body: 
+  - body:
     image: "/uploads/slide_dressipi.png"
     hres-image: "/uploads/slide_dressipi.png"
 - title: Key Benefits
   handle: benefits
   color: light-grey
   subsections:
-  - title: Proven Results
-    body: 30% of visitors opt to create a personal profile and benefit from enhanced
-      recommendations and advice across all brands and channels, however and wherever
-      they choose to shop.
+  - title: Know your Customer
+    body: Truly understand your customer and their shopping and dressing preferences. Receive perfect visibility of the features and styles they love or won’t wear, how confident they are when it comes to dressing or shopping, what they want to add to their wardrobe or the events and occasions they buy for.
     image: "/uploads/icon__results.svg"
-  - title: Customer Centric
-    body: Dressipi aims to solve customer's problems by putting customer needs at
-      the heart in order to deliver a truly personalised experience that delivers
-      great results.
+  - title: Be Smarter
+    body: Drill down to understand which customers or features are causing high sales growth or increasing returns. Use this insight to create products your customers will love in the right quantities.
     image: "/uploads/icon__customer-centric.svg"
-  - title: Data Driven
-    body: Our unique approach combines data captured on the customer as well as on
-      each individual garment. This information is crucial to providing true personalisation,
-      and can be fed back to retailers to help them optimise key metrics.
+  - title: Optimise Key Metrics
+    body: Minimise returns by predicting the likely return rate of each product within just a few days of trading, then avoid re-purchasing items with a high propensity for returning. Ensure your merchandising buys exceed expectations by using Dressipi’s garment and feature checker to optimise forecasting at a SKU, size and individual location level.
     image: "/uploads/icon__data-driven.svg"
 - title: Case Studies
   handle: cases
@@ -90,4 +74,3 @@ sections:
   - Personalised Email Success with N Brown
 layout: product
 ---
-

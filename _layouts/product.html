@@ -4,6 +4,7 @@ layout: default
 
 {% for section in page.sections %}
 {% assign handle = section.handle %}
+{% assign my_page_url = page.url | remove: '/' %}
 <section id="{{ handle }}" class="section {% if handle %}{{ section.handle | prepend: 'section-' | append: ' ' }}{% endif %}background--{{ section.color | default:'white' }}">
 	<!-- section heading group -->
   <hgroup class="container gutter section__heading">
@@ -52,8 +53,14 @@ layout: default
     {% when 'youtube' %}
     <div class="video-wrapper">
       <div class="video-responsive">
+        {% if my_page_url contains 'predictive-retail' %}
         <div class="video yt-about"> <iframe width="560" height="315" src="https://www.youtube.com/embed/_y_njgfUdbg?rel=0&showinfo=0&color=white" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
         </div>
+        {% endif %}
+        {% if my_page_url contains 'data-insight' %}
+        <div class="video yt-about"> <iframe width="560" height="315" src="https://www.youtube.com/embed/HhCQsNDiHP8?rel=0&showinfo=0&color=white" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+        {% endif %}
       </div>
     </div>
 		{% when 'features' %}
