@@ -90,9 +90,9 @@ layout: default
       {{ section.body | markdownify }}
     </div>
      {% when 'press' %}
-      <ul class="publication__list container">
+      <ul class="publication__list container publication__breakpoint">
       {% for publication in section.publications %}
-        <li class="publication__wrap">
+      <li class="publication__wrap smaller__wrap">
           <div class="publication__item">
             <div class="publication__body">
               <p>{{ publication.title }}</p>

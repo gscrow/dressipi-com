@@ -11,9 +11,17 @@
 .cases__list {
   margin-top: rhythm(8);
 }
-
+.smaller__wrap {
+  width: 250px !important;
+}
 @include responsive(mobile) {
   .hero-clients .client__logos {
     margin: rhythm(4) 0;
+  }
+}
+
+@media (max-width: 1200px) {
+  .publication__breakpoint {
+    max-width: 700px !important;
   }
 }
