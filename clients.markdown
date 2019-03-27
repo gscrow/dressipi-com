@@ -42,19 +42,19 @@ sections:
   downloads:
   - Accelerating Wallis to be Truly Predictive
   - Personalised Email Success with N Brown
-- title: Explore More
-  body: Try it for yourself by clicking the links below, or visit our [How it Works](/how-it-works)
-    page to find out more about how to integrate this technology into your own site.
-  handle: call-to-action
-  clients:
-  - John Lewis
-  - Topshop
-  - The Modist
-  - Wallis
-  - JD Williams
-  - Evans
-  - River Island
-  - Long Tall Sally
+
+- title: Dressipi in the Press
+  subtitle: The following represent some of the publications and websites that have covered our innovative solutions.
+  handle: press
+  publications:
+  - title: '"Retail isn''t just about e-commerce anymore. Here are the Top UK companies
+      switching up the fashion game"'
+    image: "/uploads/ES_png.png"
+  - title: "“Fashion turns to data analytics to cut number of returned items”"
+    image: "/uploads/logo__financial-times.svg"
+  - title: "“One of Britain’s top tech firms growing 1,000pc a year”"
+    image: "/uploads/logo__the-telegraph.svg"
+  - title: "“How Retail Changes When Algorithms Curate Everything We Buy”"
+    image: "/uploads/HBR_logo_black.svg"
 layout: clients
 ---
-
