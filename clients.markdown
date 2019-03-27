@@ -42,9 +42,9 @@ sections:
   downloads:
   - Accelerating Wallis to be Truly Predictive
   - Personalised Email Success with N Brown
-
 - title: Dressipi in the Press
-  subtitle: The following represent some of the publications and websites that have covered our innovative solutions.
+  subtitle: The following represent some of the publications and websites that have
+    covered our innovative solutions.
   handle: press
   publications:
   - title: '"Retail isn''t just about e-commerce anymore. Here are the Top UK companies
@@ -58,3 +58,4 @@ sections:
     image: "/uploads/HBR_logo_black.svg"
 layout: clients
 ---
+
