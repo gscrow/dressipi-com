@@ -43,7 +43,7 @@ sections:
   color: light-grey
   subsections:
   - title: Data Insight
-    subtitle: "fill something pip"
+    subtitle: fill something pip
     body: "A deeper understanding of core customers and customer segments. Easily
       view how customer profile attributes shift over time. See accurate data on attitudes
       to trends, preferences, lifestyle and where else the customer shops for key
@@ -53,7 +53,7 @@ sections:
       weekly trade meetings. \n"
     image: "/uploads/labs_predictive-retailing@2x.png"
   - title: Predictive Insight
-    subtitle: "fill something pip"
+    subtitle: fill something pip
     body: "Minimise returns by predicting the likely return rate of each product within
       just a few days of trading, then avoid re-purchasing items with a high propensity
       for returning.\n\nAccurately predict how your core customers will respond to
@@ -87,3 +87,4 @@ sections:
     ### #bepredictive
 layout: product
 ---
+
