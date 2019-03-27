@@ -17,7 +17,7 @@ header:
   color: "#F0F0F0"
 description: Discover the key features of Dressipi's fashion personalisation solution
   and see what benefits it can bring to your business.
-has-demo-section: true
+has-contact-section: true
 sections:
 - title: How Dressipi Improves Customer Experience
   handle: youtube
@@ -84,4 +84,3 @@ sections:
   - Personalised Email Success with N Brown
 layout: product
 ---
-

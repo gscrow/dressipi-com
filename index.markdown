@@ -17,7 +17,7 @@ header:
 description: Dressipi is the world's only Fashion Prediction Platform, increasing
   AOV and decreasing returns. Click here and learn what benefits it could bring to
   your business.
-has-demo-section: true
+has-contact-section: true
 sections:
 - title: Trusted by Leading Brands
   subtitle: Dressipi delivers unbeatable revenue growth to some of the UK's biggest
@@ -86,4 +86,3 @@ sections:
     hres-image: "/uploads/home_style-hub@2x.png"
 layout: index
 ---
-

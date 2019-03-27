@@ -20,7 +20,7 @@ header:
 description: Dressipi Labs is a source of constant innovation in fashion retail personalisation.
   Click here to learn more about our lab projects that we believe will become valuable
   tools for customers and retailers in the near future.
-has-demo-section: true
+has-contact-section: true
 sections:
 - title: Reactive to Predictive Retailing
   handle: intro
@@ -60,7 +60,7 @@ sections:
   handle: slide
   width: narrow
   subsections:
-  - body: 
+  - body:
     image: "/uploads/slide_dressipi.png"
     hres-image: "/uploads/slide_dressipi.png"
 - title: Key Benefits
@@ -98,4 +98,3 @@ sections:
     ### #bepredictive
 layout: product
 ---
-

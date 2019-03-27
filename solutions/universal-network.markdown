@@ -19,7 +19,7 @@ header:
 description: Dressipi's Data Insight tools will help you make better buying and merchandising
   decisions, delivering higher sell-through rates and lower markdowns. Click here
   to learn more.
-has-demo-section: true
+has-contact-section: true
 sections:
 - title: Fashioning Your Own Digital Wardrobe
   handle: youtube
@@ -87,4 +87,3 @@ sections:
     ### #bepredictive
 layout: product
 ---
-

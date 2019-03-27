@@ -24,7 +24,7 @@ header:
 description: Dressipi works with some of the UK's biggest retailers, helping them
   improve their omnichannel eCommerce personalisation strategy across their online
   and physical stores. Discover who they are
-has-demo-section: true
+has-contact-section: true
 sections:
 - title: The Value Dressipi Unlocks For Retailers
   handle: youtube
@@ -58,4 +58,3 @@ sections:
     image: "/uploads/HBR_logo_black.svg"
 layout: clients
 ---
-
