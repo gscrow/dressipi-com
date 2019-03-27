@@ -3,14 +3,17 @@ title: Universal Network
 position: 2
 header:
   title: Universal Network
-  body: 'Dressipi’s Data Insight tools are designed to help retailers understand the
+  body: "Dressipi’s Data Insight tools are designed to help retailers understand the
     who, why and what behind key performance metrics. This contributes to a more accurate
     model for future buying by honing expert gut instincts and contributing additional
     insight into existing merchandising tools to deliver higher sell-through rates
-    and lower markdowns. '
+    and lower markdowns. "
   button:
     copy: Let's Talk
     url: "/contact"
+  link:
+    copy: Watch Video
+    url: "#youtube"
   hero-image: "/uploads/banner_data-insights.jpg"
   color: transparent
 description: Dressipi's Data Insight tools will help you make better buying and merchandising
@@ -18,6 +21,8 @@ description: Dressipi's Data Insight tools will help you make better buying and 
   to learn more.
 has-demo-section: true
 sections:
+- title: Fashioning Your Own Digital Wardrobe
+  handle: youtube
 - title: Reactive to Predictive Retailing
   handle: intro
   width: narrow
@@ -59,17 +64,24 @@ sections:
   handle: benefits
   is-centered: true
   subsections:
-  - title: Increase sell-through and reduce markdowns
+  - title: Increase in net incremental revenue by a minimum of 8%
     image: "/uploads/icon__shopping-cart.svg"
-  - title: Respond quickly to trends and the changing demands of your customers
+  - title: Increase conversion and frequency of purchase by up to 30%
     image: "/uploads/icon_customer-chat.svg"
-  - title: Make better informed decisions at a SKU and size level
+  - title: Increase AOV by 6%
     image: "/uploads/icon_sku.svg"
+  - title: Reduce returns by 15%
+    image: "/uploads/icon__shopping-cart.svg"
 - title: Case Studies
   handle: cases
   downloads:
   - Accelerating Wallis to be Truly Predictive
   - Personalised Email Success with N Brown
+- title: Be Predictive and Achieve Great Results
+  handle: intro
+  body: |-
+    Get in touch to see how Dressipi's data-driven approach can help increase net incremental revenue per visitor, conversion and frequency of purchase.
+
+    ### #bepredictive
 layout: product
 ---
-
