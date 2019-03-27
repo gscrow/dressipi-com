@@ -39,14 +39,14 @@ sections:
     body: The world's only cross domain personal styling solution, allowing for the
       collaboration and connection of  data across all participating retailers and
       all channels wherever that customer is shopping or browsing.
-    link:
-      copy: link
+    button:
+      copy: Explore
       url: "#"
   - title: Predictive Retail
     body: Predictive Retailing is the future of retail and the next step up from 1-2-1
       Personalisation.
-    link:
-      copy: link
+    button:
+      copy: Explore
       url: "#"
   - title: Domain Expertise
     body: Dressipi understands that fashion and how customers think of fashion changes
@@ -55,14 +55,14 @@ sections:
       the industry’s most renowned stylists. This represents a key differentiator,
       resulting in consistently outperforming competitors who take a general approach
       to personalisation.
-    link:
-      copy: link
+    button:
+      copy: Explore
       url: "#"
   - title: Unique Data Platform
     body: Dressipi has the most extensive database of proprietary garment data and
       fashion-specific customer data that exists in the world today.
-    link:
-      copy: link
+    button:
+      copy: Explore
       url: "#"
   - title: Continual Working
     body: Dressipi has spent 5 years developing ever-evolving fashion specific ML
@@ -70,11 +70,14 @@ sections:
       Each individual customer has their own model which continually learns and evolves
       with their lifestyle, fashion requirements, activity, purchase and preference
       data.
+    button:
+      copy: Explore
+      url: "#"
   - title: Open Platform
     body: Dressipi's platform wraps around your existing infrastructure to improve
       ROI from all other platforms.
-    link:
-      copy: link
+    button:
+      copy: Explore
       url: "#"
   button:
     copy: Let's Talk
@@ -178,4 +181,3 @@ sections:
     url: "/career"
 layout: about
 ---
-
