@@ -45,7 +45,6 @@ layout: default
 		        <div class="project__body">{{ subsection.description | markdownify }} <div class= "center">{{ content }}</div></div>
             {% endif %}
             {% if subsection.branch == 'platform-integrations' %}
-            <div class="project__body"> <blockquote class="yellow-blockquote">{{ subsection.description | markdownify }}</blockquote></div>
             <ul class="integration__logos">
             {% assign site_integrations = site.integrations | sort:'position' %}
             {% for integration in site_integrations %}

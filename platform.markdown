@@ -30,21 +30,22 @@ sections:
 - title: Getting Started
   handle: projects
   subsections:
-  - title: 
+  - title:
     branch: getting-started
     description: 'Having worked with leading retailers for a number of years, Dressipi
       understands that any technology you consider needs to be easy to implement and
       demonstrate success quickly, which is why the open Fashion Prediction Platform
       wraps around your existing infrastructure to improve ROI from all platforms.
       All we need from you is:'
-    video: 
+    video:
 - title: Current Platform Integrations
   handle: projects
+  subtitle: Dressipi integrates seamlessly with many widely used platforms.
   subsections:
-  - title: 
+  - title:
     branch: platform-integrations
-    description: Dressipi integrates seamlessly with many widely used platforms.
-    image: 
+    description: D
+    image:
     integrations:
     - Exponea
     - Ometria
@@ -56,4 +57,4 @@ layout: platform
 ---
 
 <div class="ul-div"><ul><li>Transaction data</li><li> Product feed</li><li> Add some tags to your pages</li></ul></div>
-<blockquote class="yellow-blockquote"><p class="center">Dressipi then sends you their APIs and you're good to go!</p> </blockquote><a href="/contact" class="button button--large button-primary center" title="">{{ site.form-demo.button }}</a>
+<a href="/contact" class="button button--large button-primary center" title="">{{ site.form-demo.button }}</a>
