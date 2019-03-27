@@ -81,6 +81,7 @@ layout: default
 		      {% endif %}
 		      <div class="gutter feature__copy{% if subsection.align == 'top' %}--top{% endif %}">
 		        <h2 class="feature__title">{{ subsection.title }}</h2>
+            <p class="slide__title">{{ subsection.subtitle }}</p>
 		        <div class="feature__body">{{ subsection.body | markdownify }}</div>
 		        {% if subsection.action %}<a href="{{ subsection.action.url }}" class="button button-{{ subsection.action.style | default: 'secondary' }}">{{ subsection.action.copy }}</a>{% endif %}
 		      </div>
