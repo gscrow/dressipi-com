@@ -5,7 +5,8 @@ position: 7
 navigation: header
 header:
   title: Accelerating Fashion Retailers To Be Predictive
-  body: "### Dressipi is proud to be known as the world's only Fashion Prediction Platform "
+  body: "### Dressipi is proud to be known as the world's only Fashion Prediction
+    Platform "
   button:
     copy: Let's Talk
     url: "/contact"
@@ -18,36 +19,60 @@ sections:
 - title: Dressipi's Mission
   handle: intro
   width: narrow
-  body: "> Dressipi's mission is to accelerate leading fashion retailers to be truly predictive and give their  customers the best possible experience. \n\nLeaders in personalisation such as Netflix and Spotify have raised the bar in terms of relevancy and experience, but what about fashion? Consumer’s expectations and the relationships they have with brands are changing rapidly, and retailers need to keep up.
-  \n\nWith technology developed by one of the most talented teams of technologists, data scientists and stylists, Dressipi was built to solve fashion prediction which is one of the most complex categories.\n\n Innovation and adaptability are key. Our solution is an ensemble of algorithms that we constantly evolve by integrating newly discovered methods along with our proprietary algorithms. This future-proofs a retailer’s personalisation roadmap and reflects how fashion and customer requirements evolve over time. "
+  body: "> Dressipi's mission is to accelerate leading fashion retailers to be truly
+    predictive and give their  customers the best possible experience. \n\nLeaders
+    in personalisation such as Netflix and Spotify have raised the bar in terms of
+    relevancy and experience, but what about fashion? Consumer’s expectations and
+    the relationships they have with brands are changing rapidly, and retailers need
+    to keep up. \n\nWith technology developed by one of the most talented teams of
+    technologists, data scientists and stylists, Dressipi was built to solve fashion
+    prediction which is one of the most complex categories.\n\n Innovation and adaptability
+    are key. Our solution is an ensemble of algorithms that we constantly evolve by
+    integrating newly discovered methods along with our proprietary algorithms. This
+    future-proofs a retailer’s personalisation roadmap and reflects how fashion and
+    customer requirements evolve over time. "
 - title: What Sets Dressipi Apart
   handle: why-us
   columns: 2
   subsections:
   - title: Universal Network
-    body: "The world's only cross domain personal styling solution, allowing for the collaboration and connection of  data across all participating retailers and all channels wherever that customer is shopping or browsing."
+    body: The world's only cross domain personal styling solution, allowing for the
+      collaboration and connection of  data across all participating retailers and
+      all channels wherever that customer is shopping or browsing.
     link:
       copy: link
       url: "#"
   - title: Predictive Retail
-    body: Predictive Retailing is the future of retail and the next step up from 1-2-1 Personalisation.
+    body: Predictive Retailing is the future of retail and the next step up from 1-2-1
+      Personalisation.
     link:
       copy: link
       url: "#"
   - title: Domain Expertise
-    body: "Dressipi understands that fashion and how customers think of fashion changes with time, inspiration and context. Built to solve fashion prediction, Dressipi's algorithms take account of fashion-specific information, updated by some of the industry’s most renowned stylists. This represents a key differentiator, resulting in consistently outperforming competitors who take a general approach to personalisation."
+    body: Dressipi understands that fashion and how customers think of fashion changes
+      with time, inspiration and context. Built to solve fashion prediction, Dressipi's
+      algorithms take account of fashion-specific information, updated by some of
+      the industry’s most renowned stylists. This represents a key differentiator,
+      resulting in consistently outperforming competitors who take a general approach
+      to personalisation.
     link:
       copy: link
       url: "#"
   - title: Unique Data Platform
-    body: Dressipi has the most extensive database of proprietary garment data and fashion-specific customer data that exists in the world today.
+    body: Dressipi has the most extensive database of proprietary garment data and
+      fashion-specific customer data that exists in the world today.
     link:
       copy: link
       url: "#"
   - title: Continual Working
-    body: Dressipi has spent 5 years developing ever-evolving fashion specific ML and AI for predicting customer needs and delivering exceptional experiences. Each individual customer has their own model which continually learns and evolves with their lifestyle, fashion requirements, activity, purchase and preference data.
+    body: Dressipi has spent 5 years developing ever-evolving fashion specific ML
+      and AI for predicting customer needs and delivering exceptional experiences.
+      Each individual customer has their own model which continually learns and evolves
+      with their lifestyle, fashion requirements, activity, purchase and preference
+      data.
   - title: Open Platform
-    body: Dressipi's platform wraps around your existing infrastructure to improve ROI from all other platforms.
+    body: Dressipi's platform wraps around your existing infrastructure to improve
+      ROI from all other platforms.
     link:
       copy: link
       url: "#"
@@ -153,3 +178,4 @@ sections:
     url: "/career"
 layout: about
 ---
+

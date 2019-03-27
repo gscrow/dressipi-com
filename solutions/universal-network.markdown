@@ -3,11 +3,11 @@ title: Universal Network
 position: 2
 header:
   title: Universal Network
-  body: "Dressipi’s Data Insight tools are designed to help retailers understand the
+  body: 'Dressipi’s Data Insight tools are designed to help retailers understand the
     who, why and what behind key performance metrics. This contributes to a more accurate
     model for future buying by honing expert gut instincts and contributing additional
     insight into existing merchandising tools to deliver higher sell-through rates
-    and lower markdowns. "
+    and lower markdowns. '
   button:
     copy: Let's Talk
     url: "/contact"
@@ -85,3 +85,4 @@ sections:
     ### #bepredictive
 layout: product
 ---
+
