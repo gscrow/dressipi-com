@@ -30,7 +30,7 @@ publications:
   image: "/uploads/logo__retail-insider.jpg"
 sections:
 - title: Award Winning Platform
-  subtitle:
+  subtitle: 
   handle: awards
   awards:
   - image: "/uploads/award__millenial1.jpg"
@@ -66,3 +66,4 @@ sections:
       Best Tech - Finalist
 layout: news
 ---
+
