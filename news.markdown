@@ -1,7 +1,7 @@
 ---
 title: News
 date: 2017-05-06 09:59:00 Z
-position: 9
+position: 3
 navigation: footer
 header:
   title: Dressipi in the Media
@@ -30,7 +30,7 @@ publications:
   image: "/uploads/logo__retail-insider.jpg"
 sections:
 - title: Award Winning Platform
-  subtitle: 
+  subtitle:
   handle: awards
   awards:
   - image: "/uploads/award__millenial1.jpg"
@@ -66,4 +66,3 @@ sections:
       Best Tech - Finalist
 layout: news
 ---
-

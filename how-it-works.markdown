@@ -1,8 +1,6 @@
 ---
 title: How it Works
 date: 2017-05-18 09:56:00 Z
-position: 4
-navigation: footer
 header:
   title: Dressipi Personalisation
   body: "### Our fashion-specific personalisation solutions are truly unique. We provide
@@ -65,4 +63,3 @@ sections:
   - Personalised Email Success with N Brown
 layout: how-it-works
 ---
-
