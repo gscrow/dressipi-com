@@ -35,9 +35,9 @@ layout: default
 						<h3>{{ subsection.title }}</h3>
 						{{ subsection.body | markdownify }}
 					</div>
-          {% unless subsection.button.copy == nil %}
+          {% unless subsection.link.copy == nil %}
           <div class="header__button-group">
-            <a href="{{ subsection.button.url }}" class="header__button button-{{ page.header.button.style | default: 'primary' }} anchor-link">{{ subsection.button.copy }}</a>
+            {% if subsection.link %}<a href="{{ subsection.link.url }}" class="header__link anchor-link">{{ subsection.link.copy }}</a>{% endif %}
           </div>
           {% endunless %}
 				</div>
