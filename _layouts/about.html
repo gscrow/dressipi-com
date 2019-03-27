@@ -18,7 +18,8 @@ layout: default
 	  <div class="container{% if section.width %}{{ section.width | prepend: '--' }}{% endif %} gutter">
 		  {{ section.body | markdownify }}
 	  </div>
-    <div class="video-wrapper">
+
+    <div class="video-wrapper" id="youtube">
       <div class="video-responsive">
         <div class="video yt-about"> <iframe width="560" height="315" src="https://www.youtube.com/embed/TeiYCSVS1HQ?rel=0&showinfo=0&color=white&showinfo=0&color=white" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
         </div>
@@ -34,6 +35,11 @@ layout: default
 						<h3>{{ subsection.title }}</h3>
 						{{ subsection.body | markdownify }}
 					</div>
+          {% unless subsection.link.copy == nil %}
+          <div class="header__button-group">
+            {% if subsection.link %}<a href="{{ subsection.link.url }}" class="header__link anchor-link">{{ subsection.link.copy }}</a>{% endif %}
+          </div>
+          {% endunless %}
 				</div>
 			{% endfor %}
 			</div>
