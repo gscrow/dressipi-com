@@ -2,11 +2,11 @@
 title: Home
 position: 0
 header:
-  title: Personalising the Entire Customer Experience
-  body: "## The leader in fashion personalisation, Dressipi empowers retailers to
-    give each customer their own tailored shopping experience both online and instore.
-    \n\n## Dressipi provides retailers with data driven, actionable insight on why
-    customers buy and return specific products."
+  title: Be Smarter. Be Predictive.
+  body: "## The world's only Fashion Prediction Platform, Dressipi enables retailers
+    to predict what their customers will buy and not return, optimising profitability
+    and giving customers the best possible experience wherever and however they choose
+    to shop."
   button:
     copy: Let's Talk
     url: "/contact"
@@ -14,8 +14,9 @@ header:
   link:
     copy: Watch Video
     url: "#youtube"
-description: Dressipi is the leader in fashion personalisation, increasing AOV and
-  decreasing returns. Click here and learn what benefits it could bring to your business.
+description: Dressipi is the world's only Fashion Prediction Platform, increasing
+  AOV and decreasing returns. Click here and learn what benefits it could bring to
+  your business.
 has-demo-section: true
 sections:
 - title: Trusted by Leading Brands
@@ -34,14 +35,14 @@ sections:
 - title: The Value Dressipi Unlocks For Retailers
   handle: youtube
 - title: Results
-  subtitle: What You Can Expect
+  subtitle: Dressipi consistently outperforms other suppliers by significant margins
   handle: benefits
   subsections:
-  - title: Increase in net incremental revenue per visitor by 5-8%
+  - title: Increase in net incremental revenue by a minimum of 8%
     image: "/uploads/icon__report-increase.svg"
-  - title: Increase AOV and frequency of purchase
+  - title: Increase conversion and frequency of purchase by up to 30%
     image: "/uploads/icon__shopping-cart.svg"
-  - title: Reduce returns by 5% percentage points
+  - title: Reduce returns by 15%
     image: "/uploads/icon__cash.svg"
   button:
     copy: Let's Talk
