@@ -64,7 +64,7 @@ sections:
     button:
       copy: Explore
       url: "#"
-  - title: Continual Working
+  - title: Continual Learning
     body: Dressipi has spent 5 years developing ever-evolving fashion specific ML
       and AI for predicting customer needs and delivering exceptional experiences.
       Each individual customer has their own model which continually learns and evolves
