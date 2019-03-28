@@ -3,10 +3,10 @@ title: Clients
 position: 2
 navigation: header
 header:
-  title: Partnering with Leading Global Brands
-  body: We work with some of the world's leading retail brands. These brands share
-    a common goal of seeking to offer their customers a truly data-driven, personalised
-    shopping and dressing solution.
+  title: Accelerating Fashion Retailers to Be Predictive
+  body: Our long-term clients grow and develop with us, sharing a common goal of seeking
+    to offer their customers unbeatable experiences by delivering best in class recommendations
+    and prediction scores.
   button:
     copy: Watch Video
     url: "#youtube"
@@ -35,10 +35,10 @@ sections:
   subsections:
   - title: Learn the Client's Key Challenges
     image: "/uploads/icon__data-driven.svg"
-  - title: How Dressipi Helped Solve These
-    image: "/uploads/icon__user-love.svg"
   - title: The Results
     image: "/uploads/icon__results.svg"
+  - title: How Dressipi Helped Solve These
+    image: "/uploads/icon__user-love.svg"
   downloads:
   - Accelerating Wallis to be Truly Predictive
   - Personalised Email Success with N Brown
