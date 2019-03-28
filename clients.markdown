@@ -33,12 +33,12 @@ sections:
     of its major clients.
   handle: cases
   subsections:
-  - title: Learn the Client's Key Challenges
+  - title: "Learn the Client's \nKey Challenges"
     image: "/uploads/icon__data-driven.svg"
+  - title: "How Dressipi Helped \nSolve These"
+    image: "/uploads/icon__user-love.svg"
   - title: The Results
     image: "/uploads/icon__results.svg"
-  - title: How Dressipi Helped Solve These
-    image: "/uploads/icon__user-love.svg"
   downloads:
   - Accelerating Wallis to be Truly Predictive
   - Personalised Email Success with N Brown
