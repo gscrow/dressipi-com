@@ -56,8 +56,8 @@ sections:
   - title: Predictive Retail
     body: 'Dressipi''s fashion-specific AI and algorithms understand each of your
       customers intimately and deliver best in class recommendations and prediction
-      scores across the entire customer journey. Retailers can be more profitable,
-      more customer-centric and more efficient. '
+      scores across the entire customer journey. This means retailers can be more
+      profitable, more customer-centric and more efficient. '
     action:
       copy: Learn More
       url: "/solutions/predictive-retail"
@@ -75,10 +75,9 @@ sections:
       url: "/solutions/universal-network/"
   - title: Data Insight
     body: Dressipi's Fashion Prediction Platform is based on the biggest and most
-      accurate dataset in the retail industry, powering billions of product and outfit
-      predictions. Access to a unique database of over 5 million connected fashion
-      customers and proprietary product enrichment data leads to better-informed decisions
-      to supply matching, merchandising and acquisition.
+      accurate dataset in the retail industry. Access to a unique database of over
+      5 million connected fashion customers and proprietary product enrichment data
+      leads to better-informed decisions to supply matching, merchandising and acquisition.
     action:
       copy: Learn More
       url: "/solutions/data-insight/"
