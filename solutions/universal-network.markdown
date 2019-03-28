@@ -55,7 +55,7 @@ sections:
     body: |-
       <ul class="universal-network-list">
 
-      - Connectable customer profile: create once, use everywhere
+      <li> Connectable customer profile: create once, use everywhere</li>
       <li> Suite of product APIs for personalising listing pages, product pages, emails, notifications,
       editorial etc.</li>
       <li> Suite of outfit APIs for personalising Style It With, Scan for Outfits instore</li>
