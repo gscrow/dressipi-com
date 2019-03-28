@@ -2,13 +2,10 @@
 title: Data Insight
 position: 3
 header:
-  body: "What if you could truly understand each of your customers intimately? The
-    features and styles they love or won’t wear, how confident they are when it comes
-    to dressing or shopping, what they want to add to their wardrobe or the events
-    and occasions they buy for. \n\nAt Dressipi we believe knowing the answers to
-    these questions is the most important opportunity for retailers – it empowers
-    better [customer experiences](https://dressipi.com/solutions/customer-experience/),
-    better products and better revenue and profitability. "
+  body: "Retailers have been relying on gut instinct for too long. It's time to put
+    data at the heart of decision making. \n\nUsing the latest advancements in Machine
+    Learning and AI, Dressipi's data platform is designed to help retailers understand
+    the who, why and what behind key performance metrics"
   button:
     copy: Let's Talk
     url: "/contact"
