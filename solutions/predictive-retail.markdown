@@ -15,8 +15,8 @@ header:
     copy: Watch Video
     url: "#youtube"
   color: "#F0F0F0"
-description: Discover the key features of Dressipi's fashion personalisation solution
-  and see what benefits it can bring to your business.
+description: Discover the key features of Dressipi's Fashion Prediction Platform and
+  see what benefits it can bring to your business.
 has-contact-section: true
 sections:
 - title: How Dressipi Improves Customer Experience
