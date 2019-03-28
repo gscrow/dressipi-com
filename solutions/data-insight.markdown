@@ -90,12 +90,6 @@ sections:
   downloads:
   - Accelerating Wallis to be Truly Predictive
   - Personalised Email Success with N Brown
-- title: Be Predictive and Achieve Great Results
-  handle: intro
-  body: |-
-    Get in touch to see how Dressipi's data-driven approach can help increase net incremental revenue per visitor, conversion and frequency of purchase.
-
-    ### #bepredictive
 layout: product
 ---
 
