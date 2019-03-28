@@ -66,9 +66,11 @@ sections:
     image: "/uploads/labs_predictive-retailing@2x.png"
   - title: Data & Insights
     subtitle: Gain competitive advantage
-    body: "- Invaluable customer and product data insights and benchmarking to make
-      clearer and more informed decisions on demand to supply matching, merchandising
-      and customer acquisition."
+    body: |-
+      <ul class="universal-network-list">
+
+      <li> Invaluable customer and product data insights and benchmarking to make clearer and more informed decisions on demand to supply matching, merchandising and customer acquisition.</li>
+      </ul>
     image: "/uploads/predictive_insight.jpg"
 - title: Key Benefits
   handle: benefits
