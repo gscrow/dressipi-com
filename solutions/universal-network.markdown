@@ -64,14 +64,12 @@ sections:
       <li> Easy integration with CRMs, ESPs, clienteling</li>
       </ul>
     image: "/uploads/labs_predictive-retailing@2x.png"
-    class: universal-network-list
   - title: Data & Insights
     subtitle: Gain competitive advantage
     body: "- Invaluable customer and product data insights and benchmarking to make
       clearer and more informed decisions on demand to supply matching, merchandising
       and customer acquisition."
     image: "/uploads/predictive_insight.jpg"
-    class: universal-network-list
 - title: Key Benefits
   handle: benefits
   is-centered: true
@@ -91,4 +89,3 @@ sections:
   - Personalised Email Success with N Brown
 layout: product
 ---
-
