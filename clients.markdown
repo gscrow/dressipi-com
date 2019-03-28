@@ -33,9 +33,9 @@ sections:
     of its major clients.
   handle: cases
   subsections:
-  - title: "Learn the Client's \nKey Challenges"
+  - title: "Learn the Client's \n\nKey Challenges"
     image: "/uploads/icon__data-driven.svg"
-  - title: "How Dressipi Helped \nSolve These"
+  - title: "How Dressipi Helped \n\nSolve These"
     image: "/uploads/icon__user-love.svg"
   - title: The Results
     image: "/uploads/icon__results.svg"
