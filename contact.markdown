@@ -9,7 +9,7 @@ description: Get in touch to learn more about how we can provide fashion persona
   solutions for your business.
 form-contact:
   formspree-ID: meeaabem
-  button: Send Request
+  button: Send Message
   redirect: "/thanks"
   email_cc: 
 width: narrow
