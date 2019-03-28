@@ -18,7 +18,7 @@ header:
     url: "#predict-platform"
     color: "#F0F0F0"
 sections:
-- title: The Future of Retail
+- title: The Fashion Prediction Platform
   handle: predict-platform
   description: The Dressipi Engine is the core of the platform and has been built
     with scale and computational speed at top of mind. As soon as data enters the
