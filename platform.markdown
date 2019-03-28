@@ -17,6 +17,8 @@ header:
     copy: Learn More
     url: "#predict-platform"
     color: "#F0F0F0"
+description: The Dressipi Engine is a source of constant innovation. Click here to
+  find out how you can get started and improve ROI from all platforms.
 sections:
 - title: The Fashion Prediction Platform
   handle: predict-platform
