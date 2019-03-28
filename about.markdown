@@ -5,8 +5,9 @@ position: 7
 navigation: header
 header:
   title: Accelerating Fashion Retailers To Be Predictive
-  body: "### Dressipi is proud to be known as the world's only Fashion Prediction
-    Platform "
+  body: "### Dressipi is proud to be known as the world’s only Fashion Prediction
+    Platform, accelerating leading fashion retailers to be truly predictive. This
+    enables retailers to be more profitable, more customer-centric and more efficient."
   button:
     copy: Let's Talk
     url: "/contact"
@@ -19,18 +20,16 @@ sections:
 - title: Dressipi's Mission
   handle: intro
   width: narrow
-  body: "> Dressipi's mission is to accelerate leading fashion retailers to be truly
-    predictive and give their  customers the best possible experience. \n\nLeaders
-    in personalisation such as Netflix and Spotify have raised the bar in terms of
-    relevancy and experience, but what about fashion? Consumer’s expectations and
-    the relationships they have with brands are changing rapidly, and retailers need
-    to keep up. \n\nWith technology developed by one of the most talented teams of
-    technologists, data scientists and stylists, Dressipi was built to solve fashion
-    prediction which is one of the most complex categories.\n\n Innovation and adaptability
-    are key. Our solution is an ensemble of algorithms that we constantly evolve by
-    integrating newly discovered methods along with our proprietary algorithms. This
-    future-proofs a retailer’s personalisation roadmap and reflects how fashion and
-    customer requirements evolve over time. "
+  body: "> Leaders in personalisation such as Netflix and Spotify have raised the
+    bar in terms of relevancy and experience, but what about fashion?\n\nConsumer’s
+    expectations and the relationships they have with brands are changing rapidly,
+    and retailers need to keep up. \n\nWith technology developed by one of the most
+    talented teams of technologists, data scientists and stylists, Dressipi's mission
+    is to build a solutions that solves fashion prediction which is one of the most
+    complex categories. \n\nInnovation and adaptability are key. Dressipi's solution
+    is an ensemble of algorithms that constantly evolve and integrate newly discovered
+    methods along with proprietary algorithms. This future-proofs a retailer’s personalisation
+    roadmap and reflects how fashion and customer requirements evolve over time."
 - title: What Sets Dressipi Apart
   handle: why-us
   columns: 2
