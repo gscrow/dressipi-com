@@ -52,14 +52,17 @@ sections:
   - title: Customer Experience
     subtitle: Give customers highly personalised, friction-free experiences that improve
       every interaction they have
-    body: |
+    body: |-
+      <ul class="universal-network-list">
+
       - Connectable customer profile: create once, use everywhere
-      - Suite of product APIs for personalising listing pages, product pages, emails, notifications,
-      editorial etc.
-      - Suite of outfit APIs for personalising Style It With, Scan for Outfits instore
-      - Unique wardrobe functionality for customers to view new items with owned items
-      - Customer set shopping requests (e.g. I’m looking for...)
-      - Easy integration with CRMs, ESPs, clienteling
+      <li> Suite of product APIs for personalising listing pages, product pages, emails, notifications,
+      editorial etc.</li>
+      <li> Suite of outfit APIs for personalising Style It With, Scan for Outfits instore</li>
+      <li> Unique wardrobe functionality for customers to view new items with owned items</li>
+      <li> Customer set shopping requests (e.g. I’m looking for...)</li>
+      <li> Easy integration with CRMs, ESPs, clienteling</li>
+      </ul>
     image: "/uploads/labs_predictive-retailing@2x.png"
     class: universal-network-list
   - title: Data & Insights
