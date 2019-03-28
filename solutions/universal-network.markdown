@@ -68,6 +68,7 @@ sections:
       clearer and more informed decisions on demand to supply matching, merchandising
       and customer acquisition."
     image: "/uploads/predictive_insight.jpg"
+    class: universal-network-list
 - title: Key Benefits
   handle: benefits
   is-centered: true
