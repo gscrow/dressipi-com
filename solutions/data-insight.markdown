@@ -14,9 +14,9 @@ header:
     copy: Watch Video
     url: "#youtube"
   color: white
-description: Dressipi Labs is a source of constant innovation in fashion retail personalisation.
-  Click here to learn more about our lab projects that we believe will become valuable
-  tools for customers and retailers in the near future.
+description: Dressipi has the most extensive database of proprietary garment data
+  and fashion-specific customer data that exists in the world today. Click here to
+  learn more
 has-contact-section: true
 sections:
 - title: Reactive to Predictive Retailing
