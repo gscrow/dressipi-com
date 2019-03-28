@@ -35,7 +35,7 @@ sections:
       understands that any technology you consider needs to be easy to implement and
       demonstrate success quickly, which is why the open Fashion Prediction Platform
       wraps around your existing infrastructure to improve ROI from all platforms.
-      \nIt couldn’t be simpler, before Dressipi sends you their API’s, all that’s
+      \n\nIt couldn’t be simpler, before Dressipi sends you their API’s, all that’s
       needed from you is:"
     video: 
 - title: Current Platform Integrations
