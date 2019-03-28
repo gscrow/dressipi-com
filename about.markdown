@@ -16,8 +16,8 @@ header:
     copy: Watch Video
     url: "#youtube"
   color: "#F0F0F0"
-description: Our mission is to solve fashion prediction. Take a look at Dressipi’s
-  history, our team, and our journey to becoming the leader in fashion-specific personalisation.
+description: Take a look at Dressipi’s history, team and journey to becoming the world’s
+  only Fashion Prediction Platform.
 sections:
 - title: Dressipi's Mission
   handle: intro
