@@ -16,6 +16,8 @@ header:
     copy: Watch Video
     url: "#youtube"
   color: "#F0F0F0"
+description: Our mission is to solve fashion prediction. Take a look at Dressipi’s
+  history, our team, and our journey to becoming the leader in fashion-specific personalisation.
 sections:
 - title: Dressipi's Mission
   handle: intro
@@ -25,7 +27,7 @@ sections:
     expectations and the relationships they have with brands are changing rapidly,
     and retailers need to keep up. \n\nWith technology developed by one of the most
     talented teams of technologists, data scientists and stylists, Dressipi's mission
-    is to build a solutions that solves fashion prediction which is one of the most
+    is to build a solution that solves fashion prediction which is one of the most
     complex categories. \n\nInnovation and adaptability are key. Dressipi's solution
     is an ensemble of algorithms that constantly evolve and integrate newly discovered
     methods along with proprietary algorithms. This future-proofs a retailer’s personalisation
