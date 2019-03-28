@@ -40,10 +40,10 @@ sections:
   subsections:
   - title: Increase in net incremental revenue by a minimum of 8%
     image: "/uploads/icon__report-increase.svg"
-  - title: Increase conversion and frequency of purchase by up to 30%
-    image: "/uploads/icon__shopping-cart.svg"
   - title: Reduce returns by 15%
     image: "/uploads/icon__cash.svg"
+  - title: Increase conversion and frequency of purchase by up to 30%
+    image: "/uploads/icon__shopping-cart.svg"
   button:
     copy: Let's Talk
     url: "/contact"
