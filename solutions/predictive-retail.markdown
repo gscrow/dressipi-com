@@ -4,9 +4,9 @@ position: 1
 header:
   title: Predictive Retail
   body: |-
-    ### When shopping for clothing, no one journey is ever the same so why do retailers continue to deliver a one size fits all experience?
+    When shopping for clothing, no one journey is ever the same so why do retailers continue to deliver a one size fits all experience?
 
-    ### Rather than being purely reactive to customer behaviour, Dressipi gives you the power to predict the most relevant products for each and every customer. Dressipi's machine learning technology continuously evaluates the performance of recommendations to select the most effective algorithms for every customer, considering their individual profile, preferences, behaviour and the context in which they are shopping.
+    Rather than being purely reactive to customer behaviour, Dressipi gives you the power to predict the most relevant products for each and every customer. Dressipi's machine learning technology continuously evaluates the performance of recommendations to select the most effective algorithms for every customer, considering their individual profile, preferences, behaviour and the context in which they are shopping.
   button:
     copy: Let's Talk
     url: "/contact"
