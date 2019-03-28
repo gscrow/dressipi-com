@@ -61,6 +61,7 @@ sections:
       - Customer set shopping requests (e.g. I’m looking for...)
       - Easy integration with CRMs, ESPs, clienteling
     image: "/uploads/labs_predictive-retailing@2x.png"
+    class: universal-network-list
   - title: Data & Insights
     subtitle: Gain competitive advantage
     body: "- Invaluable customer and product data insights and benchmarking to make
