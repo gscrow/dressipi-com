@@ -34,20 +34,33 @@ sections:
   handle: why-us
   columns: 2
   subsections:
-  - title: Universal Network
-    body: The world's only cross domain personal styling solution, allowing for the
-      collaboration and connection of  data across all participating retailers and
-      all channels wherever that customer is shopping or browsing.
-    link:
-      copy: Learn more
-      url: "#"
   - title: Predictive Retail
     body: Predictive Retailing is the future of retail and the next step up from 1-2-1
       Personalisation.
     link:
       copy: Learn more
       url: "#"
-  - title: Domain Expertise
+  - title: Open Platform
+    body: Dressipi's platform wraps around your existing infrastructure to improve
+      ROI from all other platforms.
+    link:
+      copy: Learn more
+      url: "#"
+  - title: Collaborative
+    body: The world's only cross domain personal styling solution, allowing for the
+      collaboration and connection of  data across all participating retailers and
+      all channels wherever that customer is shopping or browsing.
+    link:
+      copy: Learn more
+      url: "#"
+  - title: Unique Database
+    body: Dressipi has the most extensive database of proprietary garment data and
+      fashion-specific customer data that exists in the world today, powering billions
+      of product and outfit predictions every year.
+    link:
+      copy: Learn more
+      url: "#"
+  - title: Fashion Domain Expertise
     body: Dressipi understands that fashion and how customers think of fashion changes
       with time, inspiration and context. Built to solve fashion prediction, Dressipi's
       algorithms take account of fashion-specific information, updated by some of
@@ -57,24 +70,12 @@ sections:
     link:
       copy: Learn more
       url: "#"
-  - title: Unique Data Platform
-    body: Dressipi has the most extensive database of proprietary garment data and
-      fashion-specific customer data that exists in the world today.
-    link:
-      copy: Learn more
-      url: "#"
   - title: Continual Learning
     body: Dressipi has spent 5 years developing ever-evolving fashion specific ML
       and AI for predicting customer needs and delivering exceptional experiences.
       Each individual customer has their own model which continually learns and evolves
       with their lifestyle, fashion requirements, activity, purchase and preference
       data.
-    link:
-      copy: Learn more
-      url: "#"
-  - title: Open Platform
-    body: Dressipi's platform wraps around your existing infrastructure to improve
-      ROI from all other platforms.
     link:
       copy: Learn more
       url: "#"
