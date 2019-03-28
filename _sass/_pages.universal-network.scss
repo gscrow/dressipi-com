@@ -1,11 +1,9 @@
 .hero-solutionsuniversal-network {
   background: linear-gradient(to left, rgba(255, 255, 255, 0) 30%, #F0F0F0 50%), url(/uploads/banner_labs.jpg) no-repeat right !important;
+}
 
-  .universal-network-list {
-    ul {
-      @extend %list-styled;
-    }
-  }
+ul.universal-network-list  {
+  @extend %list-styled;
 }
 
 .tick-ul {
