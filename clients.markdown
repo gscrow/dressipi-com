@@ -21,9 +21,9 @@ header:
   - Evans
   - River Island
   - Long Tall Sally
-description: Dressipi works with some of the UK's biggest retailers, helping them
-  improve their omnichannel eCommerce personalisation strategy across their online
-  and physical stores. Discover who they are
+description: Dressipi works with some of the UK’s biggest retailers, helping them
+  become more profitable, more customer-centric and more efficient. Discover who they
+  are
 has-contact-section: true
 sections:
 - title: The Value Dressipi Unlocks For Retailers
