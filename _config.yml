@@ -39,12 +39,12 @@ defaults:
   values:
     permalink: "/blog/:title/"
     layout: post
-    image: 
-    author: 
+    image:
+    author:
     button:
-      title: 
-      url: 
-    description: 
+      title:
+      url:
+    description:
 - scope:
     path: ''
     type: blog_categories
@@ -68,52 +68,52 @@ defaults:
   values:
     permalink: "/blog/authors/:title/"
     layout: author
-    image: 
-    twitter: 
+    image:
+    twitter:
 - scope:
     path: ''
     type: downloads
   values:
     permalink: "/downloads/:title/"
-    resource: 
-    image: 
+    resource:
+    image:
     form:
       title: Download Now
       button: Download
-      file: 
+      file:
     testimonial:
-      body: 
-      logo: 
+      body:
+      logo:
       author:
-        name: 
-        job-title: 
-        company: 
-        image: 
+        name:
+        job-title:
+        company:
+        image:
       action: Download Now
     layout: download
 - scope:
     path: ''
     type: clients
   values:
-    logo: 
-    link: 
+    logo:
+    link:
 - scope:
     path: ''
     type: pages
   values:
-    navigation: 
+    navigation:
     header:
-      title: 
-      body: 
+      title:
+      body:
       button:
-        copy: 
-        url: 
-      hero-image: 
+        copy:
+        url:
+      hero-image:
     is-landing-page: false
     is-demo-page: false
-    downloads: 
+    downloads:
     layout: page
-    description: 
+    description:
 - scope:
     path: ''
     type: jobs
@@ -123,16 +123,16 @@ description: Personalising the Entire Customer Experience
 url: https://dressipi.com
 form-demo:
   formspree-ID: xojeeoem
-  title: Achieve Great Results For Your Business With Dressipi
-  subtitle: Schedule a demo to see how Dressipi can help increase net incremental
-    revenue per visitor, AOV and frequency of purchase.
+  title: Be Predictive and Achieve Great Results
+  subtitle: "Get in touch to see how Dressipi's data-driven approach can help increase net
+  incremental revenue per visitor, conversion and frequency of purchase. "
   button: Let's Talk
-  email_cc: 
+  email_cc:
   redirect: "/thanks"
 form-newsletter:
   formspree-ID: mkjvowyx
   button: Subscribe
-  email_cc: 
+  email_cc:
   redirect: "/thanks"
 company:
   name: Stylemania Ltd.
