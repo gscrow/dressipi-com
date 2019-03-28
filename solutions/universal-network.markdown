@@ -21,7 +21,7 @@ header:
   color: transparent
 description: 'Dressipi''s Universal Network enables retailers to better compete and
   thrive by being more predictive and putting customers first.  '
-has-contact-section: true
+has-contact-section: false
 sections:
 - title: Fashioning Your Own Digital Wardrobe
   handle: youtube
@@ -37,9 +37,7 @@ sections:
       typically collected by a single retailer. Furthermore, in-depth data links between
       a products’ attributes and each customer’s preferences and needs are also required.
       It’s only when these data sets are in place, that the power of machine learning
-      and AI can get to work on identifying impactful predictions and insights.
-
-'
+      and AI can get to work on identifying impactful predictions and insights.'
   - title: The Solution
     list: Dressipi's Universal Network is a comprehensive profile of every customer's
       preferences, activities and purchases across brands, combined with fashion specific
@@ -89,6 +87,12 @@ sections:
   downloads:
   - Accelerating Wallis to be Truly Predictive
   - Personalised Email Success with N Brown
+un-form-demo:
+  formspree-ID: xojeeoem
+  un-title: Achieve Even Better Results with Universal Network
+  un-subtitle: "Join this leading group of retailers driving change within the industry and taking action to future-proof their business. "
+  button: Let's Talk
+  email_cc:
+  redirect: "/thanks"
 layout: product
 ---
-
