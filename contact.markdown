@@ -18,4 +18,4 @@ google-maps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d
 layout: contact
 ---
 
-### Please contact us if you have any questions or would like to speak to a member of our team about how we can start you on your journey to be predictive.
+### Please contact us if you have any questions about how we can start you on your journey to be predictive.
