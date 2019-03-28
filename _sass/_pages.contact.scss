@@ -1,15 +1,27 @@
+.section-contact {
+  padding-bottom: 10px;
+}
+
 .section-contact > .container {
   @include flexbox;
   @include flex-wrap(wrap);
   @include justify-content(center);
 
-  .contact-info {
-    flex: 3;
+  .contact-form {
+    flex: 5;
   }
 
-  .contact-form {
-    flex: 6;
+  .contact-clients-list {
+    flex: 4;
   }
+
+  .contact__logos {
+    margin-top: 10px;
+  }
+}
+
+.contact-info {
+  margin-bottom: 17px;
 }
 
 address {
@@ -76,4 +88,3 @@ address {
     }
   }
 }
-

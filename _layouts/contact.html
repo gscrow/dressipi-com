@@ -4,15 +4,6 @@ layout: default
 
 <section class="section section-contact">
   <div class="container">
-    <div class="gutter contact-info">
-      <h3 class="contact-info__title">Company Address</h3>
-      <address>
-        {{site.company.name}}<br/>
-        {{site.company.address.street}}<br/>
-        {{site.company.address.city}}
-      </address>
-    </div>
-
     <div class="gutter contact-form">
       {{ content }}
       <div class="form-contact">
@@ -34,10 +25,27 @@ layout: default
         </form>
       </div>
     </div>
+    <div class="gutter clients contact-clients-list">
+      <ul class="client__logos contact__logos">
+      {% for client in site.clients %}
+        <li class="client__logo {{ client.class }}"><img src="{{ client.logo }}" class="" alt="{{ client.title }}" /></li>
+      {% endfor %}
+      </ul>
+    </div>
   </div>
 </section>
 
 {% if page.google-maps %}
+<div class="container">
+<div class="gutter contact-info">
+<h3 class="contact-info__title">Company Address</h3>
+<address>
+  {{site.company.name}}<br/>
+  {{site.company.address.street}}<br/>
+  {{site.company.address.city}}
+</address>
+</div>
+</div>
 <section class="google-maps">
   {{ page.google-maps }}
 </section>
