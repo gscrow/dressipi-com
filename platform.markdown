@@ -4,11 +4,10 @@ date: 2017-05-06 09:49:00 Z
 position: 5
 navigation: header
 header:
-  title: Powering the future of retail. Ensure your company stays one step ahead of
-    the field.
-  body: "### Revolutionary ideas drive future growth and are how companies stay relevant.
-    Our lab projects enable us to create and test new experiences and tools that we
-    believe will be valuable to customers and retailers in the near future."
+  title: Powering the Future of Retail
+  body: "### Dressipi is the world's only Fashion Prediction Platform. Based on the
+    biggest and most accurate customer and garment dataset in the industry, we power
+    billions of product and outfit predictions every year. "
   button:
     copy: Contact Us
     url: "/contact"
