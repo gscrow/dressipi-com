@@ -34,7 +34,7 @@ sections:
     location.
   subsections:
   - title: 'Retailers can quickly and easily:'
-    body: |
+    list: |
       - Explore customers and customer segments across all product sales and returns
       - See how customers match to inventories
       - Have a useful, data view of all products attributes

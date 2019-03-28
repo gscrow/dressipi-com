@@ -24,6 +24,7 @@ layout: default
           <div class="intro__copy">
             <h3 class="intro__title">{{ subsection.title }}</h3>
             <div class="intro__body">{{ subsection.body | markdownify }}</div>
+            {% if subsection.list %}<div class="intro__body tick-ul">{{ subsection.list | markdownify }}</div>{% endif %}
           </div>
         </div>
         {% endfor %}

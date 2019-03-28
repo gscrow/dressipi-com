@@ -1,0 +1,11 @@
+.tick-ul {
+  ul {
+    li {
+      &:before {
+        content: "✔";
+        margin-top: 0;
+        margin-left: -21px;
+      }
+    }
+  }
+}
