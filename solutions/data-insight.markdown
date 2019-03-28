@@ -56,13 +56,6 @@ sections:
       retailer, data-driven decision   making can form the foundation of your business
       driving more efficiencies in buying and merchandising, better customer experiences
       and less wastage.
-- title: Dressipi's Personalisation Engine
-  handle: slide
-  width: narrow
-  subsections:
-  - body: 
-    image: "/uploads/slide_dressipi.png"
-    hres-image: "/uploads/slide_dressipi.png"
 - title: Key Benefits
   handle: benefits
   color: light-grey
