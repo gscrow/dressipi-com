@@ -32,12 +32,12 @@ sections:
     it much harder to deliver products and experiences that are relevant to them.
   subsections:
   - title: The Challenge
-    list: 'Prediction of customer buying patterns requires a greater understanding
+    list: Prediction of customer buying patterns requires a greater understanding
       of each customer’s total shopping and dressing behaviours than the small slice
       typically collected by a single retailer. Furthermore, in-depth data links between
       a products’ attributes and each customer’s preferences and needs are also required.
       It’s only when these data sets are in place, that the power of machine learning
-      and AI can get to work on identifying impactful predictions and insights.'
+      and AI can get to work on identifying impactful predictions and insights.
   - title: The Solution
     list: Dressipi's Universal Network is a comprehensive profile of every customer's
       preferences, activities and purchases across brands, combined with fashion specific
@@ -90,9 +90,11 @@ sections:
 un-form-demo:
   formspree-ID: xojeeoem
   un-title: Achieve Even Better Results with Universal Network
-  un-subtitle: "Join this leading group of retailers driving change within the industry and taking action to future-proof their business. "
+  un-subtitle: 'Join this leading group of retailers driving change within the industry
+    and taking action to future-proof their business. '
   button: Let's Talk
-  email_cc:
+  email_cc: 
   redirect: "/thanks"
 layout: product
 ---
+
