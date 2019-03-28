@@ -6,6 +6,10 @@ ul.universal-network-list  {
   @extend %list-styled;
 }
 
+.section-benefits {
+  background-color: white;
+}
+
 .tick-ul {
   ul {
     li {

@@ -43,11 +43,15 @@ sections:
       Dressipi has a proven methodology for capturing high volumes of fashion-specific customer data, giving retailers a deeper understanding of core customers and customer segments across all product sales and returns.
 
       The unique database of over 5 million connected fashion customers means retailers can see accurate data on attitudes to trends, preferences, lifestyle and where else the customer shops for key wardrobe items along with how their profile attributes shift over time.
+    image: "/uploads/recommendations_outfits.png"
+    hres-image: "/uploads/recommendations_outfits@2x.png"
   - title: Garment Data
     body: |-
       Dressipi's proprietary garment enrichment data created by real stylists is a world first. Each garment receives up to 35 data points which are checked and validated by an in-house stylist team.
 
       This industry unique way of labelling and cataloguing product streams gives the retailer a useful, data-driven view of all products attributes. It enables the platform to match the right size and fit of each garment to each customer as well as to create automated outfit suggestions in real-time that are personal to every customer.
+    image: "/uploads/recommendations_outfits.png"
+    hres-image: "/uploads/recommendations_outfits@2x.png"
   - title: Actionable Insights
     body: By feeding the garment, customer, purchase and behaviour data back to the
       retailer, data-driven decision   making can form the foundation of your business
@@ -82,4 +86,3 @@ sections:
   - Personalised Email Success with N Brown
 layout: product
 ---
-
