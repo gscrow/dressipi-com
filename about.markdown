@@ -39,27 +39,27 @@ sections:
       Personalisation.
     link:
       copy: Learn more
-      url: "#"
+      url: https://dressipi.com/solutions/predictive-retail/
   - title: Open Platform
     body: Dressipi's platform wraps around your existing infrastructure to improve
       ROI from all other platforms.
     link:
       copy: Learn more
-      url: "#"
+      url: https://dressipi.com/platform/
   - title: Collaborative
     body: The world's only cross domain personal styling solution, allowing for the
       collaboration and connection of  data across all participating retailers and
       all channels wherever that customer is shopping or browsing.
     link:
       copy: Learn more
-      url: "#"
+      url: https://dressipi.com/solutions/universal-network/
   - title: Unique Database
     body: Dressipi has the most extensive database of proprietary garment data and
       fashion-specific customer data that exists in the world today, powering billions
       of product and outfit predictions every year.
     link:
       copy: Learn more
-      url: "#"
+      url: https://dressipi.com/platform/
   - title: Fashion Domain Expertise
     body: Dressipi understands that fashion and how customers think of fashion changes
       with time, inspiration and context. Built to solve fashion prediction, Dressipi's
@@ -69,7 +69,7 @@ sections:
       to personalisation.
     link:
       copy: Learn more
-      url: "#"
+      url: https://www.youtube.com/watch?v=cBoJSADjxjY
   - title: Continual Learning
     body: Dressipi has spent 5 years developing ever-evolving fashion specific ML
       and AI for predicting customer needs and delivering exceptional experiences.
@@ -78,7 +78,7 @@ sections:
       data.
     link:
       copy: Learn more
-      url: "#"
+      url: https://dressipi.com/solutions/data-insight/
   button:
     copy: Let's Talk
     url: "/contact"

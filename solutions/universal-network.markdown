@@ -52,7 +52,7 @@ sections:
   - title: Customer Experience
     subtitle: Give customers highly personalised, friction-free experiences that improve
       every interaction they have
-    list: |
+    body: |
       - Connectable customer profile: create once, use everywhere
       - Suite of product APIs for personalising listing pages, product pages, emails, notifications,
       editorial etc.
@@ -63,7 +63,7 @@ sections:
     image: "/uploads/labs_predictive-retailing@2x.png"
   - title: Data & Insights
     subtitle: Gain competitive advantage
-    list: "- Invaluable customer and product data insights and benchmarking to make
+    body: "- Invaluable customer and product data insights and benchmarking to make
       clearer and more informed decisions on demand to supply matching, merchandising
       and customer acquisition."
     image: "/uploads/predictive_insight.jpg"
@@ -71,10 +71,10 @@ sections:
   handle: benefits
   is-centered: true
   subsections:
-  - title: Increase in net incremental revenue by a minimum of 8%
-    image: "/uploads/icon__shopping-cart.svg"
   - title: Increase AOV by 6%
     image: "/uploads/icon_sku.svg"
+  - title: Increase in net incremental revenue by a minimum of 8%
+    image: "/uploads/icon__shopping-cart.svg"
   - title: Increase conversion and frequency of purchase by up to 30%
     image: "/uploads/icon_customer-chat.svg"
   - title: Reduce returns by 15%
@@ -84,12 +84,6 @@ sections:
   downloads:
   - Accelerating Wallis to be Truly Predictive
   - Personalised Email Success with N Brown
-- title: Be Predictive and Achieve Great Results
-  handle: intro
-  body: |-
-    Get in touch to see how Dressipi's data-driven approach can help increase net incremental revenue per visitor, conversion and frequency of purchase.
-
-    ### #bepredictive
 layout: product
 ---
 
