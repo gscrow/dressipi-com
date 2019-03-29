@@ -16,8 +16,8 @@ header:
     copy: Watch Video
     url: "#youtube"
   color: "#F0F0F0"
-description: Take a look at Dressipi’s history, team and journey to becoming the world’s
-  only Fashion Prediction Platform.
+description: Dressipi is proud to be known as the world's only Fashion Prediction
+  Platform. Discover its history and meet the team.
 sections:
 - title: Dressipi's Mission
   handle: intro
