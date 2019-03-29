@@ -3,14 +3,10 @@ title: Universal Network
 position: 2
 header:
   title: Universal Network
-  body: "Dressipi's Universal Network enables retailers to better compete and thrive
-    by being more predictive and putting customers first.  \n\nThe Universal Network
-    is at the epicentre of innovation, allowing for the collaboration and connection
-    of data across all participating retailers and channels wherever that customer
-    is shopping or browsing. This unique aggregation of data is the most powerful
-    version of Dressipi's Fashion Prediction Platform and delivers a significantly
-    better experience for the customer whilst extending the value for retailers further
-    by driving better predictions and even better results."
+  body: |
+    Dressipi’s Universal Network is at the epicentre of innovation, enabling retailers to better compete and thrive by being more predictive and putting customers first.
+
+    The Universal Network allows for the collaboration and connection of data across all participating retailers and channels wherever that customer is shopping or browsing. This unique aggregation of data delivers a significantly better experience for the customer whilst extending the value for retailers further by driving better predictions and even better results.
   button:
     copy: Let's Talk
     url: "/contact"
