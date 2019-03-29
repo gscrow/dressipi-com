@@ -4,9 +4,9 @@ position: 2
 navigation: header
 header:
   title: Accelerating Fashion Retailers to Be Predictive
-  body: Our long-term clients grow and develop with us, sharing a common goal of seeking
-    to offer their customers unbeatable experiences by delivering best in class recommendations
-    and prediction scores.
+  body: Dressipi's long-term clients are some of the world’s leading retail brands.
+    These brands share a common goal of seeking to offer their customers unbeatable
+    experiences by delivering best in class recommendations and prediction scores.
   button:
     copy: Watch Video
     url: "#youtube"
