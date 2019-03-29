@@ -33,7 +33,7 @@ layout: default
     {% when 'features' %}
     <div class="features">
       {% for subsection in section.subsections %}
-        <div class="feature">
+        <div class="feature {{ subsection.class }}">
           <div class="container">
             {% if subsection.image %}
             <div class="gutter feature__image">

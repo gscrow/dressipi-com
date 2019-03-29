@@ -78,6 +78,7 @@ sections:
       accurate dataset in the retail industry. Access to a unique database of over
       5 million connected fashion customers and proprietary product enrichment data
       leads to better-informed decisions to supply matching, merchandising and acquisition.
+    class: data-insight-index-page
     action:
       copy: Learn More
       url: "/solutions/data-insight/"
@@ -85,4 +86,3 @@ sections:
     hres-image: "/uploads/home_style-hub@2x.png"
 layout: index
 ---
-

@@ -48,6 +48,10 @@
   order: -1;
 }
 
+ .data-insight-index-page {
+   background-color: #ffffff !important;
+ }
+
 // tablet responsive styles
 @include responsive(tablet) {
   .feature {
