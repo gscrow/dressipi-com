@@ -6,3 +6,4 @@ class: jl
 logo: "/uploads/logo__john-lewis.png"
 link: https://www.johnlewis.com/women/personal-style-edit
 ---
+
