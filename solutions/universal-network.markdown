@@ -74,14 +74,14 @@ sections:
   handle: benefits
   is-centered: true
   subsections:
-  - title: Increase AOV by 6%
-    image: "/uploads/icon_sku.svg"
+  - title: Reduce returns by 15%
+    image: "/uploads/icon__cash.svg"
   - title: Increase in net incremental revenue by a minimum of 8%
     image: "/uploads/icon__report-increase.svg"
   - title: Increase conversion and frequency of purchase by up to 30%
     image: "/uploads/icon__shopping-cart.svg"
-  - title: Reduce returns by 15%
-    image: "/uploads/icon__cash.svg"
+  - title: Increase AOV by 6%
+    image: "/uploads/icon_sku.svg"
 - title: Case Studies
   handle: cases
   downloads:
