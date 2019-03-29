@@ -57,6 +57,8 @@ sections:
       retailer, data-driven decision   making can form the foundation of your business
       driving more efficiencies in buying and merchandising, better customer experiences
       and less wastage.
+    image: "/uploads/recommendations_outfits.png"
+    hres-image: "/uploads/recommendations_outfits@2x.png"
 - title: Key Benefits
   handle: benefits
   color: light-grey
@@ -86,4 +88,3 @@ sections:
   - Personalised Email Success with N Brown
 layout: product
 ---
-
