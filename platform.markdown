@@ -9,7 +9,7 @@ header:
     biggest and most accurate customer and garment dataset in the industry, we power
     billions of product and outfit predictions every year. "
   button:
-    copy: Contact Us
+    copy: Let's Talk
     url: "/contact"
     style: secondary
   hero-image: "/uploads/banner_labs.jpg"
@@ -31,7 +31,7 @@ sections:
 - title: Getting Started
   handle: projects
   subsections:
-  - title: 
+  - title:
     branch: getting-started
     description: "Having worked with leading retailers for a number of years, Dressipi
       understands that any technology you consider needs to be easy to implement and
@@ -39,15 +39,15 @@ sections:
       wraps around your existing infrastructure to improve ROI from all platforms.
       \n\nIt couldn’t be simpler, before Dressipi sends you their API’s, all that’s
       needed from you is:"
-    video: 
+    video:
 - title: Current Platform Integrations
   handle: projects
   subtitle: Dressipi integrates seamlessly with many widely used platforms.
   subsections:
-  - title: 
+  - title:
     branch: platform-integrations
     description: D
-    image: 
+    image:
     integrations:
     - Exponea
     - Ometria
