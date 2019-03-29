@@ -14,8 +14,9 @@ header:
     copy: Watch Video
     url: "#youtube"
   color: white
-description: Dressipi's data platform is designed to help retailers understand the
-  who, why and what behind key performance metrics. Find out more.
+description: Dressipi has the most extensive database of proprietary garment data
+  and fashion-specific customer data that exists in the world today. Click here to
+  learn more
 has-contact-section: true
 sections:
 - title: Reactive to Predictive Retailing
@@ -67,19 +68,19 @@ sections:
       Receive perfect visibility of the features and styles they love or won’t wear,
       how confident they are when it comes to dressing or shopping, what they want
       to add to their wardrobe or the events and occasions they buy for.
-    image: "/uploads/icon__results.svg"
+    image: "/uploads/icon__customer-centric.svg"
   - title: Be Smarter
     body: Drill down to understand which customers or features are causing high sales
       growth or increasing returns. Use this insight to create products your customers
       will love in the right quantities.
-    image: "/uploads/icon__customer-centric.svg"
+    image: "/uploads/icon__data-driven.svg"
   - title: Optimise Key Metrics
     body: Minimise returns by predicting the likely return rate of each product within
       just a few days of trading, then avoid re-purchasing items with a high propensity
       for returning. Ensure your merchandising buys exceed expectations by using Dressipi’s
       garment and feature checker to optimise forecasting at a SKU, size and individual
       location level.
-    image: "/uploads/icon__data-driven.svg"
+    image: "/uploads/icon__results.svg"
 - title: Case Studies
   handle: cases
   downloads:
