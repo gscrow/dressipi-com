@@ -48,8 +48,8 @@ sections:
   color: light-grey
   subsections:
   - title: Customer Experience
-    subtitle: Give customers highly personalised, friction-free experiences that improve
-      every interaction they have
+    subtitle: 'Give customers highly personalised, friction-free experiences that
+      improve every interaction they have through these features:'
     body: |-
       <ul class="universal-network-list">
 
@@ -63,11 +63,12 @@ sections:
       </ul>
     image: "/uploads/labs_predictive-retailing@2x.png"
   - title: Data & Insights
-    subtitle: Gain competitive advantage
-    body: |-
+    subtitle: 'Gain competitive advantage:'
+    body: |
       <ul class="universal-network-list">
 
-      <li> Invaluable customer and product data insights and benchmarking to make clearer and more informed decisions on demand to supply matching, merchandising and customer acquisition.</li>
+      <li> Invaluable customer and product data insights and benchmarking</li>
+      <li> Make clearer and more informed decisions on demand to supply matching, merchandising and customer acquisition</li>
       </ul>
     image: "/uploads/predictive_insight.jpg"
 - title: Key Benefits
