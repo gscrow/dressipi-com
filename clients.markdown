@@ -23,7 +23,7 @@ header:
   - Long Tall Sally
 description: Dressipi works with some of the UK’s biggest retailers, helping them
   become more profitable, more customer-centric and more efficient. Discover who they
-  are
+  are.
 has-contact-section: true
 sections:
 - title: The Value Dressipi Unlocks For Retailers
