@@ -29,7 +29,7 @@ sections:
     body: 'Unlike other personalisation providers, every product recommended is mapped
       to each customer as if curated by their own personal stylist. Dressipi does
       this by analysing a customer’s profile, behavioural activity, wardrobe context,
-      trend sentiment and intent in real time.t.
+      trend sentiment and intent in real time.
 
 '
     image: "/uploads/home_recommendations-screen.png"
