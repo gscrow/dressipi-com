@@ -1,3 +1,9 @@
 .ul-bullet {
   @extend %list-styled;
 }
+
+.predictive-section {
+  li {
+    margin-left: 10%;
+  }
+}

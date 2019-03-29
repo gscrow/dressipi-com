@@ -22,6 +22,7 @@ sections:
 - title: Reactive to Predictive Retailing
   handle: intro
   width: narrow
+  class: predictive-section
   body: "> Dressipi's Fashion Prediction Platform is based on the biggest and most
     accurate customer and garment dataset in the industry, powering billions of product
     and outfit predictions every year. \n\nWith the wealth of data provided from using
@@ -88,4 +89,3 @@ sections:
   - Personalised Email Success with N Brown
 layout: product
 ---
-

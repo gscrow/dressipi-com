@@ -16,7 +16,7 @@ layout: default
   <div class="section__body">
     {% case handle %}
     {% when 'intro' %}
-    <div class="container{% if section.width %}{{ section.width | prepend: '--' }}{% endif %} gutter ul-bullet">
+    <div class="container{% if section.width %}{{ section.width | prepend: '--' }}{% endif %} gutter ul-bullet {{ section.class }}">
       {{ section.body | markdownify }}
       <div class="intro__list">
         {% for subsection in section.subsections %}
