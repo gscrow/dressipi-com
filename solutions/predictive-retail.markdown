@@ -32,8 +32,8 @@ sections:
       trend sentiment and intent in real time.
 
 '
-    image: "/uploads/home_recommendations-screen.png"
-    hres-image: "/uploads/home_recommendations-screen@2x.png"
+    image: "/uploads/predicting_retail-relevant_product-screen.png"
+    hres-image: "/uploads/predicting_retail-relevant_product-screen@2x.png"
   - title: Outfit Creation
     body: "64% of women want outfit inspiration on how to wear/dress up and dress
       down a garment they are thinking of buying.\n \nDressipi's Fashion Prediction
@@ -91,4 +91,3 @@ sections:
   - Personalised Email Success with N Brown
 layout: product
 ---
-
