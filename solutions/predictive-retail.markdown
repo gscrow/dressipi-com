@@ -84,7 +84,7 @@ sections:
       that truly understands and adapts to customer behaviour as well as the dynamic,
       fast-paced world of retail.
     image: "/uploads/icon__hanger.svg"
-    class: "hanger-icon"
+    class: hanger-icon
 - title: Case Studies
   handle: cases
   downloads:
@@ -92,3 +92,4 @@ sections:
   - Personalised Email Success with N Brown
 layout: product
 ---
+
