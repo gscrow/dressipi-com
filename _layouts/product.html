@@ -93,8 +93,8 @@ layout: default
 		{% when 'benefits' %}
 		<div class="container benefits {% if section.is-centered %}text--center{% endif %}">
 		  {% for subsection in section.subsections %}
-		  <div class="gutter benefit">
-		    <div class="benefit__icon"><img src="{{ subsection.image }}" /></div>
+		  <div class="gutter benefit {{ subsection.gutter-class }}">
+		    <div class="benefit__icon"><img src="{{ subsection.image }}" class="{{ subsection.class }}" /></div>
 		    <h3 class="benefit__title">{{ subsection.title }}</h3>
 		    <div class="benefit__body">
 		    	{{ subsection.body | markdownify }}

@@ -1,10 +1,11 @@
 .hero-solutionsuniversal-network {
-  background: linear-gradient(to left, rgba(255, 255, 255, 0) 30%, #F0F0F0 50%), url(/uploads/banner_labs.jpg) no-repeat right !important;
+  background: linear-gradient(to left, rgba(255, 255, 255, 0) 30%, #f0f0f0 50%),
+    url(/uploads/banner_labs.jpg) no-repeat right !important;
   background-size: contain !important;
   max-height: 608px;
 }
 
-ul.universal-network-list  {
+ul.universal-network-list {
   @extend %list-styled;
 }
 
@@ -21,5 +22,18 @@ ul.universal-network-list  {
         margin-left: -21px;
       }
     }
+  }
+}
+
+.gutter-pound-icon {
+  margin-top: 0;
+  .pound-icon {
+    height: 50px;
+  }
+}
+
+@media (min-width: 480px) {
+  .gutter-pound-icon {
+    margin-top: 0 !important;
   }
 }

@@ -78,12 +78,13 @@ sections:
     body: Dressipi aims to give each customer the best possible experience by putting
       their needs at the heart of the solution to deliver a truly personalised experience
       that delivers unbeatable results.
-    image: "/uploads/icon__customer-centric.svg"
+    image: "/uploads/icon__user-love.svg"
   - title: Fashion Specific
     body: Dressipi outperforms the market due to fashion-specific algorithms and AI
       that truly understands and adapts to customer behaviour as well as the dynamic,
       fast-paced world of retail.
-    image: "/uploads/icon__data-driven.svg"
+    image: "/uploads/icon__hanger.svg"
+    class: "hanger-icon"
 - title: Case Studies
   handle: cases
   downloads:
@@ -91,4 +92,3 @@ sections:
   - Personalised Email Success with N Brown
 layout: product
 ---
-
