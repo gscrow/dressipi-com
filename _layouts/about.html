@@ -44,26 +44,25 @@ layout: default
 			{% endfor %}
 			</div>
 	  </div>
-	  {% when 'team' %}
-	  <div class="container team">
-	  	<div class="gutter team-intro">{{ section.body | markdownify }}</div>
-	    <ul class="team__members">
-	    {% for member in section.members %}
-	      <li class="gutter team__member">
-					<div class="team__member-image">
-	      		<img src="{{ member.image }}" alt="{{ member.name }}" />
-    			{% if member.linkedin %}
-						<a href="{{ member.linkedin }}" class="team__member-icon" title="LinkedIn {{ member.name }}" target="_blank"><img src="/assets/linkedin.svg"></a>
-					{% endif %}
-					</div>
-					<p class="team__member-name">
-						{{ member.name }}
-					</p>
-					<p class="team__member-title">{{ member.title }}</p>
-	      </li>
-	     {% endfor %}
-	    </ul>
-	  </div>
+    {% when 'press' %}
+     <ul class="publication__list container publication__breakpoint">
+     {% for publication in section.publications %}
+     <li class="publication__wrap smaller__wrap">
+         <div class="publication__item">
+           <div class="publication__body">
+             <p>{{ publication.title }}</p>
+           </div>
+           {% if publication.image %}
+           <div class="publication__logo">
+             <div><!-- keep flex image ratio -->
+             {% if publication.url %}<a href="{{ publication.url }}" target="_blank">{% endif %}<img src="{{ publication.image }}" alt="{{ publication.title }}" />{% if publication.url %}</a>{% endif %}
+             </div>
+           </div>
+           {% endif %}
+         </div>
+       </li>
+     {% endfor %}
+     </ul>
 	  {% when nil %}
 	  <div class="container{% if section.width %}{{ section.width | prepend: '--' }}{% endif %} gutter">
 		  {{ section.body | markdownify }}

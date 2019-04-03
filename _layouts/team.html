@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+{% for section in page.sections %}
+{% assign handle = section.handle %}
+<section id="{{ handle }}" class="section {% if handle %}{{ section.handle | prepend: 'section-' | append: ' ' }}{% endif %}background--{{ section.color | default:'white' }}">
+	<!-- section heading group -->
+  <hgroup class="container gutter section__heading">
+    {% if section.title %}<h3>{{ section.title }}</h3>{% endif %}
+    {% if section.subtitle %}<h4>{{ section.subtitle }}</h4>{% endif %}
+  </hgroup>
+
+  <!-- section content group -->
+  <div class="section__body">
+{% case handle %}
+{% when 'team' %}
+<div class="container team">
+  <div class="gutter team-intro">{{ section.body | markdownify }}</div>
+  <ul class="team__members">
+  {% for member in section.members %}
+    <li class="gutter team__member">
+      <div class="team__member-image">
+        <img src="{{ member.image }}" alt="{{ member.name }}" />
+      {% if member.linkedin %}
+        <a href="{{ member.linkedin }}" class="team__member-icon" title="LinkedIn {{ member.name }}" target="_blank"><img src="/assets/linkedin.svg"></a>
+      {% endif %}
+      </div>
+      <p class="team__member-name">
+        {{ member.name }}
+      </p>
+      <p class="team__member-title">{{ member.title }}</p>
+    </li>
+   {% endfor %}
+  </ul>
+</div>
+{% endcase %}
+</div>
+
+{% if section.button %}
+<!-- section footer group -->
+<div class="container gutter text--center">
+  <a href="{{ section.button.url }}" class="button button--large button-{{ section.button.style | default: 'secondary' }}">{{ section.button.copy }}</a>
+</div>
+{% endif %}
+</section>
+{% endfor %}

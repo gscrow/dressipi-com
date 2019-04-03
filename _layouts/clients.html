@@ -89,25 +89,6 @@ layout: default
     <div class="container{% if section.width %}{{ section.width | prepend: '--' }}{% endif %} gutter">
       {{ section.body | markdownify }}
     </div>
-     {% when 'press' %}
-      <ul class="publication__list container publication__breakpoint">
-      {% for publication in section.publications %}
-      <li class="publication__wrap smaller__wrap">
-          <div class="publication__item">
-            <div class="publication__body">
-              <p>{{ publication.title }}</p>
-            </div>
-            {% if publication.image %}
-            <div class="publication__logo">
-              <div><!-- keep flex image ratio -->
-              {% if publication.url %}<a href="{{ publication.url }}" target="_blank">{% endif %}<img src="{{ publication.image }}" alt="{{ publication.title }}" />{% if publication.url %}</a>{% endif %}
-              </div>
-            </div>
-            {% endif %}
-          </div>
-        </li>
-      {% endfor %}
-      </ul>
     {% endcase %}
   </div>
 
