@@ -61,7 +61,7 @@ sections:
       copy: Learn More
       url: "/solutions/predictive-retail"
     image: "/uploads/predicting_retail-relevant_product-screen.png"
-    hres-image: "/uploads/home_recommendations-screen@2x.png"
+    hres-image: "/uploads/predicting_retail-relevant_product-screen@2x.png"
   - title: Universal Network
     body: 'An industry first, the Universal Network is an application at the epicentre
       of digital innovation. It allows for the collaboration and connection of data
