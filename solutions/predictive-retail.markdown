@@ -47,8 +47,8 @@ sections:
       rates. Dressipi recommends the best size for every product the customer sees
       when interacting with your brand, giving them that extra reassurance to add
       an item to their basket and reduce the likelihood of making a return. '
-    image: "/uploads/recommendations_sizing.png"
-    hres-image: "/uploads/recommendations_sizing@2x.png"
+    image: "/uploads/sizing-widget.png"
+    hres-image: "/uploads/sizing-widget@x2.png"
   - title: Relevant Listing & Category Pages
     body: Given the technology that's available today, customers shouldn't all be
       seeing the exact same listing and category pages. Eliminate the hassle of lengthy
