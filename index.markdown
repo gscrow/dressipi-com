@@ -81,8 +81,8 @@ sections:
     action:
       copy: Learn More
       url: "/solutions/data-insight/"
-    image: "/uploads/home_data-insights@2x.png"
-    hres-image: "/uploads/home_style-hub@2x.png"
+    image: "/uploads/home_data-insights.png"
+    hres-image: "/uploads/home_data-insights@2x.png"
 layout: index
 ---
 
