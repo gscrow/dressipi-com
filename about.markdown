@@ -180,7 +180,7 @@ sections:
     image: "/uploads/Joe%20MR.JPG"
   button:
     copy: Join Our Team
-    url: "/career"
+    url: "/careers"
 layout: about
 ---
 
