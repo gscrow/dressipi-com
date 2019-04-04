@@ -8,14 +8,14 @@ header:
   body: |-
     ### With passion, ambition and a commitment to learning, our close-knit team support, challenge and inspire each other every day.
 
-    ### We are always looking for outstanding individuals from diverse backgrounds, who want to be part of our fantastic team and shape the future of retail.
+    ### We are always looking for outstanding individuals from diverse backgrounds who want to be part of our fantastic team and shape the future of retail.
   button:
     copy: Join our Team
     url: "#jobs"
     style: secondary
   hero-image: "/uploads/banner_careers.jpg"
 description: Discover how you can be part of a team working on shaping the future
-  of retail. Click here to see the latest positions available at Dressipi.
+  of retail. Take a look at the latest positions available at Dressipi.
 sections:
 - title: Personalisation is Our Passion
   handle: intro
@@ -30,8 +30,9 @@ sections:
     Arcadia Group and others."
 - title: Join our Team
   handle: join
-  body: Multi award winning and working on ground-breaking technology which is having
-    a real impact we think we can offer you something fantastic.
+  body: We are a multi-award winning business working on ground-breaking technology
+    that is having a real impact. By joining [our team](http://dressipi.com/team/)
+    we can offer you something fantastic.
   width: narrow text--center
   color: light-grey
   columns: 2
@@ -52,7 +53,7 @@ sections:
       every team member has a generous equity stake and a competitive salary.
     image: "/uploads/icon__cash.svg"
   - title: Happiness and Well-Being
-    body: We are a relaxed, open & friendly group of people and believe everyone can
+    body: We are a relaxed, open, friendly group of people who believe everyone can
       achieve their personal and professional goals in life.
     image: "/uploads/icon__happy.svg"
 - title: Work With Us
