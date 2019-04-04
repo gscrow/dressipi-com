@@ -66,7 +66,8 @@ sections:
       <li> Invaluable customer and product data insights and benchmarking</li>
       <li> Make clearer and more informed decisions on demand to supply matching, merchandising and customer acquisition</li>
       </ul>
-    image: "/uploads/predictive_insight.jpg"
+    image: "/uploads/dressipi_dashboard_desktop.png"
+    hres: 
 - title: Key Benefits
   handle: benefits
   is-centered: true
