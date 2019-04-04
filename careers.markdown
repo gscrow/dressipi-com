@@ -31,8 +31,8 @@ sections:
 - title: Join our Team
   handle: join
   body: We are a multi-award winning business working on ground-breaking technology
-    that is having a real impact. By joining [our team](http://dressipi.com/team)
-    we can offer you something fantastic.
+    that is having a real impact. By joining [our team](/team) we can offer you something
+    fantastic.
   width: narrow text--center
   color: light-grey
   columns: 2
