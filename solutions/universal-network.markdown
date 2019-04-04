@@ -67,7 +67,7 @@ sections:
       <li> Make clearer and more informed decisions on demand to supply matching, merchandising and customer acquisition</li>
       </ul>
     image: "/uploads/dressipi_dashboard_desktop.png"
-    hres: 
+    hres-image: "/uploads/dressipi_dashboard_desktop@2x.png"
 - title: Key Benefits
   handle: benefits
   is-centered: true
