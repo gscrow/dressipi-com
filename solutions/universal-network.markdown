@@ -72,11 +72,11 @@ sections:
   handle: benefits
   is-centered: true
   subsections:
-  - title: Reduce returns by 15%
+  - title: Reduce returns by 16%
     image: "/uploads/icon__cash.svg"
-  - title: Increase in net incremental revenue by a minimum of 8%
+  - title: Increase in net incremental revenue by a minimum of 10%
     image: "/uploads/icon__report-increase.svg"
-  - title: Increase conversion and frequency of purchase by up to 30%
+  - title: Increase conversion and frequency of purchase by up to 33%
     image: "/uploads/icon__shopping-cart.svg"
   - title: Increase AOV by 6%
     image: "/uploads/icon__pound-tag.svg"
