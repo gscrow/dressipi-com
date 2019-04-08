@@ -35,7 +35,7 @@ sections:
     image: "/uploads/predicting_retail-relevant_product-screen.png"
     hres-image: "/uploads/predicting_retail-relevant_product-screen@2x.png"
   - title: Outfit Creation
-    body: "64% of women want outfit inspiration on how to wear/dress up and dress
+    body: "74% of women want outfit inspiration on how to wear/dress up and dress
       down a garment they are thinking of buying.\n \nDressipi's Fashion Prediction
       Platform has created over 5 trillion outfits for our retail clients, showing
       their customers how to style items for different occasions with new products
