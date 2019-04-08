@@ -43,10 +43,10 @@ sections:
     image: "/uploads/recommendations_outfits.png"
     hres-image: "/uploads/recommendations_outfits@2x.png"
   - title: Sizing
-    body: 'Helping customers select the right size can greatly increase conversion
-      rates. Dressipi recommends the best size for every product the customer sees
-      when interacting with your brand, giving them that extra reassurance to add
-      an item to their basket and reduce the likelihood of making a return. '
+    body: 'Avoid the disappointment of customers finally finding a garment they love
+      only to discover that their size isn''t available. Dressipi recommends products
+      that will fit perfectly, giving extra reassurance to add an item to basket and
+      reduce the likelihood of making a return. '
     image: "/uploads/sizing-widget.png"
     hres-image: "/uploads/sizing-widget@x2.png"
   - title: Relevant Listing & Category Pages
