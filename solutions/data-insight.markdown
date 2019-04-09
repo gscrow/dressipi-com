@@ -15,8 +15,7 @@ header:
     url: "#youtube"
   color: white
 description: Dressipi has the most extensive database of proprietary garment data
-  and fashion-specific customer data that exists in the world today. Click here to
-  learn more
+  and fashion-specific customer data that exists in the world today. Learn more.
 has-contact-section: true
 sections:
 - title: Reactive to Predictive Retailing
