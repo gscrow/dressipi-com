@@ -14,8 +14,8 @@ header:
     url: "#jobs"
     style: secondary
   hero-image: "/uploads/banner_careers.jpg"
-description: Discover how you can be part of a team working on shaping the future
-  of retail. Take a look at the latest positions available at Dressipi.
+description: Discover how you can be part of a team that is shaping the future of
+  retail. Take a look at the latest positions available at Dressipi.
 sections:
 - title: Personalisation is Our Passion
   handle: intro
