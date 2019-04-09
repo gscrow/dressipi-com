@@ -5,8 +5,8 @@ position: 1
 navigation: footer
 header:
   height: tight
-description: Get in touch to learn more about how we can provide fashion personalisation
-  solutions for your business.
+description: Get in touch if you have any questions about how Dressipi can help start
+  you on your journey to be predictive.
 form-contact:
   formspree-ID: meeaabem
   button: Send Message
