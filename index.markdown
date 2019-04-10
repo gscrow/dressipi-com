@@ -34,8 +34,8 @@ sections:
 - title: The Value Dressipi Unlocks For Retailers
   handle: youtube
 - title: Results
-  subtitle: Dressipi consistently outperforms other suppliers by significant margins
   comment: "(Proven by external A/B tests)"
+  subtitle: Dressipi consistently outperforms other suppliers by significant margins
   handle: benefits
   subsections:
   - title: Increase in net incremental revenue by a minimum of 8%
