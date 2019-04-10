@@ -38,7 +38,7 @@ sections:
   subtitle: Dressipi consistently outperforms other suppliers by significant margins
   handle: benefits
   subsections:
-  - title: Increase in net incremental revenue by a minimum of 8%
+  - title: Increase in net incremental revenue per visitor by a minimum of 8%
     image: "/uploads/icon__report-increase.svg"
   - title: Reduce returns by 15%
     image: "/uploads/icon__cash.svg"
