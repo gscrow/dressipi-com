@@ -8,8 +8,8 @@ layout: default
   <!-- section heading group -->
   <hgroup class="container gutter section__heading">
     {% if section.title %}<h3>{{ section.title }}</h3>{% endif %}
+    {% if section.comment %}<p class="comment">{{ section.comment }}</p>{% endif %}
     {% if section.subtitle %}<h4>{{ section.subtitle }}</h4>{% endif %}
-    {% if section.comment %}<h4>{{ section.comment }}</h4>{% endif %}
   </hgroup>
 
   <!-- section content group -->
