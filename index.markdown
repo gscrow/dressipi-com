@@ -35,6 +35,7 @@ sections:
   handle: youtube
 - title: Results
   subtitle: Dressipi consistently outperforms other suppliers by significant margins
+  comment: "(Proven by external A/B tests)"
   handle: benefits
   subsections:
   - title: Increase in net incremental revenue by a minimum of 8%
@@ -85,4 +86,3 @@ sections:
     hres-image: "/uploads/home_data-insights@2x.png"
 layout: index
 ---
-
