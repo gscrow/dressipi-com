@@ -57,7 +57,7 @@ sections:
       <li> Customer set shopping requests (e.g. I’m looking for...)</li>
       <li> Easy integration with CRMs, ESPs, clienteling</li>
       </ul>
-    image: "/uploads/labs_predictive-retailing@2x.png"
+    image: "/uploads/customer_experience@2x.png"
   - title: Data & Insights
     subtitle: 'Gain competitive advantage:'
     body: |
@@ -93,8 +93,7 @@ un-form-demo:
   un-subtitle: 'Join this leading group of retailers driving change within the industry
     and taking action to future-proof their business. '
   button: Let's Talk
-  email_cc: 
+  email_cc:
   redirect: "/thanks"
 layout: product
 ---
-
