@@ -93,7 +93,8 @@ un-form-demo:
   un-subtitle: 'Join this leading group of retailers driving change within the industry
     and taking action to future-proof their business. '
   button: Let's Talk
-  email_cc:
+  email_cc: 
   redirect: "/thanks"
 layout: product
 ---
+
