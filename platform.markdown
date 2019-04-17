@@ -11,7 +11,7 @@ header:
   button:
     copy: Let's Talk
     url: "/contact"
-    style: secondary
+    style: primary
   hero-image: "/uploads/banner__laptop-code.jpg"
   link:
     copy: Learn More
