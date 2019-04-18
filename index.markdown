@@ -68,8 +68,8 @@ sections:
       of digital innovation. It allows for the collaboration and connection of data
       across all participating retailers and channels, delivering more data, better
       customer experiences and even better results. '
-    image: "/uploads/home_data-insights.png"
-    hres-image: "/uploads/home_data-insights@2x.png"
+    image: "/uploads/customer_experience.png"
+    hres-image: "/uploads/customer_experience@2x.png"
     action:
       copy: Learn More
       url: "/solutions/universal-network/"
