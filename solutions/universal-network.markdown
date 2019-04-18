@@ -6,7 +6,7 @@ header:
   body: |
     Dressipi’s Universal Network is at the epicentre of innovation, enabling retailers to better compete and thrive by being more predictive and putting customers first.
 
-    The Universal Network allows for the collaboration and connection of data across all participating retailers and channels wherever that customer is shopping or browsing. This unique aggregation of data delivers a significantly better experience for the customer whilst extending the value for retailers further by driving better predictions and even better results.
+    The Universal Network allows for the collaboration and connection of data across all participating retailers and channels wherever that customer is shopping or browsing.
   button:
     copy: Let's Talk
     url: "/contact"
@@ -28,17 +28,18 @@ sections:
     it much harder to deliver products and experiences that are relevant to them.
   subsections:
   - title: The Challenge
-    list: Prediction of customer buying patterns requires a greater understanding
+    list: "Prediction of customer buying patterns requires a greater understanding
       of each customer’s total shopping and dressing behaviours than the small slice
-      typically collected by a single retailer. Furthermore, in-depth data links between
-      a products’ attributes and each customer’s preferences and needs are also required.
-      It’s only when these data sets are in place, that the power of machine learning
-      and AI can get to work on identifying impactful predictions and insights.
+      typically collected by a single retailer. \n\nFurthermore, in-depth data links
+      between a products’ attributes and each customer’s preferences and needs are
+      also required. It’s only when these data sets are in place, that the power of
+      machine learning and AI can get to work on identifying impactful predictions
+      and insights."
   - title: The Solution
-    list: Dressipi's Universal Network is a comprehensive profile of every customer's
-      preferences, activities and purchases across brands, combined with fashion specific
-      algorithms and product data to inform each retailer, in real time, what every
-      customer is most likely to buy and not return.
+    list: |-
+      Dressipi's Universal Network is a comprehensive profile of every customer's preferences, activities and purchases across brands, combined with fashion specific algorithms and product data to inform each retailer, in real time, what every customer is most likely to buy and not return.
+
+      This unique aggregation of data delivers a significantly better experience for the customer whilst extending the value for retailers further by driving better predictions and even better results.
 - title: Key Features
   handle: features
   color: light-grey
