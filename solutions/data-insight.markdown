@@ -5,7 +5,7 @@ header:
   body: "Retailers have been relying on gut instinct for too long. It's time to put
     data at the heart of decision making. \n\nUsing the latest advancements in Machine
     Learning and AI, Dressipi's data platform is designed to help retailers understand
-    the who, why and what behind key performance metrics"
+    the who, why and what behind key performance metrics."
   button:
     copy: Let's Talk
     url: "/contact"
