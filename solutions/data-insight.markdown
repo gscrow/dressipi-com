@@ -28,10 +28,9 @@ sections:
     Dressipi's platform, retailers can begin to move from reactive to predictive retailing.
     This contributes to:\n- A more accurate model for future buying\n- Honing expert
     gut instincts \n- Additional insight into existing merchandising tools to deliver
-    higher sell-through rates and lower markdowns.\n\nThis does not distract from
-    creativity and new trends but allows each retailer to better predict how they
-    should respond to key trends, key pieces and how they benchmark against their
-    peers."
+    higher sell-through rates and lower markdowns\n\nThis does not distract from creativity
+    and new trends but allows each retailer to better predict how they should respond
+    to key trends, key pieces and how they benchmark against their peers."
 - title: Why Personalisation Is Hard To Achieve
   handle: youtube
 - title: Key Features
