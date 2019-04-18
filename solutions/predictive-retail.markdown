@@ -40,6 +40,7 @@ sections:
       or ones they already own."
     image: "/uploads/recommendations_outfits.png"
     hres-image: "/uploads/recommendations_outfits@2x.png"
+    class: single-mobile
   - title: Sizing
     body: 'Avoid the disappointment of customers finally finding a garment they love
       only to discover that their size isn''t available. Dressipi recommends products
@@ -54,6 +55,7 @@ sections:
       easily see the products most relevant to them.
     image: "/uploads/recommendations_listing.png"
     hres-image: "/uploads/recommendations_listing@2x.png"
+    class: single-mobile
   - title: Personalised Marketing
     body: "Imagine how much more effective your marketing would be if you could send
       curated material that is different for each and every person depending on their
@@ -89,4 +91,3 @@ sections:
   - Personalised Email Success with N Brown
 layout: product
 ---
-
