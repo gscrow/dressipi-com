@@ -48,11 +48,10 @@ sections:
     image: "/uploads/sizing-widget.png"
     hres-image: "/uploads/sizing-widget@x2.png"
   - title: Relevant Listing & Category Pages
-    body: Given the technology that's available today, customers shouldn't all be
-      seeing the exact same listing and category pages. Eliminate the hassle of lengthy
-      scrolling and hours of searching for the perfect item by showing a personalised
-      listing for each customer so they can quickly and easily see the products most
-      relevant to them.
+    body: Customers shouldn't all see the exact same listing and category pages. Eliminate
+      the hassle of lengthy scrolling and hours of searching for the perfect item
+      by showing a personalised listing for each customer so they can quickly and
+      easily see the products most relevant to them.
     image: "/uploads/recommendations_listing.png"
     hres-image: "/uploads/recommendations_listing@2x.png"
   - title: Personalised Marketing
