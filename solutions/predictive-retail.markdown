@@ -6,7 +6,7 @@ header:
   body: |-
     When shopping for clothing, no one journey is ever the same so why do retailers continue to deliver a one size fits all experience?
 
-    Dressipi gives retailers the power to move from being purely reactive to predicting the most relevant products for each and every customer. Dressipi's machine learning technology selects the most effective algorithms for every customer, considering their individual profile, preferences, behaviour and the context in which they are shopping.
+    Dressipi's machine learning technology selects the most effective algorithms for every customer, considering their individual profile, preferences, behaviour and the context in which they are shopping. This gives retailers the power to move from being purely reactive to predicting the most relevant products for each and every customer.
   button:
     copy: Let's Talk
     url: "/contact"
