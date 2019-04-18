@@ -51,5 +51,9 @@
     &:first-child {
       margin-top: 0;
     }
+
+    &__icon, &__title {
+      text-align: center;
+    }
   }
 }
