@@ -31,7 +31,7 @@ sections:
 - title: Getting Started
   handle: projects
   subsections:
-  - title: 
+  - title:
     branch: getting-started
     description: "Having worked with leading retailers for a number of years, Dressipi
       understands that any technology you consider needs to be easy to implement and
@@ -39,15 +39,15 @@ sections:
       wraps around your existing infrastructure to improve ROI from all platforms.
       \n\nIt couldn’t be simpler, before Dressipi sends you their API’s, all that’s
       needed from you is:"
-    video: 
+    video:
 - title: Current Platform Integrations
   handle: projects
   subtitle: Dressipi integrates seamlessly with many widely used platforms.
   subsections:
-  - title: 
+  - title:
     branch: platform-integrations
     description: D
-    image: 
+    image:
     integrations:
     - Exponea
     - Ometria
@@ -58,5 +58,5 @@ sections:
 layout: platform
 ---
 
-<div class="ul-div"><ul><li>Transaction data</li><li> Product feed</li><li> Add some tags to your pages</li></ul></div>
+<div class="ul-div"><ul><li><img class="pink-tick" src="/uploads/pink-tick.png">Transaction data</li><li> <img class="pink-tick" src="/uploads/pink-tick.png">Product feed</li><li> <img class="pink-tick" src="/uploads/pink-tick.png">Add some tags to your pages</li></ul></div>
 <a href="/contact" class="button button--large button-primary center" title="">{{ site.form-demo.button }}</a>
