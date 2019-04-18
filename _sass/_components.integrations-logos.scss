@@ -30,11 +30,12 @@
 }
 
 @include responsive(mobile) {
-  .client {
+  .integration {
     &__logo {
       text-align: center;
       flex-basis: 100%;
       margin-right: 65px !important;
+      max-width: 100px;
     }
   }
 }
