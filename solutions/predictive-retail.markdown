@@ -60,7 +60,7 @@ sections:
       preferences and shopping behaviour? \n\nPersonalised emails and notifications
       lead to higher open rates, click-through rates and purchases than campaigns
       based purely on segmentation. Dressipi works with any ESP and can help deliver
-      theme or trigger based marketing activity"
+      theme or trigger based marketing activity."
     image: "/uploads/recommendations_email.png"
     hres-image: "/uploads/recommendations_email@2x.png"
 - title: Key Benefits
