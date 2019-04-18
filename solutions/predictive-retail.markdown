@@ -6,7 +6,7 @@ header:
   body: |-
     When shopping for clothing, no one journey is ever the same so why do retailers continue to deliver a one size fits all experience?
 
-    Rather than being purely reactive to customer behaviour, Dressipi gives retailers the power to predict the most relevant products for each and every customer. Dressipi's machine learning technology continuously evaluates the performance of recommendations to select the most effective algorithms for every customer, considering their individual profile, preferences, behaviour and the context in which they are shopping.
+    Dressipi gives retailers the power to move from being purely reactive to predicting the most relevant products for each and every customer. Dressipi's machine learning technology selects the most effective algorithms for every customer, considering their individual profile, preferences, behaviour and the context in which they are shopping.
   button:
     copy: Let's Talk
     url: "/contact"
@@ -26,12 +26,10 @@ sections:
   color: light-grey
   subsections:
   - title: Predicting Relevant Products
-    body: 'Unlike other personalisation providers, every product recommended is mapped
-      to each customer as if curated by their own personal stylist. Dressipi does
-      this by analysing a customer’s profile, behavioural activity, wardrobe context,
-      trend sentiment and intent in real time.
+    body: |+
+      Unlike other personalisation providers, every product recommended is mapped to each customer as if curated by their own personal stylist. Dressipi does this by analysing a customer’s profile, behavioural activity, wardrobe context, trend sentiment and intent in real time.
 
-'
+
     image: "/uploads/predicting_retail-relevant_product-screen.png"
     hres-image: "/uploads/predicting_retail-relevant_product-screen@2x.png"
   - title: Outfit Creation
