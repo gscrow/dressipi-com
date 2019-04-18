@@ -56,6 +56,10 @@
 }
 
 @include responsive(mobile) {
+  .carrer-column {
+    text-align: center;
+  }
+
   .job {
     padding: rhythm(5) 0;
 
