@@ -45,17 +45,17 @@ sections:
   color: light-grey
   subsections:
   - title: Customer Experience
-    subtitle: 'Give customers highly personalised, friction-free experiences that
-      improve every interaction they have through these features:'
+    subtitle: Give customers highly personalised, friction-free experiences that improve
+      every interaction they have.
     body: |-
       <ul class="universal-network-list">
 
       <li> Connectable customer profile: create once, use everywhere</li>
+      <li> Customer set shopping requests (e.g. I’m looking for...)</li>
+      <li> Unique wardrobe functionality for customers to view new items with owned items</li>
       <li> Suite of product APIs for personalising listing pages, product pages, emails, notifications,
       editorial etc.</li>
       <li> Suite of outfit APIs for personalising Style It With, Scan for Outfits instore</li>
-      <li> Unique wardrobe functionality for customers to view new items with owned items</li>
-      <li> Customer set shopping requests (e.g. I’m looking for...)</li>
       <li> Easy integration with CRMs, ESPs, clienteling</li>
       </ul>
     image: "/uploads/customer_experience@2x.png"
