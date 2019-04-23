@@ -38,10 +38,6 @@ sections:
     title: Chief Data Scientist
     linkedin: https://www.linkedin.com/in/nicklandia/?ppe=1
     image: "/uploads/nick-landia.jpg"
-  - name: Martyn Jobber
-    title: Chief Commercial Officer
-    linkedin: https://www.linkedin.com/in/martyn-jobber-059608/
-    image: "/uploads/Martyn_Jobber_Headshot.jpeg"
   - name: Jonny Aloysius
     title: Head of Finance
     linkedin: https://www.linkedin.com/in/jonny-aloysius-1562463
