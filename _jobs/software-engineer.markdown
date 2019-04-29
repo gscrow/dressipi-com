@@ -4,28 +4,31 @@ date: 2017-05-09 12:31:00 Z
 is-open: false
 ---
 
-Interested in disrupting the trillion-pound retail industry? We’re tackling one of the hottest and most challenging problems in Machine Learning: designing and building a personalisation system that understands fashion.
+The world of retail is changing, and Dressipi is leading the charge. Delivering great customer experiences is the only way for retailers to succeed. We help some of the UK’s biggest brands to better predict what their customers want to buy and keep so they can truly connect with their shoppers. 
 
 ### Where you can make an impact
 
-We are looking for a Software Engineer interested in working closely with the frontend and backend web application teams, helping them implement and deploy new features.
+We are looking for a Software Engineer who has expertise building and scaling large web applications and who can collaborate closely with Data Scientists, Product Owners and Clients.
 
-Our current stack comprises Ruby, Python, Java and a small amount of rust and utilises a wide range of AWS services. We’re always interested in trying new technologies or approaches.
+Your job will involve working across the entire Dressipi technology stack, developing and deploying the APIs, integrations and hosted content used by our clients and internal teams. You will solve complex challenges involving, for example, the scalability and design constraints of very large data sets. Our team is simultaneously scaling a demanding application while simplifying complex business processes for our clients.
+
+We deeply value our engineering culture. We strongly emphasize trust, mentorship and collaboration and your job also involves elevating your peers by providing feedback, mentoring and improving our working practices.
+
+Your work will directly impact consumers by personalising shopping journeys online and in-store and impact the efficiency of retailers by enabling them to better match demand to supply. 
 
 We are not a traditional tech start-up; it is an exciting environment with a diverse group of people, combining the best talents in all disciplines.
 
-
 ### Responsibilities
 
-* Help implement new features along their entire journey, from undertaking feasibility studies in order to design a software solution, through implementation, evaluation and testing of the software
+* Maintain and implement new features in our suite of Ruby On Rails web applications
 
-* Respond to suspect bug reports by testing and correcting software as necessary
+* Work closely with Product owners and clients to flesh out and build solutions for new and existing clients
 
-* Write automated tests for software programs (and corrects them as necessary)
+* Support front end and data science teams by designing and building the APIs and integrations they consume
 
-* Plans and maintains database structure to support new features
+* Write operational documentation and provide subsequent support and training for team members
 
-* Produce operational documentation for newly implemented features
+* Establish, maintain and suggest good working practices that help the team work effectively
 
 ### Requirements
 
