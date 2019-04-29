@@ -1,6 +1,19 @@
 ---
 title: Monthly Retail Round-Up - April 2019
 date: 2019-04-29 09:08:00 Z
+tags:
+- retail
+- retail news
+- PrettyLittleThing
+- Sustainability
+- retail sustainability
+- H&M
+- Asos
+- returns
+image: "/uploads/April%20monthly%20round%20up.jpg"
+author: Georgina Fisher
+description: With lots of news to keep track of, Dressipi brings you this month's
+  best stories from the world of retail and its supporting industries.
 ---
 
 Some of the best articles from the world of retail and its supporting industries.
