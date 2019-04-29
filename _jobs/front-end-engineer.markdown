@@ -57,4 +57,4 @@ We’re looking for someone who has a good understanding of the entire applicati
 
 ### Interested?
 
-Please send examples of previous work (websites, apps, Stack Overflow and Github handles) alongside your CV and any other additional information to jobs@dressipi.com
+Please send examples of previous work (websites, apps, Stack Overflow and Github handles) alongside your CV and any other additional information to [jobs@dressipi.com](mailto:jobs@dressipi.com)
