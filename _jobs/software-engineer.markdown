@@ -8,7 +8,7 @@ The world of retail is changing, and Dressipi is leading the charge. Delivering 
 
 ### Where you can make an impact
 
-We are looking for a Software Engineer who has expertise building and scaling large web applications and who can collaborate closely with Data Scientists, Product Owners and Clients.
+We are looking for a Software Engineer who has expertise in building and scaling large web applications and who can collaborate closely with Data Scientists, Product Owners and Clients.
 
 Your job will involve working across the entire Dressipi technology stack, developing and deploying the APIs, integrations and hosted content used by our clients and internal teams. You will solve complex challenges involving, for example, the scalability and design constraints of very large data sets. Our team is simultaneously scaling a demanding application while simplifying complex business processes for our clients.
 
@@ -56,7 +56,7 @@ We are not a traditional tech start-up; it is an exciting environment with a div
  
 * Employee equity so everyone gets to share in the company’s success
 
-* Never go to work on your birthday again: extra day off on your birthday
+* Never go to work on your birthday again: an extra day off on your birthday
 
 * Regular team lunches & drinks
 
