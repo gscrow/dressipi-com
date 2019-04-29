@@ -3,7 +3,7 @@ title: Javascript/Front-End Engineer
 date: 2017-07-28 13:58:00 Z
 ---
 
-Interested in disrupting the trillion-pound retail industry? We’re tackling one of the hottest and most challenging problems in Machine Learning: building a personalisation system that understands fashion. 
+The world of retail is changing, and Dressipi is leading the charge. Delivering great customer experiences is the only way for retailers to succeed. We help some of the UK’s biggest brands to better predict what their customers want to buy and keep so they can truly connect with their shoppers.
 
 ### Where you can make an impact
 
