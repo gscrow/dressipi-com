@@ -21,7 +21,10 @@ Umar Kamani, CEO, PrettyLittleThing said, *“This is another step in the right 
 
 ### 2) A New Way to Receive Fashion Advice
 
-Reported in the Evening Standard, H&M has “launched a platform (website and Instagram account) called ‘Itsapark’ which facilitates peer-to-peer styling and shopping recommendations” in an attempt “to engage the millennial ecommerce customer”.
+Reported in the [Evening Standard](https://www.standard.co.uk/fashion/hm-itsapark-styling-platform-fashion-advice-forum-a4109436.html), H&M has *“launched a platform (website and Instagram account) called ‘[Itsapark](https://www.itsapark.com/welcome)’ which facilitates peer-to-peer styling and shopping recommendations”* in an attempt *“to engage the millennial ecommerce customer”.*
+
+People can ask questions such as ‘What should I wear on a first date?’, ‘How do I dress for an important interview?’, and ‘How can I make beige look cool?’. These questions must be posted on the ‘Discussion’ page for Itsapark to assign three ‘creators’ who are rewarded to answer it. 
+
 
 
 
