@@ -1,7 +1,7 @@
 ---
 title: Software Engineer
 date: 2017-05-09 12:31:00 Z
-is-open: false
+is-open: true
 ---
 
 The world of retail is changing, and Dressipi is leading the charge. Delivering great customer experiences is the only way for retailers to succeed. We help some of the UK’s biggest brands to better predict what their customers want to buy and keep so they can truly connect with their shoppers. 
@@ -63,9 +63,6 @@ We are not a traditional tech start-up; it is an exciting environment with a div
 * Conference budget
 
 * Free fashion advice (if you want it!)
-
-
-
 
 ### Interested?
 
