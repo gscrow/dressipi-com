@@ -32,17 +32,39 @@ We are not a traditional tech start-up; it is an exciting environment with a div
 
 ### Requirements
 
-* Bachelor’s, Master’s or PhD in a relevant field (computer science, data mining, machine learning, statistics, math, engineering)
+* Minimum of 2 years’ experience as a programmer, designing and scaling web applications and APIs
+ 
+* A command of one or more serverside languages and willingness to get up to speed on our stack (Python, Ruby etc.)
 
-* 6 months experience with Ruby on Rails
+* The ability to quickly pick up new technologies and approaches
 
-* Understanding of HTML, CSS, Javascript and how they relate to server side development
+* A drive to build scalable and performant applications and APIs
+
+* Experience with "NoSQL" data backends (MongoDB, ElasticSearch)
 
 * The tenacity to solve hard and diverse problems
 
-* The will and ability to pick up new technologies and approaches as required
+* An interest in exchanging ideas around building robust, maintainable software
 
-* Comfortable working in a fast paced, highly collaborative work environment
+* Great communication skills, whether it be with colleagues or clients
+
+* Comfort providing and receiving feedback on implementation ideas
+
+### Nice to haves
+
+* Great culture: We hire creative, friendly people who never want to stop learning
+ 
+* Employee equity so everyone gets to share in the company’s success
+
+* Never go to work on your birthday again: extra day off on your birthday
+
+* Regular team lunches & drinks
+
+* Conference budget
+
+* Free fashion advice (if you want it!)
+
+
 
 
 ### Interested?
