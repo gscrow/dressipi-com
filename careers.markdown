@@ -65,7 +65,7 @@ sections:
   body: |-
     We are always looking for exceptional people who share our passion for predictive retailing. If you have what it takes, please send your CV and any relevant examples of previous work (eg: websites, apps, Stack Overflow or GitHub profile) to [jobs@dressipi.com](mailto:jobs@dressipi.com).
 
-    Open Positions
+    Take a look at our open positions below
   class: carrer-column
 layout: careers
 ---
