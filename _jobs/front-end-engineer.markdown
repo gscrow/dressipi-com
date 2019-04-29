@@ -41,6 +41,19 @@ We’re looking for someone who has a good understanding of the entire applicati
 
 * Full of positive energy and relish the thought of being part of a small, fast-moving team
 
+### Nice to have
+
+* Great culture: We hire creative, friendly people who never want to stop learning
+ 
+* Employee equity so everyone gets to share in the company’s success
+
+* Never go to work on your birthday again: an extra day off on your birthday
+
+* Regular team lunches & drinks
+
+* Conference budget
+
+* Free fashion advice (if you want it!)
 
 ### Interested?
 
