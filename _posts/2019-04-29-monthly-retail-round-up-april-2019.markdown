@@ -38,7 +38,7 @@ Reported in the [Evening Standard](https://www.standard.co.uk/fashion/hm-itsapar
 
 People can ask questions such as ‘What should I wear on a first date?’, ‘How do I dress for an important interview?’, and ‘How can I make beige look cool?’. These questions must be posted on the ‘Discussion’ page for Itsapark to assign three ‘creators’ who are rewarded to answer it. 
 
-[Fashion Network](https://uk.fashionnetwork.com/news/H-M-launches-Itsapark-for-styling-questions-and-ecommerce-guidance,1086546.html#.XLh8PehKg2w) reported, *“the answers are provided in Instagram-style image or video form, with a link to all products mentioned - even if they are not from an H&M-owned brand.”* This could be a way for H&M to collect data and information about how H&M customers shop at other brands, as product recommendations for competitors ASOS, Topshop, River Island and New Look are linked.
+[Fashion Network](https://uk.fashionnetwork.com/news/H-M-launches-Itsapark-for-styling-questions-and-ecommerce-guidance,1086546.html#.XLh8PehKg2w) reported, *“the answers are provided in Instagram-style image or video form, with a link to all products mentioned - even if they are not from an H&M-owned brand.”* Product recommendations for competitors ASOS, Topshop, River Island and New Look are linked, which poses the question - could this be a way for H&M to gain a greater understanding of how their customers shop with competitors?
 
 Itsapark said (reported in the [Evening Standard](https://www.standard.co.uk/fashion/hm-itsapark-styling-platform-fashion-advice-forum-a4109436.html)), *“Sometimes fashion can be rather confusing and time-consuming, but it doesn’t have to be. Our mission is to create a meeting place where people can exchange ideas and advice around fashion. We'd love to invite you to join in the discussion and get answers to your most immediate style needs.”*
 
@@ -48,7 +48,7 @@ In a recent email, ASOS explained they have updated their returns policy to incr
 
 In addition to this, reported in [Drapers](https://www.drapersonline.com/7035251.article?utm_source=newsletter&utm_medium=email&utm_campaign=DR_EditorialNewsletters.Reg:%20Send%20-%20Daily%20News&mkt_tok=eyJpIjoiTUdVNFlqQm1aR1UyTURNeCIsInQiOiJXRXFJcXM5MHo1WXpYSmFkeTBTWElGVkEyRlN1NE05UkZNbHo2RmRocmNtNGxyY2NpR2VaZktoOWdLUGpqNXI3Qnp1R0R0RERzZTV6clJHY3d5MGI5cm5xR3c1bFJ5Tm44WHczTmV2MFdrSHoyWlBrbURUUGRpMUdBK2ZhT0VCZCJ9), *“ASOS is also threatening to investigate and take action if it notices any unusual return patterns.”* People who demonstrate such behaviour (labelled as ‘serial returners’) are suspected of buying clothes online, wearing them, and then returning for a full refund. A warning was sent saying these accounts would be suspended or even deactivated.
 
-Reported in [Fashion United](https://fashionunited.uk/news/retail/asos-changes-its-return-policy-to-prevent-serial-returners/2019040542573), ASOS explained that *“it needs to ensure its returns are made in a way that is sustainable for it as well as the environment.”*
+Reported in [Fashion United](https://fashionunited.uk/news/retail/asos-changes-its-return-policy-to-prevent-serial-returners/2019040542573), ASOS explained that *“it needs to ensure its returns are made in a way that is sustainable for it [ASOS] as well as the environment.”*
 
 ### 4) Can AI be used to Tailor Shirts?
 
