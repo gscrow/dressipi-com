@@ -50,7 +50,7 @@ We are not a traditional tech start-up; it is an exciting environment with a div
 
 * Comfort providing and receiving feedback on implementation ideas
 
-### Nice to haves
+### Nice to have
 
 * Great culture: We hire creative, friendly people who never want to stop learning
  
