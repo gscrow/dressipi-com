@@ -41,7 +41,7 @@ We’re looking for someone who has a good understanding of the entire applicati
 
 * Full of positive energy and relish the thought of being part of a small, fast-moving team
 
-### Nice to have
+### Perks
 
 * Great culture: We hire creative, friendly people who never want to stop learning
  
