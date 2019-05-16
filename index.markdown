@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Dressipi | The Fashion Prediction Platform
 position: 0
 header:
   title: Be Smarter. Be Predictive.
