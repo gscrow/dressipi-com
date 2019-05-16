@@ -1,5 +1,4 @@
 ---
-title: Dressipi
 timezone: UTC
 collections:
   authors:
@@ -33,106 +32,107 @@ collections:
     title: integrations
     output: true
 defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    permalink: "/blog/:title/"
-    layout: post
-    image: 
-    author: 
-    button:
-      title: 
-      url: 
-    description: 
-- scope:
-    path: ''
-    type: blog_categories
-  values:
-    permalink: "/blog/categories/:title/"
-    layout: category
-- scope:
-    path: ''
-    type: blog_tags
-  values:
-    permalink: "/blog/tags/:title/"
-    layout: tag
-- scope:
-    path: ''
-    type: resources
-  values:
-    layout: resource
-- scope:
-    path: ''
-    type: authors
-  values:
-    permalink: "/blog/authors/:title/"
-    layout: author
-    image: 
-    twitter: 
-- scope:
-    path: ''
-    type: downloads
-  values:
-    permalink: "/downloads/:title/"
-    resource: 
-    image: 
-    form:
-      title: Download Now
-      button: Download
-      file: 
-    testimonial:
-      body: 
-      logo: 
+  - scope:
+      path: ""
+      type: posts
+    values:
+      permalink: "/blog/:title/"
+      layout: post
+      image:
       author:
-        name: 
-        job-title: 
-        company: 
-        image: 
-      action: Download Now
-    layout: download
-- scope:
-    path: ''
-    type: clients
-  values:
-    logo: 
-    link: 
-- scope:
-    path: ''
-    type: pages
-  values:
-    navigation: 
-    header:
-      title: 
-      body: 
       button:
-        copy: 
-        url: 
-      hero-image: 
-    is-landing-page: false
-    is-demo-page: false
-    downloads: 
-    layout: page
-    description: 
-- scope:
-    path: ''
-    type: jobs
-  values:
-    is-open: true
+        title:
+        url:
+      description:
+  - scope:
+      path: ""
+      type: blog_categories
+    values:
+      permalink: "/blog/categories/:title/"
+      layout: category
+  - scope:
+      path: ""
+      type: blog_tags
+    values:
+      permalink: "/blog/tags/:title/"
+      layout: tag
+  - scope:
+      path: ""
+      type: resources
+    values:
+      layout: resource
+  - scope:
+      path: ""
+      type: authors
+    values:
+      permalink: "/blog/authors/:title/"
+      layout: author
+      image:
+      twitter:
+  - scope:
+      path: ""
+      type: downloads
+    values:
+      permalink: "/downloads/:title/"
+      resource:
+      image:
+      form:
+        title: Download Now
+        button: Download
+        file:
+      testimonial:
+        body:
+        logo:
+        author:
+          name:
+          job-title:
+          company:
+          image:
+        action: Download Now
+      layout: download
+  - scope:
+      path: ""
+      type: clients
+    values:
+      logo:
+      link:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      navigation:
+      header:
+        title:
+        body:
+        button:
+          copy:
+          url:
+        hero-image:
+      is-landing-page: false
+      is-demo-page: false
+      downloads:
+      layout: page
+      description:
+  - scope:
+      path: ""
+      type: jobs
+    values:
+      is-open: true
 description: Personalising the Entire Customer Experience
 url: https://dressipi.com
 form-demo:
   formspree-ID: xojeeoem
   title: Be Predictive and Achieve Great Results
-  subtitle: 'Get in touch to see how Dressipi''s data-driven approach can help increase
-    net incremental revenue per visitor, conversion and frequency of purchase. '
+  subtitle:
+    "Get in touch to see how Dressipi's data-driven approach can help increase
+    net incremental revenue per visitor, conversion and frequency of purchase. "
   button: Let's Talk
-  email_cc: 
+  email_cc:
   redirect: "/thanks"
 form-newsletter:
   formspree-ID: mkjvowyx
   button: Subscribe
-  email_cc: 
+  email_cc:
   redirect: "/thanks"
 company:
   name: Stylemania Ltd.
@@ -143,27 +143,27 @@ twitter:
   username: dressipi
 social:
   links:
-  - name: Twitter
-    link: https://www.twitter.com/dressipi
-  - name: Instagram
-    link: https://www.instagram.com/dressipi
-  - name: LinkedIn
-    link: https://www.linkedin.com/company/dressipi
-  - name: YouTube
-    link: https://www.youtube.com/channel/UCek0mxAxImkuiSgiWmq3bMA
+    - name: Twitter
+      link: https://www.twitter.com/dressipi
+    - name: Instagram
+      link: https://www.instagram.com/dressipi
+    - name: LinkedIn
+      link: https://www.linkedin.com/company/dressipi
+    - name: YouTube
+      link: https://www.youtube.com/channel/UCek0mxAxImkuiSgiWmq3bMA
 date_format: "%-d %B %Y"
 per_page: 10
 gtm-code: GTM-TRK2KPX
 permalink: pretty
 exclude:
-- Gemfile
-- Gemfile.lock
-- README*
-- ".gitignore"
-- prettierignore
+  - Gemfile
+  - Gemfile.lock
+  - README*
+  - ".gitignore"
+  - prettierignore
 gems:
-- jekyll-sitemap
-- jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-seo-tag
 john-lewis:
   garment-112:
     fit: Tailored
