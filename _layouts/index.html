@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 {% for section in page.sections %}
 {% assign handle = section.handle %}
 <section id="{{ handle }}" class="section {% if handle %}{{ section.handle | prepend: 'section-' | append: ' ' }}{% endif %}background--{{ section.color | default:'white' }}">
