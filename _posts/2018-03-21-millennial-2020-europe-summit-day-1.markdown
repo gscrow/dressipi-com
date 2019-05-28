@@ -3,6 +3,7 @@ title: Millennial 2020 - Europe Summit Day 1
 date: 2018-03-21 16:59:00 Z
 categories:
 - news
+- retail
 tags:
 - millennial 2020
 - millennials
