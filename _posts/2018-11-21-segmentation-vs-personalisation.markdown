@@ -1,6 +1,8 @@
 ---
 title: Segmentation vs Personalisation
 date: 2018-11-21 14:32:00 Z
+categories:
+- data
 tags:
 - one to one personalisation
 - personalisation
