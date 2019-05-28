@@ -1,6 +1,8 @@
 ---
 title: Monthly Retail Round-Up - April 2019
 date: 2019-04-29 09:08:00 Z
+categories:
+- News
 tags:
 - retail
 - retail news
