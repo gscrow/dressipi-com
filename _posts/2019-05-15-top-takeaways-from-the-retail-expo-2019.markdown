@@ -2,7 +2,7 @@
 title: Top 3 Takeaways from the Retail Expo 2019
 date: 2019-05-15 15:54:00 Z
 categories:
-- News
+- retail
 tags:
 - Retail Expo
 - fashion technology
