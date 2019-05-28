@@ -3,6 +3,7 @@ title: Highlights from the World Retail Congress 2017
 date: 2017-04-12 10:35:00 Z
 categories:
 - news
+- retail
 tags:
 - world retail congress
 - technology
