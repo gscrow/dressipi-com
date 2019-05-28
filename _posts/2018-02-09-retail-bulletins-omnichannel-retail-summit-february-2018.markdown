@@ -3,6 +3,7 @@ title: Retail Bulletin’s Omnichannel Retail Summit
 date: 2018-02-09 10:42:00 Z
 categories:
 - news
+- retail
 tags:
 - omnichannel
 - retail technology
