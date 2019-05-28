@@ -3,6 +3,7 @@ title: Building Fashion Recommendation Systems
 date: 2018-04-19 14:24:00 Z
 categories:
 - data
+- tech
 tags:
 - data science
 - data
