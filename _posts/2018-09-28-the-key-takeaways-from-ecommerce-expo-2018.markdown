@@ -1,6 +1,13 @@
 ---
 title: Key Takeaways From Ecommerce Expo 2018
 date: 2018-09-28 10:36:00 Z
+categories:
+- retail
+tags:
+- ecommerce expo
+- ecommerce
+- omnichannel retail
+- omnichannel
 image: "/uploads/20180927_125227.jpg"
 author: Philippa Mew
 description: For those who weren't able to make the yearly Ecommerce Expo, or simply
