@@ -2,7 +2,7 @@
 title: The Year Retail Steps Up
 date: 2019-01-23 12:25:00 Z
 categories:
-- Retail
+- retail
 tags:
 - retail technology
 - retail
