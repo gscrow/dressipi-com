@@ -14,8 +14,9 @@ header:
   link:
     copy: Watch Video
     url: "#youtube"
-description: Dressipi is the world's only Fashion Prediction Platform, increasing
-  AOV and decreasing returns. Learn what benefits it could bring to your business.
+description: "Dressipi is the world's only Fashion Prediction Platform designed to
+  help retailers predict what their customers will buy and not return, optimising
+  profitability and giving shoppers the best possible experience.\n\n"
 has-contact-section: true
 sections:
 - title: Trusted by Leading Brands
