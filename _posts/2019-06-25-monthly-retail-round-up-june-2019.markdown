@@ -2,6 +2,9 @@
 title: Monthly Retail Round-Up - June 2019
 date: 2019-06-25 14:21:00 Z
 image: "/uploads/June19%20monthly%20round%20up-4e65d0.jpg"
+author: Georgina Fisher
+description: With lots of news to keep track of, Dressipi brings you this month's
+  best stories from the world of retail and its supporting industries.
 ---
 
 Some of the best articles from the world of retail and its supporting industries.
