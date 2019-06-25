@@ -34,7 +34,7 @@ We’ve been having a lot of fun experimenting with it at Dressipi HQ and can co
 
 From the 3rd to 7th July, Westfield London is launching a pop-up selling clothes which are trending online. Reported in the [Evening Standard](https://www.standard.co.uk/fashion/westfield-trending-store-ai-pop-up-save-the-children-a4154196.html), The Trending Store is *“an AI-powered initiative to entice online shoppers in store while raising money for Save the Children”*.
 
-In partnership with Nextatlas, the machine learning model will track over 400,000 influencers to find out what they are wearing and what is hot that day. Reported in the [Evening Standard](https://www.standard.co.uk/fashion/westfield-trending-store-ai-pop-up-save-the-children-a4154196.html), *“a list of trending items will then be given to a team of Westfield stylists, who’ll hunt out corresponding items (both clothing and accessories) from across the entire shopping centre each morning, ready to drop in the pop-up.” *
+In partnership with Nextatlas, the machine learning model will track over 400,000 influencers to find out what they are wearing and what is hot that day. Reported in the [Evening Standard](https://www.standard.co.uk/fashion/westfield-trending-store-ai-pop-up-save-the-children-a4154196.html), *“a list of trending items will then be given to a team of Westfield stylists, who’ll hunt out corresponding items (both clothing and accessories) from across the entire shopping centre each morning, ready to drop in the pop-up.”*
 
 The Trending Store will stock the top 100 items of men’s and women’s clothing and accessories that are trending online that day, catering for all budgets. Reported in [Retail Systems](http://www.retail-systems.com/rs/Westfield_Nextatlas_Trending_Store_AI_Fashion.php), stylists will also *“be on hand to help customers pick out key items to suit their own individual styles”.*
 
@@ -44,7 +44,7 @@ Reported in [Retail Systems](http://www.retail-systems.com/rs/Amazon_Clicks_and_
 
 The programme will give around 100 small online businesses the opportunity to have a presence on the high-street in the form of pop-up stores. These 10 pop-ups will be open for a year, occupied for varying lengths of time and *“will explore a new model to help up-and-coming online brands grow their physical presence.”*
 
-George MacDonald, Executive Editor, Retail Week, gave his opinion in [Retail Week](https://www.retail-week.com/property/opinion-amazon-could-be-source-of-new-ideas-on-retail-property/7032078.article?authent=1), “*For some of the retailers, it makes sense only to have a physical presence at particular times of year, such as seasonal peaks, or to run specific brand-building initiatives.”* It also allows online brands to gain recognition and reach customers on the high street that may not have heard of them before.
+George MacDonald, Executive Editor, Retail Week, gave his opinion in [Retail Week](https://www.retail-week.com/property/opinion-amazon-could-be-source-of-new-ideas-on-retail-property/7032078.article?authent=1), *“For some of the retailers, it makes sense only to have a physical presence at particular times of year, such as seasonal peaks, or to run specific brand-building initiatives.”* It also allows online brands to gain recognition and reach customers on the high street that may not have heard of them before.
 
 ## We hope you enjoyed the round-up. Please feel free to get in touch with any stories you feel would be of interest.
 
