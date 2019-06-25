@@ -44,7 +44,7 @@ Reported in [Retail Systems](http://www.retail-systems.com/rs/Amazon_Clicks_and_
 
 The programme will give around 100 small online businesses the opportunity to have a presence on the high-street in the form of pop-up stores. These 10 pop-ups will be open for a year, occupied for varying lengths of time and *“will explore a new model to help up-and-coming online brands grow their physical presence.”*
 
-George MacDonald, Executive Editor, Retail Week, gave his opinion in [Retail Week](https://www.retail-week.com/property/opinion-amazon-could-be-source-of-new-ideas-on-retail-property/7032078.article?authent=1), *“For some of the retailers, it makes sense only to have a physical presence at particular times of year, such as seasonal peaks, or to run specific brand-building initiatives.”* It also allows online brands to gain recognition and reach customers on the high street that may not have heard of them before.
+George MacDonald, Executive Editor, Retail Week, gave his opinion in [Retail Week](https://www.retail-week.com/property/opinion-amazon-could-be-source-of-new-ideas-on-retail-property/7032078.article?authent=1), “*For some of the retailers, it makes sense only to have a physical presence at particular times of year, such as seasonal peaks, or to run specific brand-building initiatives.”* It also allows online brands to gain recognition and reach customers on the high street that may not have heard of them before.
 
 ## We hope you enjoyed the round-up. Please feel free to get in touch with any stories you feel would be of interest.
 
