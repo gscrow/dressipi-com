@@ -10,7 +10,7 @@ tags:
 - the trending store
 - amazon
 - clicks and mortar
-image: "/uploads/June19%20monthly%20round%20up-4e65d0.jpg"
+image: "/uploads/June19%20monthly%20round%20up-11619c.jpg"
 author: Georgina Fisher
 description: With lots of news to keep track of, Dressipi brings you this month's
   best stories from the world of retail and its supporting industries.
