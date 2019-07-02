@@ -72,7 +72,7 @@ sections:
   - name: Athanasios Skrepetos
     title: Machine Learning Engineer
     linkedin: https://www.linkedin.com/in/athanasios-skrepetos-648348bb/
-    image: 
+    image: "/uploads/Thanos_Headshot.jpg"
   - name: Jessica Rosati
     title: Data Scientist
     linkedin: https://www.linkedin.com/in/jessica-rosati-4b685481/
