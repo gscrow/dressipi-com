@@ -69,6 +69,10 @@ sections:
     title: Machine Learning Developer
     linkedin: http://soliton.vm.bytemark.co.uk/pub/jjg/en
     image: "/uploads/jj.-green.jpg"
+  - name: Athanasios Skrepetos
+    title: Machine Learning Engineer
+    linkedin: https://www.linkedin.com/in/athanasios-skrepetos-648348bb/
+    image: 
   - name: Jessica Rosati
     title: Data Scientist
     linkedin: https://www.linkedin.com/in/jessica-rosati-4b685481/
@@ -93,6 +97,10 @@ sections:
     title: Data Engineer
     linkedin: https://www.linkedin.com/in/joe-margrie-rouse/
     image: "/uploads/Joe%20MR.JPG"
+  - name: James Tuck
+    title: 
+    linkedin: 
+    image: 
   button:
     copy: Join Our Team
     url: "/careers"
