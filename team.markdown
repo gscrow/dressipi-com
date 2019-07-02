@@ -100,7 +100,7 @@ sections:
   - name: James Tuck
     title: Data Analyst
     linkedin: https://www.linkedin.com/in/james-tuck-28555172/
-    image: 
+    image: "/uploads/James%20Tuck%20Photo.jpg"
   button:
     copy: Join Our Team
     url: "/careers"
