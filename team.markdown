@@ -86,7 +86,7 @@ sections:
     linkedin: https://uk.linkedin.com/in/hassan-iskaf
     image: "/uploads/Hassan%20I.jpg"
   - name: Marija Mandić
-    title: Junior Software Engineer
+    title: Software Engineer
     linkedin: https://www.linkedin.com/in/marija-mandic/
     image: "/uploads/marija-headshot.jpeg"
   - name: Leo Yeung
