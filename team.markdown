@@ -81,6 +81,10 @@ sections:
     title: Software Engineer
     linkedin: https://www.linkedin.com/in/marija-mandic/
     image: "/uploads/marija-headshot.jpeg"
+  - name: Stefan Collier
+    title: Software Engineer
+    linkedin: https://www.linkedin.com/in/stefan-collier-320a00106/
+    image: "/uploads/Stefan.jpg"
   - name: Hassan Iskaf
     title: Front End Engineer
     linkedin: https://uk.linkedin.com/in/hassan-iskaf
