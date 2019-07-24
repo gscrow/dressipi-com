@@ -73,4 +73,4 @@ We are looking for someone who is passionate about data and has love and tenacit
 
 ### Interested?
 
-Please send examples of previous work (websites, apps, Stack Overflow and Github handles) alongside your CV and any other additional information to [jobs@dressipi.com](mailto:jobs@dressipi.com)
+Please send your CV and any other additional information to [jobs@dressipi.com](mailto:jobs@dressipi.com)
