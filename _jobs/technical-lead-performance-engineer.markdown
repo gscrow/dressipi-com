@@ -4,66 +4,58 @@ date: 2017-05-09 12:10:00 Z
 is-open: false
 ---
 
-Interested in disrupting the trillion-pound retail industry? We’re tackling one of the hottest and most challenging problems in Machine Learning: designing and building a personalisation system that understands fashion.
+The world of retail is changing, and Dressipi is leading the charge. Delivering great customer experiences is the only way for retailers to succeed. We help some of the UK’s biggest brands to better predict what their customers want to buy and keep so they can truly connect with their shoppers.
 
+### Where you can make an impact
 
-### Where you can make an impact?
+As a Front-End Engineer, you will be building elegant and responsive UIs and working closely alongside the Engineering and Data Science teams to ship new features and products. You’ll take features all the way through from an idea to live including testing and iterating to make them better.
+You’ll mostly be working with libraries such as React and Redux, and React Native for mobile.
+We’re looking for someone who has a good understanding of the entire application stack, or a willingness to learn, and shares our passion for great user experience. Ideally you are a highly creative thinker, with strong attention to detail.
 
-As a Data Engineer in the Dressipi team, you’ll be leading the design and implementation of improvements to the performance of our infrastructure, data architecture and deployment processes. You will be working closely with the Data Science and Recommendations teams, helping them implement and deploy algorithms in a scalable manner.
-
-Our current stack comprises Ruby, Python, Java and a small amount of rust and utilises a wide range of AWS services. We’re always interested in trying new technologies or approaches.  
-
-We are looking for a versatile person who can display leader qualities and is enthusiastic to tackle new problems across the both the data architecture and infrastructure areas as we continue to push our technology forward.
-
-We are not a traditional tech start-up; it is an exciting environment with a diverse group of people, combining the best talents in all disciplines. 
-
-
+ 
 ### Responsibilities
 
-* Work with engineers to improve the efficiency of data queries and infrastructure for both offline and online use cases
+* Write clean, well-tested code to implement new features and applications, optimising for usability and performance
 
-* Pinpoint and help resolve bottlenecks and inefficiencies across infrastructure, queries, implementation and algorithms
+* Maintain and improve our existing products, helping to keep our technology up to date
 
-* Lead changes to infrastructure, choice of datastores, data architecture, deployment processes
-
-* Monitor performance of infrastructure to catch issues before they become a problem
-
-* Collaborate with colleagues from data science and engineering backgrounds
+* Mock up new products and implementations for new clients
 
 
 ### Requirements
 
-* Bachelor's, Master’s or PhD in a relevant field (computer science, data mining, machine learning, statistics, math, engineering)
+* 2+ years experience
 
-* Track record of identifying, diagnosing and resolving performance inefficiencies 
+* Solid HTML, CSS and JavaScript skills
 
-* Solid SQL knowledge
+* Familiarity with React and React Native
 
-* Experience with AWS services such as EC2, Cloudformation, RDS, Cloudwatch
+* Knowledge of responsive design and UX best practices
 
-* Track record of automating and maintaining infrastructure
+* Obsessed with attention to detail
 
-* The tenacity to solve hard and diverse problems
+* Willing to work closely with backend engineers and product managers to create highly polished production-ready pages and assets
 
-* The will and ability to pick up new technologies and approaches as required
+* A love for agile development and working independently on your own challenges as well as with others
 
-* Comfortable working in a fast paced, highly collaborative work environment
+* A thirst for new skills and technologies, with an ability to pick up new things easily
 
-### Desired
+* Full of positive energy and relish the thought of being part of a small, fast-moving team
 
-* 2 or more years of industry experience
+### Perks
 
-* Knowledge of postgres, redshift
+* Great culture: We hire creative, friendly people who never want to stop learning
+ 
+* Employee equity so everyone gets to share in the company’s success
 
-* Experience with ETL processes
+* Never go to work on your birthday again: an extra day off on your birthday
 
-* Experience with ruby, python
+* Regular team lunches & drinks
 
-* Worked with recommender systems
+* Conference budget
 
-* Experience with deployment automation & devops (packer, chef etc.)
-
+* Free fashion advice (if you want it!)
 
 ### Interested?
 
-Please send your CV and any other additional information to [jobs@dressipi.com](mailto:jobs@dressipi.com)
+Please send examples of previous work (websites, apps, Stack Overflow and Github handles) alongside your CV and any other additional information to [jobs@dressipi.com](mailto:jobs@dressipi.com)
