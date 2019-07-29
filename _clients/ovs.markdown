@@ -6,3 +6,4 @@ class: ovs
 logo: "/uploads/logo__ovs.jpg"
 link: https://www.ovsfashion.com/
 ---
+
