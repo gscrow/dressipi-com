@@ -6,6 +6,7 @@
 
 .client__logos {
   margin-top: rhythm(8);
+  max-width: 1134px;
 
   .ts {
     img {
@@ -15,7 +16,7 @@
 
   .jl {
     img {
-      width: 130px;
+      width: 120px;
     }
   }
 
@@ -25,9 +26,10 @@
     }
   }
 
-  .evans {
+  .evans,
+  .ovs {
     img {
-      width: 120px;
+      width: 115px;
     }
   }
 }
