@@ -1,5 +1,5 @@
 ---
-title: Monthly Retail Round-Up - June 2019
+title: Monthly Retail Round-Up - July 2019
 date: 2019-07-30 14:03:00 Z
 categories:
 - news
@@ -17,7 +17,7 @@ description: With lots of news to keep track of, Dressipi brings you this month'
 
 Some of the best articles from the world of retail and its supporting industries.
 
-# Monthly Retail Round-Up - June 2019
+# Monthly Retail Round-Up - July 2019
 
 ## Dressipi brings you a round-up of the top retail news this July to keep you up to date.
 
