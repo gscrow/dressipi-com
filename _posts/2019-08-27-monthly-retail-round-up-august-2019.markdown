@@ -54,7 +54,7 @@ In [September 2018](https://dressipi.com/blog/monthly-retail-round-up-september-
 
 Reported in [Essential Retail](https://www.essentialretail.com/news/asos-introduce-new-instagram-ar/), *“Asos’ first [AR Instagram filter](https://twitter.com/ASOS/status/1162492112354627585) was an image of Asos packaging, which it layered over a woman’s eyes to make it appear she had Asos on her mind. This is the sort of creativity now available to retailers and other businesses looking to engage shoppers via social media.”*
 
-With over 500 million users daily of Instagram Stories, the channel is a huge marketing opportunity for many retailers. [Spark AR platform](https://sparkar.facebook.com/ar-studio/) has now enabled anyone to make an AR effect and *“retailers will inevitably also be on the look out for customers creating their own AR effects related to products and brand, with this new medium potentially creating further opportunities for user-generated content marketing” *([Essential Retail](https://www.essentialretail.com/news/asos-introduce-new-instagram-ar/)).
+With over 500 million users daily of Instagram Stories, the channel is a huge marketing opportunity for many retailers. [Spark AR platform](https://sparkar.facebook.com/ar-studio/) has now enabled anyone to make an AR effect and *“retailers will inevitably also be on the look out for customers creating their own AR effects related to products and brand, with this new medium potentially creating further opportunities for user-generated content marketing”* ([Essential Retail](https://www.essentialretail.com/news/asos-introduce-new-instagram-ar/)).
 
 ## We hope you enjoyed the round-up. Please feel free to get in touch with any stories you feel would be of interest.
 
