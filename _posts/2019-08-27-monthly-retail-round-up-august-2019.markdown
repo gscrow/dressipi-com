@@ -56,3 +56,6 @@ Reported in [Essential Retail](https://www.essentialretail.com/news/asos-introdu
 
 With over 500 million users daily of Instagram Stories, the channel is a huge marketing opportunity for many retailers. [Spark AR platform](https://sparkar.facebook.com/ar-studio/) has now enabled anyone to make an AR effect and *“retailers will inevitably also be on the look out for customers creating their own AR effects related to products and brand, with this new medium potentially creating further opportunities for user-generated content marketing” *([Essential Retail](https://www.essentialretail.com/news/asos-introduce-new-instagram-ar/)).
 
+## We hope you enjoyed the round-up. Please feel free to get in touch with any stories you feel would be of interest.
+
+> Banner Photo by Camilla Carvalho on Unsplash
