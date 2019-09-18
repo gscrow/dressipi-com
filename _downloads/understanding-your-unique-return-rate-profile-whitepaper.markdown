@@ -1,6 +1,7 @@
 ---
 title: Understanding Your Unique Return Rate Profile
 date: 2017-10-27 13:41:00 Z
+position: 0
 resource: Whitepapers
 image: "/uploads/returns_small.jpg"
 form:
