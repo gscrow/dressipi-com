@@ -1,6 +1,16 @@
 ---
 title: Understanding Your Unique Return Rate Profile
-date: 2017-10-27 13:41:00 Z
+date: 2019-09-18 10:48:00 Z
+tags:
+- returns
+- reduce returns
+- improve operating margin
+- retail
+- operating margin
+- retail technology
+- sizing
+- style
+- personalisation
 position: 0
 resource: Whitepapers
 image: "/uploads/returns_small.jpg"
