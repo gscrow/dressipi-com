@@ -12,17 +12,15 @@ header:
     url: "#download"
   hero-image: "/uploads/banner_sdg_withlogo_returns.jpg"
 is-landing-page: true
-downloads: |-
-  How To Make Your Data Work
-  Harder To Reduce Garment Return Rates
+downloads: Understanding Your Unique Return Rate Profile
 description: Dressipi is the global leader in fashion-specific personalisation. We
   give each customer their own tailored shopping experience online and in-store, enabling
   retailers to match customers with products and experiences to influence buying at
   scale.
 ---
 
-## Download our free whitepaper 'How To Make Your Data Work Harder To Reduce Garment Return Rates' to learn:
+## Download our free whitepaper 'Understanding Your Unique Return Rate Profile' to learn:
 
-* How to leverage the data you hold to reduce return rates
+* How to leverage the data you hold to reduce return rates and improve operating margin
 * The importance of understanding the key drivers behind returns 
 * How personalisation can help tackle the issue
