@@ -31,4 +31,4 @@ layout: download
 
 ## Learn how to leverage the data you hold to reduce return rates and improve operating margin.
 
-In this paper Sarah McVittie, Co-Founder of Dressipi, discusses the importance of understanding the key drivers behind returns, and how to use the data you hold to  tackle the issue. 
+In this paper Sarah McVittie, Co-Founder of Dressipi, discusses the importance of understanding the key drivers behind returns, and how to use the data you hold to  tackle the issue.
