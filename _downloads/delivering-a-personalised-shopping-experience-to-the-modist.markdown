@@ -12,6 +12,14 @@ testimonial:
     “We are extremely happy with the results of the proof of value as
     Dressipi consistently outperformed our incumbent provider on all
     key metrics."
+  logo: "/uploads/The%20Modist_Logo.png"
+  author:
+    name: Lauren Terry
+    job-title: Director of Ecommerce
+    company: The Modist
+  action: Download Case Study
+  class: the modist
+position-list: 1
 ---
 
 # How The Modist Gives Each Customer a Tailored Shopping Experience
