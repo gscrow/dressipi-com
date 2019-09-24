@@ -28,7 +28,6 @@ sections:
   - Topshop
   - Wallis
   - The Modist
-  - JD Williams
   - Evans
   - River Island
   - Long Tall Sally
