@@ -17,7 +17,6 @@ header:
   - Topshop
   - Wallis
   - The Modist
-  - JD Williams
   - Evans
   - River Island
   - Long Tall Sally
@@ -42,7 +41,7 @@ sections:
     image: "/uploads/icon__results.svg"
   downloads:
   - Accelerating Wallis to be Truly Predictive
-  - Personalised Email Success with N Brown
+  - Delivering a Personalised Shopping Experience to The Modist
 layout: clients
 ---
 
