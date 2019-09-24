@@ -84,7 +84,7 @@ sections:
   handle: cases
   downloads:
   - Accelerating Wallis to be Truly Predictive
-  - Personalised Email Success with N Brown
+  - Delivering a Personalised Shopping Experience to The Modist
 layout: product
 ---
 
