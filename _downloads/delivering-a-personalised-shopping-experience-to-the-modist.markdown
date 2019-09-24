@@ -28,6 +28,6 @@ position-list: 1
 
 - How Dressipi enabled more predictive product and outfit recommendations
 
-- How personalisation benefits the customer and The Modist
+- How Dressipi outperformed the brand's incumbent recommendation provider
 
 - The ease of implementation and positive results from the partnership
