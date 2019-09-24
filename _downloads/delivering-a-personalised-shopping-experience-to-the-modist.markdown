@@ -2,6 +2,11 @@
 title: Delivering a Personalised Shopping Experience to The Modist
 date: 2019-09-24 08:54:00 Z
 resource: Case Studies
+testimonial:
+  body: |-
+    “We are extremely happy with the results of the proof of value as
+    Dressipi consistently outperformed our incumbent provider on all
+    key metrics."
 ---
 
 # How The Modist Gives Each Customer a Tailored Shopping Experience
