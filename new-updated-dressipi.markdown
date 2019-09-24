@@ -13,7 +13,6 @@ header:
   - John Lewis
   - Topshop
   - Wallis
-  - JD Williams
   - The Modist
   - Evans
   - River Island
