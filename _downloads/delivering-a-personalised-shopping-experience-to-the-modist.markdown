@@ -11,10 +11,8 @@ form:
   checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services
 testimonial:
-  body: |-
-    “We are extremely happy with the results of the proof of value as
-    Dressipi consistently outperformed our incumbent provider on all
-    key metrics."
+  body: “We are extremely happy with the results. Dressipi has consistently outperformed
+    our incumbent provider on all key metrics."
   logo: "/uploads/The%20Modist_Logo.png"
   author:
     name: Lauren Terry
