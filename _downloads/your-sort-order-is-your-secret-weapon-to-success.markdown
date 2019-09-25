@@ -4,7 +4,7 @@ title: |-
   to Success
 date: 2019-09-25 13:08:00 Z
 resource: Whitepapers
-image: "/uploads/shutterstock_389433475%20(2).jpg"
+image: "/uploads/Sort_Order_Whitepaper_Small.jpg"
 form:
   title: Download Free Whitepaper
   button: Download Free Whitepaper
