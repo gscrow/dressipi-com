@@ -7,7 +7,10 @@ published: false
 resource: Whitepapers
 image: "/uploads/shutterstock_389433475%20(2).jpg"
 form:
+  title: Download Free Whitepaper
   button: Download Free Whitepaper
+  checkbox: Yes, I would like to receive marketing communications regarding Dressipi
+    products and services
 ---
 
 # Why redefining the discovery process within the fashion domain is fundamental to significantly grow revenues and margins.
