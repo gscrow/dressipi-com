@@ -8,6 +8,8 @@ form:
   button: Download Case Study
   file: "/uploads/Dressipi-CaseStudy-The%20Modist.pdf"
   button_class: case-study
+  checkbox: Yes, I would like to receive marketing communications regarding Dressipi
+    products and services
 testimonial:
   body: |-
     “We are extremely happy with the results of the proof of value as
