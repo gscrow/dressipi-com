@@ -20,7 +20,7 @@ testimonial:
     name: Lauren Terry
     job-title: Director of Ecommerce
     company: The Modist
-    image: "/uploads/Modist_Small_Case_Study_Image%20(1)%20(1).jpg"
+    image: "/uploads/Modist_Small_Case_Study_Image-d88efb.jpg"
   action: Download Case Study
   class: the modist
 position-list: 1
