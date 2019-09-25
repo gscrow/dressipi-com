@@ -5,6 +5,7 @@ title: |-
 date: 2019-09-25 13:08:00 Z
 published: false
 resource: Whitepapers
+image: "/uploads/shutterstock_389433475%20(2).jpg"
 form:
   button: Download Free Whitepaper
 ---
