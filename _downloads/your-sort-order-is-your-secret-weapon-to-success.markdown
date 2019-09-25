@@ -8,4 +8,4 @@ published: false
 
 Why redefining the discovery process within the fashion domain is fundamental to significantly grow revenues and margins.
 
-This paper outlines the steps retailers need to take to increase the chances of customers finding products they want to buy and keep and increase conversion the whole way through the funnel.
+This paper outlines the steps retailers need to take to increase the chances of customers finding products they want to buy and keep whilst increasing conversion the whole way through the funnel.
