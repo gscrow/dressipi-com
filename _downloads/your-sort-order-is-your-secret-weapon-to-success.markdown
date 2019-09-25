@@ -3,7 +3,6 @@ title: |-
   Your Sort Order is Your Secret Weapon
   to Success
 date: 2019-09-25 13:08:00 Z
-published: false
 resource: Whitepapers
 image: "/uploads/shutterstock_389433475%20(2).jpg"
 form:
@@ -11,6 +10,8 @@ form:
   button: Download Free Whitepaper
   checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services
+testimonial:
+  action: Download Whitepaper
 ---
 
 # Why redefining the discovery process within the fashion domain is fundamental to significantly grow revenues and margins.
