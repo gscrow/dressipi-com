@@ -3,8 +3,20 @@ title: Monthly Retail Round-Up - September 2019
 date: 2019-09-26 09:35:00 Z
 categories:
 - news
+tags:
+- retail
+- retail news
+- Burberry
+- apple
+- R Message
+- Zalando
+- Facebook Personal Stylist
+- Pentland Brands AR
+- sustainability
 image: "/uploads/Sept19.png"
 author: Georgina Fisher
+description: With lots of news to keep track of, Dressipi brings you this month's
+  best stories from the world of retail and its supporting industries.
 ---
 
 Some of the best articles from the world of retail and its supporting industries.
