@@ -16,8 +16,7 @@ testimonial:
   action: Download Whitepaper
 ---
 
-# Your Sort Order is Your Secret Weapon
-to Success
+# Your Sort Order is Your Secret Weapon to Success
 
 ## Why redefining the discovery process is fundamental to significantly grow revenues and margins.
 
