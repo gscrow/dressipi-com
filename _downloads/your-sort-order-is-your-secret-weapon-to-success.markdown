@@ -21,10 +21,3 @@ testimonial:
 ## Why redefining the discovery process is fundamental to significantly grow revenues and margins.
 
 This paper outlines the steps fashion retailers should take to increase the chances of customers finding products they want to buy and keep to improve conversion rates throughout the funnel.
-
-
-
-
-
-
-
