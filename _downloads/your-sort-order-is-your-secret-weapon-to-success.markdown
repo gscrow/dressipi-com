@@ -16,6 +16,16 @@ testimonial:
   action: Download Whitepaper
 ---
 
-# Why redefining the discovery process is fundamental to significantly grow revenues and margins.
+# Your Sort Order is Your Secret Weapon
+to Success
 
-## This paper outlines the steps fashion retailers within should take to increase the chances of customers finding products they want to buy and keep to improve conversion rates throughout the funnel.
+## Why redefining the discovery process is fundamental to significantly grow revenues and margins.
+
+This paper outlines the steps fashion retailers should take to increase the chances of customers finding products they want to buy and keep to improve conversion rates throughout the funnel.
+
+
+
+
+
+
+
