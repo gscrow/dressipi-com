@@ -1,6 +1,10 @@
 ---
 title: Monthly Retail Round-Up - September 2019
 date: 2019-09-26 09:35:00 Z
+categories:
+- news
+image: "/uploads/Sept19.png"
+author: Georgina Fisher
 ---
 
 Some of the best articles from the world of retail and its supporting industries.
@@ -34,8 +38,8 @@ Reported in [Drapers](https://www.drapersonline.com/7037551.article?utm_source=n
 
 Sustainability has been a huge topic recently and Zalando is stepping up to the new concept of sustainable delivery, reporting *“Two environmental problems are being tackled at the same time”*:
 
-* **Waste **- Unlike disposable packaging, reuse keeps materials out of the waste stream and extends the life cycle of the original raw material. 
-* **Carbon dioxide emissions **- By eliminating waste and reducing the production of packaging, carbon dioxide emissions are potentially reduced by up to 80%.
+* **Waste** - Unlike disposable packaging, reuse keeps materials out of the waste stream and extends the life cycle of the original raw material. 
+* **Carbon dioxide emissions** - By eliminating waste and reducing the production of packaging, carbon dioxide emissions are potentially reduced by up to 80%.
 
 ### 3) Could Facebook Be Your New Personal Stylist?
 
