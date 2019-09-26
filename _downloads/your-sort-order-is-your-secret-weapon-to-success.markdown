@@ -16,6 +16,6 @@ testimonial:
   action: Download Whitepaper
 ---
 
-# Why redefining the discovery process within the fashion domain is fundamental to significantly grow revenues and margins.
+# Why redefining the discovery process is fundamental to significantly grow revenues and margins.
 
-## This paper outlines the steps retailers should take to increase the chances of customers finding products they want to buy and keep to improve conversion rates throughout the funnel.
+## This paper outlines the steps fashion retailers within should take to increase the chances of customers finding products they want to buy and keep to improve conversion rates throughout the funnel.
