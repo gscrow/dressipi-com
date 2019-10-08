@@ -136,3 +136,5 @@ As well as being delivered directly through an app or mobile site, the data can 
 These are a couple of examples of how Dressipi can deliver in-store experiences unlike anyone else, but there are many other ways retailers can leverage this deep data understanding to create hyper-curated experiences that mimic how people shop in real life, delivering an extra 15-20% uplift in revenues. 
 
 Dressipi believes there are 4 key steps to delivering successful experiences within fashion retail:
+
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/conclusion.PNG"/></p>
