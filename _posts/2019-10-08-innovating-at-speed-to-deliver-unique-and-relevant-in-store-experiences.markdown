@@ -182,7 +182,7 @@ By focusing on servicing the customer, retailers will gain so much more data tha
 
 **   **
 
-> ## Sources
+## Sources
 
 * Harvard Business Review ‘How Retail Changes When Algorithms Curate Everything We Buy’
 * Parcel Hero, ‘2030: The Death of the High Street’
