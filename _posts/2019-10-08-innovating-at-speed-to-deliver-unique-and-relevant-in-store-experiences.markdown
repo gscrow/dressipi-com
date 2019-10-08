@@ -116,6 +116,7 @@ Unless a retailer can build this domain expertise and some appreciation of these
 
 ## 1) Get Better Quality Data
 
+   
 * <p style="padding-left: 20px; font-weight: bold;"> On Customers</p>
 
 <p style="padding-left: 37px;">Allow customers to provide more information about themselves, constantly give feedback and the opportunity to create a richer profile and set explicit preferences around garments and features.</p>
