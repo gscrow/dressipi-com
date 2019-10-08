@@ -106,13 +106,13 @@ Unless a retailer can build this domain expertise and some appreciation of these
 
 ## 1) Get Better Quality Data on Customers & Products
 
-<p style="padding-left: 50px; font-weight: bold;"> On Customers</p>
+<p style="padding-left: 50px; font-weight: bold;"> * On Customers</p>
 
 <p style="padding-left: 50px;">Allow customers to provide more information about themselves, constantly give feedback and the opportunity to create a richer profile and set explicit preferences around garments and features.</p>
  
 <p style="padding-left: 50px;">Have an understanding that with fashion, customer preferences evolve. Some of that data can be explicit, such as their body shape (if they start buying a different size then they will have likely changed shape) and some can be implicit such as what trends they like.</p>
 
-<p style="padding-left: 50px; font-weight: bold;"> On Products</p>
+<p style="padding-left: 50px; font-weight: bold;"> * On Products</p>
 
 <p style="padding-left: 50px;">Retailers need a more accurate way to enrich their garment data to ensure the right breadth, depth and consistency of data. Typically, this will describe the garment's versatility, how it might be worn and what it should be worn with, all in the context of purchases already made by the customer. The more detailed the data, the richer the experience.</p> 
 
@@ -152,4 +152,21 @@ These are a couple of examples of how Dressipi can deliver in-store experiences 
 Dressipi believes there are 4 key steps to delivering successful experiences within fashion retail:
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/conclusion.PNG"/></p>
+
+
+# Conclusion
+
+At Dressipi we have always maintained that good retailing is made up of three key pillars: 
+
+1. Great products
+2. Great customer service
+3. The right price point
+
+Technology can supercharge all of those efforts but the fundamentals still hold true.  
+
+As fashion becomes more global and competitive, brand positioning and DNA becomes increasingly important. Stores can be a vital component of that success, demonstrating what each brand stands for, but to do that, the role of the store needs to be redefined to work seamlessly alongside other channels.
+
+We know from years of experience that personalisation is not a one-off project. Retailers should be working with partners that will enable the experiences that customers need so they are more willing to share their data in return. Furthermore, technology now allows retailers to put excellent service back into stores at a fraction of the cost. 
+
+By focusing on servicing the customer, retailers will gain so much more data than they would otherwise, meaning that they will be in a significantly better position to develop better products for their customers at the right price, every time.
 
