@@ -95,16 +95,16 @@ Some examples include:
 <p style="padding-left: 50px;">It is important to keep up with customers’ changing needs and expectations. For example, understanding that a customer has just started a new job that requires a less formal more creative wardrobe.</p>
 
 <p style="padding-left: 50px; font-weight: bold;"> * Industry Changes (trend, seasonality)</p>
-<p style="padding-left: 50px;"> * Seasonality and the weather hugely impact what people prefer, buy and wear at different times of the year. Trend followers are more fickle in their preferences, meaning a customer’s trend propensity needs to be understood.</p> 
+<p style="padding-left: 50px;"> Seasonality and the weather hugely impact what people prefer, buy and wear at different times of the year. Trend followers are more fickle in their preferences, meaning a customer’s trend propensity needs to be understood.</p> 
 
-<p style="padding-left: 50px; font-weight: bold;"> Retailer Changes (inventory and stock levels)</p>
+<p style="padding-left: 50px; font-weight: bold;"> * Retailer Changes (inventory and stock levels)</p>
 <p style="padding-left: 50px;">Retailers add new items regularly (with increasing frequency for fast fashion retailers). Unlike other categories, clothes are only available to purchase for 3-6 months. This short lifetime means that each item only has a short period in which to collect data about it, resulting in further data sparsity.</p>
 
 # How to Overcome These Problems
 
 Unless a retailer can build this domain expertise and some appreciation of these nuances into their chosen technology/AI they will struggle to deliver personalisation to the fashion customer.
 
-## 1) Get Better Quality Data on Customers & Products
+## 1) Get Better Quality Data
 
 <p style="padding-left: 50px; font-weight: bold;"> * On Customers</p>
 
@@ -166,7 +166,9 @@ Technology can supercharge all of those efforts but the fundamentals still hold 
 
 As fashion becomes more global and competitive, brand positioning and DNA becomes increasingly important. Stores can be a vital component of that success, demonstrating what each brand stands for, but to do that, the role of the store needs to be redefined to work seamlessly alongside other channels.
 
-We know from years of experience that personalisation is not a one-off project. Retailers should be working with partners that will enable the experiences that customers need so they are more willing to share their data in return. Furthermore, technology now allows retailers to put excellent service back into stores at a fraction of the cost. 
+We know from years of experience that personalisation is not a one-off project. Retailers should be working with partners that will enable experiences customers need so they are more willing to share their data in return. Furthermore, technology now allows retailers to put excellent service back into stores at a fraction of the cost. 
 
 By focusing on servicing the customer, retailers will gain so much more data than they would otherwise, meaning that they will be in a significantly better position to develop better products for their customers at the right price, every time.
+
+
 
