@@ -89,7 +89,7 @@ Retailers have a lot of data, but on a per-customer basis, it is typically very 
 
 If retailers are trying to build customer experiences based on less than 5-10% of each customer’s behaviour, those experiences that can be developed and delivered to each customer will be limited in both its success and scope.
 
-## 2) The Way We Shop for Fashion is Different to Other Categories
+## 2) The Way We Shop for Fashion is Different
 
 Most generic personalisation vendors completely miss that fashion is a complex and emotional purchase and don’t understand the nuances that make it different. Unlike other categories, clothes are typically bought to go with other items the customer already owns.
 
