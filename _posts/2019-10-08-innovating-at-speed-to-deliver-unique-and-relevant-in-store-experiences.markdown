@@ -3,7 +3,7 @@ title: Innovating at Speed to Deliver Unique and Relevant In-store Experiences
 date: 2019-10-08 09:04:00 Z
 ---
 
-Why fashion-specific customer experiences can drive profitability and loyalty in-store.
+## Why fashion-specific customer experiences can drive profitability and loyalty in-store.
 
 # Introduction
 
