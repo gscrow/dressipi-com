@@ -115,8 +115,7 @@ Some examples include:
 Unless a retailer can build this domain expertise and some appreciation of these nuances into their chosen technology/AI they will struggle to deliver personalisation to the fashion customer.
 
 ## 1) Get Better Quality Data
-
-   
+  
 * <p style="padding-left: 20px; font-weight: bold;"> On Customers</p>
 
 <p style="padding-left: 37px;">Allow customers to provide more information about themselves, constantly give feedback and the opportunity to create a richer profile and set explicit preferences around garments and features.</p>
@@ -162,7 +161,7 @@ These are a couple of examples of how Dressipi can deliver in-store experiences 
 
 Dressipi believes there are 4 key steps to delivering successful experiences within fashion retail:
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/conclusionpip.PNG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/conclusion.PNG"/></p>
 
 
 # Conclusion
