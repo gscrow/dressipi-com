@@ -5,6 +5,7 @@ tags:
 - instore experience
 - customer experience
 image: "/uploads/pip%20banner.png"
+download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
 ## Why fashion-specific customer experiences can drive profitability and loyalty in-store.
