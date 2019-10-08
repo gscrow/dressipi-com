@@ -92,7 +92,7 @@ The fashion industry is dynamic on many levels, therefore the experiences delive
 
 Some examples include:
 
-<p style="padding-left: 50px; font-weight: bold;"> Customer Changes (shape, preferences, lifestyle)</p>
+<p style="padding-left: 50px; font-weight: bold;"> * Customer Changes (shape, preferences, lifestyle)</p>
 <p style="padding-left: 50px;">It is important to keep up with customers’ changing needs and expectations. For example, understanding that a customer has just started a new job that requires a less formal more creative wardrobe.</p>
 
 <p style="padding-left: 50px; font-weight: bold;"> Industry Changes (trend, seasonality)</p>
