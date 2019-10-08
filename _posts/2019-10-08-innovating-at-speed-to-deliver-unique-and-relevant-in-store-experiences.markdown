@@ -161,7 +161,7 @@ These are a couple of examples of how Dressipi can deliver in-store experiences 
 
 Dressipi believes there are 4 key steps to delivering successful experiences within fashion retail:
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/conclusion.PNG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/conclusion%202.PNG"/></p>
 
 
 # Conclusion
