@@ -47,11 +47,11 @@ Imagine the following scenario...
 
 <p style="padding-left: 50px; font-style: italic;"> In the changing room, you can’t decide between two dresses. You want to choose the one which works best with the shoes and bag you bought last month. You simply scan the barcode and the AI visualises the complete outfit for you, together with multiple other outfit options with items from your wardrobe. </p>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/Instore%20journey.png"/></p>
-
 <p style="padding-left: 50px; font-style: italic;"> But the personalisation doesn’t stop here. After you have left the store paying using your mobile Pay & Go,  without the need to queue at the checkout, the personalisation continues. </p>
 
 <p style="padding-left: 50px; font-style: italic;"> Ideas about how to wear your dress for different occasions and how to style your dress with new complementary items when they arrive new at your nearest store (or online) are simple ways to continue to personalise the experiences for every customer at scale. </p>
+
+<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/Instore%20journey.png"/></p>
 
 Retailers need to create experiences and services that customers want to use and that add value to their shopping journey. If these services reflect the customer’s aspirations, then they will be more willing to share their data in return, particularly if it enables the retailer to be more efficient.  
 
