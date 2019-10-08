@@ -57,7 +57,7 @@ Retailers need to create experiences and services that customers want to use and
 
 The integrated shopping experience described above is a great example of what the future of retail could look like, but there are certain unique factors found in the fashion industry that make achieving this more challenging than in other industries.
 
-# Problems and Nuances Specific to Fashion (vs Other Categories)
+# Problems and Nuances Specific to Fashion
 
 ## 1) Sparsity of Data
 
