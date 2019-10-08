@@ -39,7 +39,7 @@ However, regardless of this progress, no one is taking the obvious step of using
 
 Imagine the following scenario...
 
-<p style="padding-left: 50px;"> *You are looking for a dress to wear to a wedding. You have started to browse at home on your mobile but prefer to shop in-store. As you walk into your favourite retailer, your profile is recognised and used to look up the most relevant dresses available in your size, in that store right now.* </p>
+*<p style="padding-left: 50px;"> You are looking for a dress to wear to a wedding. You have started to browse at home on your mobile but prefer to shop in-store. As you walk into your favourite retailer, your profile is recognised and used to look up the most relevant dresses available in your size, in that store right now. </p>*
 
 A tailored list of recommendations appears on your phone, ordered by recommended strength. You choose three to try on, and while you continue to browse, an in-store assistant is fetching your sizes out of the stock room and preparing a changing room for you.
 
