@@ -37,8 +37,6 @@ download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 
 ## Why fashion-specific customer experiences can drive profitability and loyalty in-store.
 
-# Introduction
-
 The pace of transformation in the fashion industry has been accelerating over the last few decades. After the successes of Amazon selling books and electronics online, the first wave of change came in the form of a channel shift where retailers began to sell online as well as offline. 
 
 After years of fashion retailers selling successfully via their online stores, the second, current wave is to deliver hyper-curated, hyper-personalised services to customers. 
