@@ -129,9 +129,9 @@ When a customer is in a store their requirements are very different. For a start
 * What size they should try on and if that isn’t available in that store, if there’s another store nearby with availability, or
 * Other items that are similar if that one isn’t quite right 
 
-As well as being delivered directly through an app or mobile site, the data can also be linked up to clienteling apps for store staff to use. Dressipi’s API’s can be extended to create a scalable personal styling service that enables a 1-2-1 conversation with every customer.
-
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Instore%20scanning.PNG"/></p>
+
+As well as being delivered directly through an app or mobile site, the data can also be linked up to clienteling apps for store staff to use. Dressipi’s API’s can be extended to create a scalable personal styling service that enables a 1-2-1 conversation with every customer.
 
 These are a couple of examples of how Dressipi can deliver in-store experiences unlike anyone else, but there are many other ways retailers can leverage this deep data understanding to create hyper-curated experiences that mimic how people shop in real life, delivering an extra 15-20% uplift in revenues. 
 
