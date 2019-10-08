@@ -114,7 +114,7 @@ Having fashion experts involved ensures the understanding of the nuances of the 
 
 # Leading the Way in Creating Hyper-Personalised Experiences
 
-Dressipi is currently working with some of the UK and Europe’s biggest retailers on their long-term strategies to drive profitability and customer loyalty by redefining the shopping experience as we know it.
+Dressipi is currently [working with some of the UK and Europe’s biggest retailers](https://dressipi.com/clients/) on their long-term strategies to drive profitability and customer loyalty by redefining the shopping experience as we know it.
 
 By enabling a better understanding of a retailer’s products and customers through a fashion lens, Dressipi can help deliver truly unique experiences both online and in-store regardless of the chosen technology and completely in line with the brand’s DNA.
 
