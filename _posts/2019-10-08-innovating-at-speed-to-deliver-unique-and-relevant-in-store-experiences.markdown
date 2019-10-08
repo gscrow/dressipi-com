@@ -11,6 +11,9 @@ tags:
 - fashion specific experiences
 - customer data
 - product data
+- Next Plc
+- Next
+- retail technology
 image: "/uploads/pip%20banner.png"
 author: Sarah McVittie
 description: Online is on its way to personalising experiences for every individual
@@ -22,6 +25,7 @@ download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 
 ## Why fashion-specific customer experiences can drive profitability and loyalty in-store.
 
+
 # Introduction
 
 The pace of transformation in the fashion industry has been accelerating over the last few decades. After the successes of Amazon selling books and electronics online, the first wave of change came in the form of a channel shift where retailers began to sell online as well as offline. 
@@ -32,11 +36,9 @@ However, as retailers have begun this journey there is an increasing understandi
 
 Over the last decade, online retail has grown quickly and now represents around 20% of all retail purchases in the UK. Recently, however, the rate of growth has slowed (lowest ever growth rates were recorded in the first half of 2019) and analysts’ forecasts for 2030 range anywhere from just 30% to 50%. It isn’t time to panic but it is time to think about how online and offline channels should work together to create the best service for the customer.
 
-Next Plc, one of the UK’s largest retailers, understands the value of bricks and mortar stores in the overall customer proposition. Having secured rent reductions for some of its stores the company is due to add 100,000 sq ft of space compared to an earlier estimate of 50,000 sq ft. Next CEO Simon Wolfson says, *“Returns are a central part of our online service and 82% of returns come back through our stores. It is counter-intuitive, but the fact is stores have become an important part of our online service”*. A bricks and mortar presence on the high street is not just about enabling the online business (and lowering the costs of returns and distribution) but also a way to offer a richer shopping experience to its customers with more concessions being added (there are already 162 Costa Coffees and 29 Paperchase concessions in Next stores).
+Next Plc, one of the UK’s largest retailers, understands the value of bricks and mortar stores in the overall customer proposition. Having secured rent reductions for some of its stores the company is due to add 100,000 sq ft of space compared to an earlier estimate of 50,000 sq ft. Next CEO Simon Wolfson says, *“Returns are a central part of our online service and 82% of returns come back through our stores. It is counter-intuitive, but the fact is stores have become an important part of our online service”*. A bricks and mortar presence on the high street is not just about enabling the online business (and lowering the costs of returns and distribution) but also a way to offer a richer shopping experience to its customers with more concessions being added.
 
-Online is on its way to personalising experiences for every individual customer. The store, however, is lagging, which is unusual, since forecasts say most of the fashion shopping journey will continue to take place in physical environments. Retailers should be offering an individual level of instore hyper-personalisation if they are to stay relevant and create experiences that build unique, long-term relationships with customers. 
-
-This piece outlines what this experience should look like, the challenges of applying it to the fashion industry (and why a fashion-specific approach is necessary), and the steps retailers can take to get there.
+Online is on its way to personalising experiences for every customer. The store, however, is lagging, which is unusual, since forecasts say most of the fashion shopping journey will continue to take place in physical environments. Retailers should be offering an individual level of in-store hyper-personalisation if they are to stay relevant and create experiences that build unique, long-term relationships with customers. 
 
 # Guiding the Shopper
 
