@@ -77,13 +77,13 @@ The fashion industry is dynamic on many levels, therefore the experiences delive
 
 Some examples include:
 
-<p style="padding-left: 50px; font-weight: bold;"> a) Customer Changes (shape, preferences, lifestyle)</p>
+<p style="padding-left: 50px; font-weight: bold;"> Customer Changes (shape, preferences, lifestyle)</p>
 <p style="padding-left: 50px;">It is important to keep up with customers’ changing needs and expectations. For example, understanding that a customer has just started a new job that requires a less formal more creative wardrobe.</p>
 
-<p style="padding-left: 50px; font-weight: bold;"> b) Industry Changes (trend, seasonality)</p>
+<p style="padding-left: 50px; font-weight: bold;"> Industry Changes (trend, seasonality)</p>
 <p style="padding-left: 50px;">Seasonality and the weather hugely impact what people prefer, buy and wear at different times of the year. Trend followers are more fickle in their preferences, meaning a customer’s trend propensity needs to be understood.</p> 
 
-<p style="padding-left: 50px; font-weight: bold;"> c) Retailer Changes (inventory and stock levels)</p>
+<p style="padding-left: 50px; font-weight: bold;"> Retailer Changes (inventory and stock levels)</p>
 <p style="padding-left: 50px;">Retailers add new items regularly (with increasing frequency for fast fashion retailers). Unlike other categories, clothes are only available to purchase for 3-6 months. This short lifetime means that each item only has a short period in which to collect data about it, resulting in further data sparsity.</p>
 
 # How to Overcome These Problems
@@ -92,13 +92,13 @@ Unless a retailer can build this domain expertise and some appreciation of these
 
 ## 1) Get Better Quality Data on Customers & Products
 
-### On Customers
+<p style="padding-left: 50px; font-weight: bold;"> On Customers</p>
 
 Allow customers to provide more information about themselves, constantly give feedback and the opportunity to create a richer profile and set explicit preferences around garments and features.
  
 Have an understanding that with fashion, customer preferences evolve. Some of that data can be explicit, such as their body shape (if they start buying a different size then they will have likely changed shape) and some can be implicit such as what trends they like.
 
-### On Products
+<p style="padding-left: 50px; font-weight: bold;"> On Products</p>
 
 Retailers need a more accurate way to enrich their garment data to ensure the right breadth, depth and consistency of data. Typically, this will describe the garment's versatility, how it might be worn and what it should be worn with, all in the context of purchases already made by the customer. The more detailed the data, the richer the experience. 
 
@@ -108,9 +108,9 @@ Retailers need a more accurate way to enrich their garment data to ensure the ri
 
 Due to the sparsity of data and because of the nuances specific to the fashion domain, a combination of fashion stylists and technology will, for the foreseeable future, outperform any purely AI and big data solution. Technology is a key tool, but the human element is still very important. Fashion stylists can fill in the necessary gaps that technology misses. 
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Natalie%20and%20Nick-d68c69.jpg"/></p>
-
 Having fashion experts involved ensures the understanding of the nuances of the industry. They must [work very closely with tech and data team](https://dressipi.com/blog/fashion-plus-data-equals-a-match-made-in-personalisation-heaven/) to build algorithms that take into account the fashion-specific information explained previously.
+
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Natalie%20and%20Nick-d68c69.jpg"/></p>
 
 # Leading the Way in Creating Hyper-Personalised Experiences
 
