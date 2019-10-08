@@ -41,7 +41,7 @@ Imagine the following scenario...
 
 > In the changing room, you can’t decide between two dresses. You want to choose the one which works best with the shoes and bag you bought last month. You simply scan the barcode and the AI visualises the complete outfit for you, together with multiple other outfit options with items from your wardrobe.
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/20190501_133719.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Instore%20journey.png"/></p>
 
 > But the personalisation doesn’t stop here. After you have left the store paying using your mobile Pay & Go,  without the need to queue at the checkout, the personalisation continues.
 
