@@ -5,6 +5,7 @@ tags:
 - instore experience
 - customer experience
 image: "/uploads/pip%20banner.png"
+author: Sarah McVittie
 download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
@@ -38,19 +39,19 @@ However, regardless of this progress, no one is taking the obvious step of using
 
 Imagine the following scenario...
 
-> You are looking for a dress to wear to a wedding. You have started to browse at home on your mobile but prefer to shop in-store. As you walk into your favourite retailer, your profile is recognised and used to look up the most relevant dresses available in your size, in that store right now. 
+*You are looking for a dress to wear to a wedding. You have started to browse at home on your mobile but prefer to shop in-store. As you walk into your favourite retailer, your profile is recognised and used to look up the most relevant dresses available in your size, in that store right now. 
 
-> A tailored list of recommendations appears on your phone, ordered by recommended strength. You choose three to try on, and while you continue to browse, an in-store assistant is fetching your sizes out of the stock room and preparing a changing room for you.
+A tailored list of recommendations appears on your phone, ordered by recommended strength. You choose three to try on, and while you continue to browse, an in-store assistant is fetching your sizes out of the stock room and preparing a changing room for you.
 
-> You spot a few other items you like whilst walking around the store and want to know their suitability for you. You scan their barcodes and the product is recognised by your digital AI wardrobe assistant who gives you feedback on versatility and suitability based on what you already own.
+You spot a few other items you like whilst walking around the store and want to know their suitability for you. You scan their barcodes and the product is recognised by your digital AI wardrobe assistant who gives you feedback on versatility and suitability based on what you already own.
 
-> In the changing room, you can’t decide between two dresses. You want to choose the one which works best with the shoes and bag you bought last month. You simply scan the barcode and the AI visualises the complete outfit for you, together with multiple other outfit options with items from your wardrobe.
+In the changing room, you can’t decide between two dresses. You want to choose the one which works best with the shoes and bag you bought last month. You simply scan the barcode and the AI visualises the complete outfit for you, together with multiple other outfit options with items from your wardrobe.*
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Instore%20journey.png"/></p>
 
-> But the personalisation doesn’t stop here. After you have left the store paying using your mobile Pay & Go,  without the need to queue at the checkout, the personalisation continues.
+*But the personalisation doesn’t stop here. After you have left the store paying using your mobile Pay & Go,  without the need to queue at the checkout, the personalisation continues.
 
-> Ideas about how to wear your dress for different occasions and how to style your dress with new complementary items when they arrive new at your nearest store (or online) are simple ways to continue to personalise the experiences for every customer at scale.
+Ideas about how to wear your dress for different occasions and how to style your dress with new complementary items when they arrive new at your nearest store (or online) are simple ways to continue to personalise the experiences for every customer at scale.*
 
 Retailers need to create experiences and services that customers want to use and that add value to their shopping journey. If these services reflect the customer’s aspirations, then they will be more willing to share their data in return, particularly if it enables the retailer to be more efficient. 
 
