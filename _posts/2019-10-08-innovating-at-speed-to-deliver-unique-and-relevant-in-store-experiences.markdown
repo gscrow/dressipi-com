@@ -101,7 +101,7 @@ The fashion industry is dynamic on many levels, therefore the experiences delive
 
 Some examples include:
 
-<p style="padding-left: 50px; font-weight: bold;"> * Customer Changes (shape, preferences, lifestyle)</p>
+* <p style="padding-left: 50px; font-weight: bold;"> Customer Changes (shape, preferences, lifestyle)</p>
 <p style="padding-left: 50px;">It is important to keep up with customers’ changing needs and expectations. For example, understanding that a customer has just started a new job that requires a less formal more creative wardrobe.</p>
 
 <p style="padding-left: 50px; font-weight: bold;"> * Industry Changes (trend, seasonality)</p>
@@ -168,9 +168,9 @@ Dressipi believes there are 4 key steps to delivering successful experiences wit
 
 At Dressipi we have always maintained that good retailing is made up of three key pillars: 
 
-1. Great products
-2. Great customer service
-3. The right price point
+<p style="padding-left: 50px;"> 1) Great products</p>1)
+2) Great customer service
+3) The right price point
 
 Technology can supercharge all of those efforts but the fundamentals still hold true.  
 
@@ -180,7 +180,9 @@ We know from years of experience that personalisation is not a one-off project. 
 
 By focusing on servicing the customer, retailers will gain so much more data than they would otherwise, meaning that they will be in a significantly better position to develop better products for their customers at the right price, every time.
 
-> ## Sources
+## Sources
+
+> 
 
 * Harvard Business Review ‘How Retail Changes When Algorithms Curate Everything We Buy’
 * Parcel Hero, ‘2030: The Death of the High Street’
