@@ -14,6 +14,18 @@ tags:
 - Next Plc
 - Next
 - retail technology
+- how to create a personalised shopping experience
+- shopping instore
+- shopping
+- fashion tech
+- fashion technology
+- Amazon
+- Asos
+- Reformation
+- Zalando
+- retail innovation
+- omnichannel retail
+- future of retail
 image: "/uploads/pip%20banner.png"
 author: Sarah McVittie
 description: Online is on its way to personalising experiences for every individual
