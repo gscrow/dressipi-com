@@ -115,7 +115,6 @@ Some examples include:
 Unless a retailer can build this domain expertise and some appreciation of these nuances into their chosen technology/AI they will struggle to deliver personalisation to the fashion customer.
 
 ## 1) Get Better Quality Data
-**   **
   
 * <p style="padding-left: 20px; font-weight: bold;"> On Customers</p>
 
@@ -180,6 +179,8 @@ As fashion becomes more global and competitive, brand positioning and DNA become
 We know from years of experience that personalisation is not a one-off project. Retailers should be working with partners that will enable experiences customers need so they are more willing to share their data in return. Furthermore, technology now allows retailers to put excellent service back into stores at a fraction of the cost. 
 
 By focusing on servicing the customer, retailers will gain so much more data than they would otherwise, meaning that they will be in a significantly better position to develop better products for their customers at the right price, every time.
+
+**   **
 
 > ## Sources
 
