@@ -86,25 +86,25 @@ Unless a retailer can build this domain expertise and some appreciation of these
 
 ## 1) Get Better Quality Data on Customers & Products
 
-### * On Customers
+### On Customers
 
 Allow customers to provide more information about themselves, constantly give feedback and the opportunity to create a richer profile and set explicit preferences around garments and features.
  
 Have an understanding that with fashion, customer preferences evolve. Some of that data can be explicit, such as their body shape (if they start buying a different size then they will have likely changed shape) and some can be implicit such as what trends they like.
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/20190501_133719.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Customer%20data.png"/></p>
 
-### * On Products
+### On Products
 
 Retailers need a more accurate way to enrich their garment data to ensure the right breadth, depth and consistency of data. Typically, this will describe the garment's versatility, how it might be worn and what it should be worn with, all in the context of purchases already made by the customer. The more detailed the data, the richer the experience. 
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/20190501_133719.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Garment%20data.png"/></p>
 
 ## 2) Supplement the Gaps Left by Data Sparsity with Expert Domain Knowledge 
 
 Due to the sparsity of data and because of the nuances specific to the fashion domain, a combination of fashion stylists and technology will, for the foreseeable future, outperform any purely AI and big data solution. Technology is a key tool, but the human element is still very important. Fashion stylists can fill in the necessary gaps that technology misses. 
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/20190501_133719.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Natalie%20and%20Nick-d68c69.jpg"/></p>
 
 Having fashion experts involved ensures the understanding of the nuances of the industry. They must [work very closely with tech and data team](https://dressipi.com/blog/fashion-plus-data-equals-a-match-made-in-personalisation-heaven/) to build algorithms that take into account the fashion-specific information explained previously.
 
@@ -127,7 +127,7 @@ When a customer is in a store their requirements are very different. For a start
 
 As well as being delivered directly through an app or mobile site, the data can also be linked up to clienteling apps for store staff to use. Dressipi’s API’s can be extended to create a scalable personal styling service that enables a 1-2-1 conversation with every customer.
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/20190501_133719.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Instore%20scanning.PNG"/></p>
 
 These are a couple of examples of how Dressipi can deliver in-store experiences unlike anyone else, but there are many other ways retailers can leverage this deep data understanding to create hyper-curated experiences that mimic how people shop in real life, delivering an extra 15-20% uplift in revenues. 
 
