@@ -116,15 +116,15 @@ Unless a retailer can build this domain expertise and some appreciation of these
 
 ## 1) Get Better Quality Data
 
-<p style="padding-left: 50px; font-weight: bold;"> * On Customers</p>
+* <p style="padding-left: 20px; font-weight: bold;"> On Customers</p>
 
-<p style="padding-left: 50px;">Allow customers to provide more information about themselves, constantly give feedback and the opportunity to create a richer profile and set explicit preferences around garments and features.</p>
+<p style="padding-left: 37px;">Allow customers to provide more information about themselves, constantly give feedback and the opportunity to create a richer profile and set explicit preferences around garments and features.</p>
  
-<p style="padding-left: 50px;">Have an understanding that with fashion, customer preferences evolve. Some of that data can be explicit, such as their body shape (if they start buying a different size then they will have likely changed shape) and some can be implicit such as what trends they like.</p>
+<p style="padding-left: 37px;">Have an understanding that with fashion, customer preferences evolve. Some of that data can be explicit, such as their body shape (if they start buying a different size then they will have likely changed shape) and some can be implicit such as what trends they like.</p>
 
-<p style="padding-left: 50px; font-weight: bold;"> * On Products</p>
+* <p style="padding-left: 20px; font-weight: bold;"> On Products</p>
 
-<p style="padding-left: 50px;">Retailers need a more accurate way to enrich their garment data to ensure the right breadth, depth and consistency of data. Typically, this will describe the garment's versatility, how it might be worn and what it should be worn with, all in the context of purchases already made by the customer. The more detailed the data, the richer the experience.</p> 
+<p style="padding-left: 37px;">Retailers need a more accurate way to enrich their garment data to ensure the right breadth, depth and consistency of data. Typically, this will describe the garment's versatility, how it might be worn and what it should be worn with, all in the context of purchases already made by the customer. The more detailed the data, the richer the experience.</p> 
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/data%20new.PNG"/></p>
 
