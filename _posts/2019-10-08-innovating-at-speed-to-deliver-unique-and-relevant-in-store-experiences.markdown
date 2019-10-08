@@ -77,8 +77,8 @@ The fashion industry is dynamic on many levels, therefore the experiences delive
 
 Some examples include:
 
-### a) Customer Changes (shape, preferences, lifestyle)
-It is important to keep up with customers’ changing needs and expectations. For example, understanding that a customer has just started a new job that requires a less formal more creative wardrobe.
+<p style="padding-left: 50px; font-style: italic;"> ### a) Customer Changes (shape, preferences, lifestyle)
+It is important to keep up with customers’ changing needs and expectations. For example, understanding that a customer has just started a new job that requires a less formal more creative wardrobe.</p>
 
 ### b) Industry Changes (trend, seasonality)
 Seasonality and the weather hugely impact what people prefer, buy and wear at different times of the year. Trend followers are more fickle in their preferences, meaning a customer’s trend propensity needs to be understood. 
