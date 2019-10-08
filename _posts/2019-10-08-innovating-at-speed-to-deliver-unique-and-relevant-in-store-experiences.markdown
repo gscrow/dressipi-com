@@ -148,10 +148,10 @@ For example, some retail stores currently allow their customers to scan a barcod
 
 When a customer is in a store their requirements are very different. For a start, they can see and feel the garment, so typically the information provided by the PDP is not very useful. They’ll typically be looking for information on one of the following:
 
-* Whether that item suits them and whether it is appropriate for the purpose they have in mind
-* How they should wear it (with clothes they already own or new items)
-* What size they should try on and if that isn’t available in that store, if there’s another store nearby with availability, or
-* Other items that are similar if that one isn’t quite right 
+* <p style="padding-left: 20px;">Whether that item suits them and whether it is appropriate for the purpose they have in mind</p>
+* <p style="padding-left: 20px;">How they should wear it (with clothes they already own or new items)</p>
+* <p style="padding-left: 20px;">What size they should try on and if that isn’t available in that store, if there’s another store nearby with availability, or</p>
+* <p style="padding-left: 20px;">Other items that are similar if that one isn’t quite right </p>
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Instore%20scanning.PNG"/></p>
 
@@ -167,6 +167,8 @@ Dressipi believes there are 4 key steps to delivering successful experiences wit
 # Conclusion
 
 At Dressipi we have always maintained that good retailing is made up of three key pillars: 
+
+* <p style="padding-left: 20px; font-weight: bold;"> On Products</p>
 
 <p style="padding-left: 50px;"> 1) Great products</p>1)
 2) Great customer service
