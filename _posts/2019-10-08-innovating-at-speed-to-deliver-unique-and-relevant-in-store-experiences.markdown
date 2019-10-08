@@ -169,11 +169,9 @@ Dressipi believes there are 4 key steps to delivering successful experiences wit
 
 At Dressipi we have always maintained that good retailing is made up of three key pillars: 
 
-* <p style="padding-left: 20px; font-weight: bold;"> On Products</p>
-
-<p style="padding-left: 50px;"> 1) Great products</p>1)
-2) Great customer service
-3) The right price point
+<p style="padding-left: 20px; font-weight: bold;"> 1) Great products</p>
+<p style="padding-left: 20px; font-weight: bold;"> 2) Great customer service</p>
+<p style="padding-left: 20px; font-weight: bold;"> 3) The right price point</p>
 
 Technology can supercharge all of those efforts but the fundamentals still hold true.  
 
