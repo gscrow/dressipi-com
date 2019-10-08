@@ -1,16 +1,22 @@
 ---
 title: Innovating at Speed to Deliver Unique and Relevant In-store Experiences
 date: 2019-10-08 09:04:00 Z
+categories:
+- retail
 tags:
 - instore experience
 - customer experience
+- instore personalisation
+- data
+- fashion specific experiences
+- customer data
+- product data
 image: "/uploads/pip%20banner.png"
 author: Sarah McVittie
-description: 'This piece outlines what this experience should look like, the challenges
-  of applying it to the fashion industry (and why a fashion-specific approach is necessary),
-  and the steps retailers can take to get there.
-
-'
+description: Online is on its way to personalising experiences for every individual
+  customer but what should this experience look like in-store? Dressipi's Co-Founder
+  Sarah McVittie outlines the challenges of applying a hyper-personalised in-store
+  experience to the fashion industry and the steps retailers can take to get there.
 download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
