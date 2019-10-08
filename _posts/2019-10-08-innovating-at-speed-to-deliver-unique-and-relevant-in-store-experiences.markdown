@@ -6,6 +6,11 @@ tags:
 - customer experience
 image: "/uploads/pip%20banner.png"
 author: Sarah McVittie
+description: 'This piece outlines what this experience should look like, the challenges
+  of applying it to the fashion industry (and why a fashion-specific approach is necessary),
+  and the steps retailers can take to get there.
+
+'
 download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
@@ -138,3 +143,4 @@ These are a couple of examples of how Dressipi can deliver in-store experiences 
 Dressipi believes there are 4 key steps to delivering successful experiences within fashion retail:
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/conclusion.PNG"/></p>
+
