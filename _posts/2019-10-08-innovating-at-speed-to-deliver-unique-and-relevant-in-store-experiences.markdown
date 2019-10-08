@@ -170,5 +170,12 @@ We know from years of experience that personalisation is not a one-off project. 
 
 By focusing on servicing the customer, retailers will gain so much more data than they would otherwise, meaning that they will be in a significantly better position to develop better products for their customers at the right price, every time.
 
+> ## Sources
+
+* Harvard Business Review ‘How Retail Changes When Algorithms Curate Everything We Buy’
+* Parcel Hero, ‘2030: The Death of the High Street’
+* The Guardian, ‘Half of UK retail sales will be online within 10 years, report predicts’
+* The Financial Times, ‘Next accelerates store openings after rent cuts’
+
 
 
