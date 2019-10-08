@@ -40,13 +40,14 @@ Next Plc, one of the UK’s largest retailers, understands the value of bricks a
 
 Online is on its way to personalising experiences for every customer. The store, however, is lagging, which is unusual, since forecasts say most of the fashion shopping journey will continue to take place in physical environments. Retailers should be offering an individual level of in-store hyper-personalisation if they are to stay relevant and create experiences that build unique, long-term relationships with customers. 
 
+
 # Guiding the Shopper
 
 To succeed at every touchpoint (not just online) a customer's experience with their favourite brands needs to be more intelligent and more individual, and yet there is currently very little activity focussed on individualising the store experience.
 
 Having said this, several forward-thinking brands are trying tactical projects. [Amazon](https://dressipi.com/blog/online-gets-physical/) and [McKinsey](https://fortune.com/2019/09/26/mckinsey-retail-store/) have opened pop up stores and malls, whilst [Nike](https://www.dezeen.com/2018/08/03/nike-live-melrose-los-angeles-retail-concept-interview/) and [Reformation](https://www.businessinsider.com/how-reformation-clothing-stores-beat-online-shopping-2018-1?r=US&IR=T) are good examples of brands that have been experimenting with more permanent concept stores centred around customer experiences.
 
-Some retailers are taking a different tactic by repurposing space (Next Plc), whilst others such as ASOS and Zalando are starting to use machine learning to optimise inventory stock and size levels. 
+Some retailers are taking a different tactic by repurposing space (Next Plc), whilst others (ASOS and Zalando) are starting to use machine learning to optimise inventory stock and size levels. 
 
 However, regardless of this progress, no one is taking the obvious step of using personalisation to guide the shopper through their physical journey despite all the technology being in place to be able to do so.
 
