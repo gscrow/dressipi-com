@@ -104,10 +104,10 @@ Some examples include:
 * <p style="padding-left: 50px; font-weight: bold;"> Customer Changes (shape, preferences, lifestyle)</p>
 <p style="padding-left: 50px;">It is important to keep up with customers’ changing needs and expectations. For example, understanding that a customer has just started a new job that requires a less formal more creative wardrobe.</p>
 
-<p style="padding-left: 50px; font-weight: bold;"> * Industry Changes (trend, seasonality)</p>
+* <p style="padding-left: 50px; font-weight: bold;"> Industry Changes (trend, seasonality)</p>
 <p style="padding-left: 50px;"> Seasonality and the weather hugely impact what people prefer, buy and wear at different times of the year. Trend followers are more fickle in their preferences, meaning a customer’s trend propensity needs to be understood.</p> 
 
-<p style="padding-left: 50px; font-weight: bold;"> * Retailer Changes (inventory and stock levels)</p>
+* <p style="padding-left: 50px; font-weight: bold;"> Retailer Changes (inventory and stock levels)</p>
 <p style="padding-left: 50px;">Retailers add new items regularly (with increasing frequency for fast fashion retailers). Unlike other categories, clothes are only available to purchase for 3-6 months. This short lifetime means that each item only has a short period in which to collect data about it, resulting in further data sparsity.</p>
 
 # How to Overcome These Problems
@@ -161,7 +161,7 @@ These are a couple of examples of how Dressipi can deliver in-store experiences 
 
 Dressipi believes there are 4 key steps to delivering successful experiences within fashion retail:
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/conclusion%202.PNG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/conclusion.PNG"/></p>
 
 
 # Conclusion
