@@ -6,7 +6,7 @@ image: "/uploads/Modist_Small_Case_Study_Image.jpg"
 form:
   title: Download Free Case Study
   button: Download Case Study
-  file: "/uploads/Dressipi-CaseStudy-The%20Modist.pdf"
+  file: "/uploads/Dressipi-CaseStudy-The%20Modist-fe45de.pdf"
   button_class: case-study
   checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services
