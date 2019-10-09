@@ -101,6 +101,10 @@ sections:
     title: Data Engineer
     linkedin: https://www.linkedin.com/in/joe-margrie-rouse/
     image: "/uploads/Joe%20MR.JPG"
+  - name: Luke Ingram
+    title: Data Engineer
+    linkedin: https://www.linkedin.com/in/luke-ingram-0b787798/
+    image: "/uploads/Luke%20Ingram.jpg"
   - name: James Tuck
     title: Data Analyst
     linkedin: https://www.linkedin.com/in/james-tuck-28555172/
