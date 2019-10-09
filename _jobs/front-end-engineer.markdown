@@ -1,6 +1,7 @@
 ---
 title: Javascript/Front-End Engineer
 date: 2017-07-28 13:58:00 Z
+is-open: false
 ---
 
 The world of retail is changing, and Dressipi is leading the charge. Delivering great customer experiences is the only way for retailers to succeed. We help some of the UK’s biggest brands to better predict what their customers want to buy and keep so they can truly connect with their shoppers.
@@ -11,49 +12,47 @@ As a Front-End Engineer, you will be building elegant and responsive UIs and wor
 You’ll mostly be working with libraries such as React and Redux, and React Native for mobile.
 We’re looking for someone who has a good understanding of the entire application stack, or a willingness to learn, and shares our passion for great user experience. Ideally you are a highly creative thinker, with strong attention to detail.
 
- 
 ### Responsibilities
 
-* Write clean, well-tested code to implement new features and applications, optimising for usability and performance
+- Write clean, well-tested code to implement new features and applications, optimising for usability and performance
 
-* Maintain and improve our existing products, helping to keep our technology up to date
+- Maintain and improve our existing products, helping to keep our technology up to date
 
-* Mock up new products and implementations for new clients
-
+- Mock up new products and implementations for new clients
 
 ### Requirements
 
-* 2+ years experience
+- 2+ years experience
 
-* Solid HTML, CSS and JavaScript skills
+- Solid HTML, CSS and JavaScript skills
 
-* Familiarity with React and React Native
+- Familiarity with React and React Native
 
-* Knowledge of responsive design and UX best practices
+- Knowledge of responsive design and UX best practices
 
-* Obsessed with attention to detail
+- Obsessed with attention to detail
 
-* Willing to work closely with backend engineers and product managers to create highly polished production-ready pages and assets
+- Willing to work closely with backend engineers and product managers to create highly polished production-ready pages and assets
 
-* A love for agile development and working independently on your own challenges as well as with others
+- A love for agile development and working independently on your own challenges as well as with others
 
-* A thirst for new skills and technologies, with an ability to pick up new things easily
+- A thirst for new skills and technologies, with an ability to pick up new things easily
 
-* Full of positive energy and relish the thought of being part of a small, fast-moving team
+- Full of positive energy and relish the thought of being part of a small, fast-moving team
 
 ### Perks
 
-* Great culture: We hire creative, friendly people who never want to stop learning
- 
-* Employee equity so everyone gets to share in the company’s success
+- Great culture: We hire creative, friendly people who never want to stop learning
 
-* Never go to work on your birthday again: an extra day off on your birthday
+- Employee equity so everyone gets to share in the company’s success
 
-* Regular team lunches & drinks
+- Never go to work on your birthday again: an extra day off on your birthday
 
-* Conference budget
+- Regular team lunches & drinks
 
-* Free fashion advice (if you want it!)
+- Conference budget
+
+- Free fashion advice (if you want it!)
 
 ### Interested?
 
