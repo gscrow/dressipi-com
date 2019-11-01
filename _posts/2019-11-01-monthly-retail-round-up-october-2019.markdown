@@ -1,6 +1,18 @@
 ---
 title: Monthly Retail Round-Up - October 2019
 date: 2019-11-01 14:56:00 Z
+categories:
+- news
+tags:
+- retail
+- retail news
+- circular economy
+- Burberry
+- Farfetch
+- Selfridges
+- H&M
+- clothes rental
+- resale
 image: "/uploads/Oct19%20Monthly%20RoundUp.png"
 author: Georgina Fisher
 description: With lots of news to keep track of, Dressipi brings you this month's
@@ -19,7 +31,7 @@ Research published by The Ellen MacArthur Foundation, reported in [Fashion Unite
 
 * **Burberry**
 
-Reported in [Fashion United](https://fashionunited.uk/news/fashion/burberry-partners-with-the-realreal/2019100745632), *“Burberry is joining forces with The RealReal to promote a sustainable future for fashion”*.
+<p style="padding-left: 20px;">Reported in [Fashion United](https://fashionunited.uk/news/fashion/burberry-partners-with-the-realreal/2019100745632), *“Burberry is joining forces with The RealReal to promote a sustainable future for fashion”*.</p>
 
 [The RealReal](https://www.therealreal.com/) is a luxury marketplace designed to encourage customers to extend the life cycle of luxury goods, through resale. They do this by offering customers an exclusive Burberry personal shopping experience if they consign Burberry pieces to them.
 
