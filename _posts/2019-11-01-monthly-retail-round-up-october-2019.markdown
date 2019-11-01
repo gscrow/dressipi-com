@@ -23,7 +23,7 @@ Some of the best articles from the world of retail and its supporting industries
 
 # Monthly Retail Round-Up - October 2019
 
-## With retailers increasingly supporting a circular economy, October’s main stories were all about the resale and rental markets. Here is a round up of retailers that have moved into this space this month.
+## With retailers increasingly supporting a circular economy, October’s main stories were all about the resale and rental markets. Here is a round-up of retailers that have moved into this space this month.
 
 ### 1) The Growing Resale Market
 
@@ -65,4 +65,4 @@ Reported in [Fashion United](https://fashionunited.uk/news/retail/h-m-to-launch-
 
 ## We hope you enjoyed the round-up. Please feel free to get in touch with any stories you feel would be of interest.
 
-> Banner Photo by Kishor on Unsplaah
+> Banner Photo by Kishor on Unsplash
