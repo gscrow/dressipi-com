@@ -1,6 +1,19 @@
 ---
 title: Monthly Retail Round-Up - November 2019
 date: 2019-11-26 10:26:00 Z
+categories:
+- news
+tags:
+- retail
+- retail news
+- digital clothes
+- Monki
+- social shopping
+- black friday
+image: "/uploads/Nov19%20RoundUp.png"
+author: Georgina Fisher
+description: With lots of news to keep track of, Dressipi brings you this month's
+  best stories from the world of retail and its supporting industries.
 ---
 
 Some of the best articles from the world of retail and its supporting industries.
