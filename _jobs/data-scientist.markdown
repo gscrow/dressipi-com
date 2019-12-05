@@ -4,68 +4,60 @@ date: 2017-05-09 12:29:00 Z
 is-open: false
 ---
 
-Interested in disrupting the trillion-pound retail industry? We’re tackling one of the hottest and most challenging problems in Machine Learning: building a personalisation system that understands fashion. 
+Interested in disrupting the trillion-pound retail industry? We're tackling one of the hottest and most challenging problems in Machine Learning: building a personalisation system that understands fashion.
 
 ### Where you can make an impact
 
-For Dressipi, data mining and statistical modelling are the keystones to predict customer behavior and intent, analyse which clothes will look great on a customer and answer questions through Amiya (our new chatbot).
+For Dressipi, machine learning and statistical modelling are the keystones to predicting customer behaviour and intent, analysing which clothes will look great on a customer and providing fashion-specific recommendations.
 
-As a Data Scientist in the Dressipi team, you will be responsible for designing and improving our recommendation algorithms and models. Your work will directly impact end consumers in the form of personalising shopping journeys and communications, both instore and online. 
+As a Data Scientist in the Dressipi team, you will be responsible for designing and improving our recommendation algorithms and models. Your work will directly impact end consumers in the form of personalising shopping journeys and communications, both online and instore.
 
-We are looking for people that are passionate about data and have the love and tenacity for solving hard and diverse problems. 
+We are looking for people that are passionate about data and have the love and tenacity for solving hard and diverse problems.
 
 We are not a traditional tech start-up; it is an exciting environment with a diverse group of people, combining the best talents in all disciplines. 
 
 
 ### Responsibilities
 
-* Apply data-mining, machine learning and/or graph analysis techniques for a variety of modeling and relevance problems involving customers, their relationships and their fashion preferences
+* Apply data-mining, machine learning and graph analysis techniques for a variety of modelling and relevance problems involving customers, their relationships and their fashion preferences
 
-* Build scalable, statistical models that learn from large volumes of data
+* Build scalable statistical models that learn from large volumes of data and produce real-world value that can be measured
 
-* Build and release models that elevate the customer experience and track impact over time
+* Translate business goals into data questions, investigate them and ultimately design new algorithms that can be rolled out in our offering
 
-* Carry out regular as well as deep-dive data mining and interpret the results
+* Don't just apply existing algorithms, be involved in creating new ones
 
-* Define metrics, understand A/B testing and statistical measurement of model quality
+* Understand evaluation frameworks, A/B testing and statistical measurements of success
 
-* Understand and leverage crowdsourcing and human computation approaches to data labeling
-
-* Monitor and test data quality and integrity throughout all stages of acquisition and processing
-
-* Translate business goals to data questions and solve them
-
-* Collaborate with colleagues from engineering, retail and business backgrounds.
+* Collaborate with colleagues from engineering, retail and business backgrounds
 
 * Present proposals and results in a clear manner backed by data and coupled with actionable conclusions
 
 ### Requirements
 
-* Masters or PhD in a relevant field (computer science, data mining, machine learning, statistics, math, engineering) etc.
+* Masters or PhD in a relevant field (computer science, machine learning, statistics, math, etc.)
 
-* Solid SQL skills and a scripting/programming language such as Python/R/Java/C
+* Experience applying statistical models and/or machine learning to real-world problems
 
-* Experience with statistical modelling/machine learning
+* Solid SQL skills and one more programming language such as Python/Java/C/Ruby/R
 
-* Track record of diving into data to discover hidden patterns
-
-* Ability to develop experimental and analytic plans for data modeling processes, use of strong baselines, ability to accurately determine cause and effect relations
-
-* Understanding of relevant statistical measures such as confidence intervals, significance of error measurements, development and evaluation data sets, etc.
-
-* The creativity and tenacity to solve hard and diverse problems
+* Research mindset and scientific rigour
 
 * The will and ability to pick up new technologies and approaches as required
 
-* Comfortable working in a fast paced, highly collaborative work environment
-
-* Strong attention to detail
+* Excellent team-work and communication skills
 
 ### Desired
 
-*  2 or more years of industry experience
+* PhD
 
-*  Additionally of benefit are: knowledge of recommender systems, ability to write production-quality code, mongodb, Ruby
+* 2 or more years of work experience
+
+* Knowledge of recommender system algorithms
+
+* Experience writing production-quality code, version control, pull requests
+
+* Experience using Ruby
 
 
 ### Interested?
