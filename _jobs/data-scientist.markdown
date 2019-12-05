@@ -12,7 +12,7 @@ For Dressipi, machine learning and statistical modelling are the keystones to pr
 
 As a Data Scientist in the Dressipi team, you will be responsible for designing and improving our recommendation algorithms and models. Your work will directly impact end consumers in the form of personalising shopping journeys and communications, both online and instore.
 
-We are looking for people that are passionate about data and have the love and tenacity for solving hard and diverse problems.
+We are looking for people that are passionate about data and have love and tenacity for solving hard and diverse problems.
 
 We are not a traditional tech start-up; it is an exciting environment with a diverse group of people, combining the best talents in all disciplines. 
 
