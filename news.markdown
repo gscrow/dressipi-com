@@ -33,6 +33,8 @@ sections:
   subtitle: 
   handle: awards
   awards:
+  - image: "/uploads/Screenshot%202019-12-09%20at%2017.11.03.png"
+    title: Top 100 eCommerce Trailblazers (BusinessCloud)
   - image: "/uploads/award__millenial1.jpg"
     title: Best Connected Experience of the Year   Winner
   - image: "/uploads/tech-london-advocates-logo-black-09fced.png"
@@ -59,11 +61,6 @@ sections:
     title: Best Customer Experience - Finalist
   - image: "/uploads/award__internet-retailing-2015.png"
     title: The Service Award - Finalist
-  - image: "/uploads/award__decoded-fashion.png"
-    title: |-
-      A Killer Experience - Finalist
-
-      Best Tech - Finalist
 layout: news
 ---
 
