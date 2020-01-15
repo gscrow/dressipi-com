@@ -16,5 +16,10 @@ form:
 
 ## Using Your Data Effectively to Uncover the Real Reasons for Returns
 
-Every retailer has a different return rate profile. Dressipi's Return Rate Data Analysis Package gives retailers the know-how to use their data correctly to gain insight into the key drivers behind return rates.
+Every retailer has a different return rate profile. Dressipi's Return Rate Data Analysis Package enables retailers to:
+
+* Benchmark their performance versus other retailers
+* Review primary factors driving returns and what’s increasing
+* Gain a detailed view of each customer’s profitability and identify serial returners
+* Carry out in-depth analysis of products and product features
 
