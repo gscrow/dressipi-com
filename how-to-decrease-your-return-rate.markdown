@@ -1,7 +1,7 @@
 ---
 title: How to Decrease Your Return Rate
 date: 2018-10-15 15:32:00 Z
-position: 17
+position: 16
 header:
   title: How to Decrease Your Return Rate
   body: Reducing returns is a big challenge for some retailers. Dressipi is the global

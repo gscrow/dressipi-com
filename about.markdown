@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2017-05-06 09:50:00 Z
-position: 7
+position: 9
 navigation: header
 header:
   title: Accelerating Fashion Retailers To Be Predictive

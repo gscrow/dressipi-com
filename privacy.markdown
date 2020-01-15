@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 date: 2017-05-06 10:17:00 Z
-position: 13
+position: 11
 navigation: meta
 header:
   width: extend
