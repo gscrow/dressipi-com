@@ -1,7 +1,7 @@
 ---
 title: Accelerating Wallis to be Truly Predictive
 date: 2018-06-05 14:46:00 Z
-position: 4
+position: 6
 resource: Case Studies
 image: "/uploads/Wallis_Small_Case_Study_Image.png"
 form:

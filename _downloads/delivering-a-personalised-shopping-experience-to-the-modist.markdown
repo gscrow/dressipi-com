@@ -1,6 +1,7 @@
 ---
 title: Delivering a Personalised Shopping Experience to The Modist
 date: 2019-09-24 08:54:00 Z
+position: 0
 resource: Case Studies
 image: "/uploads/Modist_Small_Case_Study_Image.jpg"
 form:

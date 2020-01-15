@@ -2,7 +2,7 @@
 title: Beginner's Guide to Fashion Personalisation
 date: 2018-09-25 13:40:00 Z
 published: false
-position: 3
+position: 5
 resource: Whitepapers
 image: "/uploads/image%20(13).png"
 form:
