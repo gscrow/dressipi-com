@@ -11,7 +11,7 @@ tags:
 - sizing
 - style
 - personalisation
-position: 
+position: 2
 resource: Whitepapers
 image: "/uploads/returns_small.jpg"
 form:
@@ -24,6 +24,7 @@ form:
   linkedin_tracking: 
 testimonial:
   action: Download Whitepaper
+position-list: 2
 layout: download
 ---
 
