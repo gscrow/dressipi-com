@@ -23,7 +23,7 @@ testimonial:
     image: "/uploads/Wallis_CS_Image_Partner_Pg.png"
   action: Download Case Study
   class: wallis
-position-list: 2
+position-list: 3
 ---
 
 # How Wallis Benefited from Dressipi’s Fashion Prediction Platform
