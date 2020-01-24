@@ -16,7 +16,7 @@ testimonial:
   logo: "/uploads/river-island_0.png"
   author:
     name: Gemma Scarfe
-    job-title: Head of sCommerce
+    job-title: Head of eCommerce
     company: River Island
     image: "/uploads/River_Island_Case_Study_Smaller_Image_wlogo.jpg"
   action: Download Case Study
