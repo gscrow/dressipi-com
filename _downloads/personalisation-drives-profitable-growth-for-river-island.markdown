@@ -7,19 +7,22 @@ form:
   title: Download Free Case Study
   button: Download Case Study
   file: "/uploads/Dressipi%20River%20Island%20Case%20Study.pdf"
-  checkbox: Yes, I would like to receive marketing communications regarding Dressipi
+  checkbox:
+    Yes, I would like to receive marketing communications regarding Dressipi
     products and services
   button_class: case-study
 testimonial:
-  body: "\"Dressipi have taken the time to understand how our business works and the
-    best way for River Island to deliver profitable growth.”"
-  logo: "/uploads/river-island_0-3de400.png"
+  body:
+    '"Dressipi have taken the time to understand how our business works and the
+    best way for River Island to deliver profitable growth.”'
+  logo: "/uploads/river-island_0.png"
   author:
     name: Gemma Scarfe
     job-title: Head of eCommerce
     company: River Island
     image: "/uploads/River_Island_Case_Study_Image_XS.jpg"
   action: Download Case Study
+  class: riverisland
 position-list: 1
 ---
 
