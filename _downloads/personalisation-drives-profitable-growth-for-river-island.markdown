@@ -18,7 +18,7 @@ testimonial:
     name: Gemma Scarfe
     job-title: Head of eCommerce
     company: River Island
-    image: "/uploads/River_Island_Case_Study_Smaller_Image_wlogo.jpg"
+    image: "/uploads/River_Island_Case_Study_Image_XS.jpg"
   action: Download Case Study
 position-list: 1
 ---
