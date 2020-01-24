@@ -11,7 +11,7 @@ tags:
 - sizing
 - style
 - personalisation
-position: 2
+position: 
 resource: Whitepapers
 image: "/uploads/returns_small.jpg"
 form:
