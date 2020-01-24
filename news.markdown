@@ -46,7 +46,7 @@ sections:
   - image: "/uploads/computing.png"
     title: Mobile Project of the Year - Finalist
   - image: "/uploads/award__millenial.png"
-    title: "Best Innovation Commerce - Enabler    \nBest Retail Solution - Finalists"
+    title: "Best Innovation Commerce - Enabler    \nBest Retail Solution - Finalist"
   - image: "/uploads/RW_AWARDS_LOGO_FINALIST_Small-92d0cf.png"
     title: Customer Innovation - Finalist
   - image: "/uploads/award__silver-tech-2017.png"
