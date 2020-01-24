@@ -14,6 +14,7 @@ form:
   linkedin_tracking: 
 testimonial:
   action: Download Whitepaper
+position-list: 4
 ---
 
 # Five Things Every Retailer Should Know About Personalisation
