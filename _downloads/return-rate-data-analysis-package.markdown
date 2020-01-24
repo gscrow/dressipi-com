@@ -11,6 +11,7 @@ form:
   checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services
   button_class: whitepaper
+position-list: 5
 ---
 
 # Return Rate Data Analysis Package
