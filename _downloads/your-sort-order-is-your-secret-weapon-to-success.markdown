@@ -15,6 +15,7 @@ form:
   button_class: whitepaper
 testimonial:
   action: Download Whitepaper
+position-list: 1
 ---
 
 # Your Sort Order is Your Secret Weapon to Success
