@@ -22,7 +22,7 @@ testimonial:
     image: "/uploads/Modist_Small_Case_Study_Image-d88efb.jpg"
   action: Download Case Study
   class: the modist
-position-list: 1
+position-list: 2
 ---
 
 # How The Modist Gives Each Customer a Tailored Shopping Experience
