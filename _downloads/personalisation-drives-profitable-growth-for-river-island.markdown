@@ -5,7 +5,7 @@ resource: Case Studies
 image: "/uploads/River_Island_Case_Study_Smaller_Image_wlogo.jpg"
 form:
   title: Download Case Study
-  button: Download
+  button: Download Case Study
   file: "/uploads/Dressipi%20River%20Island%20Case%20Study.pdf"
 testimonial:
   body: "\"Dressipi have taken the time to understand how our business works and the
@@ -24,7 +24,7 @@ position-list: 1
 
 ## In our free case study you will learn:
 
-- How River Island evolved beyond generic segmentation and product recommendations to true personalisation for every customer
+- How River Island evolved beyond generic segmentation and product recommendations to true personalisation
 
 - How Dressipi is helping River Island deliver on a short, medium and long term personalisation roadmap
 
