@@ -20,3 +20,12 @@ testimonial:
 position-list: 1
 ---
 
+# Personalisation Drives Profitable Growth for River Island
+
+## In our free case study you will learn:
+
+- How River Island evolved beyond generic segmentation and product recommendations to true personalisation for every customer
+
+- How Dressipi is helping River Island deliver on a short, medium and long term personalisation roadmap
+
+- The positive revenue growth delivered through the partnership
