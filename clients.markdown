@@ -40,7 +40,7 @@ sections:
   - title: The Results
     image: "/uploads/icon__results.svg"
   downloads:
-  - Accelerating Wallis to be Truly Predictive
+  - Personalisation Drives Profitable Growth for River Island
   - Delivering a Personalised Shopping Experience to The Modist
 layout: clients
 ---
