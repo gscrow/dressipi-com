@@ -88,6 +88,7 @@ sections:
   downloads:
   - Personalisation Drives Profitable Growth for River Island
   - Delivering a Personalised Shopping Experience to The Modist
+  - Accelerating Wallis to be Truly Predictive
 un-form-demo:
   formspree-ID: xojeeoem
   un-title: Achieve Even Better Results with Universal Network
