@@ -29,6 +29,6 @@ position-list: 1
 
 - How River Island evolved beyond generic segmentation and product recommendations to true personalisation
 
-- How Dressipi is helping River Island deliver on a short, medium and long term personalisation roadmap
+- How Dressipi is helping River Island deliver on their long-term personalisation roadmap
 
 - The positive revenue growth delivered through the partnership
