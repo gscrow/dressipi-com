@@ -7,6 +7,8 @@ form:
   title: Download Case Study
   button: Download Case Study
   file: "/uploads/Dressipi%20River%20Island%20Case%20Study.pdf"
+  checkbox: Yes, I would like to receive marketing communications regarding Dressipi
+    products and services
 testimonial:
   body: "\"Dressipi have taken the time to understand how our business works and the
     best way for River Island to deliver profitable growth.”"
