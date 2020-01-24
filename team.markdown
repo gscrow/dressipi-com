@@ -93,10 +93,6 @@ sections:
     title: Front End Engineer
     linkedin: https://www.linkedin.com/in/leo-yeung-298434150/
     image: "/uploads/profile_pic.jpg"
-  - name: Jessica Rosati
-    title: Data Scientist
-    linkedin: https://www.linkedin.com/in/jessica-rosati-4b685481/
-    image: "/uploads/jessica_rosati_photo%20copy.jpg"
   - name: Joe Margrie-Rouse
     title: Data Engineer
     linkedin: https://www.linkedin.com/in/joe-margrie-rouse/
