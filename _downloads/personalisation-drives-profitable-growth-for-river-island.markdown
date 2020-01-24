@@ -13,7 +13,7 @@ form:
 testimonial:
   body: "\"Dressipi have taken the time to understand how our business works and the
     best way for River Island to deliver profitable growth.”"
-  logo: "/uploads/river-island_0.png"
+  logo: "/uploads/river-island_0.jpg"
   author:
     name: Gemma Scarfe
     job-title: Head of eCommerce
