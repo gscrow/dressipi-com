@@ -1,6 +1,6 @@
 ---
 title: Return Rate Data Analysis Package
-date: 2017-08-21 08:35:00 Z
+date: 2020-01-13 08:35:00 Z
 position: 8
 resource: Whitepapers
 image: "/uploads/shutterstock_1006919041%20(1)%20(1)-6919a6.jpg"
