@@ -29,7 +29,7 @@ Some of the best articles from the world of retail and its supporting industries
 Returns are a necessary part of online trading, but January is the busiest time of year for returns for many retailers. The first working day after New Year has been dubbed ‘[Takeback Thursday](https://www.bbc.co.uk/news/business-50971709)’ as returns of online purchases spike due to shoppers taking back unwanted Christmas presents. The BBC reported that returns on this day were expected to be 72% higher than the average day in December.
 
 A study commissioned by Royal Mail (reported in [Drapers](https://www.drapersonline.com/news/returns-to-jump-on-takeback-thursday/7038947.article)) found that:
-<p style="padding-left: 20px;">* The average online shopper in the UK sends back an online purchase every month</p>
+* The average online shopper in the UK sends back an online purchase every month
 * 3/5 online shoppers would be unlikely to use a retailer again if they have a difficult returns experience
 * 76% of those surveyed said speed of refund is the most important element of the returns process
 * 72% of shoppers want clear guidance about which returns labels to use
