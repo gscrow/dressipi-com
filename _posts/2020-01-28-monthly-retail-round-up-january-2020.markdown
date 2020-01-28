@@ -3,6 +3,15 @@ title: Monthly Retail Round-Up - January 2020
 date: 2020-01-28 11:06:00 Z
 categories:
 - news
+tags:
+- retail
+- retail news
+- returns
+- takeback thursday
+- ASOS
+- see my fit
+- Zalando
+- global fashion agenda
 image: "/uploads/image%20(9).png"
 author: Georgina Fisher
 description: With lots of news to keep track of, Dressipi brings you this month's
