@@ -1,6 +1,18 @@
 ---
 title: Monthly Retail Round-Up - February 2020
 date: 2020-02-26 11:59:00 Z
+categories:
+- news
+tags:
+- retail
+- retail news
+- facial recognition
+- London fashion week
+- swap shop
+- coronavirus
+- luxury market
+- adidas
+- puma
 image: "/uploads/beautiful-eyewear-fashion-female-285171%20(2).jpg"
 author: Georgina Fisher
 description: With lots of news to keep track of, Dressipi brings you this month's
