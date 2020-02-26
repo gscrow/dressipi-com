@@ -65,3 +65,7 @@ In statements reported by the brands:
 * Puma said it expected the virus outbreak to hit its sales and profits in the first quarter but it still hopes to reach its targets for 2020
 
 Both sectors have been hit hard due to a large volume of sales previously coming from China. The [Business of Fashion](https://www.businessoffashion.com/articles/news-analysis/adidas-puma-warn-of-coronavirus-hit-to-china-business?utm_source=bof-professional-newsletter&utm_campaign=1659170924291584&utm_term=21&utm_medium=email) reported *“Adidas and Puma make almost a third of their sales in Asia, which has been the major growth market for the sporting goods industry in recent years,”* whilst in the luxury space, *“China has driven 80% of the growth at luxury groups such as LVMH and Kering”* ([Retail Gazette](https://www.retailgazette.co.uk/blog/2020/02/coronavirus-fears-affect-luxury-retail-major-fashion-weeks/)) and *“Bottega Veneta made 53% of its annual revenue in Asia Pacific in fiscal year 2019, while brands like Hermès, Gucci and Burberry made almost half of their annual sales in the region”* ([Vogue Business](https://www.voguebusiness.com/companies/coronavirus-luxury-brands-impact-sales-altagamma?utm_source=Vogue+Business&utm_campaign=a967ced665-EMAIL_CAMPAIGN_2020_02_17_09_45&utm_medium=email&utm_term=0_5d1e7914df-a967ced665-57837327)).
+
+## We hope you enjoyed the round-up. Please feel free to get in touch with any stories you feel would be of interest.
+
+Banner Photo by freestocks.org on Pexels
