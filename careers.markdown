@@ -63,7 +63,7 @@ sections:
 - title: Work With Us
   handle: jobs
   body: |-
-    We are always on the look out for exceptional people who share our passion for predictive retailing. Take a look at our open job positions below.
+    We currently don't have any open job positions but we are always on the look out for exceptional people who share our passion for predictive retailing.
 
     If you have what it takes, please send your CV and any relevant examples of previous work (eg: websites, apps, Stack Overflow or GitHub profile) to [jobs@dressipi.com](mailto:jobs@dressipi.com).
   class: carrer-column
