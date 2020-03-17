@@ -18,6 +18,7 @@ is-demo-page: true
 
 We look forward to you joining us on March 18th at 10 AM GMT.
 
-If you have any questions about this workshop, we would love to hear from you. 
+If you have any questions about this workshop, please get in touch. 
 
-Email: georgina.fisher@dressipi.com, Telephone: 07778899060
+**Email:** georgina.fisher@dressipi.com
+**Telephone:** 07778899060
