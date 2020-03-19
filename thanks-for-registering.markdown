@@ -9,6 +9,8 @@ header:
     Please get in contact if you have any questions:
     Email: georgina.fisher@dressipi.com
     Telephone: 07778899060
+  hero-image: "/uploads/shutterstock_1006919041-0d64eb.jpg"
+is-landing-page: true
 ---
 
 ## Thanks for registering for Dressipi's Returns Webinar: Using Your Data to Uncover the Real Reasons for Returns
