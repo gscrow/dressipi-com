@@ -164,7 +164,7 @@ exclude:
 - ".gitignore"
 - prettierignore
 - node_modules
-gems:
+plugins:
 - jekyll-sitemap
 - jekyll-seo-tag
 john-lewis:
