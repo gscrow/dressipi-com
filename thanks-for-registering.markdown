@@ -15,7 +15,7 @@ header:
 is-landing-page: true
 ---
 
-## Dressipi Returns Webinar: Using Your Data to Uncover the Real Reasons for Returns
+## Returns Webinar: Using Your Data to Uncover the Real Reasons for Returns
 
 1) How to review your own data to have a clear view of what is actually increasing return rates (what % is due to sizing, style, specific product or image issues)
 
