@@ -163,6 +163,7 @@ exclude:
 - README*
 - ".gitignore"
 - prettierignore
+- node_modules
 gems:
 - jekyll-sitemap
 - jekyll-seo-tag
