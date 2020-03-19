@@ -4,7 +4,7 @@ date: 2020-03-19 14:42:00 Z
 header:
   title: Thanks for Registering!
   body: |
-    We look forward to you joining us on April 1st at 3 PM GMT.
+    ### We look forward to you joining us on April 1st at 3 PM GMT.
 
     Please get in contact if you have any questions:
 
