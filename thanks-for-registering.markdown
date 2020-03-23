@@ -8,9 +8,9 @@ header:
 
     Please get in contact if you have any questions:
 
-    **Email:** georgina.fisher@dressipi.com
+    **Email:** elisenda.torras@dressipi.com
 
-    **Telephone:** 07778899060
+    **Telephone:** +44 7491 424666
   hero-image: "/uploads/shutterstock_1006919041-0d64eb.jpg"
 is-landing-page: true
 ---
