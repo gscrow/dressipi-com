@@ -31,7 +31,7 @@ So between the virtual pub quizzes, Zoom calls and Netflix Parties, have a read 
 
 ### 1) Supplying Protective Equipment
 
-Larger retailers are using their connections and logistics capabilities to help with the provision of masks and hospital gowns, for example, reported in [The Industry Fashion](https://www.theindustry.fashion/mango-donates-two-million-masks-to-spanish-hospitals-in-covid-19-fight/), *“Mango is to donate two million masks to Spanish hospitals.” *
+Larger retailers are using their connections and logistics capabilities to help with the provision of masks and hospital gowns, for example, reported in [The Industry Fashion](https://www.theindustry.fashion/mango-donates-two-million-masks-to-spanish-hospitals-in-covid-19-fight/), *“Mango is to donate two million masks to Spanish hospitals.”*
 
 Here are two other retailers helping to fight against the coronavirus:
 
