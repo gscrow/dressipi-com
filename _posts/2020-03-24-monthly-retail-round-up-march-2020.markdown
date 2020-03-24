@@ -18,13 +18,17 @@ Larger retailers are using their connections and logistics capabilities to help 
 
 Here are two other retailers helping to fight against the coronavirus:
 
-<p style="padding-left: 50px; font-style: bold;"> H&M </p>
+* **H&M**
 
 Reported in [The Retail Bulletin](https://www.theretailbulletin.com/fashion/hm-group-to-supply-protective-equipment-for-hospitals-23-03-2020/), H&M is *“arranging for its supply chain to switch to producing personal protective equipment for hospitals and health care workers”.*
 
 Anna Gedda, Head of Sustainability, H&M Group, said *“The coronavirus is dramatically affecting each and every one of us, and H&M Group is, like many other organisations, trying our best to help in this extraordinary situation. We see this is as a first step in our efforts to support in any way we can. We are all in this together, and have to approach this as collectively as possible.”*
 
+Inditex
 
+Reported in [Vogue](https://www.vogue.com/article/zara-inditex-coronvirus-masks-hospital-gowns), Inditex *“will make its factories and logistics teams available to the Spanish government to donate much-needed masks for patients and medical workers.”*
+
+After already donating 10,000 protective face masks and shipping another 300,000, they are now in the process of *“sourcing medical grade for hospital gowns.”*
 
 
 
