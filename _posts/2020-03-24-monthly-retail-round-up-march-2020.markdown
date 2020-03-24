@@ -23,9 +23,9 @@ Some of the best articles from the world of retail and its supporting industries
 
 ## Whether you’re reading this at home, at work, surrounded by your children, flatmates or family members, we hope you are well and healthy.
 
-## As mentioned in our [February Monthly Round-Up](https://dressipi.com/blog/monthly-retail-round-up-february-2020/), COVID-19 has had a huge impact on the retail industry. There have been many stories of temporary store closures however I wanted to outline some of the positive news surrounding the virus. 
+As mentioned in our [February Monthly Round-Up](https://dressipi.com/blog/monthly-retail-round-up-february-2020/), COVID-19 has had a huge impact on the retail industry. There have been many stories of temporary store closures however I wanted to outline some of the positive news surrounding the virus. 
 
-## So between the virtual pub quizzes, Zoom calls and Netflix Parties, have a read about what some retailers are doing to help in this challenging time.
+So between the virtual pub quizzes, Zoom calls and Netflix Parties, have a read about what some retailers are doing to help in this challenging time.
 
 
 ### 1) Supplying Protective Equipment
