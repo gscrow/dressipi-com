@@ -1,6 +1,22 @@
 ---
 title: Monthly Retail Round-Up - March 2020
 date: 2020-03-24 09:36:00 Z
+categories:
+- news
+tags:
+- retail
+- reatil news
+- coronavirus
+- masks
+- hand sanitiser
+- age uk
+- H&M
+- Inditex
+- Kurt Geiger
+- LVMH
+author: Georgina Fisher
+description: With lots of news to keep track of, Dressipi brings you this month's
+  best stories from the world of retail and its supporting industries.
 ---
 
 Some of the best articles from the world of retail and its supporting industries.
