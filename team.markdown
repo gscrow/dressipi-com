@@ -73,6 +73,10 @@ sections:
     title: Machine Learning Engineer
     linkedin: https://www.linkedin.com/in/athanasios-skrepetos-648348bb/
     image: "/uploads/Thanos_Headshot.jpg"
+  - name: Rachael McAlister
+    title: Data Scientist
+    linkedin: https://www.linkedin.com/in/rachael-mcalister-1a6978a3/
+    image: "/uploads/Rachael%20McAlister_Data%20Scientist.png"
   - name: Paul Woestelandt
     title: Software Engineer
     linkedin: https://www.linkedin.com/in/pwoestelandt
