@@ -60,7 +60,7 @@ sections:
   - name: Philippa Mew
     title: Marketing Manager
     linkedin: https://www.linkedin.com/in/philippa-mew-34544032/
-    image: "/uploads/philippa-mew.jpg"
+    image: "/uploads/Philippa%20Mew%20-%20PR%20&%20Marketing%20Associate.jpg"
   - name: Georgina Fisher
     title: 'Sales & Marketing Associate '
     linkedin: https://www.linkedin.com/in/georgina-fisher-408689151/
