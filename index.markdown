@@ -27,7 +27,6 @@ sections:
   - John Lewis
   - Topshop
   - Wallis
-  - The Modist
   - Evans
   - River Island
   - Long Tall Sally

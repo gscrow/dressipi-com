@@ -1,9 +1,0 @@
----
-title: The Modist
-date: 2017-05-06 10:27:00 Z
-position: 5
-class: the-modist
-logo: "/uploads/logo__themodist.svg"
-link: https://www.themodist.com
----
-
