@@ -29,7 +29,6 @@ sections:
   - Wallis
   - Evans
   - River Island
-  - Long Tall Sally
   - OVS
 - title: The Value Dressipi Unlocks For Retailers
   handle: youtube

@@ -15,7 +15,6 @@ header:
   - Wallis
   - Evans
   - River Island
-  - Long Tall Sally
   - OVS
 sitemap: false
 layout: landing

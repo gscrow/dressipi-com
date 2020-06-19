@@ -18,7 +18,6 @@ header:
   - Wallis
   - Evans
   - River Island
-  - Long Tall Sally
   - OVS
 description: Dressipi works with some of the UK’s biggest retailers, helping them
   become more profitable, more customer-centric and more efficient. Discover who they
