@@ -1,6 +1,6 @@
 ---
 title: bla bla
-date: 2020-07-24
+date: 2020-07-24 00:00:00 Z
 position: 33
 is-landing-page: true
 includes-video: true
@@ -9,3 +9,4 @@ description: Dressipi is the global leader in True Personalisation. We give each
   their own tailored shopping experience online and instore, enabling retailers to
   match customers with products and experiences to influence buying behaviour at scale.
 ---
+
