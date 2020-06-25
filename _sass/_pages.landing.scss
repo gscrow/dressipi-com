@@ -45,3 +45,15 @@
 @include responsive(mobile) {
 
 }
+
+.video-page  {
+	h1, h4 {
+		text-align: center;
+		padding: rhythm(2);
+	}
+
+	.gutter {
+		margin-top: 50px;
+		margin-bottom: 50px;
+	}
+}

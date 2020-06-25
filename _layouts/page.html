@@ -4,12 +4,30 @@ layout: default
 
 {% assign my_page_url = page.url | remove: '/' %}
 {% if page.is-landing-page %}
+{% if page.includes-video %}
+<section class="video-page webinar" class="section landing">
+	<h1 class="header__title">{{ page.title }}</h1>
+	<h4 class="header__subtitle"> {{ page.date }}</h4>
+	<div class="video-wrapper">
+		<video width="100%" height="100%" controls>
+			<source src="/uploads/overstock-webinar.mp4" type="video/mp4">
+  		</video>	
+	</div>
+	<div class="container--narrow gutter">
+		<div class="description"> 
+			{{ page.description }}
+		</div>
+	</div>
+</section>
+{% endif %}
+{% unless page.includes-video %}
 <section id="download" class="section landing">
 	<div class="container gutter">
 		<div class="landing__content">
 			{{content}}
 		</div>
 		<div class="landing__form">
+
     {% if page.downloads %}
 			{% assign downloads = site.downloads %}
       {% for download in downloads %}
@@ -42,6 +60,7 @@ layout: default
     </div>
 	</div>
 </section>
+{% endunless %}
 <section class="section">
 	<div class="container gutter">
 		<hgroup class="section__heading">
