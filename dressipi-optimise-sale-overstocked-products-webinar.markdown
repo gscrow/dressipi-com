@@ -4,11 +4,13 @@ title: 'Dressipi Webinar: How to optimise the sale of overstock products and rel
 date: 2020-07-24 00:00:00 Z
 position: 33
 is-landing-page: true
-description: Dressipi is the global leader in True Personalisation. We give each customer
-  their own tailored shopping experience online and instore, enabling retailers to
-  match customers with products and experiences to influence buying behaviour at scale.
+description: |-
+  What You’ll Learn:
+
+  - How to adopt a strategic, staged approach for the optimum clearance strategy
+  - How better use of data can deliver smarter solutions for shifting overstock products
+  - How this can help deliver more profit and cash to your business
 includes-video: true
 video: "/uploads/overstock-webinar.mp4"
 ---
 
-asegqegqsg
