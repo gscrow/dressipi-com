@@ -3,8 +3,6 @@ title: 'Dressipi Webinar: How to optimise the sale of overstock products and rel
   maximum cash into your business'
 date: 2020-07-24 00:00:00 Z
 position: 33
-header:
-  hero-image: "/uploads/Social-rect.png"
 is-landing-page: true
 description: |-
   What You’ll Learn:
