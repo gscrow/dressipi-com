@@ -3,7 +3,7 @@ title: 'Dressipi Webinar Video: How to optimise the sale of overstocked products
   release maximum cash into your business'
 position: 33
 is-landing-page: true
-webinar-date: 2024-01-01 00:00:00 Z
+webinar-date: 2022-06-24 00:00:00 Z
 includes-video: true
 video-url: https://dressipi.com/media/overstock-webinar.mp4
 left-headshot: "/uploads/sarah-mcvittie@2x.jpg"
