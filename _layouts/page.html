@@ -5,19 +5,36 @@ layout: default
 {% assign my_page_url = page.url | remove: '/' %}
 {% if page.is-landing-page %}
 {% if page.includes-video %}
-<section class="video-page webinar" class="section landing">
-	<h1 class="header__title">{{ page.title }}</h1>
-	<h4 class="header__subtitle"> {{ page.date }}</h4>
-	<div class="video-wrapper">
-		<video width="100%" height="100%" controls>
-			<source src="/uploads/overstock-webinar.mp4" type="video/mp4">
-  		</video>	
-	</div>
+<section class="video-page section landing">
+	<div class="container gutter">
+		<hgroup class="section__heading">
+			<h2 class="header__title">{{ page.title }}</h2>
+			<h4>{{ page.webinar-date }}</h4>
+		</hgroup>
 	<div class="container--narrow gutter">
-		<div class="description"> 
-			{{ page.description }}
+		<div class="container--host ">
+			<div class="wrapper--host left">
+				<img src="{{ page.left-headshot }}">
+				<p class="host-text-left">{{ page.left-host-text}}</p>
+			</div>
+			<div class="wrapper--host right">
+				<img src="{{ page.right-headshot }}">
+				<p class="host-text-right">{{ page.right-host-text}}</p>
+			</div>
 		</div>
 	</div>
+	<div class="section__body">
+		<div class="description"> 
+			<p>{{ content }}</p>
+		</div>
+	</div>
+	</div>
+	<div class="video-wrapper">
+		<video width="100%" height="100%" controls>
+			<source src="{{ page.video-url }}" type="video/mp4">
+  		</video>	
+	</div>
+</div>
 </section>
 {% endif %}
 {% unless page.includes-video %}
