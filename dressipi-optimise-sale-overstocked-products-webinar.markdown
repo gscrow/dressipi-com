@@ -1,16 +1,18 @@
 ---
 title: |-
   Dressipi Webinar Video: How to optimise the sale of overstocked products and release maximum cash into your business
-  24/06/20
 position: 33
 is-landing-page: true
-webinar-date: 2024-01-01 00:00:00 Z
+webinar-date:   "24/06/2020"
 includes-video: true
 video-url: https://dressipi.com/media/overstock-webinar.mp4
 left-headshot: "/uploads/sarah-mcvittie@2x.jpg"
-left-host-text: Sarah McVittie, Co-Founder
+left-host-name: Sarah McVittie
+left-host-title: Co-Founder
 right-headshot: "/uploads/lord-rose@2x.jpg"
-right-host-text: Stuart Rose, Chairman
+right-host-name: Stuart Rose
+right-host-title: Co-Founder
+
 Field name:
   Key: 
 ---

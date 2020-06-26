@@ -9,17 +9,20 @@ layout: default
 	<div class="container gutter">
 		<hgroup class="section__heading">
 			<h2 class="header__title">{{ page.title }}</h2>
-			<h4>{{ page.webinar-date }}</h4>
+			<h4>{{ page.webinar-date | date: '%d/%m/%Y'}}</h4>
 		</hgroup>
 	<div class="container--narrow gutter">
 		<div class="container--host ">
 			<div class="wrapper--host left">
 				<img src="{{ page.left-headshot }}">
-				<p class="host-text-left">{{ page.left-host-text}}</p>
+				<p class="host-text-left">{{ page.left-host-name}}</p>
+				<h4 class="host-text-left">{{ page.left-host-title}}</h4>
 			</div>
 			<div class="wrapper--host right">
 				<img src="{{ page.right-headshot }}">
-				<p class="host-text-right">{{ page.right-host-text}}</p>
+				<p class="host-text-right">{{ page.right-host-name}}</p>
+				<h4 class="host-text-right">{{ page.right-host-title}}</h4>
+
 			</div>
 		</div>
 	</div>
