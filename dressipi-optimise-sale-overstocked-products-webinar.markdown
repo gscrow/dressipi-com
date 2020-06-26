@@ -1,6 +1,8 @@
 ---
-title: 'Dressipi Webinar: How to optimise the sale of overstocked products and release
-  maximum cash into your business'
+title: |-
+  Dressipi Webinar: How to optimise the sale of overstocked products and release maximum cash into your business
+
+  24/06/20
 date: 2020-07-24 00:00:00 Z
 position: 33
 is-landing-page: true
