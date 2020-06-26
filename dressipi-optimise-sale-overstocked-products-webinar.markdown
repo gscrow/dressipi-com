@@ -3,7 +3,7 @@ title: 'Dressipi Webinar Video: How to optimise the sale of overstocked products
   release maximum cash into your business'
 position: 33
 is-landing-page: true
-webinar-day: 24/06/2020
+webinar-date: 2022-06-24 00:00:00 Z
 includes-video: true
 video-url: https://dressipi.com/media/overstock-webinar.mp4
 left-headshot: "/uploads/sarah-mcvittie@2x.jpg"
@@ -20,7 +20,7 @@ In the UK alone, it is estimated that there will be £12bn overstocked products 
 
 Our live webinar with Sarah McVittie, Co-Founder of Dressipi and Stuart Rose, Chairman of Dressipi focused exclusively on how better use of data can deliver smarter solutions for shifting overstocked products.
 
- In the below recording of the session you will learn:
+In the below recording of the session you will learn: BLAHBLAHBLAH
 
 * How to adopt a strategic, staged approach for the optimum clearance strategy
 
