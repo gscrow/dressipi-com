@@ -26,4 +26,4 @@ In the below recording of the session you will learn:
 
 * How better use of data can deliver smarter solutions for shifting overstock products
 
-* How this can help deliver more profit and cash to your business BLAHHH
+* How this can help deliver more profit and cash to your business
