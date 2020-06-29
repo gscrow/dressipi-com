@@ -39,7 +39,7 @@ communications.
 
 For all our Services, the data controller – that’s the company that’s responsible for your privacy is Dressipi, a trading name of StyleMania Ltd.
 
-References in this Privacy Policy to “Dressipi”, “we”, “us” or “our” mean StyleMania Limited (a company registered in England and Wales under registration no 7063626 whose registered office is at StyleMania Ltd, 10th Floor, 20 Eastbourne Terrace, London, W2 6LG, UK, trading as “Dressipi”).  
+References in this Privacy Policy to “Dressipi”, “we”, “us” or “our” mean StyleMania Limited (a company registered in England and Wales under registration no 7063626 whose registered office is at StyleMania Ltd,  85 Great Portland Street, London, W1W 7LT, UK, trading as “Dressipi”).  
 When we refer to “you” or “yours” in this Privacy Policy, we are referring to you, as a Member or Visitor, or “data subject”.
 
 Sometimes, our <a href="#privacy" class="anchor-link-privacy">retail partners</a> may also be data controllers in respect of your personal information when they are also able to make decisions about how it is processed. You should check with our <a href="#privacy" class="anchor-link-privacy">retail partners</a> directly if you require information about how they handle your privacy rights.

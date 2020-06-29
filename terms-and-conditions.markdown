@@ -12,7 +12,7 @@ layout: privacy
 
 These Terms govern your use of Dressipi and the products, features, apps, services, technologies, and software we offer (the Services), except where we expressly state that separate terms (and not these) apply.
 
-You are entering into this contract with Dressipi, a trading name of StyleMania Ltd a company registered in England and Wales under registration number 7063626 whose registered office is at StyleMania Ltd, 10th Floor, 20 Eastbourne Terrace, London, W2 6LG, UK, trading as “Dressipi” (**_we, us_** or **_Dressipi_**).
+You are entering into this contract with Dressipi, a trading name of StyleMania Ltd a company registered in England and Wales under registration number 7063626 whose registered office is at StyleMania Ltd, 85 Great Portland Street, London, W1W 7LT, UK, trading as “Dressipi” (**_we, us_** or **_Dressipi_**).
 
 ## Our Services
 
