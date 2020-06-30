@@ -2,6 +2,10 @@
 title: 'Top 3 Takeaways from our Webinar: How to optimising the sale of overstocked
   products and release maximum cash into your business'
 date: 2020-06-30 16:26:00 Z
+tags:
+- overstock
+- webinar
+- overstock webinar
 image: "/uploads/image%20(11).png"
 author: Georgina Fisher
 ---
@@ -17,6 +21,7 @@ This webinar outlined smarter, data-driven solutions for shifting overstock prod
 
 ## 1) Advances in Data Science and Machine Learning / AI Technology make the previously impossible possible
 
+
 <p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/Overstock%20webinar%20image%201.PNG"/></p>
 
 These advances allow retailers to clean, structure and process the huge volumes of data so that it is consistent and all in one place. Additional fashion specific data can be added to spot the patterns and trends so unique to this industry.
@@ -27,6 +32,7 @@ This allows retailers to show a completely personalised edit to each customer wi
 
 ## 2) The clearance problem needs to be redefined as one of optimum distribution rather than blanket discounts to all customers
 
+
 <p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/Overstock%20webinar%20image%202.PNG"/></p>
 
 Due to the advances in Machine Learning and AI outlined in the point above, retailers can get a deeper understanding of each customer and product. This enables them to more effectively distribute products to customers to significantly improve the chances of a product being bought and kept.
@@ -36,6 +42,7 @@ A simple example is illustrated in the webinar, please get in touch if you would
 Offering different products to different customers in each phase of discounting will increase the probability of purchase and have a huge impact on your contributed margin.
 
 ## 3) Dressipi has won an Innovate UK grant to accelerate fashion retailers’ access these products
+
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/Overstock%20webinar%20image%203.PNG"/></p>
 
