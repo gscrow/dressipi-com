@@ -1,6 +1,6 @@
 ---
-title: Top 3 Takeaways from our Webinar on ‘How to optimising the sale of overstocked
-  products and release maximum cash into your business’
+title: 'Top 3 Takeaways from our Webinar: How to optimising the sale of overstocked
+  products and release maximum cash into your business'
 date: 2020-06-30 16:26:00 Z
 image: "/uploads/image%20(11).png"
 author: Georgina Fisher
@@ -38,3 +38,17 @@ Offering different products to different customers in each phase of discounting 
 **3) Dressipi has won an Innovate UK grant to accelerate fashion retailers’ access these products**
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Overstock%20webinar%20image%203.PNG"/></p>
+
+*“Our primary objective is to maximise the cash for our retail partners to ensure their longevity.”* 
+Sarah McVittie, Co-Founder, Dressipi.
+
+Dressipi is here to support fashion retailers and maximise their cash position. Our passion to solve the inefficiencies that exist in retail with better data and more robust models was evident throughout this webinar. 
+
+Innovate UK recognises us as one of the leading, cutting-edge technology companies in the UK and we welcome retailers to get in touch to see how we can help.
+
+
+Thank you Stuart and Sarah for your thoughts on this topic and for giving us an inspiring webinar with takeaways that can be executed today.
+
+Our next webinar will focus on how retailers can use their data better to understand the size of the buy and the size ratios for any given product.  
+
+Please do tune in!
