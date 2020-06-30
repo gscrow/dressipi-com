@@ -7,7 +7,7 @@ author: Georgina Fisher
 ---
 
 <p style="text-align:center; font-style: italic; font-weight: bold;"> “We are coming back to a slightly different world. Sitting on stock, fewer customers, the need to convert our inventory more efficiently and improve bottom line margins.” </p>
-<p style="text-align:center; font-weight: bold;">Stuart Rose, Chairman, Dressipi.</p>
+<p style="text-align:center; font-weight: bold;">Stuart Rose, Chairman, Dressipi</p>
 
 At Dressipi we are holding a new series of webinars looking at how data and technology can help to solve some of fashion retailers’ biggest problems. Our first webinar focused on the issue of overstocked products. Stuart highlighted just how different the world of retail is as we come out of lockdown and stressed that it is now essential for retailers to optimise processes.
 
@@ -15,7 +15,7 @@ Due to store closures as a result of COVID-19, the overstocked product issue is 
 
 This webinar outlined smarter, data-driven solutions for shifting overstock product. If you would like to watch a video of the webinar then please get in touch and we can send you a link. In the meantime, we have pulled out the 3 main takeaways:
 
-**1) Advances in Data Science and Machine Learning / AI Technology make the previously impossible possible**
+## 1) Advances in Data Science and Machine Learning / AI Technology make the previously impossible possible
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/Overstock%20webinar%20image%201.PNG"/></p>
 
@@ -25,7 +25,7 @@ These models can be trained to respond in real time which is more important than
 
 This allows retailers to show a completely personalised edit to each customer with only garments they are likely to buy and keep. This includes personalised discounting which leads us onto our next point.
 
-**2) The clearance problem needs to be redefined as one of optimum distribution rather than blanket discounts to all customers**
+## 2) The clearance problem needs to be redefined as one of optimum distribution rather than blanket discounts to all customers
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/Overstock%20webinar%20image%202.PNG"/></p>
 
@@ -35,12 +35,12 @@ A simple example is illustrated in the webinar, please get in touch if you would
 
 Offering different products to different customers in each phase of discounting will increase the probability of purchase and have a huge impact on your contributed margin.
 
-**3) Dressipi has won an Innovate UK grant to accelerate fashion retailers’ access these products**
+## 3) Dressipi has won an Innovate UK grant to accelerate fashion retailers’ access these products
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/Overstock%20webinar%20image%203.PNG"/></p>
 
-*“Our primary objective is to maximise the cash for our retail partners to ensure their longevity.”* 
-Sarah McVittie, Co-Founder, Dressipi.
+<p style="text-align:center; font-style: italic; font-weight: bold;"> “Our primary objective is to maximise the cash for our retail partners to ensure their longevity.” </p>
+<p style="text-align:center; font-weight: bold;">Sarah McVittie, Co-Founder, Dressipi</p>
 
 Dressipi is here to support fashion retailers and maximise their cash position. Our passion to solve the inefficiencies that exist in retail with better data and more robust models was evident throughout this webinar. 
 
