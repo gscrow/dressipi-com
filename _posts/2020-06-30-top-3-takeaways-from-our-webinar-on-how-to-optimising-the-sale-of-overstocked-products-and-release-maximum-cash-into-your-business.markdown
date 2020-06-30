@@ -46,6 +46,7 @@ Dressipi is here to support fashion retailers and maximise their cash position. 
 
 Innovate UK recognises us as one of the leading, cutting-edge technology companies in the UK and we welcome retailers to get in touch to see how we can help.
 
+**   **
 
 Thank you Stuart and Sarah for your thoughts on this topic and for giving us an inspiring webinar with takeaways that can be executed today.
 
