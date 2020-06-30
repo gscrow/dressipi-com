@@ -60,3 +60,6 @@ Thank you Stuart and Sarah for your thoughts on this topic and for giving us an 
 Our next webinar will focus on how retailers can use their data better to understand the size of the buy and the size ratios for any given product.  
 
 Please do tune in!
+
+
+<a href="/contact/" class="button button-primary">Contact Us</a>
