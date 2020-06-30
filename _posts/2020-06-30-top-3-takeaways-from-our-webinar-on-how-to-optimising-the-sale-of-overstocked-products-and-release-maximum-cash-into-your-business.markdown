@@ -2,6 +2,8 @@
 title: Top 3 Takeaways from our Webinar on ‘How to optimising the sale of overstocked
   products and release maximum cash into your business’
 date: 2020-06-30 16:26:00 Z
+image: "/uploads/image%20(11).png"
+author: Georgina Fisher
 ---
 
 *“We are coming back to a slightly different world. Sitting on stock, fewer customers, the need to convert our inventory more efficiently and improve bottom line margins.”*
