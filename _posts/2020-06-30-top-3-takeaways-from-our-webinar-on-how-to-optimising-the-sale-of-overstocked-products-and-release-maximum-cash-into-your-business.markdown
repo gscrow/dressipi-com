@@ -60,6 +60,9 @@ Thank you Stuart and Sarah for your thoughts on this topic and for giving us an 
 Our next webinar will focus on how retailers can use their data better to understand the size of the buy and the size ratios for any given product.  
 
 Please do tune in!
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/Overstock%20webinar%20image%203.PNG"/></p>
 
+<p style="text-align:center"><a href="/contact/" class="button button-primary">Contact Us</a></p>
+**   **
 
 <a href="/contact/" class="button button-primary">Contact Us</a>
