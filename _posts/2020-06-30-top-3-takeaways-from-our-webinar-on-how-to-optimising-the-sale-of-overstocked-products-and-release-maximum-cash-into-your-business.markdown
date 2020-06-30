@@ -19,6 +19,10 @@ This webinar outlined smarter, data-driven solutions for shifting overstock prod
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/Overstock%20webinar%20image%201.PNG"/></p>
 
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Overstock%20webinar%20image%201.PNG"/></p>
+
+<p style="text-align:center"><img style="margin-left: 0px; width: 200px;" src ="/uploads/Overstock%20webinar%20image%201.PNG"/></p>
+
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Overstock%20webinar%20image%201.PNG"/></p>
 
 These advances allow retailers to clean, structure and process the huge volumes of data so that it is consistent and all in one place. Additional fashion specific data can be added to spot the patterns and trends so unique to this industry.
