@@ -37,7 +37,7 @@ $(document).ready(function() {
   $(".header")
     .affix({
       offset: {
-        top: 1000
+        top: 100
       }
     })
     .on("affix-top.bs.affix", function() {
