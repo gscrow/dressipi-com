@@ -1,7 +1,7 @@
 ---
 title: Platform
 date: 2017-05-06 09:49:00 Z
-position: 8
+position: 9
 navigation: header
 header:
   title: Powering the Future of Retail

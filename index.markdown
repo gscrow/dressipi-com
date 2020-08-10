@@ -1,6 +1,6 @@
 ---
 title: Dressipi Fashion Prediction Platform
-position: 0
+position: 1
 header:
   title: Be Smarter. Be Predictive.
   body: "## The world's only Fashion Prediction Platform, Dressipi enables retailers

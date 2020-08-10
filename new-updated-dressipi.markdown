@@ -1,6 +1,6 @@
 ---
 title: New Updated Dressipi
-position: 2
+position: 3
 header:
   title: Exciting News!
   body: We are launching a new, updated Dressipi service which will make shopping
