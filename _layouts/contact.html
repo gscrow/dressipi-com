@@ -25,13 +25,14 @@ layout: default
         </form>
       </div>
     </div>
-    <div class="gutter clients contact-clients-list">
-      <ul class="client__logos contact__logos">
+
+  <!-- client logo slider -->
+    <div id="slider">
       {% for client in site.clients %}
-        <li class="client__logo {{ client.class }}"><img src="{{ client.logo }}" class="" alt="{{ client.title }}" /></li>
+      <img src="{{ client.logo }}" class="client__logo {{ client.class }}" alt="{{ client.title }}" />
       {% endfor %}
-      </ul>
     </div>
+
   </div>
 </section>
 

@@ -87,12 +87,13 @@ layout: default
   		<h3>Dressipi's Retail Partners</h3>
   	</hgroup>
   	<div class="section__body">
-      <ul class="client__logos">
-        {% assign site_clients = site.clients | sort:'position' %}
-        {% for client in site_clients %}
-        <li class="client__logo {{ client.class }}"><a href="{{ client.link }}" target="_blank" title="{{ client.title }}" ><img src="{{ client.logo }}" alt="{{ client.title }}" /></a></li>
-        {% endfor %}
-      </ul>
+		<!-- client logo slider -->
+		<div id="slider">
+		{% assign site_clients = site.clients | sort:'position' %}
+		{% for client in site.clients %}
+		<img src="{{ client.logo }}" class="client__logo {{ client.class }}" alt="{{ client.title }}" />
+		{% endfor %}
+		</div>
     </div>
   </div>
 </section>

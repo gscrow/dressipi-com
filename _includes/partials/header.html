@@ -27,6 +27,15 @@
           </form>
         </nav>
         {% else %}
+        <li class="navigation__item navigation-dropdown">
+          <span class="navigation-dropdown__trigger {% if page.url contains link.url %}navigation-dropdown__trigger--active{% endif %}">Resources</span>
+          <ul class="navigation-dropdown__menu">
+            {% assign resources_links = site.resources | sort: 'position' %}
+            {% for link in resources_links %}
+            <li><a class="navigation__link {% if page.url == link.url %}navigation__link--active{% endif %}" href="{{ link.url }}">{{ link.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </li>
         <nav role="navigation" class="navigation">
           <ul class="navigation_items">
             {% assign header_links = site.pages | where: 'navigation', 'header' | sort: 'position' %}
@@ -41,15 +50,6 @@
               {% endif %}
             {% endfor %}
             <!-- Resources Dropdown Menu -->
-            <li class="navigation__item navigation-dropdown">
-              <span class="navigation-dropdown__trigger {% if page.url contains link.url %}navigation-dropdown__trigger--active{% endif %}">Resources</span>
-              <ul class="navigation-dropdown__menu">
-                {% assign resources_links = site.resources | sort: 'position' %}
-                {% for link in resources_links %}
-                <li><a class="navigation__link {% if page.url == link.url %}navigation__link--active{% endif %}" href="{{ link.url }}">{{ link.title }}</a></li>
-                {% endfor %}
-              </ul>
-            </li>
             {% unless page.layout == 'landing'%}
               {% unless page.layout == 'privacy' %}
             <li class="navigation__item"><a href="/contact" class="button {% if my_page_url == '' %}button-default{% else %}button-primary{% endif %} navigation__button" title="Let's Talk">Let's Talk</a></li>
@@ -80,25 +80,37 @@
         {% if page.header.body %}
         <div class="header__subtitle">{{ page.header.body | markdownify }}</div>
         {% endif %}
-        {% if my_page_url == 'clients' %}
-        <ul class="client__logos">
-        {% assign site_clients = site.clients | sort:'position' %}
-        {% for client in site_clients %}
+        {% if my_page_url == 'customers' %}
+
+      <!-- client logo slider -->
+        <div id="slider">
+          {% assign site_clients = site.clients | sort:'position' %}
+          {% for client in site.clients %}
           {% if page.header.clients contains client.title %}
-          <li class="client__logo {{ client.class }}" ><img src="{{ client.logo }}" alt="{{ client.title }}" /></li>
+          <img
+            src="{{ client.logo }}"
+            class="client__logo {{ client.class }}"
+            alt="{{ client.title }}"
+          />
           {% endif %}
-        {% endfor %}
-        </ul>
+          {% endfor %}
+        </div>
         {% endif %}
         {% if my_page_url == 'new-updated-dressipi' %}
-        <ul class="client__logos">
-        {% assign site_clients = site.clients | sort:'position' %}
-        {% for client in site_clients %}
+        <!-- client logo slider -->
+        <div id="slider">
+          {% assign site_clients = site.clients | sort:'position' %}
+          {% for client in site.clients %}
           {% if page.header.clients contains client.title %}
-          <li class="client__logo {{ client.class }}"><a href="{{ client.link }}" target="_blank" title="{{ client.title }}" ><img src="{{ client.logo }}" src="{{ client.logo }}" alt="{{ client.title }}" /></a></li>
+          <img
+            src="{{ client.logo }}"
+            class="client__logo {{ client.class }}"
+            alt="{{ client.title }}"
+          />
           {% endif %}
-        {% endfor %}
-      </ul> </br>
+          {% endfor %}
+        </div>
+       </br>
         {% endif %}
         {% unless page.header.button.copy == nil %}
         <div class="header__button-group">

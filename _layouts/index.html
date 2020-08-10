@@ -54,15 +54,16 @@ layout: default
     </div>
 
     {% when 'clients' %}
-    <div class="container clients">
-      <ul class="client__logos">
-      {% assign site_clients = site.clients | sort:'position' %}
-      {% for client in site_clients %}
-        {% if section.clients contains client.title %}
-          <li class="client__logo {{ client.class }}"><img src="{{ client.logo }}" alt="{{ client.title }}" /></li>
-        {% endif %}
+    {% assign site_clients = site.clients | sort:'position' %}
+    <!-- client logo slider -->
+    <div id="slider">
+      {% for client in site.clients %}
+      <img
+        src="{{ client.logo }}"
+        class="client__logo {{ client.class }}"
+        alt="{{ client.title }}"
+      />
       {% endfor %}
-      </ul>
     </div>
 
     {% when nil %}
