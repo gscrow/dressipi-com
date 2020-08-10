@@ -1,6 +1,6 @@
 ---
 title: Clients
-position: 4
+position: 3
 navigation: header
 header:
   title: Accelerating Fashion Retailers to Be Predictive
