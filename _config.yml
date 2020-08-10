@@ -2,9 +2,6 @@
 title: Dressipi
 timezone: UTC
 collections:
-  about:
-    title: About
-    output: true
   authors:
     title: Authors
     output: true
