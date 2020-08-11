@@ -1,8 +1,9 @@
 ---
 title: About
 date: 2017-05-06 09:50:00 Z
-position: 9
+position: 4
 navigation: header
+has-menu: true
 header:
   title: Accelerating Fashion Retailers To Be Predictive
   body: "### Dressipi is proud to be known as the world’s only Fashion Prediction

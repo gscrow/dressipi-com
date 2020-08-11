@@ -4,7 +4,7 @@ layout: default
 
 {% assign my_page_url = page.url | remove: '/' | remove: 'resources' %}
 
-{% assign whitepapers = site.downloads | sort: 'position' | where: 'resource', 'Whitepaper' %}
+{% assign insights = site.downloads | sort: 'position' | where: 'resource', 'Insights' %}
 
 <section class="section section-resources">
   <div class="container">
@@ -12,8 +12,8 @@ layout: default
 			{% case my_page_url %}
 			{% when 'case-studies' %}
 				{% assign downloads = site.downloads | sort: 'position-list' | where: 'resource', 'Case Studies' %}
-			{% when 'whitepapers' %}
-				{% assign downloads = site.downloads | sort: 'position' | where: 'resource', 'Whitepapers' %}
+			{% when 'insights' %}
+				{% assign downloads = site.downloads | sort: 'position' | where: 'resource', 'insights' %}
 			{% endcase %}
       <section class="resources__list">
       	{% for download in downloads %}

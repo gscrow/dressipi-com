@@ -75,16 +75,22 @@ layout: default
     <div class="container--narrow text--center">
       {{ section.body | markdownify }}
     </div>
+
     <div class="container">
-      <ul class="client__logos">
+      <div id="slider">
         {% assign site_clients = site.clients | sort:'position' %}
-        {% for client in site_clients %}
-          {% if section.clients contains client.title %}
-          <li class="client__logo {{client.class}}"><a href="{{ client.link }}" target="_blank" title="{{ client.title }}" ><img src="{{ client.logo }}" alt="{{ client.title }}" /></a></li>
-          {% endif %}
+        {% for client in site.clients %}
+        {% if section.clients contains client.title %}
+        <img
+          src="{{ client.logo }}"
+          class="client__logo {{ client.class }}"
+          alt="{{ client.title }}"
+        />
+        {% endif %}
         {% endfor %}
-      </ul>
+      </div>
     </div>
+
     {% when nil %}
     <div class="container{% if section.width %}{{ section.width | prepend: '--' }}{% endif %} gutter">
       {{ section.body | markdownify }}

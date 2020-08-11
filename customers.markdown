@@ -1,7 +1,8 @@
 ---
-title: Clients
-position: 3
+title: Customers
+position: 2
 navigation: header
+has-menu: true
 header:
   title: Accelerating Fashion Retailers to Be Predictive
   body: Dressipi's long-term clients are some of the world’s leading retail brands.
@@ -41,6 +42,6 @@ sections:
   - Personalisation Drives Profitable Growth for River Island
   - Delivering a Personalised Shopping Experience to The Modist
   - Accelerating Wallis to be Truly Predictive
-layout: clients
+layout: customers
 ---
 
