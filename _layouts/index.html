@@ -24,17 +24,18 @@ layout: default
         </div>
       {% endfor %}
     </div>
-    {% when 'youtube' %}
-    <div class="video-wrapper">
-      <div class="video-responsive">
-        <div class="video yt-about"> <iframe width="560" height="315" src="https://www.youtube.com/embed/FxKrRJhkVyA?rel=0&showinfo=0&color=white" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-        </div>
-      </div>
-    </div>
     {% when 'features' %}
     <div class="features">
       {% for subsection in section.subsections %}
         <div class="feature {{ subsection.class }}">
+          <div class="container benefits text--center">
+            {% for workflow in section.workflows %}
+              <div class="gutter benefit">
+                <div class="benefit__icon"><img src="{{ workflow.image }}" /></div>
+                <h3 class="benefit__title">{{ workflow.title }}</h3>
+              </div>
+            {% endfor %}
+          </div>
           <div class="container">
             {% if subsection.image %}
             <div class="gutter feature__image">
@@ -46,9 +47,11 @@ layout: default
             <div class="gutter feature__copy{% if subsection.align == 'top' %}--top{% endif %}">
               <h2 class="feature__title">{{ subsection.title }}</h2>
               <div class="feature__body">{{ subsection.body | markdownify }}</div>
-              {% if subsection.action %}<a href="{{ subsection.action.url }}" class="button button-{{ subsection.action.style | default: 'primary' }}">{{ subsection.action.copy }}</a>{% endif %}
             </div>
           </div>
+          <div class="container features-container">
+          {% if subsection.action %}<a href="{{ subsection.action.url }}" class="button button-{{ subsection.action.style | default: 'primary' }}">{{ subsection.action.copy }}</a>{% endif %}
+        </div>
         </div>
       {% endfor %}
     </div>

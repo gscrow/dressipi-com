@@ -10,6 +10,11 @@
     @include flexbox;
   }
 
+  .features-container {
+    justify-content: center;
+    margin-top: 30px;
+  }
+
   &__image {
     display: flex;
     flex: 5;

@@ -2,26 +2,19 @@
 title: Dressipi Fashion Prediction Platform
 position: 0
 header:
-  title: Be Smarter. Be Predictive.
-  body: "## The world's only Fashion Prediction Platform, Dressipi enables retailers
-    to predict what their customers will buy and not return, optimising profitability
-    and giving customers the best possible experience wherever and however they choose
-    to shop."
+  title: Driving Profitable Growth For Fashion Retailers
+  body: "## The leading, independently verified revenue optimisation platform for fashion retailers. ."
   button:
-    copy: Let's Talk
+    copy: Schedule A Free Consultation
     url: "/contact"
   hero-image: "/uploads/banner__home.jpg"
-  link:
-    copy: Watch Video
-    url: "#youtube"
 description: "Dressipi is the world's only Fashion Prediction Platform designed to
   help retailers predict what their customers will buy and not return, optimising
   profitability and giving shoppers the best possible experience.\n\n"
-has-contact-section: true
+has-contact-section: false
 sections:
-- title: Trusted by Leading Brands
-  subtitle: Dressipi delivers unbeatable revenue growth to some of the UK's biggest
-    retailers
+- title: With Dressipi you’re in Fashionable Company
+  subtitle: We help the world’s leading brands to reduce costs and grow profitably. 
   handle: clients
   clients:
   - John Lewis
@@ -30,11 +23,8 @@ sections:
   - Evans
   - River Island
   - OVS
-- title: The Value Dressipi Unlocks For Retailers
-  handle: youtube
-- title: Results
-  comment: "(Proven by external A/B tests)"
-  subtitle: Dressipi consistently outperforms other suppliers by significant margins
+- title: The Revenue Optimisation Platform
+  subtitle: By leveraging intelligent, fashion-specific AI and ML capabilities, Dressipi empowers retailers to meet shopper expectations and drive profitable growth
   handle: benefits
   subsections:
   - title: Increase in net incremental revenue per visitor by a minimum of 8%
@@ -44,45 +34,49 @@ sections:
   - title: Increase conversion and frequency of purchase by up to 30%
     image: "/uploads/icon__shopping-cart.svg"
   button:
-    copy: Let's Talk
+    copy: Schedule A Free Consultation
     url: "/contact"
     style: primary
-- title: Solutions
-  subtitle: Online, Mobile, In Store
+- title: Three simple steps to driving profitable growth 
+  subtitle: 
   handle: features
   color: light-grey
+  workflows:
+  - title: Personalise product recommendations across your website
+    image: "/uploads/icon__report-increase.svg"
+  - title: Capture and understand product and customer data
+    image: "/uploads/icon__cash.svg"
+  - title: Leverage data to enhance customer experience
+    image: "/uploads/icon__shopping-cart.svg"
   subsections:
-  - title: Predictive Retail
-    body: 'Dressipi''s fashion-specific AI and algorithms understand each of your
-      customers intimately, delivering best in class recommendations and prediction
-      scores across the entire customer journey. This means retailers can be more
-      profitable, more customer-centric and more efficient. '
+  - title:
+    body: ' "Working with Dressipi is a breath of fresh air. They are straight-forward,
+    open, transparent and truly understand that fashion is different from another eCommerce categories
+    (such as travel, electronics, groceries ect). They have taken the time to understand how our business 
+    works and the best way for River Island to deliver profitable growth."
+    </br>
+    - Gemma Scarfe, Head of eCommerce, River Island
+    '
+    image: "/uploads/river-island_0.png"
+    hres-image: "/uploads/river-island_0.png"
     action:
-      copy: Learn More
-      url: "/solutions/predictive-retail"
-    image: "/uploads/predicting_retail-relevant_product-screen.png"
-    hres-image: "/uploads/predicting_retail-relevant_product-screen@2x.png"
-  - title: Universal Network
-    body: 'An industry first, the Universal Network is an application at the epicentre
-      of digital innovation. It allows for the collaboration and connection of data
-      across all participating retailers and channels, delivering more data, better
-      customer experiences and even better results. '
-    image: "/uploads/customer_experience.png"
-    hres-image: "/uploads/customer_experience@2x.png"
-    action:
-      copy: Learn More
-      url: "/solutions/universal-network/"
-  - title: Data Insight
+      copy: Schedule A Free Consultation
+      url: "/contact/"
+- title: How The Modist Delivered +12% Increase in Revenue Per Visitor with Dressipi Revenue Optimisation Platform 
+  subtitle: 
+  handle: features
+  subsections: 
+  - title:
     body: Dressipi's Fashion Prediction Platform is based on the biggest and most
       accurate dataset in the retail industry. Access to a unique database of over
       5 million connected fashion customers and proprietary product enrichment data
       leads to better-informed decisions to supply matching, merchandising and acquisition.
     class: data-insight-index-page
     action:
-      copy: Learn More
-      url: "/solutions/data-insight/"
-    image: "/uploads/home_data-insights.png"
-    hres-image: "/uploads/home_data-insights@2x.png"
+      copy: Schedule A Free Consultation
+      url: "/contact/"
+    image: "/uploads/The%20Modist_Logo.png"
+    hres-image: "/uploads/The%20Modist_Logo.png"
 layout: index
 ---
 
