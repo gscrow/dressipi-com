@@ -1,7 +1,8 @@
 ---
-title: Free Consultation
+title: Contact
 date: 2017-05-06 09:50:00 Z
 position: 5
+permalink: "/contact/"
 navigation: header
 header:
   height: tight
