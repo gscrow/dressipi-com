@@ -10,7 +10,7 @@ header:
     Platform, accelerating leading fashion retailers to be truly predictive. This
     enables retailers to be more profitable, more customer-centric and more efficient."
   button:
-    copy: Let's Talk
+    copy: Schedule A Free Consultation
     url: "/contact"
   hero-image: "/uploads/banner_style-hub.jpg"
   link:
@@ -83,7 +83,7 @@ sections:
       copy: Learn more
       url: "/solutions/data-insight"
   button:
-    copy: Let's Talk
+    copy: Schedule A Free Consultation
     url: "/contact"
     style: primary
 - title: Dressipi in the Media

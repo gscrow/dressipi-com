@@ -8,7 +8,7 @@ header:
 
     The Universal Network allows for the collaboration and connection of data across all participating retailers and channels wherever that customer is shopping or browsing.
   button:
-    copy: Let's Talk
+    copy: Schedule A Free Consultation
     url: "/contact"
   hero-image: "/uploads/banner_labs.jpg"
   link:
@@ -94,7 +94,7 @@ un-form-demo:
   un-title: Achieve Even Better Results with Universal Network
   un-subtitle: 'Join this leading group of retailers driving change within the industry
     and taking action to future-proof their business. '
-  button: Let's Talk
+  button: Schedule A Free Consultation
   email_cc: 
   redirect: "/thanks"
 layout: product

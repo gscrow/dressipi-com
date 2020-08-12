@@ -58,4 +58,4 @@ _‘Self-service for the selfie generation’_ should become a retailer catchphr
 
 > Download our whitepaper [‘How To Make Your Data Work Harder To Reduce Garment Return Rates’](https://dressipi.com/downloads/how-to-make-your-data-work-harder-to-reduce-garment-return-rates-whitepaper/) to gain an understanding of how to leverage the data you hold to reduce return rates by up to 5% percentage points.
 
-> If you are interested in a demo to see how we could provide our personalisation solutions for you and reduce return rates by 5% percentage points, [let's talk](https://dressipi.com/contact/) today.
+> If you are interested in a demo to see how we could provide our personalisation solutions for you and reduce return rates by 5% percentage points, [Schedule A Free Consultation](https://dressipi.com/contact/) today.

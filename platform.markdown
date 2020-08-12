@@ -8,7 +8,7 @@ header:
     biggest and most accurate customer and garment dataset in the industry, we power
     billions of product and outfit predictions every year. "
   button:
-    copy: Let's Talk
+    copy: Schedule A Free Consultation
     url: "/contact"
     style: primary
   hero-image: "/uploads/banner__laptop-code.jpg"

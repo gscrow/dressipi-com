@@ -62,6 +62,6 @@ The key here will be agility. Whilst the basics will be omnipresent (recognition
 
 Without a doubt, there’s an exciting momentum building which is a win-win for consumers and retailers alike.
 
-> If you are interested in a demo to see how we could provide our personalisation solutions for you and reduce return rates by 5% percentage points, [let's talk](https://dressipi.com/contact/) today.
+> If you are interested in a demo to see how we could provide our personalisation solutions for you and reduce return rates by 5% percentage points, [Schedule A Free Consultation](https://dressipi.com/contact/) today.
 
 > Header Photo by Timothy Muza on Unsplash

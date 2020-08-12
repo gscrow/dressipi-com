@@ -8,7 +8,7 @@ header:
 
     Dressipi's machine learning technology selects the most effective algorithms for every customer, considering their individual profile, preferences, behaviour and the context in which they are shopping. This gives retailers the power to move from being purely reactive to predicting the most relevant products for each and every customer.
   button:
-    copy: Let's Talk
+    copy: Schedule A Free Consultation
     url: "/contact"
   hero-image: "/uploads/banner_style-hub.jpg"
   link:

@@ -9,7 +9,7 @@ header:
     enabling retailers to match customers with products and experiences to influence
     buying behaviour at scale."
   button:
-    copy: Let's Talk
+    copy: Schedule A Free Consultation
     url: "#download"
   hero-image: "/uploads/banner_style-hub.jpg"
 is-landing-page: true

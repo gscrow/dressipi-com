@@ -7,7 +7,7 @@ header:
     Learning and AI, Dressipi's data platform is designed to help retailers understand
     the who, why and what behind key performance metrics."
   button:
-    copy: Let's Talk
+    copy: Schedule A Free Consultation
     url: "/contact"
   hero-image: "/uploads/banner_data-insights.png"
   link:
