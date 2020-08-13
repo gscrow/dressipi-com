@@ -21,7 +21,7 @@ testimonial:
     job-title: Digital Director
     company: Wallis
     image: "/uploads/Wallis_CS_Image_Partner_Pg.png"
-  action: Download Case Study
+  action: Read More
   class: wallis
 position-list: 3
 ---

@@ -20,7 +20,7 @@ testimonial:
     job-title: Director of Ecommerce
     company: The Modist
     image: "/uploads/Modist_Small_Case_Study_Image-d88efb.jpg"
-  action: Download Case Study
+  action: Read More
   class: the modist
 position-list: 2
 ---

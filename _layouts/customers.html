@@ -4,34 +4,21 @@ layout: default
 
 {% for section in page.sections %}
 {% assign handle = section.handle %}
-<section id="{{ handle }}"  class="section {% if handle %}{{ section.handle | prepend: 'section-' | append: ' ' }}{% endif %}background--{{ section.color | default:'white' }}">
+<section id="{{ handle }}" class="section {% if handle %}{{ section.handle | prepend: 'section-' | append: ' ' }}{% endif %}background--{{ section.color | default:'white' }}">
   <!-- section heading group -->
   <hgroup class="container gutter section__heading">
     {% if section.title %}<h3>{{ section.title }}</h3>{% endif %}
     {% if section.subtitle %}<h4>{{ section.subtitle }}</h4>{% endif %}
   </hgroup>
-
+  {% unless page.header.button.copy == nil %}
+  <div class="header__button-group">
+    {% if subsection.link %}<a href="{{ subsection.link.url }}" class="header__link anchor-link">{{ subsection.link.copy }}</a>{% endif %}
+  </div>
+  {% endunless %}
   <!-- section content group -->
   <div class="section__body">
     {% case handle %}
-    {% when 'youtube' %}
-    <div class="video-wrapper">
-      <div class="video-responsive">
-        <div class="video yt-about"> <iframe width="560" height="315" src="https://www.youtube.com/embed/FxKrRJhkVyA?rel=0&showinfo=0&color=white" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-        </div>
-      </div>
-    </div>
-    {% when 'cases' %}
-    <div class="container benefits text--center">
-      {% for subsection in section.subsections %}
-        <div class="gutter benefit">
-          <div class="benefit__icon">
-            <img src="{{ subsection.image }}" />
-          </div>
-          <h3 class="benefit__title">{{ subsection.title }}</h3>
-        </div>
-      {% endfor %}
-    </div>
+    {% when 'testimonials' %}
     <div class="container">
       <ul class="cases__list">
       {% assign downloads = site.downloads | sort:'position' %}
@@ -76,6 +63,7 @@ layout: default
       {{ section.body | markdownify }}
     </div>
 
+    {% when 'clients' %}
     <div class="container">
       <div id="slider">
         {% assign site_clients = site.clients | sort:'position' %}
@@ -90,6 +78,7 @@ layout: default
         {% endfor %}
       </div>
     </div>
+
 
     {% when nil %}
     <div class="container{% if section.width %}{{ section.width | prepend: '--' }}{% endif %} gutter">
