@@ -31,7 +31,7 @@ collections:
     output: true
   integrations:
     title: integrations
-    output: true
+    output: false
 defaults:
 - scope:
     path: ''
