@@ -34,18 +34,9 @@ sections:
   - Evans
   - River Island
   - OVS
-- title: Testimonials
-  subtitle: TestimonialsTestimonialsTestimonials
-  handle: testimonials
-  subsections:
-  - title: Learn the Client's Key Challenges
-    image: "/uploads/icon__data-driven.svg"
-  - title: How Dressipi Helped Solve These
-    image: "/uploads/icon__user-love.svg"
-  - title: The Results
-    image: "/uploads/icon__results.svg"
-  - testimonial:
-    action: Read More
+- title: Success Stories
+  subtitle: test
+  handle: success-stories
   downloads:
   - Personalisation Drives Profitable Growth for River Island
   - Delivering a Personalised Shopping Experience to The Modist

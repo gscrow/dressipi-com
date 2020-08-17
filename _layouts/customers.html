@@ -18,7 +18,7 @@ layout: default
   <!-- section content group -->
   <div class="section__body">
     {% case handle %}
-    {% when 'testimonials' %}
+    {% when 'success-stories' %}
     <div class="container">
       <ul class="cases__list">
       {% assign downloads = site.downloads | sort:'position' %}
@@ -58,11 +58,6 @@ layout: default
       </div>
       {% endfor %}
     </div>
-    {% when 'call-to-action' %}
-    <div class="container--narrow text--center">
-      {{ section.body | markdownify }}
-    </div>
-
     {% when 'clients' %}
     <div class="container">
       <div id="slider">
