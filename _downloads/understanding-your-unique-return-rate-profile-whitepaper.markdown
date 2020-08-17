@@ -12,18 +12,18 @@ tags:
 - style
 - personalisation
 position: 2
-resource: Whitepapers
+resource: Insights
 image: "/uploads/returns_small.jpg"
 form:
   title: Download Free Whitepaper
-  button: Download Whitepaper
+  button: Download Insights
   file: "/uploads/Dressipi_Whitepaper_Understanding_Your_Unique_Return_Rate_Profile.pdf"
   checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services
   button_class: whitepaper
   linkedin_tracking: 
 testimonial:
-  action: Download Whitepaper
+  action: Download Insights
 position-list: 2
 layout: download
 ---

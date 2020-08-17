@@ -3,7 +3,7 @@ title: Return Rate Data Analysis Package
 date: 2020-01-13 08:35:00 Z
 published: false
 position: 8
-resource: Whitepapers
+resource: Insights
 image: "/uploads/shutterstock_1006919041%20(1)%20(1)-6919a6.jpg"
 form:
   title: Download Returns Package

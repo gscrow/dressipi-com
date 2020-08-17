@@ -10,12 +10,12 @@
 		</ul>
   </section>
 
-  <!-- Download – Whitepapers -->
+  <!-- Download – Insights -->
 	<section class="widget widget-download">
-		<h3>Whitepapers</h3>
-		{% assign whitepapers = site.downloads | sort: 'position' | where: 'resource', 'Whitepapers' %}
+		<h3>Insights</h3>
+		{% assign insights = site.downloads | sort: 'position' | where: 'resource', 'Insights' %}
 		<ul class="list-downloads">
-			{% for whitepaper in whitepapers %}
+			{% for insight in insights %}
 			<li><a href="{{ whitepaper.url }}" class="">{{ whitepaper.title }}</a></li>
 			{% endfor %}
 		</ul>

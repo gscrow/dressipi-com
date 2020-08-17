@@ -8,7 +8,7 @@ header:
     experience in store and online by enabling retailers to match customers with products
     and experiences to influence buying behaviour at scale."
   button:
-    copy: Download Whitepaper
+    copy: Download Insights
     url: "#download"
 is-landing-page: true
 description: Dressipi is the global leader in Fashion Personalisation. We improve

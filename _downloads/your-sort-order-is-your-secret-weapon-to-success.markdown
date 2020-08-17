@@ -4,17 +4,17 @@ title: |-
   to Success
 date: 2019-09-25 13:08:00 Z
 position: 1
-resource: Whitepapers
+resource: Insights
 image: "/uploads/Sort_Order_Whitepaper_Small.jpg"
 form:
   title: Download Free Whitepaper
-  button: Download Whitepaper
+  button: Download Insights
   file: "/uploads/Dressipi-Whitepaper-Your-Sort-Order-Is-Your-Secret-Weapon-To-Success-5e4ec9.pdf"
   checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services
   button_class: whitepaper
 testimonial:
-  action: Download Whitepaper
+  action: Download Insights
 position-list: 1
 ---
 

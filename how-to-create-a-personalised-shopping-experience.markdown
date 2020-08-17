@@ -9,7 +9,7 @@ header:
     each customer, matching customers with products and experiences to influence buying
     behaviour at scale."
   button:
-    copy: Download Whitepaper
+    copy: Download Insights
     url: "#download"
   hero-image: "/uploads/banner_five_things_whitepaper.jpg"
 is-landing-page: true
