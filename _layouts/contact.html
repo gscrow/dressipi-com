@@ -27,9 +27,15 @@ layout: default
     </div>
 
   <!-- client logo slider -->
-    <div id="slider">
+    <div class="slider">
       {% for client in site.clients %}
-      <img src="{{ client.logo }}" class="client__logo {{ client.class }}" alt="{{ client.title }}" />
+      <div class="client__logo_wrapper {{ client.class }}">
+        <img
+          src="{{ client.logo }}"
+          class="client__logo"
+          alt="{{ client.title }}"
+        />
+        </div>
       {% endfor %}
     </div>
 

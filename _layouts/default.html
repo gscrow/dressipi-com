@@ -33,11 +33,30 @@
   <script type="text/javascript">
   _linkedin_data_partner_id = "300788";
   </script>
-  <script src="/scripts//ideal-image-slider.js"></script>
-  <script>
-    var slider = new IdealImageSlider.Slider('#slider');
-    slider.start();
-  </script>
   {% include /linkedin_tracking/linkedin_tracking.html %}
+  <!-- include slick-slide -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js" integrity="sha512-HGOnQO9+SP1V92SrtZfjqxxtLmVzqZpjFFekvzZVWoiASSQgSr4cw9Kqd2+l8Llp4Gm0G8GIFJ4ddwZilcdb8A==" crossorigin="anonymous"></script>
+  <script type="text/javascript">
+    $(document).ready(function () {
+      $(".slider").slick({
+        dots: true,
+        autoplay: true,
+        infinite: true,
+        speed: 500,
+        slidesToShow: 3,
+        slidesToScroll: 3,
+        responsive: [
+          {
+            breakpoint: 600,
+            settings: {
+              arrows: false,
+              slidesToShow: 1,
+              slidesToScroll: 1,
+            },
+          },
+        ],
+      });
+    });
+  </script>
   </body>
 </html>

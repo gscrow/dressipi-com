@@ -84,30 +84,34 @@
         {% if my_page_url == 'customers' %}
 
       <!-- client logo slider -->
-        <div id="slider">
+        <div class="slider">
           {% assign site_clients = site.clients | sort:'position' %}
           {% for client in site.clients %}
           {% if page.header.clients contains client.title %}
+          <div class="client__logo_wrapper {{ client.class }}">
           <img
             src="{{ client.logo }}"
-            class="client__logo {{ client.class }}"
+            class="client__logo"
             alt="{{ client.title }}"
           />
+          </div>
           {% endif %}
           {% endfor %}
         </div>
         {% endif %}
         {% if my_page_url contains 'new-updated-dressipi'%}
         <!-- client logo slider -->
-        <div id="slider">
+        <div class="slider">
           {% assign site_clients = site.clients | sort:'position' %}
           {% for client in site.clients %}
           {% if page.header.clients contains client.title %}
-          <img
-            src="{{ client.logo }}"
-            class="client__logo {{ client.class }}"
-            alt="{{ client.title }}"
-          />
+          <div class="client__logo_wrapper {{ client.class }}">
+            <img
+              src="{{ client.logo }}"
+              class="client__logo"
+              alt="{{ client.title }}"
+            />
+            </div>
           {% endif %}
           {% endfor %}
         </div>

@@ -88,10 +88,16 @@ layout: default
   	</hgroup>
   	<div class="section__body">
 		<!-- client logo slider -->
-		<div id="slider">
+		<div class="slider">
 		{% assign site_clients = site.clients | sort:'position' %}
 		{% for client in site.clients %}
-		<img src="{{ client.logo }}" class="client__logo {{ client.class }}" alt="{{ client.title }}" />
+		<div class="client__logo_wrapper {{ client.class }}">
+			<img
+			  src="{{ client.logo }}"
+			  class="client__logo"
+			  alt="{{ client.title }}"
+			/>
+		</div>		
 		{% endfor %}
 		</div>
     </div>

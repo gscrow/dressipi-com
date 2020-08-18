@@ -1,0 +1,10 @@
+.slider {
+  max-width: 600px;
+  width: 100%;
+  margin: 50px auto;
+  padding: 10px;
+
+  .slick-prev:before, .slick-next:before {
+    color: $text-color-strong;
+  }
+}

@@ -10,8 +10,6 @@ layout: default
   <div class="container">
   	<div class="resources__content gutter">
 			{% case my_page_url %}
-			{% when 'case-studies' %}
-				{% assign downloads = site.downloads | sort: 'position-list' | where: 'resource', 'Case Studies' %}
 			{% when 'insights' %}
 				{% assign downloads = site.downloads | sort: 'position' | where: 'resource', 'Insights' %}
 			{% endcase %}
