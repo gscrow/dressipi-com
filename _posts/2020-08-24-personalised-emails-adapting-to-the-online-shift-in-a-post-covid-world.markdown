@@ -1,5 +1,5 @@
 ---
-title: 'Personalised Emails: Adapting to the online shift in a post COVID world'
+title: 'Personalised Emails: Adapting to the Online Shift in a Post-COVID World'
 date: 2020-08-24 15:40:00 Z
 categories:
 - Tech
