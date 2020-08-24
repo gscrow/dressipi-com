@@ -35,9 +35,9 @@ And not only is it more compelling for customers but it drives much better resul
 
 During the COVID-19 crisis, our clients needed Dressipi’s support in reacting to a fast-changing environment. Part of this was quickly adapting the personalised email strategy already in place.
 
-At the start of lockdown it was anyone’s guess what customer’s shopping propensity would be, however, as the situation changed it became clear that items for wedding guest looks, or day-to-night work dresses, which would normally be suitable content for that time of year, were no longer relevant.
+At the start of lockdown, it was anyone’s guess what customer’s shopping propensity would be, however, as the situation changed it became clear that items for wedding guest looks, or day-to-night work dresses, which would normally be suitable content for that time of year, were no longer relevant.
 
-John Lewis has a robust number of regular ‘new in’ SKUs, catering to many different occasions. The fact customers were at home adapting their lifestyles called for a last-minute pivot from previously planned seasonal products and copy to a much more laidback, casual easy-to-wear personalised ‘At-Home Fashion Edit’ email campaign. This campaign saw a massive uplift in metrics, driving an impressive open rate and click-through rate, with some of their best ever revenue results. 
+John Lewis has a robust number of regular ‘new in’ SKUs, catering to many different occasions. The fact customers were at home adapting their lifestyles called for a last-minute pivot from previously planned seasonal products and copy to a much more laidback, casual easy-to-wear personalised ‘At-Home Fashion Edit’ email campaign. This campaign saw a massive uplift in metrics, driving an impressive open rate and click-through rate, with some of their best-ever revenue results. 
 
 This campaign with John Lewis demonstrated the ease of adaptability with the set-up of Dressipi’s personalised emails and proved our success in focusing on relevancy in terms of product recommendations and the current climate.
 
