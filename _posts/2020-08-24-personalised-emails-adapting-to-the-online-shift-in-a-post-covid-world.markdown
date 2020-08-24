@@ -43,6 +43,9 @@ This campaign with John Lewis demonstrated the ease of adaptability with the set
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Email%20blog%20JL.png"/></p>
 
+<p style="text-align:center"><img style="margin-left: 0px; width: 100px;" src ="/uploads/Email%20blog%20JL.png"/></p>
+
+
 Another COVID-19 driven email campaign was supporting our Italian client OVS’s re-opening of stores, sending emails with a highly tailored edit of each customer’s best clothing selection available in their local store. The aim? - drive more revenue-generating footfall into stores.
  
 These emails were targeted at all store customers (shopping across kidswear, menswear and womenswear) who had not bought anything in the two weeks from when stores re-opened. The campaign has been hugely successful, with data suggesting significant double-digit increases in revenue to stores.
