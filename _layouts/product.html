@@ -48,8 +48,6 @@ assign my_page_url = page.url | remove: '/' %}
     </div>
 
 
-
-
     {% when 'solutions' %}
 		<div class="projects">
 		  {% for subsection in section.subsections %}
@@ -207,16 +205,19 @@ assign my_page_url = page.url | remove: '/' %}
             <h2 class="feature__title">{{ subsection.title }}</h2>
             <p class="slide__title">{{ subsection.subtitle }}</p>
             <div class="feature__body">{{ subsection.body | markdownify }}</div>
-            {% if subsection.action %}<a
-              href="{{ subsection.action.url }}"
-              class="button button-{{ subsection.action.style | default: 'secondary' }}"
-              >{{ subsection.action.copy }}</a
-            >{% endif %}
           </div>
+        </div>
+        <div class="container features-container text--center" >
+          {% if subsection.action %}<a
+          href="{{ subsection.action.url }}"
+          class="button button-{{ subsection.action.style | default: 'primary' }} text--center"
+          >{{ subsection.action.copy }}</a
+          >{% endif %}
         </div>
       </div>
       {% endfor %}
-    </div>
+
+  </div>
     {% when 'benefits' %}
     <div
       class="container benefits {% if section.is-centered %}text--center{% endif %}"
@@ -234,47 +235,12 @@ assign my_page_url = page.url | remove: '/' %}
       {% endfor %}
     </div>
     {% for subsection in section.subsections %}
-    <div class="container features-container text--center" >
+    <div class="container benefits-container text--center" >
     {% if subsection.action %}
     <a href="{{ subsection.action.url }}" class="button button-{{ subsection.action.style | default: 'primary' }}">{{ subsection.action.copy }}</a>
     {% endif %}
     </div>
     {% endfor %}
-    {% when 'cases' %}
-    <div class="container">
-      <ul class="cases__list">
-        {% assign downloads = site.downloads | sort: 'position' %} {% for
-        download in downloads %} {% if section.downloads contains download.title
-        %}
-        <li class="case-study__wrap">
-          <div class="case-study">
-            <div class="case-study__header">
-              {{ download.testimonial.author.name }}<span
-                >{{ download.testimonial.author.job-title }}, {{
-                download.testimonial.author.company }}</span
-              >
-              {% if download.testimonial.logo %}
-              <div class="case-study__logo">
-                <img src="{{ download.testimonial.logo }}" />
-              </div>
-              {% endif %}
-            </div>
-            <div class="case-study__image">
-              <img src="{{ download.testimonial.author.image }}" />
-            </div>
-            <div class="case-study__body">
-              <p>{{ download.testimonial.body }}</p>
-            </div>
-            <div class="case-study__footer">
-              <a href="{{ download.url }}" class="button button-primary"
-                >{{ download.testimonial.action }}</a
-              >
-            </div>
-          </div>
-        </li>
-        {% endif %} {% endfor %}
-      </ul>
-    </div>
     {% when nil %}
     <div
       class="container{% if section.width %}{{ section.width | prepend: '--' }}{% endif %} gutter"

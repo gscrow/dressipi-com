@@ -53,7 +53,7 @@ sections:
       all channels wherever that customer is shopping or browsing.
     link:
       copy: Learn more
-      url: "/solutions/universal-network/"
+      url: "/solutions/personalised-recommendation/"
   - title: Unique Database
     body: Dressipi has the most extensive database of proprietary garment data and
       fashion-specific customer data that exists in the world today, powering billions
