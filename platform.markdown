@@ -58,4 +58,3 @@ layout: platform
 ---
 
 <div class="ul-div"><ul><li><img class="pink-tick" src="/uploads/pink-tick.png">Transaction data</li><li> <img class="pink-tick" src="/uploads/pink-tick.png">Product feed</li><li> <img class="pink-tick" src="/uploads/pink-tick.png">Add some tags to your pages</li></ul></div>
-<a href="/contact" class="button button--large button-primary center" title="">{{ site.form-demo.button }}</a>

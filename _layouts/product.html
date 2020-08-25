@@ -136,45 +136,6 @@ assign my_page_url = page.url | remove: '/' %}
       </div>
       {% endfor %}
     </div>
-    {% when 'youtube' %}
-    <div class="video-wrapper">
-      <div class="video-responsive">
-        {% if my_page_url contains 'predictive-retail' %}
-        <div class="video yt-about">
-          <iframe
-            width="560"
-            height="315"
-            src="https://www.youtube.com/embed/_y_njgfUdbg?rel=0&showinfo=0&color=white"
-            frameborder="0"
-            allow="autoplay; encrypted-media"
-            allowfullscreen
-          ></iframe>
-        </div>
-        {% endif %} {% if my_page_url contains 'data-insight' %}
-        <div class="video yt-about">
-          <iframe
-            width="560"
-            height="315"
-            src="https://www.youtube.com/embed/HhCQsNDiHP8?rel=0&showinfo=0&color=white"
-            frameborder="0"
-            allow="autoplay; encrypted-media"
-            allowfullscreen
-          ></iframe>
-        </div>
-        {% endif %} {% if my_page_url contains 'universal-network' %}
-        <div class="video yt-about">
-          <iframe
-            width="560"
-            height="315"
-            src="https://www.youtube.com/embed/zk-K1dM1rrI?rel=0&showinfo=0&color=white"
-            frameborder="0"
-            allow="autoplay; encrypted-media"
-            allowfullscreen
-          ></iframe>
-        </div>
-        {% endif %}
-      </div>
-    </div>
     {% when 'features' %}
     <div class="features">
       {% for subsection in section.subsections %}
@@ -261,16 +222,4 @@ assign my_page_url = page.url | remove: '/' %}
   </div>
   {% endif %}
 </section>
-{% endfor %} {% if my_page_url contains 'universal-network' %}
-<div id="form-demo" class="form-demo section">
-  <div class="container gutter">
-    <hgroup class="form-demo__heading">
-      <h2>{{ page.un-form-demo.un-title }}</h2>
-      <h3>{{ page.un-form-demo.un-subtitle }}</h3>
-      <a href="/contact" class="button button--large button-primary" title=""
-        >{{ site.form-demo.button }}</a
-      >
-    </hgroup>
-  </div>
-</div>
-{% endif %}
+{% endfor %}
