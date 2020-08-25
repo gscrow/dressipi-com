@@ -2,18 +2,18 @@
 title: How Dressipi Can Help Retailers Transform Their Biggest Asset
 date: 2017-05-12 04:38:00 Z
 position: 3
-resource: Insights
+resource: Guides
 image: "/uploads/Biggest_Asset_Whitepaper_small.jpg"
 form:
   title: Download Free Whitepaper
-  button: Download Insights
+  button: Download Guides
   file: "/uploads/Dressipi-Whitepaper-How-Dressipi-Can-Help-Retailers-Transform-Their-Biggest-Asset.pdf"
   checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services
   button_class: whitepaper
   linkedin_tracking: 
 testimonial:
-  action: Download Insights
+  action: Download Guides
 position-list: 3
 layout: download
 ---
