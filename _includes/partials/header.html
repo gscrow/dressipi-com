@@ -42,8 +42,8 @@
                   {% if link.title == 'About' %}
                   {% include partials/navigation.html context='/about/' %}
                   {% endif %}
-                  {% if link.title == 'Customers' %}
-                  {% include partials/navigation.html context='/customers/' %}
+                  {% if link.title == 'Clients' %}
+                  {% include partials/navigation.html context='/clients/' %}
                   {% endif %}
                 </li>
                 {% else %}
@@ -81,7 +81,7 @@
         {% if page.header.body %}
         <div class="header__subtitle">{{ page.header.body | markdownify }}</div>
         {% endif %}
-        {% if my_page_url == 'customers' %}
+        {% if my_page_url == 'clients' %}
 
       <!-- client logo slider -->
         <div class="slider">

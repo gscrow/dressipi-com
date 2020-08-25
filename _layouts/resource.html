@@ -4,14 +4,14 @@ layout: default
 
 {% assign my_page_url = page.url | remove: '/' | remove: 'resources' %}
 
-{% assign insights = site.downloads | sort: 'position' | where: 'resource', 'Insight' %}
+{% assign guides = site.downloads | sort: 'position' | where: 'resource', 'Guide' %}
 
 <section class="section section-resources">
   <div class="container">
   	<div class="resources__content gutter">
 			{% case my_page_url %}
-			{% when 'insights' %}
-				{% assign downloads = site.downloads | sort: 'position' | where: 'resource', 'Insights' %}
+			{% when 'guides' %}
+				{% assign downloads = site.downloads | sort: 'position' | where: 'resource', 'Guides' %}
 			{% endcase %}
       <section class="resources__list">
       	{% for download in downloads %}

@@ -1,5 +1,5 @@
 ---
-title: Data Insight
+title: Data Insight Hub
 position: 3
 header:
   body: "Retailers have been relying on gut instinct for too long. It's time to put
