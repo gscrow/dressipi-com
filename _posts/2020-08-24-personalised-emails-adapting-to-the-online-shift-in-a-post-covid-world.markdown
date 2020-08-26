@@ -56,6 +56,6 @@ These emails were targeted at all store customers (shopping across kidswear, men
 
 As retailers up their digital offering, Dressipi’s ability to support their clients with highly personalised email campaigns is an increasingly attractive solution. Highly flexible and easy to integrate across a range of ESP’s, the results show time and time again that relevant personalised product recommendations and content edits outperform segmentation, enhance the customer experience and more importantly make every email work harder to deliver more revenue and profit.
 
-**If you’d like to talk to us about how we can help your emails be more relevant to every customer then please get in touch.
-**
+**If you’d like to talk to us about how we can help your emails be more relevant to every customer then please get in touch.**
+
 <p style="text-align:center"><a href="/contact/" class="button button-primary">Contact Us</a></p>
