@@ -44,9 +44,9 @@ At the start of lockdown, it was anyone’s guess what customer’s shopping pro
 
 John Lewis has a robust number of regular ‘new in’ SKUs, catering to many different occasions. The fact customers were at home adapting their lifestyles called for a last-minute pivot from previously planned seasonal products and copy to a much more laidback, casual easy-to-wear personalised ‘At-Home Fashion Edit’ email campaign. This campaign saw a massive uplift in metrics, driving an impressive open rate and click-through rate, with some of their best-ever email revenue results. 
 
-This campaign with John Lewis demonstrated the ease of adaptability with the set-up of Dressipi’s personalised emails and proved our success in focusing on the relevancy of product recommendations and the current climate.
+The John Lewis email campaigns sent during lockdown demonstrated the ease of adaptability with the set-up of Dressipi’s personalised emails and proved our success in focusing on the relevancy of product recommendations in line with the current climate.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 200px;" src ="/uploads/Email%20blog%20JL.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 200px;" src ="/uploads/Email%202%20JL.PNG"/></p>
 
 Another COVID-19 driven email campaign was supporting our Italian client OVS’s re-opening of stores, sending emails with a highly tailored edit of each customer’s best clothing selection available in their local store. The aim? - drive more revenue-generating footfall into stores.
  
