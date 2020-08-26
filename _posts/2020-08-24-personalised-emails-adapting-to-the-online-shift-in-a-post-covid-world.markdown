@@ -9,6 +9,7 @@ tags:
 - John Lewis emails
 - OVS emails
 - Covid 19 digital acceleration
+image: "/uploads/pexels-kaboompics-com-6249%20(2).jpg"
 author: Natalie Theo
 ---
 
