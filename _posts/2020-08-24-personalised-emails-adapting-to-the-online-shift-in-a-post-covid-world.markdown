@@ -52,7 +52,7 @@ Another COVID-19 driven email campaign was supporting our Italian client OVS’s
  
 These emails were targeted at all store customers (shopping across kidswear, menswear and womenswear) who had not bought anything in the two weeks from when stores re-opened. The campaign has been hugely successful, with data suggesting significant double-digit increases in revenue to stores.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 300px;" src ="/uploads/Email%202%20OVS.PNG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/Email%202%20OVS.PNG"/></p>
 
 As retailers up their digital offering, Dressipi’s ability to support their clients with highly personalised email campaigns is an increasingly attractive solution. Highly flexible and easy to integrate across a range of ESP’s, the results show time and time again that relevant personalised product recommendations and content edits outperform segmentation, enhance the customer experience and more importantly make every email work harder to deliver more revenue and profit.
 
