@@ -11,6 +11,10 @@ tags:
 - Covid 19 digital acceleration
 image: "/uploads/pexels-kaboompics-com-6249%20(2).jpg"
 author: Natalie Theo
+description: With more and more customers moving online, retailers need to leverage
+  their digital offerings to deliver the relevancy that’s not only desired but expected.
+  Dressipi's Style Director, Natalie Theo outlines some of the personalised email
+  campaigns we supported our clients with during the crisis.
 ---
 
 As we find ourselves navigating a transformed retail landscape, retailers have been forced to pay microscopic attention to their online capabilities and digital acceleration. 
