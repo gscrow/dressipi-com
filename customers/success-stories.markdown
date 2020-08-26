@@ -22,7 +22,6 @@ header:
 description: Dressipi works with some of the UK’s biggest retailers, helping them
   become more profitable, more customer-centric and more efficient. Discover who they
   are.
-has-contact-section: true
 sections:
 - title: Trusted by leading brands
   subtitle: 

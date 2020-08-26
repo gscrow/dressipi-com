@@ -5,11 +5,8 @@ header:
   title: Increasing Sell Through. Reducing Discounting. Driving Profitability.
   body: "Dressipi’s Data Insight Hub moves retailers from their traditional spreadsheet limitations to real time, deeper insights about customers, transactions, returns and operations, without any coding or IT intervention."
   hero-image: "/uploads/banner_data-insights.png"
-has-contact-section: false
-is-demo-page: false
 description: Dressipi has the most extensive database of proprietary garment data
   and fashion-specific customer data that exists in the world today. Learn more.
-has-contact-section: true
 sections:
 - title: Key Features
   handle: features
