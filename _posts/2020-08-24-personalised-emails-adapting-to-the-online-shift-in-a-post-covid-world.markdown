@@ -46,13 +46,13 @@ John Lewis has a robust number of regular ‘new in’ SKUs, catering to many di
 
 The John Lewis email campaigns sent during lockdown demonstrated the ease of adaptability with the set-up of Dressipi’s personalised emails and proved our success in focusing on the relevancy of product recommendations in line with the current climate.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Email%202%20JL.PNG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 450px;" src ="/uploads/Email%202%20JL.PNG"/></p>
 
 Another COVID-19 driven email campaign was supporting our Italian client OVS’s re-opening of stores, sending emails with a highly tailored edit of each customer’s best clothing selection available in their local store. The aim? - drive more revenue-generating footfall into stores.
  
 These emails were targeted at all store customers (shopping across kidswear, menswear and womenswear) who had not bought anything in the two weeks from when stores re-opened. The campaign has been hugely successful, with data suggesting significant double-digit increases in revenue to stores.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/Email%202%20OVS.PNG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 450px;" src ="/uploads/Email%202%20OVS.PNG"/></p>
 
 As retailers up their digital offering, Dressipi’s ability to support their clients with highly personalised email campaigns is an increasingly attractive solution. Highly flexible and easy to integrate across a range of ESP’s, the results show time and time again that relevant personalised product recommendations and content edits outperform segmentation, enhance the customer experience and more importantly make every email work harder to deliver more revenue and profit.
 
