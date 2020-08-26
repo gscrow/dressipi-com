@@ -12,14 +12,14 @@ tags:
 image: "/uploads/pexels-kaboompics-com-6249%20(2).jpg"
 author: Natalie Theo
 description: With more and more customers moving online, retailers need to leverage
-  their digital offerings to deliver the relevancy that’s not only desired but expected.
+  their digital offering to deliver the relevancy that’s not only desired but expected.
   Dressipi's Style Director, Natalie Theo outlines some of the personalised email
   campaigns we supported our clients with during the crisis.
 ---
 
 As we find ourselves navigating a transformed retail landscape, retailers have been forced to pay microscopic attention to their online capabilities and digital acceleration. 
 
-COVID-19, lockdown restrictions, store closures and new social distancing measures in-store have resulted in a much bigger sector of consumers who are more comfortable shopping online than they were before, borne out of necessity and convenience rather than preference. Add in a store experience reduced to a ‘can’t-try-before-you-buy’ policy and you get retailers needing to adapt quickly and work out how best to leverage their digital offerings to drive the relevancy customers now expect when shopping online.
+COVID-19, lockdown restrictions, store closures and new social distancing measures in-store have resulted in a much bigger sector of consumers who are more comfortable shopping online than they were before, borne out of necessity and convenience rather than preference. Add in a store experience reduced to a ‘can’t-try-before-you-buy’ policy and you get retailers needing to adapt quickly and work out how best to leverage their digital offering to drive the relevancy customers now expect when shopping online.
 
 ## Emails - Not a ‘one size fits all’ approach
 
@@ -42,9 +42,9 @@ During the COVID-19 crisis, our clients needed Dressipi’s support in reacting 
 
 At the start of lockdown, it was anyone’s guess what customer’s shopping propensity would be, however, as the situation changed it became clear that items for wedding guest looks, or day-to-night work dresses, which would normally be suitable content for that time of year, were no longer relevant.
 
-John Lewis has a robust number of regular ‘new in’ SKUs, catering to many different occasions. The fact customers were at home adapting their lifestyles called for a last-minute pivot from previously planned seasonal products and copy to a much more laidback, casual easy-to-wear personalised ‘At-Home Fashion Edit’ email campaign. This campaign saw a massive uplift in metrics, driving an impressive open rate and click-through rate, with some of their best-ever revenue results. 
+John Lewis has a robust number of regular ‘new in’ SKUs, catering to many different occasions. The fact customers were at home adapting their lifestyles called for a last-minute pivot from previously planned seasonal products and copy to a much more laidback, casual easy-to-wear personalised ‘At-Home Fashion Edit’ email campaign. This campaign saw a massive uplift in metrics, driving an impressive open rate and click-through rate, with some of their best-ever email revenue results. 
 
-This campaign with John Lewis demonstrated the ease of adaptability with the set-up of Dressipi’s personalised emails and proved our success in focusing on relevancy in terms of product recommendations and the current climate.
+This campaign with John Lewis demonstrated the ease of adaptability with the set-up of Dressipi’s personalised emails and proved our success in focusing on the relevancy of product recommendations and the current climate.
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 200px;" src ="/uploads/Email%20blog%20JL.png"/></p>
 
@@ -56,6 +56,6 @@ These emails were targeted at all store customers (shopping across kidswear, men
 
 As retailers up their digital offering, Dressipi’s ability to support their clients with highly personalised email campaigns is an increasingly attractive solution. Highly flexible and easy to integrate across a range of ESP’s, the results show time and time again that relevant personalised product recommendations and content edits outperform segmentation, enhance the customer experience and more importantly make every email work harder to deliver more revenue and profit.
 
-If you’d like to talk to us about how we can help your emails be more relevant to every customer then please get in touch.
-
+**If you’d like to talk to us about how we can help your emails be more relevant to every customer then please get in touch.
+**
 <p style="text-align:center"><a href="/contact/" class="button button-primary">Contact Us</a></p>
