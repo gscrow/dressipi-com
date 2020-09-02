@@ -48,14 +48,25 @@
   }
 }
 
+.order-center {
+  order: 0;
+  flex: 100%;
+  padding: 0;
+}
+
+.feature-image-wrapper {
+  display: flex;
+  align-items: center;
+}
+
 // place feature__image to the right on even feature row
 .feature:nth-child(2n) .feature__image {
   order: -1;
 }
 
- .data-insight-index-page {
-   background-color: #ffffff !important;
- }
+.data-insight-index-page {
+  background-color: #ffffff !important;
+}
 
 // tablet responsive styles
 @include responsive(tablet) {
@@ -113,7 +124,6 @@
 }
 
 .slide {
-
   > .container {
     @include flexbox;
   }

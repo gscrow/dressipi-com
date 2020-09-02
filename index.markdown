@@ -25,58 +25,57 @@ sections:
   - OVS
 - title: The Revenue Optimisation Platform
   subtitle: By leveraging intelligent, fashion-specific AI and ML capabilities, Dressipi empowers retailers to meet shopper expectations and drive profitable growth
-  handle: benefits
+  handle: revenue
   subsections:
-  - title: Increase in net incremental revenue per visitor by a minimum of 8%
-    image: "/uploads/icon__report-increase.svg"
-  - title: Reduce returns by 15%
-    image: "/uploads/icon__cash.svg"
-  - title: Increase conversion and frequency of purchase by up to 30%
-    image: "/uploads/icon__shopping-cart.svg"
-  button:
-    copy: Schedule A Free Consultation
-    url: "/contact"
-    style: primary
-- title: Three simple steps to driving profitable growth 
+  - title: Optimise conversion & increase lifetime value
+    number-left: 8%
+    number-left-description: more revenue
+    number-right: 0.5% 
+    number-right-description: more profit
+  - title: Drive better retention & fewer returns
+    number-left: 8%
+    number-left-description: more revenue
+    number-right: 0.5% 
+    number-right-description: more profit
+  - title: Increase sell-through & reduce discounting
+    number-left: 5%
+    number-left-description: gross margin impact
+    number-right: 2% 
+    number-right-description: contributed profit
+    action:
+      copy: Learn More
+      url: "/solutions/overview/"
+      style: primary
+- title: Drive Profitable Growth in 3 Simple Steps
   subtitle: 
   handle: features
   color: light-grey
-  workflows:
-  - title: Personalise product recommendations across your website
-    image: "/uploads/icon__report-increase.svg"
-  - title: Capture and understand product and customer data
-    image: "/uploads/icon__cash.svg"
-  - title: Leverage data to enhance customer experience
-    image: "/uploads/icon__shopping-cart.svg"
+  subsections:
+  - title: 
+    image: "/uploads/customer_experience.png"
+    hres-image: "/uploads/customer_experience@2x.png"
+    order: center
+    action:
+      copy: Find Out How
+      url: "/solutions/overview/"
+- title: Beyond Expectations ROI 
+  subtitle: 
+  handle: features
+  color: light-grey
   subsections:
   - title:
     body: ' "Working with Dressipi is a breath of fresh air. They are straight-forward,
     open, transparent and truly understand that fashion is different from another eCommerce categories
     (such as travel, electronics, groceries ect). They have taken the time to understand how our business 
     works and the best way for River Island to deliver profitable growth."
-    </br>
-    - Gemma Scarfe, Head of eCommerce, River Island
+  
+    #### - Gemma Scarfe, Head of eCommerce, River Island
     '
     image: "/uploads/river-island_0.png"
     hres-image: "/uploads/river-island_0.png"
     action:
-      copy: Schedule A Free Consultation
+      copy: Read Full Story
       url: "/contact/"
-- title: How The Modist Delivered +12% Increase in Revenue Per Visitor with Dressipi Revenue Optimisation Platform 
-  subtitle: 
-  handle: features
-  subsections: 
-  - title:
-    body: Dressipi's Fashion Prediction Platform is based on the biggest and most
-      accurate dataset in the retail industry. Access to a unique database of over
-      5 million connected fashion customers and proprietary product enrichment data
-      leads to better-informed decisions to supply matching, merchandising and acquisition.
-    class: data-insight-index-page
-    action:
-      copy: Schedule A Free Consultation
-      url: "/contact/"
-    image: "/uploads/The%20Modist_Logo.png"
-    hres-image: "/uploads/The%20Modist_Logo.png"
 layout: index
 ---
 

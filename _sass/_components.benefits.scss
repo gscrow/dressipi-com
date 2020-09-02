@@ -10,6 +10,33 @@
   display: flex;
 }
 
+.platform__info {
+  display: block;
+}
+
+.platform__title {
+  align-items: center;
+  display: flex;
+  margin-right: 50px;
+}
+
+.platform__description {
+  padding: 10px;
+}
+
+.platform__gutter {
+  background-color: $background--lighter;
+  display: flex;
+  justify-content: center;
+  padding-top: rhythm(5);
+  padding-bottom: rhythm(5);
+  margin-bottom: 20px;
+}
+
+.benefit__number {
+  font-size: 50px;
+}
+
 .benefit {
   flex: 1;
 
@@ -36,6 +63,10 @@
 
 // tablet responsive styles
 @include responsive(tablet) {
+  .benefit__number {
+    font-size: 30px;
+  }
+
   .benefits {
     align-items: center;
     flex-wrap: wrap;
@@ -52,6 +83,16 @@
 
 // mobile responsive styles
 @include responsive(mobile) {
+  .platform__title {
+    margin-right: 0;
+    margin-bottom: 30px;
+    justify-content: center;
+  }
+
+  .platform__gutter {
+    flex-direction: column;
+  }
+
   .benefit {
     margin-top: rhythm(5);
     flex-basis: 100%;
@@ -60,7 +101,8 @@
       margin-top: 0;
     }
 
-    &__icon, &__title {
+    &__icon,
+    &__title {
       text-align: center;
     }
   }
