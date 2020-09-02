@@ -18,14 +18,25 @@ layout: default
 	  <div class="container{% if section.width %}{{ section.width | prepend: '--' }}{% endif %} gutter">
 		  {{ section.body | markdownify }}
 	  </div>
-
-    <div class="video-wrapper" id="youtube">
-      <div class="video-responsive">
-        <div class="video yt-about"> <iframe width="560" height="315" src="https://www.youtube.com/embed/TeiYCSVS1HQ?rel=0&showinfo=0&color=white&showinfo=0&color=white" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    {% when 'features' %}
+    <div class="features">
+      {% for subsection in section.subsections %}
+      <div class="feature">
+        <div class="container">
+          <div class="gutter feature__image">
+            <div> <!-- keep flex image ratio -->
+              <img src="{{ subsection.image }}" alt="{{ subsection.title }}" {% if subsection.hres-image %}srcset="{{ subsection.hres-image }} 2x"{% endif %} class="feature__image"  />
+            </div>
+          </div>
+          <div class="gutter feature__copy" {% if subsection.align == 'top' %}style="margin:0;padding-top:40px;"{% endif %}>
+            <h2 class="feature__title">{{ subsection.title }}</h2>
+            <div class="feature__body">{{ subsection.body | markdownify }}</div>
+            {% if subsection.action %}<a href="{{ subsection.action.url }}" class="button button-{{ subsection.action.style | default: 'secondary' }}">{{ subsection.action.copy }}</a>{% endif %}
+          </div>
         </div>
       </div>
+      {% endfor %}
     </div>
-
 	  {% when 'why-us' %}
 	  <div class="container proofs">
 	  	<div class="multi-columns {% if section.columns %}span-{{ section.columns | default: '2' }}{% endif %}">
@@ -44,14 +55,17 @@ layout: default
 			{% endfor %}
 			</div>
 	  </div>
-    {% when 'press' %}
+    {% when 'unique' %}
      <ul class="publication__list container publication__breakpoint">
      {% for publication in section.publications %}
-     <li class="publication__wrap smaller__wrap">
+     <li class="publication__wrap">
          <div class="publication__item">
-           <div class="publication__body">
-             <p>{{ publication.title }}</p>
+           <div class="publication__title">
+             <h3>{{ publication.title }}</h3>
            </div>
+           <div class="publication__body">
+            <p>{{ publication.body }}</p>
+          </div>
            {% if publication.image %}
            <div class="publication__logo">
              <div><!-- keep flex image ratio -->
@@ -63,12 +77,34 @@ layout: default
        </li>
      {% endfor %}
      </ul>
+      {% when 'awards' %}
+      <div class="container">
+        <ul class="award__list">
+          {% for award in section.awards %}
+          <li class="award__item">
+            {% if award.image %}
+            <div class="award__image">
+              <div><!-- keep flex image ratio -->
+                <img src="{{ award.image }}" alt="{{ award.title }}" />
+              </div>
+            </div>
+            {% endif %}
+            <div class="award__body">
+            {{ award.title | markdownify }}
+            </div>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    
 	  {% when nil %}
 	  <div class="container{% if section.width %}{{ section.width | prepend: '--' }}{% endif %} gutter">
 		  {{ section.body | markdownify }}
 	  </div>
 	  {% endcase %}
   </div>
+
+
 
   {% if section.button %}
   <!-- section footer group -->

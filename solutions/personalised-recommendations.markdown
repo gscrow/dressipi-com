@@ -1,5 +1,5 @@
 ---
-title: Personalised Recommendation
+title: Personalised Recommendations
 position: 2
 header:
   title: The Right Product, in the Right Size, at the Right Time 

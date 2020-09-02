@@ -3,105 +3,82 @@ title: About Us
 date: 2017-05-06 09:50:00 Z
 position: 1
 header:
-  title: Accelerating Fashion Retailers To Be Predictive
-  body: "### Dressipi is proud to be known as the world’s only Fashion Prediction
-    Platform, accelerating leading fashion retailers to be truly predictive. This
-    enables retailers to be more profitable, more customer-centric and more efficient."
+  title: We are Dressipi
+  body: "### We drive profitable growth for fashion retailers"
   button:
-    copy: Schedule A Free Consultation
-    url: "/contact"
+    copy: 
+    url: 
   hero-image: "/uploads/banner_style-hub.jpg"
-  link:
-    copy: Watch Video
-    url: "#youtube"
-  color: "#F0F0F0"
 description: Dressipi is proud to be known as the world's only Fashion Prediction
   Platform. Discover its history and learn what makes it unique.
 sections:
-- title: Dressipi's Mission
-  handle: intro
-  width: narrow
-  body: "> Leaders in personalisation such as Netflix and Spotify have raised the
-    bar in terms of relevancy and experience, but what about fashion?\n\nConsumer’s
-    expectations and the relationships they have with brands are changing rapidly,
-    and retailers need to keep up. \n\nWith technology developed by one of the most
-    talented teams of technologists, data scientists and stylists, Dressipi's mission
-    is to build a solution that solves fashion prediction which is one of the most
-    complex categories. \n\nInnovation and adaptability are key. Dressipi's solution
-    is an ensemble of algorithms that constantly evolve and integrate newly discovered
-    methods along with proprietary algorithms. This future-proofs a retailer’s personalisation
-    roadmap and reflects how fashion and customer requirements evolve over time."
-- title: What Sets Dressipi Apart
-  handle: why-us
-  columns: 2
+- title: 
+  handle: features
+  color: light-grey
   subsections:
-  - title: Predictive Retail
-    body: Predictive Retailing is the future of retail and the next step up from 1-2-1
-      Personalisation.
-    link:
-      copy: Learn more
-      url: "/solutions/predictive-retail"
-  - title: Open Platform
-    body: Dressipi's platform wraps around your existing infrastructure to improve
-      ROI from all other platforms.
-    link:
-      copy: Learn more
-      url: "/platform"
-  - title: Collaborative
-    body: The world's only cross domain personal styling solution, allowing for the
-      collaboration and connection of  data across all participating retailers and
-      all channels wherever that customer is shopping or browsing.
-    link:
-      copy: Learn more
-      url: "/solutions/personalised-recommendation/"
-  - title: Unique Database
-    body: Dressipi has the most extensive database of proprietary garment data and
-      fashion-specific customer data that exists in the world today, powering billions
-      of product and outfit predictions every year.
-    link:
-      copy: Learn more
-      url: "/platform"
-  - title: Fashion Domain Expertise
-    body: Dressipi understands that fashion and how customers think of fashion changes
-      with time, inspiration and context. Built to solve fashion prediction, Dressipi's
-      algorithms take account of fashion-specific information, updated by some of
-      the industry’s most renowned stylists. This represents a key differentiator,
-      resulting in consistently outperforming competitors who take a general approach
-      to personalisation.
-    link:
-      copy: Learn more
-      url: https://www.youtube.com/watch?v=cBoJSADjxjY
-  - title: Continual Learning
-    body: Dressipi has spent 5 years developing ever-evolving fashion specific ML
-      and AI for predicting customer needs and delivering exceptional experiences.
-      Each individual customer has their own model which continually learns and evolves
-      with their lifestyle, fashion requirements, activity, purchase and preference
-      data.
-    link:
-      copy: Learn more
-      url: "/solutions/data-insight"
-  button:
-    copy: Schedule A Free Consultation
-    url: "/contact"
-    style: primary
-- title: Dressipi in the Media
+  - title: Retail is Evolving.
+    body: |-
+      "Customers are demanding greater curation of products and less wastage. 
+      Machine learning and AI are helping the smartest retailers capture deeper insights, anticipate customer needs and proactively develop more efficient supply chains. 
+      "
+    image: "/uploads/customer_experience@2x.png"
+  - title: Our Mission
+    body: |
+      "We set up Dressipi to help the fashion industry change.
+      Our mission is to transform how retailers engage with their customers through deeper, entirely personalised experiences; and use data to advance the buying and merchandising processes. 
+      We believe this combination optimises demand and supply, giving retailers the profitability to invest in creating better products and services, and to tackle the issue of waste in the industry.
+      We deliver genuine results, quickly and work with the world’s leading retailers. 
+      "
+    image: "/uploads/dressipi_dashboard_desktop.png"
+    hres-image: "/uploads/dressipi_dashboard_desktop@2x.png"
+- title: Our Unique Benefits
   body: "### The following represent some of the publications and websites that have
     covered our innovative solutions."
-  handle: press
+  handle: unique
   publications:
-  - title: '"Retail isn''t just about e-commerce anymore. Here are the Top UK companies
-      switching up the fashion game"'
-    image: "/uploads/ES_png.png"
-  - title: "“Fashion turns to data analytics to cut number of returned items”"
-    image: "/uploads/logo__financial-times.svg"
-  - title: "“One of Britain’s top tech firms growing 1,000pc a year”"
-    image: "/uploads/logo__the-telegraph.svg"
-  - title: "“How Retail Changes When Algorithms Curate Everything We Buy”"
-    image: "/uploads/HBR_logo_black.svg"
+  - title: "Fashion Focussed"
+    body: "Fashion is always evolving with time and inspiration. Dressipi has spent years delivering fashion-specific algorithms, drawing on the expertise of some of the industry’s top stylists and experts. This focus on fashion is a key differentiator and why we consistently outperform our competitors’ general, cross industry approach."
+  - title: "Unique Datasets & Pipelines"
+    body: "Machine learning and AI solutions are only as good as the data that feeds them. Dressipi owns the most extensive dataset of garment attributes and fashion-specific customer preferences. Our ability to ingest, cleanse, and augment huge quantities of data from various sources, in real-time, is at the heart of our platform."
+  - title: "Proven Track Record"
+    body: "We have a proven track record of delivering value quickly, with results that are always externally validated. We’ve won leading industry awards and have been covered by some of the world’s most well respected publications."
+- title: Our Achievements
+  subtitle: 
+  handle: awards
+  awards:
+  - image: "/uploads/Screenshot%202019-12-09%20at%2017.11.03.png"
+    title: Top 100 eCommerce Trailblazers (BusinessCloud)
+  - image: "/uploads/award__millenial1.jpg"
+    title: Best Connected Experience of the Year   Winner
+  - image: "/uploads/tech-london-advocates-logo-black-09fced.png"
+    title: Top 50 UK Retail Tech Businesses
+  - image: "/uploads/rs_awards_Shortlisted_2018_outlines%20(1).jpg"
+    title: |-
+      Retail Partnership of the Year (Online)
+      Winner
+  - image: "/uploads/computing.png"
+    title: Mobile Project of the Year - Finalist
+  - image: "/uploads/award__millenial.png"
+    title: "Best Innovation Commerce - Enabler    \nBest Retail Solution - Finalist"
+  - image: "/uploads/RW_AWARDS_LOGO_FINALIST_Small-92d0cf.png"
+    title: Customer Innovation - Finalist
+  - image: "/uploads/award__silver-tech-2017.png"
+    title: In-store CX Initiative of the Year - Silver Winner
+  - image: "/uploads/award__world-retail-2017.png"
+    title: The Rodney Fitch Award for Innovation & Creativity 2017 - Finalist
+  - image: "/uploads/award__cogx.png"
+    title: Best AI Product in Fashion - Winner
+  - image: "/uploads/award__every-woman.png"
+    title: Entrepreneur Award - Winner
+  - image: "/uploads/award__retailweek.png"
+    title: Best Customer Experience - Finalist
+  - image: "/uploads/award__internet-retailing-2015.png"
+    title: The Service Award - Finalist
+- title: Our Opportunities
+  body: "We are always looking for outstanding individuals from diverse backgrounds who want to be part of our fantastic team"
   button:
-    copy: See More
-    url: "/news"
-    style: secondary
+    copy: Find out more
+    url: "/about/careers/"
 layout: about
 ---
 
