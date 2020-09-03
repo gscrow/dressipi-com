@@ -25,6 +25,7 @@
     padding: rhythm(2);
     background: $background--lighter;
     text-align: center;
+    height: 80px;
 
     > span {
       font-size: ms(-1);
@@ -49,8 +50,9 @@
     max-height: 240px;
   }
 
-  &__logo {
-    display: none;
+  &__logo.wallis {
+    max-width: 45%;
+    margin: 0 auto;
   }
 
   &__footer {
@@ -63,7 +65,7 @@
   }
 }
 
-@media screen and (max-width:910px) and (min-width:800px) {
+@media screen and (max-width: 910px) and (min-width: 800px) {
   .case-study {
     max-width: calc-columns-width(2);
   }
@@ -78,7 +80,7 @@
       margin-left: $tablet-gutter-width / 2;
     }
 
-    &__header{
+    &__header {
       span {
         height: auto;
       }
@@ -95,7 +97,7 @@
       margin-left: $mobile-gutter-width / 2;
     }
 
-    &__header{
+    &__header {
       span {
         height: auto;
       }

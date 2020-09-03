@@ -34,7 +34,6 @@ sections:
   - River Island
   - OVS
 - title: Success Stories
-  subtitle: test
   handle: success-stories
   downloads:
   - Personalisation Drives Profitable Growth for River Island
