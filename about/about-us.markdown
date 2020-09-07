@@ -18,17 +18,17 @@ sections:
   subsections:
   - title: Retail is Evolving.
     body: |-
-      "Customers are demanding greater curation of products and less wastage. 
+      <p style="font-weight: bold;">  Customers are demanding greater curation of products and less wastage </p>
       Machine learning and AI are helping the smartest retailers capture deeper insights, anticipate customer needs and proactively develop more efficient supply chains. 
-      "
+      
     image: "/uploads/customer_experience@2x.png"
   - title: Our Mission
-    body: |
-      "We set up Dressipi to help the fashion industry change.
-      Our mission is to transform how retailers engage with their customers through deeper, entirely personalised experiences; and use data to advance the buying and merchandising processes. 
-      We believe this combination optimises demand and supply, giving retailers the profitability to invest in creating better products and services, and to tackle the issue of waste in the industry.
+    body: |-
+      <p style="font-weight: bold;"> We set up Dressipi to help the fashion industry change. </p>
+      Our mission is to transform how retailers engage with their customers through deeper, entirely personalised experiences; and use data to advance the buying and merchandising processes. <br/><br/>
+      We believe this combination optimises demand and supply, giving retailers the profitability to invest in creating better products and services, and to tackle the issue of waste in the industry. <br/><br/>
       We deliver genuine results, quickly and work with the world’s leading retailers. 
-      "
+
     image: "/uploads/dressipi_dashboard_desktop.png"
     hres-image: "/uploads/dressipi_dashboard_desktop@2x.png"
 - title: Our Unique Benefits
@@ -46,6 +46,8 @@ sections:
   subtitle: 
   handle: awards
   awards:
+  - image: "/uploads/business-cloud.png"
+    title: Business Cloud London Tech 50 2020
   - image: "/uploads/Screenshot%202019-12-09%20at%2017.11.03.png"
     title: Top 100 eCommerce Trailblazers (BusinessCloud)
   - image: "/uploads/award__millenial1.jpg"
@@ -56,28 +58,13 @@ sections:
     title: |-
       Retail Partnership of the Year (Online)
       Winner
-  - image: "/uploads/computing.png"
-    title: Mobile Project of the Year - Finalist
-  - image: "/uploads/award__millenial.png"
-    title: "Best Innovation Commerce - Enabler    \nBest Retail Solution - Finalist"
   - image: "/uploads/RW_AWARDS_LOGO_FINALIST_Small-92d0cf.png"
     title: Customer Innovation - Finalist
-  - image: "/uploads/award__silver-tech-2017.png"
-    title: In-store CX Initiative of the Year - Silver Winner
-  - image: "/uploads/award__world-retail-2017.png"
-    title: The Rodney Fitch Award for Innovation & Creativity 2017 - Finalist
-  - image: "/uploads/award__cogx.png"
-    title: Best AI Product in Fashion - Winner
-  - image: "/uploads/award__every-woman.png"
-    title: Entrepreneur Award - Winner
-  - image: "/uploads/award__retailweek.png"
-    title: Best Customer Experience - Finalist
-  - image: "/uploads/award__internet-retailing-2015.png"
-    title: The Service Award - Finalist
 - title: Our Opportunities
-  body: "We are always looking for outstanding individuals from diverse backgrounds who want to be part of our fantastic team"
+  body: |-
+   <p style="text-align: center; max-width: 600px; margin: 0 auto;">We are always looking for outstanding individuals from diverse backgrounds who want to be part of our fantastic team </p>
   button:
-    copy: Find out more
+    copy: Careers
     url: "/about/careers/"
 layout: about
 ---

@@ -23,7 +23,7 @@
   }
 
   &__item {
-    text-align: center;
+    text-align: left;
     padding: rhythm(3);
     display: flex;
     flex-direction: column;
@@ -31,10 +31,10 @@
   }
 
   &__body {
+    text-align: left;
     flex: 1;
 
     > p {
-      font-style: italic;
       margin: 0;
     }
   }
