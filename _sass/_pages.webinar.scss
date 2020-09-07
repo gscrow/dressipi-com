@@ -1,20 +1,5 @@
 .video-page {
   .gutter {
-    .section__heading {
-      &::after {
-        position: absolute;
-        right: 0;
-        bottom: -16px;
-        left: 0;
-        width: 32px;
-        height: 4px;
-        margin: auto;
-        content: "";
-        border-radius: 2px;
-        background: $brand-primary-color;
-      }
-    }
-
     .container--host {
       display: flex;
       flex-wrap: nowrap;
