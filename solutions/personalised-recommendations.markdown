@@ -1,6 +1,7 @@
 ---
 title: Personalised Recommendations
 position: 2
+navigation: solution-footer
 header:
   title: The Right Product, in the Right Size, at the Right Time 
   body: |

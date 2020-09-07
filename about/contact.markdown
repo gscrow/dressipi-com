@@ -2,7 +2,7 @@
 title: Contact
 date: 2017-05-06 09:50:00 Z
 position: 4
-navigation: footer
+navigation: company-footer
 header:
   height: tight
 description: Get in touch if you have any questions about how Dressipi can help start

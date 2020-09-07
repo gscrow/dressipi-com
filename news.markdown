@@ -2,7 +2,6 @@
 title: News
 date: 2017-05-06 09:59:00 Z
 position: 7
-navigation: footer
 header:
   title: Dressipi in the Media
   body: "### The following represent some of the publications and websites that have

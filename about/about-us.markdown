@@ -2,6 +2,7 @@
 title: About Us
 date: 2017-05-06 09:50:00 Z
 position: 1
+navigation: company-footer
 header:
   title: We are Dressipi
   body: "### We drive profitable growth for fashion retailers"
