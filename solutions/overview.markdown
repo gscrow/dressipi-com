@@ -7,8 +7,7 @@ header:
     Leveraging Data to Enhance and Personalise the Customer Experience
   hero-image: "/uploads/banner_style-hub.jpg"
   color: "#F0F0F0"
-description: Discover the key features of Dressipi's Fashion Prediction Platform and
-  see what benefits it can bring to your business.
+description: Leveraging Data to Enhance and Personalise the Customer Experience
 sections:
 - title: 
   handle: overview
@@ -28,7 +27,7 @@ sections:
       url: "/solutions/data-insight/"
 - title: "One Platform. Limitless Integrations"
   handle: solutions
-  subtitle: Dressipi’s powerful APIs enable seamless integration into existing enterprise platforms so you can quickly drive profitable growth across the entire value chain.
+  subtitle: Dressipi’s powerful APIs enable seamless integration into existing enterprise platforms so you can quickly drive profitable growth across the entire value chain
   subsections:
   - title: 
     branch: platform-integrations

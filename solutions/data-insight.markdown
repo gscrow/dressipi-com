@@ -2,18 +2,17 @@
 title: Data Insight Hub
 position: 3
 header:
-  title: Increasing Sell Through. Reducing Discounting. Driving Profitability.
-  body: "Dressipi’s Data Insight Hub moves retailers from their traditional spreadsheet limitations to real time, deeper insights about customers, transactions, returns and operations, without any coding or IT intervention."
+  title: Increasing Sell Through. Reducing Discounting. Driving Profitability
+  body: "Dressipi’s Data Insight Hub moves retailers from their traditional spreadsheet limitations to real time, deeper insights about customers, transactions, returns and operations, without any coding or IT intervention"
   hero-image: "/uploads/banner_data-insights.png"
-description: Dressipi has the most extensive database of proprietary garment data
-  and fashion-specific customer data that exists in the world today. Learn more.
+description: Dressipi’s Data Insight Hub moves retailers from their traditional spreadsheet limitations to real time, deeper insights about customers, transactions, returns and operations, without any coding or IT intervention
 sections:
 - title: Key Features
   handle: features
   color: light-grey
   subsections:
   - title: Returns Analysis
-    subtitle: Gain better understanding into what drives returns and ways to reduce them.
+    subtitle: Gain better understanding into what drives returns and ways to reduce them
     body: |
       What are the biggest triggers for your returns? Get more accurate and targeted insights that break down returns data, analysing the causes at both category and product level, along with practical ways to reduce them.
     image: "/uploads/customer_data.png"
@@ -22,7 +21,7 @@ sections:
       copy: Tell me more
       url: "/resources/guides/"
   - title: Smarter Overstock Strategy 
-    subtitle: Optimise when, how and who you discount to.
+    subtitle: Optimise when, how and who you discount to
     body: |-
       Dressipi's proprietary garment enrichment data created by real stylists is a world first. Each garment receives up to 35 data points which are checked and validated by an in-house stylist team.
 

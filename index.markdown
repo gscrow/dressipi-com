@@ -1,20 +1,18 @@
 ---
-title: Dressipi Fashion Prediction Platform
+title: Driving Profitable Growth For Fashion Retailers
 position: 0
 header:
   title: Driving Profitable Growth For Fashion Retailers
-  body: "## The leading, independently verified revenue optimisation platform for fashion retailers. ."
+  body: "## The leading, independently verified Revenue Optimisation Platform for fashion retailers"
   button:
     copy: Schedule A Free Consultation
     url: "/contact"
   hero-image: "/uploads/banner__home.jpg"
-description: "Dressipi is the world's only Fashion Prediction Platform designed to
-  help retailers predict what their customers will buy and not return, optimising
-  profitability and giving shoppers the best possible experience.\n\n"
+description: The leading, independently verified Revenue Optimisation Platform for fashion retailers"
 has-contact-section: false
 sections:
 - title: With Dressipi you’re in Fashionable Company
-  subtitle: We help the world’s leading brands to reduce costs and grow profitably. 
+  subtitle: We help the world’s leading brands reduce costs and grow profitably 
   handle: clients
   clients:
   - John Lewis
@@ -24,7 +22,7 @@ sections:
   - River Island
   - OVS
 - title: The Revenue Optimisation Platform
-  subtitle: By leveraging intelligent, fashion-specific AI and ML capabilities, Dressipi empowers retailers to meet shopper expectations and drive profitable growth
+  subtitle: By leveraging intelligent, fashion-specific AI and machine learning capabilities,</br> Dressipi empowers retailers to meet shopper expectations and drive profitable growth
   handle: revenue
   subsections:
   - title: Optimise conversion & increase lifetime value
@@ -33,9 +31,9 @@ sections:
     number-right: 0.5% 
     number-right-description: more profit
   - title: Drive better retention & fewer returns
-    number-left: 8%
+    number-left: N%
     number-left-description: more revenue
-    number-right: 0.5% 
+    number-right: N%
     number-right-description: more profit
   - title: Increase sell-through & reduce discounting
     number-left: 5%

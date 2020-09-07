@@ -9,8 +9,7 @@ header:
     copy: 
     url: 
   hero-image: "/uploads/banner_style-hub.jpg"
-description: Dressipi is proud to be known as the world's only Fashion Prediction
-  Platform. Discover its history and learn what makes it unique.
+description: We drive profitable growth for fashion retailers.
 sections:
 - title: 
   handle: features
