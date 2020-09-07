@@ -62,7 +62,7 @@ sections:
     title: Customer Innovation - Finalist
 - title: Our Opportunities
   body: |-
-   <p style="text-align: center; max-width: 600px; margin: 0 auto;">We are always looking for outstanding individuals from diverse backgrounds who want to be part of our fantastic team </p>
+   <p style="text-align: center; max-width: 600px; margin-left: auto; margin-right: auto;">We are always looking for outstanding individuals from diverse backgrounds who want to be part of our fantastic team </p>
   button:
     copy: Careers
     url: "/about/careers/"
