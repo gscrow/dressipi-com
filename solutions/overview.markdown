@@ -2,23 +2,21 @@
 title: Overview
 position: 1
 header:
-  title: Predictive Retail
-  body: |-
-    Leveraging Data to Enhance and Personalise the Customer Experience
+  title: Leveraging Data to Enhance and Personalise the Customer Experience 
   hero-image: "/uploads/banner_style-hub.jpg"
   color: "#F0F0F0"
 description: Leveraging Data to Enhance and Personalise the Customer Experience
 sections:
 - title: 
   handle: overview
-  subtitle: With always-on customers, retailers need to better understand their preferences, anticipate demand faster and personalise all touch points to stay ahead. The ability to ingest, cleanse, and augment huge quantities of data from multiple sources is at the very heart of the Dressipi Revenue Optimisation Platform.
+  subtitle: With always-on customers, retailers need to better understand their preferences, anticipate demand faster and personalise all touch points to stay ahead. </br> The ability to ingest, cleanse, and augment huge quantities of data from multiple sources is at the very heart of the Dressipi Revenue Optimisation Platform
   subsections:
   - title: Personalised Recommendations
     image: 
     body: "Anticipate customer needs and build deeper engagement across every touchpoint: online, instore, in app and email."
     action:
       copy: Find Out How
-      url: "/solutions/personalised-recommendation/"
+      url: "/solutions/personalised-recommendations/"
   - title: Data Insight Hub
     image: 
     body: "Access real-time insights and actionable knowledge to optimise value at each step of the merchandising and buying process."
@@ -43,13 +41,13 @@ sections:
   handle: benefits
   subsections:
   - title: 
-    body: Dressipi lines up with your KPIs to support you in prioritising which solution to get started with.
+    body: Dressipi lines up with your KPIs to support you in prioritising which solution to get started with
     image: "/uploads/icon__report-increase.svg"
   - title: 
-    body: Easily integrates with your existing systems so no need for heavy IT lifting.
+    body: Easily integrates with your existing systems so no need for heavy IT lifting
     image: "/uploads/icon__user-love.svg"
   - title: 
-    body: Ongoing support throughout onboarding and beyond by our team of friendly experts.
+    body: Ongoing support throughout onboarding and beyond by our team of friendly experts
     image: "/uploads/icon__hanger.svg"
     class: hanger-icon
     action:
