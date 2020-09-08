@@ -31,7 +31,7 @@ layout: default
             <p class="benefit__description">{{ subsection.number-right-description}}</p>
           </div>
         </div>
-        {% if subsection.action %}<a href="{{ subsection.action.url }}" class="button button-{{ subsection.action.style | default: 'primary' }}">{{ subsection.action.copy }}</a>{% endif %}
+        {% if subsection.action %}<a href="{{ subsection.action.url }}" class="button button--medium button-{{ subsection.action.style | default: 'primary' }}">{{ subsection.action.copy }}</a>{% endif %}
       {% endfor %}
     </div>
     {% when 'features' %}
@@ -68,7 +68,7 @@ layout: default
             </div>
           </div>
           <div class="container features-container">
-          {% if subsection.action %}<a href="{{ subsection.action.url }}" class="button button-{{ subsection.action.style | default: 'primary' }}">{{ subsection.action.copy }}</a>{% endif %}
+          {% if subsection.action %}<a href="{{ subsection.action.url }}" class="button button--medium button-{{ subsection.action.style | default: 'primary' }}">{{ subsection.action.copy }}</a>{% endif %}
         </div>
         </div>
       {% endfor %}

@@ -40,7 +40,7 @@ assign my_page_url = page.url | remove: '/' %}
             </div>
             <div class="overview-section__image"><img src="{{ download.testimonial.author.image }}" /></div>
             <div class="overview-section__body"><p>{{ subsection.body }}</p></div>
-            {% if subsection.action %}<a href="{{ subsection.action.url }}" class="button button-{{ subsection.action.style | default: 'primary' }} text--center">{{ subsection.action.copy }}</a>{% endif %}
+            {% if subsection.action %}<a href="{{ subsection.action.url }}" class="button button--medium {{ subsection.action.style | default: 'primary' }} text--center">{{ subsection.action.copy }}</a>{% endif %}
           </div>
         </li>
       {% endfor %}
@@ -70,7 +70,7 @@ assign my_page_url = page.url | remove: '/' %}
             {% endfor %}
             </ul>
             {% endif %}
-		        {% if subsection.action %}<a href="{{ subsection.action.url }}" class="button button-{{ subsection.action.style | default: 'secondary' }}">{{ subsection.action.copy }}</a>{% endif %}
+		        {% if subsection.action %}<a href="{{ subsection.action.url }}" class="button button--medium button-{{ subsection.action.style | default: 'secondary' }}">{{ subsection.action.copy }}</a>{% endif %}
 		      </div>
 		    </div>
 		  </div>
@@ -128,7 +128,7 @@ assign my_page_url = page.url | remove: '/' %}
             <div class="slide__body">{{ subsection.body | markdownify }}</div>
             {% if subsection.action %}<a
               href="{{ subsection.action.url }}"
-              class="button button-{{ subsection.action.style | default: 'secondary' }}"
+              class="button button--medium button--primary button-{{ subsection.action.style }}"
               >{{ subsection.action.copy }}</a
             >{% endif %}
           </div>
@@ -171,7 +171,7 @@ assign my_page_url = page.url | remove: '/' %}
         <div class="container features-container text--center" >
           {% if subsection.action %}<a
           href="{{ subsection.action.url }}"
-          class="button button-{{ subsection.action.style | default: 'primary' }} text--center"
+          class="button button--medium button-{{ subsection.action.style | default: 'primary' }} text--center"
           >{{ subsection.action.copy }}</a
           >{% endif %}
         </div>
@@ -198,7 +198,7 @@ assign my_page_url = page.url | remove: '/' %}
     {% for subsection in section.subsections %}
     <div class="container benefits-container text--center" >
     {% if subsection.action %}
-    <a href="{{ subsection.action.url }}" class="button button-{{ subsection.action.style | default: 'primary' }}">{{ subsection.action.copy }}</a>
+    <a href="{{ subsection.action.url }}" class="button button--medium button-{{ subsection.action.style | default: 'primary' }}">{{ subsection.action.copy }}</a>
     {% endif %}
     </div>
     {% endfor %}
@@ -216,7 +216,7 @@ assign my_page_url = page.url | remove: '/' %}
   <div class="container section__footer text--center">
     <a
       href="{{ section.button.url }}"
-      class="button button--medium button-{{ section.button.style | default: 'secondary' }}"
+      class="button button--medium button--medium button-{{ section.button.style | default: 'primary' }}"
       >{{ section.button.copy }}</a
     >
   </div>

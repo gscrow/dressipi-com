@@ -111,7 +111,7 @@ sections:
     image: "/uploads/James%20Tuck%20Photo.jpg"
   button:
     copy: Join Our Team
-    url: "/careers"
+    url: "/about/careers/"
 layout: team
 ---
 
