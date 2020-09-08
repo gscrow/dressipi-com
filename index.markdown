@@ -12,7 +12,7 @@ description: The leading, independently verified Revenue Optimisation Platform f
 has-contact-section: false
 sections:
 - title: With Dressipi you’re in Fashionable Company
-  subtitle: We help the world’s leading brands reduce costs and grow profitably 
+  subtitle: We help the world’s leading brands reduce costs and grow profitably
   handle: clients
   clients:
   - John Lewis

@@ -22,7 +22,7 @@ sections:
     body: "Access real-time insights and actionable knowledge to optimise value at each step of the merchandising and buying process."
     action:
       copy: Find Out How
-      url: "/solutions/data-insight/"
+      url: "/solutions/data-insight-hub/"
 - title: "One Platform. Limitless Integrations"
   handle: solutions
   subtitle: Dressipi’s powerful APIs enable seamless integration into existing enterprise platforms so you can quickly drive profitable growth across the entire value chain
