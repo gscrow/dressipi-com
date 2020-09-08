@@ -8,25 +8,22 @@ description: "Dressipi's long-term clients are some of the world’s leading ret
 These brands share a common goal of seeking to offer their customers unbeatable
 experiences by delivering best in class recommendations and prediction scores."
 header:
-  title: Accelerating Fashion Retailers to Be Predictive
-  body: Dressipi's long-term clients are some of the world’s leading retail brands.
-    These brands share a common goal of seeking to offer their customers unbeatable
-    experiences by delivering best in class recommendations and prediction scores.
+  title: How River Island Achieved  +3.2% uplift in revenue per visitor and +20% AOV increase with Dressipi’s Revenue Optimisation Platform.
   button:
     copy: Schedule A Free Consultation
     url: "/contact"
     style: primary
   hero-image: "/uploads/River_Island_Case_Study_Image_XS.jpg"
   link:
-    copy: Success Story
-    url: "/contact"
+    copy: Read Full Story
+    url: "/downloads/personalisation-drives-profitable-growth-for-river-island/"
   color: "#F0F0F0"
 description: "Dressipi's long-term clients are some of the world’s leading retail brands.
 These brands share a common goal of seeking to offer their customers unbeatable
 experiences by delivering best in class recommendations and prediction scores."
 sections:
-- title: Trusted by leading brands
-  subtitle: 
+- title: With Dressipi you’re in Fashionable Company
+  subtitle: We help the world’s leading brands reduce costs and grow profitably 
   handle: clients
   clients:
   - John Lewis
@@ -41,8 +38,10 @@ sections:
   - Personalisation Drives Profitable Growth for River Island
   - Delivering a Personalised Shopping Experience to The Modist
   - Accelerating Wallis to be Truly Predictive
-
-
+- title: Want to Get Started?
+  button:
+    copy: Schedule A Free Consultation
+    url: "/contact"
 layout: customers
 ---
 

@@ -6,10 +6,19 @@ layout: default
 {% assign handle = section.handle %}
 <section id="{{ handle }}" class="section {% if handle %}{{ section.handle | prepend: 'section-' | append: ' ' }}{% endif %}background--{{ section.color | default:'white' }}">
   <!-- section heading group -->
-  <hgroup class="container gutter section__heading">
+  
+  {% if section.button %}
+  <hgroup class="container gutter section__heading" style="margin-bottom:0;">
     {% if section.title %}<h3>{{ section.title }}</h3>{% endif %}
     {% if section.subtitle %}<h4>{{ section.subtitle }}</h4>{% endif %}
   </hgroup>
+  {% else %}
+   <hgroup class="container gutter section__heading">
+      {% if section.title %}<h3>{{ section.title }}</h3>{% endif %}
+     {% if section.subtitle %}<h4>{{ section.subtitle }}</h4>{% endif %}
+    </hgroup>
+  {% endif %}
+
   {% unless page.header.button.copy == nil %}
   <div class="header__button-group">
     {% if subsection.link %}<a href="{{ subsection.link.url }}" class="header__link anchor-link">{{ subsection.link.copy }}</a>{% endif %}
@@ -87,7 +96,7 @@ layout: default
   {% if section.button %}
   <!-- section footer group -->
   <div class="container section__footer text--center">
-    <a href="{{ section.button.url }}" class="button button--medium button-{{ section.button.style | default: 'secondary' }}">{{ section.button.copy }}</a>
+    <a href="{{ section.button.url }}" class="button button--medium button-{{ section.button.style | default: 'primary' }}">{{ section.button.copy }}</a>
   </div>
   {% endif %}
 </section>
