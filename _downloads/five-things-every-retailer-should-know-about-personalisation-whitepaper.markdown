@@ -6,14 +6,14 @@ resource: Guides
 image: "/uploads/Five_Things_Whitepaper_small.jpg"
 form:
   title: Download Free Whitepaper
-  button: Download Guides
+  button: Download
   file: "/uploads/Dressipi-Whitepaper-Five-Things-Every-Retailer-Should-Know-About-Personalisation-a8c06d.pdf"
   checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services
   button_class: whitepaper
   linkedin_tracking: 
 testimonial:
-  action: Download Guides
+  action: Download
 position-list: 4
 ---
 

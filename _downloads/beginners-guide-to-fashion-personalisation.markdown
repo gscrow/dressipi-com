@@ -13,7 +13,7 @@ form:
     products and services
   button_class: whitepaper
 testimonial:
-  action: Download Guides
+  action: Download
 ---
 
 # Beginner's Guide to Fashion Personalisation
