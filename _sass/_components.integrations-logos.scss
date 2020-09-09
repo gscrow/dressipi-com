@@ -8,13 +8,22 @@
   }
 
   &__logo {
-    width: 15%;
+    max-width: 17%;
     margin-right: 120px !important;
+    margin-bottom: 30px !important;
     min-width: 120px;
 
     &:before {
       display: none;
     }
+  }
+}
+
+.cheetah,
+.google-tag-manager,
+.intelligent-reach {
+  img {
+    max-width: 150%;
   }
 }
 
