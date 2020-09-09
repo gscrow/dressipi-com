@@ -12,8 +12,9 @@ layout: default
     {% if section.subtitle %}<h4>{{ section.subtitle }}</h4>{% endif %}
   </hgroup>
   {% else %}
+  {% if section.title %}
    <hgroup class="container gutter section__heading">
-      {% if section.title %}<h3>{{ section.title }}</h3>{% endif %}
+     <h3>{{ section.title }}</h3>{% endif %}
      {% if section.subtitle %}<h4>{{ section.subtitle }}</h4>{% endif %}
     </hgroup>
   {% endif %}

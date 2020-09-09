@@ -25,7 +25,6 @@ sections:
     subtitle: '<p style="font-weight: bold;">Optimise when, how and who you discount to</p>'
     body: |-
       Get rid of blanket sales and maximise your sell-through to protect margins.
-      
       Identify the optimum time to markdown a product, the recommended percentage to use and a distribution method that matches the right products to the right customers.
 
     image: "/uploads/garment_data.png"
@@ -46,13 +45,13 @@ sections:
   handle: benefits
   subsections:
   - title: 
-    body: Easy onboarding by our team of friendly experts.
+    body: Easy onboarding by our team of friendly experts
     image: "/uploads/icon__report-increase.svg"
   - title: 
-    body: Start with one solution, prove ROI and then roll out everywhere.
+    body: Start with one solution, prove ROI and then roll out everywhere
     image: "/uploads/icon__user-love.svg"
   - title: 
-    body: Quick results.
+    body: Quick results
     image: "/uploads/icon__hanger.svg"
     class: hanger-icon
     action:
