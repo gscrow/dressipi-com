@@ -9,7 +9,7 @@ description: Leveraging Data to Enhance and Personalise the Customer Experience
 sections:
 - title: 
   handle: overview
-  overview-subtitle: With always-on customers, retailers need to better understand their preferences, anticipate demand faster and personalise all touch points to stay ahead. </br> The ability to ingest, cleanse, and augment huge quantities of data from multiple sources is at the very heart of the Dressipi Revenue Optimisation Platform
+  overview-subtitle: With always-on customers, retailers need to better understand their preferences, anticipate demand faster and personalise all touch points to stay ahead. </br> The ability to ingest, cleanse, and augment huge quantities of data from multiple sources is at the very heart of the Dressipi Revenue Optimisation Platform.
   subsections:
   - title: Personalised Recommendations
     image: 
@@ -23,7 +23,7 @@ sections:
     action:
       copy: Find Out How
       url: "/solutions/data-insight-hub/"
-- title: "One Platform. Limitless Integrations"
+- title: "One Platform. Limitless Integrations."
   handle: solutions
   subtitle: Dressipi’s powerful APIs enable seamless integration into existing enterprise platforms so you can quickly drive profitable growth across the entire value chain
   subsections:
