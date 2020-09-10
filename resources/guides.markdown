@@ -5,7 +5,7 @@ permalink: "/resources/guides/"
 position: 3
 footer-position: 2
 header:
-  title: Dressipi Blog
+  title: Dressipi Guides
 navigation: resource-footer
 description: 'Our Guides will give you a deeper understanding of Dressipi and
   expert opinion on the latest advancements in fashion personalisation. '
