@@ -17,7 +17,7 @@
   }
 
   &__nav {
-    flex: 6;
+    flex: 10;
   }
 
   &__cols {
@@ -30,6 +30,10 @@
     color: $footer-text-color;
     flex: 1;
 
+    li {
+      margin-bottom: 10px;
+    }
+    
     &-title {
       font-size: ms(0);
       line-height: ms(2);
