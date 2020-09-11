@@ -32,7 +32,7 @@ sections:
       copy: Tell me more
       url: "/dressipi-optimise-sale-overstocked-products-webinar/"
   - title: Stock Predictions
-    subtitle: '<p style="font-weight: bold;">Use data to better manage, forecast and buy products.</p>'
+    subtitle: '<p style="font-weight: bold;">Use data to better manage, forecast and buy products</p>'
     body: "Validate your gut predictions and trade decisions with up to the minute data.
     Equip your buyers and merchandisers with the sales velocity and optimal size ratios for every product at SKU level to help inform replenishment decisions and the shape of future buys."
     image: "https://via.placeholder.com/200x200?text=Placeholder"
@@ -42,16 +42,15 @@ sections:
       url: "/contact/"
 - title: Dressipi Makes it Easy to Get Started & Deliver ROI
   handle: benefits
+  is-centered: true
   subsections:
-  - title: 
-    body: Easy onboarding by our team of friendly experts
-    image: "https://via.placeholder.com/38x46?text=Icon"
-  - title: 
-    body: Start with one solution, prove ROI, roll out everywhere
-    image: "https://via.placeholder.com/38x46?text=Icon"
-  - title: 
-    body: Get quick, genuine results that have a positive impact
-    image: "https://via.placeholder.com/38x46?text=Icon"
+  - title: Easy onboarding by our team of friendly experts
+    image: "/uploads/icon__report-increase.svg"
+  - title: Start with one solution, prove ROI, roll out everywhere
+    image: "/uploads/icon__user-love.svg"
+  - title: Get quick, genuine results that have a positive impact
+    image: "/uploads/icon__hanger.svg"
+    class: hanger-icon
     action:
       copy: Get Started
       url: "/contact/"

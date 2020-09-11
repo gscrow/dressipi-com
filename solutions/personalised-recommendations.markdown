@@ -12,47 +12,39 @@ header:
 has-contact-section: false
 sections:
   - title:
-    handle: features
-    color: light-grey
-    subsections:
-      - title:
-        body: |
-          Dressipi matches each customer’s specific style and fashion preferences to your entire product offering to deliver personalised product, outfit and size recommendations.
-        image: "https://via.placeholder.com/200x200?text=Placeholder"
-        hres-image: "https://via.placeholder.com/400x400?text=Placeholder"
-      - title:
-        body: |
-          Updated in real-time based on in-session customer behaviour and changes in availability of product.
-        image: "https://via.placeholder.com/200x200?text=Placeholder"
-        hres-image: "https://via.placeholder.com/400x400?text=Placeholder"
-      - title:
-        body: |
-          Optimised for every customer touchpoint: online, instore, in app, and on email.
-        image: "https://via.placeholder.com/200x200?text=Placeholder"
-        hres-image: "https://via.placeholder.com/400x400?text=Placeholder"
-      - title:
-        body: |
-          Capturing valuable insights into each individual customer at every step of their journey.
-        image: "https://via.placeholder.com/200x200?text=Placeholder"
-        hres-image: "https://via.placeholder.com/400x400?text=Placeholder"
-        action:
-          copy: Find Out More
-          url: "/contact"
-  - title: Dressipi Makes it Easy to Get Started & Deliver ROI
-    handle: benefits
-    is-centered: true
-    subsections:
-      - title: 
-        body: Easy onboarding by our team of friendly experts
-        image: "https://via.placeholder.com/38x46?text=Icon"
-      - title: 
-        body: Start with one solution, prove ROI, roll out everywhere
-        image: "https://via.placeholder.com/38x46?text=Icon"
-      - title: 
-        body: Get quick, genuine results that have a positive impact
-        image: "https://via.placeholder.com/38x46?text=Icon"
-        action:
-          copy: Get Started
-          url: "/contact/"
+    body: |-
+      Dressipi matches each customer’s specific style and fashion preferences to your entire product offering to deliver personalised product, outfit and size recommendations.
+    image: "/uploads/customer_experience@2x.png"
+  - title:
+    body: |
+      Updated in real-time based on in-session customer behaviour and changes in availability of product.
+    image: "/uploads/dressipi_dashboard_desktop.png"
+    hres-image: "/uploads/dressipi_dashboard_desktop@2x.png"
+  - title:
+    body: |
+      Optimised for every customer touchpoint: online, instore, in app, and on email.
+    image: "/uploads/dressipi_dashboard_desktop.png"
+    hres-image: "/uploads/dressipi_dashboard_desktop@2x.png"
+  - title:
+    body: |
+      Capturing valuable insights into each individual customer at every step of their journey.
+    image: "/uploads/dressipi_dashboard_desktop.png"
+    hres-image: "/uploads/dressipi_dashboard_desktop@2x.png"
+    action:
+      copy: Find Out More
+      url: "/contact"
+- title: Dressipi Makes it Easy to Get Started & Deliver ROI
+  handle: benefits
+  is-centered: true
+  subsections:
+  - title: Easy onboarding by our team of friendly experts
+    image: "/uploads/icon__cash.svg"
+  - title: Start with one solution, prove ROI, roll out everywhere
+    image: "/uploads/icon__report-increase.svg"
+  - title: Get quick, genuine results that have a positive impact
+    image: "/uploads/icon__shopping-cart.svg"
+    action:
+      copy: Get started
+      url: "/contact"
 layout: product
 ---
