@@ -46,17 +46,15 @@ sections:
   subsections:
   - title: 
     body: Easy onboarding by our team of friendly experts
-    image: "/uploads/icon__report-increase.svg"
+    image: "https://via.placeholder.com/38x46?text=Icon"
   - title: 
     body: Start with one solution, prove ROI and then roll out everywhere
-    image: "/uploads/icon__user-love.svg"
+    image: "https://via.placeholder.com/38x46?text=Icon"
   - title: 
     body: Quick results
-    image: "/uploads/icon__hanger.svg"
-    class: hanger-icon
+    image: "https://via.placeholder.com/38x46?text=Icon"
     action:
       copy: Get Started
       url: "/contact/"
 layout: product
 ---
-
