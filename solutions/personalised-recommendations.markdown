@@ -8,7 +8,7 @@ header:
   body: |
     Dressipi’s Revenue Optimisation Platform powers a highly personalised and deepened customer experience, 
     resulting in better lifetime value, reduced returns and greater customer loyalty
-  hero-image: "/uploads/banner_labs.jpg"
+  hero-image: "https://via.placeholder.com/1400x760?text=Personalised+Recommendations+page+banner"
 has-contact-section: false
 sections:
   - title:
@@ -16,24 +16,25 @@ sections:
     color: light-grey
     subsections:
       - title:
-        body: |-
+        body: |
           Dressipi matches each customer’s specific style and fashion preferences to your entire product offering to deliver personalised product, outfit and size recommendations.
-        image: "/uploads/customer_experience@2x.png"
+        image: "https://via.placeholder.com/200x200?text=Placeholder"
+        hres-image: "https://via.placeholder.com/400x400?text=Placeholder"
       - title:
         body: |
           Updated in real-time based on in-session customer behaviour and changes in availability of product.
-        image: "/uploads/dressipi_dashboard_desktop.png"
-        hres-image: "/uploads/dressipi_dashboard_desktop@2x.png"
+        image: "https://via.placeholder.com/200x200?text=Placeholder"
+        hres-image: "https://via.placeholder.com/400x400?text=Placeholder"
       - title:
         body: |
           Optimised for every customer touchpoint: online, instore, in app, and on email.
-        image: "/uploads/dressipi_dashboard_desktop.png"
-        hres-image: "/uploads/dressipi_dashboard_desktop@2x.png"
+        image: "https://via.placeholder.com/200x200?text=Placeholder"
+        hres-image: "https://via.placeholder.com/400x400?text=Placeholder"
       - title:
         body: |
           Capturing valuable insights into each individual customer at every step of their journey.
-        image: "/uploads/dressipi_dashboard_desktop.png"
-        hres-image: "/uploads/dressipi_dashboard_desktop@2x.png"
+        image: "https://via.placeholder.com/200x200?text=Placeholder"
+        hres-image: "https://via.placeholder.com/400x400?text=Placeholder"
         action:
           copy: Find Out More
           url: "/contact"
