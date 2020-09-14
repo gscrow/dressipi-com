@@ -64,7 +64,7 @@ sections:
   - title:
     body: ' "Working with Dressipi is a breath of fresh air. They are straight-forward,
     open, transparent and truly understand that fashion is different from another eCommerce categories
-    (such as travel, electronics, groceries ect). They have taken the time to understand how our business 
+    (such as travel, electronics, groceries etc.). They have taken the time to understand how our business 
     works and the best way for River Island to deliver profitable growth."
   
     #### - Gemma Scarfe, Head of eCommerce, River Island
