@@ -7,7 +7,7 @@ header:
   button:
     copy: Schedule A Free Consultation
     url: "/contact"
-  hero-image: "/uploads/banner__home.jpg"
+  hero-image: "https://via.placeholder.com/1400x760?text=Home+page+banner"
 description: The leading, independently verified Revenue Optimisation Platform for fashion retailers"
 has-contact-section: false
 sections:
@@ -50,8 +50,8 @@ sections:
   color: light-grey
   subsections:
   - title: 
-    image: "/uploads/customer_experience.png"
-    hres-image: "/uploads/customer_experience@2x.png"
+    image: 'https://via.placeholder.com/750x671?text=Drive+Profitable+Growth+in+3+Simple+Steps'
+    hres-image: 'https://via.placeholder.com/1000x895?text=Drive+Profitable+Growth+in+3+Simple+Steps'
     order: center
     action:
       copy: Find Out How
@@ -76,4 +76,3 @@ sections:
       url: "/contact/"
 layout: index
 ---
-
