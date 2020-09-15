@@ -42,14 +42,17 @@ sections:
     handle: benefits
     is-centered: true
     subsections:
-      - title: Easy onboarding by our team of friendly experts
+      - title: 
+        body: Easy onboarding by our team of friendly experts
         image: "https://via.placeholder.com/38x46?text=Icon"
-      - title: Start with one solution, prove ROI and then roll out everywhere
+      - title: 
+        body: Start with one solution, prove ROI, roll out everywhere
         image: "https://via.placeholder.com/38x46?text=Icon"
-      - title: Quick results
+      - title: 
+        body: Get quick, genuine results that have a positive impact
         image: "https://via.placeholder.com/38x46?text=Icon"
         action:
-          copy: Get started
-          url: "/contact"
+          copy: Get Started
+          url: "/contact/"
 layout: product
 ---

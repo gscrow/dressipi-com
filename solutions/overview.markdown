@@ -37,20 +37,20 @@ sections:
           - Sales Force
           - IBM
           - Astound
-  - title: Dressipi Makes it Easy to Get Started
+  - title: Dressipi Makes it Easy to Get Started & Deliver ROI
     handle: benefits
     subsections:
-      - title:
-        body: Dressipi lines up with your KPIs to support you in prioritising which solution to get started with
-        image: "https://via.placeholder.com/38x46?text=Icon"
-      - title:
-        body: Easily integrates with your existing systems so no need for heavy IT lifting
-        image: "https://via.placeholder.com/38x46?text=Icon"
-      - title:
-        body: Ongoing support throughout onboarding and beyond by our team of friendly experts
-        image: "https://via.placeholder.com/38x46?text=Icon"
-        action:
-          copy: Get Started
-          url: "/contact/"
+    - title: 
+      body: Easy onboarding by our team of friendly experts
+      image: "https://via.placeholder.com/38x46?text=Icon"
+    - title: 
+      body: Start with one solution, prove ROI, roll out everywhere
+      image: "https://via.placeholder.com/38x46?text=Icon"
+    - title: 
+      body: Get quick, genuine results that have a positive impact
+      image: "https://via.placeholder.com/38x46?text=Icon"
+      action:
+        copy: Get Started
+        url: "/contact/"
 layout: product
 ---
