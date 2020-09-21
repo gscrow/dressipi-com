@@ -15,30 +15,16 @@ layout: default
           <input type="hidden" name="_next" value="{{ page.form-contact.redirect }}" />
           <input type="hidden" name="_subject" value="New contact form submit" />
           <div class="form-contact__input-group">
-            <input type="input" class="form-contact__input" name="name" placeholder="Your name" required>
-            <input type="email" class="form-contact__input" name="email" placeholder="Your email" required>
-            <input type="input" class="form-contact__input" name="phone number" placeholder="Your phone number">
-            <input type="input" class="form-contact__input" name="company" placeholder="Your company" required>
+            <input type="input" class="form-contact__input" name="name" placeholder="Name" required>
+            <input type="email" class="form-contact__input" name="email" placeholder="Email" required>
+            <input type="input" class="form-contact__input" name="phone number" placeholder="Phone Number">
+            <input type="input" class="form-contact__input" name="company" placeholder="Company" required>
           </div>
-          <textarea name="message" class="form-contact__area" rows="8" placeholder="Your message"></textarea>
+          <textarea name="message" class="form-contact__area" rows="8" placeholder="Message"></textarea>
           <button class="button button--large button-primary form-contact__submit" type="submit">{{ page.form-contact.button }}</button>
         </form>
       </div>
     </div>
-
-  <!-- client logo slider -->
-    <div class="slider">
-      {% for client in site.clients %}
-      <div class="client__logo_wrapper {{ client.class }}">
-        <img
-          src="{{ client.logo }}"
-          class="client__logo"
-          alt="{{ client.title }}"
-        />
-        </div>
-      {% endfor %}
-    </div>
-
   </div>
 </section>
 

@@ -11,9 +11,10 @@ sections:
 - title: Meet the Team
   handle: team
   body: |-
-    With passion, ambition and a commitment to learning our close-knit team support, challenge and inspire each other every day. Our expert technologists, data scientists and fashion stylists work side by side with the common goal of shaping the [future of retail](https://www.youtube.com/watch?v=GlxD47z8TKU&t=1s).
+    With passion, ambition and a commitment to learning our close-knit team support, challenge and inspire each other every day. Our expert technologists, data scientists and fashion stylists work side by side with the common goal of helping the fashion industry change.
 
-    If you would like to join us on our journey please visit [our careers page](/careers) to see what roles we are currently hiring for.
+    If you would like to join us on our journey, please visit [our careers page](/about/careers/) to see what roles we are hiring for.
+
   members:
   - name: Lord Rose
     title: Chairman
