@@ -32,6 +32,8 @@ sections:
   - Evans
   - River Island
   - OVS
+  - LK Bennett
+  - Pentland
 - title: Success Stories
   handle: success-stories
   downloads:
