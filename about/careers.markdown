@@ -8,30 +8,25 @@ header:
   body: |-
     ### With passion, ambition and a commitment to learning, our close-knit team support, challenge and inspire each other every day.
 
-    ### We are always looking for outstanding individuals from diverse backgrounds who want to be part of our fantastic team and shape the future of retail.
+    We are always looking for outstanding individuals from diverse backgrounds who want to be part of our fantastic team and help the fashion industry change
   button:
     copy: Join our Team
     url: "#jobs"
-    style: secondary
+    style: primary
   hero-image: "/uploads/banner_careers.jpg"
 description: Discover how you can be part of a team that is shaping the future of
   retail. Take a look at the latest positions available at Dressipi.
 sections:
-- title: Personalisation is Our Passion
+- title: Changing Fashion Retail for the Better
   handle: intro
   width: narrow
-  body: ">Does disrupting the way a trillion-pound industry operates sound like an
-    exciting challenge?\n\nDressipi’s passion is to transform the way retailers engage
-    with their customers by personalising the entire shopping journey instore and
-    online. By combining rich data with machine learning and AI technology, Dressipi
-    matches customers with products and experiences to influence behavior at scale.
-    \n\nBacked by a great group of investors, Dressipi is trusted to deliver real
-    impact to the bottom line for some of the largest retailers including John Lewis,
-    Arcadia Group and others."
+  body: ">Does disrupting the way a trillion-pound industry operates sound like an exciting challenge?
+    \n\nDressipi’s passion is to transform the way fashion retailers engage with their customers whilst helping create more efficient supply chains. Through leading machine learning and AI, we give retailers the tools they need to offer deeper, entirely personalised customer experiences and make data-driven buying and merchandising decisions.
+    \n\nWe believe this combination of selling smarter and using insight to buy and market better gives retailers the profitability they need to invest in creating an even better future for themselves and their customers.\n\nBacked by a great group of investors, Dressipi is trusted to deliver real impact to the bottom line of some of the UK Europe’s biggest retailers."
 - title: Join our Team
   handle: join
   body: We are a multi-award winning business working on ground-breaking technology
-    that is having a real impact. By joining [our team](/team) we can offer you something
+    that is having a real impact. By joining [our team](/about/team) we can offer you something
     fantastic.
   width: narrow text--center
   color: light-grey
@@ -63,7 +58,7 @@ sections:
 - title: Work With Us
   handle: jobs
   body: |-
-    We currently don't have any open job positions but we are always on the look out for exceptional people who share our passion for predictive retailing.
+    We don’t currently have any open job positions but we are always on the lookout for exceptional people who share our passion for helping the fashion industry change.
 
     If you have what it takes, please send your CV and any relevant examples of previous work (eg: websites, apps, Stack Overflow or GitHub profile) to [jobs@dressipi.com](mailto:jobs@dressipi.com).
   class: carrer-column
