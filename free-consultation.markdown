@@ -10,7 +10,7 @@ description: Get in touch if you have any questions about how Dressipi can help 
   you on your journey to be predictive.
 form-contact:
   formspree-ID: meeaabem
-  button: Send Message
+  button: Submit
   redirect: "/thanks"
   email_cc: 
 width: narrow
@@ -19,4 +19,4 @@ google-maps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d
 layout: contact
 ---
 
-### Please contact us if you have any questions about how we can start you on your journey to be predictive.
+### If you have a question or would like to book your free consultation, send a message to our team of experts and we’ll get back to you as soon as possible.
