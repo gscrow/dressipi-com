@@ -21,6 +21,8 @@ sections:
   - Evans
   - River Island
   - OVS
+  - LK Bennett
+  - Pentland
 - title: The Revenue Optimisation Platform
   subtitle: By leveraging intelligent, fashion-specific AI and machine learning capabilities,</br> Dressipi empowers retailers to meet shopper expectations and drive profitable growth
   handle: revenue

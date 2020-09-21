@@ -16,6 +16,8 @@ header:
   - Evans
   - River Island
   - OVS
+  - LK Bennett
+  - Pentland
 sitemap: false
 layout: landing
 ---
