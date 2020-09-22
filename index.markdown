@@ -75,6 +75,6 @@ sections:
     hres-image: "/uploads/river-island_0.png"
     action:
       copy: Read Full Story
-      url: "/contact/"
+      url: "/downloads/personalisation-drives-profitable-growth-for-river-island/"
 layout: index
 ---
