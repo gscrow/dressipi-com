@@ -1,6 +1,7 @@
 ---
 title: Overview
 position: 1
+navigation: solution-footer
 header:
   title: Leveraging Data to Enhance and Personalise the Customer Experience
   hero-image: "https://via.placeholder.com/1400x760?text=Solutions+Overview+page+banner"

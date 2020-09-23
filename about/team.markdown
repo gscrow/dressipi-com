@@ -2,7 +2,7 @@
 title: Team
 date: 2017-05-06 09:50:00 Z
 position: 2
-navigation: company-footer
+navigation: about-footer
 description: Dressipi's expert technologists, data scientists and fashion stylists
   work side by side with the common goal of shaping the future of retail. Meet the
   team.

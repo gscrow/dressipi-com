@@ -3,7 +3,7 @@ title: Success Stories
 date: 2017-10-24 08:24:00 Z
 permalink: "/clients/success-stories/"
 position: 1
-navigation: resource-footer
+navigation: clients-footer
 description: "Dressipi's long-term clients are some of the world’s leading retail brands.
 These brands share a common goal of seeking to offer their customers unbeatable
 experiences by delivering best in class recommendations and prediction scores."
