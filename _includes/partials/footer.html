@@ -60,7 +60,7 @@
         &copy;&nbsp;{{ 'now' | date: "%Y" }}, Stylemania Ltd&nbsp;—&nbsp;{% for
         meta_link in meta_links %}
         {% unless meta_link.type %}
-        <a href="{{ meta_link.url }}">{{ meta_link.title }}</a>
+        <a class="with-mdash" href="{{ meta_link.url }}">{{ meta_link.title }}</a>
         {% endunless %}       
         {% if meta_link.type %}
         <a href="{{ meta_link.social-link }}"><div class="{{ meta_link.class }} footer-social-logo"></div></a>
