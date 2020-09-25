@@ -22,7 +22,7 @@ sections:
   width: narrow
   body: ">Does disrupting the way a trillion-pound industry operates sound like an exciting challenge?
     \n\nDressipi’s passion is to transform the way fashion retailers engage with their customers whilst helping create more efficient supply chains. Through leading machine learning and AI, we give retailers the tools they need to offer deeper, entirely personalised customer experiences and make data-driven buying and merchandising decisions.
-    \n\nWe believe this combination of selling smarter and using insight to buy and market better gives retailers the profitability they need to invest in creating an even better future for themselves and their customers.\n\nBacked by a great group of investors, Dressipi is trusted to deliver real impact to the bottom line of some of the UK Europe’s biggest retailers."
+    \n\nWe believe this combination of selling smarter and using insight to buy and market better gives retailers the profitability they need to invest in creating an even better future for themselves and their customers.\n\nBacked by a great group of investors, Dressipi is trusted to deliver real impact to the bottom line of some of the UK and Europe’s biggest retailers."
 - title: Join our Team
   handle: join
   body: We are a multi-award winning business working on ground-breaking technology
