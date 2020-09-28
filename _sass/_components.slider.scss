@@ -3,25 +3,17 @@
   width: 100%;
   margin: 50px auto;
   padding: 10px;
-
-  .slick-next {
-    right: 0;
-  }
-
-  .slick-prev {
-    left: 0;
-  }
   
   .slick-prev:before, .slick-next:before {
     color: $text-color-strong;
   }
 
 
-  @include responsive(tablet) {
+  @media screen and (max-width: 850px) and (min-width: 500px) {
     max-width: 500px;
   }
 
-  @include responsive(mobile) {
+  @media screen and (max-width: 550px) {
     max-width: 300px;
   }
 }
