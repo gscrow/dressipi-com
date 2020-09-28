@@ -6,7 +6,7 @@ header:
   title: Thank you for submitting!
   body: "### Your info has been successfully sent."
   button:
-    copy: Return to our homepage
+    copy: RETURN TO HOMEPAGE >
     url: "/"
     style: secondary
   width: extend

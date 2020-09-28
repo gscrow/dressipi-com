@@ -79,7 +79,7 @@ defaults:
     image: 
     form:
       title: Download Now
-      button: Download
+      button: Download >
       file: 
     testimonial:
       body: 
@@ -128,12 +128,12 @@ form-demo:
   title: Be Predictive and Achieve Great Results
   subtitle: 'Get in touch to see how Dressipi''s data-driven approach can help increase
     net incremental revenue per visitor, conversion and frequency of purchase. '
-  button: Schedule A Free Consultation
+  button: SCHEDULE A FREE CONSULTATION >
   email_cc: 
   redirect: "/thanks"
 form-newsletter:
   formspree-ID: mkjvowyx
-  button: Subscribe
+  button: Subscribe >
   email_cc: 
   redirect: "/thanks"
 company:

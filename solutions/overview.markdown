@@ -16,13 +16,13 @@ sections:
         image:
         body: "Anticipate customer needs and build deeper engagement across every touchpoint: online, instore, in app and email."
         action:
-          copy: Find Out How
+          copy: Find Out How >
           url: "/solutions/personalised-recommendations/"
       - title: Data Insight Hub
         image:
         body: "Access real-time insights and actionable knowledge to optimise value at each step of the merchandising and buying process."
         action:
-          copy: Find Out How
+          copy: Find Out How >
           url: "/solutions/data-insight-hub/"
   - title: "One Platform. Limitless Integrations."
     handle: solutions
@@ -51,7 +51,7 @@ sections:
       body: Get quick, genuine results that have a positive impact
       image: "https://via.placeholder.com/38x46?text=Icon"
       action:
-        copy: Get Started
+        copy: GET STARTED >
         url: "/contact/"
 layout: product
 ---

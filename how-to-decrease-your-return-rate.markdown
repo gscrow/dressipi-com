@@ -8,7 +8,7 @@ header:
     leader in fashion-specific personalisation, helping retailers decrease returns
     by 5% percentage points.
   button:
-    copy: Download Insights
+    copy: DOWNLOAD INSIGHTS >
     url: "#download"
   hero-image: "/uploads/banner_sdg_withlogo_returns.jpg"
 is-landing-page: true

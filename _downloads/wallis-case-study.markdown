@@ -6,14 +6,14 @@ resource: Case Studies
 image: "/uploads/Wallis_Small_Case_Study_Image.png"
 form:
   title: Download Free Case Study
-  button: Download Case Study
+  button: DOWNLOAD CASE STUDY >
   file: "/uploads/A%20Dressipi%20case%20study-Wallis.pdf"
   checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services
   button_class: case-study
   linkedin_tracking: <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=300788&conversionId=551785&fmt=gif">
 testimonial:
-  small-testimonial: ”Wallis achieved double-digit increases in order frequency”
+  small-testimonial: Wallis achieved double-digit increases in order frequency
   body: "“Having personalisation technology within your business is a must in today’s
     retail environment. Dressipi have helped us achieve that.”\n"
   logo: "/uploads/logo__wallisblack%20(1)-4b18d3.svg"
@@ -22,7 +22,7 @@ testimonial:
     job-title: Digital Director
     company: Wallis
     image: "/uploads/Wallis_CS_Image_Partner_Pg.png"
-  action: Download Case Study
+  action: Read Full Story >
   class: wallis
 position-list: 3
 ---

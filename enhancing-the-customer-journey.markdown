@@ -8,7 +8,7 @@ header:
     help retailers deliver engaging and personalised shopping experiences to all customers,
     both online and in-store, enhancing the entire customer journey.
   button:
-    copy: Download Case Study
+    copy: DOWNLOAD CASE STUDY >
     url: "#download"
   hero-image: "/uploads/banner_sdg_withlogo_nbrown.jpg"
 is-landing-page: true

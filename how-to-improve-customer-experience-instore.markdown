@@ -8,7 +8,7 @@ header:
     experience instore and online by enabling retailers to match customers with products
     and experiences to influence buying behaviour at scale."
   button:
-    copy: Download Insights
+    copy: DOWNLOAD INSIGHTS >
     url: "#download"
   hero-image: "/uploads/banner_biggest_asset_whitepaper.jpg"
 is-landing-page: true

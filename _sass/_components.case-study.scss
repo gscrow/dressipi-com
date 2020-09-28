@@ -41,7 +41,6 @@
     flex: 1;
 
     > p {
-      font-style: italic;
       margin-bottom: 0;
     }
   }
@@ -56,8 +55,6 @@
   }
 
   &__footer {
-    padding: rhythm(2);
-
     > .button {
       width: 100%;
       text-align: center;

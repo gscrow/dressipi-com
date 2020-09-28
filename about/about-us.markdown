@@ -64,7 +64,7 @@ sections:
   body: |-
    <p style="text-align: center; max-width: 600px; margin-left: auto; margin-right: auto;">We are always looking for outstanding individuals from diverse backgrounds who want to be part of our fantastic team </p>
   button:
-    copy: Careers
+    copy: CAREERS >
     url: "/about/careers/"
 layout: about
 ---

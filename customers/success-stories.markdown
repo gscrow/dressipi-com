@@ -10,7 +10,7 @@ experiences by delivering best in class recommendations and prediction scores."
 header:
   title: How River Island Achieved  +3.2% uplift in revenue per visitor and +20% AOV increase with Dressipi’s Revenue Optimisation Platform.
   button:
-    copy: Schedule A Free Consultation
+    copy: SCHEDULE A FREE CONSULTATION >
     url: "/contact"
     style: primary
   hero-image: "/uploads/River_Island_Case_Study_Image_XS.jpg"
@@ -42,7 +42,7 @@ sections:
   - Accelerating Wallis to be Truly Predictive
 - title: Want to Get Started?
   button:
-    copy: Schedule A Free Consultation
+    copy: SCHEDULE A FREE CONSULTATION >
     url: "/contact"
 layout: customers
 ---

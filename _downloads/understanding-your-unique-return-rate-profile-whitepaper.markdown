@@ -16,7 +16,7 @@ resource: Guides
 image: "/uploads/returns_small.jpg"
 form:
   title: Download Free Whitepaper
-  button: Download
+  button: Download >
   file: "/uploads/Dressipi_Whitepaper_Understanding_Your_Unique_Return_Rate_Profile.pdf"
   checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services

@@ -46,7 +46,7 @@ assign my_page_url = page.url | remove: '/' %}
             </div>
             <div class="overview-section__image"><img src="{{ download.testimonial.author.image }}" /></div>
             <div class="overview-section__body"><p>{{ subsection.body }}</p></div>
-            {% if subsection.action %}<a href="{{ subsection.action.url }}" class="button button--medium button-{{ subsection.action.style | default: 'primary' }} text--center">{{ subsection.action.copy }}</a>{% endif %}
+            {% if subsection.action %}<a href="{{ subsection.action.url }}" class="button button--medium button-{{ subsection.action.style | default: 'secondary' }} text--center">{{ subsection.action.copy }}</a>{% endif %}
           </div>
         </li>
       {% endfor %}

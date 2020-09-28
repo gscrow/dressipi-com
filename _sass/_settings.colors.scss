@@ -10,7 +10,7 @@ $text-color-soft: #7F7D79;
 $background--white: #ffffff;
 $background--lighter: #F3F4F7;
 $background--light: #F0F0F0;
-$background--dark: #333232;
+$background--dark: #191C24;
 
 // links
 $link-color: $brand-primary-color;
@@ -30,10 +30,10 @@ $button-primary-text-color: #ffffff;
 $button-primary-background: $brand-primary-color;
 $button-primary-hover-background: #D91C6B;
 
-$button-secondary-text-color: $link-color;
-$button-secondary-background: transparent;
-$button-secondary-border-color: $brand-primary-color;
-$button-secondary-hover-text-color: #D91C6B;
+$button-secondary-text-color:  #ffffff;
+$button-secondary-hover-text-color: #ffffff;
+$button-secondary-background:#191C24 ;
+$button-secondary-border-color: #191C24;
 
 $button-default-text-color: $text-color;
 $button-default-background: transparent;

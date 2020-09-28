@@ -9,7 +9,7 @@ header:
     to match customers with products and experiences to influence buying behaviour
     at scale."
   button:
-    copy: Schedule A Free Consultation
+    copy: SCHEDULE A FREE CONSULTATION >
     url: "#download"
   hero-image: "/uploads/banner_style-hub.jpg"
 is-landing-page: true

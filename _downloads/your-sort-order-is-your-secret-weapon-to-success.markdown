@@ -8,7 +8,7 @@ resource: Guides
 image: "/uploads/Sort_Order_Whitepaper_Small.jpg"
 form:
   title: Download Free Whitepaper
-  button: Download
+  button: Download >
   file: "/uploads/Dressipi-Whitepaper-Your-Sort-Order-Is-Your-Secret-Weapon-To-Success-5e4ec9.pdf"
   checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services

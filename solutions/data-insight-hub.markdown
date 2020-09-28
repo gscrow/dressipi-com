@@ -19,7 +19,7 @@ sections:
     image: "https://via.placeholder.com/200x200?text=Placeholder"
     hres-image: "https://via.placeholder.com/400x400?text=Placeholder"
     action:
-      copy: Tell me more
+      copy: Tell me more >
       url: "/downloads/understanding-your-unique-return-rate-profile-whitepaper/"
   - title: Smarter Overstock Strategy 
     subtitle: '<p style="font-weight: bold;">Optimise when, how and who you discount to</p>'
@@ -29,7 +29,7 @@ sections:
     image: "https://via.placeholder.com/200x200?text=Placeholder"
     hres-image: "https://via.placeholder.com/400x400?text=Placeholder"
     action:
-      copy: Tell me more
+      copy: Tell me more >
       url: "/dressipi-optimise-sale-overstocked-products-webinar/"
   - title: Stock Predictions
     subtitle: '<p style="font-weight: bold;">Use data to better manage, forecast and buy products</p>'
@@ -38,7 +38,7 @@ sections:
     image: "https://via.placeholder.com/200x200?text=Placeholder"
     hres-image: "https://via.placeholder.com/400x400?text=Placeholder"
     action:
-      copy: Tell me more
+      copy: Tell me more >
       url: "/contact/"
 - title: Dressipi Makes it Easy to Get Started & Deliver ROI
   handle: benefits
@@ -52,7 +52,7 @@ sections:
     image: "/uploads/icon__hanger.svg"
     class: hanger-icon
     action:
-      copy: Get Started
+      copy: GET STARTED >
       url: "/contact/"
 layout: product
 ---

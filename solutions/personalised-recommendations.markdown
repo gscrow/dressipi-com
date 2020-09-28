@@ -31,7 +31,7 @@ sections:
     image: "/uploads/dressipi_dashboard_desktop.png"
     hres-image: "/uploads/dressipi_dashboard_desktop@2x.png"
     action:
-      copy: Find Out More
+      copy: Find Out More >
       url: "/contact"
   - title: Dressipi Makes it Easy to Get Started & Deliver ROI
     handle: benefits
@@ -44,7 +44,7 @@ sections:
     - title: Get quick, genuine results that have a positive impact
       image: "/uploads/icon__shopping-cart.svg"
       action:
-        copy: Get started
+        copy: GET STARTED >
         url: "/contact"
 layout: product
 ---

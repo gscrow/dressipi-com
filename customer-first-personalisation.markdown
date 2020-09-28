@@ -9,7 +9,7 @@ header:
     retailers to match customers with products and experiences to influence buying
     behaviour at scale."
   button:
-    copy: Download Case Study
+    copy: DOWNLOAD CASE STUDY >
     url: "#download"
   hero-image: "/uploads/banner_sdg_withlogo_wallis.jpg"
 is-landing-page: true

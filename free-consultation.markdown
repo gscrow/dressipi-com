@@ -10,7 +10,7 @@ description: Get in touch if you have any questions about how Dressipi can help 
   you on your journey to be predictive.
 form-contact:
   formspree-ID: meeaabem
-  button: Submit
+  button: SUBMIT >
   redirect: "/thanks"
   email_cc: 
 width: narrow

@@ -5,7 +5,7 @@ header:
   title: Driving Profitable Growth For Fashion Retailers
   body: "## The leading, independently verified Revenue Optimisation Platform for fashion retailers"
   button:
-    copy: Schedule A Free Consultation
+    copy: SCHEDULE A FREE CONSULTATION >
     url: "/contact"
   hero-image: "https://via.placeholder.com/1400x760?text=Home+page+banner"
 description: The leading, independently verified Revenue Optimisation Platform for fashion retailers"
@@ -24,7 +24,7 @@ sections:
   - LK Bennett
   - Pentland
 - title: The Revenue Optimisation Platform
-  subtitle: By leveraging intelligent, fashion-specific AI and machine learning capabilities,</br> Dressipi empowers retailers to meet shopper expectations and drive profitable growth
+  subtitle: By using intelligent, fashion-specific AI and machine learning capabilities,<br> Dressipi empowers retailers to meet shopper expectations and drive profitable growth
   handle: revenue
   subsections:
   - title: Optimise conversion & increase lifetime value
@@ -43,7 +43,7 @@ sections:
     number-right: 2% 
     number-right-description: contributed profit
     action:
-      copy: Learn More
+      copy: LEARN MORE >
       url: "/solutions/overview/"
       style: primary
 - title: Drive Profitable Growth in 3 Simple Steps
@@ -56,7 +56,7 @@ sections:
     hres-image: 'https://via.placeholder.com/1000x895?text=Drive+Profitable+Growth+in+3+Simple+Steps'
     order: center
     action:
-      copy: Find Out How
+      copy: FIND OUT HOW >
       url: "/solutions/overview/"
 - title: Beyond Expectations ROI 
   subtitle: 
@@ -74,7 +74,7 @@ sections:
     image: "/uploads/river-island_0.png"
     hres-image: "/uploads/river-island_0.png"
     action:
-      copy: Read Full Story
+      copy: READ FULL STORY >
       url: "/downloads/personalisation-drives-profitable-growth-for-river-island/"
 layout: index
 ---

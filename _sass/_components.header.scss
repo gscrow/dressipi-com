@@ -20,14 +20,12 @@ $header-height--mobile: 67px; // 1px border
 
       &__email {
         @include input-style(default);
-        border-radius: 3px 0 0 3px;
         border-right: 0;
         font-size: ms(-1);
         flex-basis: 70%;
       }
 
       &__submit {
-        border-radius: 0 3px 3px 0;
         flex-basis: 30%;
       }
     }
@@ -150,7 +148,7 @@ $header-height--mobile: 67px; // 1px border
   &__content {
     float: left;
     width: calc-columns-width(5);
-
+    max-width: 580px;
 
     &--extend {
       @include margin-center;
@@ -173,8 +171,8 @@ $header-height--mobile: 67px; // 1px border
     padding-bottom: rhythm(14);
 
     .header__title {
-      font-size: ms(6);
-      line-height: rhythm(6);
+      font-size: ms(7);
+      line-height: rhythm(7);
       margin: 0 0 rhythm(1) 0;
     }
     .twitter-logo{
@@ -228,7 +226,6 @@ $header-height--mobile: 67px; // 1px border
       transition: transform .35s ease;
       transform: translateY(-10px);
       border: 1px solid $border-color;
-      border-radius: 4px;
       background: $header-dropdown-background-color;
 
       > li {

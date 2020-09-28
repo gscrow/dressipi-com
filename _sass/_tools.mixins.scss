@@ -52,7 +52,6 @@
     padding-left: rhythm(3);
     transition: border-color $default-transition-timing;
     border: 1px solid $input-default-border-color;
-    border-radius: 3px;
     background: $input-default-background-color;
 
     @include hover {

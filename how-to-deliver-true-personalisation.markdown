@@ -9,7 +9,7 @@ header:
     to match customers with products and experiences to influence buying behaviour
     at scale."
   button:
-    copy: Download Insights
+    copy: DOWNLOAD INSIGHTS >
     url: "#download"
   hero-image: "/uploads/banner_five_things_whitepaper.jpg"
 is-landing-page: true
