@@ -4,8 +4,10 @@ date: 2017-05-06 09:50:00 Z
 position: 1
 navigation: about-footer
 header:
-  title: We are Dressipi
-  body: "### We drive profitable growth for fashion retailers"
+  page-title: We are Dressipi
+  page-title-icon: "https://via.placeholder.com/30x30?text=Placeholder"
+  title: The Right Product, in the Right Size, at the Right Time
+  body: "We drive profitable growth for fashion retailers"
   button:
     copy:
     url:
