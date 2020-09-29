@@ -85,7 +85,13 @@ $header-height--mobile: 67px; // 1px border
   }
 
   &__subtitle {
-    > h2, > h3 {
+    > p {
+      font-size: 32px;
+      line-height: 37.92px;
+    }
+
+    > h2,
+    > h3 {
       font-weight: 400;
       line-height: rhythm(4);
       margin: rhythm(2) 0 rhythm(2);
@@ -95,7 +101,8 @@ $header-height--mobile: 67px; // 1px border
       font-size: ms(2);
     }
 
-    > h3, > h4 {
+    > h3,
+    > h4 {
       font-size: ms(1);
     }
 
@@ -150,6 +157,7 @@ $header-height--mobile: 67px; // 1px border
     width: calc-columns-width(5);
     max-width: 580px;
 
+    
     &--extend {
       @include margin-center;
       @include text-center;
@@ -165,6 +173,23 @@ $header-height--mobile: 67px; // 1px border
     }
   }
 
+  .banner-page-title {
+    display: flex;
+
+    img { 
+      width: 40px;
+      height: 40px;
+      margin-right: 10px;
+    }
+
+    p {
+      text-transform: uppercase;
+      line-height: 40px;
+      font-size: 30px;
+      margin-bottom: 15px;
+    }
+  }
+
   // hero header for content pages
   &-content {
     padding-top: rhythm(14);
@@ -175,7 +200,8 @@ $header-height--mobile: 67px; // 1px border
       line-height: rhythm(7);
       margin: 0 0 rhythm(1) 0;
     }
-    .twitter-logo{
+
+    .twitter-logo {
       width: 30px;
       margin-bottom: -10px;
     }
@@ -206,7 +232,7 @@ $header-height--mobile: 67px; // 1px border
         width: 0;
         height: 0;
         margin: auto;
-        content: '';
+        content: "";
         border-top: 4px solid $header-dropdown-triangle-color;
         border-right: 4px solid transparent;
         border-left: 4px solid transparent;
@@ -223,7 +249,7 @@ $header-height--mobile: 67px; // 1px border
       top: 100%;
       left: rhythm(2) * -1;
       visibility: hidden;
-      transition: transform .35s ease;
+      transition: transform 0.35s ease;
       transform: translateY(-10px);
       border: 1px solid $border-color;
       background: $header-dropdown-background-color;
@@ -260,14 +286,13 @@ $header-height--mobile: 67px; // 1px border
   top: -$header-height--desktop;
   right: 0;
   left: 0;
-  transition: transform .3s ease-in-out .1s;
+  transition: transform 0.3s ease-in-out 0.1s;
   transform: translate3D(0, $header-height--desktop, 0);
 }
 
 .header.hold {
   transform: translate3D(0, 0, 0) !important;
 }
-
 
 // responisve styles
 @media (max-width: 1000px) {
@@ -316,7 +341,7 @@ $header-height--mobile: 67px; // 1px border
         display: none;
       }
 
-      &__link{
+      &__link {
         display: block;
         border-top: 1px solid $border-color;
         padding: rhythm(2) 0;
@@ -336,7 +361,6 @@ $header-height--mobile: 67px; // 1px border
     }
 
     &__navigation {
-
       .subscribe-form {
         display: flex;
         width: auto;
@@ -410,7 +434,7 @@ $header-height--mobile: 67px; // 1px border
       right: 0;
       bottom: 0;
       left: 0;
-      content: '';
+      content: "";
       background: $header-hero-mask-color !important;
     }
 

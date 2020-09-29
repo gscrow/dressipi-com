@@ -3,6 +3,8 @@ title: Data Insight Hub
 position: 3
 navigation: solution-footer
 header:
+  page-title: DATA INSIGHT HUB
+  page-title-icon: "https://via.placeholder.com/30x30?text=Placeholder"
   title: Increasing Sell Through. Reducing Discounting. Driving Profitability.
   body: "Dressipi’s Data Insight Hub moves retailers from their traditional spreadsheet limitations to real time, deeper insights about customers, transactions, returns and operations, without any coding or IT intervention"
   hero-image: 'https://via.placeholder.com/1400x760?text=Data+Insight+Hub+page+banner'

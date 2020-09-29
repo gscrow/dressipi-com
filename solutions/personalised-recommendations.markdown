@@ -4,6 +4,8 @@ position: 2
 navigation: solution-footer
 class:
 header:
+  page-title: PERSONALISED RECOMMENDATIONS
+  page-title-icon: "https://via.placeholder.com/30x30?text=Placeholder"
   title: The Right Product, in the Right Size, at the Right Time
   body: |-
     Dressipi’s Revenue Optimisation Platform powers a highly personalised and deepened customer experience, 

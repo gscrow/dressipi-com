@@ -3,7 +3,7 @@ title: Driving Profitable Growth For Fashion Retailers
 position: 0
 header:
   title: Driving Profitable Growth For Fashion Retailers
-  body: "## The leading, independently verified Revenue Optimisation Platform for fashion retailers"
+  body: "The leading, independently verified Revenue Optimisation Platform for fashion retailers"
   button:
     copy: SCHEDULE A FREE CONSULTATION >
     url: "/contact"

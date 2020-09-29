@@ -8,6 +8,8 @@ description: "Dressipi's long-term clients are some of the world’s leading ret
 These brands share a common goal of seeking to offer their customers unbeatable
 experiences by delivering best in class recommendations and prediction scores."
 header:
+  page-title: SUCCESS STORIES
+  page-title-icon: "https://via.placeholder.com/30x30?text=Placeholder"   
   title: How River Island Achieved  +3.2% uplift in revenue per visitor and +20% AOV increase with Dressipi’s Revenue Optimisation Platform.
   button:
     copy: SCHEDULE A FREE CONSULTATION >
