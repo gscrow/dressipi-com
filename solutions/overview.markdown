@@ -5,7 +5,6 @@ navigation: solution-footer
 header:
   title: Leveraging Data to Enhance and Personalise the Customer Experience
   hero-image: "https://via.placeholder.com/1400x760?text=Solutions+Overview+page+banner"
-  color: "#F0F0F0"
 description: Leveraging Data to Enhance and Personalise the Customer Experience
 sections:
   - title:

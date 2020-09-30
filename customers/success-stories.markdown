@@ -19,7 +19,6 @@ header:
   link:
     copy: Read The Full Story
     url: "/downloads/personalisation-drives-profitable-growth-for-river-island/"
-  color: "#F0F0F0"
 description: "Dressipi's long-term clients are some of the world’s leading retail brands.
 These brands share a common goal of seeking to offer their customers unbeatable
 experiences by delivering best in class recommendations and prediction scores."
