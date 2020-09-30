@@ -49,7 +49,6 @@ sections:
 - title: Drive Profitable Growth in 3 Simple Steps
   subtitle: 
   handle: features
-  color: light-grey
   subsections:
   - title: 
     image: 'https://via.placeholder.com/750x671?text=Drive+Profitable+Growth+in+3+Simple+Steps'
@@ -61,7 +60,6 @@ sections:
 - title: Beyond Expectations ROI 
   subtitle: 
   handle: features
-  color: light-grey
   subsections:
   - title:
     body: ' "Working with Dressipi is a breath of fresh air. They are straight-forward,
@@ -74,7 +72,7 @@ sections:
     image: "/uploads/river-island_0.png"
     hres-image: "/uploads/river-island_0.png"
     action:
-      copy: READ FULL STORY >
+      copy: READ THE FULL STORY >
       url: "/downloads/personalisation-drives-profitable-growth-for-river-island/"
 layout: index
 ---

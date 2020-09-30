@@ -2,7 +2,7 @@
 title: Personalised Recommendations
 position: 2
 navigation: solution-footer
-class:
+class: personalised-recommendations
 header:
   page-title: PERSONALISED RECOMMENDATIONS
   page-title-icon: "https://via.placeholder.com/30x30?text=Placeholder"
@@ -14,28 +14,27 @@ header:
 has-contact-section: false
 sections:
   - title:
-    body: |-
-      Dressipi matches each customer’s specific style and fashion preferences to your entire product offering to deliver personalised product, outfit and size recommendations.
-    image: "/uploads/customer_experience@2x.png"
-  - title:
-    body: |-
-      Updated in real-time based on in-session customer behaviour and changes in availability of product.
-    image: "/uploads/dressipi_dashboard_desktop.png"
-    hres-image: "/uploads/dressipi_dashboard_desktop@2x.png"
-  - title:
-    body: |-
-      Optimised for every customer touchpoint: online, instore, in app, and on email.
-    image: "/uploads/dressipi_dashboard_desktop.png"
-    hres-image: "/uploads/dressipi_dashboard_desktop@2x.png"
-  - title:
-    body: |-
-      Capturing valuable insights into each individual customer at every step of their journey.
-    image: "/uploads/dressipi_dashboard_desktop.png"
-    hres-image: "/uploads/dressipi_dashboard_desktop@2x.png"
-    action:
-      copy: Find Out More >
-      url: "/contact"
+    handle: features
+    subsections:
+    - title: Dressipi matches each customer’s specific style and fashion preferences to your entire product offering to deliver personalised product, outfit and size recommendations.
+      subtitle: 
+      body:
+      image: "https://via.placeholder.com/400x400?text=Placeholder"
+      hres-image: "https://via.placeholder.com/400x400?text=Placeholder"
+    - title: Updated in real-time based on in-session customer behaviour and changes in availability of product.
+      body:
+      image: "https://via.placeholder.com/400x400?text=Placeholder"
+      hres-image: "https://via.placeholder.com/400x400?text=Placeholder"
+    - title: "Optimised for every customer touchpoint: online, instore, in app, and on email."
+      body:
+      image: "https://via.placeholder.com/400x400?text=Placeholder"
+      hres-image: "https://via.placeholder.com/400x400?text=Placeholder"
+    - title: Capturing valuable insights into each individual customer at every step of their journey.
+      body:
+      image: "https://via.placeholder.com/400x400?text=Placeholder"
+      hres-image: "https://via.placeholder.com/400x400?text=Placeholder"
   - title: Dressipi Makes it Easy to Get Started & Deliver ROI
+    colour: white
     handle: benefits
     is-centered: true
     subsections:

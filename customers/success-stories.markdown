@@ -17,7 +17,7 @@ header:
     style: primary
   hero-image: "/uploads/River_Island_Case_Study_Image_XS.jpg"
   link:
-    copy: Read Full Story
+    copy: Read The Full Story
     url: "/downloads/personalisation-drives-profitable-growth-for-river-island/"
   color: "#F0F0F0"
 description: "Dressipi's long-term clients are some of the world’s leading retail brands.
@@ -42,10 +42,22 @@ sections:
   - Personalisation Drives Profitable Growth for River Island
   - Delivering a Personalised Shopping Experience to The Modist
   - Accelerating Wallis to be Truly Predictive
-- title: Want to Get Started?
+
+- title: Dressipi Makes it Easy to Get Started & Deliver ROI
+  handle: benefits
   button:
     copy: SCHEDULE A FREE CONSULTATION >
     url: "/contact"
+  is-centered: true
+  subsections:
+  - title: Easy onboarding by our team of friendly experts
+    image: "/uploads/icon__report-increase.svg"
+  - title: Start with one solution, prove ROI, roll out everywhere
+    image: "/uploads/icon__user-love.svg"
+  - title: Get quick, genuine results that have a positive impact
+    image: "/uploads/icon__hanger.svg"
+    class: hanger-icon
+
 layout: customers
 ---
 

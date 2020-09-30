@@ -12,6 +12,7 @@ form:
   checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services
 testimonial:
+  title: Success Story
   small-testimonial: The Modist reduced returns by 25% and increased conversion by 11%
   body: “We are extremely happy with the results. Dressipi has consistently outperformed
     our incumbent provider on all key metrics."
@@ -21,8 +22,8 @@ testimonial:
     job-title: Director of Ecommerce
     company: The Modist
     image: "/uploads/Modist_Small_Case_Study_Image-d88efb.jpg"
-  action: Read Full Story >
-  class: the modist
+  action: Read The Full Story >
+  class: modist
 position-list: 2
 ---
 

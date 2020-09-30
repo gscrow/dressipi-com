@@ -10,16 +10,17 @@ description: Leveraging Data to Enhance and Personalise the Customer Experience
 sections:
   - title:
     handle: overview
+    overview-title: Meet Shopper Expectations and Drive Profitable Growth
     overview-subtitle: With always-on customers, retailers need to better understand their preferences, anticipate demand faster and personalise all touch points to stay ahead. The ability to ingest, cleanse, and augment huge quantities of data from multiple sources is at the very heart of the Dressipi Revenue Optimisation Platform.
     subsections:
       - title: Personalised Recommendations
-        image:
+        image: "https://via.placeholder.com/120x120"
         body: "Anticipate customer needs and build deeper engagement across every touchpoint: online, instore, in app and email."
         action:
           copy: Find Out How >
           url: "/solutions/personalised-recommendations/"
       - title: Data Insight Hub
-        image:
+        image: "https://via.placeholder.com/120x120"
         body: "Access real-time insights and actionable knowledge to optimise value at each step of the merchandising and buying process."
         action:
           copy: Find Out How >

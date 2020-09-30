@@ -2,11 +2,10 @@
 title: About Us
 date: 2017-05-06 09:50:00 Z
 position: 1
+class: about-us
 navigation: about-footer
 header:
-  page-title: We are Dressipi
-  page-title-icon: "https://via.placeholder.com/30x30?text=Placeholder"
-  title: The Right Product, in the Right Size, at the Right Time
+  title: We are Dressipi
   body: "We drive profitable growth for fashion retailers"
   button:
     copy:
@@ -16,17 +15,16 @@ description: We drive profitable growth for fashion retailers.
 sections:
 - title: 
   handle: features
-  color: light-grey
   subsections:
   - title: Retail is Evolving
+    subtitle: Customers are demanding greater curation of products and less wastage
     body: |-
-      <p style="font-weight: bold;">  Customers are demanding greater curation of products and less wastage </p>
       Machine learning and AI are helping the smartest retailers capture deeper insights, anticipate customer needs and proactively develop more efficient supply chains. 
       
     image: "/uploads/customer_experience@2x.png"
   - title: Our Mission
+    subtitle: We set up Dressipi to help the fashion industry change
     body: |-
-      <p style="font-weight: bold;"> We set up Dressipi to help the fashion industry change</p>
       Our mission is to transform how retailers engage with their customers through deeper, entirely personalised experiences; and use data to advance the buying and merchandising processes. <br/><br/>
       We believe this combination optimises demand and supply, giving retailers the profitability to invest in creating better products and services, and to tackle the issue of waste in the industry. <br/><br/>
       We deliver genuine results, quickly and work with the world’s leading retailers. 
@@ -52,11 +50,11 @@ sections:
     title: Business Cloud London Tech 50 2020
   - image: "/uploads/Screenshot%202019-12-09%20at%2017.11.03.png"
     title: Top 100 eCommerce Trailblazers (BusinessCloud)
-  - image: "/uploads/award__millenial1.jpg"
+  - image: "/uploads/award__millenial1.png"
     title: Best Connected Experience of the Year   Winner
   - image: "/uploads/tech-london-advocates-logo-black-09fced.png"
     title: Top 50 UK Retail Tech Businesses
-  - image: "/uploads/rs_awards_Shortlisted_2018_outlines%20(1).jpg"
+  - image: "/uploads/rs_awards_Shortlisted_2018_outlines%20(1).png"
     title: |-
       Retail Partnership of the Year (Online)
       Winner

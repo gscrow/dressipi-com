@@ -29,7 +29,6 @@ sections:
     that is having a real impact. By joining [our team](/about/team) we can offer you something
     fantastic.
   width: narrow text--center
-  color: light-grey
   columns: 2
   subsections:
   - title: Be Part of a High Quality Team

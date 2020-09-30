@@ -34,11 +34,11 @@ sections:
   awards:
   - image: "/uploads/Screenshot%202019-12-09%20at%2017.11.03.png"
     title: Top 100 eCommerce Trailblazers (BusinessCloud)
-  - image: "/uploads/award__millenial1.jpg"
+  - image: "/uploads/award__millenial1.png"
     title: Best Connected Experience of the Year   Winner
   - image: "/uploads/tech-london-advocates-logo-black-09fced.png"
     title: Top 50 UK Retail Tech Businesses
-  - image: "/uploads/rs_awards_Shortlisted_2018_outlines%20(1).jpg"
+  - image: "/uploads/rs_awards_Shortlisted_2018_outlines%20(1).png"
     title: |-
       Retail Partnership of the Year (Online)
       Winner

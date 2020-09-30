@@ -11,6 +11,7 @@ form:
     products and services
   button_class: case-study
 testimonial:
+  title: Success Story
   small-testimonial: River Island increased revenue per visitor by 3.2% and AOV by 20%
   body: "\"Dressipi have taken the time to understand how our business works and the
     best way for River Island to deliver profitable growth.”"
@@ -20,7 +21,7 @@ testimonial:
     job-title: Head of eCommerce
     company: River Island
     image: "/uploads/River_Island_Case_Study_Image_XS.jpg"
-  action: Read Full Story >
+  action: Read The Full Story >
   class: riverisland
 position-list: 1
 ---

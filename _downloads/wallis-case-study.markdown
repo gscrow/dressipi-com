@@ -13,6 +13,7 @@ form:
   button_class: case-study
   linkedin_tracking: <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=300788&conversionId=551785&fmt=gif">
 testimonial:
+  title: Success Story
   small-testimonial: Wallis achieved double-digit increases in order frequency
   body: "“Having personalisation technology within your business is a must in today’s
     retail environment. Dressipi have helped us achieve that.”\n"
@@ -22,7 +23,7 @@ testimonial:
     job-title: Digital Director
     company: Wallis
     image: "/uploads/Wallis_CS_Image_Partner_Pg.png"
-  action: Read Full Story >
+  action: Read The Full Story >
   class: wallis
 position-list: 3
 ---
