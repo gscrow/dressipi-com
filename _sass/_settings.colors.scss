@@ -7,10 +7,13 @@ $text-color-strong: #2E2D2B;
 $text-color-soft: #7F7D79;
 
 // background
+
 $background--white: #ffffff;
 $background--lighter: #F3F4F7;
 $background--light: #F0F0F0;
-$background--dark: #191C24;
+$background--dark: #444C61;
+$background--darker: #191C24;
+
 
 // links
 $link-color: $brand-primary-color;
@@ -63,7 +66,7 @@ $header-dropdown-triangle-color: #B3B2B1;
 $header-mobile-nav-background-color: #F3F4F7;
 
 // footer
-$footer-background-color: $background--dark;
+$footer-background-color: $background--darker;
 $footer-text-color: #D9D8D7;
 $footer-text-color-soft: #8C8C8B;
 $footer-heading-color: #ffffff;
