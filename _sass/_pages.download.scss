@@ -57,6 +57,10 @@
   }
 }
 
+.download-clients {
+  background-color: $background--white !important;
+}
+
 @include responsive(tablet) {
   .hero-case-study {
     padding: rhythm(8) 0;
