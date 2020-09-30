@@ -1,30 +1,43 @@
 <aside class="blog__sidebar gutter">
-	<!-- Download – Case Studies -->
-	<section class="widget widget-download">
-		<h3>Case Studies</h3>
-		{% assign case_studies = site.downloads | sort: 'position' | where: 'resource', 'Case Studies' %}
-		<ul class="list-downloads">
-			{% for case_study in case_studies %}
-			<li><a href="{{ case_study.url }}" class="">{{ case_study.title }}</a></li>
-			{% endfor %}
-		</ul>
+  <!-- Download – Case Studies -->
+  <section class="widget widget-download">
+    <h3>Case Studies</h3>
+    {% assign case_studies = site.downloads | sort: 'position' | where:
+    'resource', 'Case Studies' %}
+    <ul class="list-downloads">
+      {% for case_study in case_studies %}
+      <li>
+        <a href="{{ case_study.url }}" class="">{{ case_study.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
   </section>
 
   <!-- Download – Guides -->
-	<section class="widget widget-download">
-		<h3>Guides</h3>
-		{% assign guides = site.downloads | sort: 'position' | where: 'resource', 'Guides' %}
-		<ul class="list-downloads">
-			{% for guide in guides %}
-			<li><a href="{{ whitepaper.url }}" class="">{{ whitepaper.title }}</a></li>
-			{% endfor %}
-		</ul>
+  <section class="widget widget-download">
+    <h3>Guides</h3>
+    {% assign guides = site.downloads | sort: 'position' | where: 'resource',
+    'Guides' %}
+    <ul class="list-downloads">
+      {% for guide in guides %}
+      <li>
+        <a href="{{ guide.url }}" class="">{{ guide.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
   </section>
 
   <!-- Demo Request -->
-  <section  id="form-demo" class="widget widget--boxed widget-demo">
-		<h3>{{ site.form-demo.title }}</h3>
-		<p>{{ site.form-demo.subtitle }}</p>
-		<p><a href="/contact" class="button button-primary button--full" title="">SCHEDULE A FREE CONSULTATION ></a></p>
+  <section id="form-demo" class="widget widget-demo">
+    <div class="widget--boxed ">
+      <h3>{{ site.form-demo.title }}</h3>
+      <p>{{ site.form-demo.subtitle }}</p>
+    </div>
+
+    <p>
+      <a href="/contact" class="button button-secondary button--full" title=""
+        >SCHEDULE A FREE CONSULTATION ></a
+      >
+    </p>
   </section>
 </aside>

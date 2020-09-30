@@ -2,7 +2,7 @@
   margin: rhythm(1) 0 rhythm(5);
 
   &--boxed {
-    background: $background--light;
+    background: $background--lighter;
     padding: 20px;
   }
 
@@ -33,6 +33,7 @@
     }
 
     a {
+      width: 100%;
       padding: 0 7px;
     }
   }
