@@ -1,12 +1,32 @@
 .section {
-  padding: rhythm(12) 0;
+  padding: rhythm(10) 0;
   border-top: 1px solid $section-border-color;
+
+  &:nth-child(2n) {
+    border-top: 1px solid $section-border-color;
+    border-bottom: 1px solid $section-border-color;
+    background: $section-background-color;
+  }
+
+  &.personalised-recommendations,
+  &#unique, &.about-us {
+    background-color: #ffffff;
+  }
+
+  &#awards {
+    background: $section-background-color;
+  }
 
   &__heading {
     position: relative;
-    padding-bottom: rhythm(2);
     text-align: center;
-    margin-bottom: rhythm(10);
+    margin-bottom: rhythm(5);
+
+    h2,
+    p {
+      margin: 0 auto 25px auto;
+      max-width: 800px;
+    }
 
     .comment {
       font-size: 14px;
@@ -67,7 +87,7 @@
 }
 
 .background--dark-grey {
-  background: $background--dark;
+  background: $background--darker;
 }
 
 .text--center {

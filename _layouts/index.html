@@ -7,9 +7,9 @@ layout: default
 <section id="{{ handle }}" class="section {% if handle %}{{ section.handle | prepend: 'section-' | append: ' ' }}{% endif %}background--{{ section.color | default:'white' }}">
   <!-- section heading group -->
   <hgroup class="container gutter section__heading">
-    {% if section.title %}<h3>{{ section.title }}</h3>{% endif %}
+    {% if section.title %}<h2>{{ section.title }}</h3>{% endif %}
     {% if section.comment %}<p class="comment">{{ section.comment }}</p>{% endif %}
-    {% if section.subtitle %}<h4>{{ section.subtitle }}</h4>{% endif %}
+    {% if section.subtitle %}<p>{{ section.subtitle }}</p>{% endif %}
   </hgroup>
 
   <!-- section content group -->

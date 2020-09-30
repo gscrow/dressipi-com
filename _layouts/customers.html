@@ -15,7 +15,7 @@ layout: default
   {% else %}
    <hgroup class="container gutter section__heading">
       {% if section.title %}<h3>{{ section.title }}</h3>{% endif %}
-     {% if section.subtitle %}<h4>{{ section.subtitle }}</h4>{% endif %}
+     {% if section.subtitle %}<p>{{ section.subtitle }}</p>{% endif %}
     </hgroup>
   {% endif %}
 
@@ -35,8 +35,11 @@ layout: default
         {% if section.downloads contains download.title %}
         <li class="case-study__wrap">
           <div class="case-study">
+            <div class="case-study__title">
+              {{ download.testimonial.title }}
+            </div>
             <div class="case-study__header">
-              {% if download.testimonial.logo %}<div class="case-study__logo {{ download.name }}"><img src="{{ download.testimonial.logo }}" /></div>{% endif %}
+              {% if download.testimonial.logo %}<div class="case-study__logo {{ download.testimonial.class }}"><img src="{{ download.testimonial.logo }}" /></div>{% endif %}
             </div>
             <div class="case-study__image"><img src="{{ download.testimonial.author.image }}" /></div>
             <div class="case-study__body"><p>{{ download.testimonial.small-testimonial }}</p></div>
@@ -84,21 +87,41 @@ layout: default
       </div>
     </div>
 
-
-
     {% when nil %}
     <div class="container{% if section.width %}{{ section.width | prepend: '--' }}{% endif %} gutter">
       {{ section.body | markdownify }}
     </div>
+
+    {% when 'benefits' %}
+    <div
+      class="container benefits {% if section.is-centered %}text--center{% endif %}"
+    >
+      {% for subsection in section.subsections %}
+      <div class="gutter benefit {{ subsection.gutter-class }}">
+        <div class="benefit__icon">
+          <img src="{{ subsection.image }}" class="{{ subsection.class }}" />
+        </div>
+        <p class="benefit__title">{{ subsection.title }}</p>
+        <div class="benefit__body">
+          {{ subsection.body | markdownify }}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="container benefits-container text--center" >
+      {% if section.button %}
+    <!-- section footer group -->
+    <div class="container section__footer text--center">
+      <a href="{{ section.button.url }}" class="button button--medium button-{{ section.button.style | default: 'primary' }}">{{ section.button.copy }}</a>
+    </div>
+    {% endif %}
+    </div>
     {% endcase %}
   </div>
 
-  {% if section.button %}
-  <!-- section footer group -->
-  <div class="container section__footer text--center">
-    <a href="{{ section.button.url }}" class="button button--medium button-{{ section.button.style | default: 'primary' }}">{{ section.button.copy }}</a>
-  </div>
-  {% endif %}
+ 
+
+
 </section>
 
 

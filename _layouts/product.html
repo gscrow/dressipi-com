@@ -8,20 +8,21 @@ assign my_page_url = page.url | remove: '/' %}
 {% assign branch = section.subsections.branch %}
 <section
   id="{{ handle }}"
-  class="section {% if handle %}{{ section.handle | prepend: 'section-' | append: ' ' }}{% endif %}background--{{ section.color | default:'white' }}"
+  class="section {% if handle %}{{ section.handle | prepend: 'section-' | append: ' ' }}{% endif %}background--{{ section.color | default:'white' }} {{ page.class }}"
 >
   <!-- section heading group -->
   {% if section.overview-subtitle %}
   <hgroup class="container gutter section__heading">
-    {% endif %} {% if section.overview-subtitle  %}
-    <h4>{{ section.overview-subtitle }}</h4>
+    {% endif %} {% if section.overview-title  %}
+    <h2>{{ section.overview-title }}</h2>
+    <p>{{ section.overview-subtitle }}</p>
   </hgroup>
   {% endif %}
   {% if section.title %}
   <hgroup class="container gutter section__heading">
-    <h3>{{ section.title }}</h3>
+    <h2>{{ section.title }}</h2>
     {% endif %} {% if section.subtitle %}
-    <h4>{{ section.subtitle }}</h4>
+    <p>{{ section.subtitle }}</p>
   </hgroup>
   {% endif %}
 
@@ -32,19 +33,18 @@ assign my_page_url = page.url | remove: '/' %}
     <div class="container">
       <ul class="overview__list">
         {% for subsection in section.subsections %}
-        {% if subsection.image %}
+        <li class="overview-section__wrap">
+          {% if subsection.image %}
 		      <div class="gutter project__image">
 						<div><!-- keep flex image ratio -->
               <img src="{{ subsection.image }}" alt="{{ subsection.title }}" {% if subsection.hres-image %}srcset="{{ subsection.hres-image }} 2x"{% endif %} />
             </div>
 		      </div>
-		    {% endif %}
-        <li class="overview-section__wrap">
+		      {% endif %}
           <div class="overview-section">
             <div class="overview-section__header">
               <h2 class="project__title">{{ subsection.title }}</h2>
             </div>
-            <div class="overview-section__image"><img src="{{ download.testimonial.author.image }}" /></div>
             <div class="overview-section__body"><p>{{ subsection.body }}</p></div>
             {% if subsection.action %}<a href="{{ subsection.action.url }}" class="button button--medium button-{{ subsection.action.style | default: 'secondary' }} text--center">{{ subsection.action.copy }}</a>{% endif %}
           </div>
@@ -170,7 +170,7 @@ assign my_page_url = page.url | remove: '/' %}
             class="gutter feature__copy{% if subsection.align == 'top' %}--top{% endif %}"
           >
             <h2 class="feature__title">{{ subsection.title }}</h2>
-            <p class="slide__title">{{ subsection.subtitle }}</p>
+            <p class="feature__subtitle">{{ subsection.subtitle }}</p>
             <div class="feature__body">{{ subsection.body | markdownify }}</div>
           </div>
         </div>
@@ -194,7 +194,7 @@ assign my_page_url = page.url | remove: '/' %}
         <div class="benefit__icon">
           <img src="{{ subsection.image }}" class="{{ subsection.class }}" />
         </div>
-        <h3 class="benefit__title">{{ subsection.title }}</h3>
+        <p class="benefit__title">{{ subsection.title }}</p>
         <div class="benefit__body">
           {{ subsection.body | markdownify }}
         </div>

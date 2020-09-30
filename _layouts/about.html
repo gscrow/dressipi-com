@@ -4,7 +4,7 @@ layout: default
 
 {% for section in page.sections %}
 {% assign handle = section.handle %}
-<section id="{{ handle }}" class="section {% if handle %}{{ section.handle | prepend: 'section-' | append: ' ' }}{% endif %}background--{{ section.color | default:'white' }}">
+<section id="{{ handle }}" class="section {% if handle %}{{ section.handle | prepend: 'section-' | append: ' ' }}{% endif %}background--{{ section.color | default:'white' }} {{ page.class }}" >
   <!-- section heading group -->
   {% if section.button %}
   <hgroup class="container gutter section__heading" style="margin-bottom:0;">
@@ -37,6 +37,7 @@ layout: default
           </div>
           <div class="gutter feature__copy" {% if subsection.align == 'top' %}style="margin:0;padding-top:40px;"{% endif %}>
             <h2 class="feature__title">{{ subsection.title }}</h2>
+            <div class="feature__subtitle">{{ subsection.subtitle }}</div>
             <div class="feature__body">{{ subsection.body | markdownify }}</div>
             {% if subsection.action %}<a href="{{ subsection.action.url }}" class="button button-{{ subsection.action.style | default: 'secondary' }}">{{ subsection.action.copy }}</a>{% endif %}
           </div>
