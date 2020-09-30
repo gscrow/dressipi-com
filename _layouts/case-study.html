@@ -16,7 +16,7 @@ layout: default
         <li class="case-study__wrap">
           <div class="case-study">
             <div class="case-study__header">
-              {% if download.testimonial.logo %}<div class="case-study__logo {{ download.name }}"><img src="{{ download.testimonial.logo }}" /></div>{% endif %}
+              {% if download.testimonial.logo %}<div class="case-study__logo {{  page.testimonial.class }}"><img src="{{ download.testimonial.logo }}" /></div>{% endif %}
             </div>
             <div class="case-study__image"><img src="{{ download.testimonial.author.image }}" /></div>
             <div class="case-study__body"><p>{{ download.testimonial.body }}</p></div>

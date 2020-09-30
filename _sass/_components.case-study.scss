@@ -11,6 +11,15 @@
   max-width: calc-columns-width(2.3);
   height: 100%;
 
+  &__title {
+    text-transform: uppercase;
+    padding: 11px;
+    background-color: $background--dark;
+    color: #ffffff;
+    height: 40px;
+    text-align: center;
+  }
+
   &__wrap {
     margin-right: $gutter-width / 2;
     margin-bottom: rhythm(3);
@@ -50,10 +59,16 @@
   }
 
   &__logo.wallis {
-    max-width: 45%;
-    margin: 0 auto;
+    img {
+      max-height: 50px;
+      margin: 0 auto;
+    }
   }
 
+  &__logo.riverisland {
+    padding: 10px;
+  }
+  
   &__footer {
     > .button {
       width: 100%;
