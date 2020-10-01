@@ -3,7 +3,6 @@ title: 'Dressipi Webinar Video: How River Island used personalisation to deliver
   6% revenue increase in 12 months'
 position: 34
 is-landing-page: true
-day: 24/06/2020
 includes-video: true
 video-url: https://dressipi.com/media/overstock-webinar.mp4
 left-headshot: "/uploads/sarah-mcvittie@2x.jpg"
@@ -16,14 +15,16 @@ Field name:
   Key: 
 ---
 
-In the UK alone, it is estimated that there will be £12bn overstocked products by the end of the summer, costing the UK industry at least £3.4bn of profit. Imagine what this means for the worldwide fashion industry.
+If fashion retailers don’t optimise their site and experiences in line with how customers want to shop today, brands will be damaged, customers will go elsewhere and revenues will be impacted - it’s as simple as that.
 
-Our live webinar with Sarah McVittie, Co-Founder of Dressipi and Stuart Rose, Chairman of Dressipi focused exclusively on how better use of data can deliver smarter solutions for shifting overstocked products.
+Our live webinar with Stuart Rose, Chairman of Dressipi and other industry experts focused exclusively on how working with Dressipi, River Island used personalisation to deliver differentiated customer experiences resulting in a 6% revenue increase in 12 months.
 
 In the below recording of the session you will learn: 
 
-* How to adopt a strategic, staged approach for the optimum clearance strategy
+* How to implement personalisation that delivers real results
 
-* How better use of data can deliver smarter solutions for shifting overstock products
+* How to use data better to drive efficiency down the supply chain
 
-* How this can help deliver more profit and cash to your business
+* Why working with a fashion-specific solution is better than working with a generic one
+
+<p style="text-align:center"><a href="/contact/" class="button button-primary">Contact Us</a></p>
