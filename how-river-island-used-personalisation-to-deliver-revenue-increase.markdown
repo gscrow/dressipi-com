@@ -1,6 +1,6 @@
 ---
-title: 'Dressipi Webinar Video: How to optimise the sale of overstocked products and
-  release maximum cash into your business'
+title: 'Dressipi Webinar Video: How River Island used personalisation to deliver a
+  6% revenue increase in 12 months'
 position: 34
 is-landing-page: true
 day: 24/06/2020
