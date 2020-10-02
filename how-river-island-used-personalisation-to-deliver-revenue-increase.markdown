@@ -7,7 +7,7 @@ includes-video: true
 video-url: https://dressipi.com/media/overstock-webinar.mp4
 Field name:
   Key: 
-button: 
+has-contact-section: true
 ---
 
 If fashion retailers don’t optimise their site and experiences in line with how customers want to shop today, brands will be damaged, customers will go elsewhere and revenues will be impacted - it’s as simple as that.
