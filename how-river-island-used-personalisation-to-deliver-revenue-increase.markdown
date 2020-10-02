@@ -1,6 +1,6 @@
 ---
-title: 'Dressipi Webinar Video: How River Island used personalisation to deliver a
-  6% revenue increase in 12 months'
+title: 'Dressipi Webinar: How River Island used personalisation to deliver a 6% revenue
+  increase in 12 months'
 position: 34
 is-landing-page: true
 includes-video: true
