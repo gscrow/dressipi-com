@@ -10,7 +10,7 @@ header:
   button:
     copy:
     url:
-  hero-image: "https://via.placeholder.com/1400x760?text=About+page+banner"
+  hero-image: "/uploads/banner_about-us@2x.png"
 description: We drive profitable growth for fashion retailers.
 sections:
 - title: 
@@ -21,7 +21,8 @@ sections:
     body: |-
       Machine learning and AI are helping the smartest retailers capture deeper insights, anticipate customer needs and proactively develop more efficient supply chains. 
       
-    image: "/uploads/customer_experience@2x.png"
+    image: "/uploads/section_retail-is-evolving.png"
+    hres-image: "/uploads/section_retail-is-evolving@2x.png"
   - title: Our Mission
     subtitle: We set up Dressipi to help the fashion industry change
     body: |-
@@ -29,18 +30,21 @@ sections:
       We believe this combination optimises demand and supply, giving retailers the profitability to invest in creating better products and services, and to tackle the issue of waste in the industry. <br/><br/>
       We deliver genuine results, quickly and work with the world’s leading retailers. 
 
-    image: "/uploads/dressipi_dashboard_desktop.png"
-    hres-image: "/uploads/dressipi_dashboard_desktop@2x.png"
-- title: Our Unique Benefits
+    image: "/uploads/section_our-mission.png"
+    hres-image: "/uploads/section_our-mission@2x.png"
+- title: Our Benefits
   body: "### The following represent some of the publications and websites that have
     covered our innovative solutions."
   handle: unique
   publications:
   - title: "Fashion Focussed"
+    icon: "/uploads/icon_fashion_focussed.svg"
     body: "Fashion is always evolving with time and inspiration. Dressipi has spent years delivering fashion-specific algorithms, drawing on the expertise of some of the industry’s top stylists and experts. This focus on fashion is a key differentiator and why we consistently outperform our competitors’ general, cross industry approach."
-  - title: "Unique Datasets & Pipelines"
+  - title: "Unique Datasets"
+    icon: "/uploads/icon_unique-datasets.svg"
     body: "Machine learning and AI solutions are only as good as the data that feeds them. Dressipi owns the most extensive dataset of garment attributes and fashion-specific customer preferences. Our ability to ingest, cleanse, and augment huge quantities of data from various sources, in real-time, is at the heart of our platform."
-  - title: "Proven Track Record"
+  - title: "Proven Resutls"
+    icon: "/uploads/icon-proven-results.svg"
     body: "We have a proven track record of delivering value quickly, with results that are always externally validated. We’ve won leading industry awards and have been covered by some of the world’s most well respected publications."
 - title: Our Achievements
   subtitle: 

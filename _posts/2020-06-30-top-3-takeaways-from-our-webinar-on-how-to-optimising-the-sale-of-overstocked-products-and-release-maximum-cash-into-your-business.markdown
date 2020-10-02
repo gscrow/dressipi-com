@@ -10,7 +10,7 @@ image: "/uploads/image%20(11).png"
 author: Georgina Fisher
 ---
 
-<p style="text-align:center; font-style: italic; font-weight: bold;"> “We are coming back to a slightly different world. Sitting on stock, fewer customers, the need to convert our inventory more efficiently and improve bottom line margins.” </p>
+<p style="text-align:center; font-style: italic;"> “We are coming back to a slightly different world. Sitting on stock, fewer customers, the need to convert our inventory more efficiently and improve bottom line margins.” </p>
 <p style="text-align:center; font-weight: bold;">Stuart Rose, Chairman, Dressipi</p>
 
 At Dressipi we are holding a new series of webinars looking at how data and technology can help to solve some of fashion retailers’ biggest problems. Our first webinar focused on the issue of overstocked products. Stuart highlighted just how different the world of retail is as we come out of lockdown and stressed that it is now essential for retailers to optimise processes.

@@ -68,9 +68,14 @@ layout: default
      {% for publication in section.publications %}
      <li class="publication__wrap">
          <div class="publication__item">
+          <div class="publication__title-wrap">
+          <div class="publication__icon">
+            <img src="{{ publication.icon }}">
+          </div>
            <div class="publication__title">
-             <h3>{{ publication.title }}</h3>
+             <p>{{ publication.title }}</p>
            </div>
+         </div>
            <div class="publication__body">
             <p>{{ publication.body }}</p>
           </div>
