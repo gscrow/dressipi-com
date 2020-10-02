@@ -9,7 +9,7 @@
         <nav role="navigation" class="navigation">
           {% assign category_links = site.blog_categories %}
           <ul class="navigation_items">
-             <li class="navigation__item"><a href="/blog/" class="navigation__link {% if my_page_url == 'blog' %}navigation__link--active{% endif %}"">Latest Articles</a></li>
+             <li class="navigation__item"><a href="/resources/blog/ " class="navigation__link {% if my_page_url == 'blog' %}navigation__link--active{% endif %}"">Latest Articles</a></li>
             {% for link in category_links %}
               <li class="navigation__item"><a href="{{ link.url }}" class="navigation__link {% if page.url == link.url %}navigation__link--active{% endif %}"">{{ link.title }}</a></li>
             {% endfor %}
