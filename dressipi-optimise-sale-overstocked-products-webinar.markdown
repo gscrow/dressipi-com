@@ -19,7 +19,7 @@ hide-clients-carousel: true
 
 In the UK alone, it is estimated that there will be £12bn overstocked products by the end of the summer, costing the UK industry at least £3.4bn of profit. Imagine what this means for the worldwide fashion industry.
 
-Our live webinar with Sarah McVittie, Co-Founder of Dressipi and Stuart Rose, Chairman of Dressipi focused exclusively on how better use of data can deliver smarter solutions for shifting overstocked products.
+Our live webinar focused exclusively on how better use of data can deliver smarter solutions for shifting overstocked products.
 
 In the below recording of the session you will learn: 
 
