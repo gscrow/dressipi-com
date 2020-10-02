@@ -9,12 +9,12 @@ layout: default
   
   {% if section.button %}
   <hgroup class="container gutter section__heading" style="margin-bottom:0;">
-    {% if section.title %}<h3>{{ section.title }}</h3>{% endif %}
+    {% if section.title %}<h2>{{ section.title }}</h2>{% endif %}
     {% if section.subtitle %}<h4>{{ section.subtitle }}</h4>{% endif %}
   </hgroup>
   {% else %}
    <hgroup class="container gutter section__heading">
-      {% if section.title %}<h3>{{ section.title }}</h3>{% endif %}
+      {% if section.title %}<h2>{{ section.title }}</h2>{% endif %}
      {% if section.subtitle %}<p>{{ section.subtitle }}</p>{% endif %}
     </hgroup>
   {% endif %}
