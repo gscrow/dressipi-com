@@ -1,10 +1,7 @@
 .section {
   padding: rhythm(10) 0;
-  border-top: 1px solid $section-border-color;
 
   &:nth-child(2n) {
-    border-top: 1px solid $section-border-color;
-    border-bottom: 1px solid $section-border-color;
     background: $section-background-color;
   }
 

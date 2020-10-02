@@ -15,12 +15,11 @@
     margin-right: $gutter-width / 2;
     margin-bottom: rhythm(3);
     margin-left: $gutter-width / 2;
-    border: solid 1px $border-color;
-    border-radius: $border-radius--base;
 
     .project__image {
       display: flex;
       padding: rhythm(3);
+      background-color: $background--light;
     }
   }
 
@@ -28,10 +27,12 @@
     font-size: ms(0);
     line-height: rhythm(3);
     padding: rhythm(2);
-    background: $background--lighter;
+    background: $background--dark;
     text-align: center;
 
-    h2 {
+    p {
+      font-size: 24px;
+      color: #ffffff;
       font-size: 20px;
     }
 
@@ -45,6 +46,7 @@
   }
 
   &__body {
+    background: $background--lighter;
     padding: rhythm(2);
     min-height: 160px;
 
