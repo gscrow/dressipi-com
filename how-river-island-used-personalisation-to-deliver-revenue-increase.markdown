@@ -5,12 +5,10 @@ position: 34
 is-landing-page: true
 includes-video: true
 video-url: https://dressipi.com/media/overstock-webinar.mp4
+has-contact-section: true
 Field name:
   Key: 
-has-contact-section: true
 ---
-
-If fashion retailers don’t optimise their site and experiences in line with how customers want to shop today, brands will be damaged, customers will go elsewhere and revenues will be impacted - it’s as simple as that.
 
 Our live webinar with Stuart Rose, Chairman of Dressipi and other industry experts focused exclusively on how working with Dressipi, River Island used personalisation to deliver differentiated customer experiences resulting in a 6% revenue increase in 12 months.
 
