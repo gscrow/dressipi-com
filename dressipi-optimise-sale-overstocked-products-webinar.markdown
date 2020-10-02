@@ -1,9 +1,8 @@
 ---
-title: 'Dressipi Webinar Video: How to optimise the sale of overstocked products and
-  release maximum cash into your business'
+title: 'Dressipi Webinar: How to optimise the sale of overstocked products and release
+  maximum cash into your business'
 position: 34
 is-landing-page: true
-day: 24/06/2020
 includes-video: true
 video-url: https://dressipi.com/media/overstock-webinar.mp4
 left-headshot: "/uploads/sarah-mcvittie@2x.jpg"
@@ -14,6 +13,7 @@ right-host-name: Stuart Rose
 right-host-title: Chairman
 Field name:
   Key: 
+has-contact-section: true
 ---
 
 In the UK alone, it is estimated that there will be £12bn overstocked products by the end of the summer, costing the UK industry at least £3.4bn of profit. Imagine what this means for the worldwide fashion industry.
