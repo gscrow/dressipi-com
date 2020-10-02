@@ -19,5 +19,3 @@ In the below recording of the session you will learn:
 * How to use data better to drive efficiency down the supply chain
 
 * Why working with a fashion-specific solution is better than working with a generic one
-
-<p style="text-align:center"><a href="/contact/" class="button button-primary">Book Free Consultation</a></p>
