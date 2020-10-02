@@ -81,6 +81,7 @@ layout: default
 	</div>
 </section>
 {% endunless %}
+{% unless page.hide-clients-carousel %}
 <section class="section">
 	<div class="container gutter">
 		<hgroup class="section__heading">
@@ -96,6 +97,7 @@ layout: default
     </div>
   </div>
 </section>
+{% endunless %}
 {% else %}
 <div class="container gutter page-content{% if page.width %}{{ page.width | prepend: '--' }}{% endif %}">
 	<h4>Effective Date: 23 May 2018</h4>

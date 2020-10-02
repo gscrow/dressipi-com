@@ -4,6 +4,7 @@ title: 'Dressipi Webinar: How River Island used personalisation to deliver a 6% 
 position: 34
 is-landing-page: true
 includes-video: true
+hide-clients-carousel: true
 video-url: https://dressipi.com/media/overstock-webinar.mp4
 has-contact-section: true
 Field name:
