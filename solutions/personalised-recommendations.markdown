@@ -5,12 +5,12 @@ navigation: solution-footer
 class: personalised-recommendations
 header:
   page-title: PERSONALISED RECOMMENDATIONS
-  page-title-icon: "https://via.placeholder.com/30x30?text=Placeholder"
+  page-title-icon: "/uploads/icon_data-insight-hub-grey.svg"
   title: The Right Product, in the Right Size, at the Right Time
   body: |-
     Dressipi’s Revenue Optimisation Platform powers a highly personalised and deepened customer experience, 
     resulting in better lifetime value, reduced returns and greater customer loyalty
-  hero-image: "https://via.placeholder.com/1400x760?text=Personalised+Recommendations+page+banner"
+  hero-image: "/uploads/banner_personalised-recommendations@2x.png"
 has-contact-section: false
 sections:
   - title:
@@ -19,20 +19,20 @@ sections:
     - title: Dressipi matches each customer’s specific style and fashion preferences to your entire product offering to deliver personalised product, outfit and size recommendations.
       subtitle: 
       body:
-      image: "https://via.placeholder.com/400x400?text=Placeholder"
-      hres-image: "https://via.placeholder.com/400x400?text=Placeholder"
+      image: "/uploads/section_insights.png"
+      hres-image: "/uploads/section_insights@2x.png"
     - title: Updated in real-time based on in-session customer behaviour and changes in availability of product.
       body:
-      image: "https://via.placeholder.com/400x400?text=Placeholder"
-      hres-image: "https://via.placeholder.com/400x400?text=Placeholder"
+      image: "/uploads/section_preferences.png"
+      hres-image: "/uploads/section_preferences@2x.png"
     - title: "Optimised for every customer touchpoint: online, instore, in app, and on email."
       body:
-      image: "https://via.placeholder.com/400x400?text=Placeholder"
-      hres-image: "https://via.placeholder.com/400x400?text=Placeholder"
+      image: "/uploads/section_real-time.png"
+      hres-image: "/uploads/section_real-time@2x.png"
     - title: Capturing valuable insights into each individual customer at every step of their journey.
       body:
-      image: "https://via.placeholder.com/400x400?text=Placeholder"
-      hres-image: "https://via.placeholder.com/400x400?text=Placeholder"
+      image: "/uploads/section_touchpoints.png"
+      hres-image: "/uploads/section_touchpoints@2x.png"
   - title: Dressipi Makes it Easy to Get Started & Deliver ROI
     colour: white
     handle: benefits
