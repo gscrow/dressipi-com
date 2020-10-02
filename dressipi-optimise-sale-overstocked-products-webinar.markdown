@@ -14,6 +14,7 @@ right-host-title: Chairman
 Field name:
   Key: 
 has-contact-section: true
+hide-clients-carousel: true
 ---
 
 In the UK alone, it is estimated that there will be £12bn overstocked products by the end of the summer, costing the UK industry at least £3.4bn of profit. Imagine what this means for the worldwide fashion industry.
