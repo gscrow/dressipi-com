@@ -5,7 +5,7 @@ navigation: solution-footer
 class: personalised-recommendations
 header:
   page-title: PERSONALISED RECOMMENDATIONS
-  page-title-icon: "/uploads/icon_data-insight-hub-grey.svg"
+  page-title-icon: "/uploads/icon_personalised-recommendations-grey.svg"
   title: The Right Product, in the Right Size, at the Right Time
   body: |-
     Dressipi’s Revenue Optimisation Platform powers a highly personalised and deepened customer experience, 
@@ -39,11 +39,11 @@ sections:
     is-centered: true
     subsections:
     - title: Easy onboarding by our team of friendly experts
-      image: "/uploads/icon__cash.svg"
+      image: "/uploads/icon-onboarding.svg"
     - title: Start with one solution, prove ROI, roll out everywhere
-      image: "/uploads/icon__report-increase.svg"
+      image: "/uploads/icon-results.svg"
     - title: Get quick, genuine results that have a positive impact
-      image: "/uploads/icon__shopping-cart.svg"
+      image: "/uploads/icon-rollout.svg"
       action:
         copy: GET STARTED >
         url: "/contact"

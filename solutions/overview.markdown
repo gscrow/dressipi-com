@@ -4,7 +4,7 @@ position: 1
 navigation: solution-footer
 header:
   title: Leveraging Data to Enhance and Personalise the Customer Experience
-  hero-image: "https://via.placeholder.com/1400x760?text=Solutions+Overview+page+banner"
+  hero-image: "/uploads/banner-solutions-overview.png"
 description: Leveraging Data to Enhance and Personalise the Customer Experience
 sections:
   - title:
@@ -13,13 +13,13 @@ sections:
     overview-subtitle: With always-on customers, retailers need to better understand their preferences, anticipate demand faster and personalise all touch points to stay ahead. The ability to ingest, cleanse, and augment huge quantities of data from multiple sources is at the very heart of the Dressipi Revenue Optimisation Platform.
     subsections:
       - title: Personalised Recommendations
-        image: "https://via.placeholder.com/120x120"
+        image: "/uploads/icon_data-insight-hub-colour.svg"
         body: "Anticipate customer needs and build deeper engagement across every touchpoint: online, instore, in app and email."
         action:
           copy: Find Out How >
           url: "/solutions/personalised-recommendations/"
       - title: Data Insight Hub
-        image: "https://via.placeholder.com/120x120"
+        image: "/uploads/icon_personalised-recommendations-colour.svg"
         body: "Access real-time insights and actionable knowledge to optimise value at each step of the merchandising and buying process."
         action:
           copy: Find Out How >
@@ -43,13 +43,13 @@ sections:
     subsections:
     - title: 
       body: Easy onboarding by our team of friendly experts
-      image: "https://via.placeholder.com/38x46?text=Icon"
+      image: "/uploads/icon-onboarding.svg"
     - title: 
       body: Start with one solution, prove ROI, roll out everywhere
-      image: "https://via.placeholder.com/38x46?text=Icon"
+      image: "/uploads/icon-results.svg"
     - title: 
       body: Get quick, genuine results that have a positive impact
-      image: "https://via.placeholder.com/38x46?text=Icon"
+      image: "/uploads/icon-rollout.svg"
       action:
         copy: GET STARTED >
         url: "/contact/"

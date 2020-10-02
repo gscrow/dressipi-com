@@ -46,11 +46,11 @@ sections:
   is-centered: true
   subsections:
   - title: Easy onboarding by our team of friendly experts
-    image: "/uploads/icon__report-increase.svg"
+    image: "/uploads/icon-onboarding.svg"
   - title: Start with one solution, prove ROI, roll out everywhere
-    image: "/uploads/icon__user-love.svg"
+    image: "/uploads/icon-results.svg"
   - title: Get quick, genuine results that have a positive impact
-    image: "/uploads/icon__hanger.svg"
+    image: "/uploads/icon-rollout.svg"
     class: hanger-icon
     action:
       copy: GET STARTED >
