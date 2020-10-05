@@ -172,15 +172,16 @@ assign my_page_url = page.url | remove: '/' %}
             <h2 class="feature__title">{{ subsection.title }}</h2>
             <p class="feature__subtitle">{{ subsection.subtitle }}</p>
             <div class="feature__body">{{ subsection.body | markdownify }}</div>
+            <div class="container features-container" >
+              {% if subsection.action %}<a
+              href="{{ subsection.action.url }}"
+              class="button button--medium button-{{ subsection.action.style | default: 'primary' }} text--center"
+              >{{ subsection.action.copy }}</a
+              >{% endif %}
+            </div>
           </div>
         </div>
-        <div class="container features-container text--center" >
-          {% if subsection.action %}<a
-          href="{{ subsection.action.url }}"
-          class="button button--medium button-{{ subsection.action.style | default: 'primary' }} text--center"
-          >{{ subsection.action.copy }}</a
-          >{% endif %}
-        </div>
+   
       </div>
       {% endfor %}
 

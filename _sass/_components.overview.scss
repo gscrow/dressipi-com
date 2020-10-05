@@ -31,6 +31,11 @@
     background: $background--dark;
     text-align: center;
 
+    .project__title {
+      text-transform: uppercase;
+      line-height: 40px;
+    }
+
     p {
       font-size: 24px;
       color: #ffffff;
@@ -75,7 +80,7 @@
   }
 }
 
-@media screen and (max-width:910px) and (min-width:800px) {
+@media screen and (max-width: 910px) and (min-width: 800px) {
   .overview-section {
     max-width: 300px;
   }
@@ -90,7 +95,7 @@
       margin-left: $tablet-gutter-width / 2;
     }
 
-    &__header{
+    &__header {
       span {
         height: auto;
       }
@@ -107,7 +112,7 @@
       margin-left: $mobile-gutter-width / 2;
     }
 
-    &__header{
+    &__header {
       span {
         height: auto;
       }

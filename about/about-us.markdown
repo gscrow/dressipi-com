@@ -43,7 +43,7 @@ sections:
   - title: "Unique Datasets"
     icon: "/uploads/icon_unique-datasets.svg"
     body: "Machine learning and AI solutions are only as good as the data that feeds them. Dressipi owns the most extensive dataset of garment attributes and fashion-specific customer preferences. Our ability to ingest, cleanse, and augment huge quantities of data from various sources, in real-time, is at the heart of our platform."
-  - title: "Proven Resutls"
+  - title: "Proven Results"
     icon: "/uploads/icon-proven-results.svg"
     body: "We have a proven track record of delivering value quickly, with results that are always externally validated. We’ve won leading industry awards and have been covered by some of the world’s most well respected publications."
 - title: Our Achievements

@@ -10,6 +10,15 @@
     background-color: $background--white;
   }
 
+  &#unique {
+    .section__heading {
+      h3 {
+        text-align: left;
+        padding-left: 24px
+      }
+    }
+  }
+  
   &#awards {
     background: $section-background-color;
   }
