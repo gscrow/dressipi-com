@@ -9,16 +9,13 @@ These brands share a common goal of seeking to offer their customers unbeatable
 experiences by delivering best in class recommendations and prediction scores."
 header:
   page-title: SUCCESS STORIES
-  page-title-icon: "https://via.placeholder.com/30x30?text=Placeholder"   
+  page-title-icon: "/uploads/icon_success-story-colour.svg"   
   title: How River Island Achieved  +3.2% uplift in revenue per visitor and +20% AOV increase with Dressipi’s Revenue Optimisation Platform.
   button:
     copy: SCHEDULE A FREE CONSULTATION >
     url: "/contact"
     style: primary
-  hero-image: "/uploads/River_Island_Case_Study_Image_XS.jpg"
-  link:
-    copy: Read The Full Story
-    url: "/downloads/personalisation-drives-profitable-growth-for-river-island/"
+  hero-image: false
 description: "Dressipi's long-term clients are some of the world’s leading retail brands.
 These brands share a common goal of seeking to offer their customers unbeatable
 experiences by delivering best in class recommendations and prediction scores."
@@ -52,9 +49,9 @@ sections:
   - title: Easy onboarding by our team of friendly experts
     image: "/uploads/icon-onboarding.svg"
   - title: Start with one solution, prove ROI, roll out everywhere
-    image: "/uploads/icon-results.svg"
-  - title: Get quick, genuine results that have a positive impact
     image: "/uploads/icon-rollout.svg"
+  - title: Get quick, genuine results that have a positive impact
+    image: "/uploads/icon-results.svg"
     class: hanger-icon
 
 layout: customers

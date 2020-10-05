@@ -2,7 +2,7 @@
 title: Personalisation Drives Profitable Growth for River Island
 date: 2020-01-24 15:26:00 Z
 resource: Case Studies
-image: "/uploads/River_Island_Case_Study_Smaller_Image_wlogo.jpg"
+image: "/uploads/success-story_river-island@2x.jpg"
 form:
   title: Download Free Case Study
   button: DOWNLOAD CASE STUDY >
@@ -15,12 +15,12 @@ testimonial:
   small-testimonial: River Island increased revenue per visitor by 3.2% and AOV by 20%
   body: "\"Dressipi have taken the time to understand how our business works and the
     best way for River Island to deliver profitable growth.”"
-  logo: "/uploads/river-island_0.png"
+  logo: "/uploads/logo_river-island.svg"
   author:
     name: Gemma Scarfe
     job-title: Head of eCommerce
     company: River Island
-    image: "/uploads/River_Island_Case_Study_Image_XS.jpg"
+    image: "/uploads/success-story_river-island@2x.jpg"
   action: Read The Full Story >
   class: riverisland
 position-list: 1

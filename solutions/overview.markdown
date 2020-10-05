@@ -13,13 +13,13 @@ sections:
     overview-subtitle: With always-on customers, retailers need to better understand their preferences, anticipate demand faster and personalise all touch points to stay ahead. The ability to ingest, cleanse, and augment huge quantities of data from multiple sources is at the very heart of the Dressipi Revenue Optimisation Platform.
     subsections:
       - title: Personalised Recommendations
-        image: "/uploads/icon_data-insight-hub-colour.svg"
+        image: "/uploads/icon_personalised-recommendations-colour.svg"
         body: "Anticipate customer needs and build deeper engagement across every touchpoint: online, instore, in app and email."
         action:
           copy: Find Out How >
           url: "/solutions/personalised-recommendations/"
       - title: Data Insight Hub
-        image: "/uploads/icon_personalised-recommendations-colour.svg"
+        image: "/uploads/icon_data-insight-hub-colour.svg"
         body: "Access real-time insights and actionable knowledge to optimise value at each step of the merchandising and buying process."
         action:
           copy: Find Out How >
@@ -46,10 +46,10 @@ sections:
       image: "/uploads/icon-onboarding.svg"
     - title: 
       body: Start with one solution, prove ROI, roll out everywhere
-      image: "/uploads/icon-results.svg"
+      image: "/uploads/icon-rollout.svg"
     - title: 
       body: Get quick, genuine results that have a positive impact
-      image: "/uploads/icon-rollout.svg"
+      image: "/uploads/icon-results.svg"
       action:
         copy: GET STARTED >
         url: "/contact/"

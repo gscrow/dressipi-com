@@ -51,8 +51,8 @@ sections:
   handle: features
   subsections:
   - title: 
-    image: 'https://via.placeholder.com/750x671?text=Drive+Profitable+Growth+in+3+Simple+Steps'
-    hres-image: 'https://via.placeholder.com/1000x895?text=Drive+Profitable+Growth+in+3+Simple+Steps'
+    image: '/uploads/section-3-simple-steps-mobile.svg'
+    hres-image: '/uploads/section-3-simple-steps.svg'
     order: center
     action:
       copy: FIND OUT HOW >

@@ -27,8 +27,8 @@ sections:
     body: |
       Get rid of blanket sales and maximise your sell-through to protect margins.
       Identify the optimum time to markdown a product, the recommended percentage to use and a distribution method that matches the right products to the right customers.
-    image: "/uploads/section_stock-predictions.png"
-    hres-image: "/uploads/section_stock-predictions@2x.png"
+    image: "/uploads/section-overstock.png"
+    hres-image: "/uploads/section-overstock@2x.png"
     action:
       copy: Tell me more >
       url: "/dressipi-optimise-sale-overstocked-products-webinar/"
@@ -36,8 +36,8 @@ sections:
     subtitle: Use data to better manage, forecast and buy products
     body: "Validate your gut predictions and trade decisions with up to the minute data.
     Equip your buyers and merchandisers with the sales velocity and optimal size ratios for every product at SKU level to help inform replenishment decisions and the shape of future buys."
-    image: "/uploads/section-overstock.png"
-    hres-image: "/uploads/section-overstock@2x.png"
+    image: "/uploads/section_stock-predictions.png"
+    hres-image: "/uploads/section_stock-predictions@2x.png"
     action:
       copy: Tell me more >
       url: "/contact/"
@@ -48,9 +48,9 @@ sections:
   - title: Easy onboarding by our team of friendly experts
     image: "/uploads/icon-onboarding.svg"
   - title: Start with one solution, prove ROI, roll out everywhere
-    image: "/uploads/icon-results.svg"
-  - title: Get quick, genuine results that have a positive impact
     image: "/uploads/icon-rollout.svg"
+  - title: Get quick, genuine results that have a positive impact
+    image: "/uploads/icon-results.svg"
     class: hanger-icon
     action:
       copy: GET STARTED >

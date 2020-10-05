@@ -58,6 +58,18 @@
   }
 }
 
+.index {
+  .feature-image-wrapper {
+    display: block;
+
+    img {
+      display: inline;
+      width: 55%;
+      margin: 3px auto;
+    }
+  }
+}
+
 .order-center {
   order: 0;
   flex: 100%;

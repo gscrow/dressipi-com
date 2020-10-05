@@ -3,7 +3,7 @@ title: Delivering a Personalised Shopping Experience to The Modist
 date: 2019-09-24 08:54:00 Z
 position: 0
 resource: Case Studies
-image: "/uploads/Modist_Small_Case_Study_Image.jpg"
+image: "/uploads/success-story_the-modist@2x.jpg"
 form:
   title: Download Free Case Study
   button: DOWNLOAD CASE STUDY >
@@ -16,12 +16,12 @@ testimonial:
   small-testimonial: The Modist reduced returns by 25% and increased conversion by 11%
   body: “We are extremely happy with the results. Dressipi has consistently outperformed
     our incumbent provider on all key metrics."
-  logo: "/uploads/The%20Modist_Logo.png"
+  logo: "/uploads/logo_the-modist.svg"
   author:
     name: Lauren Terry
     job-title: Director of Ecommerce
     company: The Modist
-    image: "/uploads/Modist_Small_Case_Study_Image-d88efb.jpg"
+    image: "/uploads/success-story_the-modist@2x.jpg"
   action: Read The Full Story >
   class: modist
 position-list: 2
