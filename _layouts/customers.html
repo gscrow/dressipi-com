@@ -18,12 +18,6 @@ layout: default
      {% if section.subtitle %}<p>{{ section.subtitle }}</p>{% endif %}
     </hgroup>
   {% endif %}
-
-  {% unless page.header.button.copy == nil %}
-  <div class="header__button-group">
-    {% if subsection.link %}<a href="{{ subsection.link.url }}" class="header__link anchor-link">{{ subsection.link.copy }}</a>{% endif %}
-  </div>
-  {% endunless %}
   <!-- section content group -->
   <div class="section__body">
     {% case handle %}

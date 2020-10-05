@@ -11,6 +11,27 @@
   max-width: calc-columns-width(2.3);
   height: 100%;
 
+  &__banner {
+    float: right;
+
+    .case-study__wrap {
+      margin: 0;
+      border: none;
+
+      .case-study {
+        max-width: 320px;
+
+        &__header {
+          background-color: #ffffff;
+        }
+
+        &__image {
+          max-height: 320px;
+        }
+      }
+    }
+  }
+
   &__title {
     text-transform: uppercase;
     padding: 11px;
@@ -31,7 +52,6 @@
   &__header {
     font-size: ms(0);
     line-height: rhythm(3);
-    padding: rhythm(2);
     background: $background--lighter;
     text-align: center;
     height: 80px;
@@ -43,10 +63,15 @@
       color: $text-color-soft;
       height: 50px;
     }
+
+    .modist,
+    .riverisland {
+      padding: 5px;
+    }
   }
 
   &__body {
-    padding: rhythm(2);
+    padding: 35px 16px 16px 16px;
     flex: 1;
 
     > p {
@@ -58,17 +83,6 @@
     max-height: 240px;
   }
 
-  &__logo.wallis {
-    img {
-      max-height: 50px;
-      margin: 0 auto;
-    }
-  }
-
-  &__logo.riverisland {
-    padding: 10px;
-  }
-  
   &__footer {
     > .button {
       width: 100%;
@@ -96,6 +110,16 @@
       span {
         height: auto;
       }
+    }
+  }
+
+  .case-study__banner {
+    margin-top: 32px;
+    float: left;
+    width: 100%;
+
+    .case-study {
+      margin: 0 auto;
     }
   }
 }
