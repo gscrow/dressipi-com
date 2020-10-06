@@ -54,7 +54,7 @@ layout: default
             <div class="gutter feature__image">
             {% endif %}
               <div class="feature-image-wrapper"> <!-- keep flex image ratio -->
-                <img src="{{ subsection.image }}" alt="{{ subsection.title }}" {% if subsection.hres-image %}srcset="{{ subsection.hres-image }} 2x"{% endif %} class="feature__image"  />
+                <img src="{{ subsection.hres-image }}" alt="{{ subsection.title }}" {% if subsection.hres-image %}srcset="{{ subsection.image }} 1x, {{ subsection.hres-image }} 2x"{% endif %} class="feature__image"  />
               </div>
             </div>
             {% endif %}

@@ -86,7 +86,7 @@
         {% endunless %}
         {% if my_page_url == '' %}
         <a href="{{ page.header.button.url }}" >
-        <div class="index-image"><img src="{{ page.header.hero-mobile-image }}" srcset="{{ page.header.hero-mobile-image }} x1, {{ page.header.hero-desktop-image }} x2"/></div>
+        <div class="index-image"><img src="{{ page.header.hero-desktop-image }}" {% if subsection.hero-desktop-image %} srcset="{{ page.header.hero-mobile-image }} x1, {{ page.header.hero-desktop-image }} x2" {% endif%}/> </div>
         </a>
         {% endif %}
         {% if my_page_url contains 'author' and page.twitter %}
