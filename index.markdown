@@ -2,12 +2,14 @@
 title: Driving Profitable Growth For Fashion Retailers
 position: 0
 header:
-  title: Driving Profitable Growth For Fashion Retailers
-  body: "The leading, independently verified Revenue Optimisation Platform for fashion retailers"
+  title:
+  body:
+  color: '#191C24'
   button:
-    copy: SCHEDULE A FREE CONSULTATION >
-    url: "/contact"
-  hero-image: "https://via.placeholder.com/1400x760?text=Home+page+banner"
+    copy:
+    url:
+  hero-mobile-image: "/uploads/banner_home-mobile.svg"
+  hero-desktop-image: "/uploads/banner-home.svg"
 description: The leading, independently verified Revenue Optimisation Platform for fashion retailers"
 has-contact-section: false
 sections:

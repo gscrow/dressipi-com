@@ -157,7 +157,6 @@ $header-height--mobile: 67px; // 1px border
     width: calc-columns-width(5);
     max-width: 580px;
 
-    
     &--extend {
       @include margin-center;
       @include text-center;
@@ -176,7 +175,7 @@ $header-height--mobile: 67px; // 1px border
   .banner-page-title {
     display: flex;
 
-    img { 
+    img {
       width: 40px;
       height: 40px;
       margin-right: 10px;
@@ -210,6 +209,15 @@ $header-height--mobile: 67px; // 1px border
   &--tight {
     padding-top: rhythm(5);
     padding-bottom: rhythm(5);
+  }
+}
+
+.index {
+  padding: 0;
+
+  .hero__content {
+    width: auto;
+    max-width: 1130px;
   }
 }
 
@@ -416,6 +424,10 @@ $header-height--mobile: 67px; // 1px border
   .hero__content {
     width: calc-columns-width(4);
   }
+
+  .index {
+    padding: 0;
+  }
 }
 
 // tablet responsive styles
@@ -448,6 +460,10 @@ $header-height--mobile: 67px; // 1px border
       padding-top: rhythm(5);
       padding-bottom: rhythm(5);
     }
+  }
+
+  .index {
+    padding: 0;
   }
 }
 
@@ -496,5 +512,9 @@ $header-height--mobile: 67px; // 1px border
     &__content {
       width: 100%;
     }
+  }
+
+  .index {
+    padding: 0;
   }
 }

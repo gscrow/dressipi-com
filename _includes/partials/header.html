@@ -69,7 +69,7 @@
   </div>
 
   {% unless page.exclude-hero or page.includes-video %}
-  <div class="hero{% if page.header.height =='tight' or my_page_url contains 'blog' or my_page_url contains 'resources' %} hero--tight{% endif %}{% unless my_page_url == '' %} hero-content {{ my_page_url | prepend: "hero-"}}{% endunless %}{% if page.header.hero-image %} hero--mobile{% endif %}" style="background: {% if page.header.hero-image %} {{ page.header.color | default: '#F3F4F7' }} url({{ page.header.hero-image }}) no-repeat right{% else if page.header.color %}{{ page.header.color | default: '#F3F4F7' }}{% endif %};">
+  <div class="hero{% if page.header.height =='tight' or my_page_url contains 'blog' or my_page_url contains 'resources' %} hero--tight{% endif %}{% unless my_page_url == '' %} hero-content {{ my_page_url | prepend: "hero-"}}{% endunless %}{% if page.header.hero-image %} hero--mobile{% endif %} {% if my_page_url == '' %}index{% endif %}" style="background: {% if page.header.hero-image %} {{ page.header.color | default: '#F3F4F7' }} url({{ page.header.hero-image }}) no-repeat right{% else if page.header.color %}{{ page.header.color | default: '#F3F4F7' }}{% endif %};">
     <div class="container gutter landing{% if my_page_url contains 'new-updated-dressipi' %}{% endif %}">
       <div class="hero__content{% if page.header.width %}{{ page.header.width | prepend: '--' }}{% endif %}{% if my_page_url contains 'blog' %}--extend{% endif %}">
         {% if my_page_url contains 'author' and page.image %}
@@ -81,7 +81,12 @@
         <p>{{page.header.page-title}}</p>
         </div>
         {% endif %}
+        {% unless my_page_url == '' %}
         <h1 class="header__title">{{ page.header.title | default: page.title }}</h1>
+        {% endunless %}
+        {% if my_page_url == '' %}
+        <div class="index-image"><img src="{{ page.header.hero-mobile-image }}" srcset="{{ page.header.hero-mobile-image }} x1, {{ page.header.hero-desktop-image }} x2"/></div>
+        {% endif %}
         {% if my_page_url contains 'author' and page.twitter %}
         <h4><a href="http://twitter.com/{{ page.twitter }}" target="_blank"><img class="twitter-logo" src="/assets/twitter.png">   {{ page.twitter }}</a></h4>
         {% endif %}
