@@ -32,7 +32,7 @@
       margin: 0;
     }
   }
-  
+
   &__subtitle {
     font-size: 24px;
     margin-bottom: 15px;
@@ -111,6 +111,14 @@
 
   .feature:nth-child(2n) .feature__image {
     order: 1;
+  }
+
+  .index {
+    .feature-image-wrapper {
+      img {
+        width: 85%;
+      }
+    }
   }
 }
 
