@@ -14,7 +14,7 @@ sections:
     subsections:
       - title: Personalised Recommendations
         image: "/uploads/icon_personalised-recommendations-colour.svg"
-        body: "Anticipate customer needs and build deeper engagement across every touchpoint: online, instore, in app and email."
+        body: "Anticipate customer needs and build deeper engagement across every touchpoint: online, instore, app and email."
         action:
           copy: Find Out How >
           url: "/solutions/personalised-recommendations/"
