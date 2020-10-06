@@ -9,7 +9,13 @@ layout: default
   <hgroup class="container gutter section__heading">
     {% if section.title %}<h2>{{ section.title }}</h3>{% endif %}
     {% if section.comment %}<p class="comment">{{ section.comment }}</p>{% endif %}
-    {% if section.subtitle %}<p>{{ section.subtitle }}</p>{% endif %}
+    {% if section.subtitle %}
+    {% if section.paragraph-narrow %}
+    <p class="section__heading-subtitle narrow">{{ section.subtitle }}</p>
+    {% else %}
+    <p class="section__heading-subtitle">{{ section.subtitle }}</p>
+    {% endif %}
+    {% endif %}
   </hgroup>
 
   <!-- section content group -->

@@ -26,7 +26,8 @@ sections:
   - LK Bennett
   - Pentland
 - title: The Revenue Optimisation Platform
-  subtitle: By using intelligent, fashion-specific AI and machine learning capabilities,<br> Dressipi empowers retailers to meet shopper expectations and drive profitable growth
+  paragraph-narrow: true
+  subtitle: By using intelligent, fashion-specific AI and machine learning capabilities, Dressipi empowers retailers to meet shopper expectations and drive profitable growth
   handle: revenue
   subsections:
   - title: Optimise conversion & increase lifetime value

@@ -10,6 +10,12 @@
     background-color: $background--white;
   }
 
+  .section__heading {
+    .section__heading-subtitle.narrow {
+      max-width: 685px;
+    }
+  }
+
   &#unique {
     .section__heading {
       h3 {
