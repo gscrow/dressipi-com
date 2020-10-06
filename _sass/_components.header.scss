@@ -465,6 +465,30 @@ $header-height--mobile: 67px; // 1px border
   .index {
     padding: 0;
   }
+
+  .header__title {
+    font-size: 27px !important;
+  }
+
+  .header__subtitle {
+    .header__banner-subtitle {
+      font-size: 24px !important;
+    }
+  }
+
+  .hero-content .header__title {
+    line-height: rhythm(5);
+  }
+  
+  .banner-page-title-wrapper {
+    .banner-page-title {
+      font-size: 16px !important;
+    }
+
+    .banner-page-title-icon {
+      width: 30px !important;
+    }
+  }
 }
 
 // mobile responsive styles
@@ -516,24 +540,5 @@ $header-height--mobile: 67px; // 1px border
 
   .index {
     padding: 0;
-  }
-
-  .header__title {
-    font-size: 27px !important;
-  }
-
-  .header__subtitle {
-    .header__banner-subtitle {
-      font-size: 24px !important;
-    }
-  }
-  .banner-page-title-wrapper {
-    .banner-page-title {
-      font-size: 16px !important;
-    }
-
-    .banner-page-title-icon {
-      width: 30px !important;
-    }
   }
 }
