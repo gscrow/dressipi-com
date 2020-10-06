@@ -6,8 +6,8 @@ header:
   page-title: DATA INSIGHT HUB
   page-title-icon: "/uploads/icon_data-insight-hub-grey.svg"
   title: Increasing Sell Through. Reducing Discounting. Driving Profitability.
-  body: "Dressipi’s Data Insight Hub moves retailers from their traditional spreadsheet limitations to real time, deeper insights about customers, transactions, returns and operations, without any coding or IT intervention"
-  hero-image: "/uploads/banner_data-insight-hub.png"
+  body: '<p class="header__banner-subtitle"> Dressipi’s Data Insight Hub moves retailers from their traditional spreadsheet limitations to real time, deeper insights about customers, transactions, returns and operations, without any coding or IT intervention"
+  hero-image: "/uploads/banner_data-insight-hub.png </p>'
 description: Dressipi’s Data Insight Hub moves retailers from their traditional spreadsheet limitations to real time, deeper insights about customers, transactions, returns and operations, without any coding or IT intervention
 sections:
 - title:

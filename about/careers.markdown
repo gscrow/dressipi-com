@@ -6,9 +6,13 @@ navigation: about-footer
 header:
   title: Working at Dressipi
   body: |-
+    <p class="header__banner-subtitle">
     With passion, ambition and a commitment to learning, our close-knit team support, challenge and inspire each other every day.
+    </p>
 
+    <p class="header__banner-subtitle">
     We are always looking for outstanding individuals from diverse backgrounds who want to be part of our fantastic team and help the fashion industry change
+    </p>
   button:
     copy: JOIN OUR TEAM >
     url: "#jobs"
