@@ -20,7 +20,7 @@ description: "Dressipi's long-term clients are some of the world’s leading ret
 These brands share a common goal of seeking to offer their customers unbeatable
 experiences by delivering best in class recommendations and prediction scores."
 sections:
-- title: With Dressipi you’re in Fashionable Company
+- title: With Dressipi You’re in Fashionable Company
   subtitle: We help the world’s leading brands reduce costs and grow profitably 
   handle: clients
   clients:

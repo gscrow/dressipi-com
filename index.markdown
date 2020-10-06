@@ -13,7 +13,7 @@ header:
 description: The leading, independently verified Revenue Optimisation Platform for fashion retailers"
 has-contact-section: false
 sections:
-- title: With Dressipi you’re in Fashionable Company
+- title: With Dressipi You’re in Fashionable Company
   subtitle: We help the world’s leading brands reduce costs and grow profitably
   handle: clients
   clients:
