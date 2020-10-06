@@ -76,9 +76,9 @@
           <img src="{{ page.image }}" title="{{ page.title }}" class="thumb thumb--rounded"/>
         {% endif %}
         {% if page.header.page-title %}
-        <div class="banner-page-title">
-          <img src="{{ page.header.page-title-icon }}" title="{{ page.header.page-title}}" class="page-title-icon"/>
-        <p>{{page.header.page-title}}</p>
+        <div class="banner-page-title-wrapper">
+          <img src="{{ page.header.page-title-icon }}" title="{{ page.header.page-title}}" class="banner-page-title-icon"/>
+        <p class="banner-page-title">{{page.header.page-title}}</p>
         </div>
         {% endif %}
         {% unless my_page_url == '' %}
@@ -93,7 +93,7 @@
         <h4><a href="http://twitter.com/{{ page.twitter }}" target="_blank"><img class="twitter-logo" src="/assets/twitter.png">   {{ page.twitter }}</a></h4>
         {% endif %}
         {% if page.header.body %}
-        <div class="header__subtitle"><p>{{ page.header.body | markdownify }}</p></div>
+        <div class="header__subtitle"><p class="header__banner-subtitle">{{ page.header.body | markdownify }}</p></div>
         {% endif %}
 
         {% if my_page_url == 'clients' %}
