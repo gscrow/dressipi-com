@@ -30,9 +30,11 @@
 .platform__description {
   background-color: $background--white;
   width: 220px;
-  min-width: 180px;
+  min-width: 220px;
   height: 166px;
   margin-right: 20px;
+  margin-bottom: 20px;
+
 
   p {
     font-weight: 300;
@@ -98,6 +100,21 @@
 
 // tablet responsive styles
 @include responsive(tablet) {
+  .platform__gutter {
+    flex-wrap: wrap;
+
+    .platform__title {
+      margin-right: 0;
+      margin-bottom: 15px;
+      width: 100%;
+
+      h3 {
+        width: 100%;
+        text-align: center;
+      }
+    }
+  }
+
   .benefit__number {
     font-size: 30px;
   }
