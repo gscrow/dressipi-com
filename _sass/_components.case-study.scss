@@ -91,6 +91,34 @@
   }
 }
 
+.index-case-study {
+  display: flex;
+  justify-content: space-between;
+
+  .success-story-title {
+    max-width: 616px;
+
+    span {
+      text-transform: uppercase;
+      line-height: 40px;
+      font-size: 30px;
+      margin-bottom: 15px;
+    }
+
+    .success-story__body {
+      font-size: 41px;
+      line-height: 56px;
+      margin: 0 0 8px 0;
+    }
+  }
+
+  .case-study__wrap {
+    border: none;
+    max-width: 259px;
+    min-width: 259px;
+  }
+}
+
 @media screen and (max-width: 910px) and (min-width: 800px) {
   .case-study {
     max-width: calc-columns-width(2);
@@ -120,6 +148,14 @@
 
     .case-study {
       margin: 0 auto;
+    }
+  }
+
+  .index-case-study {
+    flex-wrap: wrap;
+
+    .case-study__wrap {
+      margin: 25px auto 0 auto;
     }
   }
 }

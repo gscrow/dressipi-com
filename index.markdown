@@ -7,7 +7,7 @@ header:
   color: '#191C24'
   button:
     copy:
-    url:
+    url: "/contact"
   hero-mobile-image: "/uploads/banner_home-mobile.svg"
   hero-desktop-image: "/uploads/banner-home.svg"
 description: The leading, independently verified Revenue Optimisation Platform for fashion retailers"
@@ -30,15 +30,15 @@ sections:
   handle: revenue
   subsections:
   - title: Optimise conversion & increase lifetime value
-    number-left: 8%
+    number-left: 12%
     number-left-description: more revenue
     number-right: 0.5% 
     number-right-description: more profit
   - title: Drive better retention & fewer returns
-    number-left: N%
-    number-left-description: more revenue
-    number-right: N%
-    number-right-description: more profit
+    number-left: 5%
+    number-left-description: retention
+    number-right: 3%
+    number-right-description: returns reduction
   - title: Increase sell-through & reduce discounting
     number-left: 5%
     number-left-description: gross margin impact
@@ -59,22 +59,15 @@ sections:
     action:
       copy: FIND OUT HOW >
       url: "/solutions/overview/"
-- title: Beyond Expectations ROI 
-  subtitle: 
-  handle: features
-  subsections:
-  - title:
-    body: ' "Working with Dressipi is a breath of fresh air. They are straight-forward,
-    open, transparent and truly understand that fashion is different from another eCommerce categories
-    (such as travel, electronics, groceries etc.). They have taken the time to understand how our business 
-    works and the best way for River Island to deliver profitable growth."
-  
-    #### - Gemma Scarfe, Head of eCommerce, River Island
-    '
-    image: "/uploads/river-island_0.png"
-    hres-image: "/uploads/river-island_0.png"
-    action:
-      copy: READ THE FULL STORY >
-      url: "/downloads/personalisation-drives-profitable-growth-for-river-island/"
+- title:
+  handle: case-study
+  page-title: SUCCESS STORIES
+  page-title-icon: "/uploads/icon_success-story-colour.svg"   
+  body: How River Island Achieved  +3.2% uplift in revenue per visitor and +20% AOV increase with Dressipi’s Revenue Optimisation Platform.
+  success-story-button:
+    copy: Read Full Story >
+    url: "/downloads/personalisation-drives-profitable-growth-for-river-island/"
+    style: primary
+  hero-image: false
 layout: index
 ---

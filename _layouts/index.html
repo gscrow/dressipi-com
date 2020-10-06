@@ -74,6 +74,28 @@ layout: default
       {% endfor %}
     </div>
 
+    {% when 'case-study' %}    
+    <div class="container index-case-study gutter">
+      <div class="success-story-title">
+        <img src="{{ section.page-title-icon }}" title="{{ section.page-title }}" class="page-title-icon"/>
+      <span>{{ section.page-title }}</p>
+      <div class="success-story__body"> {{ section.body }}</div>
+      <div class="section__footer">
+        <a href="{{ section.succes-story-button.url }}" class="button button--medium button-{{ section.button.style | default: 'primary' }} anchor-link">{{ section.success-story-button.copy }}</a>
+      </div>
+      </div>
+      <div class="case-study__wrap">
+        <div class="case-study">
+          <a href="{{ section.succes-story-button.url }}">
+          <div class="case-study__header">
+            <div class="case-study__logo "><img src="/uploads/logo_river-island.svg" /></div>
+          </div>
+          <div class="case-study__image"><img src="/uploads/success-story_river-island@2x.jpg" /></div>
+        </a>
+        </div>
+      </div>
+    </div>
+
     {% when 'clients' %}
     {% assign site_clients = site.clients | sort:'position' %}
     <!-- client logo slider -->
@@ -99,7 +121,7 @@ layout: default
   {% if section.button %}
   <!-- section footer group -->
   <div class="container gutter section__footer text--center">
-    <a href="{{ section.button.url }}" class="button button--medium button-{{ section.button.style | default: 'secondary' }} anchor-link">{{ section.button.copy }}</a>
+    <a href="{{ section.button.url }}" class="button button--large button-{{ section.button.style | default: 'secondary' }} anchor-link">{{ section.button.copy }}</a>
   </div>
   {% endif %}
 </section>
