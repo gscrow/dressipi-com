@@ -133,7 +133,7 @@ form-demo:
   redirect: "/thanks"
 form-newsletter:
   formspree-ID: mkjvowyx
-  button: Subscribe >
+  button: "Subscribe >"
   email_cc: 
   redirect: "/thanks"
 company:
