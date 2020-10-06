@@ -18,7 +18,7 @@
     display: flex;
     flex: 5;
     justify-content: center;
-    order: 99;
+    order: -1;
   }
 
   &__copy {
@@ -85,7 +85,7 @@
 
 // place feature__image to the right on even feature row
 .feature:nth-child(2n) .feature__image {
-  order: -1;
+  order: 99;
 }
 
 // tablet responsive styles
@@ -152,6 +152,6 @@
     display: flex;
     flex: 5;
     justify-content: center;
-    order: 99;
+    order: -1;
   }
 }
