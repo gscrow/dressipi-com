@@ -3,9 +3,9 @@ title: Overview
 position: 1
 navigation: solution-footer
 header:
-  title: Leveraging Data to Enhance and Personalise the Customer Experience
+  title: Using Data to Enhance and Personalise the Customer Experience
   hero-image: "/uploads/banner-solutions-overview.png"
-description: Leveraging Data to Enhance and Personalise the Customer Experience
+description: Using Data to Enhance and Personalise the Customer Experience
 sections:
   - title:
     handle: overview
