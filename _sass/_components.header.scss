@@ -218,6 +218,12 @@ $header-height--mobile: 67px; // 1px border
   .hero__content {
     width: auto;
     max-width: 1130px;
+
+    .index-image {
+      img {
+        margin-bottom: -1px;
+      }
+    }
   }
 }
 
