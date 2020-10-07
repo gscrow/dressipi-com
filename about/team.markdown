@@ -93,10 +93,6 @@ sections:
     title: Front End Engineer
     linkedin: https://uk.linkedin.com/in/hassan-iskaf
     image: "/uploads/Hassan%20I.jpg"
-  - name: Leo Yeung
-    title: Front End Engineer
-    linkedin: https://www.linkedin.com/in/leo-yeung-298434150/
-    image: "/uploads/profile_pic.jpg"
   - name: Joe Margrie-Rouse
     title: Data Engineer
     linkedin: https://www.linkedin.com/in/joe-margrie-rouse/
