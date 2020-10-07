@@ -54,7 +54,7 @@ sections:
     linkedin: https://www.linkedin.com/in/selina-mills/?ppe=1
     image: "/uploads/selina-mills.jpg"
   - name: Elisenda Torras
-    title: Junior Stylist Manager
+    title: Style Team Lead
     linkedin: https://www.linkedin.com/in/elisenda-torras/
     image: "/uploads/Elisenda%20Torras-b16c1a.png"
   - name: Philippa Mew
