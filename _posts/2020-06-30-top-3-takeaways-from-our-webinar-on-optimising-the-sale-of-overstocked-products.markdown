@@ -48,7 +48,7 @@ This allows retailers to show a completely personalised edit to each customer wi
 
 Due to the advances in Machine Learning and AI outlined in the point above, retailers can get a deeper understanding of each customer and product. This enables them to more effectively distribute products to customers to significantly improve the chances of a product being bought and kept.
 
-A simple example is illustrated in the webinar, please get in touch if you would like a link to the video.
+A simple example is illustrated in the webinar, you can watch the video [here](https://dressipi.com/dressipi-optimise-sale-overstocked-products-webinar/).
 
 Offering different products to different customers in each phase of discounting will increase the probability of purchase and have a huge impact on your contributed margin.
 
@@ -65,9 +65,5 @@ Dressipi is here to support fashion retailers and maximise their cash position. 
 [Innovate UK](https://www.gov.uk/government/news/40m-boost-for-cutting-edge-start-ups) recognises us as one of the leading, cutting-edge technology companies in the UK and we welcome retailers to get in touch to see how we can help.
 
 Thank you Stuart and Sarah for your thoughts on this topic and for giving us an inspiring webinar with takeaways that can be executed today.
-
-Our next webinar will focus on how retailers can use their data better to understand the size of the buy and the size ratios for any given product.
-
-Please do tune in!
 
 <p style="text-align:center"><a href="/contact/" class="button button-primary">FREE CONSULTATION</a></p>
