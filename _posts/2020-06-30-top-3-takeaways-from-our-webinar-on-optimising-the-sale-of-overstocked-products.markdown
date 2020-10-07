@@ -19,6 +19,8 @@ description: 'For those of you who weren''t able to make our Overstocked Webinar
   we have pulled out the 3 main takeaways from the event. '
 ---
 
+The main takeaways from our Overstocked Webinar.
+
 <p style="text-align:center; font-style: italic;"> “We are coming back to a slightly different world. Sitting on stock, fewer customers, the need to convert our inventory more efficiently and improve bottom line margins.” </p>
 <p style="text-align:center; font-weight: bold;">Stuart Rose, Chairman, Dressipi</p>
 
