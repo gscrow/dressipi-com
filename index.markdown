@@ -67,7 +67,7 @@ sections:
   page-title: SUCCESS STORIES
   page-title-icon: "/uploads/icon_success-story-colour.svg"
   body: How River Island Achieved  +3.2% uplift in revenue per visitor and +20% AOV
-    increase with Dressipi’s Revenue Optimisation Platform.
+    increase with Dressipi’s Revenue Optimisation Platform
   success-story-button:
     copy: Read Full Story >
     url: "/downloads/personalisation-drives-profitable-growth-for-river-island/"

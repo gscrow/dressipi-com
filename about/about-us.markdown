@@ -7,7 +7,7 @@ navigation: about-footer
 header:
   title: We are Dressipi
   body: <p class="header__banner-subtitle">We drive profitable growth for fashion
-    retailers.</p>
+    retailers</p>
   button:
     copy: 
     url: 
