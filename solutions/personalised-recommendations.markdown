@@ -9,8 +9,7 @@ header:
   title: The Right Product, in the Right Size, at the Right Time
   body: |-
     <p class="header__banner-subtitle">
-    Dressipi’s Revenue Optimisation Platform powers a highly personalised and deepened customer experience, 
-    resulting in better lifetime value, reduced returns and greater customer loyalty
+    Power highly personalised and deepened customer experiences, resulting in better lifetime value, reduced returns and greater customer loyalty
     </p>
   hero-image: "/uploads/banner_personalised-recommendations@2x.png"
 has-contact-section: false

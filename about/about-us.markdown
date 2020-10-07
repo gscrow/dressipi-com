@@ -39,13 +39,13 @@ sections:
   publications:
   - title: "Fashion Focussed"
     icon: "/uploads/icon_fashion_focussed.svg"
-    body: "Fashion is always evolving with time and inspiration. Dressipi has spent years delivering fashion-specific algorithms, drawing on the expertise of some of the industry’s top stylists and experts. This focus on fashion is a key differentiator and why we consistently outperform our competitors’ general, cross industry approach."
+    body: "Fashion is always evolving. Dressipi has spent years delivering fashion-specific algorithms, drawing on the expertise of some of the industry’s top stylists and experts. This focus on fashion is a key differentiator and why we consistently outperform our competitors’ general, cross industry approach."
   - title: "Unique Datasets"
     icon: "/uploads/icon_unique-datasets.svg"
     body: "Machine learning and AI solutions are only as good as the data that feeds them. Dressipi owns the most extensive dataset of garment attributes and fashion-specific customer preferences. Our ability to ingest, cleanse, and augment huge quantities of data from various sources, in real-time, is at the heart of our platform."
   - title: "Proven Results"
     icon: "/uploads/icon-proven-results.svg"
-    body: "We have a proven track record of delivering value quickly, with results that are always externally validated. We’ve won leading industry awards and have been covered by some of the world’s most well respected publications."
+    body: "Our long-standing clients are industry leaders and a testament to our passion and commitment. We have a proven track record of delivering value quickly, with results that are always externally validated. We’ve won leading industry awards and have been covered by some of the world’s most well-respected publications."
 - title: Our Achievements
   subtitle: 
   handle: awards

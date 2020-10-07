@@ -13,7 +13,7 @@ form:
     products and services
 testimonial:
   title: Success Story
-  small-testimonial: The Modist reduced returns by 25% and increased conversion by 11%
+  small-testimonial: The Modist achieved 25% returns reduction and 11% conversion increase
   body: “We are extremely happy with the results. Dressipi has consistently outperformed
     our incumbent provider on all key metrics."
   logo: "/uploads/logo_the-modist.svg"
