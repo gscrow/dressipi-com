@@ -125,10 +125,9 @@ description: Personalising the Entire Customer Experience
 url: https://dressipi.com
 form-demo:
   formspree-ID: xojeeoem
-  title: Be Predictive and Achieve Great Results
-  subtitle: 'Get in touch to see how Dressipi''s data-driven approach can help increase
-    net incremental revenue per visitor, conversion and frequency of purchase. '
-  button: SCHEDULE A FREE CONSULTATION >
+  title: Meet shopper expectations and drive profitable growth
+  subtitle: 'Book a free consultation to start personalising the customer experience and delivering ROI '
+  button: FREE CONSULTATION >
   email_cc: 
   redirect: "/thanks"
 form-newsletter:
