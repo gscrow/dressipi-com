@@ -70,4 +70,4 @@ Our next webinar will focus on how retailers can use their data better to unders
 
 Please do tune in!
 
-<p style="text-align:center"><a href="/contact/" class="button button-primary">Contact Us</a></p>
+<p style="text-align:center"><a href="/contact/" class="button button-primary">FREE CONSULTATION</a></p>
