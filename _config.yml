@@ -126,13 +126,14 @@ url: https://dressipi.com
 form-demo:
   formspree-ID: xojeeoem
   title: Meet shopper expectations and drive profitable growth
-  subtitle: 'Book a free consultation to start personalising the customer experience and delivering ROI '
+  subtitle: 'Book a free consultation to start personalising the customer experience
+    and delivering ROI '
   button: FREE CONSULTATION >
   email_cc: 
   redirect: "/thanks"
 form-newsletter:
   formspree-ID: mkjvowyx
-  button: "Subscribe >"
+  button: Subscribe >
   email_cc: 
   redirect: "/thanks"
 company:

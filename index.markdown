@@ -2,15 +2,16 @@
 title: Driving Profitable Growth For Fashion Retailers
 position: 0
 header:
-  title:
-  body:
-  color: '#191C24'
+  title: 
+  body: 
+  color: "#191C24"
   button:
-    copy:
+    copy: 
     url: "/contact"
   hero-mobile-image: "/uploads/banner_home-mobile.svg"
   hero-desktop-image: "/uploads/banner-home.svg"
-description: The leading, independently verified Revenue Optimisation Platform for fashion retailers"
+description: The leading, independently verified Revenue Optimisation Platform for
+  fashion retailers"
 has-contact-section: false
 sections:
 - title: With Dressipi You’re in Fashionable Company
@@ -27,7 +28,8 @@ sections:
   - Pentland
 - title: The Revenue Optimisation Platform
   paragraph-narrow: true
-  subtitle: By using fashion-specific AI and machine learning capabilities, Dressipi empowers retailers to meet shopper expectations and drive profitable growth
+  subtitle: By using fashion-specific AI and machine learning capabilities, Dressipi
+    empowers retailers to meet shopper expectations and drive profitable growth
   handle: revenue
   subsections:
   - title: Optimise conversion & increase lifetime value
@@ -54,17 +56,18 @@ sections:
   handle: features
   subsections:
   - title: 
-    image: '/uploads/section-3-simple-steps-mobile.svg'
-    hres-image: '/uploads/section-3-simple-steps.svg'
+    image: "/uploads/section-3-simple-steps-mobile.svg"
+    hres-image: "/uploads/section-3-simple-steps.svg"
     order: center
     action:
       copy: FIND OUT HOW >
       url: "/solutions/overview/"
-- title:
+- title: 
   handle: case-study
   page-title: SUCCESS STORIES
-  page-title-icon: "/uploads/icon_success-story-colour.svg"   
-  body: How River Island Achieved  +3.2% uplift in revenue per visitor and +20% AOV increase with Dressipi’s Revenue Optimisation Platform.
+  page-title-icon: "/uploads/icon_success-story-colour.svg"
+  body: How River Island Achieved  +3.2% uplift in revenue per visitor and +20% AOV
+    increase with Dressipi’s Revenue Optimisation Platform.
   success-story-button:
     copy: Read Full Story >
     url: "/downloads/personalisation-drives-profitable-growth-for-river-island/"
@@ -72,3 +75,4 @@ sections:
   hero-image: false
 layout: index
 ---
+

@@ -7,8 +7,8 @@ footer-position: 2
 header:
   title: Dressipi Guides
 navigation: resource-footer
-description: 'Our Guides will give you a deeper understanding of Dressipi and
-  expert opinion on the latest advancements in fashion personalisation. '
+description: 'Our Guides will give you a deeper understanding of Dressipi and expert
+  opinion on the latest advancements in fashion personalisation. '
 layout: resource
 ---
 

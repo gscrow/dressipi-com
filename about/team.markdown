@@ -12,9 +12,8 @@ sections:
   handle: team
   body: |-
     With passion, ambition and a commitment to learning our close-knit team support, challenge and inspire each other every day. Our expert technologists, data scientists and fashion stylists work side by side with the common goal of helping the fashion industry change.
-    
-    If you'd like to join us, please visit our [our careers page](/about/careers/) to see what roles we are hiring for.
 
+    If you'd like to join us, please visit our [our careers page](/about/careers/) to see what roles we are hiring for.
   members:
   - name: Lord Rose
     title: Chairman

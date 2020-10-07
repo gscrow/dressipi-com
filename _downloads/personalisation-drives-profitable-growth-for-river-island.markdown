@@ -12,7 +12,8 @@ form:
   button_class: case-study
 testimonial:
   title: Success Story
-  small-testimonial: River Island increased revenue per visitor by 3.2% and AOV by 20%
+  small-testimonial: River Island increased revenue per visitor by 3.2% and AOV by
+    20%
   body: "\"Dressipi have taken the time to understand how our business works and the
     best way for River Island to deliver profitable growth.”"
   logo: "/uploads/logo_river-island.svg"
