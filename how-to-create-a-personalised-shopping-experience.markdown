@@ -1,7 +1,7 @@
 ---
 title: How to Create a Personalised Shopping Experience
 date: 2017-11-08 15:24:00 Z
-position: 24
+position: 25
 header:
   title: How to Create a Personalised Shopping Experience
   body: "## With an ever changing retail environment, comes ever changing customer

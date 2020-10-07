@@ -1,7 +1,7 @@
 ---
 title: True Personalisation
 date: 2017-11-08 15:34:00 Z
-position: 32
+position: 33
 header:
   title: True Personalisation
   body: "## Dressipi is the global leader in True Personalisation. We give each customer

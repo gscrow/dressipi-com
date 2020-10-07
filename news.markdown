@@ -32,6 +32,8 @@ sections:
   subtitle: 
   handle: awards
   awards:
+  - image: "/uploads/London-Tech-50-new.jpg"
+    title: BusinessCloud’s London Tech 50 2020
   - image: "/uploads/Screenshot%202019-12-09%20at%2017.11.03.png"
     title: Top 100 eCommerce Trailblazers (BusinessCloud)
   - image: "/uploads/award__millenial1.png"
@@ -56,10 +58,6 @@ sections:
     title: Best AI Product in Fashion - Winner
   - image: "/uploads/award__every-woman.png"
     title: Entrepreneur Award - Winner
-  - image: "/uploads/award__retailweek.png"
-    title: Best Customer Experience - Finalist
-  - image: "/uploads/award__internet-retailing-2015.png"
-    title: The Service Award - Finalist
 layout: news
 ---
 
