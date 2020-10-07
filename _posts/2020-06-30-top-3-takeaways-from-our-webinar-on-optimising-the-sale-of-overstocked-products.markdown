@@ -30,9 +30,6 @@ This webinar outlined smarter, data-driven solutions for shifting overstock prod
 
 ## 1) Advances in Data Science and Machine Learning / AI Technology make the previously impossible possible
    
-
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Overstock%20webinar%20image%201.PNG"/></p>
-
 <p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/Overstock%20webinar%20image%201.png"/></p>
 
 These advances allow retailers to clean, structure and process the huge volumes of data so that it is consistent and all in one place. Additional fashion specific data can be added to spot the patterns and trends so unique to this industry.
