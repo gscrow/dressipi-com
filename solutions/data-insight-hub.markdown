@@ -22,9 +22,7 @@ sections:
       them
     body: 'What are the biggest triggers for your returns? Get more accurate and targeted
       insights that break down returns data, analysing the causes at both category
-      and product level, along with practical ways to reduce them.
-
-'
+      and product level, along with practical ways to reduce them.'
     image: "/uploads/section_returns-analysis.png"
     hres-image: "/uploads/section_returns-analysis@2x.png"
     action:
