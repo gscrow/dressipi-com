@@ -11,7 +11,7 @@ Field name:
   Key: 
 ---
 
-Our live webinar with Stuart Rose, Chairman of Dressipi and other industry experts focused exclusively on how working with Dressipi, River Island used personalisation to deliver differentiated customer experiences resulting in a 6% revenue increase in 12 months.
+Our live webinar with Stuart Rose and River Island focused exclusively on how the brand used personalisation to deliver differentiated customer experiences resulting in a 6% revenue increase in 12 months.
 
 In the below recording of the session you will learn: 
 
