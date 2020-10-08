@@ -3,6 +3,8 @@ title: 'Dressipi Webinar: How River Island used personalisation to deliver a 6% 
   increase in 12 months'
 position: 34
 is-landing-page: true
+description: Why working with a fashion-specific solution is better than working with
+  a generic one.
 includes-video: true
 hide-clients-carousel: true
 video-url: https://dressipi.com/media/riverisland-dressipi-webinar.mp4
@@ -15,7 +17,7 @@ Our live webinar with Stuart Rose and River Island focused exclusively on how th
 
 In the below recording of the session you will learn: 
 
-* How to implement personalisation that delivers real results
+* How to implement personalisation in fashion that delivers real results
 
 * How to use data better to drive efficiency down the supply chain
 
