@@ -5,7 +5,7 @@ position: 34
 is-landing-page: true
 includes-video: true
 hide-clients-carousel: true
-video-url: https://dressipi.com/media/overstock-webinar.mp4
+video-url: https://dressipi.com/media/riverisland-dressipi-webinar.mp4
 has-contact-section: true
 Field name:
   Key: 
