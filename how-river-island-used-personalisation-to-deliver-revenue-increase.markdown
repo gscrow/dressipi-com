@@ -7,6 +7,7 @@ description: How to implement personalisation in fashion that delivers real resu
 includes-video: true
 hide-clients-carousel: true
 video-url: https://dressipi.com/media/riverisland-dressipi-webinar.mp4
+video-mask: "/uploads/riverisland-webinar-video-mask.png"
 has-contact-section: true
 Field name:
   Key: 

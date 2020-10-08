@@ -5,6 +5,7 @@ position: 34
 is-landing-page: true
 includes-video: true
 video-url: https://dressipi.com/media/overstock-webinar.mp4
+video-mask: "/uploads/overstock-webinar-video-mask.png"
 left-headshot: "/uploads/sarah-mcvittie@2x.jpg"
 left-host-name: Sarah McVittie
 left-host-title: Co-Founder
