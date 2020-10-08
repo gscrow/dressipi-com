@@ -165,8 +165,9 @@ exclude:
 - prettierignore
 - node_modules
 plugins:
-- jekyll-sitemap
-- jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-redirect-from
 john-lewis:
   garment-112:
     fit: Tailored
