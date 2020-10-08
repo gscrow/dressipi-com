@@ -158,11 +158,11 @@ per_page: 10
 gtm-code: GTM-TRK2KPX
 permalink: pretty
 exclude:
-  - Gemfile.lock
-  - README*
-  - ".gitignore"
-  - prettierignore
-  - node_modules
+- Gemfile.lock
+- README*
+- ".gitignore"
+- prettierignore
+- node_modules
 plugins:
 - jekyll-sitemap
 - jekyll-seo-tag
