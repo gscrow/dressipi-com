@@ -10,15 +10,17 @@
 
   {% assign entries = site.pages | sort: "position" %}
   {% for entry in entries %}
-    {% capture slug    %}{{ entry.url | split: "/"   | last                       }}{% endcapture %}
-    {% capture current %}{{ entry.url | remove: slug | remove: "//" | append: "/" }}{% endcapture %}
+    {% unless entry.redirect_to %}
+      {% capture slug    %}{{ entry.url | split: "/"   | last                       }}{% endcapture %}
+      {% capture current %}{{ entry.url | remove: slug | remove: "//" | append: "/" }}{% endcapture %}
 
-    {% if current == include.context %}
-      <li>
-        <a class="navigation__link {% if page.url == entry.url %}navigation__link--active{% endif %}" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
-        {% include partials/navigation.html context=entry.url %}
-      </li>
-    {% endif %}
-  {% endfor %}
+      {% if current == include.context %}
+        <li>
+          <a class="navigation__link {% if page.url == entry.url %}navigation__link--active{% endif %}" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+          {% include partials/navigation.html context=entry.url %}
+        </li>
+        {% endif %}
+      {% endunless %}
+    {% endfor %}
 </ul>
 {% endcapture %}{{ html | strip_newlines | replace:'    ','' | replace:'    ','' | replace:'  ',' ' }}
