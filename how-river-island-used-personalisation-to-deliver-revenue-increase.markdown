@@ -2,6 +2,8 @@
 title: 'Dressipi Webinar: How River Island used personalisation to deliver a 6% revenue
   increase in 12 months'
 position: 34
+header:
+  hero-image: "/uploads/Webinar-2020-09-07-social-1280.png"
 is-landing-page: true
 description: How to implement personalisation in fashion that delivers real results.
 includes-video: true
