@@ -40,12 +40,12 @@
     height: 37px;
   }
 
-// overwrite .case-study class
-// @Rob Bevan --> Fix needed: replace .case-study with .btn-case-study and update your tracking
+  // overwrite .case-study class
+  // @Rob Bevan --> Fix needed: replace .case-study with .btn-case-study and update your tracking
   button.case-study {
-  	max-width: 100%;
-  	display: block;
-  	flex-direction: inherit;
+    max-width: 100%;
+    display: block;
+    flex-direction: inherit;
   }
 }
 
@@ -63,7 +63,8 @@
       font-size: 81%;
     }
 
-    &__submit, &__input {
+    &__submit,
+    &__input {
       font-size: 0.9rem;
     }
   }
@@ -71,15 +72,14 @@
 
 @include responsive(tablet) {
   .form-download {
-
     &__heading {
       > h3 {
         font-size: ms(2);
       }
     }
 
-  #checkOpt {
-    margin-bottom: 55px;
+    #checkOpt {
+      margin-bottom: 55px;
     }
   }
 }

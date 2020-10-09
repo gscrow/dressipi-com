@@ -10,7 +10,7 @@ $baseline-rhythm: 8px;
 //$baseline-rhythm: .5rem;
 
 // transition timing
-$default-transition-timing: .3s ease;
+$default-transition-timing: 0.3s ease;
 
 // miscellaneous
 $border-radius--base: 0.15em;
@@ -28,25 +28,27 @@ $page-max-width: ($column-width + $gutter-width) * 9; // 9 columns grid system
 
 // responsive breakpoints
 $breakpoints: (
-	desktop: 960px,
+  desktop: 960px,
   tablet: 800px,
-  mobile: 480px
+  mobile: 480px,
 );
 
 // table styles
-$table-border-color: darken($border-color,10);
+$table-border-color: darken($border-color, 10);
 $table-border-width: 0.0625em;
 $table-border-style: solid;
 
 $table-margin-bottom: 1.529411765em;
-$table-cell-padding: .75em;
+$table-cell-padding: 0.75em;
 $table-cell-text-align: left;
-$table-cell-border-top: $table-border-width $table-border-style $table-border-color;
+$table-cell-border-top: $table-border-width $table-border-style
+  $table-border-color;
 
 $table-header-font-weight: 700;
-$table-body-border-top: .125em $table-border-style $table-border-color;
-$table-condensed-padding: .625em;
-$table-bordered-border: $table-border-width $table-border-style $table-border-color;
+$table-body-border-top: 0.125em $table-border-style $table-border-color;
+$table-condensed-padding: 0.625em;
+$table-bordered-border: $table-border-width $table-border-style
+  $table-border-color;
 $table-bordered-border-radius: $border-radius--base;
 $table-border-left: $table-border-width $table-border-style $table-border-color;
 $table-bordered-child-radius: $border-radius--base;

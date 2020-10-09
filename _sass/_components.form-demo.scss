@@ -2,7 +2,7 @@
   &-demo {
     background: $section-background-color;
 
-    &__heading{
+    &__heading {
       text-align: center;
 
       > h2 {
@@ -48,7 +48,7 @@
 
 // tablet responsive styles
 @include responsive(tablet) {
-.form-demo {
+  .form-demo {
     &__submit {
       width: 180px;
       padding-right: 10px;
@@ -58,7 +58,7 @@
 }
 // mobile responsive styles
 @include responsive(mobile) {
-.form-demo {
+  .form-demo {
     &__form {
       flex-wrap: wrap;
     }

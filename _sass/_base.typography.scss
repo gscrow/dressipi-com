@@ -26,28 +26,32 @@ h6 {
   margin: 0;
 }
 
-h1, .h1 {
+h1,
+.h1 {
   font-size: ms(8);
   line-height: rhythm(7);
   margin: 0 0 rhythm(2) 0;
   color: $h1-color;
 }
 
-h2, .h2 {
+h2,
+.h2 {
   font-size: ms(5);
   line-height: rhythm(5);
   margin: 0 0 rhythm(1) 0;
   color: $h2-color;
 }
 
-h3, .h3 {
+h3,
+.h3 {
   font-size: ms(3);
   line-height: rhythm(4);
   margin: 0 0 rhythm(1) 0px;
   color: $h3-color;
 }
 
-h4, .h4 {
+h4,
+.h4 {
   font-size: ms(-1);
   font-weight: 400;
   line-height: rhythm(3);
@@ -94,11 +98,11 @@ blockquote {
   padding: rhythm(1) 0 rhythm(1) 28px;
   border-left: 2px solid $brand-primary-color;
 
-    p {
-      font-size: ms(3);
-      line-height: rhythm(5);
-      margin: 0 0 rhythm(1) 0px;
-      text-align: left;
+  p {
+    font-size: ms(3);
+    line-height: rhythm(5);
+    margin: 0 0 rhythm(1) 0px;
+    text-align: left;
 
     &:before {
       float: left;

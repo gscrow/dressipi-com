@@ -1,13 +1,13 @@
 .thumb {
-	width: 64px;
-	height: 64px;
+  width: 64px;
+  height: 64px;
 
-	&--rounded {
-		border-radius: 50%;
-	}
+  &--rounded {
+    border-radius: 50%;
+  }
 
-	&--small {
-		width: 32px;
-		height: 32px;
-	}
+  &--small {
+    width: 32px;
+    height: 32px;
+  }
 }

@@ -3,7 +3,7 @@
   &::after {
     display: table;
     clear: both;
-    content: '';
+    content: "";
   }
 }
 
@@ -26,10 +26,9 @@
     @include hover {
       background-color: $button-primary-hover-background;
     }
-  }
-
-  @else if $button-style == "secondary" {
-    transition: color $default-transition-timing, border-color $default-transition-timing;
+  } @else if $button-style == "secondary" {
+    transition: color $default-transition-timing,
+      border-color $default-transition-timing;
     color: $button-secondary-text-color;
     border: 1px solid $button-secondary-border-color;
     background-color: $button-secondary-background;
@@ -37,8 +36,7 @@
     @include hover {
       color: $button-secondary-hover-text-color;
     }
-  }
-  @else if $button-style == "default" {
+  } @else if $button-style == "default" {
     color: $button-default-text-color;
     border: 1px solid $button-default-border-color;
     background-color: $button-default-background;

@@ -15,7 +15,7 @@
 
       li {
         &:before {
-          content: ""
+          content: "";
         }
 
         .pink-tick {
@@ -30,7 +30,7 @@
   }
 }
 
-blockquote.yellow-blockquote{
+blockquote.yellow-blockquote {
   border-left: 2px solid yellow !important;
   p {
     font-size: 1rem;

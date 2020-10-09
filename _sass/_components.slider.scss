@@ -3,11 +3,11 @@
   width: 100%;
   margin: 50px auto;
   padding: 10px;
-  
-  .slick-prev:before, .slick-next:before {
+
+  .slick-prev:before,
+  .slick-next:before {
     color: $text-color-strong;
   }
-
 
   @media screen and (max-width: 850px) and (min-width: 500px) {
     max-width: 500px;

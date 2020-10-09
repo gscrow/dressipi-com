@@ -1,14 +1,14 @@
 .landing {
-	> .container {
-		@include flexbox;
-	 	@include flex-wrap(wrap);
-	  @include justify-content(center);
-	}
+  > .container {
+    @include flexbox;
+    @include flex-wrap(wrap);
+    @include justify-content(center);
+  }
 
-	&__content {
-	  flex: 6;
+  &__content {
+    flex: 6;
 
-	  ul {
+    ul {
       @extend %list-styled;
 
       li {
@@ -20,28 +20,27 @@
   }
 
   &__form {
-	  flex: 4;
-	  margin-left: $gutter-width;
+    flex: 4;
+    margin-left: $gutter-width;
   }
 }
 
 @include responsive(tablet) {
-	.landing {
-		&__content {
-			flex-basis: 100%;
-		}
+  .landing {
+    &__content {
+      flex-basis: 100%;
+    }
 
-		&__form {
-			flex-basis: 100%;
-			margin-left: 0;
-		}
-	}
+    &__form {
+      flex-basis: 100%;
+      margin-left: 0;
+    }
+  }
 
-	.form-download {
-  	padding: rhythm(2);
-	}
+  .form-download {
+    padding: rhythm(2);
+  }
 }
 
 @include responsive(mobile) {
-
 }
