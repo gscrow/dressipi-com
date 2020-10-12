@@ -41,7 +41,7 @@ sections:
   - name: Jonny Aloysius
     title: Head of Finance
     linkedin: https://www.linkedin.com/in/jonny-aloysius-1562463
-    image: "/uploads/Jonny%20Aloysius%20-%20Head%20of%20Finance-cc0d73.jpg"
+    image: "/uploads/jonny-aloysius.jpg.jpg"
   - name: Natalie Theo
     title: Style Director
     linkedin: https://www.linkedin.com/in/natalie-theo-5b561160/?ppe=1
@@ -64,7 +64,7 @@ sections:
   - name: Georgina Fisher
     title: 'Sales & Marketing Associate '
     linkedin: https://www.linkedin.com/in/georgina-fisher-408689151/
-    image: "/uploads/Georgina%20Fisher%20-%20Sales%20&%20Marketing%20Associate.jpg"
+    image: "/uploads/georgina-fisher.jpg"
   - name: JJ. Green
     title: Machine Learning Developer
     linkedin: http://soliton.vm.bytemark.co.uk/pub/jjg/en
@@ -96,7 +96,7 @@ sections:
   - name: Joe Margrie-Rouse
     title: Data Engineer
     linkedin: https://www.linkedin.com/in/joe-margrie-rouse/
-    image: "/uploads/Joe%20MR.JPG"
+    image: "/uploads/joe-mr.jpg"
   - name: Luke Ingram
     title: Data Engineer
     linkedin: https://www.linkedin.com/in/luke-ingram-0b787798/
@@ -104,7 +104,7 @@ sections:
   - name: James Tuck
     title: Data Analyst
     linkedin: https://www.linkedin.com/in/james-tuck-28555172/
-    image: "/uploads/James%20Tuck%20Photo.jpg"
+    image: "/uploads/james-tuck.jpg"
   button:
     copy: JOIN OUR TEAM >
     url: "/about/careers/"

@@ -12,7 +12,7 @@ tags:
 - better customer service
 - innovation
 - retail innovation
-image: "/uploads/Boden_banner.JPG"
+image: "/uploads/boden_banner.jpg"
 author: Natalie Theo
 description: As more and more pureplay retailers open physical stores, Natalie Theo,
   Dressipi’s Style Director ventures to Boden's newest flagship.
@@ -39,7 +39,7 @@ There are no quirky technological offerings in-store, so it is very much about t
  
 Their mail order catalogue and online experience is one I enjoy. I look forward to the colourful printed envelopes and books I receive in the post. They were one of the first to not only ‘talk to me’ by personalising my catalogue with my name but to also show me something I had already bought.
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/boden_2.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/boden_2.jpg"/></p>
 
 Online, the witty ‘how to wear it’ and ‘why to buy it’ content that accompanies the product puts me in that Boden mood and ups my click-through-rate. Replicating the outfitting and editorial they provide online is exactly what would enhance the [in-store customer experience](https://dressipi.com/how-to-improve-customer-experience-instore/) further and inspire even more engagement.  Someone or something to translate all those wonderful colours and prints into multi-tasking looks perfectly suited to *my own* personal preferences, which would all work with my existing wardrobe. 
 

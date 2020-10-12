@@ -35,7 +35,7 @@ What begs to be discussed is given this physicality, how can retailers adapt and
 
 Digital technology is moving at a rapid pace, and for retailers to be leaders in their industry they need to embrace these advancements and start using new emerging technology surrounding AI, machine learning and data analytics (to name a few buzzwords). “*One of the biggest assets in our industry is data*” highlighted Julian, adding “*We are entering the next period of retail revolution and data will be at the forefront of that*." 
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Day%202%20Panel_Keynote.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/day-2-panel_keynote.jpg"/></p>
 
 Highlights from a jam-packed Day 2 (if you missed Day 1, check out our blog post [here](dressipi.com/blog/millennial-2020-europe-summit-day-1/)) included:
 
@@ -49,7 +49,7 @@ Smart mirrors, robots and many other digital technologies are now emerging in-st
 
 I sometimes find it hard to find tangible examples of success when it comes to implementing “of the moment” tech, however Sean McKee, Director of eCommerce and Customer Experience, Schuh gave us an interesting case study. The high street shoe business has introduced the ability to take payment at point of sale. Not only has mobilising tills saved, “*100 seconds per transaction*” it has freed up much-needed space, such as in the Marble Arch branch where the kid’s section is now where the tills used to be.
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Day%202%20Panel_Keynote_2.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/day-2-panel_keynote_2.jpg"/></p>
 
 Given the increasing pressure retailers are facing to keep fresh and change, some may not fully understand the hesitance when it comes to introducing new technology. Sean McKee stressed that it’s a big investment which needs careful planning and execution. According to him, there are three key points to consider:
 

@@ -16,7 +16,7 @@ tags:
 - retail innovation
 - digital technology
 - physical store
-image: "/uploads/JD%20Sports%20Banner.JPG"
+image: "/uploads/JD-sports-banner.jpg"
 author: Georgina Fisher
 description: With the athleisure trend rapidly growing, and reports of international
   store expansion in the press, Georgina Fisher visited JD Sports’ flagship on Oxford
@@ -50,7 +50,7 @@ JD Sports pride themselves on their multichannel capabilities which they believe
 
 JD Sports’ continued investment in their mobile app offering means that customers are able to use it widely in their stores to get extra product information, scan barcodes etc. I was able to scan the barcode of the trainers I liked on the app and save them to buy later. I could get them delivered to my home or pick up in-store by their click & collect service. This was an overall impressive and truly multichannel customer journey which is clearly working - in their [Annual Report 2018](https://www.jdplc.com/~/media/Files/J/Jd-Sports-Fashion-Plc/reports-and-presentations/2018-annual-report-v1.pdf) they state, *“There continues to be growth in sales from our in-store digital devices (kiosks, web tills and iPads).”*
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/JD%20Sports.PNG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/JD-sports.png"/></p>
 
 Other digital devices that make JD Sports stand out from competitors include:
 
@@ -59,7 +59,7 @@ Other digital devices that make JD Sports stand out from competitors include:
 * Other ways for the customer to interact e.g. testing out your new boots, 3D printing to create bespoke products etc.
 * Showcasing new technology 
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/JD%20Sports%202.PNG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/JD-sports-2.png"/></p>
 
 Although JD Sports have a huge amount of product, I didn’t feel overwhelmed due to the ease the technology gave me to find what I wanted and buy it whichever way I chose. This reflects positively on a statement made in their [Annual Report 2018](https://www.jdplc.com/~/media/Files/J/Jd-Sports-Fashion-Plc/reports-and-presentations/2018-annual-report-v1.pdf) *“We believe we are creating an industry leading retail business with the best of physical and digital retail combined to give a compelling proposition and enabling our consumers to shop seamlessly across all channels.”*
 

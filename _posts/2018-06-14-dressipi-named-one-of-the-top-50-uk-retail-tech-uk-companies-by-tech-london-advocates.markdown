@@ -18,7 +18,7 @@ tags:
 - Poq
 - retail personalisation
 - Top 50
-image: "/uploads/Banner%20Image%20(1)-e16bfa.jpg"
+image: "/uploads/retail-tech-banner-image.jpg"
 author: Philippa Mew
 description: Dressipi was delighted to be named one of the Top 50 UK Retail Tech companies
   switching up the fashion game by Tech London Advocates.

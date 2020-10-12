@@ -85,4 +85,4 @@ But don’t run the risk of being too intrusive when it comes to using data - as
 
 We also can’t forget the added bonus of Dressipi’s ‘Ones to Watch Award’ nomination. Although we missed out on the title, we were thrilled to be in the running for Best Innovation Commerce-Enabler / Best Retail Solution!
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Awards.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/awards.jpg"/></p>

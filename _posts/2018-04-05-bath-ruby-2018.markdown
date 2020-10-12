@@ -11,7 +11,7 @@ tags:
 - coding
 - Yukihiro Matsumoto
 - ruby 3x3
-image: "/uploads/bath%20rasduby.JPG"
+image: "/uploads/bath-rasduby.jpg"
 author: Fred Cheung
 description: Fred Cheung, Dressipi's CTO shares his highlights from Bath Ruby 2018.
 ---
