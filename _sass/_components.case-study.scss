@@ -99,10 +99,14 @@
   .success-story-title {
     max-width: 616px;
 
+    img {
+      width: 32px;
+    }
+
     span {
       text-transform: uppercase;
       line-height: 40px;
-      font-size: 30px;
+      font-size: 24px;
       margin-bottom: 15px;
       position: relative;
       top: -7px;
