@@ -1,0 +1,23 @@
+<div
+  class="container benefits {% if section.is-centered %}text--center{% endif %}"
+>
+  {% for subsection in section.subsections %}
+  <div class="gutter benefit {{ subsection.gutter-class }} roi-section">
+    <div class="benefit__icon">
+      <img src="{{ subsection.image }}" class="{{ subsection.class }}" />
+    </div>
+    <p class="benefit__title">{{ subsection.title }}</p>
+  </div>
+  {% endfor %}
+</div>
+{% for subsection in section.subsections %}
+<div class="container benefits-container text--center">
+  {% if subsection.action %}
+  <a
+    href="{{ subsection.action.url }}"
+    class="button button--medium button-{{ subsection.action.style | default: 'primary' }}"
+    >{{ subsection.action.copy }}</a
+  >
+  {% endif %}
+</div>
+{% endfor %}

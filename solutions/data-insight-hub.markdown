@@ -49,9 +49,10 @@ sections:
     action:
       copy: Tell me more >
       url: "/contact/"
-- title: Dressipi Makes it Easy to Get Started & Deliver ROI
+- roi-title: Dressipi Makes it Easy to Get Started & Deliver ROI
   handle: benefits
   is-centered: true
+  roi-section: true
   subsections:
   - title: Easy onboarding by our team of friendly experts
     image: "/uploads/icon-onboarding.svg"

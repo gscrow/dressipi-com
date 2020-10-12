@@ -36,12 +36,10 @@ sections:
   - Personalisation Drives Profitable Growth for River Island
   - Delivering a Personalised Shopping Experience to The Modist
   - Accelerating Wallis to be Truly Predictive
-- title: Dressipi Makes it Easy to Get Started & Deliver ROI
+- roi-title: Dressipi Makes it Easy to Get Started & Deliver ROI
   handle: benefits
-  button:
-    copy: SCHEDULE A FREE CONSULTATION >
-    url: "/contact"
   is-centered: true
+  roi-section: true
   subsections:
   - title: Easy onboarding by our team of friendly experts
     image: "/uploads/icon-onboarding.svg"
@@ -49,7 +47,9 @@ sections:
     image: "/uploads/icon-rollout.svg"
   - title: Get quick, genuine results that have a positive impact
     image: "/uploads/icon-results.svg"
-    class: hanger-icon
+    action:
+      copy: SCHEDULE A FREE CONSULTATION >
+      url: "/contact"
 layout: customers
 ---
 

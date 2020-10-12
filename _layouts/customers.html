@@ -7,10 +7,9 @@ layout: default
 <section id="{{ handle }}" class="section {% if handle %}{{ section.handle | prepend: 'section-' | append: ' ' }}{% endif %}background--{{ section.color | default:'white' }}">
   <!-- section heading group -->
   
-  {% if section.button %}
-  <hgroup class="container gutter section__heading" style="margin-bottom:0;">
-    {% if section.title %}<h2>{{ section.title }}</h2>{% endif %}
-    {% if section.subtitle %}<h4>{{ section.subtitle }}</h4>{% endif %}
+  {% if section.roi-section %}
+  <hgroup class="container gutter section__heading roi-title">
+    <h2>{{ section.roi-title }}</h2>
   </hgroup>
   {% else %}
    <hgroup class="container gutter section__heading">
@@ -87,35 +86,9 @@ layout: default
     </div>
 
     {% when 'benefits' %}
-    <div
-      class="container benefits {% if section.is-centered %}text--center{% endif %}"
-    >
-      {% for subsection in section.subsections %}
-      <div class="gutter benefit {{ subsection.gutter-class }}">
-        <div class="benefit__icon">
-          <img src="{{ subsection.image }}" class="{{ subsection.class }}" />
-        </div>
-        <p class="benefit__title">{{ subsection.title }}</p>
-        <div class="benefit__body">
-          {{ subsection.body | markdownify }}
-        </div>
-      </div>
-      {% endfor %}
-    </div>
-    <div class="container benefits-container text--center" >
-      {% if section.button %}
-    <!-- section footer group -->
-    <div class="container section__footer text--center">
-      <a href="{{ section.button.url }}" class="button button--medium button-{{ section.button.style | default: 'primary' }}">{{ section.button.copy }}</a>
-    </div>
-    {% endif %}
-    </div>
+    {% include partials/roi-contact.html %}
     {% endcase %}
   </div>
-
- 
-
-
 </section>
 
 

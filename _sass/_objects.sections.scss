@@ -57,6 +57,11 @@
   &-jobs {
     padding-bottom: 0;
   }
+
+  .roi-title {
+   margin-bottom:0;
+   max-width: 650px;
+  }
 }
 
 @include responsive(tablet) {

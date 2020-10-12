@@ -39,10 +39,11 @@ sections:
     body: 
     image: "/uploads/section_insights.png"
     hres-image: "/uploads/section_insights@2x.png"
-- title: Dressipi Makes it Easy to Get Started & Deliver ROI
+- roi-title: Dressipi Makes it Easy to Get Started & Deliver ROI
   colour: white
   handle: benefits
   is-centered: true
+  roi-section: true
   subsections:
   - title: Easy onboarding by our team of friendly experts
     image: "/uploads/icon-onboarding.svg"

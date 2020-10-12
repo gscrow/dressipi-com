@@ -45,17 +45,15 @@ sections:
     - Sales Force
     - IBM
     - Astound
-- title: Dressipi Makes it Easy to Get Started & Deliver ROI
+- roi-title: Dressipi Makes it Easy to Get Started & Deliver ROI
   handle: benefits
+  roi-section: true
   subsections:
-  - title: 
-    body: Easy onboarding by our team of friendly experts
+  - title: Easy onboarding by our team of friendly experts
     image: "/uploads/icon-onboarding.svg"
-  - title: 
-    body: Start with one solution, prove ROI, roll out everywhere
+  - title: Start with one solution, prove ROI, roll out everywhere
     image: "/uploads/icon-rollout.svg"
-  - title: 
-    body: Get quick, genuine results that have a positive impact
+  - title: Get quick, genuine results that have a positive impact
     image: "/uploads/icon-results.svg"
     action:
       copy: GET STARTED >
