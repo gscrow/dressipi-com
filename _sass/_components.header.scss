@@ -518,6 +518,10 @@ $header-height--mobile: 67px; // 1px border
         margin-left: auto;
         border-bottom: none;
       }
+
+      &-group > a {
+        font-size: 13px;
+      }
     }
 
     &__title {

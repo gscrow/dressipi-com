@@ -122,6 +122,16 @@
 
 // mobile responsive styles
 @include responsive(mobile) {
+  .publication__icon {
+    max-width: 45px;
+  }
+
+  .publication__title {
+    p {
+      font-size: 13px !important;
+    }
+  }
+
   .team {
     &__member {
       flex-basis: 50%;

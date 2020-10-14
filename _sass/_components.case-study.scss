@@ -54,7 +54,7 @@
     line-height: rhythm(3);
     background: $background--white;
     text-align: center;
-    height: 80px;
+    height: 85px;
 
     > span {
       font-size: ms(-1);
@@ -64,10 +64,18 @@
       height: 50px;
     }
 
+    .index-riverisland {
+      padding: 11px;
+    }
+
     .modist,
     .riverisland {
       padding: 5px;
     }
+  }
+
+  &__list {
+    height: 80px;
   }
 
   &__body {
@@ -117,18 +125,18 @@
       line-height: 37px;
       margin: 0 0 8px 0;
     }
+
+    .section__footer {
+      a {
+        text-align: center;
+      }
+    }
   }
 
   .case-study__wrap {
     border: none;
     max-width: 259px;
     min-width: 259px;
-  }
-}
-
-@media screen and (max-width: 910px) and (min-width: 800px) {
-  .case-study {
-    max-width: calc-columns-width(2);
   }
 }
 
@@ -184,6 +192,16 @@
 
     &__image {
       max-height: 100%;
+    }
+
+    &__banner {
+      .case-study__wrap {
+        .case-study {
+          &__image {
+            max-height: 300px;
+          }
+        }
+      }
     }
   }
 }

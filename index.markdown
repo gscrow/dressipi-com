@@ -73,6 +73,7 @@ sections:
     url: "/downloads/personalisation-drives-profitable-growth-for-river-island/"
     style: primary
   hero-image: false
+  class: index-riverisland
 layout: index
 ---
 

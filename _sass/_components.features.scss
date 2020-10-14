@@ -33,6 +33,10 @@
     }
   }
 
+  &__title {
+    font-size: 24px;
+  }
+
   &__subtitle {
     font-size: 24px;
     margin-bottom: 15px;
@@ -106,6 +110,10 @@
     &__copy {
       flex-basis: 100%;
       order: 2;
+    }
+
+    &__title {
+      line-height: 27px;
     }
   }
 
