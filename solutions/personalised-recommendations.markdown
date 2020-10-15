@@ -17,24 +17,27 @@ sections:
 - title: 
   handle: features
   subsections:
-  - title: Dressipi matches each customer’s specific style and fashion preferences
+  - title: 
+    subtitle: Dressipi matches each customer’s specific style and fashion preferences
       to your entire product offering to deliver personalised product, outfit and
       size recommendations.
-    subtitle: 
     body: 
     image: "/uploads/section_preferences.png"
     hres-image: "/uploads/section_preferences@2x.png"
-  - title: Updated in real-time based on in-session customer behaviour and changes
+  - title:
+    subtitle: Updated in real-time based on in-session customer behaviour and changes
       in availability of product.
     body: 
     image: "/uploads/section_real-time.png"
     hres-image: "/uploads/section_real-time@2x.png"
-  - title: 'Optimised for every customer touchpoint: online, instore, in app, and
+  - title:
+    subtitle: 'Optimised for every customer touchpoint: online, instore, in app, and
       on email.'
-    body: 
+    body:
     image: "/uploads/section_touchpoints.png"
     hres-image: "/uploads/section_touchpoints@2x.png"
-  - title: Capturing valuable insights into each individual customer at every step
+  - title:
+    subtitle: Capturing valuable insights into each individual customer at every step
       of their journey.
     body: 
     image: "/uploads/section_insights.png"

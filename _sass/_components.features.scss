@@ -34,7 +34,7 @@
   }
 
   &__title {
-    font-size: 24px;
+    font-size: 32px;
   }
 
   &__subtitle {
@@ -103,7 +103,7 @@
 
     &__image {
       flex-basis: 100%;
-      order: -1;
+      order: 2;
       margin-bottom: rhythm(2);
     }
 
@@ -113,12 +113,13 @@
     }
 
     &__title {
+      font-size: 29px;
       line-height: 27px;
     }
   }
 
   .feature:nth-child(2n) .feature__image {
-    order: 1;
+    order: 2;
   }
 
   .index {
@@ -168,6 +169,6 @@
     display: flex;
     flex: 5;
     justify-content: center;
-    order: -1;
+    order: 2;
   }
 }
