@@ -24,19 +24,19 @@ sections:
     body: 
     image: "/uploads/section_preferences.png"
     hres-image: "/uploads/section_preferences@2x.png"
-  - title:
+  - title: 
     subtitle: Updated in real-time based on in-session customer behaviour and changes
       in availability of product.
     body: 
     image: "/uploads/section_real-time.png"
     hres-image: "/uploads/section_real-time@2x.png"
-  - title:
+  - title: 
     subtitle: 'Optimised for every customer touchpoint: online, instore, in app, and
       on email.'
-    body:
+    body: 
     image: "/uploads/section_touchpoints.png"
     hres-image: "/uploads/section_touchpoints@2x.png"
-  - title:
+  - title: 
     subtitle: Capturing valuable insights into each individual customer at every step
       of their journey.
     body: 
