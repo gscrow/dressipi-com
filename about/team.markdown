@@ -41,7 +41,7 @@ sections:
   - name: Jonny Aloysius
     title: Head of Finance
     linkedin: https://www.linkedin.com/in/jonny-aloysius-1562463
-    image: "/uploads/jonny-aloysius.jpg.jpg"
+    image: "/uploads/jonny-aloysius.jpg"
   - name: Natalie Theo
     title: Style Director
     linkedin: https://www.linkedin.com/in/natalie-theo-5b561160/?ppe=1
