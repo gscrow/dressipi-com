@@ -12,7 +12,7 @@ Field name:
   Key: 
 ---
 
-Dressipi CEO Sarah McVittie takes a closer look at how our Data Insight dashboards can help you to easily visualise your data, spot quick wins to ensure you are always trading as effectively as possible, drive more effective CRM strategies and pinpoint the quickest way to reduce your return rates. They are genuinely actionable, customised to each retailer’s requirements and will make a real difference to your bottom line.
+Dressipi CEO Sarah McVittie takes a closer look at how our Data Insight dashboards can help you to easily visualise your data and spot quick wins to ensure you are always trading as effectively as possible. They are genuinely actionable, customised to each retailer’s requirements, and will make a real difference to your bottom line.
 
 In the below video you will learn how our dashboards can help you:
 
