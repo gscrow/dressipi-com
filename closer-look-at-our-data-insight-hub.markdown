@@ -16,7 +16,7 @@ Dressipi CEO Sarah McVittie takes a closer look at how our Data Insight dashboar
 
 In the below video you will learn how our dashboards can help you:
 
-1) Trade more effectively from week to week
+<p style="padding-left: 50px;"> 1) Trade more effectively from week to week </p>
 2) Optimise your marketing and CRM strategies
 3) Manage stock availability and size fragmentation
 4) Find out what is driving returns, and ways to reduce them
