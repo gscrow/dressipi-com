@@ -12,14 +12,12 @@ Field name:
   Key: 
 ---
 
-Our webinar with Stuart Rose and River Island focused on how the brand used personalisation to deliver differentiated customer experiences resulting in a 6% revenue increase in 12 months.
+Dressipi CEO Sarah McVittie takes a closer look at how our Data Insight dashboards can help you to easily visualise your data, spot quick wins to ensure you are always trading as effectively as possible, drive more effective CRM strategies and pinpoint the quickest way to reduce your return rates. They are genuinely actionable, customised to each retailer’s requirements and will make a real difference to your bottom line.
 
-In the below recording of the session you will learn: 
+In the below video you will learn how our dashboards can help you:
 
-* How to implement personalisation in fashion that delivers real results
-
-* How to use data better to drive efficiency down the supply chain
-
-* Why working with a fashion-specific solution is better than working with a generic one
-
-The panel was moderated by Journalist and Editor Hannah Prevett.
+1. Trade more effectively from week to week
+2. Optimise your marketing and CRM strategies
+3. Manage stock availability and size fragmentation
+4. Find out what is driving returns, and ways to reduce them
+5. Benchmark your company against your peers
