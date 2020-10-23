@@ -1,5 +1,5 @@
 ---
-title: "Dressipi Video: A closer look at our <br>Data Insight Hub"
+title: 'Dressipi Video: A closer look at our <br>Data Insight Hub'
 position: 34
 is-landing-page: true
 description: How to implement personalisation in fashion that delivers real results.
