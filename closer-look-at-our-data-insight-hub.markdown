@@ -6,7 +6,7 @@ description: How to implement personalisation in fashion that delivers real resu
 includes-video: true
 hide-clients-carousel: true
 video-url: https://dressipi.com/media/data-insight-hub-video.mp4
-video-mask: 
+video-mask: "/uploads/dressipi-data-insight-video-mask.png"
 has-contact-section: true
 Field name:
   Key: 
