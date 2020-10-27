@@ -1,5 +1,5 @@
 ---
-title: 'Dressipi Video: A closer look at our <br>Data Insight Hub'
+title: Dressipi Video:<br>A closer look at our Data Insight Hub
 position: 34
 is-landing-page: true
 description: How to implement personalisation in fashion that delivers real results.
@@ -12,7 +12,7 @@ Field name:
   Key: 
 ---
 
-Dressipi CEO Sarah McVittie takes a closer look at how our Data Insight dashboards can help you to easily visualise your data and spot quick wins to ensure you are always trading as effectively as possible. They are genuinely actionable, customised to each retailer’s requirements, and will make a real difference to your bottom line.
+Co-CEO Sarah McVittie explains how Dressipi's Data Insight Hub helps to easily visualise your data and spot quick wins to ensure you are always trading as effectively as possible. They are genuinely actionable, customised to each retailer’s requirements, and will make a real difference to your bottom line.
 
 In the below video you will learn how our dashboards can help you:
 
