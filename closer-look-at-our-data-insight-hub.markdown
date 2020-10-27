@@ -12,7 +12,7 @@ Field name:
   Key: 
 ---
 
-Co-CEO Sarah McVittie explains how Dressipi's Data Insight Hub helps to easily visualise your data and spot quick wins to ensure you are always trading as effectively as possible. With dashboards that are genuinely actionable and customised to each retailer’s requirements, this level of insight will make a real difference to your bottom line.
+Co-CEO Sarah McVittie explains how Dressipi's Data Insight Hub helps you easily visualise data and spot quick wins to ensure you are always trading as effectively as possible. With dashboards that are genuinely actionable and customised to each retailer’s requirements, this level of insight will make a real difference to your bottom line.
 
 In the below video you will learn how our dashboards can help you:
 
