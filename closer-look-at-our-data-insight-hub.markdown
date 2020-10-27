@@ -2,7 +2,8 @@
 title: Dressipi Video:<br>A closer look at our Data Insight Hub
 position: 34
 is-landing-page: true
-description: How to implement personalisation in fashion that delivers real results.
+description: Learn how to trade as effectively as possible and make a real difference
+  to your bottom line with Dressipi's Data Insight Hub.
 includes-video: true
 hide-clients-carousel: true
 video-url: https://dressipi.com/media/data-insight-hub-video.mp4
