@@ -2,12 +2,9 @@
 title: Driving Profitable Growth For Fashion Retailers
 position: 0
 header:
-  title: 
-  body: 
-  color: "#191C24"
   button:
-    copy: 
     url: "/contact"
+  color: "#191C24"
   hero-mobile-image: "/uploads/banner_home-mobile.svg"
   hero-desktop-image: "/uploads/banner-home.svg"
 description: The leading, independently verified Revenue Optimisation Platform for
@@ -35,7 +32,7 @@ sections:
   - title: Optimise conversion & increase lifetime value
     number-left: <span ="number>12</span><span class="percentage-sign">%</span>
     number-left-description: more revenue
-    number-right: 0.5<span class="percentage-sign">%</span>
+    number-right: 10<span class="percentage-sign">%</span>
     number-right-description: more profit
   - title: Drive better retention & fewer returns
     number-left: 5<span class="percentage-sign">%</span>
