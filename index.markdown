@@ -26,7 +26,7 @@ sections:
 - title: The Revenue Optimisation Platform
   paragraph-narrow: true
   subtitle: By using fashion-specific AI and machine learning capabilities, Dressipi
-    empowers retailers to meet shopper expectations and drive profitable growth
+    helps retailers meet shopper expectations and drive profitable growth
   handle: revenue
   subsections:
   - title: Optimise conversion & increase lifetime value
