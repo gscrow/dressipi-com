@@ -32,7 +32,7 @@ sections:
       url: "/solutions/data-insight-hub/"
 - title: One Platform. Limitless Integrations.
   handle: solutions
-  subtitle: Dressipi’s powerful APIs enable seamless integration into existing enterprise
+  subtitle: Dressipi’s powerful APIs seamlessly integrate into existing enterprise
     platforms so you can quickly drive profitable growth across the entire value chain
   subsections:
   - title: 
