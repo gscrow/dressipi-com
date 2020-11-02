@@ -24,22 +24,23 @@ sections:
       \n"
     image: "/uploads/section_preferences.png"
     hres-image: "/uploads/section_preferences@2x.png"
-  - title: 
-    subtitle: Updated in real-time based on in-session customer behaviour and changes
-      in availability of product.
-    body: 
+  - title: Optimised for Every Customer Touchpoint
+    subtitle: Online, in-store, in-app, and email
+    body: 'However your customers interact with your brand, make sure it''s personal.
+      Give tailored assistance and helpful communications at the right time and place. '
     image: "/uploads/section_real-time.png"
     hres-image: "/uploads/section_real-time@2x.png"
-  - title: 
-    subtitle: 'Optimised for every customer touchpoint: online, instore, in app, and
-      on email.'
-    body: 
+  - title: Updated in Real-Time
+    subtitle: 'Based on in-session customer behaviour and changes in product availability '
+    body: Our algorithms ensure your customer experiences are up to date, in line
+      with their needs, and take stock and size availability into account.
     image: "/uploads/section_touchpoints.png"
     hres-image: "/uploads/section_touchpoints@2x.png"
-  - title: 
-    subtitle: Capturing valuable insights into each individual customer at every step
-      of their journey.
-    body: 
+  - title: Always Learning
+    subtitle: 'Capture valuable insight into each customer’s preferences '
+    body: Continually build an understanding of your customers and how they interact
+      with your products at every step of their journey to make sure their experiences
+      get better and better.
     image: "/uploads/section_insights.png"
     hres-image: "/uploads/section_insights@2x.png"
 - roi-title: Dressipi Makes it Easy to Get Started & Deliver ROI
