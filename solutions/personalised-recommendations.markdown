@@ -28,14 +28,14 @@ sections:
     subtitle: Online, in-store, in-app, and email
     body: 'However your customers interact with your brand, make sure it''s personal.
       Give tailored assistance and helpful communications at the right time and place. '
-    image: "/uploads/section_real-time.png"
-    hres-image: "/uploads/section_real-time@2x.png"
+    image: "/uploads/section_touchpoints.png"
+    hres-image: "/uploads/section_touchpoints@2x.png"
   - title: Updated in Real-Time
     subtitle: 'Based on in-session customer behaviour and changes in product availability '
     body: Our algorithms ensure your customer experiences are up to date, in line
       with their needs, and take stock and size availability into account.
-    image: "/uploads/section_touchpoints.png"
-    hres-image: "/uploads/section_touchpoints@2x.png"
+    image: "/uploads/section_real-time.png"
+    hres-image: "/uploads/section_real-time@2x.png"
   - title: Always Learning
     subtitle: 'Capture valuable insight into each customer’s preferences '
     body: Continually build an understanding of your customers and how they interact
