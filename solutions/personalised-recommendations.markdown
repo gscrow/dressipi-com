@@ -17,14 +17,14 @@ sections:
 - title: 
   handle: features
   subsections:
-  - title: 'Personalised Products, Outfits & Sizing '
+  - title: 'Personal Products, Outfits & Sizing '
     subtitle: Match each customer’s style preferences to your entire product offering
     body: "Whether looking for inspiration or something specific, give every customer
       a personalised shopping experience by showing their best products in their size.
       \n"
     image: "/uploads/section_preferences.png"
     hres-image: "/uploads/section_preferences@2x.png"
-  - title: Optimised for Every Customer Touchpoint
+  - title: Optimised for Every Touchpoint
     subtitle: Online, in-store, in-app, and email
     body: 'However your customers interact with your brand, make sure it''s personal.
       Give tailored assistance and helpful communications at the right time and place. '
