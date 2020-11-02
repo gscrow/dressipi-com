@@ -17,11 +17,11 @@ sections:
 - title: 
   handle: features
   subsections:
-  - title: 
-    subtitle: Dressipi matches each customer’s specific style and fashion preferences
-      to your entire product offering to deliver personalised product, outfit and
-      size recommendations.
-    body: 
+  - title: 'Personalised Products, Outfits & Sizing '
+    subtitle: Match each customer’s style preferences to your entire product offering
+    body: "Whether looking for inspiration or something specific, give every customer
+      a personalised shopping experience by showing their best products in their size.
+      \n"
     image: "/uploads/section_preferences.png"
     hres-image: "/uploads/section_preferences@2x.png"
   - title: 
