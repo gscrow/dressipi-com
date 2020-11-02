@@ -2,16 +2,16 @@
 title: Personalised Recommendations
 position: 2
 navigation: solution-footer
-class: personalised-recommendations
 header:
-  page-title: PERSONALISED RECOMMENDATIONS
-  page-title-icon: "/uploads/icon_personalised-recommendations-grey.svg"
   title: The Right Product, in the Right Size, at the Right Time
   body: |-
     <p class="header__banner-subtitle">
-    Power highly personalised and deepened customer experiences, resulting in better lifetime value, reduced returns and greater customer loyalty
+    Power highly personalised fashion-specific customer experiences, resulting in better lifetime value, reduced returns and greater customer loyalty
     </p>
   hero-image: "/uploads/banner_personalised-recommendations@2x.png"
+  page-title: PERSONALISED RECOMMENDATIONS
+  page-title-icon: "/uploads/icon_personalised-recommendations-grey.svg"
+class: personalised-recommendations
 has-contact-section: false
 sections:
 - title: 
