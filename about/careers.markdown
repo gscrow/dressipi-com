@@ -68,9 +68,6 @@ sections:
 - title: Work With Us
   handle: jobs
   body: |-
-    We don’t currently have any open job positions but we are always on the lookout for exceptional people who share our passion for helping the fashion industry change.
-
-    If you have what it takes, please send your CV and any relevant examples of previous work (eg: websites, apps, Stack Overflow or GitHub profile) to [jobs@dressipi.com](mailto:jobs@dressipi.com).
   class: career-column
 layout: careers
 ---
