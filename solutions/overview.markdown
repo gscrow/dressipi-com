@@ -16,13 +16,13 @@ sections:
     from multiple sources is at the very heart of the Dressipi Revenue Optimisation
     Platform.
   subsections:
-  - title: Personalised Recommendations
+  - title: Personalisation
     image: "/uploads/icon_personalised-recommendations-colour.svg"
     body: 'Anticipate customer needs and build deeper engagement across every touchpoint:
       online, instore, app and email.'
     action:
       copy: Find Out How >
-      url: "/solutions/personalised-recommendations/"
+      url: "/solutions/personalisation/"
   - title: Data Insight Hub
     image: "/uploads/icon_data-insight-hub-colour.svg"
     body: Access real-time insights and actionable knowledge to optimise value at
