@@ -87,8 +87,7 @@ people, combining passion and the best talents in all disciplines.
 ### The Company
 Dressipi is the leader in fashion personalisation.
 
-Dressipi was founded by tech entrepreneurs Donna North &amp; Sarah McVittie to solve the problem
-of overwhelming choice.
+Dressipi was founded by tech entrepreneurs [Donna North](/about/team/) &amp; [Sarah McVittie](/about/team/) to solve the problem of overwhelming choice.
 
 The consumer was underserved, navigating through 1000s of products to find one that matched
 their needs. There was a better way to buy clothes.
@@ -102,8 +101,7 @@ in real time. This also improves matching demand to supply and ultimately reduci
 We use a combination of powerful, fashion specific AI, expert knowledge, proprietary structured
 product data and customer profiles to deliver prediction at scale.
 
-Dressipi is backed by a great group of investors and works with many of the largest retailers. Sir
-Stuart Rose is our Chairman (Chairman of Ocado and previously CEO and Chairman of Marks
+Dressipi is backed by a great group of investors and works with many of the largest retailers. [Sir Stuart Rose](/about/team/) is our Chairman (Chairman of Ocado and previously CEO and Chairman of Marks
 &amp; Spencer plc).
 
 Dressipi was recently named one of Britain’s fastest growing Top Tech firms. Multi award
