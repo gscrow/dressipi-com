@@ -67,7 +67,7 @@ sections:
     class: career-column
 - title: Work With Us
   handle: jobs
-  body: |-
+  body: ''
   class: career-column
 layout: careers
 ---
