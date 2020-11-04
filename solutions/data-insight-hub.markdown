@@ -13,6 +13,7 @@ header:
 description: Move from traditional spreadsheet limitations to real-time, deeper insights
   about customers, transactions, returns and operations, without any coding or IT
   intervention
+class: data-insight
 sections:
 - title: 
   handle: features
@@ -61,6 +62,7 @@ sections:
   handle: benefits
   is-centered: true
   roi-section: true
+  roi-class: personalisation-rio
   subsections:
   - title: Easy onboarding by our team of friendly experts
     image: "/uploads/icon-onboarding.svg"
