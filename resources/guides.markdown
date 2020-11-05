@@ -6,8 +6,8 @@ position: 3
 navigation: resource-footer
 header:
   title: Dressipi Guides
-description: 'Dressipi''s Guides will give you a deeper understanding of Dressipi
-  and expert opinion on the latest advancements in fashion personalisation. '
+description: Check out Dressipi's expert guides for up to the minute insight on the
+  fashion retail industry.
 footer-position: 2
 layout: resource
 ---
