@@ -15,11 +15,11 @@ list-content: |-
 
   In the below recording of the session you will learn:
 
-  How to adopt a strategic, staged approach for the optimum clearance strategy
+  - How to adopt a strategic, staged approach for the optimum clearance strategy
 
-  How better use of data can deliver smarter solutions for shifting overstock products
+  - How better use of data can deliver smarter solutions for shifting overstock products
 
-  How this can help deliver more profit and cash to your business
+  - How this can help deliver more profit and cash to your business
 Field name:
   Key: 
 has-contact-section: true
