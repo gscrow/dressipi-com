@@ -8,12 +8,6 @@ is-landing-page: true
 includes-video: true
 video-url: https://dressipi.com/media/overstock-webinar.mp4
 video-mask: "/uploads/overstock-webinar-video-mask.png"
-left-headshot: "/uploads/sarah-mcvittie@2x.jpg"
-left-host-name: Sarah McVittie
-left-host-title: Co-Founder
-right-headshot: "/uploads/lord-rose@2x.jpg"
-right-host-name: Stuart Rose
-right-host-title: Chairman
 list-content: |-
   In the UK alone, it is estimated that there will be £12bn overstocked products by the end of the summer, costing the UK industry at least £3.4bn of profit. Imagine what this means for the worldwide fashion industry.
 
