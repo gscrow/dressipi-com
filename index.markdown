@@ -8,8 +8,9 @@ header:
   hero-mobile-image: "/uploads/banner_home-mobile.svg"
   hero-desktop-image: "/uploads/banner-home.svg"
 description: The leading, independently verified Revenue Optimisation Platform for
-  fashion retailers. Dressipi uses fashion-specific AI and machine learning to help
-  retailers meet shopper expectations and drive profitable growth.
+  fashion retailers. Dressipi transforms how retailers engage with their customers
+  through entirely personalised experiences and using data to advance the buying and
+  merchandising processes.
 has-contact-section: false
 sections:
 - title: With Dressipi You’re in Fashionable Company
