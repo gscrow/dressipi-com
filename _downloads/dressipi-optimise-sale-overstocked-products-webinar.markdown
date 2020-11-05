@@ -14,9 +14,9 @@ left-host-title: Co-Founder
 right-headshot: "/uploads/lord-rose@2x.jpg"
 right-host-name: Stuart Rose
 right-host-title: Chairman
-list-content: "In the UK alone, it is estimated that there will be £12bn overstocked products by the end of the summer, costing the UK industry at least £3.4bn of profit. Imagine what this means for the worldwide fashion industry.
-
-Our live webinar focused exclusively on how better use of data can deliver smarter solutions for shifting overstocked products."
+list-content: |-
+  In the UK alone, it is estimated that there will be £12bn overstocked products by the end of the summer, costing the UK industry at least £3.4bn of profit. Imagine what this means for the worldwide fashion industry.
+  Our live webinar focused exclusively on how better use of data can deliver smarter solutions for shifting overstocked products.
 Field name:
   Key: 
 has-contact-section: true

@@ -11,7 +11,9 @@ video-url: https://dressipi.com/media/riverisland-dressipi-webinar.mp4
 video-mask: "/uploads/riverisland-webinar-video-mask.png"
 image: "/uploads/riverisland-webinar-video-mask.png"
 has-contact-section: true
-list-content: "Our webinar with Stuart Rose and River Island focused on how the brand used personalisation to deliver differentiated customer experiences resulting in a 6% revenue increase in 12 months."
+list-content: Our webinar with Stuart Rose and River Island focused on how the brand
+  used personalisation to deliver differentiated customer experiences resulting in
+  a 6% revenue increase in 12 months.
 Field name:
   Key: 
 button: Watch Video

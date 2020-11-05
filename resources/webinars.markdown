@@ -13,7 +13,8 @@ sections:
   webinars:
   - Top 3 Takeaways from our Webinar on Optimising the Sale of Overstocked Products
   - 'Dressipi Webinar: How to optimise the sale of overstocked products and release
-  maximum cash into your business'
+    maximum cash into your business'
 navigation: resource-footer
 layout: webinars
 ---
+
