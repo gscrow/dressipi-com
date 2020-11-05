@@ -2,17 +2,15 @@
 title: About Us
 date: 2017-05-06 09:50:00 Z
 position: 1
-class: about-us
 navigation: about-footer
 header:
   title: We are Dressipi
   body: <p class="header__banner-subtitle">We drive profitable growth for fashion
     retailers</p>
-  button:
-    copy: 
-    url: 
   hero-image: "/uploads/banner_about-us@2x.png"
-description: We drive profitable growth for fashion retailers
+description: We drive profitable growth for fashion retailers and are passionate about
+  helping the fashion industry change.
+class: about-us
 sections:
 - title: 
   handle: features
