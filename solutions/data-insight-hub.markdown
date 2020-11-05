@@ -13,10 +13,19 @@ header:
 description: Move from traditional spreadsheet limitations to real-time, deeper insights
   about customers, transactions, returns and operations, without any coding or IT
   intervention
+class: data-insight
 sections:
 - title: 
   handle: features
   subsections:
+  - title: Daily Trading Insight
+    subtitle: Easily visualise your data to spot quick wins and trade as effectively as possible
+    body: Identify what % of garments are driving what % of revenue and fragmentation per category. Access detailed, fashion-specific data on customers and garments to understand how products are bought and interacted with. Get better ROI on marketing spend, increased revenue and productivity gain.
+    image: "/uploads/section_daily_trading_insight@2x.png"
+    hres-image: "/uploads/section_daily_trading_insight@2x.png"
+    action:
+      copy: Tell me more >
+      url: "/contact/"
   - title: Returns Analysis
     subtitle: Gain better understanding into what drives returns and ways to reduce
       them
@@ -53,6 +62,7 @@ sections:
   handle: benefits
   is-centered: true
   roi-section: true
+  roi-class: personalisation-rio
   subsections:
   - title: Easy onboarding by our team of friendly experts
     image: "/uploads/icon-onboarding.svg"

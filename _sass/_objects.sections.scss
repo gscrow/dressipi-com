@@ -5,7 +5,15 @@
     background: $section-background-color;
   }
 
-  &.personalised-recommendations,
+  &.personalisation.section-benefits {
+    background-color: $background--lighter;
+  }
+  
+  &.data-insight.section-benefits {
+    background-color: $background--white;
+  }
+
+  &.personalisation,
   &#unique,
   &.about-us {
     background-color: $background--white;
