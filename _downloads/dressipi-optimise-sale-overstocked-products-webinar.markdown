@@ -11,9 +11,7 @@ video-mask: "/uploads/overstock-webinar-video-mask.png"
 list-content: |-
   # How to optimise the sale of overstocked products and release maximum cash into your business
 
-  Our live webinar focused exclusively on how better use of data can deliver smarter solutions for shifting overstocked products.
-
-  You will learn:
+  Our live webinar focused exclusively on how better use of data can deliver smarter solutions for shifting overstocked products. You will learn:
 
   - How to adopt a strategic, staged approach for the optimum clearance strategy
 
