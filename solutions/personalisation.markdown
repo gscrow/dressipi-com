@@ -1,5 +1,5 @@
 ---
-title: Personalisation
+title: Personalisation - Dressipi
 position: 2
 navigation: solution-footer
 header:
@@ -11,6 +11,8 @@ header:
   hero-image: "/uploads/banner_personalised-recommendations@2x.png"
   page-title: PERSONALISATION
   page-title-icon: "/uploads/icon_personalised-recommendations-grey.svg"
+description: Dressipi powers highly personalised fashion-specific customer experiences
+  for better lifetime value, reduced returns and greater customer loyalty.
 class: personalisation
 has-contact-section: false
 sections:
