@@ -9,9 +9,9 @@ includes-video: true
 video-url: https://dressipi.com/media/overstock-webinar.mp4
 video-mask: "/uploads/overstock-webinar-video-mask.png"
 list-content: |-
-  In the UK alone, it is estimated that there will be £12bn overstocked products by the end of the summer, costing the UK industry at least £3.4bn of profit. Imagine what this means for the worldwide fashion industry.
+  # How to optimise the sale of overstocked products and release maximum cash into your business
 
-  Our live webinar focused exclusively on how better use of data can deliver smarter solutions for shifting overstocked products.
+  # # Our live webinar focused exclusively on how better use of data can deliver smarter solutions for shifting overstocked products.
 
   In the below recording of the session you will learn:
 
