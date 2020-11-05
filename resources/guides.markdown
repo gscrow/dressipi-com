@@ -6,7 +6,7 @@ position: 3
 navigation: resource-footer
 header:
   title: Dressipi Guides
-description: Check out Dressipi's expert guides for up to the minute insight on the
+description: Check out Dressipi's expert guides for up to the minute insights on the
   fashion retail industry.
 footer-position: 2
 layout: resource
