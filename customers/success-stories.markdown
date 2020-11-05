@@ -1,5 +1,5 @@
 ---
-title: Success Stories - Dressipi
+title: Success Stories
 date: 2017-10-24 08:24:00 Z
 permalink: "/clients/success-stories/"
 position: 1
