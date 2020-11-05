@@ -14,9 +14,9 @@ header:
   hero-image: false
   page-title: SUCCESS STORIES
   page-title-icon: "/uploads/icon_success-story-colour.svg"
-description: Dressipi has a proven track record of delivering value quickly, with
-  results that are always externally validated. Check out our case studies to learn
-  how we help the world’s leading brands reduce costs and grow profitably.
+description: Dressipi has a proven track record of delivering value quickly with results
+  that are always externally validated. Check out our case studies to learn how we
+  help the world’s leading brands reduce costs and grow profitably.
 sections:
 - title: With Dressipi You’re in Fashionable Company
   subtitle: We help the world’s leading brands reduce costs and grow profitably
