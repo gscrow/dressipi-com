@@ -1,5 +1,5 @@
 ---
-title: Solutions- Dressipi
+title: Solutions
 position: 1
 navigation: solution-footer
 header:
