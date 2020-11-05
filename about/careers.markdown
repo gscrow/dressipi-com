@@ -18,8 +18,8 @@ header:
     url: "#jobs"
     style: primary
   hero-image: "/uploads/banner_careers.jpg"
-description: Discover how you can be part of a team that is shaping the future of
-  retail. Take a look at the latest positions available at Dressipi.
+description: We are always looking for outstanding individuals to join our fantastic
+  team helping the fashion industry change. Take a look at open job positions at Dressipi.
 sections:
 - title: Changing Fashion Retail for the Better
   handle: intro
@@ -67,7 +67,7 @@ sections:
     class: career-column
 - title: Work With Us
   handle: jobs
-  body: ''
+  body: 
   class: career-column
 layout: careers
 ---
