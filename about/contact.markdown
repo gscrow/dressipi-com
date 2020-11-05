@@ -5,8 +5,8 @@ position: 4
 navigation: about-footer
 header:
   height: tight
-description: Get in touch if you have any questions about how Dressipi can help start
-  you on your journey to be predictive.
+description: Got a question or want to book a free consultation? We're here to help
+  so get in touch today.
 form-contact:
   formspree-ID: meeaabem
   button: Submit >
