@@ -19,8 +19,12 @@ sections:
   handle: features
   subsections:
   - title: Daily Trading Insight
-    subtitle: Easily visualise your data to spot quick wins and trade as effectively as possible
-    body: Identify what % of garments are driving what % of revenue and fragmentation per category. Access detailed, fashion-specific data on customers and garments to understand how products are bought and interacted with. Get better ROI on marketing spend, increased revenue and productivity gain.
+    subtitle: Easily visualise your data to spot quick wins and trade as effectively
+      as possible
+    body: Identify what % of garments are driving what % of revenue and fragmentation
+      per category. Access detailed, fashion-specific data on customers and garments
+      to understand how products are bought and interacted with. Get better ROI on
+      marketing spend, increased revenue and productivity gain.
     image: "/uploads/section_daily_trading_insight@2x.png"
     hres-image: "/uploads/section_daily_trading_insight@2x.png"
     action:
