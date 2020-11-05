@@ -1,15 +1,15 @@
 ---
-title: Data Insight Hub
+title: Data Insight Hub - Dressipi
 position: 3
 navigation: solution-footer
 header:
-  page-title: DATA INSIGHT HUB
-  page-title-icon: "/uploads/icon_data-insight-hub-grey.svg"
   title: Increasing Sell Through. Reducing Discounting. Driving Profitability.
   body: <p class="header__banner-subtitle"> Move from traditional spreadsheet limitations
     to real-time, deeper insights about customers, transactions, returns and operations,
     without any coding or IT intervention </p>
   hero-image: "/uploads/banner_data-insight-hub.png"
+  page-title: DATA INSIGHT HUB
+  page-title-icon: "/uploads/icon_data-insight-hub-grey.svg"
 description: Move from traditional spreadsheet limitations to real-time, deeper insights
   about customers, transactions, returns and operations, without any coding or IT
   intervention
