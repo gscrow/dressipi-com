@@ -5,7 +5,9 @@ navigation: solution-footer
 header:
   title: Using Data to Enhance and Personalise the Customer Experience
   hero-image: "/uploads/banner-solutions-overview.png"
-description: Using Data to Enhance and Personalise the Customer Experience
+description: 'Dressipi''s solutions allow fashion retailers to better understand their
+  customer''s preferences, anticipate demand faster and personalise all touch points
+  to stay ahead. '
 sections:
 - title: 
   handle: overview
