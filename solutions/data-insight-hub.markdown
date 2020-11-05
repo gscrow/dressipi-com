@@ -1,5 +1,5 @@
 ---
-title: Data Insight Hub - Dressipi
+title: Data Insight Hub
 position: 3
 navigation: solution-footer
 header:
