@@ -17,7 +17,7 @@ layout: default
       	{% for download in downloads %}
         <div class="resource">
 					<div class="resource__content">
-						<p>{{ download.list-content | markdownify  }}</p>
+						{{ download.list-content | markdownify  }}
 						<p><a href="{{ download.url }}" class="button button--medium button-primary">{{ download.button }}</a></p>
 			  	</div>
 			  	{% if download.image %}
