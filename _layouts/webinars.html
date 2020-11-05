@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+{% assign my_page_url = page.url | remove: '/' | remove: 'resources' %}
+
+{% assign webinars = site.downloads | sort: 'position' | where: 'resource', 'Webinar' %}
+
+<section class="section section-resources">
+  <div class="container">
+  	<div class="resources__content gutter">
+			{% case my_page_url %}
+			{% when 'webinars' %}
+				{% assign downloads = site.downloads | sort: 'position' | where: 'resource', 'Webinars' %}
+			{% endcase %}
+      <section class="resources__list">
+      	{% for download in downloads %}
+        <div class="resource">
+					<div class="resource__content">
+						<p>{{ download.list-content }}</p>
+						<p><a href="{{ download.url }}" class="button button--medium button-primary">{{ download.button }}</a></p>
+			  	</div>
+			  	{% if download.image %}
+        	<div class="resource__image">
+            <a href="{{ download.url }}">
+                <p><img src="{{download.image}}" title="{{ download.title }}" /></p>
+            </a>
+        	</div>
+        	{% endif %}
+			  </div>
+      	{% endfor %}
+      </section>
+
+		</div>
+	</div>
+</div>
