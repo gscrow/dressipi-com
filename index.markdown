@@ -1,5 +1,5 @@
 ---
-title: Dressipi - Driving Profitable Growth For Fashion Retailers
+title: Driving Profitable Growth For Fashion Retailers
 position: 0
 header:
   button:
