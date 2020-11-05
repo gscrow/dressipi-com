@@ -1,5 +1,5 @@
 ---
-title: Personalisation - Dressipi
+title: Personalisation
 position: 2
 navigation: solution-footer
 header:
