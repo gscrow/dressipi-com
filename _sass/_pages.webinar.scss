@@ -1,6 +1,11 @@
 .video-page {
   background-color: $background--white !important;
   .gutter {
+    .section__heading {
+      width: 100%;
+      margin-bottom: 0;;
+    }
+    
     .container--host {
       display: flex;
       flex-wrap: nowrap;
