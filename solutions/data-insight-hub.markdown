@@ -11,7 +11,7 @@ header:
   page-title: DATA INSIGHT HUB
   page-title-icon: "/uploads/icon_data-insight-hub-grey.svg"
 description: Move from traditional spreadsheets to real-time, deeper insights about
-  customers, transactions and returns to increasing sell-through, reduce discounting
+  customers, transactions and returns to increase sell-through, reduce discounting
   and drive profitability.
 class: data-insight
 sections:
