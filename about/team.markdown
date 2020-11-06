@@ -42,6 +42,10 @@ sections:
     title: Head of Finance
     linkedin: https://www.linkedin.com/in/jonny-aloysius-1562463
     image: "/uploads/jonny-aloysius.jpg"
+  - name: Kevin Emamy
+    title: 'Chief Commercial Officer '
+    linkedin: https://www.linkedin.com/in/kevinemamy/
+    image: 
   - name: Natalie Theo
     title: Style Director
     linkedin: https://www.linkedin.com/in/natalie-theo-5b561160/?ppe=1
@@ -105,10 +109,6 @@ sections:
     title: Data Analyst
     linkedin: https://www.linkedin.com/in/james-tuck-28555172/
     image: "/uploads/james-tuck.jpg"
-  - name: Kevin Emamy
-    title: 'Chief Commercial Officer '
-    linkedin: https://www.linkedin.com/in/kevinemamy/
-    image: 
   - name: Eva Georgiou
     title: Stylist
     linkedin: https://www.linkedin.com/in/eva-georgiou-77443830/
