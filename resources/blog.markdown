@@ -6,8 +6,8 @@ position: 2
 navigation: resource-footer
 header:
   title: Dressipi Blog
-description: Company news, thought-leadership and the latest insight into fashion-specific
-  AI and machine learning.
+description: Check out the latest company news, thought-leadership pieces and expert
+  insight into fashion-specific AI and machine learning.
 footer-position: 3
 layout: blog
 ---
