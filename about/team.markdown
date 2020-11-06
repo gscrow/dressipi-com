@@ -45,7 +45,7 @@ sections:
   - name: Kevin Emamy
     title: 'Chief Commercial Officer '
     linkedin: https://www.linkedin.com/in/kevinemamy/
-    image: 
+    image: "/uploads/IMG-2827.JPG"
   - name: Natalie Theo
     title: Style Director
     linkedin: https://www.linkedin.com/in/natalie-theo-5b561160/?ppe=1
