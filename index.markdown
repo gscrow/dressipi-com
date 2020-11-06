@@ -7,7 +7,7 @@ header:
   color: "#191C24"
   hero-mobile-image: "/uploads/banner_home-mobile.svg"
   hero-desktop-image: "/uploads/banner-home.svg"
-description: The leading, independently verified Revenue Optimisation Platform for
+description: The leading independently verified Revenue Optimisation Platform for
   fashion retailers. Dressipi transforms how retailers engage with their customers
   through entirely personalised experiences and using data to advance the buying and
   merchandising processes.
