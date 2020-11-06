@@ -105,6 +105,18 @@ sections:
     title: Data Analyst
     linkedin: https://www.linkedin.com/in/james-tuck-28555172/
     image: "/uploads/james-tuck.jpg"
+  - name: Kevin Emamy
+    title: 'Chief Commercial Officer '
+    linkedin: https://www.linkedin.com/in/kevinemamy/
+    image: 
+  - name: Eva Georgiou
+    title: Stylist
+    linkedin: https://www.linkedin.com/in/eva-georgiou-77443830/
+    image: "/uploads/Eva%20Georgiou%20copy.jpg"
+  - name: Nicholas Kallonas
+    title: Stylist
+    linkedin: 
+    image: "/uploads/Nicholas%20Kallonas%20copy.jpg"
   button:
     copy: JOIN OUR TEAM >
     url: "/about/careers/"
