@@ -5,8 +5,8 @@ position: 1
 navigation: resource-footer
 header:
   title: Dressipi Webinars
-description: Watch Dressipi's webinars on client successes and how our data-driven,
-  fashion-specific solutions are revolutionising retail.
+description: Watch Dressipi's webinars on client successes and how data-driven, fashion-specific
+  solutions are revolutionising retail.
 footer-position: 1
 sections:
 - title: Webinars
