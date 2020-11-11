@@ -1,6 +1,5 @@
 ---
 title: Blog
-date: 2017-10-23 09:50:00 Z
 permalink: "/resources/blog/"
 position: 2
 navigation: resource-footer

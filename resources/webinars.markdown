@@ -1,6 +1,5 @@
 ---
 title: Webinars
-date: 2020-03-11 08:24:00 Z
 position: 1
 navigation: resource-footer
 header:
