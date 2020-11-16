@@ -29,7 +29,7 @@ sections:
     hres-image: "/uploads/section_daily_trading_insight@2x.png"
     action:
       copy: Tell me more >
-      url: "/contact/"
+      url: https://dressipi.com/closer-look-at-our-data-insight-hub/
   - title: Returns Analysis
     subtitle: Gain better understanding into what drives returns and ways to reduce
       them
