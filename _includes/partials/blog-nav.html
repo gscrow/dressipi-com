@@ -1,0 +1,22 @@
+{% assign my_page_url = page.url | remove: '/' %}
+<div class="gutter blog_navigation">
+	<nav role="navigation" class="navigation">
+		{% assign category_links = site.blog_categories %}
+		<ul class="navigation_items">
+			<li class="navigation__item"><a href="/resources/blog/ " class="navigation__link {% if my_page_url contains '/resources/blog/' %}navigation__link--active{% endif %}"">Latest Articles</a></li>
+		{% for link in category_links %}
+			<li class="navigation__item"><a href="{{ link.url }}" class="navigation__link {% if page.url == link.url %}navigation__link--active{% endif %}"">{{ link.title }}</a></li>
+		{% endfor %}
+		</ul>
+		<form class="subscribe-form" method="POST" action="https://formspree.io/{{ site.form-newsletter.formspree-ID }}">
+		<input type="text" name="_gotcha" style="display: none">
+		{% if site.form-newsletter.email_cc %}
+		<input type="hidden" name="_cc" value="{{site.form-newsletter.email_cc}}" />
+		{% endif %}
+		<input type="hidden" name="_next" value="{{ site.form-newsletter.redirect }}" />
+		<input type="hidden" name="_subject" value="New Newsletter Submission" />
+		<input class="subscribe-form__email" type="email" name="Email" placeholder="Enter your email" />
+		<button class="subscribe-form__submit button button-primary" type="submit">{{ site.form-newsletter.button }}</button>
+		</form>
+    </nav>
+</div>

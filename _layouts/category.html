@@ -6,6 +6,7 @@ layout: default
 {% assign category_posts = site.categories[category] %}
 
 <section class="section section-blog">
+	{% include partials/blog-nav.html %}
   <div class="container">
   	<div class="blog__content gutter">
 			{% for post in category_posts %}
