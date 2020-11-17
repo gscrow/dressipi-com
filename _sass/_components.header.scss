@@ -152,6 +152,13 @@ $header-height--mobile: 67px; // 1px border
     background-color: white !important;
   }
 
+  &-resourcesblog,
+  &-blogcategoriesretail,
+  &-blogcategoriesdata,
+  &-blogcategoriestech {
+    display: none;
+  }
+
   &__content {
     float: left;
     width: calc-columns-width(5);
