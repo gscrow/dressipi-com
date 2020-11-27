@@ -23,14 +23,12 @@ Field name:
 button: Watch Video
 ---
 
-In the UK alone, it is estimated that there will be £12bn overstocked products by the end of the summer, costing the UK industry at least £3.4bn of profit. Imagine what this means for the worldwide fashion industry.
-
-Our live webinar focused exclusively on how better use of data can deliver smarter solutions for shifting overstocked products.
+Using last year’s data alone to predict next year’s trading is only half the picture. The future of retail depends on strong data foundations and demand-led decisions. Watch our webinar to learn:
 
 In the below recording of the session you will learn: 
 
-* How to adopt a strategic, staged approach for the optimum clearance strategy
+* How to get organised, good quality, real-time data on customers and garments
 
-* How better use of data can deliver smarter solutions for shifting overstock products
+* How to easily access and instantly visualise this data in one place
 
-* How this can help deliver more profit and cash to your business
+* How to action the data to drive optimal CRM strategies, quickly pinpoint best and worst performing products and increase productivity
