@@ -14,7 +14,8 @@ sections:
   - Top 3 Takeaways from our Webinar on Optimising the Sale of Overstocked Products
   - 'Dressipi Webinar: How to optimise the sale of overstocked products and release
     maximum cash into your business'
-  - 'Dressipi Webinar: Stop drowning in data: How to easily access, visualise and action fashion-specific data to drive growth'
+  - 'Dressipi Webinar: Stop drowning in data: How to easily access, visualise and
+    action fashion-specific data to drive growth'
 layout: webinars
 ---
 

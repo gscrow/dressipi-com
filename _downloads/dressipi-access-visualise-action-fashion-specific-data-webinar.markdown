@@ -1,5 +1,6 @@
 ---
-title: 'Dressipi Webinar: Stop drowning in data: How to easily access, visualise and action fashion-specific data to drive growth'
+title: 'Dressipi Webinar: Stop drowning in data: How to easily access, visualise and
+  action fashion-specific data to drive growth'
 position: 34
 resource: Webinars
 image: "/uploads/riverisland-webinar-video-mask.png"
