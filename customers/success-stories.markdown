@@ -29,6 +29,7 @@ sections:
   - OVS
   - LK Bennett
   - Pentland
+  - Belstaff
 - title: Success Stories
   handle: success-stories
   downloads:
