@@ -61,12 +61,8 @@ sections:
     title: Style Team Lead
     linkedin: https://www.linkedin.com/in/elisenda-torras/
     image: "/uploads/Elisenda%20Torras-b16c1a.png"
-  - name: Philippa Mew
-    title: Marketing Manager
-    linkedin: https://www.linkedin.com/in/philippa-mew-34544032/
-    image: "/uploads/Philippa%20Mew%20-%20PR%20&%20Marketing%20Associate.jpg"
   - name: Georgina Fisher
-    title: 'Sales & Marketing Associate '
+    title: 'Marketing Manager'
     linkedin: https://www.linkedin.com/in/georgina-fisher-408689151/
     image: "/uploads/georgina-fisher.jpg"
   - name: JJ. Green
