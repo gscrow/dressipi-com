@@ -62,7 +62,7 @@ sections:
     linkedin: https://www.linkedin.com/in/elisenda-torras/
     image: "/uploads/Elisenda%20Torras-b16c1a.png"
   - name: Georgina Fisher
-    title: 'Marketing Manager'
+    title: Marketing Manager
     linkedin: https://www.linkedin.com/in/georgina-fisher-408689151/
     image: "/uploads/georgina-fisher.jpg"
   - name: JJ. Green
