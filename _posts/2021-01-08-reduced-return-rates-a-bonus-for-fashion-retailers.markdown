@@ -22,30 +22,71 @@ At Dressipi, we have analysed the return rates of our UK clients (who represent 
 * ***Change in mix of Product Category:*** 1.7% points of the drop in returns is due to a change in the mix of products - fewer dresses, jumpsuits and skirts but more jeans, tops and pyjamas. 
 * Change within each Product Category: 6.1% points of the drop in returns is due to decreases within each category (for example dresses return rates have dropped from 51% to 44%).
 
-
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Returns%202.PNG"/></p>
 
+In terms of the mix of product categories, the key changes are as follows:
 
+1) The top 3 gaining categories are Jeans (up 6% to a total of 12% of overall mix), Tops (up 3.3%), and Bottoms (up 2.5%).
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Returns%203.PNG"/></p>
 
-
+2) The 3 categories that have suffered the biggest declines are Dresses (-3%), Swimwear (-2.5%), and Jumpsuits (-2%).
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Returns%204.PNG"/></p>
 
+The key categories driving the 6% points return reduction within the product category are predominantly the higher volume categories such as Tops, Dresses and Bottoms. Those top 3 categories are responsible for 61% of that change (3.7% of the 6%).
 
+### A deeper look at return rates and mix of top product categories
+
+Across the board there has been an obvious shift to more casual wear and less work, occasion and holiday wear, with the exception of tops and jumpers, where there has been an increase in more evening/occasion items. Throughout the last year it looks like we have all been sitting at home on zoom in our nicer tops and jumpers with jeans or tracksuit bottoms on the bottom half! 
+
+The charts below show the relative change of mix within the top 2 categories, Dress & Tops, ordered by volume of sales. Casual dresses and tops now represent the majority of both categories. Interestingly, the return rates within each occasion have seen very little change and in some cases for the more structured fabrics and more occasional piece return rates have even increased to above 2019 levels.
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Returns%205.PNG"/></p>
 
+These changes in mix are likely to snap back when life returns to normal, and may even exceed their pre-Covid mix as everyone catches up on the social events they’ve missed.
 
+### A deeper look at the reasons behind returns
+
+We have also looked at the core reason why people return things. We break this down into size issues (same customer buying multiple sizes of the same product over any number of orders), style issues (same customer buying multiple options of the same category in the same order) or product issues (single category option and size per order).  Although it is possible that some of the product category could be returned due to size or fit but in those cases the customer still  did not like the product enough to go back and buy another size so we do not include them in the size category.
+
+Contrary to popular opinion, sizing does not cause the bulk of returns, typically only accounting for between 15-20% (of which only half is preventable). Whereas, multiple styles being purchased typically account for 40-60% of returns and increasingly over COVID.  This makes sense as we are all trying everything on at home, and will definitely be in for delivery!
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Returns%206.PNG"/></p>
 
+In pre-pandemic times, we typically see the return rates for the multiple size category around 55-65% (as people are returning at least one of the sizes) but over COVID we have seen the number of people returning both sizes increase particularly in categories such as Jeans (up 20%), Tops (up 7%), Dresses and Skirts (both up 2%) which suggests it is more of a product issue than a style issue. 
 
+When it comes to multiple style purchases you will see that this is where the majority of returns are now coming from and even though return rates are higher in this category than the single size single style category, the overall return rate has still gone down due to the big shift to casualwear.  
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Returns%207.PNG"/></p>
 
+### Conclusion
 
+In summary, most fashion retailers will have seen return rates decrease and will have benefited from the increased cash injection.  
+
+The data suggests, and our expectation is, that retailers should be careful forecasting the same behaviour into H2 2021. As vaccinations are rolled out in earnest, there will be a period of extreme gratification (whether through travel, socialising or returning to work). With all of that change in behaviour will be a desire to look good. As demand for those categories increases over those periods and with the permanent shift to ecommerce, retailers should budget carefully for those return rate costs to rise over H2 in 2021. If a retailer with £100m of online revenue assumes a permanent shift to lower return rates, they could well find themselves £3m short on their forecasted cost base.
+
+Fortunately, with the right data structure and the right garment attributes every retailer should be able to accurately predict return rates on a monthly and quarterly basis. This data approach also enables retailers to predict what products will be returned more than they should be and who the worst customers are likely to be and change how you trade these groups to maximise their profitability. And, luckily, for any retailers struggling with resources, Dressipi is here to help!
+
+We have outlined our prediction below. 
+
+[Happy January folks!]
+
+### A Prediction from Dressipi
+
+* Formal workwear has had its day
+* WFH will drive more active/casual wear but there will be a real desire for self expression as we start to get out and socialise again. 
+* Expect different social behaviours from different groups. Those that are vaccinated and those that are not, the young, the old will all deal with the pent up demand differently. 
+* Retailers who use Dressipi will see improved contributed margin through 2021!
+
+Our estimate on what this means for numbers and margins:
+* Q1/Q2- similar purchasing patterns to Q4 2020
+* Towards the end of Q2 - as weather gets better and vaccinations are being delivered in earnest - start to see a roaring 20s of our own
+* Q3 - expect a long overdue desire to be out, see people, and express ourselves through fashion
+* Q4 - through to peak - start to return to normal
+
+Assuming the same £100m retailer, we would expect return rates to increase to beyond 2019 number in Q3 and to start to normalise in Q4. Averaging out around 33% for the year. Assuming a 55% gross margin and no other changes to distribution and return costs then this business would require a further £3m of cash to service those extra returns. 
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Returns%208.PNG"/></p>
 
+*The full Dressipi Return Rate Analysis Package with initial consultation/presentation and access to returns dashboard is available from £1,000 pcm.*
