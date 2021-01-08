@@ -5,13 +5,14 @@ date: 2021-01-08 09:50:00 Z
 
 ### It’s no secret that COVID-19 has accelerated the shift to digital commerce within fashion retail. Over the last 12 months, UK womenswear retailers have seen their online revenues increase by an average of 18%.
 
+
 Another area to deliver a significant boost to the cash position of fashion retailers is the huge drop in return rates for online orders. Womenswear return rates have fallen from an average of 35.4% to 27.8% over the COVID period. This near 8% point (-21%) drop has a huge impact on cash flow and contributed profit. Through this post we will be referring to actual percentage point drops not the relative %,  unless specifically stated. 
 
 To illustrate the impact of this reduction in return rates, take a retailer with online revenue of £100m. Even with no revenue growth, an 8% point drop in return rates delivers a 19% relative improvement in contributed margin, approx £5m of additional cash (assuming all distribution and return costs per return remained the same). 
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Returns%201.PNG"/></p>
 
-<p style="text-align:center"><img style="margin-left: 30px" src ="/uploads/Returns%201.PNG"/></p>
+<p style="text-align:center"><img style="margin-left: 100px" src ="/uploads/Returns%201.PNG"/></p>
 
 
 While this is a well needed cash injection, we expect fashion retailers to see a very different return rate profile in the second half of 2021. Like many behavioural scientists have predicted, we expect pent up demand will lead to a "roaring 20s" of our own as restrictions are lifted. The subsequent increase in evening and occasion wear will shift return rates back to above 2019 levels. Unless properly budgeted and planned for, this will eat into the precious cash reserves of retailers.
