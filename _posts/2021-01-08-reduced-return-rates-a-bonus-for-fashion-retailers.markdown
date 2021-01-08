@@ -10,10 +10,7 @@ Another area to deliver a significant boost to the cash position of fashion reta
 
 To illustrate the impact of this reduction in return rates, take a retailer with online revenue of £100m. Even with no revenue growth, an 8% point drop in return rates delivers a 19% relative improvement in contributed margin, approx £5m of additional cash (assuming all distribution and return costs per return remained the same). 
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Returns%201.PNG"/></p>
-
-<p style="text-align:center"><img style="margin-left: 100px" src ="/uploads/Returns%201.PNG"/></p>
-
+<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Returns%201%20Redo.PNG"/></p>
 
 While this is a well needed cash injection, we expect fashion retailers to see a very different return rate profile in the second half of 2021. Like many behavioural scientists have predicted, we expect pent up demand will lead to a "roaring 20s" of our own as restrictions are lifted. The subsequent increase in evening and occasion wear will shift return rates back to above 2019 levels. Unless properly budgeted and planned for, this will eat into the precious cash reserves of retailers.
 
@@ -28,7 +25,7 @@ At Dressipi, we have analysed the return rates of our UK clients (who represent 
 * ***Change in mix of Product Category:*** 1.7% points of the drop in returns is due to a change in the mix of products - fewer dresses, jumpsuits and skirts but more jeans, tops and pyjamas. 
 * ***Change within each Product Category:*** 6.1% points of the drop in returns is due to decreases within each category (for example dresses return rates have dropped from 51% to 44%).
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Returns%202.PNG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Returns%202%20Redo.PNG"/></p>
 
 In terms of the mix of product categories, the key changes are as follows:
 
