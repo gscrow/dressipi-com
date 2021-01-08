@@ -22,7 +22,8 @@ So let’s dig a little deeper and look at the detail behind those declining ret
 
 At Dressipi, we have analysed the return rates of our UK clients (who represent approximately 15% of the online womenswear market) over 6 months from March-October 2019 vs the same period in 2020. We can see that return rates have dropped from 35.4% to 27.6%. At a high level this breaks down as follows:
 
-* Change in mix of Product Category: 1.7% points of the drop in returns is due to a change in the mix of products - fewer dresses, jumpsuits and skirts but more jeans, tops and pyjamas. * Change within each Product Category: 6.1% points of the drop in returns is due to decreases within each category (for example dresses return rates have dropped from 51% to 44%). 
+* Change in mix of Product Category: 1.7% points of the drop in returns is due to a change in the mix of products - fewer dresses, jumpsuits and skirts but more jeans, tops and pyjamas. 
+* Change within each Product Category: 6.1% points of the drop in returns is due to decreases within each category (for example dresses return rates have dropped from 51% to 44%). 
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Returns%202%20Redo.PNG"/></p>
 
@@ -60,8 +61,7 @@ In pre-pandemic times, we typically see the return rates for the multiple size c
 
 When it comes to multiple style purchases you will see that this is where the majority of returns are now coming from and even though return rates are higher in this category than the single size single style category, the overall return rate has still gone down due to the big shift to casualwear.  
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Returns%207.PNG"/></p>
-<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/Returns%207.PNG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 450px;" src ="/uploads/Returns%207.PNG"/></p>
 
 ## Conclusion
 
@@ -90,6 +90,6 @@ Our estimate on what this means for numbers and margins:
 
 Assuming the same £100m retailer, we would expect return rates to increase to beyond 2019 number in Q3 and to start to normalise in Q4. Averaging out around 33% for the year. Assuming a 55% gross margin and no other changes to distribution and return costs then this business would require a further £3m of cash to service those extra returns. 
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/Returns%208.PNG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/Returns%208.PNG"/></p>
 
 *The full Dressipi Return Rate Analysis Package with initial consultation/presentation and access to returns dashboard is available from £1,000 pcm.*
