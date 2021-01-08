@@ -91,7 +91,7 @@ Fortunately, with the right data structure and the right garment attributes ever
 
 We have outlined our prediction below. 
 
-[Happy January folks!]
+Happy January folks!
 
 ## A Prediction from Dressipi
 
