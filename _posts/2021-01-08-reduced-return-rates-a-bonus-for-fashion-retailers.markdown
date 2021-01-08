@@ -92,4 +92,4 @@ Assuming the same £100m retailer, we would expect return rates to increase to b
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/Returns%208.PNG"/></p>
 
-*The full Dressipi Return Rate Analysis Package with initial consultation/presentation and access to returns dashboard is available from £1,000 pcm.*
+<p style="text-align:center"><a href="/contact/" class="button button-primary">Free Consultation</a></p>
