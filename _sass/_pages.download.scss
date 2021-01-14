@@ -52,6 +52,7 @@
     .hero__form {
       flex: 4;
       margin-left: $gutter-width;
+      max-width: 450px;
     }
   }
 }

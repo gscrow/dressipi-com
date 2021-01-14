@@ -5,12 +5,10 @@ published: false
 position: 5
 resource: Guides
 image: "/uploads/image%20(13).png"
-form:
-  title: Download Your Guide  to Fashion Personalisation
+download:
+  title: Download Your Guide to Fashion Personalisation
   button: Download Free Whitepaper >
   file: "/uploads/Dressipi-Whitepaper-Beginner's-Guide-To-Fashion-Personalisation.pdf"
-  checkbox: Yes, I would like to receive marketing communications regarding Dressipi
-    products and services
   button_class: whitepaper
 testimonial:
   action: Download

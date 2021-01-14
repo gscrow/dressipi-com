@@ -61,25 +61,11 @@ layout: default
       <div class="hero__form">
         <div class="form-download">
           <hgroup class="form-download__heading">
-            <h3>{{ page.form.title }} </h3>
+            <h3>{{ page.download.title }} </h3>
           </hgroup>
-
-          <form class="form-download__form" method="POST" action="https://formspree.io/mgoaajkm">
-            <input type="text" name="_gotcha" style="display: none">
-            <input type="hidden" name="_next" value="{{ page.form.file | default: '/' }}" />
-            <input type="hidden" name="_subject" value="New Download – Email submission" />
-            <!-- hidden field to be tested -->
-            <input type="hidden" name="page url" value="{{ page.url }}" />
-            <input class="form-download__input" type="input" name="name" placeholder="Enter your name" required>
-            <input class="form-download__input" type="email" name="email" placeholder="Enter your work email" required>
-            <input type="checkbox" name="marketing"  id="checkOpt" name="subscribe">
-            <label for="checkOpt" class="checkOpt__label">{{ page.form.checkbox }}</label>
-            <button class="button button--large button-primary form-download__submit {{page.form.button_class}}" type="submit" formtarget="_blank">
-              {{ page.form.button }}
-              {{ page.form.linkedin_tracking }}
-
-            </button>
-          </form>
+          <a class="button button--large button-primary form-download__submit {{page.download.button_class}}" href="{{ page.download.file }}" target="_blank">
+            {{ page.download.button }}
+          </a>
         </div>
       </div>
     </div>

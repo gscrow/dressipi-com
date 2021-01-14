@@ -4,12 +4,10 @@ date: 2018-06-05 14:46:00 Z
 position: 6
 resource: Case Studies
 image: "/uploads/success-story_wallis@2x.jpg"
-form:
+download:
   title: Download Free Case Study
   button: DOWNLOAD CASE STUDY >
   file: "/uploads/A%20Dressipi%20case%20study-Wallis.pdf"
-  checkbox: Yes, I would like to receive marketing communications regarding Dressipi
-    products and services
   button_class: case-study
   linkedin_tracking: <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=300788&conversionId=551785&fmt=gif">
 testimonial:
