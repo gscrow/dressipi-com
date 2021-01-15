@@ -1,5 +1,6 @@
 ---
-title: "Dressipi Webinar: The Silver Lining of COVID: Lower Return Rates - But Don't Get Too Comfortable"
+title: 'Dressipi Webinar: The Silver Lining of COVID: Lower Return Rates - But Don''t
+  Get Too Comfortable'
 position: 35
 resource: Webinars
 image: "/uploads/overstock-webinar-video-mask.png"
