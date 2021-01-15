@@ -6,8 +6,8 @@ resource: Webinars
 image: "/uploads/returns-workshop.png"
 is-landing-page: true
 includes-video: true
-video-url: https://dressipi.com/media/overstock-webinar.mp4
-video-mask: "/uploads/overstock-webinar-video-mask.png"
+video-url: https://dressipi.com/media/returns-workshop-webinar.mp4
+video-mask: "/uploads/returns-workshop.png"
 list-content: "# The Silver Lining of COVID: Lower Return Rates - But Don’t Get Too
   Comfortable\n\nThis webinar discussed the impact COVID has had on return rates within
   the apparel market and the strategies to put in place to stop returns rising again.
