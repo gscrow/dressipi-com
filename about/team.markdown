@@ -38,8 +38,8 @@ sections:
     title: Chief Data Scientist
     linkedin: https://www.linkedin.com/in/nicklandia/?ppe=1
     image: "/uploads/nick-landia.jpg"
-  - name: Director of Finance
-    title: Head of Finance
+  - name: Jonny Aloysius
+    title: Director of Finance
     linkedin: https://www.linkedin.com/in/jonny-aloysius-1562463
     image: "/uploads/jonny-aloysius.jpg"
   - name: Kevin Emamy
