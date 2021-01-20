@@ -19,6 +19,7 @@ header:
   - LK Bennett
   - Pentland
   - Belstaff
+  - City Chic
 sitemap: false
 layout: landing
 ---

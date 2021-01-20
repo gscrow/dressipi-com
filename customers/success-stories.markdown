@@ -30,6 +30,7 @@ sections:
   - LK Bennett
   - Pentland
   - Belstaff
+  - City Chic
 - title: Success Stories
   handle: success-stories
   downloads:
