@@ -31,6 +31,7 @@ sections:
   - Pentland
   - Belstaff
   - City Chic
+  - Avenue
 - title: Success Stories
   handle: success-stories
   downloads:

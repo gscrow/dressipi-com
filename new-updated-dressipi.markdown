@@ -20,6 +20,7 @@ header:
   - Pentland
   - Belstaff
   - City Chic
+  - Avenue
 sitemap: false
 layout: landing
 ---

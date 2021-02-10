@@ -27,6 +27,7 @@ sections:
   - Pentland
   - Belstaff
   - City Chic
+  - Avenue
 - title: The Revenue Optimisation Platform
   paragraph-narrow: true
   subtitle: By using fashion-specific AI and machine learning capabilities, Dressipi
