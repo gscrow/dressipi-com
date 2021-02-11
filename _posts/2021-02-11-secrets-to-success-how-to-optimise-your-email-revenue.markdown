@@ -63,6 +63,11 @@ We have seen this continue through the whole of 2020.
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/1st2nd_4.PNG"/></p>
 
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/1st2nd_4.PNG"/></p>
+
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/1st2nd_4.PNG"/></p>
+
+
 So whilst you have a captive audience, now is the time to optimise your email strategies.  With an increasingly fickle customer base it is more important than ever to drive your brand message through to your customer. 
  
 Key to success is finding the right mix of creative branded emails versus relevant transactional ones. But the transactional ones need to be really relevant, not just a selection of bestsellers by department. Do this well and you can expect to see your revenues and profits grow by 6%.
