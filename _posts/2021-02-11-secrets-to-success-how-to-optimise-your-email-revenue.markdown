@@ -18,8 +18,8 @@ description: Emails being very pertinent to the times we're living in with the n
   emails and where the biggest opportunities lie.
 ---
 
-Customer Lifetime Value (LTV) and Personalisation, two words that get used a lot by the modern-day marketeer. 
- 
+Customer Lifetime Value (LTV) and Personalisation, two words that get used a lot by the modern-day marketeer.
+
 There is one obvious tool to deliver on both of those 2 goals: email. Don’t get me wrong, retailers use their email channel. In some cases they send too many emails but, more often than not, they are sending the same manually merchandised products to all customers or, at best, sending segmented emails to their base (bestsellers for men, women, kids etc).
  
 The right communication strategy couples beautiful, branded emails alongside truly personalised and relevant emails. Done well, this can increase overall revenue by 6-10%.  
