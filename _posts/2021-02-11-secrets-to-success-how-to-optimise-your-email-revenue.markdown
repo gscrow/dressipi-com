@@ -14,8 +14,8 @@ image: "/uploads/First_Second_Purchase_Blog.jpg"
 author: Sarah McVittie
 description: Emails being very pertinent to the times we're living in with the need
   to maximise digital capabilities whilst minimising costs. At Dressipi, we have analysed
-  the value behind improving the retention of a retailer's customer base and where
-  the biggest opportunities lie.
+  the value behind improving the retention of a retailer's customer base through personalised
+  emails and where the biggest opportunities lie.
 ---
 
 Customer Lifetime Value (LTV) and Personalisation, two words that get used a lot by the modern-day marketeer. 
