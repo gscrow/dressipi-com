@@ -33,7 +33,7 @@ Starting from their first purchase:
 * 2nd time buyers: 45-50% come back to buy again
 * 3rd time buyers: 55-60% come back to buy again 
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/1st2nd_2.PNG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/1st2nd_2.PNG"/></p>
 
 And so it goes on with an increasing percentage coming back (but with diminishing returns). 
  
@@ -61,12 +61,7 @@ The chart shows the average number of customers who come back to buy their secon
  
 We have seen this continue through the whole of 2020. 
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/1st2nd_4.PNG"/></p>
-
 <p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/1st2nd_4.PNG"/></p>
-
-<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/1st2nd_4.PNG"/></p>
-
 
 So whilst you have a captive audience, now is the time to optimise your email strategies.  With an increasingly fickle customer base it is more important than ever to drive your brand message through to your customer. 
  
