@@ -1,8 +1,21 @@
 ---
 title: 'Secrets to Success: How to Optimise Your Email Revenue'
 date: 2021-02-11 10:05:00 Z
+categories:
+- data
+tags:
+- Personalised emails
+- emails
+- 1st to 2nd purchase
+- retention
+- acquisition
+- loyal customers
 image: "/uploads/First_Second_Purchase_Blog.jpg"
 author: Sarah McVittie
+description: Emails being very pertinent to the times we're living in with the need
+  to maximise digital capabilities whilst minimising costs. At Dressipi, we have analysed
+  the value behind improving the retention of a retailer's customer base and where
+  the biggest opportunities lie.
 ---
 
 Customer Lifetime Value (LTV) and Personalisation, two words that get used a lot by the modern-day marketeer. 
