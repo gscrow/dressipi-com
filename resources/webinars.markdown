@@ -16,7 +16,8 @@ sections:
     maximum cash into your business'
   - 'Dressipi Webinar: The Silver Lining of COVID: Lower Return Rates - But Don''t
     Get Too Comfortable'
-  - 'Dressipi Webinar: Don''t Underestimate the Power of Emails: Maximise Your Most Powerful Asset'
+  - 'Dressipi Webinar: Don''t Underestimate the Power of Emails: Maximise Your Most
+    Powerful Asset'
 layout: webinars
 ---
 
