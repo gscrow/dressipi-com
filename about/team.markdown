@@ -105,6 +105,10 @@ sections:
     title: Data Analyst
     linkedin: https://www.linkedin.com/in/james-tuck-28555172/
     image: "/uploads/james-tuck.jpg"
+  - name: Umesh Patel
+    title: Programme Manager
+    linkedin: https://www.linkedin.com/in/umesh-patel-63279227/
+    image: "/uploads/umesh-patel.jpg"
   - name: Eva Georgiou
     title: Stylist
     linkedin: https://www.linkedin.com/in/eva-georgiou-77443830/
@@ -113,6 +117,10 @@ sections:
     title: Stylist
     linkedin: 
     image: "/uploads/Nicholas%20Kallonas%20copy.jpg"
+  - name: Hollie Morgan
+    title: Stylist
+    linkedin:  https://www.linkedin.com/in/hollie-larissa-morgan-227113a3/
+    image: "/uploads/hollie-morgan.jpg" 
   button:
     copy: JOIN OUR TEAM >
     url: "/about/careers/"
