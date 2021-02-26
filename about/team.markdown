@@ -119,8 +119,8 @@ sections:
     image: "/uploads/Nicholas%20Kallonas%20copy.jpg"
   - name: Hollie Morgan
     title: Stylist
-    linkedin:  https://www.linkedin.com/in/hollie-larissa-morgan-227113a3/
-    image: "/uploads/hollie-morgan.jpg" 
+    linkedin: https://www.linkedin.com/in/hollie-larissa-morgan-227113a3/
+    image: "/uploads/hollie-morgan.jpg"
   button:
     copy: JOIN OUR TEAM >
     url: "/about/careers/"
