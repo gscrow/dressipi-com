@@ -29,11 +29,17 @@ layout: default
             <p class="benefit__title">{{ subsection.title }}</p>
           </div>
           <div class="platform__description">
-            <p class="benefit__number">{{ subsection.number-left }}</p>
+            <p class="benefit__number">
+              <span class="number">{{ subsection.number-left}}</span>
+              <span class="percentage-sign">{{ subsection.value-left}}</span>
+            </p>
             <p class="benefit__description">{{ subsection.number-left-description }}</p>
           </div>
           <div class="platform__description">
-            <p class="benefit__number">{{ subsection.number-right }}</p>
+            <p class="benefit__number">
+              <span class="number">{{ subsection.number-right }}</span>
+              <span class="percentage-sign">{{ subsection.value-right }}</span>
+            </p>
             <p class="benefit__description">{{ subsection.number-right-description}}</p>
           </div>
         </div>
