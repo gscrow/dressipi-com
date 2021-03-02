@@ -35,24 +35,24 @@ sections:
   handle: revenue
   subsections:
   - title: Optimise conversion & increase lifetime value
-    number-left: "12"
+    number-left: '12'
     value-left: "%"
     number-left-description: more revenue
     number-right: 10
     value-right: "%"
     number-right-description: more profit
   - title: Drive better retention & fewer returns
-    number-left: "5"
+    number-left: '5'
     value-left: "%"
     number-left-description: retention
-    number-right: "3"
+    number-right: '3'
     value-right: "%"
     number-right-description: returns reduction
   - title: Increase sell-through & reduce discounting
-    number-left: "5"
+    number-left: '5'
     value-left: "%"
     number-left-description: gross margin impact
-    number-right: "2"
+    number-right: '2'
     value-right: "%"
     number-right-description: contributed profit
     action:
