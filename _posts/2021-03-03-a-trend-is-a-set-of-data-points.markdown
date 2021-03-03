@@ -25,11 +25,11 @@ These really aren’t going anywhere, are they? But it would be remiss to simply
 
 A trend is also a way to style a look. Partial to a bit of sequins? The new ‘stay at home work from home party from home’ mood gave rise to designers taking our favourite shiny evening embellishment and making it casual-friendly. At Celine a midi-length sequin dress had a make-under with baseball cap, tote and pair of white trainers; at Chanel and Louis Vuitton top-to-toe sequins were dressed down with t-shirts. Because we also capture data such as embellishment location: all over OR embellishment location: shoulder we can personalise the trend to suit the customer’s preferences. A confident shopper may well subscribe to the top-to-toe sequin look with a dress down t-shirt and trainer. A not so confident customer may use a hint of sequin embellishment on a t-shirt styled by jeans to dabble in the trend.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Trends_Blog_2.jpg.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Trends_Blog_2.jpg"/></p>
 
 The new take on ladylike dressing means our stay-at-home sweatshirts and hoodies can be upscaled by styling them with pleated skirts or a sharper cut pencil skirt. Want to know what to recommend next to the customer who’s just bought a hoody? Perhaps that voluminous softly pleaded calf-length skirt.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Trends_Blog_3.jpg.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Trends_Blog_3.jpg"/></p>
 
 ## Conclusion
 
