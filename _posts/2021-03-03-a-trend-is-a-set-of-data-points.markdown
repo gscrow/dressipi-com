@@ -1,9 +1,20 @@
 ---
 title: A Trend is a Set of Data Points
 date: 2021-03-03 16:06:00 Z
+categories:
+- data
+- Tech
+tags:
+- trend
+- features
+- fashion specific data
+- garment features
+- data points
 image: "/uploads/Trends_Blog_Banner.jpg"
 author: Natalie Theo
-description: Style Director, Natalie Theo
+description: Natalie Theo, Dressipi's Style Director explains why our fashion-specific
+  data on garments really matters when it comes down to mapping trends and how she
+  takes the time to understand what trends are important to each of our retail partners.
 ---
 
 ## Whether we realise it or not, at some level we are buying into a version of a fashion trend each season. Some of us more than others. 
@@ -18,7 +29,7 @@ Trends are emotive and ever-changing. Whilst floral for spring may indeed not so
 
 ### 1) Trend: Big Sleeves
 
-These really aren’t going anywhere, are they? But it would be remiss to simply tag every voluminous sleeve style as one ‘big sleeve’ trend. That’s just the start…entry-level data. There are big sleeve and then there even bigger sleeves from a full volume puff to a gentler balloon. Volume is not just about the sleeve style either, like the edgier 80s padded shoulder details. Each is a way to reflect a brand’s signature style and to cater to a customer’s preference. Personalisation takes the data to a next level. By looking at the combination of features: we will know that customer X is likely to buy a puff sleeve on a dress, rather than a dress with a balloon sleeve; OR customer Y only buys into the big sleeve trend via Tops. Which Isabel Marant big sleeve style are you?
+These really aren’t going anywhere, are they? But it would be remiss to simply tag every voluminous sleeve style as one ‘big sleeve’ trend. That’s just the start…entry-level data. There are big sleeve and then there are even bigger sleeves from a full volume puff to a gentler balloon. Volume is not just about the sleeve style either, like the edgier 80s padded shoulder details. Each is a way to reflect a brand’s signature style and to cater to a customer’s preference. Personalisation takes the data to a next level. By looking at the combination of features: we will know that customer X is likely to buy a puff sleeve on a dress, rather than a dress with a balloon sleeve; OR customer Y only buys into the big sleeve trend via Tops. Which Isabel Marant big sleeve style are you?
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Trends_Blog_1.jpg"/></p>
 
@@ -28,7 +39,7 @@ A trend is also a way to style a look. Partial to a bit of sequins? The new ‘s
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 350px;" src ="/uploads/Trends_Blog_2.jpg"/></p>
 
-The new take on ladylike dressing means our stay-at-home sweatshirts and hoodies can be upscaled by styling them with pleated skirts or a sharper cut pencil skirt. Want to know what to recommend next to the customer who’s just bought a hoody? Perhaps that voluminous softly pleaded calf-length skirt.
+The new take on ladylike dressing means our stay-at-home sweatshirts and hoodies can be upscaled by styling them with pleated skirts or a sharper cut pencil skirt. Want to know what to recommend next to the customer who’s just bought a hoody? Perhaps that voluminous softly pleated calf-length skirt.
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 350px;" src ="/uploads/Trends_Blog_3.jpg"/></p>
 
