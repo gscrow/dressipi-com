@@ -13,7 +13,7 @@ A trend is a set of garment features. Each feature works on its own (eg prints: 
 
 Trends are emotive and ever-changing. Whilst floral for spring may indeed not sound very groundbreaking, it’s how we wear our florals each season that changes. (Case in hand prairie-style dresses and smock dresses.) When it comes to fashion, just like the latest iPhone release, we ascribe to the sense of newness, change, freshness, inspiration. Once a trend has made it to the designer catwalks it starts creeping into the collective consciousness via social media, fashion sites, blogs, magazines and into the mainstream high street stores. It’s fundamentally a set of garment features that each brand interprets their way to reflect the brand’s DNA.
 
-Here’s how it works for Spring/Summer21:
+## Here’s how it works for Spring/Summer21:
 
 ### 1) Trend: Big Sleeves
 
