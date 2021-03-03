@@ -17,7 +17,7 @@ description: Natalie Theo, Dressipi's Style Director explains why our fashion-sp
   takes the time to understand what trends are important to each of our retail partners.
 ---
 
-## Whether we realise it or not, at some level we are buying into a version of a fashion trend each season. Some of us more than others. 
+### Whether we realise it or not, at some level we are buying into a version of a fashion trend each season. Some of us more than others. 
 
 If you’re reading this right now wearing your favourite sweatshirt you’re more on-trend than you realise. Throw in some sequins and you’ve got one of the key looks for spring/summer covered. Our fashion-specific data allows us to predict just how much of a trend a customer is likely to buy into and when they do we are able to personalise their very own edit of that trend.
 
