@@ -1,0 +1,59 @@
+
+{% for section in page.sections %}
+{% assign handle = section.handle %}
+<section id="{{ handle }}" class="section {% if handle %}{{ section.handle | prepend: 'section-' | append: ' ' }}{% endif %}background--{{ section.color | default:'white' }}">
+  <!-- section heading group -->
+  
+  {% if section.roi-section %}
+  <hgroup class="container gutter section__heading roi-title">
+    <h2>{{ section.roi-title }}</h2>
+  </hgroup>
+  {% else %}
+   <hgroup class="container gutter section__heading">
+      {% if section.title %}<h2>{{ section.title }}</h2>{% endif %}
+     {% if section.subtitle %}<p>{{ section.subtitle }}</p>{% endif %}
+    </hgroup>
+  {% endif %}
+<div class="section__body">
+  {% case handle %} {% when 'success-stories' %}
+  <div class="container">
+    <ul class="cases__list">
+      {% assign downloads = site.downloads | sort:'position' %} {% for download
+      in downloads %} {% if section.downloads contains download.title %}
+      <li class="case-study__wrap">
+        <div class="case-study">
+          <div class="case-study__title">{{ download.testimonial.title }}</div>
+          <div class="case-study__header case-study__list">
+            {% if download.testimonial.logo %}
+            <div class="case-study__logo {{ download.testimonial.class }}">
+              <img src="{{ download.testimonial.logo }}" />
+            </div>
+            {% endif %}
+          </div>
+          <div class="case-study__image">
+            <img src="{{ download.testimonial.author.image }}" />
+          </div>
+          <div class="case-study__body">
+            <p>{{ download.testimonial.small-testimonial }}</p>
+          </div>
+          <div class="case-study__footer">
+            <a href="{{ download.url }}" class="button button-secondary"
+              >{{ download.testimonial.action }}</a
+            >
+          </div>
+        </div>
+      </li>
+      {% endif %} {% endfor %}
+    </ul>
+  </div>
+
+  {% when nil %}
+  <div
+    class="container{% if section.width %}{{ section.width | prepend: '--' }}{% endif %} gutter"
+  >
+    {{ section.body | markdownify }}
+  </div>
+
+  {% when 'benefits' %} {% include partials/roi-contact.html %} {% endcase %}
+</div>
+{% endfor %}

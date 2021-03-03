@@ -72,6 +72,11 @@
     .riverisland {
       padding: 5px;
     }
+
+    .ovs {
+      max-width: 28%;
+      margin: 0 auto;
+    }
   }
 
   &__list {
@@ -138,6 +143,17 @@
     max-width: 259px;
     min-width: 259px;
   }
+}
+
+.success-stories-section {
+  padding: rhythm(11) 0;
+  width: 100%;
+}
+
+.success-story-contact {
+  background: $section-background-color;
+  border-top: 1px solid $section-border-color;
+  border-bottom: 1px solid $section-border-color;
 }
 
 @include responsive(tablet) {

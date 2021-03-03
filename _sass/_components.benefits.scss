@@ -14,6 +14,14 @@
   }
 }
 
+.benefit__container-case-study {
+  display: flex;
+  flex: 5;
+  text-align: center;
+  flex-direction: column;
+  align-items: center;
+}
+
 .benefits {
   display: flex;
 }

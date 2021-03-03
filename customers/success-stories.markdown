@@ -38,6 +38,7 @@ sections:
   - Personalisation Drives Profitable Growth for River Island
   - Delivering a Personalised Shopping Experience to The Modist
   - Accelerating Wallis to be Truly Predictive
+  - How OVS improved revenue
 - roi-title: Dressipi Makes it Easy to Get Started & Deliver ROI
   handle: benefits
   is-centered: true

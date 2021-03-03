@@ -1,0 +1,101 @@
+{% assign my_page_url = page.url | remove: '/' %}
+{% for section in page.sections %}
+{% assign handle = section.handle %}
+<div class="section__body">
+  {% case handle %}
+    {% when 'story' %}
+    <div class="features" style="padding: 88px 0">
+      {% for subsection in section.subsections %}
+      <div class="feature">
+        <div class="container">
+          <div class="gutter feature__copy" {% if subsection.align == 'top' %}style="margin:0;padding-top:40px;"{% endif %}>
+            <h2 class="feature__title">{{ subsection.title }}</h2>
+            <div class="feature__subtitle">{{ subsection.subtitle }}</div>
+            <div class="feature__body">{{ subsection.body | markdownify }}</div>
+            {% if subsection.action %}<a href="{{ subsection.action.url }}" class="button button-{{ subsection.action.style | default: 'secondary' }}">{{ subsection.action.copy }}</a>{% endif %}
+          </div>
+        {%  unless subsection.number-up %}
+        {% unless subsection.class == "challenge" %}
+          <div class="gutter feature__image">
+            <div> <!-- keep flex image ratio -->
+              <img src="{{ subsection.image }}" alt="{{ subsection.title }}" {% if subsection.hres-image %}srcset="{{ subsection.hres-image }} 2x"{% endif %} class="feature__image"  />
+            </div>
+          </div>
+        {% endunless %}
+        {% endunless %}
+        {%  if subsection.number-up %}
+        <div class="benefit__container-case-study gutter feature__image">
+          <div class="platform__description">
+            <p class="benefit__number">
+              <span class="number">{{ subsection.number-up }}</span>
+              <span class="percentage-sign">{{ subsection.value-up }}</span>
+            </p>
+            <p class="benefit__description">{{ subsection.number-up-description }}</p>
+          </div>
+          <div class="platform__description">
+            <p class="benefit__number">
+              <span class="number">{{ subsection.number-down }}</span>
+              <span class="percentage-sign">{{ subsection.value-down }}</span>
+            </p>
+            <p class="benefit__description">{{ subsection.number-down-description }}</p>
+          </div>
+        </div>
+      {% endif %}
+        </div>
+      </div>
+      {% if subsection.quote %}
+          <div class="container gutter text--center">
+            <blockquote class="quote">{{ subsection.quote }} </blockquote>
+             <p class="author">{{ subsection.author }} </p>
+          <a class="button button--medium button-primary" href="{{ subsection.file }}" target="_blank">
+          {{ subsection.button }}
+        </a>
+      </div>
+      {% endif %}
+      {% endfor %}
+    </div>
+  {% when 'success-stories' %}
+  <div class="success-stories-section">
+    <hgroup class="section__heading">
+      <h2 class="header__title">
+        {{ section.title}}
+      </h2>
+    </hgroup>
+  <div class="container ">
+    <ul class="cases__list">
+    {% assign downloads = site.downloads | sort:'position' %}
+    {% for download in downloads %}
+      {% if section.downloads contains download.title %}
+      <li class="case-study__wrap">
+        <div class="case-study">
+          <div class="case-study__title">
+            {{ section.header-title}}
+          </div>
+          <div class="case-study__header case-study__list">
+            {% if download.testimonial.logo %}<div class="case-study__logo {{ download.testimonial.class }}"><img src="{{ download.testimonial.logo }}" /></div>{% endif %}
+          </div>
+          <div class="case-study__image"><img src="{{ download.testimonial.author.image }}" /></div>
+          <div class="case-study__body"><p>{{ download.testimonial.small-testimonial }}</p></div>
+          <div class="case-study__footer"><a href="{{ download.url }}" class="button button-secondary">{{ download.testimonial.action }}</a></div>
+        </div>
+      </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+  </div>
+</div>
+  {% when 'contact' %}
+    <!-- section footer group -->
+    <div class="success-story-contact">
+    <div class="container gutter text--center section ">
+      <div class="section__body">
+        <div class="container gutter">
+          <p style="text-align: center; max-width: 600px; margin-left: auto; margin-right: auto;">{{ section.contact-title }}</p>
+        </div>
+      </div>
+      <a href="{{ section.button.url }}" class="button button--medium button-primary">{{ section.button.copy }}</a>
+    </div>
+  </div>
+  {% endcase %}
+</div>
+{% endfor %}
