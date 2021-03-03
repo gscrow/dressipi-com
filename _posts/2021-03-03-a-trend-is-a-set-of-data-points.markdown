@@ -47,4 +47,6 @@ The new take on ladylike dressing means our stay-at-home sweatshirts and hoodies
 
 It’s a fun and interesting part of the year each season when we start to think about trends at Dressipi. I take in the fashion collections, follow what’s happening on social media (think last season’s lockdown love for the house dress), adapt what we have to the almost in real life new Netflix release inspired trends, as well as take the time to understand what trends are important to each retail partner. Personally I’m here for the top-to-toe sequins and a baseball cap or two. You?
 
+> Images from isabelmarant.com; chanel.com; miumiu.com
+
 <p style="text-align:center"><a href="/contact/" class="button button-primary">FREE CONSULTATION</a></p>
