@@ -18,7 +18,12 @@ layout: default
         <div class="resource">
 					<div class="resource__content">
 						{{ download.list-content | markdownify  }}
+						{% if download.button %}
 						<p><a href="{{ download.url }}" class="button button--medium button-primary">{{ download.button }}</a></p>
+						{% endif %}
+						{% if download.register-button %}
+						<p><a href="{{ download.register-url }}" class="button button--medium button-primary">{{ download.register-button }}</a></p>
+						{% endif %}
 			  	</div>
 			  	{% if download.image %}
         	<div class="resource__image">
