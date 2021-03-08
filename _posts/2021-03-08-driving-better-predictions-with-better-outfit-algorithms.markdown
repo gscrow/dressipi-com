@@ -1,13 +1,26 @@
 ---
 title: Driving Better Predictions with Better Outfit Algorithms
 date: 2021-03-08 15:56:00 Z
+categories:
+- tech
+tags:
+- attributes
+- garment features
+- garment data
+- labelling
+- garment attributes
+- outfit algorithms
 image: "/uploads/Outfit_Blog_Banner.JPG"
 author: Marija Mandić
+description: "Marija Mandić, one of Dressipi's Software Engineers explains why outfitting
+  is an important part of selling fashion as fashion consuption  \nand \n\nur fashion-specific
+  data on garments really matters when it comes down to mapping trends and how she
+  takes the time to understand what trends are important to each of our retail partners."
 ---
 
 ### Right from the start brands have showcased their product through outfitting: from catwalk collections to window displays, shop mannequins to advertising campaigns and on today’s social media platforms. They play a huge part in our everyday life. 
 
-At Dressipi, we have always known they are an important part of how a customer shops and as fashion consumption moves increasingly online, we needed to replicate this. In the early Dressipi days, outfits were hand-picked by stylists and shown to the customers via weekly emails. It was bi-directional communication where customers could give their feedback, helping to unravel their expectations. As Dressipi grew, this approach became unsustainable and definitely not scalable. We found a better way to approach generating outfits would come from a technical and data driven point of view, thus avoiding implicit human biases and along the way overcoming several challenges in combining fashion and technology.
+At Dressipi, we have always known they are an important part of how a customer shops and as fashion consumption moves increasingly online, we needed to replicate this. In the early Dressipi days, outfits were hand-picked by stylists and shown to the customers via weekly emails. It was bi-directional communication where customers could give their feedback, helping to unravel their expectations. As Dressipi grew, this approach became unsustainable and definitely not scalable. We found a better way to approach generating outfits would come from a technical and data-driven point of view, thus avoiding implicit human biases and along the way overcoming several challenges in combining fashion and technology.
 
 Dressipi is now able to create around ~10 million outfits for retailers with smaller numbers of distinct products (<1K) and up to 100 million outfits for retailers with larger numbers - depending on garment categories and number of occasions a single garment can be worn in. Dressipi provides a bridge between the user’s needs and retailer stock. Personalising recommendations and styling garments as outfits in multiple ways for more than one occasion (& including items from a customer’s wardrobe), inspires individuals whilst upselling a garment by showing its versatility. 
 
@@ -19,7 +32,7 @@ Not all garments can be matched together and their compatibility depends on fact
 
 The first step in building outfits is knowing the garments’ characteristics. Each garment has a number of attributes (category, season, occasions, garment attributes such as fit, style, length, neckline, etc) that describe it in a uniform way and those attributes must be accurate. At Dressipi we combine technology, text classification and image recognition, with the human labelling of our expert stylists, to deliver the best results. For example, the neckline of a dress can be described through one of 25 different attributes. That is the level of detail and accuracy Dressipi provides.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" src ="/uploads/Outfit_Blog_1.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 800px;" src ="/uploads/Outfit_Blog_1.JPG"/></p>
 
 As a tech company, Dressipi uses a number of technologies to make garment labelling effective. Unfortunately, Computer Vision models or Convolutional Neural Networks are still not good enough to provide 99% accurate results. Hence, we constantly work on improving those models. 
 
@@ -27,7 +40,7 @@ As a tech company, Dressipi uses a number of technologies to make garment labell
 
 Another thing a machine needs to know is which garment categories can be combined together and for which occasion. The occasion is important because rules will be different for different occasions. A tennis dress shouldn’t be styled with heels while for an evening dress that’s not the case. To achieve this, we create a set of templates that reflects those relationships and can be customised per retailer. 
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" src ="/uploads/Outfit_Blog_2.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 800px;" src ="/uploads/Outfit_Blog_2.JPG"/></p>
 
 ## Rules
 
