@@ -19,7 +19,7 @@ Not all garments can be matched together and their compatibility depends on fact
 
 The first step in building outfits is knowing the garments’ characteristics. Each garment has a number of attributes (category, season, occasions, garment attributes such as fit, style, length, neckline, etc) that describe it in a uniform way and those attributes must be accurate. At Dressipi we combine technology, text classification and image recognition, with the human labelling of our expert stylists, to deliver the best results. For example, the neckline of a dress can be described through one of 25 different attributes. That is the level of detail and accuracy Dressipi provides.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Outfit_Blog_1.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" src ="/uploads/Outfit_Blog_1.JPG"/></p>
 
 As a tech company, Dressipi uses a number of technologies to make garment labelling effective. Unfortunately, Computer Vision models or Convolutional Neural Networks are still not good enough to provide 99% accurate results. Hence, we constantly work on improving those models. 
 
@@ -27,7 +27,7 @@ As a tech company, Dressipi uses a number of technologies to make garment labell
 
 Another thing a machine needs to know is which garment categories can be combined together and for which occasion. The occasion is important because rules will be different for different occasions. A tennis dress shouldn’t be styled with heels while for an evening dress that’s not the case. To achieve this, we create a set of templates that reflects those relationships and can be customised per retailer. 
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Outfit_Blog_2.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" src ="/uploads/Outfit_Blog_2.JPG"/></p>
 
 ## Rules
 
@@ -45,7 +45,7 @@ The final step is to find all the garments that match the partially resolved att
 
 At this stage, outfits aren’t personalised yet. Personalisation happens in real-time when a garment is requested. At that moment we pick the remaining garments in the outfit by checking if they are recommended for a user. As not all garments have an equal recommended score, they are sorted in order of descending goodness. Even though always returning the best-recommended garments sounds good in theory, in practice, that means there will be a lot of homogeneous outfits. Outfits’ diversity is equally important as the best-recommended garments. That is why we aggregate outfits to ensure diversity and blocklist garments that have already been shown for a short period of time. Consequently, slightly less recommended garments are returned but a diversity of outfits is increased.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Outfit_Blog_3.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/Outfit_Blog_3.JPG"/></p>
 
 ## Conclusion
 
