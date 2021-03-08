@@ -12,10 +12,9 @@ tags:
 - outfit algorithms
 image: "/uploads/Outfit_Blog_Banner.JPG"
 author: Marija Mandić
-description: "Marija Mandić, one of Dressipi's Software Engineers explains why outfitting
-  is an important part of selling fashion as fashion consuption  \nand \n\nur fashion-specific
-  data on garments really matters when it comes down to mapping trends and how she
-  takes the time to understand what trends are important to each of our retail partners."
+description: Marija Mandić, one of Dressipi's Software Engineers explains why outfitting
+  is a hugely important part of selling fashion and how generating outfits is approached
+  from a technical and data-driven point of view.
 ---
 
 ### Right from the start brands have showcased their product through outfitting: from catwalk collections to window displays, shop mannequins to advertising campaigns and on today’s social media platforms. They play a huge part in our everyday life. 
