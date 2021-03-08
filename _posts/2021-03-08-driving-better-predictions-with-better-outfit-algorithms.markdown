@@ -1,6 +1,7 @@
 ---
 title: Driving Better Predictions with Better Outfit Algorithms
 date: 2021-03-08 15:56:00 Z
+image: "/uploads/Outfit_Blog_Banner.JPG"
 author: Marija Mandić
 ---
 
