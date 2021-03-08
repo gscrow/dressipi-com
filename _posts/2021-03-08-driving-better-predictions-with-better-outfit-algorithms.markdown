@@ -45,7 +45,7 @@ The final step is to find all the garments that match the partially resolved att
 
 At this stage, outfits aren’t personalised yet. Personalisation happens in real-time when a garment is requested. At that moment we pick the remaining garments in the outfit by checking if they are recommended for a user. As not all garments have an equal recommended score, they are sorted in order of descending goodness. Even though always returning the best-recommended garments sounds good in theory, in practice, that means there will be a lot of homogeneous outfits. Outfits’ diversity is equally important as the best-recommended garments. That is why we aggregate outfits to ensure diversity and blocklist garments that have already been shown for a short period of time. Consequently, slightly less recommended garments are returned but a diversity of outfits is increased.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Trends_Blog_3.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="Outfit_Blog_3.JPG"/></p>
 
 ### Conclusion
 
