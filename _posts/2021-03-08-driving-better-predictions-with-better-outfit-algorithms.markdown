@@ -31,7 +31,7 @@ Not all garments can be matched together and their compatibility depends on fact
 
 The first step in building outfits is knowing the garments’ characteristics. Each garment has a number of attributes (category, season, occasions, garment attributes such as fit, style, length, neckline, etc) that describe it in a uniform way and those attributes must be accurate. At Dressipi we combine technology, text classification and image recognition, with the human labelling of our expert stylists, to deliver the best results. For example, the neckline of a dress can be described through one of 25 different attributes. That is the level of detail and accuracy Dressipi provides.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 800px;" src ="/uploads/Outfit_Blog_1.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 800px;" src ="/uploads/Outfit_Blog_1-e924d5.JPG"/></p>
 
 As a tech company, Dressipi uses a number of technologies to make garment labelling effective. Unfortunately, Computer Vision models or Convolutional Neural Networks are still not good enough to provide 99% accurate results. Hence, we constantly work on improving those models. 
 
