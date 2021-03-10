@@ -32,6 +32,7 @@ sections:
   - Belstaff
   - City Chic
   - Avenue
+  - Country Road Group
 - title: Success Stories
   handle: success-stories
   downloads:

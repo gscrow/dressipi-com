@@ -28,6 +28,7 @@ sections:
   - Belstaff
   - City Chic
   - Avenue
+  - Country Road Group
 - title: The Revenue Optimisation Platform
   paragraph-narrow: true
   subtitle: By using fashion-specific AI and machine learning capabilities, Dressipi
