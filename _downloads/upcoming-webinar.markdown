@@ -12,8 +12,8 @@ list-content: "#### Upcoming webinar\n\n# The Secret to a 5% Uplift in Revenue? 
   Outfits\n\nRight from the start brands have showcased their product through outfitting:
   from catwalk collections to window displays, shop mannequins to advertising campaigns
   and on today's social media platforms. As fashion consumption moves increasingly
-  online, outfitting and styling is critical. \nOur next webinar will highlight the
-  importance of outfits in fashion retail and how delivering personalised outfits
+  online, outfitting and styling is critical. \n\nOur next webinar will highlight
+  the importance of outfits in fashion retail and how delivering personalised outfits
   at scale improves revenue, conversion, AOV and retention whilst also inspiring the
   customer and creating amazing experiences.\n  \nPlease join us on 17th March 2021
   at 3 pm GMT / 4 pm CET / 10 am ET."
