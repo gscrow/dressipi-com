@@ -11,7 +11,7 @@ sections:
 - title: Webinars
   handle: webinars
   webinars:
-  - Upcoming Webinar
+  - The Secret to a 5% Uplift in Revenue? Personalised Outfits
   - Top 3 Takeaways from our Webinar on Optimising the Sale of Overstocked Products
   - 'Dressipi Webinar: How to optimise the sale of overstocked products and release
     maximum cash into your business'
