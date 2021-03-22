@@ -1,6 +1,8 @@
 ---
 title: 'Personalised Outfits Masterclass: The Top Takeaways'
 date: 2021-03-22 11:30:00 Z
+image: "/uploads/Webinar-2021-03-17-banner%20(2).png"
+author: Georgina Fisher
 ---
 
 ### The main takeaways from our Personalised Outfits Masterclass.
