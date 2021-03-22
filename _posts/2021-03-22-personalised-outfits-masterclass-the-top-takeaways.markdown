@@ -18,3 +18,23 @@ At Dressipi we have around 35 different attributes per product. This taxonomy of
 <p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/OutfitWebinarClip1_Attributes.mp4"/></p>
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/OutfitSlide2.JPG"/></p>
+
+It is very important that these attributes are accurate. When it comes to necklines, a crew, a round and a scoop neck are all types of “round” necklines but they differ in the way a customer's collar bones are exposed. Therefore, they suit different customer types and the return rate is impacted if you recommend the wrong garment. We know that customers who have a large bust tend to return more crew neck items over round and scoop neck items.
+
+Computer vision models cannot get a high level of accuracy differentiating between these three attributes but it is critical to get them right or you’ll end up with a substandard outfit, a disappointed customer and increased return rates. Having accurate data down to the fine level of detail that Dressipi provides is key.
+
+The tech team at Dressipi are always testing different technologies from image and text classification up to human labelling:
+
+> *“We find that a hybrid approach will deliver the best results. If we only rely on computer vision models, they are still not good enough because they don’t give high accuracy predictions.”* - **Marija Mandic**
+
+Read more on generating outfits from technology and the importance of attributes in Marija’s [blog post here](https://dressipi.com/blog/driving-better-predictions-with-better-outfit-algorithms/).
+
+## 2) Outfits need to reflect diversity and versatility
+
+Outfits showing what the model is wearing are a great starting point, but imagine if you could deliver the same styling in a way that was completely in line with each customer’s preferences. 
+
+Outfits need to be personalised because not only do customers come in all different shapes and sizes but one customer’s idea of “casual” might be another customer’s “far-out-there”. Showing personalised outfits in the context of a customer’s lifestyle allows retailers to reflect this diversity.
+
+Personalised outfits can also be shown in the context of different occasions. Below, on John Lewis, Natalie and Marija have been shown the versatility of an L.K.Bennett dress in a way that is right for them, manifesting in very different recommendations:
+
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/OutfitSlide3.JPG"/></p>
