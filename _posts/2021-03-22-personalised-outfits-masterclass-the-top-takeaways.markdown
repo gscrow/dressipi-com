@@ -15,4 +15,6 @@ Natalie and Software Engineer, Marija Mandic spoke at our recent Masterclass abo
 
 At Dressipi we have around 35 different attributes per product. This taxonomy of garment features is completely unique to Dressipi, not existing anywhere else in the retail industry. And it is this taxonomy that allows us to scale this technology, building 100 million outfits per night for John Lewis.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/Outfit%20Webinar%20Clip%201_Attributes.mp4"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/OutfitWebinarClip1_Attributes.mp4"/></p>
+
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/OutfitSlide2.JPG"/></p>
