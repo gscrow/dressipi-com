@@ -32,8 +32,6 @@ At Dressipi we have around 35 different attributes per product. This taxonomy of
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/OutfitSlide2.JPG"/></p>
 
-[OutfitWebinarClip1_Attributes.mp4](/uploads/OutfitWebinarClip1_Attributes.mp4)
-
 It is very important that these attributes are accurate. When it comes to necklines, a crew, a round and a scoop neck are all types of “round” necklines but they differ in the way a customer's collar bones are exposed. Therefore, they suit different customer types and the return rate is impacted if you recommend the wrong garment. We know that customers who have a large bust tend to return more crew neck items over round and scoop neck items.
 
 Computer vision models cannot get a high level of accuracy differentiating between these three attributes but it is critical to get them right or you’ll end up with a substandard outfit, a disappointed customer and increased return rates. Having accurate data down to the fine level of detail that Dressipi provides is key.
