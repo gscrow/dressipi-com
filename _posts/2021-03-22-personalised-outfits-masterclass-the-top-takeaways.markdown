@@ -15,8 +15,6 @@ Natalie and Software Engineer, Marija Mandic spoke at our recent Masterclass abo
 
 At Dressipi we have around 35 different attributes per product. This taxonomy of garment features is completely unique to Dressipi, not existing anywhere else in the retail industry. And it is this taxonomy that allows us to scale this technology, building 100 million outfits per night for John Lewis.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/OutfitWebinarClip1_Attributes.mp4"/></p>
-
 <p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/OutfitSlide2.JPG"/></p>
 
 It is very important that these attributes are accurate. When it comes to necklines, a crew, a round and a scoop neck are all types of “round” necklines but they differ in the way a customer's collar bones are exposed. Therefore, they suit different customer types and the return rate is impacted if you recommend the wrong garment. We know that customers who have a large bust tend to return more crew neck items over round and scoop neck items.
@@ -38,3 +36,21 @@ Outfits need to be personalised because not only do customers come in all differ
 Personalised outfits can also be shown in the context of different occasions. Below, on John Lewis, Natalie and Marija have been shown the versatility of an L.K.Bennett dress in a way that is right for them, manifesting in very different recommendations:
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/OutfitSlide3.JPG"/></p>
+
+> *“I like high heels, I don't like yellow and I have explicitly told John Lewis to not show me yellow. I also don't wear trainers.”* - **Natalie Theo**
+
+*“I don’t mind wearing heels for evening occasions but for casual everyday wear, I don’t want to see them. For the final outfits, I am only seeing trainers.”* - **Marija Mandic**
+
+When a customer comes to your website, you really want to elevate that experience with them, making them feel that you really understand them. Personalised outfits can do this whilst staying in keeping with a brand’s DNA. 
+
+## Conclusion 
+
+> *“Every garment in your inventory gets a lot of love.”* - **Natalie Theo**
+
+Somewhere someone loves your garment and what our technology can do is to show that garment to someone that might love it.
+
+We went from testing 200 customers to now working with [global retailers](https://dressipi.com/clients/success-stories/), testing our outfits with tens of millions of customers. We have the results and know that personalised outfitting and showing the versatility of a garment is very financially compelling.
+
+If you have any questions or you’d like to speak to us directly about how we could help you get started on delivering truly personalised outfits at scale, please get in touch.
+
+<p style="text-align:center"><a href="/contact/" class="button button-primary">FREE CONSULTATION</a></p>
