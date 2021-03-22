@@ -1,8 +1,20 @@
 ---
 title: 'Personalised Outfits Masterclass: The Top Takeaways'
 date: 2021-03-22 11:30:00 Z
-image: "/uploads/Webinar-2021-03-17-banner%20(2).png"
+categories:
+- Tech
+tags:
+- personalised outfits
+- outfits
+- attributes
+- garment data
+- garment features
+- garment attributes
+- versatility
+image: "/uploads/Webinar-2021-03-17-banner.png"
 author: Georgina Fisher
+description: 'For those of you who weren''t able to make our Personalised Outfits
+  Masterclass, we have pulled out the top takeaways from the event. '
 ---
 
 ### The main takeaways from our Personalised Outfits Masterclass.
