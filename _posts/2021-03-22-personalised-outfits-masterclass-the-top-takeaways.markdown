@@ -20,7 +20,7 @@ description: 'For those of you who weren''t able to make our Personalised Outfit
 ### The main takeaways from our Personalised Outfits Masterclass.
 
 
-We have always known outfits are at the core of how customers shop. Taking you back to when Dressipi first started, the team, including Style Director Natalie Theo, took 200 women, who uploaded 30 items from their wardrobe. From these items and 5 new recommended items to update their wardrobe, 20 outfits per customer were created. That is a total of 6000 unique outfits and 1000 new items recommended to update clients’ wardrobes. A huge 75% of these 1000 products were bought.
+We have always known outfits are at the core of how customers shop. Taking you back to when Dressipi first started, the team, including Style Director, Natalie Theo, took 200 women, who uploaded 30 items from their wardrobe. From these items and 5 new recommended items to update their wardrobe, 20 outfits per customer were created. That is a total of 6000 unique outfits and 1000 new items recommended to update clients’ wardrobes. A huge 75% of these 1000 products were bought.
 
 > *“If this could be turned into technology that would be pretty amazing.”* - **Natalie Theo** 
 
