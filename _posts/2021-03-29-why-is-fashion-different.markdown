@@ -1,6 +1,14 @@
 ---
 title: Why is Fashion different?
 date: 2021-03-29 15:32:00 Z
+categories:
+- Tech
+tags:
+- fashion data
+- fashion domain
+- algorithms
+- garment data
+- attributes
 ---
 
 ## Part 1: Fashion Behaviour Data
