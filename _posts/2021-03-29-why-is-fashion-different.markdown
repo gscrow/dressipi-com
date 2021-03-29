@@ -9,6 +9,11 @@ tags:
 - algorithms
 - garment data
 - attributes
+author: Nick Landia
+description: "Dressipi Chief Data Scientist, Nick Landia has observed the many reasons
+  why fashion recommendations are so hard to do \nwe are uniquely placed that we can
+  see data across so many retailers that we can say what the lifetime of items is
+  across the industry and compare to Netflix / Spotify to show the difference\n"
 ---
 
 # Part 1: Fashion Behaviour Data
