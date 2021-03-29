@@ -85,3 +85,5 @@ Recommendation approaches built on and inspired by datasets from Netflix, Spotif
 * Items are short-lived and get discontinued - recommender has to react to new items quickly and we have to find a way to keep data on discontinued items useful.
 
 At Dressipi, we have addressed these challenges - and many more! Stay tuned for our next blog on how consumer behaviour has a huge impact on how recommender systems are built for the fashion domain. 
+
+<p style="text-align:center"><a href="/contact/" class="button button-primary">FREE CONSULTATION</a></p>
