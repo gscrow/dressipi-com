@@ -1,5 +1,5 @@
 ---
-title: Why is Fashion different?
+title: Why is Fashion Different?
 date: 2021-03-29 15:32:00 Z
 categories:
 - Tech
@@ -9,11 +9,15 @@ tags:
 - algorithms
 - garment data
 - attributes
+image: "/uploads/WhyFashionDifferentBanner.jpg"
 author: Nick Landia
-description: "Dressipi Chief Data Scientist, Nick Landia has observed the many reasons
-  why fashion recommendations are so hard to do \nwe are uniquely placed that we can
-  see data across so many retailers that we can say what the lifetime of items is
-  across the industry and compare to Netflix / Spotify to show the difference\n"
+description: 'Chief Data Scientist, Nick Landia has observed the many reasons why
+  fashion recommendations are so hard to do throughout his time at Dressipi. This
+  article digs deeper into these specific characteristics and how they have to be
+  addressed when building recommender systems for fashion, compared with music and
+  movie domains.
+
+'
 ---
 
 # Part 1: Fashion Behaviour Data
