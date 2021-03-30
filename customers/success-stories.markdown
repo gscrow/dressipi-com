@@ -36,7 +36,8 @@ sections:
   handle: success-stories
   downloads:
   - Personalisation Drives Profitable Growth for River Island
-  - Delivering a Personalised Shopping Experience to The Modist
+  - How OVS Benefited from Dressipi’s Personalised In-Store Emails
+  - How A Luxury Retailer Gives Each Customer a Tailored Shopping Experience
 - roi-title: Dressipi Makes it Easy to Get Started & Deliver ROI
   handle: benefits
   is-centered: true
