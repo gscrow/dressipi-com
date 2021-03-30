@@ -4,8 +4,7 @@ permalink: "/clients/success-stories/"
 position: 1
 navigation: clients-footer
 header:
-  title: How River Island Achieved  +3.2% uplift in revenue per visitor and +20% AOV
-    increase with Dressipi’s Revenue Optimisation Platform
+  title: How River Island increased their revenue by 6% in 12 months with Dressipi’s fashion-focused approach to personalisation and better data
   button:
     copy: SCHEDULE A FREE CONSULTATION >
     url: "/contact"

@@ -10,8 +10,7 @@ download:
   button_class: case-study
 testimonial:
   title: Success Story
-  small-testimonial: River Island increased revenue per visitor by 3.2% and AOV by
-    20%
+  small-testimonial: River Island increased their revenue by 6% in 12 months
   body: "\"Dressipi have taken the time to understand how our business works and the
     best way for River Island to deliver profitable growth.”"
   logo: "/uploads/logo_river-island.svg"
@@ -29,8 +28,8 @@ position-list: 1
 
 ## In our free case study you will learn:
 
-- How River Island evolved beyond generic segmentation and product recommendations to true personalisation
+- How River Island evolved beyond generic segmentation and product recommendations to fashion-focussed personalisation
 
-- How Dressipi is helping River Island deliver on their long-term personalisation roadmap
+- How Dressipi is helping River Island deliver on their long-term personalisation and data roadmap
 
 - The positive revenue growth delivered through the partnership
