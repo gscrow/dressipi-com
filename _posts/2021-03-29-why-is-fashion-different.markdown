@@ -53,7 +53,7 @@ We have looked up and compiled these numbers for Netflix and Spotify as represen
 
 The table below shows how many items are available at any one time, and what percentage of the product catalogue is changing each month by either adding or removing items.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/WhyFashionDifferent_1.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/WhyFashionDifferent_1.JPG"/></p>
 
 We can observe that the movie and music domains have a large consistent product catalogue that on the whole remains unchanged from month to month, and is continuously growing in small increments. Looking at the new releases, only 5% of items are new per month, so 95% of candidate items that we could recommend have a user interaction history available and only 5% are in the new-item-problem group. At the same time, less than 2% of items get removed every month and the rest remain available to be recommended and for users to interact with. The majority of historical data remains directly relatable to new user interactions due to the same items being available then and now, without needing to use content data (or learn an additional feature space representation that introduces one more source of error in the model). 
 
