@@ -71,7 +71,7 @@ Find out more about why accuracy and specificity of garment data is so critical 
 
 ### 2) Stock and lifetime of items
 
-The other aspect we examine is how many of each item are available to purchase and how long each item remains in the catalogue. To examine this better we looked at print books to have a non-digital comparison and print is another domain where a lot of recommender research has been done. 
+The other aspect we examine is how many of each item are available to purchase and how long each item remains in the catalogue. To examine this better we looked at print books to have a non-digital comparison as print is another domain where a lot of recommender research has been done. 
 
 For Netflix and Spotify this problem does not really exist. The stock is unlimited since the products are digital and the lifetime of a product is theoretically infinite (we have taken this to mean 5 years). The median item lifetime for clothing items is only 70 days. This goes hand in hand with the big product catalogue changes we have observed and is the reason behind them. The short lifetime makes sense when we consider seasons since retailers want to offer relevant items to their customers and what clothing is relevant largely depends on the weather.
 
