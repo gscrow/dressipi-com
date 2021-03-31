@@ -23,7 +23,7 @@ layout: default
     {% when 'success-stories' %}
     <div class="container">
       <ul class="cases__list">
-      {% assign downloads = site.downloads | sort:'position' %}
+      {% assign downloads = site.downloads | sort:'position-list' %}
       {% for download in downloads %}
         {% if section.downloads contains download.title %}
         <li class="case-study__wrap">

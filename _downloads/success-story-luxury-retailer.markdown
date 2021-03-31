@@ -22,7 +22,7 @@ testimonial:
     image: "/uploads/success-story_luxury-retailer@2x.jpg"
   action: Read The Full Story >
   class: luxury-retailer
-position-list: 2
+position-list: 4
 ---
 
 # How A Luxury Retailer Gives Each Customer a Tailored Shopping Experience
