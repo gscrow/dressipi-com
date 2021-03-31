@@ -79,7 +79,7 @@ sections:
     increase with Dressipi’s Revenue Optimisation Platform
   success-story-button:
     copy: Read Full Story >
-    url: "/downloads/personalisation-drives-profitable-growth-for-river-island/"
+    url: "/downloads/success-story-river-island/"
     style: primary
   hero-image: false
   class: index-riverisland
