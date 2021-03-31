@@ -7,7 +7,7 @@ image: "/uploads/success-story_luxury-retailer@2x.jpg"
 download:
   title: Download Free Case Study
   button: DOWNLOAD CASE STUDY >
-  file: "/uploads/Dressipi-CaseStudy-The%20Modist-fe45de.pdf"
+  file: "/uploads/Dressipi-Luxury-Retailer-Success-Story.pdf"
   button_class: case-study
 testimonial:
   title: Success Story

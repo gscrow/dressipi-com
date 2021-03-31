@@ -6,7 +6,7 @@ image: "/uploads/success-story_river-island@2x.jpg"
 download:
   title: Download Free Case Study
   button: DOWNLOAD CASE STUDY >
-  file: "/uploads/Dressipi%20River%20Island%20Case%20Study.pdf"
+  file: "/uploads/Dressipi-River-Island-Success-Story.pdf"
   button_class: case-study
 testimonial:
   title: Success Story
