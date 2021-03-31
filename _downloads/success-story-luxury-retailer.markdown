@@ -11,7 +11,8 @@ download:
   button_class: case-study
 testimonial:
   title: Success Story
-  small-testimonial: A Luxury Retailer achieved 25% returns reduction and 11% conversion increase
+  small-testimonial: A Luxury Retailer achieved 25% returns reduction and 11% conversion
+    increase
   body: “We are extremely happy with the results. Dressipi has consistently outperformed
     our incumbent provider on all key metrics."
   logo: "/uploads/logo_luxury-retailer.svg"

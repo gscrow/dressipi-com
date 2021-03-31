@@ -11,11 +11,11 @@ download:
 testimonial:
   title: Success Story
   small-testimonial: OVS improved revenue by 54% through personalised in-store emails
-  body: ""
+  body: ''
   logo: "/uploads/logo_ovs.svg"
   author:
-    name: ""
-    job-title: ""
+    name: ''
+    job-title: ''
     company: OVS
     image: "/uploads/success-story_ovs@2x.jpg"
   action: Read The Full Story >
