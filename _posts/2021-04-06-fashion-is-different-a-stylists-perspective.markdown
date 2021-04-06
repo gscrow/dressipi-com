@@ -9,6 +9,7 @@ tags:
 - fashion personalisation
 - garment attributes
 - personalised outfits
+image: "/uploads/NatalieBlog.jpeg"
 author: Natalie Theo
 description: "In response to Chief Data Scientist, Nick Landia's blog on \nDressipi
   has spent years delivering fashion-specific algorithms, drawing on the expertise
