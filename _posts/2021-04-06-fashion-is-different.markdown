@@ -11,13 +11,9 @@ tags:
 - personalised outfits
 image: "/uploads/NatalieBlog.jpeg"
 author: Natalie Theo
-description: "In response to Chief Data Scientist, Nick Landia's blog on \nDressipi
-  has spent years delivering fashion-specific algorithms, drawing on the expertise
-  of some of the industry’s top stylists and experts. Style Director, Natalie Theo\n\nFashion
-  is always evolving. Dressipi has spent years delivering fashion-specific algorithms,
-  drawing on the expertise of some of the industry’s top stylists and experts. This
-  focus on fashion is a key differentiator and why we consistently outperform our
-  competitors’ general, cross industry approach."
+description: Dressipi has spent years delivering fashion-specific algorithms, drawing
+  on the expertise of some of the industry’s top stylists and experts. Style Director,
+  Natalie Theo explains why this is a necessity in her most recent blog post.
 ---
 
 ### There’s no showbusiness without the show or the business. Likewise, when it comes to fashion-tech there is no tech without the fashion. 
