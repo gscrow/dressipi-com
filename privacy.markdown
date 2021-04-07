@@ -47,6 +47,11 @@ On other occasions, we are acting as a data processor of your personal data, whe
 
 Similarly, when we require our retailers to process your personal data in accordance with our instructions, our retailers act as data processors in this instance. In all cases of data processing, whether carried out by us or by third parties on our behalf, we always ensure that your rights are protected via appropriate safeguards, such as by using contractual processing agreements and complying with the applicable laws.
 
+## EEA Representative
+
+As Dressipi is based in the UK, we have appointed Gerrish Legal SARL as Dressipi’s EEA representative for privacy matters in the European Economic Area (EEA). Gerrish Legal will handle any queries related to Dressipi’s data processing from the European data protection authorities and also from data subjects who usually resident in the EEA. If you are usually resident in the EEA and have queries related to our processing of your data, you may contact Gerrish Legal by email at [dressipi@obelisksupport.com](mailto:dressipi@obelisksupport.com). You may also write to Gerrish Legal SARL by post. All correspondence should be marked “Gerrish Legal – Attn. Dressipi Privacy” and addressed to: Gerrish Legal SARL, 15 rue de Surène, 75008, Paris, France.
+
+
 ## Change
 
 The data protection law in the UK changed on 25 May 2018. Although this Privacy Policy sets out most of your rights under the new laws, we might update this Privacy Policy from time to time to take new guidance, rules, regulations and best practice into account. Therefore, we may change this page from time to time, to reflect how we are processing your data.
