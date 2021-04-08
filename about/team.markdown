@@ -54,7 +54,7 @@ sections:
     title: Style Director
     image: "/uploads/tara-kavanagh-dowsett.jpg"
   - name: Selina Mills
-    title: Junior Stylist Manager
+    title: Senior Stylist
     linkedin: https://www.linkedin.com/in/selina-mills/?ppe=1
     image: "/uploads/selina-mills.jpg"
   - name: Elisenda Torras
