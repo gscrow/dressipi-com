@@ -101,6 +101,10 @@ sections:
     title: Data Engineer
     linkedin: https://www.linkedin.com/in/luke-ingram-0b787798/
     image: "/uploads/Luke%20Ingram.jpg"
+  - name: Geoff Wilkinson
+    title: Data Engineer
+    linkedin: https://www.linkedin.com/in/geoff-wilkinson-60703618/
+    image: "/uploads/geoff-wilkinson.png"
   - name: James Tuck
     title: Data Analyst
     linkedin: https://www.linkedin.com/in/james-tuck-28555172/
