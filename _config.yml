@@ -20,6 +20,9 @@ collections:
   posts:
     title: Posts
     output: true
+  success-story:
+    title: Succes Stories
+    output: true
   resources:
     title: Resources
     output: true
@@ -49,8 +52,14 @@ defaults:
     path: ''
     type: blog_categories
   values:
-    permalink: "/blog/categories/:title/"
+    permalink: "/success-story/categories/:title/"
     layout: category
+- scope:
+    path: ''
+    type: success-story
+  values:
+    permalink: "/success-story/:title/"
+    layout: success-story
 - scope:
     path: ''
     type: blog_tags
