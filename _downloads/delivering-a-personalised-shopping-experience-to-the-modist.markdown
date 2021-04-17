@@ -23,7 +23,7 @@ testimonial:
     image: "/uploads/success-story_the-modist@2x.jpg"
   action: Read The Full Story >
   class: modist
-position-list: 2
+position-list: 4
 ---
 
 # How The Modist Gives Each Customer a Tailored Shopping Experience

@@ -45,7 +45,7 @@ sections:
     number-down: "3"
     value-down: "%"
     number-down-description: RETURNS REDUCTION
-    quote: "“The OVS customer is a much heavier in store shopper and we needed a highly personalised way to target them. By working with Dressipi, we have been able to deliver truly personalised emails to our customers and open up the massive revenue potential of the store portfolio.”"
+    quote: "“Fashion is a really complex vertical with so many moving parts. We have to contend with seasonality and trends, and that’s before we even layer on personal preferences. We saw an uplift in the Dressipi segment and saw a worse performance vs our control in the recommendation engine that wasn’t in the fashion vertical, so the non Dressipi variant was actually having a detrimental impact on performance”"
     author: Sarah Stacey, Digital Operations Manager
     button: DOWNLOAD PDF>
     file: "/uploads/Dressipi-CaseStudy-The%20Modist-fe45de.pdf"
