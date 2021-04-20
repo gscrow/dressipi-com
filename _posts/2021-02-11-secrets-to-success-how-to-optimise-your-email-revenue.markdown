@@ -1,5 +1,5 @@
 ---
-title: 'Secrets to Success: How to Optimise Your Email Revenue'
+title: Optimising Your Email Revenue
 date: 2021-02-11 10:05:00 Z
 categories:
 - data
