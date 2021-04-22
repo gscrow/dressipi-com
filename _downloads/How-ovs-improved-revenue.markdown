@@ -53,7 +53,7 @@ sections:
 - contact-title: "Would you like to create a personalised loyalty program that works for your stores as well as your digital channels? We can also support with any more general CRM strategies and support. Please fill in the Dressipi contact form if you would like further information."
   handle: contact
   button:
-    copy: FREE CONSULTATION >
+    copy: Schedule A Free Consultation >
     url: "/contact"
 - title: Success Stories
   handle: success-stories

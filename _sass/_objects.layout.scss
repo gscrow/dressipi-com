@@ -54,7 +54,7 @@
     flex-basis: 24%;
   }
 }
-
+ 
 // grid gutter
 .gutter {
   padding-right: $gutter-width / 2;
@@ -64,7 +64,7 @@
     font-weight: 600;
     text-align: center;
   }
-
+  
   .quote {
     font-style: italic;
     text-align: center;
@@ -157,3 +157,13 @@
     padding-left: $mobile-gutter-width / 2;
   }
 }
+ .box-quote {
+    flex-direction: column;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    .button {
+      align-self: center;
+      width: fit-content;
+    }
+  }
