@@ -22,8 +22,10 @@
         <div class="gutter feature__image">
           <div>
             <!-- keep flex image ratio -->
+            {%- if subsection.image -%}
             <img src="{{ subsection.image }}" alt="{{ subsection.title }}" {% if subsection.hres-image
               %}srcset="{{ subsection.hres-image }} 2x" {% endif %} class="feature__image" />
+            {%- endif -%}
           </div>
         </div>
         {% endunless %}
@@ -112,10 +114,15 @@
               {{ section.header-title}}
             </div>
             <div class="case-study__header case-study__list">
-              {% if download.testimonial.logo %}<div class="case-study__logo {{ download.testimonial.class }}"><img
-                  src="{{ download.testimonial.logo }}" /></div>{% endif %}
+              {% if download.testimonial.logo %}<div class="case-study__logo {{ download.testimonial.class }}">
+                <img src="{{ download.testimonial.logo }}" />
+                </div>{% endif %}
             </div>
-            <div class="case-study__image"><img src="{{ download.testimonial.author.image }}" /></div>
+            {%- if download.testimonial.author.image -%}
+            <div class="case-study__image">
+              <img src="{{ download.testimonial.author.image }}" />
+            </div>
+            {%- endif -%}
             <div class="case-study__body">
               <p>{{ download.testimonial.small-testimonial }}</p>
             </div>
