@@ -32,13 +32,13 @@ sections:
   - Belstaff
   - City Chic
   - Avenue
-- title: Success Stories
+- title: More Success Stories
   handle: success-stories
   downloads:
   - Personalisation Drives Profitable Growth for River Island
-  - Delivering a Personalised Shopping Experience to The Modist
-  - Accelerating Wallis to be Truly Predictive
   - How OVS improved revenue
+  - John Lewis achieved a 2% increase in revenue with outfit recommendations
+
 - roi-title: Dressipi Makes it Easy to Get Started & Deliver ROI
   handle: benefits
   is-centered: true

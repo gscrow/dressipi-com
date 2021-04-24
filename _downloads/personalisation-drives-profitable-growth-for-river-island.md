@@ -1,7 +1,7 @@
 ---
-title: How River Island increased their revenue
+title: Personalisation Drives Profitable Growth for River Island
 date: 2021-03-01 08:54:00 Z
-position: 4
+position: 1
 navigation: header
 resource: Case Studies
 image: "/uploads/success-story_river-island@2x.jpg"
@@ -43,7 +43,6 @@ sections:
 
   - title: The Results
     class: resutls
-    subtitle:
     body: >
       Given the success of the initial test, River Island were then prepared to extend personalisation to all parts of the customer journey and expand across their menswear and kidswear categories.
 
@@ -93,24 +92,16 @@ sections:
 
     button: DOWNLOAD PDF>
     file: "/uploads/Dressipi-CaseStudy-The%20Modist-fe45de.pdf"
-  button_class: case-study
+    button_class: case-study
 - contact-title: "If you have any questions or you’d like to speak to us directly about how fashion-specific  personalisation can make a difference to your customer experience and increase your online revenue, please get in touch."
   handle: contact
   button:
     copy: FREE CONSULTATION >
     url: "/contact"
-- title: Success Stories
-  handle: success-stories
-  header-title: Success Story
-  downloads:
-  - Personalisation Drives Profitable Growth for River Island
-  - Delivering a Personalised Shopping Experience to The Modist
-  - Accelerating Wallis to be Truly Predictive
 
 testimonial:
   title: Success Story
-  small-testimonial: OVS improved revenue by 54% and delivered an additional €4m of incremental revenue
-    increase
+  small-testimonial: River Island increased their revenue by 6% in 12 months
   body: “We are extremely happy with the results. Dressipi has consistently outperformed
     our incumbent provider on all key metrics."
   logo: /uploads/logo_river-island.svg

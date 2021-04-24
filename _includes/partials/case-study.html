@@ -19,15 +19,16 @@
         </div>
         {% unless subsection.number-up %}
         {% unless subsection.class == "challenge" %}
+
+        {%- if subsection.image -%}
         <div class="gutter feature__image">
           <div>
             <!-- keep flex image ratio -->
-            {%- if subsection.image -%}
             <img src="{{ subsection.image }}" alt="{{ subsection.title }}" {% if subsection.hres-image
               %}srcset="{{ subsection.hres-image }} 2x" {% endif %} class="feature__image" />
-            {%- endif -%}
+            </div>
           </div>
-        </div>
+          {%- endif -%}
         {% endunless %}
         {% endunless %}
         {% if subsection.number-up %}
@@ -100,7 +101,7 @@
   <div class="success-stories-section">
     <hgroup class="section__heading">
       <h2 class="header__title">
-        {{ section.title}}
+        {{ section.title }}
       </h2>
     </hgroup>
     <div class="container ">

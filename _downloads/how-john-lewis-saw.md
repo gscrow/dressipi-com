@@ -1,7 +1,7 @@
 ---
-title: How John Lewis saw
+title: John Lewis achieved a 2% increase in revenue with outfit recommendations
 date: 2021-03-01 08:54:00 Z
-position: 4
+position: 2
 navigation: header
 resource: Case Studies
 image: /uploads/John-Lewis.jpg
@@ -61,12 +61,12 @@ sections:
       - number-line: "2"
         value-line: "%"
         number-line-description: Revenue increase
-      quote: "“Working with Dressipi has really helped us look at different ways in how we can support our customers on the site and the different tactics that we can deploy to meet their needs. We are aspiring towards having the ability to influence customers and help facilitate their shopping journey from the point they arrive on the website all the way through to post checkout and then even beyond that with a follow up email as well. We are also looking at having a better understanding of the data we have on customers and how we can help tie that back into a more personalised journey.”"
-      author: Rob Hitchman, Digital Product Owner
+    quote: "“Working with Dressipi has really helped us look at different ways in how we can support our customers on the site and the different tactics that we can deploy to meet their needs. We are aspiring towards having the ability to influence customers and help facilitate their shopping journey from the point they arrive on the website all the way through to post checkout and then even beyond that with a follow up email as well. We are also looking at having a better understanding of the data we have on customers and how we can help tie that back into a more personalised journey.”"
+    author: Rob Hitchman, Digital Product Owner
 
     button: DOWNLOAD PDF>
     file: "/uploads/Dressipi-CaseStudy-The%20Modist-fe45de.pdf"
-  button_class: case-study
+    button_class: case-study
 - contact-title: "Please get in touch today to learn how to get started on delivering truly personalised outfits at scale. In as little as two weeks, you’ll be inspiring your customers and delivering that much needed revenue increase to your brand."
   handle: contact
   button:
@@ -75,11 +75,11 @@ sections:
 
 testimonial:
   title: Success Story
+  small-testimonial: John Lewis achieved a 2% increase in revenue with outfit recommendations
   logo: /uploads/Logo_John_lewis.svg
   author:
     image: /uploads/John-Lewis.jpg
-
+  action: Read The Full Story >
   class: riverisland
-position-list: 1
-# position-list: 1
+position-list: 2
 ---
