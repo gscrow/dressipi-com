@@ -25,6 +25,7 @@
     flex: 5;
     margin: auto 0;
     text-align: left;
+    max-width: 652px;
 
     &--top {
       flex: 5;
@@ -75,7 +76,19 @@
     }
   }
 }
-
+.feature__image .feature__image_line {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  @media (min-width: 375px) {
+    gap: 26px;
+  }
+  .feature__image {
+    max-width: 558px;
+    height: auto;
+    width: 100%;
+  }
+}
 .order-center {
   order: 0;
   flex: 100%;

@@ -29,8 +29,9 @@ sections:
     By simply injecting Dressipi’s API’s into their existing ESP, the recommendations in the emails included a highly tailored edit of each customer’s best clothing selection filtered by availability in their local store and what was available in their size at that moment.
 
     The emails went beyond segmentation and were truly personalised for each and every customer. Dressipi’s unique fashion attributes means that it is also possible to create edits that maintain the brand DNA. We are able to do this because we have really taken the time to understand the nuances that make fashion different."
-    image: "/uploads/OVS1.jpg"
-    image1: "/uploads/OVS2.jpg"
+    image-line_col:
+    - /uploads/OVS1.jpg
+    - /uploads/OVS2.jpg
 
   - title: The Results
     class: resutls
@@ -66,7 +67,6 @@ sections:
 testimonial:
   title: Success Story
   small-testimonial: OVS improved revenue by 54% and delivered an additional €4m of incremental revenue increase
-  body: “We are extremely happy with the results. Dressipi has consistently outperformed our incumbent provider on all key metrics."
   logo: "/uploads/logo_ovs.svg"
   action: Read The Full Story >
   class: ovs

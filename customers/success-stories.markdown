@@ -38,6 +38,7 @@ sections:
   - Personalisation Drives Profitable Growth for River Island
   - How OVS improved revenue
   - John Lewis achieved a 2% increase in revenue with outfit recommendations
+  - A Luxury Retailer
 
 - roi-title: Dressipi Makes it Easy to Get Started & Deliver ROI
   handle: benefits

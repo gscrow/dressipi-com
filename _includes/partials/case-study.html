@@ -26,11 +26,20 @@
             <!-- keep flex image ratio -->
             <img src="{{ subsection.image }}" alt="{{ subsection.title }}" {% if subsection.hres-image
               %}srcset="{{ subsection.hres-image }} 2x" {% endif %} class="feature__image" />
-            </div>
           </div>
-          {%- endif -%}
+        </div>
+        {%- endif -%}
         {% endunless %}
         {% endunless %}
+        {%- if subsection.image-line_col -%}
+        <div class="gutter feature__image">
+          <div class="feature__image_line">
+            {%- for im in subsection.image-line_col -%}
+            <img src="{{ im }}" alt="{{ subsection.title }}" class="feature__image" />
+            {%- endfor -%}
+          </div>
+        </div>
+        {%- endif -%}
         {% if subsection.number-up %}
         <div class="benefit__container-case-study gutter feature__image">
           <div class="platform__description">
@@ -50,6 +59,15 @@
         </div>
         {% endif %}
       </div>
+      {%- if subsection.image-line -%}
+      <div class="gutter feature__image">
+        <div class="feature__image_line">
+          {%- for im in subsection.image-line -%}
+          <img src="{{ im }}" alt="{{ subsection.title }}" class="feature__image" />
+          {%- endfor -%}
+        </div>
+      </div>
+      {%- endif -%}
     </div>
 
     {%- for nb in subsection.number-boxes -%}
@@ -64,7 +82,7 @@
       </div>
       {%- endfor -%}
     </div>
-    
+
     {% if nb.body %}
     <div class="container">
       <div class="gutter feature__copy">
@@ -74,7 +92,7 @@
       </div>
     </div>
     {% endif %}
-    
+
     {% if nb.quote %}
     <div class="container gutter text--center">
       <blockquote class="quote">{{ nb.quote }} </blockquote>
@@ -83,19 +101,19 @@
     {% endif %}
     {%- endfor -%}
 
-      {% if subsection.quote %}
-      <div class="container box-quote gutter text--center">
-        <blockquote class="quote">{{ subsection.quote }} </blockquote>
-        <p class="author">{{ subsection.author }} </p>
-        {%- if subsection.button -%}
-        <a class="button button--medium button-primary" href="{{ subsection.file }}" target="_blank">
-          {{ subsection.button }}
-        </a>
-        {%- endif -%}
-      </div>
-      {% endif %}
+    {% if subsection.quote %}
+    <div class="container box-quote gutter text--center">
+      <blockquote class="quote">{{ subsection.quote }} </blockquote>
+      <p class="author">{{ subsection.author }} </p>
+      {%- if subsection.button -%}
+      <a class="button button--medium button-primary" href="{{ subsection.file }}" target="_blank">
+        {{ subsection.button }}
+      </a>
+      {%- endif -%}
+    </div>
+    {% endif %}
     {% endfor %}
-    
+
   </div>
   {% when 'success-stories' %}
   <div class="success-stories-section">
@@ -117,7 +135,7 @@
             <div class="case-study__header case-study__list">
               {% if download.testimonial.logo %}<div class="case-study__logo {{ download.testimonial.class }}">
                 <img src="{{ download.testimonial.logo }}" />
-                </div>{% endif %}
+              </div>{% endif %}
             </div>
             {%- if download.testimonial.author.image -%}
             <div class="case-study__image">
