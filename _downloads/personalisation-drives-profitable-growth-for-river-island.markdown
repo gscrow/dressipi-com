@@ -1,5 +1,5 @@
 ---
-title: Personalisation Drives Profitable Growth for River Island
+title: Personalisation Drives Profitable Growth for River Island.
 date: 2020-01-24 15:26:00 Z
 resource: Case Studies
 image: "/uploads/success-story_river-island@2x.jpg"

@@ -91,7 +91,7 @@ sections:
     author: Simon Konn, Insights & CRM Director
 
     button: DOWNLOAD PDF>
-    file: "/uploads/Dressipi-CaseStudy-The%20Modist-fe45de.pdf"
+    file: "/uploads/Dressipi%20River%20Island%20Case%20Study.pdf"
     button_class: case-study
 - contact-title: "If you have any questions or you’d like to speak to us directly about how fashion-specific  personalisation can make a difference to your customer experience and increase your online revenue, please get in touch."
   handle: contact

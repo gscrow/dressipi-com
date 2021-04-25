@@ -78,9 +78,9 @@
 }
 .feature__image .feature__image_line {
   display: grid;
-  grid-template-columns: 1fr 1fr;
   gap: 10px;
   @media (min-width: 375px) {
+    grid-template-columns: 1fr 1fr;
     gap: 26px;
   }
   .feature__image {

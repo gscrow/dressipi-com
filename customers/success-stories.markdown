@@ -4,8 +4,7 @@ permalink: "/clients/success-stories/"
 position: 1
 navigation: clients-footer
 header:
-  title: How River Island Achieved  +3.2% uplift in revenue per visitor and +20% AOV
-    increase with Dressipi’s Revenue Optimisation Platform
+  title: How River Island increased their revenue by 6% in 12 months with Dressipi’s fashion-focused approach to personalisation and better data
   button:
     copy: SCHEDULE A FREE CONSULTATION >
     url: "/contact"
@@ -36,9 +35,9 @@ sections:
   handle: success-stories
   downloads:
   - Personalisation Drives Profitable Growth for River Island
-  - How OVS improved revenue
-  - John Lewis achieved a 2% increase in revenue with outfit recommendations
-  - A Luxury Retailer
+  - How OVS Benefited from Dressipi’s Personalised In-Store Emails
+  - Personalised Outfits Increase Revenue For John Lewis
+  - How A Luxury Retailer Gives Each Customer a Tailored Shopping Experience
 
 - roi-title: Dressipi Makes it Easy to Get Started & Deliver ROI
   handle: benefits
