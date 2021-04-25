@@ -1,10 +1,12 @@
 ---
-title: John Lewis achieved a 2% increase in revenue with outfit recommendations
-date: 2021-03-01 08:54:00 Z
+title: Personalised Outfits Increase Revenue For John Lewis
+date: 2020-03-30 15:26:00 Z
+resource: Case Studies
+image: "/uploads/success-story_john-lewis@2x.jpg"
 position: 2
 navigation: header
 resource: Case Studies
-image: /uploads/John-Lewis.jpg
+#image: /uploads/John-Lewis.jpg
 header:
   case-study-header: true
   page-title: SUCCESS STORY
