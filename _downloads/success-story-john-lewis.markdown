@@ -22,7 +22,9 @@ sections:
     body: >
       John Lewis & Partners is a leading high-end, department store with a large online presence and a number of retail stores operating across Great Britain. Generating over £3.5 billion in revenue across all categories, and over £1 billion in fashion alone, they recognised that fashion was a core area of focus. 
 
+
       John Lewis wanted to remove the friction from their online shopping journeys and create truly tailored one to one experiences for their frequent and loyal customers. They understood that styling and outfitting was really important when selling fashion and were looking for a solution that could deliver personalised outfits at scale, across womenswear, menswear and kidswear. 
+
 
       Dressipi was the only vendor who could deliver this. 
 

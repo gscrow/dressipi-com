@@ -77,7 +77,7 @@ sections:
   body: How River Island increased their revenue by 6% in 12 months with Dressipi’s fashion-focused approach to personalisation and better data
   success-story-button:
     copy: Read Full Story >
-    url: "/downloads/personalisation-drives-profitable-growth-for-river-island/"
+    url: "/downloads/success-story-river-island/"
     style: primary
   hero-image: false
   class: index-riverisland

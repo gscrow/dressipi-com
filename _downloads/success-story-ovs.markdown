@@ -8,7 +8,7 @@ navigation: header
 #image: "/uploads/ows.jpg"
 header:
   case-study-header: true
-  page-title: OVS SUCCESS STORY
+  page-title: SUCCESS STORY
   page-title-icon: "/uploads/icon_success-story-colour.svg"
   body: How OVS improved revenue by 54% and delivered an additional €4m of incremental revenue in the first 6 months through Dressipi’s Personalised Instore emails 
 sections:
@@ -20,16 +20,22 @@ sections:
     subtitle:
     body: "OVS is the leading company in the Italian women’s, men’s and kids’ apparel market, with a market share of 8.1% and revenue over €1bn.
 
+
     In May 2020 OVS re-opened their 1,200 stores post the first lockdown. They have a large database of loyal customers, the majority of whom do not shop online. OVS wanted to use all of their available digital channels to drive maximum footfall into stores and start to recover some of that lost revenue.
 
+
     They asked us to help them with the content in their emails to support the re-opening."
+
   - title: The Solution
     class: solution
     body: "Together with Dressipi, OVS sent personalised emails to all customers on their loyalty program (across kidswear, menswear and womenswear).
 
+
     By simply injecting Dressipi’s API’s into their existing ESP, the recommendations in the emails included a highly tailored edit of each customer’s best clothing selection filtered by availability in their local store and what was available in their size at that moment.
 
+
     The emails went beyond segmentation and were truly personalised for each and every customer. Dressipi’s unique fashion attributes means that it is also possible to create edits that maintain the brand DNA. We are able to do this because we have really taken the time to understand the nuances that make fashion different."
+
     image-line_col:
     - /uploads/OVS1.jpg
     - /uploads/OVS2.jpg
@@ -68,9 +74,8 @@ sections:
 testimonial:
   title: Success Story
   small-testimonial: OVS improved revenue by 54% and delivered an additional €4m of incremental revenue increase
-  logo: "/uploads/logo_ovs.svg"
+  logo: "/uploads/Logo_ovs.svg"
   action: Read The Full Story >
-  class: ovs
   author:
     company: OVS
     image: "/uploads/ovs.jpg"

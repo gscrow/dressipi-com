@@ -7,7 +7,7 @@ resource: Case Studies
 image: "/uploads/ows.jpg"
 header:
   case-study-header: true
-  page-title: OVS SUCCESS STORY
+  page-title: SUCCESS STORY
   page-title-icon: "/uploads/icon_success-story-colour.svg"
   body: How a luxury retailer gave each customer a tailored shopping experience and delivered an extra 12% increase in Revenue Per Visitor and 25% reduction in Returns
 sections:
@@ -69,7 +69,7 @@ sections:
 testimonial:
   title: Success Story
   small-testimonial: A Luxury Retailer achieved 25% returns reduction and 11% conversion increase
-  logo: "/uploads/Luxury_retailer.svg"
+  logo: "/uploads/Logo_luxury.svg"
   action: Read The Full Story >
   class: 
   author:
