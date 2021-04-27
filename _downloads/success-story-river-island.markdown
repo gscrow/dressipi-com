@@ -36,7 +36,7 @@ sections:
       The team wanted to test Dressipi’s personalisation in a very simple, light touch way and so decided to start with personalisation on the womenswear Product Listing Page (PLP). 
     
 
-      The team at River Island didn’t consider it could make such a big difference. The initial results surprised - Dressipi outperformed the 2 other generic providers with a 3% increase in revenue per visitor."
+      The team at River Island didn’t consider it could make such a big difference. The initial results surprised - Dressipi outperformed the 2 other generic providers with a 3% increase in revenue per visitor.
     image: "/uploads/Dresses-Dresses-for-Women-Ladies-Dress-River-Island.jpg"
     quote: "“Fashion is a really complex vertical with so many moving parts. We have to contend with seasonality and trends, and that’s before we even layer on personal preferences. We saw an uplift in the Dressipi segment and saw a worse performance vs our control in the recommendation engine that wasn’t in the fashion vertical, so the non Dressipi variant was actually having a detrimental impact on performance”"
     author: Gemma Scarfe, Ecommerce Director
