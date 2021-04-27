@@ -48,15 +48,12 @@ sections:
 
     image: "/uploads/John_lewis_Roxy_Star_Print_Midi_Dress.jpg"
     
-    quote: "“Working with Dressipi has really helped us look at different ways in how we can support our customers on the site and the different tactics that we can deploy to meet their needs. We are aspiring towards having the ability to influence customers and help facilitate their shopping journey from the point they arrive on the website all the way through to post checkout and then even beyond that with a follow up email as well. We are also looking at having a better understanding of the data we have on customers and how we can help tie that back into a more personalised journey.”"
-    author: Rob Hitchman, Digital Product Owner
 
   - title: The Results
     class: results
     subtitle:
     body: >
       John Lewis saw a 4x higher increase in revenue per email sent when responding with personalised strategies overall. This was particularly notable with the most recent test on the outfit recommendations seeing a 2% increase in revenue - a significant uplift.
-
     number-boxes:
     - number-lines:
       - number-line: "4"
