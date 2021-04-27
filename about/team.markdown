@@ -109,6 +109,10 @@ sections:
     title: Data Analyst
     linkedin: https://www.linkedin.com/in/james-tuck-28555172/
     image: "/uploads/james-tuck.jpg"
+  - name: Natasha Tol
+    title: Data Analyst
+    linkedin: https://www.linkedin.com/in/natasha-tol-a245a316b/
+    image: "/uploads/natasha-tol.jfif"
   - name: Umesh Patel
     title: Programme Manager
     linkedin: https://www.linkedin.com/in/umesh-patel-63279227/
