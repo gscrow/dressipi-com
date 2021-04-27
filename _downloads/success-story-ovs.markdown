@@ -41,7 +41,7 @@ sections:
     - /uploads/OVS2.jpg
 
   - title: The Results
-    class: resutls
+    class: results
     body: >
       Dressipi’s personalised emails enabled OVS to drive more revenue-generating footfall into their stores. The campaign was hugely successful, delivering an additional 54% in terms of revenue per email sent and delivered an additional €4m of incremental revenue in the first 6 months.
     number-boxes:

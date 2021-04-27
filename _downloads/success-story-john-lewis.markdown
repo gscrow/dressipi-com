@@ -52,7 +52,7 @@ sections:
     author: Rob Hitchman, Digital Product Owner
 
   - title: The Results
-    class: resutls
+    class: results
     subtitle:
     body: >
       John Lewis saw a 4x higher increase in revenue per email sent when responding with personalised strategies overall. This was particularly notable with the most recent test on the outfit recommendations seeing a 2% increase in revenue - a significant uplift.

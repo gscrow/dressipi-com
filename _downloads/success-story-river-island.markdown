@@ -42,7 +42,7 @@ sections:
     author: Gemma Scarfe, Ecommerce Director
 
   - title: The Results
-    class: resutls
+    class: results
     body: >
       Given the success of the initial test, River Island were then prepared to extend personalisation to all parts of the customer journey and expand across their menswear and kidswear categories.
 
