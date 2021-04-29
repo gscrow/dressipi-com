@@ -10,6 +10,8 @@ tags:
 - labelling
 - garment attributes
 - outfit algorithms
+- personalised outfits
+- personalised outfits technology
 image: "/uploads/Outfit_Blog_Banner.JPG"
 author: Marija Mandić
 description: Marija Mandić, one of Dressipi's Software Engineers explains why outfitting
