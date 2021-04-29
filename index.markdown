@@ -36,24 +36,24 @@ sections:
   handle: revenue
   subsections:
   - title: Optimise conversion & increase lifetime value
-    number-left: '12'
+    number-left: 12
     value-left: "%"
     number-left-description: more revenue
     number-right: 10
     value-right: "%"
     number-right-description: more profit
   - title: Drive better retention & fewer returns
-    number-left: '5'
+    number-left: 5
     value-left: "%"
     number-left-description: retention
-    number-right: '3'
+    number-right: 3
     value-right: "%"
     number-right-description: returns reduction
   - title: Increase sell-through & reduce discounting
-    number-left: '5'
+    number-left: 5
     value-left: "%"
     number-left-description: gross margin impact
-    number-right: '2'
+    number-right: 2
     value-right: "%"
     number-right-description: contributed profit
     action:
@@ -75,8 +75,8 @@ sections:
   handle: case-study
   page-title: SUCCESS STORIES
   page-title-icon: "/uploads/icon_success-story-colour.svg"
-  body: How River Island Achieved  +3.2% uplift in revenue per visitor and +20% AOV
-    increase with Dressipi’s Revenue Optimisation Platform
+  body: How River Island increased their revenue by 6% in 12 months with Dressipi’s
+    fashion-focused approach to personalisation and better data.
   success-story-button:
     copy: Read Full Story >
     url: "/downloads/success-story-river-island/"
