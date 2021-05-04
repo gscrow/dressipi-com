@@ -49,7 +49,7 @@ defaults:
     path: ''
     type: blog_categories
   values:
-    permalink: "/success-story/categories/:title/"
+    permalink: "/blog/categories/:title/"
     layout: category
 - scope:
     path: ''
