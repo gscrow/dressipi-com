@@ -33,7 +33,7 @@ sections:
   - City Chic
   - Avenue
   - Country Road Group
-- title: Success Stories
+- title: More Success Stories
   handle: success-stories
   downloads:
   - Personalisation Drives Profitable Growth for River Island
