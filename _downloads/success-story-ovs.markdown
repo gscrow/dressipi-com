@@ -62,7 +62,7 @@ sections:
     quote: "“The OVS customer is a much heavier in store shopper and we needed a highly personalised way to target them. By working with Dressipi, we have been able to deliver truly personalised emails to our customers and open up the massive revenue potential of the store portfolio.”"
     author: Isabel Serafini, Head of CRM
     button: DOWNLOAD PDF>
-    file: "/uploads/Dressipi-CaseStudy-The%20Modist-fe45de.pdf"
+    file: "/uploads/Dressipi-OVS-Success-Story.pdf"
     button_class: case-study
 
 - contact-title: "Would you like to create a personalised loyalty program that works for your stores as well as your digital channels? We can also support with any more general CRM strategies and support. Please fill in the Dressipi contact form if you would like further information."

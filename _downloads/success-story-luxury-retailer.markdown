@@ -57,7 +57,7 @@ sections:
     quote: "“We didn’t want to offer the status quo of basic recommendations. We wanted to go beyond that and truly predict what our customers were looking for at an individual level. We wanted a partner that went the extra mile, truly understood the fashion domain and would work with us to innovate and create unique experiences that were in line with our brand DNA. Dressipi delivers on all of this and allows us to offer our customers a truly personalised experience, which is a key part of our strategy.”"
     author: Director of Ecommerce
     button: DOWNLOAD PDF>
-    file: "/uploads/Dressipi-CaseStudy-The%20Modist-fe45de.pdf"
+    file: "/uploads/Dressipi-Luxury-Retailer-Success-Story.pdf"
     button_class: case-study
 
 - contact-title: "To learn more about how Dressipi can increase your revenue and reduce returns with recommendations suitable for each and every customer and always inline with your brand DNA, please get in touch today."

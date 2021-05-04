@@ -66,7 +66,7 @@ sections:
     author: Rob Hitchman, Digital Product Owner
 
     button: DOWNLOAD PDF>
-    file: "/uploads/Dressipi-CaseStudy-The%20Modist-fe45de.pdf"
+    file: "/uploads/Dressipi-John-Lewis-Success-Story.pdf"
     button_class: case-study
 - contact-title: "Please get in touch today to learn how to get started on delivering truly personalised outfits at scale. In as little as two weeks, you’ll be inspiring your customers and delivering that much needed revenue increase to your brand."
   handle: contact
