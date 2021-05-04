@@ -32,7 +32,7 @@ layout: default
               {{ download.testimonial.title }}
             </div>
             <div class="case-study__header case-study__list">
-              {% if download.testimonial.logo %}<div class="case-study__logo {{ download.testimonial.class }}"><img src="{{ download.testimonial.logo }}" /></div>{% endif %}
+              {% if download.testimonial.logo %}<div class="case-study__logo case-study__list_centered {{ download.testimonial.class }}"><img src="{{ download.testimonial.logo }}" /></div>{% endif %}
             </div>
             <div class="case-study__image"><img src="{{ download.testimonial.author.image }}" /></div>
             <div class="case-study__body"><p>{{ download.testimonial.small-testimonial }}</p></div>
