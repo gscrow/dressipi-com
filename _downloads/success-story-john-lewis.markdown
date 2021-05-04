@@ -77,7 +77,7 @@ sections:
 testimonial:
   title: Success Story
   small-testimonial: John Lewis achieved a 2% increase in revenue with outfit recommendations
-  logo: /uploads/Logo_John_lewis.svg
+  logo: /uploads/logo_john-lewis.svg
   author:
     image: /uploads/John-Lewis.jpg
   action: Read The Full Story >

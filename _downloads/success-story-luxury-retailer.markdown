@@ -69,7 +69,7 @@ sections:
 testimonial:
   title: Success Story
   small-testimonial: A Luxury Retailer achieved 25% returns reduction and 11% conversion increase
-  logo: "/uploads/Logo_luxury.svg"
+  logo: "/uploads/logo_luxury-retailer.svg"
   action: Read The Full Story >
   class: 
   author:

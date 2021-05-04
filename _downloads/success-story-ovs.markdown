@@ -74,7 +74,7 @@ sections:
 testimonial:
   title: Success Story
   small-testimonial: OVS improved revenue by 54% and delivered an additional €4m of incremental revenue increase
-  logo: "/uploads/Logo_ovs.svg"
+  logo: "/uploads/logo_ovs.svg"
   action: Read The Full Story >
   author:
     company: OVS
