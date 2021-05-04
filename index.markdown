@@ -75,7 +75,8 @@ sections:
   handle: case-study
   page-title: SUCCESS STORIES
   page-title-icon: "/uploads/icon_success-story-colour.svg"
-  body: How River Island increased their revenue by 6% in 12 months with Dressipi’s fashion-focused approach to personalisation and better data
+  body: How River Island increased their revenue by 6% in 12 months with Dressipi’s
+    fashion-focused approach to personalisation and better data
   success-story-button:
     copy: Read Full Story >
     url: "/downloads/success-story-river-island/"
