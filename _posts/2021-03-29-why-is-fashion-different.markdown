@@ -1,5 +1,5 @@
 ---
-title: Why is Fashion Different?
+title: 'Why is Fashion Different? Part 1: Quantifying Fashion Data'
 date: 2021-03-29 15:32:00 Z
 categories:
 - Tech
@@ -20,7 +20,7 @@ description: 'Chief Data Scientist, Nick Landia has observed the many reasons wh
 '
 ---
 
-## Part 1: Fashion Behaviour Data
+## Quantifying Fashion Data
 
 Fashion is very different to the domains where recommender systems originated, both in terms of the industry and in terms of consumer behaviour. In this blog series we examine the main characteristics that make fashion different to other domains, and dive into the challenges that this causes for recommendation algorithms. 
 
