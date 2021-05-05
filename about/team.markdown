@@ -77,6 +77,10 @@ sections:
     title: Data Scientist
     linkedin: https://www.linkedin.com/in/rachael-mcalister-1a6978a3/
     image: "/uploads/Rachael%20McAlister_Data%20Scientist.png"
+  - name: Nicole Richardson
+    title: Data Scientist
+    linkedin: https://www.linkedin.com/in/nicole-n-richardson/
+    image: "/uploads/nicole_richardson.jpg"
   - name: Paul Woestelandt
     title: Software Engineer
     linkedin: https://www.linkedin.com/in/pwoestelandt
