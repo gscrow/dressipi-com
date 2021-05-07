@@ -3,6 +3,10 @@ title: 'Why is Fashion Different? Part 2: Fashion Consumer Behaviour'
 date: 2021-05-07 14:07:00 Z
 image: "/uploads/WhyFashionDifferentBanner-b94292.jpg"
 author: Nick Landia
+description: 'Chief Data Scientist, Nick Landia has observed the many reasons why
+  fashion recommendations are so hard to do throughout his time at Dressipi. Part
+  2 in his blog series digs deeper into the impact consumer behaviour has on building
+  recommender systems for the fashion domain. '
 ---
 
 ## Fashion Consumer Behaviour
@@ -19,7 +23,7 @@ Recommenders learn from historical data to predict future behaviour. They assume
 
 Most algorithms assume that the true (hidden) preference of a user that we are trying to approximate is fairly static and does not change a lot in the timescales the recommender operates in. In other domains like movies, music etc this assumption is correct enough: big changes in the user’s taste happen a small number of times, if at all, in their customer lifetime with the service. In fashion this does not hold true, the user can go from disliking a type of item, such as a floral dress, to suddenly buying a floral dress when florals become a trend.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/why_fashion_is_different_2.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 800px;" src ="/uploads/why_fashion_is_different_2.JPG"/></p>
 
 ## Fashion is public and social
 
@@ -42,7 +46,7 @@ A very apt example is the [trend of heavy metal band shirts](https://www.theguar
 
 From your past interactions a recommender would have learned that you don’t like heavy metal t-shirts and in theory when personalising for you we should never recommend them. But in the case of fashion even a fairly strong opinion can change depending on how trends and public opinion changes.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/HeavyMetalTShirt.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/HeavyMetalTShirt.png"/></p>
 
 Traditionally, when we try to personalise for a user we think of it as an exploration and narrowing in on the user’s taste. The task of the algorithms is to start broad (most popular) and then narrow in on the user’s taste, getting more accurate with each piece of information. In fashion however the true taste of the user is not as static as we would traditionally assume in recommender systems. In fact what the user likes can be rapidly changing and inconsistent over relatively short periods of time, meanings we can’t blindly rely on past data. We have to figure out how representative past purchases and interactions really are for a given user and whether or not their actual preference is that they are on trend.
 
