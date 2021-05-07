@@ -1,6 +1,21 @@
 ---
 title: 'Why is Fashion Different? Part 2: Fashion Consumer Behaviour'
 date: 2021-05-07 14:07:00 Z
+categories:
+- tech
+- data
+tags:
+- fashion AI
+- retail AI company
+- product recommendation technology
+- product recommendation service
+- recommendation system for ecommerce
+- fashion recommender system
+- data science
+- data
+- recommender system
+- fashion technology
+- fashion personalisation
 image: "/uploads/WhyFashionDifferentBanner-b94292.jpg"
 author: Nick Landia
 description: 'Chief Data Scientist, Nick Landia has observed the many reasons why
