@@ -11,8 +11,8 @@ video-mask: "/uploads/outfits-webinar.png"
 list-content: "#### Upcoming webinar\n\n# Adapt and Thrive: Unlocking the Value of
   Data in Retail\n\nWhat is data? What does data mean to your business? There is an
   abundance of data available to fashion retailers but few maximise it's value. Those
-  that do will thrive.\n\n<br>\n\nSarah McVittie, Co-Founder, Dressipi will be joined
-  at our next webinar by Ben Chesser, Founder, Coniq and Simon Leesley, Managing Director,
+  that do will thrive.\n\nSarah McVittie, Co-Founder, Dressipi will be joined at our
+  next webinar by Ben Chesser, Founder, Coniq and Simon Leesley, Managing Director,
   Stitch Fix in conversation with Glynn Davis, Founder, Retail Insider. They’ll highlight
   the importance of data in fashion retail and showcase how it can be used to address
   the key challenges of today and the future.\n  \nPlease join us on 16th June 2021
