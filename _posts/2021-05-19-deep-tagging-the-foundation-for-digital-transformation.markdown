@@ -21,7 +21,7 @@ For example, when considering how many of each size should be stocked, retailers
 
 This pair of white leather trousers had 8% more sales for sizes 6 & 8 than the equivalent pair in black:
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 800px;" src ="/uploads/Attributes_2.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Attributes_2.JPG"/></p>
 
 ### 2) Accuracy & Consistency is Key
 
@@ -29,11 +29,11 @@ Imagine if your revenue figures were sometimes wrong by 5%. Obviously, this woul
 
 For example, our analysis has shown that when women with large bust sizes buy crew neck products, 5% more of them return it compared to if they had bought products with round necks. 
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 800px;" src ="/uploads/Attributes_3.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Attributes_3.JPG"/></p>
 
 Small details like this can have a big impact, however they can be very difficult for computer vision to label accurately. The differences between these necklines are small, only varying in the way a person’s collarbone is shown:
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 800px;" src ="/uploads/Attributes_4.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Attributes_4.JPG"/></p>
 
 Dressipi has an average of 20 attributes per product, across thousands of products. If 95% of them were tagged correctly, that would mean every product would be incorrectly labelled in some way - so we have to get as close to 100% as possible. 
 
@@ -47,13 +47,13 @@ To accurately predict customer behaviour, retailers need to see product features
 
 It’s not only data models that benefit from customer focused attributes however. Dressipi’s [Data Insight Hub](https://dressipi.com/closer-look-at-our-data-insight-hub/) links up our attributes with transaction or visit data, allowing buyers, merchandisers and marketing teams to view their data through a customer’s point of view and make truly informed decisions based on what they really want.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 800px;" src ="/uploads/Attributes_4.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Attributes_4.JPG"/></p>
 
 ### 4) Attributes Are As Much an Art as a Science
 
 Clothes can’t be truly understood broken down into its individual attributes - we also have to understand how they work together. A floor length dress could be suitable only for formal events, or it could be flexible enough for casual and creative work too. 
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 800px;" src ="/uploads/Attributes_5.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Attributes_5.JPG"/></p>
 
 [Fashion trends are also a set of attributes](https://dressipi.com/blog/a-trend-is-a-set-of-data-points/), which means your attributes can’t be created by data scientists alone. At Dressipi, our stylist team works very closely with our data science team to make sure that our attributes are written in the language of fashion, but are also created in a well defined, flexible way to allow them to be used and combined in our models. 
 
