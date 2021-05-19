@@ -1,6 +1,16 @@
 ---
 title: 'Deep Tagging: The Foundation for Digital Transformation'
 date: 2021-05-19 15:22:00 Z
+categories:
+- Tech
+- data
+tags:
+- deep tagging
+- fashion attributes
+- attributes
+- garment data
+- garment features
+- garment attributes
 image: "/uploads/Attributes_Blog_Banner.JPG"
 author: James Tuck
 ---
@@ -45,25 +55,25 @@ Once accuracy and consistency are achieved, retailers can deploy the best possib
 
 To accurately predict customer behaviour, retailers need to see product features in the same way that customers do. However, current product attributes are typically designed for business users: for example, retailers will often end up with a 'Petite' category that has bundled together dresses and jeans - a nightmare to analyse. 
 
-It’s not only data models that benefit from customer focused attributes however. Dressipi’s [Data Insight Hub](https://dressipi.com/closer-look-at-our-data-insight-hub/) links up our attributes with transaction or visit data, allowing buyers, merchandisers and marketing teams to view their data through a customer’s point of view and make truly informed decisions based on what they really want.
+It’s not only data models that benefit from customer-focused attributes however. Dressipi’s [Data Insight Hub](https://dressipi.com/closer-look-at-our-data-insight-hub/) links up our attributes with transaction or visit data, allowing buyers, merchandisers and marketing teams to view their data through a customer’s point of view and make truly informed decisions based on what they really want.
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Attributes_4.JPG"/></p>
 
 ### 4) Attributes Are As Much an Art as a Science
 
-Clothes can’t be truly understood broken down into its individual attributes - we also have to understand how they work together. A floor length dress could be suitable only for formal events, or it could be flexible enough for casual and creative work too. 
+Clothes can’t be truly understood broken down into their individual attributes - we also have to understand how they work together. A floor-length dress could be suitable only for formal events, or it could be flexible enough for casual and creative work too. 
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Attributes_5.JPG"/></p>
 
 [Fashion trends are also a set of attributes](https://dressipi.com/blog/a-trend-is-a-set-of-data-points/), which means your attributes can’t be created by data scientists alone. At Dressipi, our stylist team works very closely with our data science team to make sure that our attributes are written in the language of fashion, but are also created in a well defined, flexible way to allow them to be used and combined in our models. 
 
-This combination of expertise means we can create high performance models, but also translate those models into plain english for retailers to understand.
+This combination of expertise means we can create high-performance models, but also translate those models into plain english for retailers to understand.
 
 ## The Benefits are Endless
 
 The benefits product data can provide are vast, with high quality attributes promising improvements to many core aspects of retailer’s businesses. 
 
-For example they go a long way to solving the ‘cold start’ problem, as no product is ever completely new - it has a set of product attributes that already has visit and sales propensities to learn from. The risk of new products when planning ranges can be reduced by using attributes to answer questions like:
+For example, they go a long way to solving the ‘cold start’ problem, as no product is ever completely new - it has a set of product attributes that already has visit and sales propensities to learn from. The risk of new products when planning ranges can be reduced by using attributes to answer questions like:
 
 * How many of our customers like these features?
 * What's the return rate going to be like? 
