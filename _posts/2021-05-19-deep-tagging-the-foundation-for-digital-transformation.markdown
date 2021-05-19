@@ -17,7 +17,7 @@ One of the key benefits of machine learning is its ability to sort through huge 
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 800px;" src ="/uploads/Attributes_1.JPG"/></p>
 
-For example, when considering how many of each size should be stocked, retailers tend to only think about a product’s fit and length. However, through analysing Dressipi’s unique taxonomy of over 1000 attributes, we found that necklines, embellishment details, and even colour had an impact on how many of each size should be stocked. 
+For example, when considering how many of each size should be stocked, retailers tend to only think about a product’s fit and length. However, through analysing Dressipi’s unique taxonomy of over 1000 attributes, we found that necklines, embellishment details and even colour had an impact on how many of each size should be stocked. 
 
 This pair of white leather trousers had 8% more sales for sizes 6 & 8 than the equivalent pair in black:
 
