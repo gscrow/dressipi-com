@@ -29,7 +29,7 @@ Imagine if your revenue figures were sometimes wrong by 5%. Obviously, this woul
 
 For example, our analysis has shown that when women with large bust sizes buy crew neck products, 5% more of them return it compared to if they had bought products with round necks. 
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Attributes_3.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/Attributes_3.JPG"/></p>
 
 Small details like this can have a big impact, however they can be very difficult for computer vision to label accurately. The differences between these necklines are small, only varying in the way a person’s collarbone is shown:
 
