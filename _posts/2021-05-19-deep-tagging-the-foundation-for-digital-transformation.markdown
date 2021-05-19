@@ -13,6 +13,9 @@ tags:
 - garment attributes
 image: "/uploads/Attributes_Blog_Banner.JPG"
 author: James Tuck
+description: James Tuck, one of Dressipi's Data Analysts explains the key areas retailers
+  need to think about when advancing their product attributes and discusses why digital
+  transformation depends on the quality and accuracy of this data.
 ---
 
 Digital services like Netflix and Spotify have been able to rapidly transform their industries thanks to the abundance of data available to them. In fashion however, while there is plenty of data available on marketing channels and transactions, retailers never had quality data for what the customers actually care about the most - **the clothes**.
