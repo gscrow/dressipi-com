@@ -15,7 +15,7 @@ Digital transformation depends on the quality and accuracy of the data it is bui
 
 One of the key benefits of machine learning is its ability to sort through huge amounts of data and find patterns humans would never see. Deep learning models are pushing this even further in recent years. The more data that can be fed into these models the better - especially because different attributes drive value to different parts of the business, often in unexpected ways.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 800px;" src ="/uploads/Attributes_1.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Attributes_1.JPG"/></p>
 
 For example, when considering how many of each size should be stocked, retailers tend to only think about a product’s fit and length. However, through analysing Dressipi’s unique taxonomy of over 1000 attributes, we found that necklines, embellishment details and even colour had an impact on how many of each size should be stocked. 
 
