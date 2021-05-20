@@ -1,5 +1,5 @@
 ---
-title: 'Deep Tagging: The Foundation for Digital Transformation'
+title: 'Fashion-Specific Product Attributes: The Foundation for Digital Transformation'
 date: 2021-05-19 15:22:00 Z
 categories:
 - Tech
