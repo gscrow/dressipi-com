@@ -60,7 +60,7 @@ To accurately predict customer behaviour, retailers need to see product features
 
 It’s not only data models that benefit from customer-focused attributes however. Dressipi’s [Data Insight Hub](https://dressipi.com/closer-look-at-our-data-insight-hub/) links up our attributes with transaction or visit data, allowing buyers, merchandisers and marketing teams to view their data through a customer’s point of view and make truly informed decisions based on what they really want.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Attributes_6.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 1000px;" src ="/uploads/Attributes_6.png"/></p>
 
 ### 4) Attributes Are As Much an Art as a Science
 
