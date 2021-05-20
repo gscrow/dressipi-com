@@ -118,6 +118,11 @@
         {% endunless %}
       </div>
 
+      {% if page.header.hero_form -%}
+      {% assign form = page.header.hero-form %}
+        {%- include partials/form-learn.html %}
+      {% endif %}
+
       {% if page.header.hero-image == false %}
       <div class="case-study__banner">
         <div class="case-study__wrap">
