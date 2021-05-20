@@ -14,7 +14,7 @@ tags:
 image: "/uploads/Attributes_Blog_Banner.JPG"
 author: James Tuck
 description: James Tuck, one of Dressipi's Data Analysts explains the key areas retailers
-  need to think about when advancing their product attributes and discusses why digital
+  need to consider when advancing their product attributes and discusses why digital
   transformation depends on the quality and accuracy of this data.
 ---
 
@@ -60,7 +60,7 @@ To accurately predict customer behaviour, retailers need to see product features
 
 It’s not only data models that benefit from customer-focused attributes however. Dressipi’s [Data Insight Hub](https://dressipi.com/closer-look-at-our-data-insight-hub/) links up our attributes with transaction or visit data, allowing buyers, merchandisers and marketing teams to view their data through a customer’s point of view and make truly informed decisions based on what they really want.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Attributes_4.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Attributes_6.JPG"/></p>
 
 ### 4) Attributes Are As Much an Art as a Science
 
