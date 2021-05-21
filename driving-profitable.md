@@ -4,13 +4,15 @@ date: 2021-05-16 09:50:00 Z
 position: 1
 navigation: header
 header:
-  title: Driving Profitable<br/>Growth for Fashion<br/>Retailers Through<br/>Fashion-Specific AI
-  description: On the front-end, offer entirely personalised experiences by predicting which products each visitor will buy and keep<br><br>On the back-end, improve operational efficiencies by better forecasting which products, in which sizes, to create, market and replenish.
-  hero_form: "partials/form-learn.html" 
-  hero_form_title: "SCHEDULE A FREE CONSULTATION"
-
+  title: Driving Profitable<br/>Growth for Fashion<br/>Retailers Through<br/>Fashion-Specific
+    AI
+  description: On the front-end, offer entirely personalised experiences by predicting
+    which products each visitor will buy and keep<br><br>On the back-end, improve
+    operational efficiencies by better forecasting which products, in which sizes,
+    to create, market and replenish.
+  hero_form: partials/form-learn.html
+  hero_form_title: SCHEDULE A FREE CONSULTATION
 sections:
-
 - title: 
   handle: overview
   overview-title: Meet Shopper Expectations and Drive Profitable Growth
@@ -34,7 +36,6 @@ sections:
     action:
       copy: Find Out How >
       url: "/solutions/data-insight-hub/"
-      
 - title: 
   handle: case-study
   page-title-icon: "/uploads/icon_success-story-colour.svg"
@@ -44,11 +45,10 @@ sections:
     copy: Read Full Story >
     url: "/downloads/success-story-river-island/"
     style: primary
-    logo: /uploads/logo_river-island.svg
-    image: /uploads/success-story_river-island@2x.jpg
+    logo: "/uploads/logo_river-island.svg"
+    image: "/uploads/success-story_river-island@2x.jpg"
   hero-image: false
   class: index-riverisland
-
 - roi-title: Dressipi Makes it Easy to Get Started & Deliver ROI
   handle: benefits
   is-centered: true
@@ -63,6 +63,6 @@ sections:
     action:
       copy: SCHEDULE A FREE CONSULTATION >
       url: "/contact"
-
 layout: personalised
 ---
+

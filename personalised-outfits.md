@@ -5,64 +5,61 @@ position: 1
 navigation: header
 header:
   title: Personalised Outfits<br>Powered by AI
-  body: <p class="header__banner-subtitle">Reduce costs. Increase conversion. Personalised for every visitor.<br> Powered by AI.</p>
-  hero_form: "partials/form-learn.html"
-  hero_form_title: "WANT TO LEARN MORE?"
-description: We drive profitable growth for fashion retailers and are passionate about   helping the fashion industry change.
+  body: <p class="header__banner-subtitle">Reduce costs. Increase conversion. Personalised
+    for every visitor.<br> Powered by AI.</p>
+  hero_form: partials/form-learn.html
+  hero_form_title: WANT TO LEARN MORE?
+description: We drive profitable growth for fashion retailers and are passionate about   helping
+  the fashion industry change.
 class: personalised
 sections:
 - title: 
   handle: features
   subsections:
-  
   - title: 
     type: feature
-    subtitle: 'Increase conversion by showing the versatility of a garment for multiple occasions'
+    subtitle: Increase conversion by showing the versatility of a garment for multiple
+      occasions
     body: 
-    video: 
+    video:
       src: "/assets/video_1.mp4"
-      w: '100%'
-      h: 'auto'
-      poster: /uploads/Outfit_Thumbnail.png
-    #image: "/uploads/marija.png"
-
-  - title: Creating hundreds of millions of unique outfits every day with no impact on performanc
+      w: 100%
+      h: auto
+      poster: "/uploads/Outfit_Thumbnail.png"
+  - title: Creating hundreds of millions of unique outfits every day with no impact
+      on performanc
     type: counter
     number-left: 100
     value-left: m
     number-left-description: outfits per day
-
   - title: 
     type: feature
-    subtitle: 'Instant personal styling by taking every visitor’s preferences into account'
+    subtitle: Instant personal styling by taking every visitor’s preferences into
+      account
     body: 
     image: "/uploads/section_preferences.png"
-
   - title: Deliver 5% incremental revenue by going beyond what the model wear
     type: counter
     number-left: 5
-    value-left: '%'
+    value-left: "%"
     number-left-description: more revenue
-
   - title: 
     type: feature
-    subtitle: 'Keep outfits on brand with our unique combination of fashion stylists and industry-leading AI'
+    subtitle: Keep outfits on brand with our unique combination of fashion stylists
+      and industry-leading AI
     body: 
     image: "/uploads/section_retail-is-evolving.png"
-
 - title: 
   handle: case-study
   page-title-icon: "/uploads/icon_success-story-colour.svg"
   body: How John Lewis saw a 2% increase in revenue with Dressipi’s outfit recommendations
-
   success-story-button:
     copy: Read Full Story >
     url: "/downloads/success-story-john-lewis/"
     style: primary
-    logo: /uploads/logo_john-lewis.svg
-    image: /uploads/John-Lewis.jpg
+    logo: "/uploads/logo_john-lewis.svg"
+    image: "/uploads/John-Lewis.jpg"
   hero-image: false
-
 - roi-title: Dressipi Makes it Easy to Get Started & Deliver ROI
   handle: benefits
   is-centered: true
@@ -77,6 +74,6 @@ sections:
     action:
       copy: SCHEDULE A FREE CONSULTATION >
       url: "/contact"
-
 layout: personalised
 ---
+
