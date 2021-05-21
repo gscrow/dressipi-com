@@ -1,8 +1,18 @@
 ---
 title: Why Outfits Matter
 date: 2021-05-21 10:55:00 Z
+categories:
+- Tech
+tags:
+- personalised outfits
+- outfit algorithms
+- personalised outfits technology
+- ai outfit
 image: "/uploads/OufitBanner.png"
 author: Natalie Theo
+description: Style Director, Natalie Theo discusses the importance of having both
+  fashion stylists and AI when scaling a brand's creativity and creating truly personalised
+  outfits to each and every customer.
 ---
 
 ## Nice outfit! Thanks, an algorithm styled it for me. Controversial? Maybe. 
