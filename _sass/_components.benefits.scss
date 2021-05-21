@@ -3,7 +3,7 @@
     .benefit__title {
       font-size: 18px;
     }
-    
+
     .roi-section {
       .benefit__title {
         text-align: center;
@@ -78,6 +78,7 @@
 
   .benefit__description {
     text-transform: uppercase;
+    text-align: center;
     color: #ffffff;
     background-color: $background--dark;
     height: 52px;
@@ -165,7 +166,7 @@
     justify-content: center;
 
     .benefit__title {
-      margin-top: 0; 
+      margin-top: 0;
     }
   }
 

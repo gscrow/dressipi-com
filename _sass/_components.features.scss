@@ -99,7 +99,13 @@
   display: flex;
   align-items: center;
 }
-
+.feature__form {
+  display: flex;
+  flex: 5;
+  justify-content: center;
+  order: -1;
+  flex-direction: column;
+}
 // place feature__image to the right on even feature row
 .feature:nth-child(2n) .feature__image {
   order: 99;

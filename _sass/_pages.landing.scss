@@ -44,3 +44,19 @@
 
 @include responsive(mobile) {
 }
+.hero__flex {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+  .hero__content {
+    flex: 6;
+    order: 1;
+  }
+  .feature__form {
+    display: block;
+    height: max-content;
+    flex: 4;
+    order: 2;
+  }
+}
