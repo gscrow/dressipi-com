@@ -1,7 +1,7 @@
 ---
 title: Why Outfits Matter
 date: 2021-05-21 10:55:00 Z
-image: "/uploads/Screenshot%202021-05-21%20at%2012.06.33.png"
+image: "/uploads/OutfitBanner-84d7d2.JPG"
 author: Natalie Theo
 ---
 
