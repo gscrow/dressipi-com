@@ -6,10 +6,10 @@ navigation: header
 header:
   title: Personalised Outfits<br>Powered by AI
   body: <p class="header__banner-subtitle">Reduce costs. Increase conversion. Personalised for every visitor.<br> Powered by AI.</p>
-  hero_form: partials/form-learn.html
-description: We drive profitable growth for fashion retailers and are passionate about
-  helping the fashion industry change.
-class: personalised_outfits
+  hero_form: "partials/form-learn.html"
+  hero_form_title: "WANT TO LEARN MORE?"
+description: We drive profitable growth for fashion retailers and are passionate about   helping the fashion industry change.
+class: personalised
 sections:
 - title: 
   handle: features
@@ -23,7 +23,7 @@ sections:
       src: "/assets/video_1.mp4"
       w: '100%'
       h: 'auto'
-      poster: /uploads/marija.png
+      poster: /uploads/Outfit_Thumbnail.png
     #image: "/uploads/marija.png"
 
   - title: Creating hundreds of millions of unique outfits every day with no impact on performanc
@@ -53,14 +53,15 @@ sections:
 - title: 
   handle: case-study
   page-title-icon: "/uploads/icon_success-story-colour.svg"
-  body: How River Island increased their revenue by 6% in 12 months with Dressipi’s
-    fashion-focused approach to personalisation and better data
+  body: How John Lewis saw a 2% increase in revenue with Dressipi’s outfit recommendations
+
   success-story-button:
     copy: Read Full Story >
-    url: "/downloads/success-story-river-island/"
+    url: "/downloads/success-story-john-lewis/"
     style: primary
+    logo: /uploads/logo_john-lewis.svg
+    image: /uploads/John-Lewis.jpg
   hero-image: false
-  class: index-riverisland
 
 - roi-title: Dressipi Makes it Easy to Get Started & Deliver ROI
   handle: benefits
@@ -79,4 +80,3 @@ sections:
 
 layout: personalised
 ---
-
