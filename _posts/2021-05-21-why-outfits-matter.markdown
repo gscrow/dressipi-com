@@ -1,7 +1,7 @@
 ---
 title: Why Outfits Matter
 date: 2021-05-21 10:55:00 Z
-image: "/uploads/OutfitBanner.JPG"
+image: "/uploads/Screenshot%202021-05-21%20at%2012.06.33.png"
 author: Natalie Theo
 ---
 
@@ -11,3 +11,5 @@ If you ask a fashion editor (like I was for most of my career) it might all soun
 
 ### Article published in [The Robin Report](https://www.therobinreport.com/why-outfits-matter/).
 Read more [here](https://www.therobinreport.com/why-outfits-matter/).
+
+<p style="text-align:center"><a href="/contact/" class="button button-primary">FREE CONSULTATION</a></p>
