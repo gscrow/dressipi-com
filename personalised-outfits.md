@@ -26,12 +26,12 @@ sections:
       w: 100%
       h: auto
       poster: "/uploads/Outfit_Thumbnail.png"
-  - title: Creating hundreds of millions of unique outfits every day with no impact
+  - title: Creating hundreds of millions of unique outfits for every retailer, every day with no impact
       on performance
     type: counter
     number-left: 100
     value-left: m
-    number-left-description: outfits per day/per retailer
+    number-left-description: outfits per day
   - title: 
     type: feature
     subtitle: Instant personal styling by taking every visitor’s preferences into
