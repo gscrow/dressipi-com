@@ -27,18 +27,18 @@ sections:
       h: auto
       poster: "/uploads/Outfit_Thumbnail.png"
   - title: Creating hundreds of millions of unique outfits every day with no impact
-      on performanc
+      on performance
     type: counter
     number-left: 100
     value-left: m
-    number-left-description: outfits per day
+    number-left-description: outfits per day/per retailer
   - title: 
     type: feature
     subtitle: Instant personal styling by taking every visitor’s preferences into
       account
     body: 
     image: "/uploads/section_preferences.png"
-  - title: Deliver 5% incremental revenue by going beyond what the model wear
+  - title: Deliver 5% incremental revenue by going beyond what the model wears
     type: counter
     number-left: 5
     value-left: "%"
