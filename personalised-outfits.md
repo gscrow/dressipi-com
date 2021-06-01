@@ -5,12 +5,12 @@ position: 1
 navigation: header
 header:
   title: Personalised Outfits<br>Powered by AI
-  body: <p class="header__banner-subtitle">Reduce costs. Increase conversion. Personalised
-    for every visitor.<br> Powered by AI.</p>
+  body: <p class="header__banner-subtitle">Increase revenue. Personalised for every
+    visitor.<br> Powered by AI.</p>
   hero_form: partials/form-learn.html
   hero_form_title: WANT TO LEARN MORE?
-description: We drive profitable growth for fashion retailers and are passionate about   helping
-  the fashion industry change.
+description: Learn how to increase your revenue with personalised outfits for every
+  visitor, powered by AI.
 class: personalised
 sections:
 - title: 
