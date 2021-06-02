@@ -6,8 +6,8 @@ navigation: header
 header:
   title: Increasing Revenue<br/>for Fashion Retailers<br/>Through<br/>Fashion-Specific
     AI
-  description: Predict Which Products Each Visitor Will Buy and Keep;<br/>and Improve
-    Forecasting Models.
+  description: Predict Which Products Each Visitor<br/>Will Buy and Keep;<br/>and
+    Improve Forecasting Models.
   hero_form: partials/form-learn.html
   hero_form_title: WOULD YOU LIKE TO LEARN MORE?
 sections:
