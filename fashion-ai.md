@@ -1,38 +1,35 @@
 ---
-title: Driving Profitable
+title: Fashion AI
 date: 2021-05-16 09:50:00 Z
 position: 1
 navigation: header
 header:
-  title: Driving Profitable<br/>Growth for Fashion<br/>Retailers Through<br/>Fashion-Specific
+  title: Increasing Revenue<br/>for Fashion Retailers<br/>Through<br/>Fashion-Specific
     AI
-  description: On the front-end, offer entirely personalised experiences by predicting
-    which products each visitor will buy and keep<br><br>On the back-end, improve
-    operational efficiencies by better forecasting which products, in which sizes,
-    to create, market and replenish.
+  description: Predict Which Products Each Visitor Will Buy and Keep; and Improve
+    Forecasting Models.
   hero_form: partials/form-learn.html
-  hero_form_title: SCHEDULE A FREE CONSULTATION
+  hero_form_title: WOULD YOU LIKE TO LEARN MORE?
 sections:
 - title: 
   handle: overview
-  overview-title: Meet Shopper Expectations and Drive Profitable Growth
+  overview-title: Meet Shopper Expectations and Increase Revenue
   overview-subtitle: With always-on customers, retailers need to better understand
     their preferences, anticipate demand faster and personalise all touch points to
     stay ahead. The ability to ingest, cleanse, and augment huge quantities of data
-    from multiple sources is at the very heart of the Dressipi Revenue Optimisation
-    Platform.
+    from multiple sources is at the very heart of the Dressipi Fashion AI Platform.
   subsections:
   - title: Personalisation
     image: "/uploads/icon_personalised-recommendations-colour.svg"
-    body: 'Anticipate customer needs and build deeper engagement across every touchpoint:
-      online, instore, app and email.'
+    body: On the front-end, offer entirely personalised experiences by predicting
+      which products each visitor will buy and keep.
     action:
       copy: Find Out How >
       url: "/solutions/personalisation/"
   - title: Data Insight Hub
     image: "/uploads/icon_data-insight-hub-colour.svg"
-    body: Access real-time insights and actionable knowledge to optimise value at
-      each step of the merchandising and buying process.
+    body: On the back-end, improve operational efficiencies by better forecasting
+      which products, in which sizes, to create, market and replenish.
     action:
       copy: Find Out How >
       url: "/solutions/data-insight-hub/"
