@@ -163,7 +163,6 @@ social:
     link: https://www.youtube.com/channel/UCek0mxAxImkuiSgiWmq3bMA
 date_format: "%-d %B %Y"
 per_page: 10
-gtm-code: GTM-TRK2KPX
 permalink: pretty
 exclude:
 - Gemfile.lock
