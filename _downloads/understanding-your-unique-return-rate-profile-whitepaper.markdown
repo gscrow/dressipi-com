@@ -2,15 +2,15 @@
 title: Understanding Your Unique Return Rate Profile
 date: 2019-09-18 10:48:00 Z
 tags:
-- returns
-- reduce returns
-- improve operating margin
-- retail
-- operating margin
-- retail technology
-- sizing
-- style
-- personalisation
+  - returns
+  - reduce returns
+  - improve operating margin
+  - retail
+  - operating margin
+  - retail technology
+  - sizing
+  - style
+  - personalisation
 position: 2
 resource: Guides
 image: "/uploads/returns_small.jpg"
@@ -19,7 +19,6 @@ download:
   button: Download >
   file: "/uploads/Dressipi_Whitepaper_Understanding_Your_Unique_Return_Rate_Profile.pdf"
   button_class: whitepaper
-  linkedin_tracking: 
 testimonial:
   action: Download
 position-list: 2
@@ -30,4 +29,4 @@ layout: download
 
 ## Learn how to leverage the data you hold to reduce return rates and improve operating margin.
 
-In this paper Sarah McVittie, Co-Founder of Dressipi, discusses the importance of understanding the key drivers behind returns, and how to use the data you hold to  tackle the issue.
+In this paper Sarah McVittie, Co-Founder of Dressipi, discusses the importance of understanding the key drivers behind returns, and how to use the data you hold to tackle the issue.
