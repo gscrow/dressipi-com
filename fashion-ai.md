@@ -6,7 +6,7 @@ navigation: header
 header:
   title: Increasing Revenue<br/>for Fashion Retailers<br/>Through<br/>Fashion-Specific
     AI
-  description: Predict Which Products Each Visitor Will Buy and Keep; and Improve
+  description: Predict Which Products Each Visitor Will Buy and Keep;<br/>and Improve
     Forecasting Models.
   hero_form: partials/form-learn.html
   hero_form_title: WOULD YOU LIKE TO LEARN MORE?
@@ -21,8 +21,8 @@ sections:
   subsections:
   - title: Personalisation
     image: "/uploads/icon_personalised-recommendations-colour.svg"
-    body: On the front-end, offer entirely personalised experiences by predicting
-      which products each visitor will buy and keep.
+    body: On the front-end, offer<br/>entirely personalised experiences by<br/>predicting
+      which products<br/>each visitor will buy and keep.
     action:
       copy: Find Out How >
       url: "/solutions/personalisation/"
