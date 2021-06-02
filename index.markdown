@@ -29,10 +29,10 @@ sections:
   - City Chic
   - Avenue
   - Country Road Group
-- title: The Revenue Optimisation Platform
+- title: The Leader in Fashion-Specific AI
   paragraph-narrow: true
   subtitle: By using fashion-specific AI and machine learning capabilities, Dressipi
-    helps retailers meet shopper expectations and drive profitable growth
+    helps retailers meet shopper expectations and increase revenue
   handle: revenue
   subsections:
   - title: Optimise conversion & increase lifetime value
