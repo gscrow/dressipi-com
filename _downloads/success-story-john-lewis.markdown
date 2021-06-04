@@ -1,4 +1,5 @@
 ---
+layout: case-study
 title: Personalised Outfits Increase Revenue For John Lewis
 date: 2020-03-30 15:26:00 Z
 position: 2

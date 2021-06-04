@@ -4,131 +4,91 @@ layout: default
 
 {% assign my_page_url = page.url | remove: '/' %}
 <header role="banner">
-  <div class="header">
-    <div class="container gutter">
-	  <a href="{{ site.baseurl }}/" class="header__logo">{% include svgs/logo.svg %}</a>
-	  <div class="header__navigation">
-        <nav role="navigation" class="navigation">
-          <ul class="navigation_items">
-            {% assign header_links = site.pages | where: 'navigation', 'header' | sort: 'position' %}
-            {% for link in header_links %}
-              {% if link.has-menu %}
-                <li class="navigation__item navigation-dropdown">
-                  <span class="navigation-dropdown__trigger {% if page.url contains link.url %}navigation-dropdown__trigger--active{% endif %}">{{ link.title }}</span>
-                  {% if link.title == 'Solutions' %}
-                  {% include partials/navigation.html context='/solutions/' %}
-                  {% endif %}
-                  {% if link.title == 'Resources' %}
-                  {% include partials/navigation.html context='/resources/' %}
-                  {% endif %}
-                  {% if link.title == 'About' %}
-                  {% include partials/navigation.html context='/about/' %}
-                  {% endif %}
-                  {% if link.title == 'Clients' %}
-                  {% include partials/navigation.html context='/clients/' %}
-                  {% endif %}
-                </li>
-                {% else %}
-                <!-- <li class="navigation__item"><a href="{{ link.url }}" class="navigation__link {% if page.url == link.url %}navigation__link--active{% endif %}"">{{ link.title }}</a></li> -->
-              {% endif %}
-            {% endfor %}
-            <!-- Resources Dropdown Menu -->
-            {% unless page.layout == 'landing'%}
-              {% unless page.layout == 'privacy' %}
-            <li class="navigation__item"><a href="/contact" class="button button-primary navigation__button" title="Schedule A Free Consultation">Free Consultation ></a></li>
-            {% endunless %}
-            {% endunless %}
-          </ul>
-        </nav>
-        <button class="header-mobile-button">
-          {% include svgs/menu.svg %}
-          {% include svgs/cross.svg %}
-        </button>
-      </div>
-    </div>
-  </div>
-{% if page.is-landing-page %}
-{% if page.includes-video %}
-<div class="video-page section landing background--white">
-	<div class="container gutter">
-		<hgroup class="section__heading">
-			<h2 class="header__title">{{ page.title }}</h2>
-			<h4>{{ page.day }}</h4>
-		</hgroup>
-	{% if page.url contains '/dressipi-optimise-sale-overstocked-products-webinar/' %}
-	<div class="container--narrow gutter">
-		<div class="container--host ">
-			<div class="wrapper--host left">
-				<img src="{{ page.left-headshot }}">
-				<p class="host-text-left">{{ page.left-host-name}}</p>
-				<h4 class="host-text-left">{{ page.left-host-title}}</h4>
-			</div>
-			<div class="wrapper--host right">
-				<img src="{{ page.right-headshot }}">
-				<p class="host-text-right">{{ page.right-host-name}}</p>
-				<h4 class="host-text-right">{{ page.right-host-title}}</h4>
-			</div>
+	<div class="header">
+		<div class="container gutter">
+			<a href="{{ site.baseurl }}/" class="header__logo">{% include svgs/logo.svg %}</a>
 		</div>
 	</div>
-	{% endif %}
-	<div class="section__body">
-		<div class="description"> 
-			<p>{{ content }}</p>
-		</div>
-	</div>
-	</div>
-	<div class="video-wrapper">
-		<video width="100%" height="100%" controls poster="{{ page.video-mask }}">
-			<source src="{{ page.video-url }}" type="video/mp4">
-  		</video>	
-	</div>
-</div>
-</div>
-{% endif %}
-{% endif %}
-
-{% unless page.includes-video %}
-{% unless page.header.case-study-header == true %}
-  <div class="section landing background--white">
-    <div class="container gutter">
-      <hgroup class="section__heading">
-        <h2 class="header__title">{{ page.title }}</h2>
-	  </hgroup>
-	</div>
-</div>
-{% endunless %}
-{% endunless %}
-
-{% if page.header.case-study-header == true %}
-<div class="hero hero-content">
-	<div class="container gutter">
-		<div class="hero__content">
-			<div class="banner-page-title-wrapper">
-				<img src="{{ page.header.page-title-icon }}" title="{{ page.header.page-title}}" class="banner-page-title-icon"/>
-  				<p class="banner-page-title">{{page.header.page-title}}</p>
-			</div>
-			{% if page.header.body %}
-			<h1 class="header__subtitle">{{ page.header.body }}</h1>
-		</div>
-		{% endif %}
-		<div class="case-study__banner">
-			<div class="case-study__wrap">
-			<div class="case-study">
-				<div class="case-study__header">
-					<div class="case-study__logo {{ page.testimonial.class }}">
-						<img src="{{ page.testimonial.logo }}" />
-					</div>		
+	{% if page.is-landing-page %}
+	{% if page.includes-video %}
+	<div class="video-page section landing background--white">
+		<div class="container gutter">
+			<hgroup class="section__heading">
+				<h2 class="header__title">{{ page.title }}</h2>
+				<h4>{{ page.day }}</h4>
+			</hgroup>
+			{% if page.url contains '/dressipi-optimise-sale-overstocked-products-webinar/' %}
+			<div class="container--narrow gutter">
+				<div class="container--host ">
+					<div class="wrapper--host left">
+						<img src="{{ page.left-headshot }}">
+						<p class="host-text-left">{{ page.left-host-name}}</p>
+						<h4 class="host-text-left">{{ page.left-host-title}}</h4>
 					</div>
-				<div class="case-study__image"> <img src="{{ page.testimonial.author.image }}" />
+					<div class="wrapper--host right">
+						<img src="{{ page.right-headshot }}">
+						<p class="host-text-right">{{ page.right-host-name}}</p>
+						<h4 class="host-text-right">{{ page.right-host-title}}</h4>
+					</div>
 				</div>
 			</div>
+			{% endif %}
+			<div class="section__body">
+				<div class="description">
+					<p>{{ content }}</p>
+				</div>
 			</div>
 		</div>
-			{% endif %}
-		</div>
+		<div class="video-wrapper">
+			<video width="100%" height="100%" controls poster="{{ page.video-mask }}">
+				<source src="{{ page.video-url }}" type="video/mp4">
+			</video>
 		</div>
 	</div>
-</div>
+	</divs>
+	{% endif %}
+	{% endif %}
+	{% unless page.includes-video %}
+	<div class="hero hero-case-study">
+		<div class="container gutter">
+			<div class="hero__content">
+				{% if page.testimonial.logo %}
+				<div class="case-study__logo {{ page.testimonial.class }}"><img src="{{ page.testimonial.logo }}" /></div>
+				{% endif %}
+				{{ content }}
+			</div>
+			<!-- download form -->
+			<div class="hero__form">
+				<div class="form-download">
+					<hgroup class="form-download__heading">
+						<h3>{{ page.download.title }} </h3>
+					</hgroup>
+					<a class="button button--large button-primary form-download__submit {{page.download.button_class}}"
+						href="{{ page.download.file }}" target="_blank">
+						{{ page.download.button }}
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
 </header>
+<section class="section download-clients">
+	<hgroup class="container gutter section__heading">
+		<h3>Our Clients</h3>
+		<h4>Brands Using Dressipi</h4>
+	</hgroup>
 
-{% include partials/case-study.html %}
+	<div class="section__body">
+		<div class="container clients">
+			<!-- client logo slider -->
+			<div class="slider">
+				{% for client in site.clients %}
+				<div class="client__logo_wrapper {{ client.class }}">
+					<img src="{{ client.logo }}" class="client__logo" alt="{{ client.title }}" />
+				</div>
+				{% endfor %}
+			</div>
+		</div>
+	</div>
+</section>
+{% endunless %}

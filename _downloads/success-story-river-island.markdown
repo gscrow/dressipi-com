@@ -1,4 +1,5 @@
 ---
+layout: case-study
 title: Personalisation Drives Profitable Growth for River Island
 date: 2021-03-01 08:54:00 Z
 position: 1
