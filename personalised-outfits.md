@@ -22,7 +22,7 @@ sections:
       occasions
     body: 
     video:
-      src: "/assets/video_1.mp4"
+      src: "/uploads/LinkedIn%20Ad%20Specific%20John%20Lewis.mp4"
       w: 100%
       h: auto
       poster: "/uploads/Outfit_Thumbnail.png"
