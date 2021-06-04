@@ -25,7 +25,7 @@ sections:
       src: "/uploads/LinkedIn%20Ad%20Specific%20John%20Lewis.mp4"
       w: 100%
       h: auto
-      poster: "/uploads/Outfit_Thumbnail.png"
+      poster: "/uploads/LinkedIn%20Ad%20Specific%20Johh%20Lewis%20Outfit_Thumbnail.jpg"
   - title: Creating hundreds of millions of unique outfits for every retailer, every
       day with no impact on performance
     type: counter
