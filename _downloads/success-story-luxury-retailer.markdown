@@ -1,8 +1,8 @@
 ---
-layout: case-study
 title: How A Luxury Retailer Gives Each Customer a Tailored Shopping Experience
 date: 2019-09-24 08:54:00 Z
 position: 4
+layout: case-study
 navigation: header
 resource: Case Studies
 image: "/uploads/ows.jpg"
