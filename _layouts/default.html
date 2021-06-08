@@ -3,8 +3,10 @@
   {% include partials/head.html %}
   <body>
   {% unless page.layout == 'download' %}
+  {% unless page.layout == 'case-study' %}
   <!-- include header -->
   {% include partials/header.html %}
+  {% endunless %}
   {% endunless %}
 
   <!-- include content -->
