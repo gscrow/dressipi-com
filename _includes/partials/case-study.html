@@ -58,16 +58,38 @@
           </div>
         </div>
         {% endif %}
+              {%- if subsection.number-aside -%}
+              <div class="platform__description aside">
+                <p class="benefit__number">
+                  <span class="number">{{ subsection.number-aside.number-line }}</span>
+                  <span class="percentage-sign">{{ subsection.number-aside.value-line }}</span>
+                </p>
+                <p class="benefit__description">{{ subsection.number-aside.number-line-description }}</p>
+              </div>
+              {%- endif -%}
       </div>
       {%- if subsection.image-line -%}
       <div class="gutter feature__image">
-        <div class="feature__image_line">
+        <div
+          class="{% if subsection.image-line.size == 1 %}feature__image_single{% else %}feature__image_line{% endif %}">
           {%- for im in subsection.image-line -%}
           <img src="{{ im }}" alt="{{ subsection.title }}" class="feature__image" />
           {%- endfor -%}
         </div>
       </div>
       {%- endif -%}
+
+      {% if subsection.quote %}
+      <div class="container box-quote gutter text--center" style="max-width: 760px">
+        <blockquote class="quote">{{ subsection.quote }} </blockquote>
+        <p class="author">{{ subsection.author }} </p>
+        {%- if subsection.button -%}
+        <a class="button button--medium button-primary" href="{{ subsection.file }}" target="_blank">
+          {{ subsection.button }}
+        </a>
+        {%- endif -%}
+      </div>
+      {% endif %}
     </div>
 
     {%- for nb in subsection.number-boxes -%}
@@ -100,18 +122,6 @@
     </div>
     {% endif %}
     {%- endfor -%}
-
-    {% if subsection.quote %}
-    <div class="container box-quote gutter text--center">
-      <blockquote class="quote">{{ subsection.quote }} </blockquote>
-      <p class="author">{{ subsection.author }} </p>
-      {%- if subsection.button -%}
-      <a class="button button--medium button-primary" href="{{ subsection.file }}" target="_blank">
-        {{ subsection.button }}
-      </a>
-      {%- endif -%}
-    </div>
-    {% endif %}
     {% endfor %}
 
   </div>
