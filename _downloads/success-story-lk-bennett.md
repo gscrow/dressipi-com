@@ -60,18 +60,20 @@ sections:
       number-line: "+25"
       value-line: "%"
       number-line-description: 1ST-2ND Purchase
-  - title:
+  - title: 
     quote: "“We’ve seen huge benefits in the ability to visualise our data. Dressipi’s
-    Data Insight Hub provides the team with actionable insights and allows us to get
-    on with the important parts without having to worry about trusting the data quality
-    or reports as they are managed by Dressipi. As well as the team at Dressipi are
-    quick to respond to the needs of our team, for building new reports or tweaking
-    current ones.”"
+      Data Insight Hub provides the team with actionable insights and allows us to
+      get on with the important parts without having to worry about trusting the data
+      quality or reports as they are managed by Dressipi. As well as the team at Dressipi
+      are quick to respond to the needs of our team, for building new reports or tweaking
+      current ones.”"
     author: Sally Hunter, Digital Insight Analyst
     button: DOWNLOAD PDF>
     file: "/uploads/Dressipi-LK-Bennett-Success-Story.pdf"
     button_class: case-study
-  - contact-title: If you have any questions or you’d like to speak to us directly about how fashion-specific  personalisation can make a difference to your customer experience and increase your online revenue, please get in touch.
+  - contact-title: If you have any questions or you’d like to speak to us directly
+      about how fashion-specific  personalisation can make a difference to your customer
+      experience and increase your online revenue, please get in touch.
     bg: white
     button:
       copy: Schedule A Free Consultation >
@@ -87,3 +89,4 @@ testimonial:
     image: "/uploads/success-lk.png"
 position-list: 1
 ---
+
