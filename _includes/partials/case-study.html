@@ -8,6 +8,7 @@
     {% for subsection in section.subsections %}
     <div class="feature">
       <div class="container">
+        {%- if subsection.title || subsection.subtitle || subsection.body -%}
         <div class="gutter feature__copy" {% if subsection.align=='top' %}style="margin:0;padding-top:40px;" {% endif
           %}>
           <h2 class="feature__title">{{ subsection.title }}</h2>
@@ -17,9 +18,10 @@
             class="button button-{{ subsection.action.style | default: 'secondary' }}">{{ subsection.action.copy
             }}</a>{% endif %}
         </div>
+        {%- endif -%}
+
         {% unless subsection.number-up %}
         {% unless subsection.class == "challenge" %}
-
         {%- if subsection.image -%}
         <div class="gutter feature__image">
           <div>
@@ -58,15 +60,17 @@
           </div>
         </div>
         {% endif %}
-              {%- if subsection.number-aside -%}
-              <div class="platform__description aside">
-                <p class="benefit__number">
-                  <span class="number">{{ subsection.number-aside.number-line }}</span>
-                  <span class="percentage-sign">{{ subsection.number-aside.value-line }}</span>
-                </p>
-                <p class="benefit__description">{{ subsection.number-aside.number-line-description }}</p>
-              </div>
-              {%- endif -%}
+
+        {%- if subsection.number-aside -%}
+        <div class="platform__description aside">
+          <p class="benefit__number">
+            <span class="number">{{ subsection.number-aside.number-line }}</span>
+            <span class="percentage-sign">{{ subsection.number-aside.value-line }}</span>
+          </p>
+          <p class="benefit__description">{{ subsection.number-aside.number-line-description }}</p>
+        </div>
+        {%- endif -%}
+
       </div>
       {%- if subsection.image-line -%}
       <div class="gutter feature__image">
@@ -80,7 +84,7 @@
       {%- endif -%}
 
       {% if subsection.quote %}
-      <div class="container box-quote gutter text--center" style="max-width: 760px">
+      <div class="container box-quote gutter text--center" style="max-width: 760px; padding-top: 20px; padding-bottom: 20px">
         <blockquote class="quote">{{ subsection.quote }} </blockquote>
         <p class="author">{{ subsection.author }} </p>
         {%- if subsection.button -%}
@@ -90,6 +94,20 @@
         {%- endif -%}
       </div>
       {% endif %}
+      {%- if subsection.contact-title -%}
+      <div class="success-story-contact" {% if subsection.bg %}style="background: {{subsection.bg}};"{% endif %}>
+        <div class="container text--center">
+          <div class="section__body">
+            <div class="container gutter">
+              <p style="text-align: center; max-width: 600px; margin-left: auto; margin-right: auto;">{{
+                subsection.contact-title }}</p>
+            </div>
+            <a href="{{ subsection.button.url }}" class="button button--medium button-primary">{{ subsection.button.copy
+              }}</a>
+          </div>
+        </div>
+      </div>
+      {%- endif -%}
     </div>
 
     {%- for nb in subsection.number-boxes -%}
@@ -125,45 +143,7 @@
     {% endfor %}
 
   </div>
-  {% when 'success-stories' %}
-  <div class="success-stories-section">
-    <hgroup class="section__heading">
-      <h2 class="header__title">
-        {{ section.title }}
-      </h2>
-    </hgroup>
-    <div class="container ">
-      <ul class="cases__list">
-        {% assign downloads = site.downloads | sort:'position' %}
-        {% for download in downloads %}
-        {% if section.downloads contains download.title %}
-        <li class="case-study__wrap">
-          <div class="case-study">
-            <div class="case-study__title">
-              {{ section.header-title}}
-            </div>
-            <div class="case-study__header case-study__list">
-              {% if download.testimonial.logo %}<div class="case-study__logo {{ download.testimonial.class }}">
-                <img src="{{ download.testimonial.logo }}" />
-              </div>{% endif %}
-            </div>
-            {%- if download.testimonial.author.image -%}
-            <div class="case-study__image">
-              <img src="{{ download.testimonial.author.image }}" />
-            </div>
-            {%- endif -%}
-            <div class="case-study__body">
-              <p>{{ download.testimonial.small-testimonial }}</p>
-            </div>
-            <div class="case-study__footer"><a href="{{ download.url }}" class="button button-secondary">{{
-                download.testimonial.action }}</a></div>
-          </div>
-        </li>
-        {% endif %}
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
+
   {% when 'contact' %}
   <!-- section footer group -->
   <div class="success-story-contact">

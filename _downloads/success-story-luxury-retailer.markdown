@@ -36,9 +36,7 @@ sections:
     class: results
     body: 'When testing entry-level fashion-specific recommendations, the improvements
       were  beyond all expectations. Dressipi outperformed the brand’s incumbent recommendation
-      provider in all core metrics:
-
-'
+      provider in all core metrics:'
     number-boxes:
     - number-lines:
       - number-line: '12'
