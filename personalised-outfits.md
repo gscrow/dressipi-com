@@ -34,7 +34,8 @@ sections:
     number-left-description: outfits per day
   - title: 
     type: feature
-    subtitle: Instant personal styling by taking every visitor’s preferences into account
+    subtitle: Instant personal styling by taking every visitor’s preferences into
+      account
     body: 
     image: "/uploads/Personalised%20Outfit-c8fbc7.png"
   - title: Deliver 5% incremental revenue by going beyond what the model wears
