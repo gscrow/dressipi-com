@@ -10,7 +10,7 @@ header:
   case-study-header: true
   page-title: SUCCESS STORY
   page-title-icon: "/uploads/icon_success-story-colour.svg"
-  body: How LK Bennett is using Dressipi’s Data Insight Hub to trade more effectively and increase retention* by an average of 11% a month over the first 6 months.
+  body: How LK Bennett is using Dressipi’s Data Insight Hub to trade more effectively and increase first to second purchase by 25% in the first 4 months.
 sections:
 - title: 
   handle: story
@@ -63,7 +63,7 @@ sections:
     url: "/contact"
 testimonial:
   title: Success Story
-  small-testimonial: LK Bennett is a British affordable luxury brand. Founded in 1990.
+  small-testimonial: LK Bennett improved first to second purchase rate by 25% through data insight
 
   logo: "/uploads/success-lkb-logo.svg"
   action: Read The Full Story >
