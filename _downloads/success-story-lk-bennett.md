@@ -2,10 +2,18 @@
 title: How LK Bennett is using Dressipi’s Data Insight Hub
 date: 2021-06-06 08:54:00 Z
 position: 4
-layout: case-study
-navigation: header
 resource: Case Studies
-image: "/uploads/success-story_river-island@2x.jpg"
+image: "/uploads/success-lk.png"
+testimonial:
+  logo: "/uploads/success-lkb-logo.svg"
+  author:
+    image: "/uploads/success-lk.png"
+  action: Read The Full Story >
+  title: Success Story
+  small-testimonial: LK Bennett improved first to second purchase rate by 25% through
+    data insight
+  class: 
+navigation: header
 header:
   case-study-header: true
   page-title: SUCCESS STORY
@@ -78,15 +86,7 @@ sections:
     button:
       copy: Schedule A Free Consultation >
       url: "/contact"
-testimonial:
-  title: Success Story
-  small-testimonial: LK Bennett improved first to second purchase rate by 25% through
-    data insight
-  logo: "/uploads/success-lkb-logo.svg"
-  action: Read The Full Story >
-  class: 
-  author:
-    image: "/uploads/success-lk.png"
 position-list: 1
+layout: case-study
 ---
 
