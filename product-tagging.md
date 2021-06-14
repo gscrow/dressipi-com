@@ -52,36 +52,25 @@ minimising human error'
     number-left: 25
     value-left: "hrs"
     number-left-description: productivity gain
-  - title: 
-    type: feature
-    subtitle: Keep outfits on brand with our unique combination of fashion stylists
-      and industry-leading AI
-    body: 
-    image: "/uploads/section_retail-is-evolving.png"
-- title: 
-  handle: case-study
-  page-title-icon: "/uploads/icon_success-story-colour.svg"
-  body: How John Lewis saw a 2% increase in revenue with Dressipi’s outfit recommendations
-  success-story-button:
-    copy: Read Full Story >
-    url: "/downloads/success-story-john-lewis/"
-    style: primary
-    logo: "/uploads/logo_john-lewis.svg"
-    image: "/uploads/John-Lewis.jpg"
-  hero-image: false
-- roi-title: Dressipi Makes it Easy to Get Started & Deliver ROI
-  handle: benefits
-  is-centered: true
-  roi-section: true
-  subsections:
-  - title: Easy onboarding by our team of friendly experts
-    image: "/uploads/icon-onboarding.svg"
-  - title: Start with one solution, prove ROI, roll out everywhere
-    image: "/uploads/icon-rollout.svg"
-  - title: Get quick, genuine results that have a positive impact
-    image: "/uploads/icon-results.svg"
-    action:
-      copy: SCHEDULE A FREE CONSULTATION >
-      url: "/contact"
+- title:
+  handle: overview-g 
+  overview-subtitle: 'Improve the scope and deliverability of services with deeper
+attributes driving different value in key retail areas:'
+  subsections: 
+  - title: CUSTOMER EXPERIENCE
+    image: "/uploads/Attributes-Landing-Page-14.jpg"
+    body: '<a href="/personalised-outfits/">Personalised outfits
+</a><br>
+Customer journeys<br><a href="/solutions/personalisation/">
+Personalisation</a><br>
+Search'
+  - title: RETAIL OPERATIONS
+    image: "/uploads/Attributes-Landing-Page-13.jpg"
+    body: '<a href="/downloads/understanding-your-unique-return-rate-profile-whitepaper/">Return rates</a>
+<br>
+Supply chain / Inventory management'
+  action:
+    copy: SCHEDULE A FREE CONSULTATION >
+    url: "/contact"
 ---
 

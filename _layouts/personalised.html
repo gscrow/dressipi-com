@@ -25,8 +25,10 @@ layout: default
   <hgroup class="container gutter section__heading">
     {% if section.overview-title %}
     <h2>{{ section.overview-title }}</h2>
+    {% endif %}
+    {%- if section.overview-subtitle -%}
     <p>{{ section.overview-subtitle }}</p>
-    {% endif %} 
+    {%- endif -%}
   </hgroup>
   {% endif %}
   <!-- section content group -->
@@ -74,6 +76,8 @@ layout: default
           </div>
         </div>
       </div>
+      {%- elsif subsection.type == 'feature__single' -%}
+
       {%- else -%}
       <div class="gutter platform__gutter benefit" style="background: #f3f4f7;">
         <div class="platform__title">
@@ -97,7 +101,7 @@ layout: default
         <span>{{ section.page-title }}</span>
         <h3 class="success-story__body"> {{ section.body }}</h3>
       </div>
-      
+
       <div class="case-study__wrap">
         <div class="case-study">
           <div class="case-study__header">
@@ -106,10 +110,9 @@ layout: default
           </div>
           <div class="case-study__image"><img src="{{section.success-story-button.image}}" alt="image" /></div>
           <div class="case-study__footer">
-            <a href="{{ section.success-story-button.url }}"
-              class="button button-secondary">Read
+            <a href="{{ section.success-story-button.url }}" class="button button-secondary">Read
               The Full Story &gt;</a>
-            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -150,62 +153,96 @@ layout: default
       </ul>
     </div>
 
-    {% when 'unique' %}
-    <ul class="publication__list container publication__breakpoint">
-      {% for publication in section.publications %}
-      <li class="publication__wrap">
-        <div class="publication__item">
-          <div class="publication__title-wrap">
-            <div class="publication__icon">
-              <img src="{{ publication.icon }} alt="{{publication.title}}">
-            </div>
-            <div class="publication__title">
-              <p>{{ publication.title }}</p>
-            </div>
-          </div>
-          <div class="publication__body">
-            <p>{{ publication.body }}</p>
-          </div>
-          {% if publication.image %}
-          <div class="publication__logo">
-            <div>
-              <!-- keep flex image ratio -->
-              {% if publication.url %}<a href="{{ publication.url }}" target="_blank">{% endif %}<img
-                  src="{{ publication.image }}" alt="{{ publication.title }}" />{% if publication.url %}</a>{% endif %}
-            </div>
-          </div>
-          {% endif %}
-        </div>
-       </li>
-      {% endfor %}
-
-    </ul>
-    {% when 'awards' %}
+    {% when 'overview-g' %}
     <div class="container">
-      <ul class="award__list">
-        {% for award in section.awards %}
-        <li class="award__item">
-          {% if award.image %}
-          <div class="award__image">
+      <ul class="overview__grid">
+        {% for subsection in section.subsections %}
+        <li class="overview-section__wrap">
+          {% if subsection.image %}
+          <div class="gutter project__image">
             <div>
               <!-- keep flex image ratio -->
-              <img src="{{ award.image }}" alt="{{ award.title }}" />
+              <img src="{{ subsection.image }}" alt="{{ subsection.title }}" {% if subsection.hres-image
+                %}srcset="{{ subsection.hres-image }} 2x" {% endif %} />
             </div>
           </div>
           {% endif %}
-          <div class="award__body">
-            {{ award.title | markdownify }}
+          <div class="overview-section-g">
+            <div class="overview-section__header">
+              <p class="project__title">{{ subsection.title }}</p>
+            </div>
+            <div class="overview-section__body">
+              <p>{{ subsection.body }}</p>
+            </div>
+            {% if subsection.action %}<a href="{{ subsection.action.url }}"
+              class="button button--medium button-{{ subsection.action.style | default: 'secondary' }} text--center">{{
+              subsection.action.copy }}</a>{% endif %}
           </div>
         </li>
         {% endfor %}
       </ul>
+      {% if section.action %}
+      <a href="{{ section.action.url }}" class="button button--medium button-primary button-center">{{
+        section.action.copy }}</a>
+      {% endif %}
     </div>
+  </div>
 
-    {% when nil %}
-    <div class="container{% if section.width %}{{ section.width | prepend: '--' }}{% endif %} gutter">
-      {{ section.body | markdownify }}
-    </div>
-    {% endcase %}
+  {% when 'unique' %}
+  <ul class="publication__list container publication__breakpoint">
+    {% for publication in section.publications %}
+    <li class="publication__wrap">
+      <div class="publication__item">
+        <div class="publication__title-wrap">
+          <div class="publication__icon">
+            <img src="{{ publication.icon }}">
+          </div>
+          <div class="publication__title">
+            <p>{{ publication.title }}</p>
+          </div>
+        </div>
+        <div class="publication__body">
+          <p>{{ publication.body }}</p>
+        </div>
+        {% if publication.image %}
+        <div class="publication__logo">
+          <div>
+            <!-- keep flex image ratio -->
+            {% if publication.url %}<a href="{{ publication.url }}" target="_blank">{% endif %}<img
+                src="{{ publication.image }}" alt="{{ publication.title }}" />{% if publication.url %}</a>{% endif %}
+          </div>
+        </div>
+        {% endif %}
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+  {% when 'awards' %}
+  <div class="container">
+    <ul class="award__list">
+      {% for award in section.awards %}
+      <li class="award__item">
+        {% if award.image %}
+        <div class="award__image">
+          <div>
+            <!-- keep flex image ratio -->
+            <img src="{{ award.image }}" alt="{{ award.title }}" />
+          </div>
+        </div>
+        {% endif %}
+        <div class="award__body">
+          {{ award.title | markdownify }}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  {% when nil %}
+  <div class="container{% if section.width %}{{ section.width | prepend: '--' }}{% endif %} gutter">
+    {{ section.body | markdownify }}
+  </div>
+  {% endcase %}
   </div>
 
   {% if section.button %}

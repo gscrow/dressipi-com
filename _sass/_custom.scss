@@ -6,3 +6,27 @@
   margin: auto;
   order: 3;
 }
+.overview__grid {
+  display: grid;
+  @media (min-width: 480px) {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: max-content;
+  }
+  .overview-section__wrap {
+    background: #f3f4f7;
+  }
+}
+.overview-section-g {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+.button-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: max-content;
+}
+.section.section-overview-g.background--white {
+  background: #fff;
+}
