@@ -24,6 +24,10 @@ layout: default
 						{% if download.register-button %}
 						<p><a href="{{ download.register-url }}" class="button button--medium button-primary">{{ download.register-button }}</a></p>
 						{% endif %}
+
+						{% if download.form-webinar %}
+						{%- include partials/form-webinar.html -%}
+						{% endif %}
 			  	</div>
 			  	{% if download.image %}
         	<div class="resource__image">
