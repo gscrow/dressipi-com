@@ -1,14 +1,13 @@
 ---
-title: Upcoming Webinar
-position: 3100
+title: 'Adapt and Thrive: Unlocking the Value of Data in Retail'
+position: 38
 resource: Webinars
-image: "/uploads/data-in-retail-webinar.png"
+image: "/uploads/outfits-webinar.png"
 is-landing-page: true
 includes-video: true
-class: webinar-review
-#video-url: https://dressipi.com/media/email-webinar-480.mp4
+video-url: https://dressipi.com/media/outfits-webinar.mp4
 video-mask: "/uploads/outfits-webinar.png"
-list-content: "#### Upcoming webinar\n\n# Adapt and Thrive: Unlocking the Value of
+list-content: "# Adapt and Thrive: Unlocking the Value of
   Data in Retail\n\nWhat is data? What does data mean to your business? There is an
   abundance of data available to fashion retailers but few maximise it's value. Those
   that do will thrive.\n\nSarah McVittie, Co-Founder, Dressipi will be joined at our
