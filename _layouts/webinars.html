@@ -19,42 +19,12 @@ layout: default
 					<div class="resource__content">
 						{{ download.list-content | markdownify }}
 						{% if download.button %}
+						{%- if download.registration -%}
+							<p><a href="/downloads/last-webinar/" class="button button--medium button-primary">{{ download.button }}</a></p>
+							{%- else -%}
 						<p><a href="{{ download.url }}" class="button button--medium button-primary">{{ download.button }}</a></p>
 						{% endif %}
-						{% if download.register-button %}
-						<p><a href="{{ download.register-url }}" class="button button--medium button-primary">{{
-								download.register-button }}</a></p>
-						{% endif %}
-
-						{% if download.form-webinar %}
-						<!-- download form -->
-						<div class="hero__form">
-
-							<div class="form-download">
-								<hgroup class="form-download__heading">
-									<h3>{{download.form-webinar.title}}</h3>
-								</hgroup>
-
-								<form class="form-download__form" method="POST" action="https://formspree.io/mgoaajkm">
-									<input type="text" name="_gotcha" style="display: none">
-									<input type="hidden" name="_next" value="{{ download.url }}">
-									<input type="hidden" name="_subject" value="New Download – Email submission" />
-									<!-- hidden field to be tested -->
-									<input type="hidden" name="page url" value="{{ page.url }}" />
-									<input class="form-download__input" type="input" name="name" placeholder="Enter your name" required>
-									<input class="form-download__input" type="email" name="email" placeholder="Enter your work email"
-										required>
-									<input type="checkbox" name="webinar" id="checkOpt" name="subscribe">
-									<label for="checkOpt" class="checkOpt__label">{{download.form-webinar.checkbox}}</label>
-									<button
-										class="button button--large button-primary form-download__submit {{page.form-webinar.button_class}}"
-										type="submit"
-										formtarget="_blank">{{download.form-webinar.button}}{{download.form-webinar.linkedin_tracking}}</button>
-								</form>
-							</div>
-						</div>
-
-						{% endif %}
+						{%- endif -%}
 					</div>
 					{% if download.image %}
 					<div class="resource__image">

@@ -11,6 +11,7 @@ layout: default
 	</div>
 	{% if page.is-landing-page %}
 	{% if page.includes-video %}
+ 
 	<div class="video-page section landing background--white">
 		<div class="container gutter">
 			<hgroup class="section__heading">
@@ -33,7 +34,6 @@ layout: default
 				</div>
 			</div>
 			<div class="wrapper--host right">
-  Key: 
         <img src="{{ page.right-headshot }}">
 				<p class="host-text-right">{{ page.right-host-name}}</p>
 				<h4 class="host-text-right">{{ page.right-host-title}}</h4>
@@ -52,8 +52,6 @@ layout: default
 			<source src="{{ page.video-url }}" type="video/mp4">
   		</video>	
 	</div>
-</div>
-</divs>
 {% endif %}
 {% endif %}
 {% unless page.includes-video %}
@@ -65,6 +63,9 @@ layout: default
       {% endif %}
       {{ content }}
       </div>
+      {% if page.form-webinar %}
+      {% include partials/form-webinars.html %}
+      {% else %}
       <!-- download form -->
       <div class="hero__form">
         <div class="form-download">
@@ -90,6 +91,7 @@ layout: default
           </form>
         </div>
       </div>
+      {% endif %}
     </div>
   </div>
 </header>
