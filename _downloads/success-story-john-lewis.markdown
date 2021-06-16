@@ -73,14 +73,6 @@ sections:
     body: John Lewis saw an uplift in revenue per email sent when responding with
       personalised strategies overall. This was particularly notable with the most
       recent test on the outfit recommendations seeing a significant increase in revenue.
-    number-boxes:
-    - number-lines:
-      - number-line: 4
-        value-line: x
-        number-line-description: Revenue per email
-      - number-line: 2
-        value-line: "%"
-        number-line-description: Revenue increase
     quote: "“Working with Dressipi has really helped us look at different ways in
       how we can support our customers on the site and the different tactics that
       we can deploy to meet their needs. We are aspiring towards having the ability
