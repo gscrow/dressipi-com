@@ -1,6 +1,6 @@
 {% assign my_page_url = page.url | remove: '/' %}
 <div class="gutter blog_navigation">
-	<nav role="navigation" class="navigation">
+	<nav class="navigation">
 		{% assign category_links = site.blog_categories %}
 		<ul class="navigation_items">
 			<li class="navigation__item"><a href="/resources/blog/ " class="navigation__link {% if my_page_url contains '/resources/blog/' %}navigation__link--active{% endif %}"">Latest Articles</a></li>

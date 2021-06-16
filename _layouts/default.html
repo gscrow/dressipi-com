@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   {% include partials/head.html %}
   <body>
   {% unless page.layout == 'download' %}
@@ -13,7 +13,7 @@
   {% if my_page_url == 'privacy' or my_page_url == 'cookies' or my_page_url == 'terms-and-conditions'%}
   <section class="privacy" >
   {% endif %}
-  <main role="main">
+  <main>
   {{ content }}
   {% if page.has-contact-section %}
   {% include partials/contact.html %}
@@ -27,7 +27,7 @@
   <script src="/scripts/main.js"></script>
   <!-- include slick-slide -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js" integrity="sha512-HGOnQO9+SP1V92SrtZfjqxxtLmVzqZpjFFekvzZVWoiASSQgSr4cw9Kqd2+l8Llp4Gm0G8GIFJ4ddwZilcdb8A==" crossorigin="anonymous"></script>
-  <script type="text/javascript">
+  <script>
     $(document).ready(function () {
       $(".slider").slick({
         dots: true,
@@ -50,15 +50,15 @@
     });
   </script>
   <!-- Start of HubSpot Embed Code -->
-  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/9442988.js"></script>
+  <script id="hs-script-loader" async defer src="//js.hs-scripts.com/9442988.js"></script>
   <!-- End of HubSpot Embed Code -->
   <!-- Start of LinkedIn Tracking Code -->
-  <script type="text/javascript">
+  <script>
     _linkedin_partner_id = "2744249";
     window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
     window._linkedin_data_partner_ids.push(_linkedin_partner_id);
   </script>
-  <script type="text/javascript">
+  <script>
     (function(){var s = document.getElementsByTagName("script")[0];
     var b = document.createElement("script");
     b.type = "text/javascript";b.async = true;
