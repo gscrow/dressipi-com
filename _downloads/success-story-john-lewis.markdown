@@ -2,15 +2,24 @@
 title: Personalised Outfits Increase Revenue For John Lewis
 date: 2020-03-30 15:26:00 Z
 position: 2
-layout: case-study
 resource: Case Studies
 image: "/uploads/success-story_john-lewis@2x.jpg"
+testimonial:
+  logo: "/uploads/logo_john-lewis.svg"
+  author:
+    image: "/uploads/John-Lewis.jpg"
+  action: Read The Full Story >
+  title: Success Story
+  small-testimonial: John Lewis achieved a significant increase in revenue with outfit
+    recommendations
+  class: riverisland
 navigation: header
 header:
   case-study-header: true
   page-title: SUCCESS STORY
   page-title-icon: "/uploads/icon_success-story-colour.svg"
-  body: How John Lewis saw a 2% increase in revenue with Dressipi’s outfit recommendations
+  body: How John Lewis saw a significant increase in revenue with Dressipi’s outfit
+    recommendations
 sections:
 - title: 
   handle: story
@@ -20,14 +29,13 @@ sections:
     subtitle: 
     body: "John Lewis & Partners is a leading high-end, department store with a large
       online presence and a number of retail stores operating across Great Britain.
-      Generating over £3.5 billion in revenue across all categories, and over £1 billion
-      in fashion alone, they recognised that fashion was a core area of focus. \n\nJohn
-      Lewis wanted to remove the friction from their online shopping journeys and
-      create truly tailored one to one experiences for their frequent and loyal customers.
-      They understood that styling and outfitting was really important when selling
-      fashion and were looking for a solution that could deliver personalised outfits
-      at scale, across womenswear, menswear and kidswear. \n\nDressipi was the only
-      vendor who could deliver this. \n"
+      Fashion has always been a core area of focus for them.\n\nJohn Lewis wanted
+      to remove the friction from their online shopping journeys and create truly
+      tailored one to one experiences for their frequent and loyal customers. They
+      understood that styling and outfitting was really important when selling fashion
+      and were looking for a solution that could deliver personalised outfits at scale,
+      across womenswear, menswear and kidswear. \n\nDressipi was the only vendor who
+      could deliver this. \n"
   - title: The Solution
     subtitle: 
     class: solution
@@ -62,18 +70,15 @@ sections:
   - title: The Results
     class: results
     subtitle: 
-    body: 'John Lewis saw a 4x higher increase in revenue per email sent when responding
-      with personalised strategies overall. This was particularly notable with the
-      most recent test on the outfit recommendations seeing a 2% increase in revenue
-      - a significant uplift.
-
-'
+    body: John Lewis saw an uplift in revenue per email sent when responding with
+      personalised strategies overall. This was particularly notable with the most
+      recent test on the outfit recommendations seeing a significant increase in revenue.
     number-boxes:
     - number-lines:
-      - number-line: '4'
+      - number-line: 4
         value-line: x
         number-line-description: Revenue per email
-      - number-line: '2'
+      - number-line: 2
         value-line: "%"
         number-line-description: Revenue increase
     quote: "“Working with Dressipi has really helped us look at different ways in
@@ -95,14 +100,7 @@ sections:
   button:
     copy: FREE CONSULTATION >
     url: "/contact"
-testimonial:
-  title: Success Story
-  small-testimonial: John Lewis achieved a 2% increase in revenue with outfit recommendations
-  logo: "/uploads/logo_john-lewis.svg"
-  author:
-    image: "/uploads/John-Lewis.jpg"
-  action: Read The Full Story >
-  class: riverisland
 position-list: 2
+layout: case-study
 ---
 

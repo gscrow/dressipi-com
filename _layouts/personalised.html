@@ -4,8 +4,7 @@ layout: default
 
 {% for section in page.sections %}
 {% assign handle = section.handle %}
-<section id="{{ handle }}"
-  class="section {% if handle %}{{ section.handle | prepend: 'section-' | append: ' ' }}{% endif %}background--{{ section.color | default:'white' }} {{ page.class }}">
+<section id="{{ handle }}" class="section {% if handle %}{{ section.handle | prepend: 'section-' | append: ' ' }}{% endif %}background--{{ section.color | default:'white' }} {{ page.class }}">
   <!-- section heading group -->
   {% if section.button %}
   <hgroup class="container gutter section__heading" style="margin-bottom:0;">
@@ -15,15 +14,20 @@ layout: default
   {% else %}
   {% if section.title %}
   <hgroup class="container gutter section__heading">
-    <h3>{{ section.title }}</h3>{% endif %}
-    {% if section.subtitle %}<h4>{{ section.subtitle }}</h4>{% endif %}
+    <h3>{{ section.title }}</h3>
+    {% if section.subtitle %}<h4>{{ section.subtitle }}</h4>
+    {% endif %}
   </hgroup>
+  {% endif %}
   {% endif %}
   {% if section.overview-subtitle %}
   <hgroup class="container gutter section__heading">
-    {% endif %} {% if section.overview-title %}
+    {% if section.overview-title %}
     <h2>{{ section.overview-title }}</h2>
-    <p>{{ section.overview-subtitle }}</p>
+    {% endif %}
+    {%- if section.overview-subtitle -%}
+    <h4>{{ section.overview-subtitle }}</h4>
+    {%- endif -%}
   </hgroup>
   {% endif %}
   <!-- section content group -->
@@ -41,9 +45,15 @@ layout: default
         <div class="container">
           <div class="gutter feature__copy" {% if subsection.align=='top' %}style="margin:0;padding-top:40px;" {% endif
             %}>
-            <h2 class="feature__title">{{ subsection.title }}</h2>
+            {%- if subsection.title -%}
+              <h2 class="feature__title">{{ subsection.title }}</h2>
+            {%- endif -%}
+            {%- if subsection.subtitle -%}
             <div class="feature__subtitle">{{ subsection.subtitle }}</div>
+            {%- endif -%}
+            {%- if subsection.body -%}
             <div class="feature__body">{{ subsection.body | markdownify }}</div>
+            {%- endif -%}
             {% if subsection.action %}<a href="{{ subsection.action.url }}"
               class="button button-{{ subsection.action.style | default: 'secondary' }}">{{ subsection.action.copy
               }}</a>{% endif %}
@@ -65,6 +75,8 @@ layout: default
           </div>
         </div>
       </div>
+      {%- elsif subsection.type == 'feature__single' -%}
+
       {%- else -%}
       <div class="gutter platform__gutter benefit" style="background: #f3f4f7;">
         <div class="platform__title">
@@ -84,23 +96,23 @@ layout: default
     {% when 'case-study' %}
     <div class="container index-case-study gutter">
       <div class="success-story-title">
-        <img src="{{ section.page-title-icon }}" title="{{ section.page-title }}" class="banner-page-title-icon" />
+        <img src="{{ section.page-title-icon }}" title="{{ section.page-title }}" class="banner-page-title-icon" alt="banner"/>
         <span>{{ section.page-title }}</span>
         <h3 class="success-story__body"> {{ section.body }}</h3>
       </div>
-      
+
       <div class="case-study__wrap">
         <div class="case-study">
           <div class="case-study__header">
             <div class="case-study__logo  {{ section.class }}"><img src="{{section.success-story-button.logo}}"
-                alt="logo" /></div>
+                alt="logo" />
+              </div>
           </div>
           <div class="case-study__image"><img src="{{section.success-story-button.image}}" alt="image" /></div>
           <div class="case-study__footer">
-            <a href="{{ section.success-story-button.url }}"
-              class="button button-secondary">Read
+            <a href="{{ section.success-story-button.url }}" class="button button-secondary">Read
               The Full Story &gt;</a>
-            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -141,64 +153,96 @@ layout: default
       </ul>
     </div>
 
-    {% when 'unique' %}
-    <ul class="publication__list container publication__breakpoint">
-      {% for publication in section.publications %}
-      <li class="publication__wrap">
-        <div class="publication__item">
-          <div class="publication__title-wrap">
-            <div class="publication__icon">
-              <img src="{{ publication.icon }}">
-            </div>
-            <div class="publication__title">
-              <p>{{ publication.title }}</p>
-            </div>
-          </div>
-          <div class="publication__body">
-            <p>{{ publication.body }}</p>
-          </div>
-          {% if publication.image %}
-          <div class="publication__logo">
-            <div>
-              <!-- keep flex image ratio -->
-              {% if publication.url %}<a href="{{ publication.url }}" target="_blank">{% endif %}<img
-                  src="{{ publication.image }}" alt="{{ publication.title }}" />{% if publication.url %}</a>{% endif %}
-            </div>
-          </div>
-          {% endif %}
-        </div>
-      </li>
-      {% endfor %}
-    </ul>
-    {% when 'awards' %}
+    {% when 'overview-g' %}
     <div class="container">
-      <ul class="award__list">
-        {% for award in section.awards %}
-        <li class="award__item">
-          {% if award.image %}
-          <div class="award__image">
+      <ul class="overview__grid">
+        {% for subsection in section.subsections %}
+        <li class="overview-section__wrap">
+          {% if subsection.image %}
+          <div class="gutter project__image">
             <div>
               <!-- keep flex image ratio -->
-              <img src="{{ award.image }}" alt="{{ award.title }}" />
+              <img src="{{ subsection.image }}" alt="{{ subsection.title }}" {% if subsection.hres-image
+                %}srcset="{{ subsection.hres-image }} 2x" {% endif %} />
             </div>
           </div>
           {% endif %}
-          <div class="award__body">
-            {{ award.title | markdownify }}
+          <div class="overview-section-g">
+            <div class="overview-section__header">
+              <p class="project__title">{{ subsection.title }}</p>
+            </div>
+            <div class="overview-section__body">
+              <p>{{ subsection.body }}</p>
+            </div>
+            {% if subsection.action %}<a href="{{ subsection.action.url }}"
+              class="button button--medium button-{{ subsection.action.style | default: 'secondary' }} text--center">{{
+              subsection.action.copy }}</a>{% endif %}
           </div>
         </li>
         {% endfor %}
       </ul>
+      {% if section.action %}
+      <a href="{{ section.action.url }}" class="button button--medium button-primary button-center">{{
+        section.action.copy }}</a>
+      {% endif %}
     </div>
 
-    {% when nil %}
-    <div class="container{% if section.width %}{{ section.width | prepend: '--' }}{% endif %} gutter">
-      {{ section.body | markdownify }}
-    </div>
-    {% endcase %}
+  {% when 'unique' %}
+  <ul class="publication__list container publication__breakpoint">
+    {% for publication in section.publications %}
+    <li class="publication__wrap">
+      <div class="publication__item">
+        <div class="publication__title-wrap">
+          <div class="publication__icon">
+            <img src="{{ publication.icon }}">
+          </div>
+          <div class="publication__title">
+            <p>{{ publication.title }}</p>
+          </div>
+        </div>
+        <div class="publication__body">
+          <p>{{ publication.body }}</p>
+        </div>
+        {% if publication.image %}
+        <div class="publication__logo">
+          <div>
+            <!-- keep flex image ratio -->
+            {% if publication.url %}<a href="{{ publication.url }}" target="_blank">{% endif %}<img
+                src="{{ publication.image }}" alt="{{ publication.title }}" />{% if publication.url %}</a>{% endif %}
+          </div>
+        </div>
+        {% endif %}
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+  {% when 'awards' %}
+  <div class="container">
+    <ul class="award__list">
+      {% for award in section.awards %}
+      <li class="award__item">
+        {% if award.image %}
+        <div class="award__image">
+          <div>
+            <!-- keep flex image ratio -->
+            <img src="{{ award.image }}" alt="{{ award.title }}" />
+          </div>
+        </div>
+        {% endif %}
+        <div class="award__body">
+          {{ award.title | markdownify }}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
   </div>
 
-
+  {% when nil %}
+  <div class="container{% if section.width %}{{ section.width | prepend: '--' }}{% endif %} gutter">
+    {{ section.body | markdownify }}
+  </div>
+  {% endcase %}
+  </div>
 
   {% if section.button %}
   <!-- section footer group -->

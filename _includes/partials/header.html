@@ -1,11 +1,11 @@
 {% assign my_page_url = page.url | remove: '/' %}
-<header role="banner">
+<header >
   <div class="header-wrapper">
     <div class="header">
       <div class="container gutter">
         <a href="{{ site.baseurl }}/" class="header__logo">{% include svgs/logo.svg %}</a>
         <div class="header__navigation">
-        <nav role="navigation" class="navigation">
+        <nav class="navigation">
           <ul class="navigation_items">
             {% assign header_links = site.pages | where: 'navigation', 'header' | sort: 'position' %}
             {% for link in header_links %}
@@ -25,8 +25,7 @@
                   {% include partials/navigation.html context='/clients/' %}
                   {% endif %}
                 </li>
-                {% else %}
-                <!-- <li class="navigation__item"><a href="{{ link.url }}" class="navigation__link {% if page.url == link.url %}navigation__link--active{% endif %}"">{{ link.title }}</a></li> -->
+        
               {% endif %}
             {% endfor %}
             <!-- Resources Dropdown Menu -->

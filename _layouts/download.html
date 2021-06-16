@@ -3,30 +3,38 @@ layout: default
 ---
 
 {% assign my_page_url = page.url | remove: '/' %}
-<header role="banner">
-  <div class="header">
-    <div class="container gutter">
-      <a href="{{ site.baseurl }}/" class="header__logo">{% include svgs/logo.svg %}</a>
-    </div>
-  </div>
-  {% if page.is-landing-page %}
-{% if page.includes-video %}
-<div class="video-page section landing background--white">
-	<div class="container gutter">
-		<hgroup class="section__heading">
-			<h2 class="header__title">{{ page.title }}</h2>
-			<h4>{{ page.day }}</h4>
-		</hgroup>
-	{% if page.url contains '/dressipi-optimise-sale-overstocked-products-webinar/' %}
-	<div class="container--narrow gutter">
-		<div class="container--host ">
-			<div class="wrapper--host left">
-				<img src="{{ page.left-headshot }}">
-				<p class="host-text-left">{{ page.left-host-name}}</p>
-				<h4 class="host-text-left">{{ page.left-host-title}}</h4>
+<header >
+	<div class="header">
+		<div class="container gutter">
+			<a href="{{ site.baseurl }}/" class="header__logo">{% include svgs/logo.svg %}</a>
+		</div>
+	</div>
+	{% if page.is-landing-page %}
+	{% if page.includes-video %}
+	<div class="video-page section landing background--white">
+		<div class="container gutter">
+			<hgroup class="section__heading">
+				<h2 class="header__title">{{ page.title }}</h2>
+				<h4>{{ page.day }}</h4>
+			</hgroup>
+			{% if page.url contains '/dressipi-optimise-sale-overstocked-products-webinar/' %}
+			<div class="container--narrow gutter">
+				<div class="container--host ">
+					<div class="wrapper--host left">
+						<img src="{{ page.left-headshot }}">
+						<p class="host-text-left">{{ page.left-host-name}}</p>
+						<h4 class="host-text-left">{{ page.left-host-title}}</h4>
+					</div>
+					<div class="wrapper--host right">
+						<img src="{{ page.right-headshot }}">
+						<p class="host-text-right">{{ page.right-host-name}}</p>
+						<h4 class="host-text-right">{{ page.right-host-title}}</h4>
+					</div>
+				</div>
 			</div>
 			<div class="wrapper--host right">
-				<img src="{{ page.right-headshot }}">
+  Key: 
+        <img src="{{ page.right-headshot }}">
 				<p class="host-text-right">{{ page.right-host-name}}</p>
 				<h4 class="host-text-right">{{ page.right-host-title}}</h4>
 			</div>
