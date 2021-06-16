@@ -1,10 +1,10 @@
 ---
-title: Fashion AI
+title: Retail AI
 date: 2021-05-16 09:50:00 Z
 position: 1
 navigation: header
 header:
-  title: Increasing Revenue<br/>for Fashion Retailers<br/>Through<br/>Fashion-Specific
+  title: Increasing Revenue<br/>for Fashion Retailers<br/>Through<br/>Retail-Specific
     AI
   description: Predict Which Products Each Visitor<br/>Will Buy and Keep;<br/>and
     Improve Forecasting Models.
@@ -17,7 +17,7 @@ sections:
   overview-subtitle: With always-on customers, retailers need to better understand
     their preferences, anticipate demand faster and personalise all touch points to
     stay ahead. The ability to ingest, cleanse, and augment huge quantities of data
-    from multiple sources is at the very heart of the Dressipi Fashion AI Platform.
+    from multiple sources is at the very heart of the Dressipi Retail AI Platform.
   subsections:
   - title: Personalisation
     image: "/uploads/icon_personalised-recommendations-colour.svg"
