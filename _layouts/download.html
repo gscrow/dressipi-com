@@ -11,6 +11,7 @@ layout: default
 	</div>
 	{% if page.is-landing-page %}
 	{% if page.includes-video %}
+ 
 	<div class="video-page section landing background--white">
 		<div class="container gutter">
 			<hgroup class="section__heading">
@@ -32,63 +33,89 @@ layout: default
 					</div>
 				</div>
 			</div>
-			{% endif %}
-			<div class="section__body">
-				<div class="description">
-					<p>{{ content }}</p>
-				</div>
-			</div>
-		</div>
-		<div class="video-wrapper">
-			<video width="100%" height="100%" controls poster="{{ page.video-mask }}">
-				<source src="{{ page.video-url }}" type="video/mp4">
-			</video>
-		</div>
-	</div>
-	</divs>
-	{% endif %}
-	{% endif %}
-	{% unless page.includes-video %}
-	<div class="hero hero-case-study">
-		<div class="container gutter">
-			<div class="hero__content">
-				{% if page.testimonial.logo %}
-				<div class="case-study__logo {{ page.testimonial.class }}"><img src="{{ page.testimonial.logo }}" /></div>
-				{% endif %}
-				{{ content }}
-			</div>
-			<!-- download form -->
-			<div class="hero__form">
-				<div class="form-download">
-					<hgroup class="form-download__heading">
-						<h3>{{ page.download.title }} </h3>
-					</hgroup>
-					<a class="button button--large button-primary form-download__submit {{page.download.button_class}}"
-						href="{{ page.download.file }}" target="_blank">
-						{{ page.download.button }}
-					</a>
-				</div>
+			<div class="wrapper--host right">
+        <img src="{{ page.right-headshot }}">
+				<p class="host-text-right">{{ page.right-host-name}}</p>
+				<h4 class="host-text-right">{{ page.right-host-title}}</h4>
 			</div>
 		</div>
 	</div>
+	{% endif %}
+	<div class="section__body">
+		<div class="description"> 
+			<p>{{ content }}</p>
+		</div>
+	</div>
+	</div>
+	<div class="video-wrapper">
+		<video width="100%" height="100%" controls poster="{{ page.video-mask }}">
+			<source src="{{ page.video-url }}" type="video/mp4">
+  		</video>	
+	</div>
+{% endif %}
+{% endif %}
+{% unless page.includes-video %}
+  <div class="hero hero-case-study">
+    <div class="container gutter">
+      <div class="hero__content">
+      {% if page.testimonial.logo %}
+        <div class="case-study__logo {{ page.testimonial.class }}"><img src="{{ page.testimonial.logo }}" /></div>
+      {% endif %}
+      {{ content }}
+      </div>
+      {% if page.form-webinar %}
+      {% include partials/form-webinars.html %}
+      {% else %}
+      <!-- download form -->
+      <div class="hero__form">
+        <div class="form-download">
+          <hgroup class="form-download__heading">
+            <h3>{{ page.form.title }} </h3>
+          </hgroup>
+
+          <form class="form-download__form" method="POST" action="https://formspree.io/mgoaajkm">
+            <input type="text" name="_gotcha" style="display: none">
+            <input type="hidden" name="_next" value="{{ page.form.file | default: '/' }}" />
+            <input type="hidden" name="_subject" value="New Download – Email submission" />
+            <!-- hidden field to be tested -->
+            <input type="hidden" name="page url" value="{{ page.url }}" />
+            <input class="form-download__input" type="input" name="name" placeholder="Enter your name" required>
+            <input class="form-download__input" type="email" name="email" placeholder="Enter your work email" required>
+            <input type="checkbox" name="marketing"  id="checkOpt" name="subscribe">
+            <label for="checkOpt" class="checkOpt__label">{{ page.form.checkbox }}</label>
+            <button class="button button--large button-primary form-download__submit {{page.form.button_class}}" type="submit" formtarget="_blank">
+              {{ page.form.button }}
+              {{ page.form.linkedin_tracking }}
+
+            </button>
+          </form>
+        </div>
+      </div>
+      {% endif %}
+    </div>
+  </div>
 </header>
 <section class="section download-clients">
-	<hgroup class="container gutter section__heading">
-		<h3>Our Clients</h3>
-		<h4>Brands Using Dressipi</h4>
-	</hgroup>
+  <hgroup class="container gutter section__heading">
+    <h3>Our Clients</h3>
+    <h4>Brands Using Dressipi</h4>
+  </hgroup>
 
-	<div class="section__body">
-		<div class="container clients">
-			<!-- client logo slider -->
-			<div class="slider">
-				{% for client in site.clients %}
-				<div class="client__logo_wrapper {{ client.class }}">
-					<img src="{{ client.logo }}" class="client__logo" alt="{{ client.title }}" />
-				</div>
-				{% endfor %}
-			</div>
-		</div>
-	</div>
+  <div class="section__body">
+    <div class="container clients">
+        <!-- client logo slider -->
+      <div class="slider">
+        {% for client in site.clients %}
+        <div class="client__logo_wrapper {{ client.class }}">
+          <img
+            src="{{ client.logo }}"
+            class="client__logo"
+            alt="{{ client.title }}"
+          />
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
 </section>
 {% endunless %}

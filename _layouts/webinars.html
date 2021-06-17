@@ -7,35 +7,40 @@ layout: default
 {% assign webinars = site.downloads | sort: 'position' | where: 'resource', 'Webinar' %}
 
 <section class="section section-resources">
-  <div class="container">
-  	<div class="resources__content gutter">
+	<div class="container">
+		<div class="resources__content gutter">
 			{% case my_page_url %}
 			{% when 'webinars' %}
-				{% assign downloads = site.downloads | sort: 'position' | reverse | where: 'resource', 'Webinars' %}
+			{% assign downloads = site.downloads | sort: 'position' | reverse | where: 'resource', 'Webinars' %}
 			{% endcase %}
-      <section class="resources__list">
-      	{% for download in downloads %}
-        <div class="resource">
+			<section class="resources__list">
+				{% for download in downloads %}
+				<div class="resource">
 					<div class="resource__content">
-						{{ download.list-content | markdownify  }}
+						{{ download.list-content | markdownify }}
 						{% if download.button %}
+						{%- if download.registration -%}
+							<p><a href="/downloads/last-webinar/" class="button button--medium button-primary">{{ download.button }}</a></p>
+							{%- else -%}
 						<p><a href="{{ download.url }}" class="button button--medium button-primary">{{ download.button }}</a></p>
 						{% endif %}
-						{% if download.register-button %}
-						<p><a href="{{ download.register-url }}" class="button button--medium button-primary">{{ download.register-button }}</a></p>
-						{% endif %}
-			  	</div>
-			  	{% if download.image %}
-        	<div class="resource__image">
-            <a href="{{ download.url }}">
-                <p><img src="{{download.image}}" title="{{ download.title }}" /></p>
-            </a>
-        	</div>
-        	{% endif %}
-			  </div>
-      	{% endfor %}
-      </section>
+						{%- endif -%}
+					</div>
+					{% if download.image %}
+					<div class="resource__image">
+						{%- if download.registration -%}
+						<a href="/downloads/last-webinar/">
+							{%- else -%}
+						<a href="{{ download.url }}">
+						{%- endif -%}	
+							<p><img src="{{download.image}}" title="{{ download.title }}" /></p>
+						</a>
+					</div>
+					{% endif %}
+				</div>
+				{% endfor %}
+			</section>
 
 		</div>
 	</div>
-</div>
+	</div>
