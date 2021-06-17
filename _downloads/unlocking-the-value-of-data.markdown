@@ -1,16 +1,16 @@
 ---
-title: 'Dressipi Webinar: Adapt and Thrive: Unlocking the Value of Data in Retail'
+title: "Dressipi Webinar: Adapt and Thrive: Unlocking the Value of Data in Retail"
 position: 38
 resource: Webinars
-image: "/uploads/outfits-webinar.png"
+image: "/uploads/unlocking-the-value-of-data-webinar.png"
 is-landing-page: true
 includes-video: true
 registration: true
-video-url: https://dressipi.com/media/outfits-webinar.mp4
-video-mask: "/uploads/outfits-webinar.png"
+video-url: https://dressipi.com/media/unlocking-the-value-of-data-webinar.mp4
+video-mask: "/uploads/unlocking-the-value-of-data-webinar.png"
 list-content: |
   # Adapt and Thrive: Unlocking the Value of Data in Retail
- 
+
   This webinar with Stitch Fix & Coniq highlighted the importance of data in fashion retail and showcased how it can be used to address the key challenges of today and the future. Watch the video recording to learn:
 
   + How to think about and structure data in the context of your business
@@ -19,9 +19,8 @@ list-content: |
 
   This paper outlines the steps fashion retailers should take to increase the chances of customers finding products they want to buy and keep to improve conversion rates throughout the funnel.
 Field name:
-  Key: 
+  Key:
 has-contact-section: true
 hide-clients-carousel: true
 button: Watch Video
 ---
-
