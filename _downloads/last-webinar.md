@@ -1,17 +1,17 @@
 ---
-title: |-
-  Please register to watch the last webinar
-date: 2021-06-15
+title: Please register to watch the last webinar
+date: 2021-06-15 00:00:00 Z
 position: 1
 resource: Webinars
 image: "/uploads/Sort_Order_Whitepaper_Small.jpg"
 position-list: 1
 form-webinar:
-  url: /downloads/unlocking-the-value-of-data/
+  url: "/downloads/unlocking-the-value-of-data/"
   title: Register and watch the latest webinar
   button: Register to watch >
   button_class: whitepaper
-  checkbox: Yes, I would like to receive marketing communications regarding Dressipi products and services
+  checkbox: Yes, I would like to receive marketing communications regarding Dressipi
+    products and services
   linkedin_tracking: <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=300788&conversionId=551785&fmt=gif">
 ---
 

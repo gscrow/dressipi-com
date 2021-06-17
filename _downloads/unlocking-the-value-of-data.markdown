@@ -1,5 +1,5 @@
 ---
-title: "Dressipi Webinar: Adapt and Thrive: Unlocking the Value of Data in Retail"
+title: 'Dressipi Webinar: Adapt and Thrive: Unlocking the Value of Data in Retail'
 position: 38
 resource: Webinars
 image: "/uploads/unlocking-the-value-of-data-webinar.png"
@@ -19,8 +19,9 @@ list-content: |
 
   This paper outlines the steps fashion retailers should take to increase the chances of customers finding products they want to buy and keep to improve conversion rates throughout the funnel.
 Field name:
-  Key:
+  Key: 
 has-contact-section: true
 hide-clients-carousel: true
 button: Watch Video
 ---
+
