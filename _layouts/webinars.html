@@ -28,7 +28,11 @@ layout: default
 					</div>
 					{% if download.image %}
 					<div class="resource__image">
+						{%- if download.registration -%}
+						<a href="/downloads/last-webinar/">
+							{%- else -%}
 						<a href="{{ download.url }}">
+						{%- endif -%}	
 							<p><img src="{{download.image}}" title="{{ download.title }}" /></p>
 						</a>
 					</div>
