@@ -7,8 +7,8 @@ image: "/uploads/Sort_Order_Whitepaper_Small.jpg"
 position-list: 1
 form-webinar:
   url: "/downloads/unlocking-the-value-of-data/"
-  title: Register and watch the latest webinar
-  button: Register to watch >
+  title: Download the latest webinar
+  button: Watch video >
   button_class: whitepaper
   checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services
