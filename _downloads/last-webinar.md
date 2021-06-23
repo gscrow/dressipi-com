@@ -10,8 +10,7 @@ form-webinar:
   title: Download the latest webinar
   button: Watch video >
   button_class: whitepaper
-  checkbox: Yes, I would like to receive marketing communications regarding Dressipi
-    products and services
+  checkbox: Yes, I would like to receive marketing communications regarding Dressipi products and services. You can opt-out at any time from the emails you receive
   linkedin_tracking: <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=300788&conversionId=551785&fmt=gif">
 ---
 
