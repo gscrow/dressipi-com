@@ -20,7 +20,7 @@ layout: default
 						{{ download.list-content | markdownify }}
 						{% if download.button %}
 						{%- if download.registration -%}
-							<p><a href="/downloads/last-webinar/" class="button button--medium button-primary">{{ download.button }}</a></p>
+							<p><a href="/downloads/gated-value-of-data/" class="button button--medium button-primary">{{ download.button }}</a></p>
 							{%- else -%}
 						<p><a href="{{ download.url }}" class="button button--medium button-primary">{{ download.button }}</a></p>
 						{% endif %}
@@ -29,7 +29,7 @@ layout: default
 					{% if download.image %}
 					<div class="resource__image">
 						{%- if download.registration -%}
-						<a href="/downloads/last-webinar/">
+						<a href="/downloads/gated-value-of-data/">
 							{%- else -%}
 						<a href="{{ download.url }}">
 						{%- endif -%}	
