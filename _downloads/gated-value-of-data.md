@@ -3,7 +3,7 @@ title: Download the last webinar
 date: 2021-06-15 00:00:00 Z
 position: 1
 resource: Webinars
-image: "/uploads/Sort_Order_Whitepaper_Small.jpg"
+image: "/uploads/unlocking-the-value-of-data-webinar.png"
 position-list: 1
 form-webinar:
   url: "/downloads/unlocking-the-value-of-data/"
