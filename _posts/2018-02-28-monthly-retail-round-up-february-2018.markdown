@@ -73,5 +73,3 @@ With Christopher Bailey’s last London Fashion Week came the Queen’s first. S
 
 
 We hope you enjoyed the round-up. Please feel free to [get in touch](https://dressipi.com/contact/) with any stories you feel would be of interest. 
-
->Photo from [CNBC](https://www.cnbc.com/2018/02/21/queen-surprises-london-fashion-week-with-anna-wintour.html)
