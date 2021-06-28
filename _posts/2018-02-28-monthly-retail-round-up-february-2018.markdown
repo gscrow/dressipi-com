@@ -14,7 +14,7 @@ tags:
 - Burberry
 - Mango
 - Internet Retailing
-image: "/uploads/Screen%20Shot%202018-02-28%20at%2015.25.55.png"
+image: "/uploads/June19%20monthly%20round%20up.jpg"
 author: Philippa Mew
 description: Some of the best articles from the world of retail and its supporting
   industries.
