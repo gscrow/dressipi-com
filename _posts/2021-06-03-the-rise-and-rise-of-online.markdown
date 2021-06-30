@@ -24,13 +24,8 @@ Since stores opened on 12th April (Week 15) and then post the UK opening up on 1
 <br>
 <p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/Newsletter%20Image.JPG"/></p>
 <br>
-<br>
 In terms of what people are buying, jeans and tops are surging. However, dress volumes are only slowly creeping back up to 2019 levels and with more of a focus on highlight dresses than occasionwear.
-<br>
-<br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/Newsletter%20Image%202.png"/></p>
-<br>
-<br>
+
 ## Benefits of the Online Shift
 
 On the plus side, there are lots of benefits from this shift to online. One of which is having far better visibility of every visitor, every customer and every product. 
