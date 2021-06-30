@@ -1,6 +1,13 @@
 ---
 title: The Rise and Rise of Online
 date: 2021-06-03 14:50:00 Z
+categories:
+- data
+- retail
+tags:
+- data
+- online shift
+- online shopping
 author: Sarah McVittie
 ---
 
@@ -14,7 +21,7 @@ In terms of what people are buying, jeans and tops are surging. However, dress v
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 800px;" src ="/uploads/Newsletter%20Image%202.png"/></p>
 
-## The Benefits of Online Shift
+## The Benefits of the Online Shift
 
 On the plus side, there are lots of benefits from this shift to online. One of which is having far better visibility of every visitor, every customer and every product. 
 
