@@ -6,6 +6,7 @@ categories:
 - retail
 tags:
 - athleisure
+image: "/uploads/Athleisure.jpg"
 author: Sarah McVittie
 description: With lots of changes in the retail industry, our data analysts have been
   monitoring consumer behaviour to discover how people are dressing and expressing
