@@ -25,8 +25,6 @@ With people turning to garments that were comfortable and multifunctional, categ
 
 * **Leggings** sales have doubled from 4% in 2019 to 8% for the same period in 2021 with a peak of 27%.
 <br>
-<br>
 <p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Comfort%20Clothing.JPG"/></p>
-<br>
 <br>
 <p style="text-align:center"><a href="/contact/" class="button button-primary">FREE CONSULTATION</a></p>
