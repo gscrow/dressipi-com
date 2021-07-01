@@ -17,7 +17,7 @@ After a clear demand shift as people spent more time at home, the casualisation 
 
 With people turning to garments that were comfortable and multifunctional, categories such as sweatshirts, tracksuit bottoms and leggings led the charge with the biggest changes:
 
-<p style="padding-left: 50px; font-style: italic;"> * Sweatshirts have tripled in volume of sales compared to the same period in 2019, from 0.5% of total womenswear spend in 2019 to 1.5% in the same period in 2021. They peaked at around 3.6% at the height of lockdown.</p>
+* <p style="padding-left: 50px; font-style: italic;"> **Sweatshirts** have tripled in volume of sales compared to the same period in 2019, from 0.5% of total womenswear spend in 2019 to 1.5% in the same period in 2021. They peaked at around 3.6% at the height of lockdown.</p>
 <p style="padding-left: 50px; font-style: italic;"> * Tracksuit bottoms have held a similar story. They were 4% of overall bottoms spend for this time in 2019 which has now increased to 12%, after ballooning to a whopping 34% at the height of lockdown.</p>
 <p style="padding-left: 50px; font-style: italic;"> * Leggings sales have doubled from 4% in 2019 to 8% for the same period in 2021 with a peak of 27%.</p>
 
