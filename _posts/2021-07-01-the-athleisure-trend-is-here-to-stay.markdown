@@ -22,3 +22,5 @@ With people turning to garments that were comfortable and multifunctional, categ
 <p style="padding-left: 50px; font-style: italic;"> * Leggings sales have doubled from 4% in 2019 to 8% for the same period in 2021 with a peak of 27%.</p>
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Comfort%20Clothing.JPG"/></p>
+
+<p style="text-align:center"><a href="/contact/" class="button button-primary">FREE CONSULTATION</a></p>
