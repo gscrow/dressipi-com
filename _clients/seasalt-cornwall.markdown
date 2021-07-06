@@ -5,3 +5,4 @@ position: 12
 logo: "/uploads/logo__seasalt-cornwall.png"
 link: https://www.seasaltcornwall.co.uk
 ---
+
