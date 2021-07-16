@@ -26,6 +26,8 @@ Thanks to the Diana effect (remember her Harvard sweatshirt and cycling shorts g
 
 Whilst Mary Quant gave us rebellious miniskirts in the 60s, hemlines haven’t necessarily been rebelling over the last year when it’s come to a shift in what we’re buying. Circumstances have dictated that there’s been not much need for knee-length dresses or skirts (especially pencil skirts). These lengths are usually associated with workwear and occasion wear (occasionwear has seen a hit from 24% to 10.28%).
 
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/Mini%20and%20Mid-Thigh.jpg"/></p>
+
 On the knee dresses have dropped from 18% to 9% and just above the knee dresses saw a decline in sales from 15% to 7%. This ‘no need for workwear’ has also been reflected in trouser styles: tailored trousers have dropped from 24% to 13%. It’s not surprising that wide leg, more relaxed fit trousers were one of the key catwalk trends this season.
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/Dress%20Lengths%20-%20Knees.jpg"/></p>
