@@ -11,6 +11,7 @@ tags:
 - summer
 - clothes
 - fashion
+- garment data
 image: "/uploads/pexels-photo-7292977.jpeg"
 author: Natalie Theo
 description: As the fashion industry moves forward this month, our Style Director
