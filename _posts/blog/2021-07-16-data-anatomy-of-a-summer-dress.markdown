@@ -8,6 +8,8 @@ tags:
 - summer
 - clothes
 - fashion
+image: "/uploads/pexels-photo-7292977.jpeg"
+author: Natalie Theo
 ---
 
 ## The numbers don't lie, and they're talking trends.
