@@ -40,5 +40,7 @@ Spare a thought for dresses in those hot summer brights, it's time for the quiet
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 800px;" src ="/uploads/Colour%20Groups.jpg"/></p>
 
+<br>
+
 <p style="text-align:center"><a href="/contact/" class="button button-primary">FREE CONSULTATION</a></p>
 
