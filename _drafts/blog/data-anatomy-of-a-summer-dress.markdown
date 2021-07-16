@@ -1,6 +1,9 @@
 ---
 title: Data Anatomy of a Summer Dress
 date: 2021-07-16 12:24:00 Z
+categories:
+- retail
+- data
 tags:
 - data
 - trend
