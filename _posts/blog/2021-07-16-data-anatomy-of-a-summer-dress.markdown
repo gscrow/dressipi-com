@@ -10,6 +10,9 @@ tags:
 - fashion
 image: "/uploads/pexels-photo-7292977.jpeg"
 author: Natalie Theo
+description: As the fashion industry moves forward this month, our Style Director
+  Natalie Theo breaks down the data that's telling us what's in style, what's not,
+  and why.
 ---
 
 ## The numbers don't lie, and they're talking trends.
@@ -34,4 +37,6 @@ What has been happening with the length of dresses is that the middle-man so to 
 Spare a thought for dresses in those hot summer brights, it's time for the quieter shades with pastels rising from 13% to 19% and a rise for muted shades from 4% to 8%. Although if you’re after a must-have summer suit then a bold red or happy green are your go to colours.  Or you can always wait until next season, because obviously like all good things in fashion it changes. It wouldn’t be fashion otherwise.
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 800px;" src ="/uploads/Colour%20Groups.jpg"/></p>
+
+<p style="text-align:center"><a href="/contact/" class="button button-primary">FREE CONSULTATION</a></p>
 
