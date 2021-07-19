@@ -20,7 +20,6 @@ description: As the fashion industry moves forward this month, our Style Directo
 ---
 
 ## The numbers don't lie, and they're talking trends.
-<br>
 
 If ever there was a sign that the fashion industry as a collective is putting the focus on looking and moving forward it was the Haute Couture collections held in Paris this month.  In real life presentations showcasing creativity at its best to in real life Couture goers and front rowers. Whilst we won’t all be wearing the luxury of couture, our wardrobes have thankfully not been relegated to a stay-at-home groundhog day of not-so-elevated well-worn tees and comfy tracksuit pants. Fashion has held up a mirror to every socio-political-economic crisis throughout history, both during and after. 2020-2021 has been no different. So where have our post-pandemic hemlines and relegated-to-the-fashion-sidelines been heading post lockdown?
 
