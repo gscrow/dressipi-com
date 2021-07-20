@@ -1,6 +1,8 @@
 ---
 title: 'Post-Purchase Emails: Helping Your Customers Make the Most of Their Purchases'
 date: 2021-07-20 13:05:00 Z
+image: "/uploads/PPE%20Banner.png"
+author: Georgina Fisher
 ---
 
 ## “Thanks for your purchase! Here’s how we’d style it…”
@@ -36,7 +38,7 @@ By simply injecting Dressipi’s API’s into existing ESP’s, Dressipi’s Pos
 <p style="padding-left: 50px; font-style: italic;"> 5) The process starts again, with personalised outfits generated to go with the trousers. </p>
 <br>
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/PPE2.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/PPE2.JPG"/></p>
 <br>
 <br>
 
@@ -45,7 +47,7 @@ These emails can also be generated for in-store purchases with recommendations i
 Enticing the customer to move up the purchase ladder through outfit recommendations based on what we know the customer has already purchased from the retailer is a great way to increase retention and lifetime value. 
 <br>
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/PPE3.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/PPE3.png"/></p>
 <br>
 <br>
 ### The Results: No Excuse Not to Test
