@@ -1,7 +1,18 @@
 ---
-title: 'Post-Purchase Emails: Helping Your Customers Make the Most of Their Purchases'
+title: 'Post-Purchase Emails: Helping Customers Make the Most of Their Purchases'
 date: 2021-07-20 13:05:00 Z
-image: "/uploads/PPE%20Banner%201.png"
+categories:
+- retail
+- Tech
+tags:
+- Personalised emails
+- post purchase email
+- retention
+- customer retention
+- click through rate
+- open rate
+- revenue per email sent
+image: "/uploads/PPE%20Banner%201.JPG"
 author: Georgina Fisher
 ---
 
