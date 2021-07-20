@@ -12,7 +12,7 @@ tags:
 - click through rate
 - open rate
 - revenue per email sent
-image: "/uploads/PPE%20Banner%20New.png"
+image: "/uploads/PPE%20Banner%20New-632f0d.png"
 author: Georgina Fisher
 description: Enticing the customer to move up the purchase ladder through outfit recommendations
   based on what you know the customer has already purchased from the retailer is a
