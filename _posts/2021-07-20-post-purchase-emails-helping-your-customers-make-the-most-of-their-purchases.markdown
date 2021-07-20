@@ -1,7 +1,7 @@
 ---
 title: 'Post-Purchase Emails: Helping Your Customers Make the Most of Their Purchases'
 date: 2021-07-20 13:05:00 Z
-image: "/uploads/PPE%20Banner.png"
+image: "/uploads/PPE%20Banner%201.png"
 author: Georgina Fisher
 ---
 
@@ -12,8 +12,7 @@ Maybe I’d fallen in love with a top so I had to buy it but it’s still hangin
 This is exactly the type of email I’d like to receive.
 <br>
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/PPE1.jpg"/></p>
-<br>
+<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/PPE1.jpg"/></p>
 <br>
 Whilst creating an amazing experience for the customer, it also increases lifetime value (LTV) by prompting another purchase. LTV is an often neglected metric in the retail industry but an absolutely necessary one for retailers to have as one of their key KPI’s if they are to be transformational and leaders in the space.
 
@@ -38,8 +37,7 @@ By simply injecting Dressipi’s API’s into existing ESP’s, Dressipi’s Pos
 <p style="padding-left: 50px; font-style: italic;"> 5) The process starts again, with personalised outfits generated to go with the trousers. </p>
 <br>
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/PPE2.JPG"/></p>
-<br>
+<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/PPE2.JPG"/></p>
 <br>
 
 These emails can also be generated for in-store purchases with recommendations in emails being filtered by availability in their local store and what was available in their size at that moment. 
@@ -47,8 +45,7 @@ These emails can also be generated for in-store purchases with recommendations i
 Enticing the customer to move up the purchase ladder through outfit recommendations based on what we know the customer has already purchased from the retailer is a great way to increase retention and lifetime value. 
 <br>
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/PPE3.png"/></p>
-<br>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/PPE3.png"/></p>
 <br>
 ### The Results: No Excuse Not to Test
 
