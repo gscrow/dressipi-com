@@ -23,7 +23,7 @@ Maybe I’d fallen in love with a top so I had to buy it but it’s still hangin
 This is exactly the type of email I’d like to receive.
 <br>
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/PPE1.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/PPE1New.png"/></p>
 <br>
 Whilst creating an amazing experience for the customer, it also increases lifetime value (LTV) by prompting another purchase. LTV is an often neglected metric in the retail industry but an absolutely necessary one for retailers to have as one of their key KPI’s if they are to be transformational and leaders in the space.
 
