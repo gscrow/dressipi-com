@@ -14,6 +14,11 @@ tags:
 - revenue per email sent
 image: "/uploads/PPE%20Banner%201.JPG"
 author: Georgina Fisher
+description: "We have recently launched Post-Purchase Emails at Dressipi showing customers
+  what to wear with items they recently bought in a way that works perfectly for them.
+  Read more about how they \nEnticing the customer to move up the purchase ladder
+  through outfit recommendations based on what we know the customer has already purchased
+  from the retailer is a great way to increase retention and lifetime value.\nmore "
 ---
 
 ## “Thanks for your purchase! Here’s how we’d style it…”
@@ -22,7 +27,7 @@ Maybe I’d fallen in love with a top so I had to buy it but it’s still hangin
 
 This is exactly the type of email I’d like to receive.
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/PPE1New.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/PPE1New.png"/></p>
 <br>
 Whilst creating an amazing experience for the customer, it also increases lifetime value (LTV) by prompting another purchase. LTV is an often neglected metric in the retail industry but an absolutely necessary one for retailers to have as one of their key KPI’s if they are to be transformational and leaders in the space.
 
@@ -62,3 +67,5 @@ Showing [Personalised Outfits](https://dressipi.com/blog/driving-better-predicti
 * Click Through Rates +89%
 * Open Rate +155%
 * Revenue / Email Sent +200% 
+
+<p style="text-align:center"><a href="/contact/" class="button button-primary">FREE CONSULTATION</a></p>
