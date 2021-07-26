@@ -1,7 +1,7 @@
 ---
 title: Solutions Specialist
 date: 2020-03-11 12:31:00 Z
-is-open: true
+is-open: false
 ---
 
 The world of retail is changing, and Dressipi is leading the charge.
