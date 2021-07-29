@@ -38,7 +38,7 @@ sections:
     covered our innovative solutions."
   handle: unique
   publications:
-  - title: Fashion Focussed
+  - title: Fashion Focused
     icon: "/uploads/icon_fashion_focussed.svg"
     body: Fashion is always evolving. Dressipi has spent years delivering fashion-specific
       algorithms, drawing on the expertise of some of the industry’s top stylists
