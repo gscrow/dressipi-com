@@ -42,10 +42,6 @@ sections:
     title: Director of Finance
     linkedin: https://www.linkedin.com/in/jonny-aloysius-1562463
     image: "/uploads/jonny-aloysius.jpg"
-  - name: Kevin Emamy
-    title: 'Chief Commercial Officer '
-    linkedin: https://www.linkedin.com/in/kevinemamy/
-    image: "/uploads/IMG-2827.JPG"
   - name: Natalie Theo
     title: Style Director
     linkedin: https://www.linkedin.com/in/natalie-theo-5b561160/?ppe=1
