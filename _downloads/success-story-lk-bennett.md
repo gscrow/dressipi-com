@@ -1,7 +1,7 @@
 ---
 title: How LK Bennett is using Dressipi’s Data Insight Hub
 date: 2021-06-06 08:54:00 Z
-position: 4
+position: 5
 resource: Case Studies
 image: "/uploads/success-lk.png"
 testimonial:

@@ -1,7 +1,7 @@
 ---
 title: How A Luxury Retailer Gives Each Customer a Tailored Shopping Experience
 date: 2019-09-24 08:54:00 Z
-position: 5
+position: 6
 layout: case-study
 navigation: header
 resource: Case Studies

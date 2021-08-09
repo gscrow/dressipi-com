@@ -1,7 +1,7 @@
 ---
 title: How OVS Benefited from Dressipi’s Personalised In-Store Emails
 date: 2020-03-30 15:26:00 Z
-position: 3
+position: 4
 layout: case-study
 resource: Case Studies
 image: "/uploads/success-story_ovs@2x.jpg"
