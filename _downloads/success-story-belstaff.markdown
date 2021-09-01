@@ -3,11 +3,11 @@ title: Belstaff increased email revenue by 69% through personalised recommendati
 date: 2020-03-30 15:26:00 Z
 position: 3
 resource: Case Studies
-image: "/uploads/Belstaff_success_story_hero_2-cf6cd5.jpg"
+image: "/uploads/Belstaff_success_story_hero_2.jpg"
 testimonial:
-  logo: "/uploads/Belstaff_success_story_hero_2-bb4fa9.jpg"
+  logo: "/uploads/logo__belstaff.svg"
   author:
-    image: "/uploads/Belstaff_success_story_hero.jpg"
+    image: "/uploads/Belstaff_success_story_hero_2.jpg"
   action: Read The Full Story >
   title: Success Story
   small-testimonial: Belstaff increased email revenue by 69% through personalised
