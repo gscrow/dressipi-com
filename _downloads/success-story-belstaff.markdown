@@ -3,9 +3,9 @@ title: Belstaff increased email revenue by 69% through personalised recommendati
 date: 2020-03-30 15:26:00 Z
 position: 3
 resource: Case Studies
-image: "/uploads/success-story_belstaff@2x.jpg"
+image: "/uploads/Belstaff_success_story_hero_2-cf6cd5.jpg"
 testimonial:
-  logo: "/uploads/logo__belstaff.svg"
+  logo: "/uploads/Belstaff_success_story_hero_2-bb4fa9.jpg"
   author:
     image: "/uploads/Belstaff_success_story_hero.jpg"
   action: Read The Full Story >
@@ -53,16 +53,16 @@ sections:
       The potential value gain was evident. Across all KPIs, the emails that featured Dressipi recommendations outperformed those that did not. Click-To-Open Rate was up by 14%, Revenue was up 69%, Conversion was 32% higher and Total Orders were 63% higher than the non-personalised emails.
     number-boxes:
     - number-lines:
-      - number-line: '14'
+      - number-line: 14
         value-line: "%"
         number-line-description: click-to-open rate
-      - number-line: '69'
+      - number-line: 69
         value-line: "%"
         number-line-description: revenue
-      - number-line: '32'
+      - number-line: 32
         value-line: "%"
         number-line-description: conversion
-      - number-line: '63'
+      - number-line: 63
         value-line: "%"
         number-line-description: total orders
     quote: "“We are thrilled to be working with Dressipi. Now we can offer the shopping
