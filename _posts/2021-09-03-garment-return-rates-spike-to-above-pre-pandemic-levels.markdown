@@ -13,8 +13,9 @@ tags:
 - garment data
 image: "/uploads/Returns_Sept_Banner.jpg"
 author: Sarah McVittie
-description: 'Dressipi has analysed the impact the pandemic and multiple lockdowns
-  have had on return rates in the fashion retail industry with some interesting findings. '
+description: 'The pandemic has had a huge impact on the fashion retail industry. Dressipi
+  analysed consumer purchasing habits throughout lockdowns and reopenings and how
+  these have affected return rates. '
 ---
 
 ### But, the good news is we can see what’s coming. 
@@ -41,7 +42,7 @@ Data from throughout the lockdown period suggests a permanent casualisation of f
 <br>
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Returns_Sept_2.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Returns_Sept_2.png"/></p>
 <br>
 
 The [recent announcement that M&S is halting suit sales in the majority of its stores](https://www.drapersonline.com/news/marks-and-spencer-drops-suits-from-more-than-half-of-its-stores?eea=*EEA*&eea=UmErV1Ftc1lOOUpRbVA3RzMwbkRFdWJIa3JhL0lQVDVLbnlvNm1hRVJHUT0%3D&utm_source=acs&utm_medium=email&utm_campaign=FABS_Drapers_EDI_Subs_Daily_31082021&deliveryName=DM5528) is just one example of the impact the pandemic had on how consumers are filling their closets. 
@@ -49,7 +50,7 @@ The [recent announcement that M&S is halting suit sales in the majority of its s
 <br>
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Returns_Sept_3.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/Returns_Sept_3.png"/></p>
 <br>
 
 ### Impact on Return Rates
@@ -59,14 +60,13 @@ Consequently, most fashion retailers found themselves in the happy position of i
 <br>
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Returns_Sept_4.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 350px;" src ="/uploads/Returns_Sept_4.png"/></p>
 <br>
 
 This chart shows the difference between 2019 and 2020 for a typical online fashion retailer. Most fashion retailers saw online revenue growth of at least 15% and reduced return rates by somewhere between 8-10%, delivering significant cash and EBIT rewards. 
 
 Even as purchases began to normalise after the first lockdown, retailers continued to see lower-than-normal return rates. This came from the continued popularity of casual clothing which have always had lower return rates than more formal wear. 
 
-<br>
 <br>
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Returns_Sept_5.png"/></p>
@@ -78,7 +78,7 @@ Additionally, with the exercise craze that came with lockdown, activewear became
 <br>
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Returns_Sept_6.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/Returns_Sept_6.png"/></p>
 <br>
 All these indicators could have led to a false sense of security for many fashion retailers.
 
@@ -138,14 +138,14 @@ This has also had a detrimental impact on return rates. Every 5% shift from sing
 <br>
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Returns_Sept_11.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Returns_Sept_11.png"/></p>
 <br>
 
 The reassuring thing is that we are predictable creatures with predictable behaviours, as is evident in the COVID timeline below. We have annotated customer demand, purchasing behaviour, and return rates, and there is a visible correlation between all three.
 <br>
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Returns_Sept_12.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/Returns_Sept_12.png"/></p>
 <br>
 
 ## Forecasting into Q4 2021and 2022
