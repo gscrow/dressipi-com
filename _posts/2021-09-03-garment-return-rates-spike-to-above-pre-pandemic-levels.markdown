@@ -1,6 +1,20 @@
 ---
 title: Garment Return Rates Spike to Above Pre-Pandemic Levels
 date: 2021-09-03 17:15:00 Z
+categories:
+- data
+- tech
+tags:
+- reduce returns
+- returns
+- return rates
+- data
+- customer data
+- garment data
+image: "/uploads/Returns_Sept_Banner.jpg"
+author: Sarah McVittie
+description: 'Dressipi has analysed the impact the pandemic and multiple lockdowns
+  have had on return rates in the fashion retail industry with some interesting findings. '
 ---
 
 ### But, the good news is we can see what’s coming. 
@@ -13,7 +27,7 @@ Now, as lockdowns are easing, consumer purchasing habits suggest a resurgence of
 <br>
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Returns_Sept_1.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/Returns_Sept_1.png"/></p>
 <br>
 
 Customer basket behaviours and category mix aligns well with restrictions being imposed and lifted. The benefit of this means that going forward, depending on the status of various restrictions, it should be relatively easy to predict return rates ahead of time. 
