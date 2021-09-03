@@ -16,8 +16,7 @@ author: Sarah McVittie
 description: 'The pandemic has had a huge impact on the fashion retail industry. Dressipi
   analysed consumer purchasing habits throughout lockdowns and reopenings and how
   these have affected return rates. '
-download: 'Dressipi Workshop: The Silver Lining of COVID: Lower Return Rates - But
-  Don''t Get Too Comfortable'
+download: Understanding Your Unique Return Rate Profile
 ---
 
 ### But, the good news is we can see what’s coming. 
