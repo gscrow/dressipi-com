@@ -78,7 +78,7 @@ Additionally, with the exercise craze that came with lockdown, activewear became
 <br>
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/Returns_Sept_6.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" src ="/uploads/Returns_Sept_6.png"/></p>
 <br>
 All these indicators could have led to a false sense of security for many fashion retailers.
 
@@ -145,7 +145,7 @@ The reassuring thing is that we are predictable creatures with predictable behav
 <br>
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/Returns_Sept_12.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" src ="/uploads/Returns_Sept_12.png"/></p>
 <br>
 
 ## Forecasting into Q4 2021and 2022
