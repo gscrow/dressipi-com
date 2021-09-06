@@ -79,7 +79,7 @@ Additionally, with the exercise craze that came with lockdown, activewear became
 <br>
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" src ="/uploads/Returns_Sept_6.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" src ="/uploads/Comfort%20Clothing.JPG"/></p>
 <br>
 All these indicators could have led to a false sense of security for many fashion retailers.
 
