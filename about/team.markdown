@@ -61,6 +61,10 @@ sections:
     title: Marketing Manager
     linkedin: https://www.linkedin.com/in/georgina-fisher-408689151/
     image: "/uploads/georgina-fisher.jpg"
+  - name: Gabriel Crow
+    title: Marketing Associate
+    linkedin: https://www.linkedin.com/in/gabriel-crow-a0799718b/
+    image: "/uploads/gabriel-crow.jpeg"
   - name: JJ. Green
     title: Machine Learning Developer
     linkedin: http://soliton.vm.bytemark.co.uk/pub/jjg/en
