@@ -19,6 +19,8 @@ description: 'The pandemic has had a huge impact on the fashion retail industry.
 download: Understanding Your Unique Return Rate Profile
 ---
 
+
+
 ### But, the good news is we can see what’s coming. 
 
 ## Introduction
@@ -156,5 +158,7 @@ As we continue to return to normality, we expect the initial excitement around t
 So, assuming no further lockdowns, we would expect return rates to settle to around 5% lower than their pre-pandemic levels. 
 
 However, we do live in uncertain times. It would be wise for retailers to keep track of the data surrounding consumer behaviour, changes in purchase of garment and occasion types, and basket behaviour. Staying on top of this data will make it easier to keep abreast of returns and associated costs.
+
+We wanted to extend a big thank you to Tara Tadjbajhsh, our amazing summer intern who did most of the analysis and work going into this article!
 
 <p style="text-align:center"><a href="/contact/" class="button button-primary">FREE CONSULTATION</a></p>
