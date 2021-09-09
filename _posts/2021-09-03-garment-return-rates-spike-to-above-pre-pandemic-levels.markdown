@@ -94,7 +94,7 @@ Now, as the vaccinations are rolled out in earnest and lockdowns are easing, the
 * The sales of dresses are booming (up 5.6% on 2020 and 9% on 2019) with evening and occasion dresses increasing alongside shorter dresses 
 * The mix of jumpsuits and swimwear is increasing (up by 1% on 2020 but still down on 2019)
 * Tops as a % of products bought is down by 1.5% on 2020 but still up 3% on 2019
-* The data also shows an increase in event and highlight pieces of (up 8.55% on 2020)
+* The data also shows an increase in event and highlight pieces (up 8.55% on 2020)
 <br>
 <br>
 
@@ -151,7 +151,7 @@ The reassuring thing is that we are predictable creatures with predictable behav
 <p style="text-align:center"><img style="margin-left: 0px; width: 900px;" src ="/uploads/Returns_Sept_12.png"/></p>
 <br>
 
-## Forecasting into Q4 2021and 2022
+## Forecasting into Q4 2021 and 2022
 
 As we continue to return to normality, we expect the initial excitement around the reopening to settle down; as will the return rates. We can predict that the movement towards more casual clothing will be a permanent shift in consumer wardrobes. 
 
