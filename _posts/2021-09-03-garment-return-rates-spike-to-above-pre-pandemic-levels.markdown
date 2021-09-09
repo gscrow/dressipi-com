@@ -159,6 +159,6 @@ So, assuming no further lockdowns, we would expect return rates to settle to aro
 
 However, we do live in uncertain times. It would be wise for retailers to keep track of the data surrounding consumer behaviour, changes in purchase of garment and occasion types, and basket behaviour. Staying on top of this data will make it easier to keep abreast of returns and associated costs.
 
-We wanted to extend a big thank you to Tara Tadjbajhsh, our amazing summer intern who did most of the analysis and work going into this article!
+> We wanted to extend a big thank you to Tara Tadjbajhsh, our amazing summer intern who did most of the analysis and work going into this article!
 
 <p style="text-align:center"><a href="/contact/" class="button button-primary">FREE CONSULTATION</a></p>
