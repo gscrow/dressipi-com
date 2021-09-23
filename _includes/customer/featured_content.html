@@ -1,0 +1,17 @@
+
+{%- assign fc = page.featured_content -%}
+<section class="featured_content">
+  <h2>{{fc.title}}</h2>
+  <p>{{fc.description}}</p>
+  <div class="content_box">
+    {%- for c in fc.content -%}
+      <div class="content_card">
+        <h3>{{c.section}}</h3>
+        <img src="{{c.logo}}" alt="logo">
+        <img src="{{c.image}}" alt="featured">
+        <h3>{{c.title}}</h3>
+      <a href="{{c.cta_link}}" class="button button--medium button-secondary" title="team">{{c.cta_text}}</a>
+      </div>
+    {%- endfor -%}
+  </div>
+</section>

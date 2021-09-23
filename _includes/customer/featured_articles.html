@@ -1,0 +1,15 @@
+<section class="featured_articles">
+  {%- for a in page.featured_articles -%}
+  <div class="article_box">
+    <div class="article_card">
+      <img src="{{a.image}}" alt="article thumnails">
+      <h3>{{a.article_title}}</h3>
+      <a href="{{a.cta_link}}" class="button button--medium button-secondary" title="team">{{a.cta_text}}</a>
+    </div>
+    <div class="article_description">
+      <h2>{{a.title}}</h2>
+      <p>{{a.description}}</p>
+    </div>
+    </div>
+  {%- endfor -%}
+</section>
