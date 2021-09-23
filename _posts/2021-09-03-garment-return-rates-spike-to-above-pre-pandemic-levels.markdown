@@ -34,6 +34,9 @@ Now, as lockdowns are easing, consumer purchasing habits suggest a resurgence of
 <p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/Returns_Sept_1.png"/></p>
 <br>
 
+<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="![Online return rate change, May 2019 vs May 2021](/uploads/Returns_Sept_1.png)"/></p>
+<br>
+
 Customer basket behaviours and category mix aligns well with restrictions being imposed and lifted. The benefit of this means that going forward, depending on the status of various restrictions, it should be relatively easy to predict return rates ahead of time. 
 
 ## What happened over lockdown
