@@ -8,8 +8,7 @@ download:
   title: Download Free Whitepaper
   button: Download >
   file: "/uploads/Dressipi-Whitepaper-Five-Things-Every-Retailer-Should-Know-About-Personalisation-a8c06d.pdf"
-  checkbox:
-    Yes, I would like to receive marketing communications regarding Dressipi
+  checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and service
   button_class: whitepaper
 testimonial:

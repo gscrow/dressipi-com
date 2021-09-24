@@ -2,15 +2,15 @@
 title: Understanding Your Unique Return Rate Profile
 date: 2019-09-18 10:48:00 Z
 tags:
-  - returns
-  - reduce returns
-  - improve operating margin
-  - retail
-  - operating margin
-  - retail technology
-  - sizing
-  - style
-  - personalisation
+- returns
+- reduce returns
+- improve operating margin
+- retail
+- operating margin
+- retail technology
+- sizing
+- style
+- personalisation
 position: 2
 resource: Guides
 image: "/uploads/returns_small.jpg"
@@ -18,8 +18,7 @@ download:
   title: Download Free Whitepaper
   button: Download >
   file: "/uploads/Dressipi_Whitepaper_Understanding_Your_Unique_Return_Rate_Profile.pdf"
-  checkbox:
-    Yes, I would like to receive marketing communications regarding Dressipi
+  checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services
   button_class: whitepaper
 testimonial:

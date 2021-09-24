@@ -9,8 +9,7 @@ download:
   title: Download Free Whitepaper
   button: Download >
   file: "/uploads/Dressipi-Whitepaper-How-Dressipi-Can-Help-Retailers-Transform-Their-Biggest-Asset.pdf"
-  checkbox:
-    Yes, I would like to receive marketing communications regarding Dressipi
+  checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and service
   button_class: whitepaper
 testimonial:
