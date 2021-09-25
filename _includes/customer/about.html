@@ -1,0 +1,31 @@
+{%- assign a = site.data.about -%} 
+{%- assign team = site.authors -%}
+<section class="about container gutter" id="team">
+    <div class="description">
+        <h2>{{a.title}}</h2>
+        <div class="content">
+            {{a.content | markdownify }}
+        </div>
+    </div>
+    <div class="team">
+        <h2>{{a.team_title}}</h2>
+        {%- for m in a.team_members -%}
+        {%- for tm in team -%} 
+        {%- if tm.title == m -%}
+          {%- assign member = tm -%}
+          {%- break -%}
+        {%- endif -%}
+        {%- endfor -%} 
+        <div class="member_card">
+            <img src="{{member.image}}" alt="{{member.title}}">
+            <div class="member_descr">
+            <h3>{{member.title}}</h3>
+            {%- if member.position -%}
+                <p>{{member.position}}</p>
+            {%- endif -%}
+        </div>
+        </div>
+        {%- assign m = '' -%}
+        {%- endfor -%}
+    </div>
+</section>

@@ -1,15 +1,18 @@
 <section class="featured_articles">
-  {%- for a in page.featured_articles -%}
+  <h2 class="container gutter">{{page.featured_articles.title}}</h2>
+  <div class="container gutter">
+  {%- for a in page.featured_articles.content -%}
   <div class="article_box">
     <div class="article_card">
       <img src="{{a.image}}" alt="article thumnails">
-      <h3>{{a.article_title}}</h3>
-      <a href="{{a.cta_link}}" class="button button--medium button-secondary" title="team">{{a.cta_text}}</a>
+      <h4>{{a.article_title}}</h4>
+      <a href="{{a.cta_link}}" class="button button--medium button-secondary text--center" title="team">{{a.cta_text}}</a>
     </div>
     <div class="article_description">
-      <h2>{{a.title}}</h2>
-      <p>{{a.description}}</p>
+      <h3>{{a.title}}</h3>
+      <p>{{a.description | markdownify }}</p>
     </div>
     </div>
   {%- endfor -%}
+</div>
 </section>

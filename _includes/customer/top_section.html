@@ -1,9 +1,25 @@
-<section>
+<section class="hero">
+<div class="container gutter">
+  <div class="header_box">
+    <img src="/uploads/logo_very_group.png" alt="very group">
+    <span>in partnership with</span>
+    <img src="/uploads/logo.svg" alt="logo">
+  </div>
+<div class="banner">
   <div class="text_box">
     <h1 class="header__title">{{page.title}}</h1>
     <p>{{page.description}}</p>
   </div>
   <div class="video_box">
-    <video src="{{page.video}}"></video>
+    <video controls width="560">
+      <source src="{{page.video}}">
+      Sorry, your browser doesn't support embedded videos.
+  </video>
   </div>
+  </div>
+  <div class="cta">
+    <a href="/about/contact/" class="button button--medium button-primary" title="contact">Contact Us ></a>
+    <a href="#team" class="button button--medium button-primary" title="team">Meet your Team ></a>
+</div>
+</div>
 </section>

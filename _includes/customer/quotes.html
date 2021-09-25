@@ -1,0 +1,13 @@
+<div class="quotes">
+  <div class="container gutter">
+  {%- for q in site.data.quotes.quotes -%}
+  <div class="quote_item">
+    <q>{{q.quote}}</q>
+    <b class="quote_author">{{q.author}}</b>
+  </div>
+  {%- endfor -%}
+  <div class="quote_item cta">
+    <a href="{{site.data.quotes.cta_link}}" class="button button-primary navigation__button" title="{{site.data.quotes.cta_title}}">{{site.data.quotes.cta_title}}</a>
+  </div>
+  </div>
+</div>

@@ -15,7 +15,9 @@ video: https://docs.google.com/file/d/1gpbiHWlZE-kJpQ5bqceI5HAHSVhVPdjh/preview
 exclude-hero: true
 
 featured_articles:
-  - title: Tackle the biggest challenges and take advantage of the biggest opportunities facing The Very Group
+  title: Tackle the biggest challenges and take advantage of the biggest opportunities facing The Very Group
+  content:
+  - title: Enable and advance Very’s digital transformation with Dressipi attributes
     description: |
       With 1060 of the most detailed product attribute values,
       Dressipi doesn’t just know what good data means for Very - we
@@ -26,7 +28,7 @@ featured_articles:
     of Garment Data is Key'
     cta_text: READ THE BLOG >
     cta_link: /blog/driving-better-predictions-with-better-outfit-algorithms/
-    image: '/uploads/cust_feat_art_1.png'
+    image: '/uploads/very-fa-consensus.png'
 
   - title: 'Increase conversion on fashion products
   by offering credible recommendations'
@@ -45,7 +47,7 @@ featured_articles:
     for OVS'
     cta_text: READ THE FULL STORY >
     cta_link: /downloads/success-story-ovs/
-    image: '/uploads/cust_feat_art_2.png'
+    image: '/uploads/very-fa-jl.png'
 
   - title: 'Bring Very’s product data management up to date with the Dressipi hub'
     description: |
@@ -57,7 +59,7 @@ featured_articles:
     Data Insight Hub'
     cta_text: READ MORE >
     cta_link: /solutions/data-insight-hub/
-    image: '/uploads/cust_feat_art_3.png'
+    image: '/uploads/very-fa-bellstaff.png'
     
 featured_content:
   title: Featured Content
@@ -96,18 +98,9 @@ cta_title: Make every experience more relevant, more fashion-specific with Dress
 cta_link: /about/contact/
 cta_label: Contact Us
 ---
-<div class="container gutter">
-  {%- include customer/top_section.html -%}
-</div>
-<div class="container gutter">
-{%- include customer/cta.html -%}
-</div>
-<div class="container gutter">
+{%- include customer/top_section.html -%}
 {%- include customer/featured_articles.html -%}
-</div>
-<div class="container gutter">
 {%- include customer/featured_content.html -%}
-</div>
-<div class="container gutter">
+{%- include customer/quotes.html -%}
+{%- include customer/about.html -%}
 {%- include customer/cta_bottom.html -%}
-</div>
