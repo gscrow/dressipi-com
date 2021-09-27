@@ -10,15 +10,14 @@ description: |
   Group and Dressipi can ensure consistent and
   detailed underlying data to deliver a relevant
   and inspiring shopper journey.
-video: 'https://dressipi.com/media/very-dressipi.mov'
+video: 'https://dressipi.com/media/very-dressipi.mp4'
 
 exclude-hero: true
 
 featured_articles:
   title: Tackle the biggest challenges and take advantage of the biggest opportunities facing The Very Group
   content:
-  - title: Enable and advance Very’s digital transformation with Dressipi attributes
-    description: |
+  - title: Enable and advance Very’s digital transformation with Dressipi attributes    description: |
       With 1060 of the most detailed product attribute values,
       Dressipi doesn’t just know what good data means for Very - we
       can produce it. Our tagging is scalable and nearly 100% accurate,
