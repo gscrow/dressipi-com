@@ -1,8 +1,8 @@
 <section class="featured_articles">
-  <h2 class="container gutter">{{page.featured_articles.title}}</h2>
-  <div class="container gutter">
+  <h2 class="container gutter feature__title">{{page.featured_articles.title}}</h2>
   {%- for a in page.featured_articles.content -%}
   <div class="article_box">
+    <div class="article_box_inner">
     <div class="article_card">
       <img src="{{a.image}}" alt="article thumnails">
       <h4>{{a.article_title}}</h4>
@@ -13,6 +13,6 @@
       <p>{{a.description | markdownify }}</p>
     </div>
     </div>
-  {%- endfor -%}
-</div>
+     </div>
+    {%- endfor -%}
 </section>

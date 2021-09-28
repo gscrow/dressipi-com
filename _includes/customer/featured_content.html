@@ -2,8 +2,10 @@
 {%- assign fc = page.featured_content -%}
 <section class="featured_content">
   <div class="container gutter">
-  <h2 class="title">{{fc.title}}</h2>
+    <div class="section__heading">
+  <h2 class="feature__title">{{fc.title}}</h2>
   <p>{{fc.description}}</p>
+</div>
   <div class="content_box">
     {%- for c in fc.content -%}
       <div class="content_card">

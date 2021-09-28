@@ -33,32 +33,21 @@ featured_articles:
   - title: 'Increase conversion on fashion products
   by offering credible recommendations'
     description: |
-      *Dressipi recommendations are built on a combination of our
-      leading fashion-speciﬁc algorithms, and the human insight of our
-      expert stylists.*
       Our unmatched understanding of the fashion
       industry means we offer unbeatable outﬁt and garment
       recommendations tailored to the shopper, driving higher
       conversion, lower returns, and better, more loyal customers.
-    article_title: 'How Dressipi’s
-    personalised email
-    recommendations drive
-    €4m of incremental value
-    for OVS'
+    article_title: 'How John Lewis achieved a significant increase in revenue with outfit recommendations'
     cta_text: READ THE FULL STORY >
-    cta_link: /downloads/success-story-ovs/
+    cta_link: https://dressipi.com/downloads/success-story-john-lewis/
     image: '/uploads/very-fa-jl.png'
 
-  - title: 'Bring Very’s product data management up to date with the Dressipi hub'
+  - title: 'Turn a one-time purchase into a loyal Very customer with post-purchase emails'
     description: |
-      The Dressipi hub provides an automated and accessible way to
-      create, update, and manage all your product data, from attributes,
-      to garment type and category sales data, through to returns and
-      supply chain management.
-    article_title: 'Discover the Dressipi
-    Data Insight Hub'
+      Including the Dressipi module in your post-purchase emails allows you to inspire and engage your customers with outfits built around their new garment and personalised for them, driving up Very’s first- to second-purchase rate
+    article_title: 'Belstaff increased email revenue by 69% through personalised recommendations'
     cta_text: READ MORE >
-    cta_link: /solutions/data-insight-hub/
+    cta_link: https://dressipi.com/downloads/success-story-belstaff/
     image: '/uploads/very-fa-bellstaff.png'
     
 featured_content:
