@@ -20,7 +20,7 @@ Due to lockdowns and more discounted periods throughout 2020, Black Friday in 20
 * Whereas, in 2020, the same Black Friday period contributed an average of 7.8% of the annual revenue for a retailer, 13% less than the previous year. Revenue growth was only up 65% on the previous 2 weeks.
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads//uploads/BlackFriday1.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/BlackFriday1.JPG"/></p>
 <br>
 
 Due to lower promotional activity and the opening up of the economy, we anticipate 2021 to be in line with 2018 and 2019, with a revenue boost back up to 9% of overall sales.
@@ -32,7 +32,7 @@ With the increase in spontaneous purchases to not miss out on the best deals, th
 Pre-pandemic, we actually saw an average decrease in return rates of 11% over Black Friday and the rest of the Christmas period. This lower return rate could be due to gifting but also due to people purchasing products with a lower average return rate. Products purchased the most (see next section) included bags and boots which have return rates of 5.1% and 14.6% respectively, compared to dresses with an average of 44.7%. 
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads//uploads/BlackFriday2.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/BlackFriday2.JPG"/></p>
 <br>
 
 Read our recent [analysis on Return Rates](https://dressipi.com/blog/garment-return-rates-spike-to-above-pre-pandemic-levels/), where our analysts looked back at the fascinating data over COVID and the correlations between customer demand, purchasing behaviour and return rates.
@@ -48,7 +48,7 @@ Categories purchased by new and existing customers are typically different on a 
 What to Recommend to Visitors
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads//uploads/BlackFriday3.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/BlackFriday3.JPG"/></p>
 <br>
 
 ## Promotion Type for New and Returning Customers
