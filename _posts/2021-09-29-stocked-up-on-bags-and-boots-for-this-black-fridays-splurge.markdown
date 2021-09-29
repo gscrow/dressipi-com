@@ -59,10 +59,10 @@ To ensure a profitable relationship with these customers, new customer promotion
 
 ## Top Tips for a Successful Black Friday 
 
-**1) [Personalised Recommendations](https://dressipi.com/downloads/success-story-belstaff/):** In the lead up to Black Friday, push different categories to different customers depending on their preferences. Delve into your data, are your new customers also buying bags, coats and boots like the rest of the nation?
+<p style="padding-left: 50px;"> 1) [Personalised Recommendations](https://dressipi.com/downloads/success-story-belstaff/): In the lead up to Black Friday, push different categories to different customers depending on their preferences. Delve into your data, are your new customers also buying bags, coats and boots like the rest of the nation? </p>
 
-**2) [Smarter Discounting](https://dressipi.com/downloads/dressipi-optimise-sale-overstocked-products-webinar/):** Use your data to deliver smarter solutions for discounting rather than blanket sales and release maximum cash into your business. 
+2) [Smarter Discounting](https://dressipi.com/downloads/dressipi-optimise-sale-overstocked-products-webinar/): Use your data to deliver smarter solutions for discounting rather than blanket sales and release maximum cash into your business. 
 
-**3) [Post-Purchase Emails](https://dressipi.com/blog/post-purchase-emails-helping-customers-make-the-most-of-their-purchases/):** Turn those less valuable Black Friday visitors into loyal customers by making them come back and buy again. Increase that 1st to 2nd purchase % by sending those customers relevant communications, with the right product at the right time.
+3) [Post-Purchase Emails](https://dressipi.com/blog/post-purchase-emails-helping-customers-make-the-most-of-their-purchases/): Turn those less valuable Black Friday visitors into loyal customers by making them come back and buy again. Increase that 1st to 2nd purchase % by sending those customers relevant communications, with the right product at the right time.
 
 <p style="text-align:center"><a href="/contact/" class="button button-primary">FREE CONSULTATION</a></p>
