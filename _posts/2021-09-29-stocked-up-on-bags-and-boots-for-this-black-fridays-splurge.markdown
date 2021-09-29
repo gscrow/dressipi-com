@@ -36,6 +36,7 @@ Due to lockdowns and more discounted periods throughout 2020, Black Friday in 20
 * In 2018 & 2019, the 2 weeks over the Black Friday period contributed an average of 9% of the annual revenue for a retailer with a revenue growth of 85% and 81% respectively on the previous 2 weeks.
 * Whereas, in 2020, the same Black Friday period contributed an average of 7.8% of the annual revenue for a retailer, 13% less than the previous year. Revenue growth was only up 65% on the previous 2 weeks.
 <br>
+<br>
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 900px;" src ="/uploads/BlackFriday1.JPG"/></p>
 <br>
