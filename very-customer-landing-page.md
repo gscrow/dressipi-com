@@ -56,7 +56,7 @@ featured_content:
   content:
     - section: WHITEPAPER
       logo: /uploads/logo.svg
-      image: /uploads/cust_feat_cont_1.png
+      image: /uploads/very-feat-1-fc.jpg
       title: "Understanding Your
       Unique Return Rate
       Proﬁle"
@@ -65,7 +65,7 @@ featured_content:
 
     - section: WEBINAR
       logo: /uploads/logo.svg
-      image: /uploads/cust_feat_cont_2.png
+      image: /uploads/very-feat-2-fc.jpg
       title: "Adapt and Thrive:
       Unlocking the Value of
       Data in Retail"
@@ -73,15 +73,11 @@ featured_content:
       cta_link: /downloads/gated-value-of-data/
 
     - section: CASE STUDY
-      logo: /uploads/logo_john-lewis.svg
-      image: /uploads/John-Lewis.jpg
-      title: "How John Lewis
-      achieved a signiﬁcant
-      increase in revenue
-      with outﬁt
-      recommendations"
+      logo: /uploads/logo_ovs.svg
+      image: /uploads/ovs.jpg
+      title: "OVS improved revenue by 54% and delivered an additional €4m of incremental revenue increase"
       cta_text: READ THE FULL STORY >
-      cta_link: /downloads/success-story-john-lewis/
+      cta_link: /downloads/success-story-ovs/
 
 cta_title: Make every experience more relevant, more fashion-specific with Dressipi
 cta_link: /about/contact/
