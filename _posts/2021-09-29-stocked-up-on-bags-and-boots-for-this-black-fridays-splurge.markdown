@@ -1,6 +1,7 @@
 ---
 title: Stocked up on Bags & Boots for this Black Friday’s Splurge?
 date: 2021-09-29 13:21:00 Z
+image: "/uploads/BlackFridayBanner.jpg"
 author: Georgina Fisher
 button:
   Key: 
@@ -20,7 +21,7 @@ Due to lockdowns and more discounted periods throughout 2020, Black Friday in 20
 * Whereas, in 2020, the same Black Friday period contributed an average of 7.8% of the annual revenue for a retailer, 13% less than the previous year. Revenue growth was only up 65% on the previous 2 weeks.
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/BlackFriday1.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" src ="/uploads/BlackFriday1.JPG"/></p>
 <br>
 
 Due to lower promotional activity and the opening up of the economy, we anticipate 2021 to be in line with 2018 and 2019, with a revenue boost back up to 9% of overall sales.
@@ -30,6 +31,7 @@ Due to lower promotional activity and the opening up of the economy, we anticipa
 With the increase in spontaneous purchases to not miss out on the best deals, there could be a fear of increased return rates. However, this is not the case. 
 
 Pre-pandemic, we actually saw an average decrease in return rates of 11% over Black Friday and the rest of the Christmas period. This lower return rate could be due to gifting but also due to people purchasing products with a lower average return rate. Products purchased the most (see next section) included bags and boots which have return rates of 5.1% and 14.6% respectively, compared to dresses with an average of 44.7%. 
+<br>
 <br>
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/BlackFriday2.JPG"/></p>
@@ -47,8 +49,9 @@ Categories purchased by new and existing customers are typically different on a 
 * For returning customers, sales of jeans were up 432% vs normal sales behaviour. 
 What to Recommend to Visitors
 <br>
+<br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/BlackFriday3.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/BlackFriday3.JPG"/></p>
 <br>
 
 ## Promotion Type for New and Returning Customers
@@ -59,7 +62,7 @@ To ensure a profitable relationship with these customers, new customer promotion
 
 ## Top Tips for a Successful Black Friday 
 
-<p style="padding-left: 50px;"> 1) [Personalised Recommendations](https://dressipi.com/downloads/success-story-belstaff/): In the lead up to Black Friday, push different categories to different customers depending on their preferences. Delve into your data, are your new customers also buying bags, coats and boots like the rest of the nation? </p>
+1) [Personalised Recommendations](https://dressipi.com/downloads/success-story-belstaff/): In the lead up to Black Friday, push different categories to different customers depending on their preferences. Delve into your data, are your new customers also buying bags, coats and boots like the rest of the nation?
 
 2) [Smarter Discounting](https://dressipi.com/downloads/dressipi-optimise-sale-overstocked-products-webinar/): Use your data to deliver smarter solutions for discounting rather than blanket sales and release maximum cash into your business. 
 
