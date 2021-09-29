@@ -1,10 +1,26 @@
 ---
 title: Stocked up on Bags & Boots for this Black Friday’s Splurge?
 date: 2021-09-29 13:21:00 Z
+categories:
+- retail
+- data
+tags:
+- black friday
+- personalised recommendations
+- smarter discounting
+- post purchase email
+- black friday data
+- reduced returns
 image: "/uploads/BlackFridayBanner.jpg"
 author: Georgina Fisher
 button:
   Key: 
+description: 'To help you get ready for peak, we have analysed the Black Friday numbers
+  from the last 3 years, found out what your customers are buying and what promotions
+  you need to give to ensure profitable relationships with them. Plus, our top tips
+  to make the period as successful as possible
+
+'
 ---
 
 ### The economy has opened up and we are expecting a bumper Black Friday in line with 2018 and 2019 - and a bonus for your return rates, customers buying categories with lower return rates is one of the reasons why Black Friday works so well! 
