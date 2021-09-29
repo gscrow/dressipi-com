@@ -1,5 +1,6 @@
 ---
 layout: default
+sitemap: false
 type: customer
 title: | 
   Lay the foundations to deliver
@@ -81,7 +82,7 @@ featured_content:
 
 cta_title: Make every experience more relevant, more fashion-specific with Dressipi
 cta_link: /about/contact/
-cta_label: Contact Us
+cta_label: Contact Us >
 ---
 {%- include customer/top_section.html -%}
 {%- include customer/featured_articles.html -%}
