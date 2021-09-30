@@ -18,8 +18,8 @@ featured_articles:
       attributes
     description: "With 1060 of the most detailed garment attribute values,\nDressipi
       doesn’t just know what good fashion data means for Very - we\ncan produce it.
-      Our tagging is scalable and \nnearly 100% accurate, which means higher quantity
-      and quality customer insight.\n"
+      Our product tagging is scalable \nand nearly 100% accurate, which means higher
+      quantity and quality customer insight.\n"
     article_title: 'Personalised Outﬁts: Accuracy & Speciﬁcity of Garment Data is
       Key'
     cta_text: READ THE BLOG >
