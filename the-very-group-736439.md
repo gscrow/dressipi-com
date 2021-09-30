@@ -40,7 +40,7 @@ featured_articles:
       emails
     description: 'Including the Dressipi outfit module in your post-purchase emails
       allows you to inspire and engage your customers with outfits built around their
-      new garment and personalised for them, driving up Very’s first- to second-purchase
+      new garment and personalised for them, driving up Very’s first-to-second purchase
       rate
 
 '
