@@ -59,7 +59,9 @@
         </div>
         {% endif %}
         {% unless my_page_url == '' %}
+        {% if page.type != 'customer' %}
         <h1 class="header__title">{{ page.header.title | default: page.title }}</h1>
+        {% endif %}
         {% endunless %}
         {% if my_page_url == '' %}
         <a href="{{ page.header.button.url }}" >

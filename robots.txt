@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /very-customer-landing-page/
+Sitemap: https://dressipi.com/sitemap.xml
