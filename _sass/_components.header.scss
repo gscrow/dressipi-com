@@ -362,7 +362,7 @@ $header-height--mobile: 67px; // 1px border
         }
       }
 
-      &-dropdown__trigger {
+      &-dropdown__trigger,  &no-dropdown__trigger  {
         display: none;
       }
 
