@@ -80,7 +80,7 @@ sections:
     who want to be part of our fantastic team </p>'
   button:
     copy: CAREERS >
-    url: "/about/careers/"
+    url: "/company/careers/"
 layout: about
 ---
 

@@ -9,6 +9,15 @@
           <ul class="navigation_items">
             {% assign header_links = site.pages | where: 'navigation', 'header' | sort: 'position' %}
             {% for link in header_links %}
+            {% if link.has-menu == false %}
+            <li class="navigation__item navigation-dropdown">
+              <a href="{{ link.url }}" class="navigation__link">
+                <span class="navigation-no-dropdown__trigger">{{ link.title }}</span>
+              </a>
+            </li>
+            {% endif %}
+
+            
               {% if link.has-menu %}
                 <li class="navigation__item navigation-dropdown">
                   <span class="navigation-dropdown__trigger {% if page.url contains link.url %}navigation-dropdown__trigger--active{% endif %}">{{ link.title }}</span>
@@ -18,10 +27,10 @@
                   {% if link.title == 'Resources' %}
                   {% include partials/navigation.html context='/resources/' %}
                   {% endif %}
-                  {% if link.title == 'About' %}
+                  {% if link.title == 'Company' %}
                   {% include partials/navigation.html context='/about/' %}
                   {% endif %}
-                  {% if link.title == 'Clients' %}
+                  {% if link.title == 'Customers' %}
                   {% include partials/navigation.html context='/clients/' %}
                   {% endif %}
                 </li>
