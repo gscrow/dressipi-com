@@ -14,18 +14,18 @@ featured_articles:
   title: Tackle the biggest challenges and take advantage of the biggest opportunities
     facing The Very Group
   content:
-  - title: Enable and advance Very’s digital transformation with Dressipi attributes
-    description: |
-      With 1060 of the most detailed product attribute values,
-      Dressipi doesn’t just know what good data means for Very - we
-      can produce it. Our tagging is scalable and nearly 100% accurate,
-      which means higher quantity and quality customer insight.
+  - title: Enable and advance Very’s digital transformation with Dressipi's fashion
+      attributes
+    description: "With 1060 of the most detailed garment attribute values,\nDressipi
+      doesn’t just know what good fashion data means for Very - we\ncan produce it.
+      Our tagging is scalable and \nnearly 100% accurate, which means higher quantity
+      and quality customer insight.\n"
     article_title: 'Personalised Outﬁts: Accuracy & Speciﬁcity of Garment Data is
       Key'
     cta_text: READ THE BLOG >
     cta_link: "/blog/driving-better-predictions-with-better-outfit-algorithms/"
     image: "/uploads/very-fa-consensus.png"
-  - title: Increase conversion on fashion products by offering credible fashion recommendations
+  - title: Increase conversion on garments by offering credible fashion recommendations
     description: |
       Our unmatched understanding of the fashion
       industry means we offer unbeatable outﬁt and garment
@@ -36,11 +36,11 @@ featured_articles:
     cta_text: READ THE FULL STORY >
     cta_link: https://dressipi.com/downloads/success-story-john-lewis/
     image: "/uploads/very-fa-jl.png"
-  - title: Turn a one-time purchase into a loyal Very customer with post-purchase
+  - title: Turn a one-time purchase into a loyal Very fashion customer with post-purchase
       emails
-    description: 'Including the Dressipi module in your post-purchase emails allows
-      you to inspire and engage your customers with outfits built around their new
-      garment and personalised for them, driving up Very’s first- to second-purchase
+    description: 'Including the Dressipi outfit module in your post-purchase emails
+      allows you to inspire and engage your customers with outfits built around their
+      new garment and personalised for them, driving up Very’s first- to second-purchase
       rate
 
 '
