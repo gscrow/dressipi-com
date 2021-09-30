@@ -3,9 +3,9 @@ title: |-
   Lay the foundations to deliver
   breakthrough fashion-speciﬁc
   experiences.
-description: "Discover how a partnership between The Very\nGroup and Dressipi can
-  ensure consistent, detailed \nand fashion-specific data to deliver a relevant\nand
-  inspiring shopper journey.\n"
+description: "Discover how a partnership between The Very\nGroup and fashion-AI experts
+  Dressipi can ensure \nconsistent, detailed and fashion-specific data to \ndeliver
+  a relevant and inspiring shopper journey.\n"
 sitemap: false
 type: customer
 video: https://dressipi.com/media/very-dressipi.mp4
