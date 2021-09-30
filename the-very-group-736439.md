@@ -1,16 +1,13 @@
 ---
-title: |
+title: |-
   Lay the foundations to deliver
   breakthrough fashion-speciﬁc
   experiences.
-layout: default
+description: "Discover how a partnership between The Very\nGroup and Dressipi can
+  ensure consistent, detailed \nand fashion-specific data to deliver a relevant\nand
+  inspiring shopper journey.\n"
 sitemap: false
 type: customer
-description: |
-  Discover how a partnership between The Very
-  Group and Dressipi can ensure consistent and
-  detailed underlying data to deliver a relevant
-  and inspiring shopper journey.
 video: https://dressipi.com/media/very-dressipi.mp4
 exclude-hero: true
 featured_articles:
@@ -28,7 +25,7 @@ featured_articles:
     cta_text: READ THE BLOG >
     cta_link: "/blog/driving-better-predictions-with-better-outfit-algorithms/"
     image: "/uploads/very-fa-consensus.png"
-  - title: Increase conversion on fashion products by offering credible recommendations
+  - title: Increase conversion on fashion products by offering credible fashion recommendations
     description: |
       Our unmatched understanding of the fashion
       industry means we offer unbeatable outﬁt and garment
@@ -78,6 +75,7 @@ featured_content:
 cta_title: Make every experience more relevant, more fashion-specific with Dressipi
 cta_link: "/about/contact/"
 cta_label: Contact Us >
+layout: default
 ---
 
 {%- include customer/top_section.html -%}
