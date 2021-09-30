@@ -1,5 +1,5 @@
 ---
-title: Data Insight Hub
+title: Product Forecasting
 position: 3
 navigation: solution-footer
 header:
@@ -15,10 +15,15 @@ description: Move from traditional spreadsheets to real-time, deeper insights ab
   and drive profitability.
 class: data-insight
 sections:
+- title: Trade as Effectively as Possible
+  handle: video
+  subtitle: The Dressipi platform [LINK] will move you from traditional spreadsheet limitations to real-time, deeper insights about customers, transactions, returns and operations, without any coding or IT intervention.
+  video-url: https://dressipi.com/media/data-insight-hub-video.mp4
 - title: 
   handle: features
   subsections:
   - title: Daily Trading Insight
+    color: lighter
     subtitle: Easily visualise your data to spot quick wins and trade as effectively
       as possible
     body: Identify what % of garments are driving what % of revenue and fragmentation
@@ -44,6 +49,7 @@ sections:
       copy: Returns Analysis >
       url: "/downloads/understanding-your-unique-return-rate-profile-whitepaper/"
   - title: Smarter Overstock Strategy
+    color: lighter
     subtitle: Optimise when, how and who you discount to
     body: |
       Get rid of blanket sales and maximise your sell-through to protect margins.
@@ -64,6 +70,26 @@ sections:
     action:
       copy: Stock Predictions >
       url: "/contact/"
+- title: Increase Sell-Through. Reduce Discounting. Drive Profitability.
+  paragraph-narrow: true
+  color: lighter
+  subtitle: We help out clients easily visualise data and spot quick wins to ensure they are always trading as effectively as possible and delivering on their key KPI’s.
+  handle: revenue
+  subsections:
+  - title:
+    number-left: 5
+    value-left: "%"
+    number-left-description: gross margin impact
+    number-center: 2
+    value-center: "%"
+    number-center-description: contributed profit
+    number-right: 3
+    value-right: "%"
+    number-right-description: returns reduction
+    action:
+      copy: Case Studies >
+      url: "/solutions/overview/"
+      style: primary
 - roi-title: Dressipi Makes it Easy to Get Started & Deliver ROI
   handle: benefits
   is-centered: true

@@ -1,10 +1,6 @@
 .feature {
   padding: rhythm(11) 0 rhythm(12);
 
-  &:first-child {
-    padding-top: 0;
-  }
-
   > .container {
     @include flexbox;
   }
@@ -53,14 +49,14 @@
     border-bottom: 1px solid $section-border-color;
     background: $section-background-color;
   }
+}
 
-  &:first-child {
-    border-top: 0;
-  }
+.feature.background--white {
+  background-color: $background--white;
+}
 
-  &:last-child {
-    border-bottom: 0;
-  }
+.feature.background--lighter {
+  background-color: $background--lighter;
 }
 
 .index {
@@ -134,6 +130,10 @@
     &__title {
       font-size: 29px;
       line-height: 27px;
+    }
+
+    &__mini-title {
+      font-size: 16px;
     }
   }
 

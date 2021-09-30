@@ -28,6 +28,7 @@
   justify-content: center;
   margin-top: 50px;
 }
+
 .benefits {
   display: flex;
 }
@@ -124,6 +125,11 @@
   &__title {
     font-size: ms(1);
     line-height: ms(4);
+  }
+
+  .erb-link {
+    text-decoration: underline;
+    color: $link-color;
   }
 }
 

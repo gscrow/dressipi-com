@@ -1,5 +1,5 @@
 ---
-title: Personalisation
+title: Product Experience
 position: 2
 navigation: solution-footer
 header:
@@ -16,11 +16,16 @@ description: Dressipi powers highly personalised fashion-specific customer exper
 class: personalisation
 has-contact-section: false
 sections:
+- title: The Right Product, in the Right Size, at the Right Time
+  handle: video
+  subtitle: Updated in real time, the Dressipi platform [LINK] delivers relevant products & inspiration online, in-store, in-app, email and through new journeys of the future (VR & AR). 
+  video-url: https://dressipi.com/media/data-insight-hub-video.mp4
 - title: 
   handle: features
   subsections:
   - title: Personalised Products, Outfits & Sizing
     subtitle: Match each customer’s style preferences to your entire product offering
+    color: lighter
     body: "Whether looking for inspiration or something specific, give every customer
       a personalised shopping experience by showing their best products in their size.
       \n"
@@ -34,6 +39,7 @@ sections:
     hres-image: "/uploads/section_touchpoints@2x.png"
   - title: Updated in Real-Time
     subtitle: Based on in-session customer behaviour and changes in product availability
+    color: lighter
     body: Our algorithms ensure your customer experiences are up to date, in line
       with their needs, and take stock and size availability into account.
     image: "/uploads/section_real-time.png"
@@ -47,13 +53,33 @@ sections:
     hres-image: "/uploads/section_insights@2x.png"
   - title: Go a Step Further
     subtitle: A personal shopping space
+    color: lighter
     body: Provide the ultimate shopping experience by allowing customers to create
       a richer style profile to access their wardrobe, set preferences, create wishlists,
       set missions and see personalised editorially themed style feeds.
     image: "/uploads/section_profile.png"
     hres-image: "/uploads/section_profile@2x.png"
+- title: Personalised Outfits Always Outperform.
+  paragraph-narrow: true
+  subtitle: We help our clients deliver on their key KPI’s and work closely alongside them to ensure their Brand DNA is understood and captured in our algorithms.
+  handle: revenue
+  subsections:
+  - title:
+    number-left: 12
+    value-left: "%"
+    number-left-description: more revenue
+    number-center: 10
+    value-center: "%"
+    number-center-description: more profit
+    number-right: 5
+    value-right: "%"
+    number-right-description: retention
+    action:
+      copy: Case Studies >
+      url: "/solutions/overview/"
+      style: primary
 - roi-title: Dressipi Makes it Easy to Get Started & Deliver ROI
-  colour: white
+  color: white
   handle: benefits
   is-centered: true
   roi-section: true

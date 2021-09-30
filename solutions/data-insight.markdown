@@ -1,5 +1,5 @@
 ---
-title: Data Insight
-redirect_to: "/solutions/data-insight-hub/"
+title: Product Forecasting
+redirect_to: "/solutions/product-forecasting/"
 ---
 
