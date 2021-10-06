@@ -15,4 +15,8 @@
     </div>
      </div>
     {%- endfor -%}
+    {%- if page.featured_articles.postscriptum -%}
+      <h2 class="container gutter feature__title">{{page.featured_articles.postscriptum.title}}</h2>
+      <h3 class="container gutter feature__subtitle" style="margin-bottom: 40px;text-align: center">{{page.featured_articles.postscriptum.text}}</h3>
+    {%- endif -%}
 </section>
