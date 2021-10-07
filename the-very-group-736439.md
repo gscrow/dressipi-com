@@ -8,6 +8,9 @@ description: "Discover how a partnership between The Very\nGroup and fashion-AI 
   a relevant and inspiring shopper journey.\n"
 sitemap: false
 type: customer
+hero:
+  logo: /uploads/logo_very_group.png
+  alt: Very Group
 video: https://dressipi.com/media/very-dressipi.mp4
 exclude-hero: true
 featured_articles:
@@ -72,6 +75,49 @@ featured_content:
       revenue increase
     cta_text: READ THE FULL STORY >
     cta_link: "/downloads/success-story-ovs/"
+
+section_about:
+  title: About Dressipi
+  content: |
+    We are the fashion-AI experts, helping fashion retailers deliver the relevant products & inspiration their customers deserve, across every part of the shopper journey.
+
+
+    Dressipi has spent years delivering fashion-speciﬁc algorithms, drawing on the expertise of some of the industry’s top stylists and experts.
+
+
+    Dressipi owns the most extensive dataset of garment attributes and fashion-speciﬁc customer preferences. 
+  
+  
+    Our ability to ingest, cleanse, and augment huge quantities of data from various sources, in real-time, is at the heart of our platform.
+
+
+    For more information, please visit [dressipi.com](/).
+  team_title: Meet your Dressipi Team
+  team_members: 
+  - Sarah McVittie
+  - Fred Cheung
+  - Natalie Theo
+  - James Tuck
+  contact_title: Make every experience more relevant, more fashion-specific with Dressipi
+  contact_label: Contact Us
+
+quotes_cta_title: Explore our Case Studies >
+quotes_cta_link: https://dressipi.com/clients/success-stories/
+
+quotes:
+- author: Insights & CRM Director, LK Bennett
+  quote: |
+    "Being able to use and drive things out   from proven product attributes and linking them to customers enables you to understand what might work outside of their core categories."
+- author: Digital Transformation Manager, OVS
+  quote: |
+     “The Dressipi team is forensically detailed and our results just get better and better.”
+- author: Online Trading Manager, Wallis
+  quote: |
+    "Dressipi breaks data down further than I ever could – it’s the next level detail which makes it different. It really makes my life easier."
+
+  cta_title: Explore our Case Studies >
+  cta_link: https://dressipi.com/clients/success-stories/
+
 cta_title: Make every experience more relevant, more fashion-specific with Dressipi
 cta_link: "/about/contact/"
 cta_label: Contact Us >
