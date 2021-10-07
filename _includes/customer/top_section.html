@@ -1,7 +1,7 @@
 <section class="hero">
 <div class="container gutter">
   <div class="header_box">
-    <img src="/uploads/logo_very_group.png" alt="very group">
+    <img src="{{page.hero.logo}}" alt="{{page.hero.alt}}">
     <span>in partnership with</span>
     <img src="/uploads/logo.svg" alt="logo">
   </div>
@@ -11,8 +11,8 @@
     <p>{{page.description}}</p>
   </div>
   <div class="video_box">
-    <video controls width="560">
-      <source src="{{page.video}}">
+    <video controls width="550" {% if page.video_mask %}poster="{{ page.video_mask }}"{% endif %}>
+      <source src="{{page.video}}" type="video/mp4">
       Sorry, your browser doesn't support embedded videos.
   </video>
   </div>
