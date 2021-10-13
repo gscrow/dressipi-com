@@ -23,11 +23,11 @@ featured_articles:
       doesn’t just know what good fashion data means for Very - we\ncan produce it.
       Our product tagging is scalable \nand nearly 100% accurate, which means higher
       quantity and quality customer insight.\n"
-    article_title: 'Personalised Outﬁts: Accuracy & Speciﬁcity of Garment Data is
-      Key'
+    article_title: 'Fashion-specific product attributes: The foundation for digital
+      transformation'
     cta_text: READ THE BLOG >
-    cta_link: "/blog/driving-better-predictions-with-better-outfit-algorithms/"
-    image: "/uploads/very-fa-consensus.png"
+    cta_link: https://drive.google.com/file/d/1qtmqasf-3kcRuyG1IZ289hO4OR6WE5gN/view
+    image: "/uploads/Very_Attributes.JPG"
   - title: Increase conversion on garments by offering credible fashion recommendations
     description: |
       Our unmatched understanding of the fashion
