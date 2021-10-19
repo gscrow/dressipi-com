@@ -56,7 +56,7 @@ featured_content:
     for Nobody's Child
   content:
   - section: CASE STUDY
-    logo: "/uploads/logo_river-island.svg"
+    logo: "/uploads/RI_logo_new.png"
     image: "/uploads/RI_square.jpg"
     title: River Island increased their revenue by 6% in 12 months
     cta_text: READ THE FULL STORY >
