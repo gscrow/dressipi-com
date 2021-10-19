@@ -1,13 +1,13 @@
 ---
-title: "Deliver 6.2% growth and \nbreakthrough fashion-specific\nexperiences."
+title: "Lay the foundations to deliver \nbreakthrough fashion-specific\nshopping experiences."
 position: 0
-description: "Outfits are only the start. Discover how a Boden-Dressipi \npartnership
-  can give highly personalised shopping journeys \nfor every visitor; and more forecastable
-  product and \nassortment requirements for every buyer.\n"
+description: "Discover how a partnership between Nobody’s Child \nand Dressipi can
+  deliver highly personalised \nshopping journeys for every visitor, \nbuilding loyalty
+  and retention.\n\n"
 sitemap: false
 type: customer
 hero:
-  logo: "/uploads/logo__boden.png"
+  logo: "/uploads/NobodysChild_Logo.png"
   alt: Boden
 video: "/uploads/Boden_LP_Video_NEW.mp4"
 video_mask: "/uploads/Boden_LP_Video_NEW.jpg"
