@@ -1,7 +1,7 @@
 ---
 title: Personalised Outfits
 date: 2021-05-16 09:50:00 Z
-position: 1
+position: 8
 navigation: header
 header:
   title: Personalised Outfits<br>Powered by AI

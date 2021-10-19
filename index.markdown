@@ -1,6 +1,6 @@
 ---
 title: Driving Profitable Growth For Fashion Retailers
-position: 0
+position: 1
 header:
   button:
     url: "/contact"

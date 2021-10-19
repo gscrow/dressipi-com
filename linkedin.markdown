@@ -1,7 +1,7 @@
 ---
 title: LinkedIn
 date: 2017-06-06 10:17:00 Z
-position: 17
+position: 22
 navigation: meta
 class: linkedin
 type: social

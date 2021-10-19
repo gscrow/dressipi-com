@@ -2,7 +2,7 @@
 title: Contact
 date: 2017-05-06 09:50:00 Z
 permalink: "/contact/"
-position: 5
+position: 14
 navigation: header
 header:
   height: tight

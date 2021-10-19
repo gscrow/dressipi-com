@@ -1,7 +1,7 @@
 ---
 title: Success Stories
 permalink: "/clients/success-stories/"
-position: 1
+position: 7
 navigation: clients-footer
 header:
   title: How River Island increased their revenue by 6% in 12 months with Dressipi’s

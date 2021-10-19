@@ -1,7 +1,7 @@
 ---
 title: Terms of Service
 date: 2017-05-06 10:17:00 Z
-position: 13
+position: 17
 navigation: meta
 header:
   width: extend
