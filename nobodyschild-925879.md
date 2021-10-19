@@ -10,7 +10,7 @@ hero:
   logo: "/uploads/NobodysChild_Logo.png"
   alt: Nobody's Child
 video: "/uploads/Nobody's%20Child%20LP%20Video.mp4"
-video_mask: "/uploads/Nobody's%20Child%20LP%20Video_Moment.jpg"
+video_mask: "/uploads/NobodysChildLPVideo_Moment.JPG"
 exclude-hero: true
 featured_articles:
   title: Tackle the biggest challenges and take advantage of the biggest opportunities
