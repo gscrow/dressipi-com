@@ -94,19 +94,18 @@ section_about:
 quotes_cta_title: Explore our Case Studies >
 quotes_cta_link: https://dressipi.com/clients/success-stories/
 quotes:
-- author: Rob Hitchman, Digital Product Owner, John Lewis
-  quote: "“Working with Dressipi has really helped us look at different ways in how
-    we can support our customers on the site and the different tactics that we can
-    deploy to meet their needs. \n"
-- author: Simon Konn, Director of Insights & CRM, River Island
-  quote: "“Being able to use and drive things out from proven product attributes and
-    linking them to customers enables you to understand what might work outside of
-    their core categories.”\n"
-- author: Sally Hunter, Digital Insight Analyst, LK Bennett
-  quote: "“The category tracking for products is helpful as our business categories
-    are not built in to all our systems, so out of the box groups allow us to segment
-    our catalogue into the categories and subcategories that customer’s shop online,
-    for example, ‘Dresses’ & ‘Fit & Flare’.”"
+- author: Digital Insight Analyst, LK Bennett
+  quote: "“Dressipi’s Data Insight Hub provides the team with actionable insights
+    and allows us to get on with the important parts without having to worry about
+    trusting the data quality or reports as they are managed by Dressipi.”"
+- author: Director of Ecommerce, Luxury Retailer (£15m revenue)
+  quote: "“We wanted a partner that went the extra mile, truly understood the fashion
+    domain and would work with us to innovate and create unique experiences that were
+    in line with our brand DNA.”"
+- author: Head of Ecommerce, Belstaff
+  quote: "“We are thrilled to be working with Dressipi. Now we can offer the shopping
+    experiences that customers are demanding whilst maintaining the integrity of our
+    brand identity.”"
 cta_title: Make every experience more relevant, more fashion-specific with Dressipi
 cta_link: "/about/contact/"
 cta_label: Contact Us >
