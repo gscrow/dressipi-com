@@ -86,7 +86,7 @@ section_about:
   team_title: Meet your Dressipi Team
   team_members:
   - Sarah McVittie
-  - Frederick Cheung
+  - Fred Cheung
   - Sean Norris
   - James Tuck
   contact_title: Make every experience more relevant, more fashion-specific with Dressipi
