@@ -8,73 +8,71 @@ sitemap: false
 type: customer
 hero:
   logo: "/uploads/NobodysChild_Logo.png"
-  alt: Boden
+  alt: Nobody's Child
 video: "/uploads/Boden_LP_Video_NEW.mp4"
 video_mask: "/uploads/Boden_LP_Video_NEW.jpg"
 exclude-hero: true
 featured_articles:
-  title: Dressipi is the right partner to maximise Bodens growth opportunities
+  title: Tackle the biggest challenges and take advantage of the biggest opportunities
+    facing Nobody’s Child
   content:
-  - title: "£35.8m incremental revenue for Boden by personalising the entire experience"
-    description: Dressipi’s algorithms go beyond outfits and create exponential value
-      by personalising each step of the journey, from home to PLPs to similar items
-      and more. Crucially, only showing products if they are available in the customer's
-      size - a key cornerstone of personalisation.
-    article_title: River Island increased their revenue by 6% in 12 months with Dressipi's
-      fashion-focused approach to personalisation
+  - title: Increase conversion and AOV by offering personalised outfit recommendations
+    description: Our unmatched understanding of the fashion industry means we offer
+      unbeatable outfit recommendations tailored to the shopper, driving higher conversion,
+      lower returns, and better, more loyal customers. Outfits are completely automated,
+      completely personalised and always on-brand.
+    article_title: How John Lewis achieved a significant increase in revenue with
+      outfit recommendations
     cta_text: READ THE FULL STORY >
-    cta_link: https://dressipi.com/downloads/success-story-river-island/
-    image: "/uploads/Boden_RI-24be63.JPG"
-  - title: "£12.2m incremental revenue by delivering outfits throughout the journey"
-    description: "47% higher click-through rate on Dressipi outfits will translate
-      to stronger results in emails - including post-purchase emails showing customers
-      how to wear their newly bought item (displayed by occasion to show versatility,
-      based on preferences and activity, and can include items they already own).\n\nWith
-      Dressipi, Boden outfits can be completely automated, completely personalised
-      and always on-brand. \n"
+    cta_link: https://dressipi.com/downloads/success-story-john-lewis/
+    image: "/uploads/JL_rectangle.png"
+  - title: Turn a one-time purchase into a loyal Nobody’s Child customer with post-purchase
+      emails
+    description: Personalised post-purchase emails increase lifetime value and retention
+      by showing customers how to wear their newly bought item (displayed by occasion
+      to show versatility, based on preferences and activity, and can include items
+      they already own).
     article_title: Belstaff increased email revenue by 69% through personalised recommendations
     cta_text: READ THE FULL STORY >
     cta_link: https://dressipi.com/downloads/success-story-belstaff/
-    image: "/uploads/boden_belstaff.png"
-  - title: "£12.9m immediate incremental revenue with Dressipi’s fashion-specific
-      attributes"
-    description: 'Improve Boden’s scope and deliverability of services with deeper
-      attributes driving different value in key retail areas from assortment forecasting
-      to onsite and offsite search and navigation.
-
-'
-    article_title: 'Fashion-specific product attributes: The foundation for digital
-      transformation'
-    cta_text: READ THE BLOG >
-    cta_link: https://drive.google.com/file/d/1qtmqasf-3kcRuyG1IZ289hO4OR6WE5gN/view
-    image: "/uploads/Boden_Attributes.JPG"
+    image: "/uploads/belstaff_rectangle.png"
+  - title: 'Help all visitors find their best products faster by personalising the
+      entire customer experience '
+    description: Dressipi’s algorithms go beyond outfits and create exponential value
+      by personalising each step of the journey, from home to PLPs to similar items
+      and more. Crucially, only show products if they are available in the customer's
+      size - a key cornerstone of personalisation.
+    article_title: A Luxury Retailer achieved 25% returns reduction and 11% conversion
+      increase
+    cta_text: READ THE FULL STORY >
+    cta_link: https://dressipi.com/downloads/success-story-luxury-retailer/
+    image: "/uploads/Luxury_rectangle.jpg"
   postscriptum:
-    title: 'Estimated growth by the end of the quarter: £5.8m'
-    text: Now that we're integrated, additional growth is only weeks away.
+    title: "£1.92m Incremental Revenue"
+    text: Delivered to Nobody's Child over the next 12 months
 featured_content:
   title: Featured Content
   description: We’ve hand-picked the following content that we think will be relevant
-    for Boden
+    for Nobody's Child
   content:
+  - section: CASE STUDY
+    logo: "/uploads/logo_river-island.svg"
+    image: "/uploads/RI_square.jpg"
+    title: River Island increased their revenue by 6% in 12 months
+    cta_text: READ THE FULL STORY >
+    cta_link: https://dressipi.com/downloads/success-story-river-island/
   - section: WHITEPAPER
     logo: "/uploads/logo.svg"
     image: "/uploads/very-feat-1-fc.jpg"
-    title: Understanding Your Unique Return Rate Proﬁle
+    title: Understanding Your Unique Return Rate Profile
     cta_text: GET THE GUIDE >
-    cta_link: "/downloads/understanding-your-unique-return-rate-profile-whitepaper/"
-  - section: CASE STUDY
-    logo: "/uploads/boden_JLlogo.png"
-    image: "/uploads/Boden_JLsquare.jpg"
-    title: John Lewis achieved a significant increase in revenue with outfit recommendations
-    cta_text: READ THE FULL STORY >
-    cta_link: "/downloads/success-story-john-lewis/"
-  - section: WEBINAR
+    cta_link: https://dressipi.com/downloads/understanding-your-unique-return-rate-profile-whitepaper/
+  - section: BLOG
     logo: "/uploads/logo.svg"
-    image: "/uploads/boden_be.png"
-    title: How to optimise the sale of overstocked products and release maximum cash
-      into your business
-    cta_text: DOWNLOAD WEBINAR >
-    cta_link: "/downloads/dressipi-optimise-sale-overstocked-products-webinar/"
+    image: "/uploads/attributes_square.png"
+    title: 'Fashion-specific product attributes: The foundation for digital transformation'
+    cta_text: READ THE BLOG >
+    cta_link: https://drive.google.com/file/d/1qtmqasf-3kcRuyG1IZ289hO4OR6WE5gN/view
 section_about:
   title: About Dressipi
   content: "We are the fashion-AI experts, helping fashion retailers deliver the relevant
@@ -87,9 +85,9 @@ section_about:
     more information, please visit [dressipi.com](/).\n"
   team_title: Meet your Dressipi Team
   team_members:
-  - Donna North
-  - Fred Cheung
-  - Natalie Theo
+  - Sarah McVittie
+  - Frederick Cheung
+  - Sean Norris
   - James Tuck
   contact_title: Make every experience more relevant, more fashion-specific with Dressipi
   contact_label: Contact Us
