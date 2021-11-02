@@ -1,0 +1,123 @@
+---
+title: "Deliver 6.2% growth and \nbreakthrough fashion-specific\nexperiences."
+position: 0
+description: "Outfits are only the start. Discover how a Boden-Dressipi \npartnership
+  can give highly personalised shopping journeys \nfor every visitor; and more forecastable
+  product and \nassortment requirements for every buyer.\n"
+sitemap: false
+type: customer
+hero:
+  logo: "/uploads/logo__boden.png"
+  alt: Boden
+video: "/uploads/Boden_LP_Video_NEW.mp4"
+video_mask: "/uploads/Boden_LP_Video_NEW.jpg"
+exclude-hero: true
+featured_articles:
+  title: Dressipi is the right partner to maximise Bodens growth opportunities
+  content:
+  - title: "£35.8m incremental revenue for Boden by personalising the entire experience"
+    description: Dressipi’s algorithms go beyond outfits and create exponential value
+      by personalising each step of the journey, from home to PLPs to similar items
+      and more. Crucially, only showing products if they are available in the customer's
+      size - a key cornerstone of personalisation.
+    article_title: River Island increased their revenue by 6% in 12 months with Dressipi's
+      fashion-focused approach to personalisation
+    cta_text: READ THE FULL STORY >
+    cta_link: https://dressipi.com/downloads/success-story-river-island/
+    image: "/uploads/Boden_RI-24be63.JPG"
+  - title: "£12.2m incremental revenue by delivering outfits throughout the journey"
+    description: "47% higher click-through rate on Dressipi outfits will translate
+      to stronger results in emails - including post-purchase emails showing customers
+      how to wear their newly bought item (displayed by occasion to show versatility,
+      based on preferences and activity, and can include items they already own).\n\nWith
+      Dressipi, Boden outfits can be completely automated, completely personalised
+      and always on-brand. \n"
+    article_title: Belstaff increased email revenue by 69% through personalised recommendations
+    cta_text: READ THE FULL STORY >
+    cta_link: https://dressipi.com/downloads/success-story-belstaff/
+    image: "/uploads/boden_belstaff.png"
+  - title: "£12.9m immediate incremental revenue with Dressipi’s fashion-specific
+      attributes"
+    description: 'Improve Boden’s scope and deliverability of services with deeper
+      attributes driving different value in key retail areas from assortment forecasting
+      to onsite and offsite search and navigation.
+
+'
+    article_title: 'Fashion-specific product attributes: The foundation for digital
+      transformation'
+    cta_text: READ THE BLOG >
+    cta_link: https://drive.google.com/file/d/1qtmqasf-3kcRuyG1IZ289hO4OR6WE5gN/view
+    image: "/uploads/Boden_Attributes.JPG"
+  postscriptum:
+    title: 'Estimated growth by the end of the quarter: £5.8m'
+    text: Now that we're integrated, additional growth is only weeks away.
+featured_content:
+  title: Featured Content
+  description: We’ve hand-picked the following content that we think will be relevant
+    for Boden
+  content:
+  - section: WHITEPAPER
+    logo: "/uploads/logo.svg"
+    image: "/uploads/very-feat-1-fc.jpg"
+    title: Understanding Your Unique Return Rate Proﬁle
+    cta_text: GET THE GUIDE >
+    cta_link: "/downloads/understanding-your-unique-return-rate-profile-whitepaper/"
+  - section: CASE STUDY
+    logo: "/uploads/boden_JLlogo.png"
+    image: "/uploads/Boden_JLsquare.jpg"
+    title: John Lewis achieved a significant increase in revenue with outfit recommendations
+    cta_text: READ THE FULL STORY >
+    cta_link: "/downloads/success-story-john-lewis/"
+  - section: WEBINAR
+    logo: "/uploads/logo.svg"
+    image: "/uploads/boden_be.png"
+    title: How to optimise the sale of overstocked products and release maximum cash
+      into your business
+    cta_text: DOWNLOAD WEBINAR >
+    cta_link: "/downloads/dressipi-optimise-sale-overstocked-products-webinar/"
+section_about:
+  title: About Dressipi
+  content: "We are the fashion-AI experts, helping fashion retailers deliver the relevant
+    products & inspiration their customers deserve, across every part of the shopper
+    journey.\n\n\nDressipi has spent years delivering fashion-speciﬁc algorithms,
+    drawing on the expertise of some of the industry’s top stylists and experts.\n\n\nDressipi
+    owns the most extensive dataset of garment attributes and fashion-speciﬁc customer
+    preferences. \n\n\nOur ability to ingest, cleanse, and augment huge quantities
+    of data from various sources, in real-time, is at the heart of our platform.\n\n\nFor
+    more information, please visit [dressipi.com](/).\n"
+  team_title: Meet your Dressipi Team
+  team_members:
+  - Donna North
+  - Fred Cheung
+  - Natalie Theo
+  - James Tuck
+  contact_title: Make every experience more relevant, more fashion-specific with Dressipi
+  contact_label: Contact Us
+quotes_cta_title: Explore our Case Studies >
+quotes_cta_link: https://dressipi.com/clients/success-stories/
+quotes:
+- author: Rob Hitchman, Digital Product Owner, John Lewis
+  quote: "“Working with Dressipi has really helped us look at different ways in how
+    we can support our customers on the site and the different tactics that we can
+    deploy to meet their needs. \n"
+- author: Simon Konn, Director of Insights & CRM, River Island
+  quote: "“Being able to use and drive things out from proven product attributes and
+    linking them to customers enables you to understand what might work outside of
+    their core categories.”\n"
+- author: Sally Hunter, Digital Insight Analyst, LK Bennett
+  quote: "“The category tracking for products is helpful as our business categories
+    are not built in to all our systems, so out of the box groups allow us to segment
+    our catalogue into the categories and subcategories that customer’s shop online,
+    for example, ‘Dresses’ & ‘Fit & Flare’.”"
+cta_title: Make every experience more relevant, more fashion-specific with Dressipi
+cta_link: "/about/contact/"
+cta_label: Contact Us >
+layout: default
+---
+
+{%- include customer/top_section.html -%}
+{%- include customer/featured_articles.html -%}
+{%- include customer/featured_content.html -%}
+{%- include customer/quotes.html -%}
+{%- include customer/about.html -%}
+{%- include customer/cta_bottom.html -%}
