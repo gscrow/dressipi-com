@@ -2,7 +2,11 @@
 <div class="container gutter">
   <div class="header_box">
     <img src="{{page.hero.logo}}" alt="{{page.hero.alt}}">
-    <span>in partnership with</span>
+{%- if page.partnership -%}
+  <span>{{page.partnership}}</span>
+  {%- else -%}
+  <span>in partnership with</span>
+  {%- endif -%}
     <img src="/uploads/logo.svg" alt="logo">
   </div>
 <div class="banner">
@@ -18,8 +22,13 @@
   </div>
   </div>
   <div class="cta">
+    {% if page.cta_top %}
+    <a href="{{page.cta_top[0].link}}" class="button button--medium button-primary" title="contact">{{page.cta_top[0].label}} ></a>
+    <a href="{{page.cta_top[1].link}}" class="button button--medium button-primary" title="team">{{page.cta_top[1].label}} ></a>
+    {% else %}
     <a href="/about/contact/" class="button button--medium button-primary" title="contact">Contact Us ></a>
     <a href="#team" class="button button--medium button-primary" title="team">Meet your Team ></a>
+    {% endif %}
 </div>
 </div>
 </section>
