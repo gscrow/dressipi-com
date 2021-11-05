@@ -34,7 +34,7 @@ They enable us to identify you or your device, secure access to your account (in
 
 ## How Long does Dressipi Use Cookies for?
 
-Dressipi only uses cookies for as long as is necessary in order to provide the most optimised services to you. In accordance with the law, Dressipi will never use cookies within its own controlled online environments for longer than 24 months following your acceptance of our cookies. Your acceptance of our cookies may be continuously refreshed as you use our services, for example when you update your profile data via our online platform, via the <a href="#privacy" class="anchor-link-privacy">account settings</a> page or when your consent is collated when you visit our site or use our services. Further details about how long our cookies are used are set out in the table below.
+Dressipi only uses cookies for as long as is necessary in order to provide the most optimised services to you. In accordance with the law, Dressipi will never use cookies within its own controlled online environments for longer than 24 months following your acceptance of our cookies. Your acceptance of our cookies may be continuously refreshed as you use our services, for example when you update your profile data via our online platform, via the account settings page or when your consent is collated when you visit our site or use our services. Further details about how long our cookies are used are set out in the table below.
 
 ## What Types of Cookies Does Dressipi Use?
 
@@ -100,7 +100,7 @@ This then confirms that you are happy to accept our use of cookies. When we are 
 
 Where our retailers use our cookies and make them available to you via their online environment, we always ensure that our retailers respect your opt-in and privacy rights, for example, in our agreements with them. We therefore strongly recommend that you check the privacy and cookies policies of each retailer website that you visit, and that you update your cookies preferences on that website directly. Even if the cookie used belongs to us, the retailer is ultimately responsible for ensuring that your privacy rights are respected. If you have any queries or complaints about how cookies are being used within one of our retailer’s online environments, please contact that retailer directly.
 
-If you don't want us to use cookies when you visit Dressipi, you can opt-out of some cookies on your <a href="#privacy" class="anchor-link-privacy">Account Settings</a> page.
+If you don't want us to use cookies when you visit Dressipi, you can opt-out of some cookies on your Account Settings page.
 
 If you don’t have an account, you can opt out <a href="#privacy" class="anchor-link-privacy">here</a>.
 
@@ -160,3 +160,7 @@ These are cookies set and used by third parties providing services to Dressipi. 
 | \_ga   | Up to 24 months | Used by google analytics to identify users.  |
 | \_gat  | 1 minute        | Used by google analytics to throttle request |
 | \_gid  | 24 hours        | Used by google analytics to identify users.  |
+
+
+#### Cookies version: 05 November 2021 
+
