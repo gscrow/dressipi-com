@@ -8,6 +8,7 @@ header:
   height: tight
 width: narrow
 layout: privacy
+effective_date: 5 November 2021
 ---
 
 ## Your Privacy Matters

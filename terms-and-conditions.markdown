@@ -8,6 +8,7 @@ header:
   height: tight
 width: narrow
 layout: privacy
+effective_date: 5 November 2021
 ---
 
 These Terms govern your use of Dressipi and the products, features, apps, services, technologies, and software we offer (the Services), except where we expressly state that separate terms (and not these) apply.
