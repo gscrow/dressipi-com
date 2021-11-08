@@ -8,7 +8,7 @@ header:
   height: tight
 width: narrow
 layout: privacy
-effective_date: 23 May 2018
+effective_date: 28 September 2018
 ---
 
 ## Your Privacy Matters
@@ -125,8 +125,6 @@ Browser manufacturers provide help pages relating to cookie management in their 
 - <a href="https://support.google.com/nexus/answer/54068?visit_id=1-636620722885952766-1050390375&hl=en&rd=1" target="_blank" class="web-browser">Android Browser</a>
 - <a href="https://www.opera.com/help/tutorials/security/privacy/" target="_blank" class="web-browser">Opera</a>
 - <a href="https://www.opera.com/help/tutorials/security/privacy/" target="_blank" class="web-browser">Opera Mobile</a>
-
-#### Date of Last Revision: September 28, 2018
 
 <div id="cookies-table"></div>
 ## Cookies Table
