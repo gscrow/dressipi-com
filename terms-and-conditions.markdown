@@ -19,7 +19,7 @@ You are entering into this contract with Dressipi, a trading name of StyleMania 
 
 References in these Terms to “**_Dressipi_**”, “**_we_**”, “**_us_**” or “**_our_**” mean StyleMania Limited.
 
-When we refer to “_\*\*you_**” or “\_**yours\_\*\*” in these Terms, we are referring to you, as a Member or Visitor.
+When we refer to “**_you_**” or “**_yours_**” in these Terms, we are referring to you, as a Member or Visitor.
 
 If you have any questions about the Services, please [contact us](mailto:privacy@dressipi.com) by sending an email.
 
