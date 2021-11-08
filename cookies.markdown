@@ -8,17 +8,18 @@ header:
   height: tight
 width: narrow
 layout: privacy
+effective_date: 23 May 2018
 ---
 
 ## Your Privacy Matters
 
 We believe in being clear and open about how we collect and use data related to you. This policy provides detailed information about how and when we use cookies.
 
-## What is a Cookie?
+## What Is A Cookie?
 
 A cookie is a small file placed on your web browser or device that stores and retrieves information.
 
-## Does Dressipi use Cookies?
+## Does Dressipi Use Cookies?
 
 Yes, we use cookies and other technologies to ensure everyone who uses Dressipi has the best possible experience.
 
@@ -26,29 +27,29 @@ Cookies help us to provide, protect and improve Dressipi solutions and products.
 
 By continuing to visit or use our services, or by ticking any consent box or by otherwise providing us with your consent, you are agreeing to the use of cookies and similar technologies for the purposes we describe below.
 
-## When does Dressipi Use Cookies?
+## When Does Dressipi Use Cookies?
 
 We use cookies if you have a Dressipi account, use the Dressipi solutions or visit our retail partners who use Dressipi solutions and plug ins.
 
 They enable us to identify you or your device, secure access to your account (including helping us know if someone attempts to login in to your account from a different device), easily enable you to connect your profile to retailers in our network and serve individually personalised clothing and outfit recommendations to you.
 
-## How Long does Dressipi Use Cookies for?
+## How Long Does Dressipi Use Cookies For?
 
-Dressipi only uses cookies for as long as is necessary in order to provide the most optimised services to you. In accordance with the law, Dressipi will never use cookies within its own controlled online environments for longer than 24 months following your acceptance of our cookies. Your acceptance of our cookies may be continuously refreshed as you use our services, for example when you update your profile data via our online platform, via the <a href="#privacy" class="anchor-link-privacy">account settings</a> page or when your consent is collated when you visit our site or use our services. Further details about how long our cookies are used are set out in the table below.
+Dressipi only uses cookies for as long as is necessary in order to provide the most optimised services to you. In accordance with the law, Dressipi will never use cookies within its own controlled online environments for longer than 24 months following your acceptance of our cookies. Your acceptance of our cookies may be continuously refreshed as you use our services, for example when you update your profile data via our online platform, via the account settings page or when your consent is collated when you visit our site or use our services. Further details about how long our cookies are used are set out in the table below.
 
-## What Types of Cookies Does Dressipi Use?
+## What Types Of Cookies Does Dressipi Use?
 
 We use two types: persistent cookies and session cookies. A persistent cookie helps us recognise you as someone who has an existing profile, so it's easy for you to interact with our services without signing in again and/or easily connect your profile to retailers in our network. After you sign in, a persistent cookie stays in your browser and will be read by Dressipi when you return to one of our sites or a retail partner site that uses our services.
 
 Session cookies only last for as long as the session (usually a single visit to a website or a mobile session).
 
-## What are Cookies Used For?
+## What Are Cookies Used For?
 
 Cookies can be used to recognise you when you visit Dressipi or our retail partner sites, to remember your preferences and give you personalised recommendations that are in line with your permission settings.
 Cookies also make your interactions with Dressipi faster and more secure.
 Additionally, cookies allow us to bring you useful features through Dressipi plugins such as our aggregated wish list functionality and dislike buttons.
 
-## Categories of Use Description
+## Categories Of Use Description
 
 ### Authentication
 
@@ -68,17 +69,17 @@ We use cookies to provide you with the best experience possible.
 
 For example, cookies help us route traffic between servers and understand how quickly our solutions load for different people. Cookies also help us record the ratio and dimensions of your screen and windows so that we can render our sites and plugins correctly.
 
-### Analytics and Research
+### Analytics And Research
 
 We use cookies to better understand how people use the Dressipi solutions so that we can improve them.
 
 For example, cookies can help us analyse which parts of the Dressipi solutions people find most useful and identify features that can be improved.
 
-## How are Cookies Used for Advertising Purposes?
+## How Are Cookies Used For Advertising Purposes?
 
 We do not use cookies for any form of advertising.
 
-## What Third-Party Cookies does Dressipi Use?
+## What Third-Party Cookies Does Dressipi Use?
 
 Our <a href="#cookies-table" class="anchor-link-privacy">cookie table</a> lists the third-party cookies on our sites. Please note that the names of cookies, pixels and other technologies may change over time.
 
@@ -90,7 +91,7 @@ If you want further information about third party cookies or those used by socia
 
 Most browsers allow you to control cookies through their settings preferences. However, if you limit the ability of websites to set cookies, you may worsen your overall user experience, since it will no longer be personalised to you. It may also stop you from saving customised settings like login information.
 
-## What to Do if You Want to Remove Cookies?
+## What To Do If You Want To Remove Cookies?
 
 In most cases you must consent to the use cookies. The exception is where the cookie is essential (for example, in order for us to provide you with our Services which require certain operational functions).
 
@@ -100,7 +101,7 @@ This then confirms that you are happy to accept our use of cookies. When we are 
 
 Where our retailers use our cookies and make them available to you via their online environment, we always ensure that our retailers respect your opt-in and privacy rights, for example, in our agreements with them. We therefore strongly recommend that you check the privacy and cookies policies of each retailer website that you visit, and that you update your cookies preferences on that website directly. Even if the cookie used belongs to us, the retailer is ultimately responsible for ensuring that your privacy rights are respected. If you have any queries or complaints about how cookies are being used within one of our retailer’s online environments, please contact that retailer directly.
 
-If you don't want us to use cookies when you visit Dressipi, you can opt-out of some cookies on your <a href="#privacy" class="anchor-link-privacy">Account Settings</a> page.
+If you don't want us to use cookies when you visit Dressipi, you can opt-out of some cookies on your Account Settings page.
 
 If you don’t have an account, you can opt out <a href="#privacy" class="anchor-link-privacy">here</a>.
 
@@ -130,7 +131,7 @@ Browser manufacturers provide help pages relating to cookie management in their 
 <div id="cookies-table"></div>
 ## Cookies Table
 
-### Cookies used by Dressipi
+### Cookies Used By Dressipi
 
 These are cookies set by Dressipi and used only by Dressipi.
 
@@ -143,7 +144,7 @@ These are cookies set by Dressipi and used only by Dressipi.
 | \_ga, \_gid, \_gat  | Up to 24 months                                                                                         | These cookies are set by google analytics, which we use to analyse how our site is used See <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage" target="_blank">www.developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage </a> |
 | Dressipi_status     | 24 months                                                                                               | This allows the retailer you are visiting to know that you have already completed signup with dressipi.                                                                                                                                                                                            |
 
-### Cookies used by our retail partners
+### Cookies Used By Our Retail Partners
 
 These are cookies set by Dressipi and readable by the retailer you are visiting.
 
@@ -151,7 +152,7 @@ These are cookies set by Dressipi and readable by the retailer you are visiting.
 | --------------- | ---------- | ------------------------------------------------------------------------------------------------------- |
 | Dressipi_status | 24 months  | This allows the retailer you are visiting to know that you have already completed signup with dressipi. |
 
-### Cookies used by third parties
+### Cookies Used By Third Parties
 
 These are cookies set and used by third parties providing services to Dressipi. See a <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage" target="_blank">www.developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage </a> for more information on google analytics
 
