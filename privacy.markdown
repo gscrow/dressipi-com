@@ -9,6 +9,7 @@ header:
 width: narrow
 layout: privacy
 ---
+
 ## Your Privacy Matters
 
 Welcome to Dressipi’s Privacy Policy!
@@ -17,9 +18,9 @@ Dressipi is 100% committed to protecting the privacy and security of its Members
 
 We ask that you read this privacy notice carefully as it contains important information about who we are, how and why we collect, store, use and share personal information, your rights in relation to your personal information and on how to contact us or a relevant supervisory authority in the event you have a complaint.
 
-## Who we are, purpose of this policy and our processing role
+## Who We Are, Purpose Of This Policy And Our Processing Role
 
-**_StyleMania Ltd_** is a company registered in England and Wales under registration number 7063626 whose registered office is at StyleMania Ltd, 85 Great Portland Street, London, W1W 7LT, UK, trading as Dressipi (“**_Dressipi_**”).  
+**_StyleMania Ltd_** is a company registered in England and Wales under registration number 7063626 whose registered office is at StyleMania Ltd, 85 Great Portland Street, London, W1W 7LT, UK, trading as Dressipi (“**_Dressipi_**”).
 
 Dressipi’s mission is to help people easily find the clothes they will love and enable retailers to be more customer-centric and efficient. For more information about us, please visit our [“About us” ](https://dressipi.com/about/about-us/) page on our website.
 
@@ -34,7 +35,7 @@ This Privacy Policy applies to Dressipi.com, Your Style Adviser, Your Personal E
 - We protect and secure your data.
 - We give you the control to decide what you share and what you receive from us.
 
-## Data Controllers and Contracting Parties
+## Data Controllers And Contracting Parties
 
 For all our Services, the data controller – that’s the company that’s responsible for your privacy – is Dressipi.
 
@@ -61,7 +62,8 @@ If we make significant changes, we will provide you notice through our Services,
 Please ensure that you keep yourself updated as to the latest Privacy Policy in force on our website on each visit. In the event of changes published or any notice sent about any changes to this Privacy Policy, the collection, use and sharing of your personal data will be subject to the updated Privacy Policy.
 
 ## Data We Collect About You
-### Data You Provide to Us
+
+### Data You Provide To Us
 
 To properly provide the Dressipi Services and ensure that you have the best possible user experience, we need to process some information about you. Of course, you have the right to object to your data being collected and more information about your rights is set out at section below called “**_Your Rights Provided Under the GDPR_**”, but please be aware that if you do not wish us to process your personal data, the quality of our Services to you may be reduced.
 
@@ -70,23 +72,29 @@ For the purpose of the Services, the types of information we collect about you a
 ### Registration
 
 To create an account, you need to provide data including your name, email address (and/or mobile number) and a password.
+
 ### Profile
 
 You have choices about the information on your profile, such as your colouring, sizes, item preferences & attitude towards shopping and dressing (Your Fashion Fingerprint).
 
 Your profile information helps you to get more from our Services, including helping us find and show you items that best match your shape, style and existing wardrobe. It’s your choice whether to include sensitive information on your profile, and even if you choose not to, you will still be able to use our Services and benefit from an enjoyable user experience.
+
 ### Wish Listing, Liking & Disliking
 
 We collect information about which items and features you wish list, like or dislike.
+
 ### Browsing & Scanning
 
 We collect information about which items you look at online and which items you scan instore.
+
 ### Saving
 
 We collect information about which items you choose to save.
+
 ### Missions & Requests
 
 We collect information when you choose to set a mission or request recommendations for a specific event or occasion (for example, ‘you are looking for a dress for a wedding’).
+
 ### Retail Partners
 
 We receive data about your activities when you use the services of our retail partners, such as items you have purchased, viewed, scanned or wish listed.
@@ -96,27 +104,30 @@ This only includes information on the items. It NEVER includes payment informati
 Our retail partners may provide this information whether you have a Dressipi account, are logged into your Dressipi account or are a Visitor. For example, a retailer could tell us about a purchase you made in one of its stores.
 
 We require each of these partners to have lawful rights to collect, use and share your data before providing any data to us. When you are visiting websites operated by any of our retail partners, we strongly suggest that you review their privacy and cookies policies
+
 ### Service Use
 
 We log usage data when you visit or otherwise use our Services, including our app and retail partner solutions (e.g. our plugins that appear on our retail partner sites), such as the items that you view or engage with; the features that you use; the time, frequency and duration of your visits; when you install or update our mobile app. We use log-ins, cookies, device information and internet protocol (“IP”) addresses to identify you and log your use. This helps you to benefit from an overall streamlined user experience.
 
-### Cookies, Web Beacons and Other Similar Technologies
+### Cookies, Web Beacons And Other Similar Technologies
 
 As further described in our [Cookies Policy](https://dressipi.com/cookies/), we use cookies and similar technologies (e.g., web beacons, pixels, tags and device identifiers) to recognise you and/or your device(s) on, off and across our Services. We also allow some others to use cookies as described in our [Cookies Policy](https://dressipi.com/cookies/).
 
 You can control cookies through your browser settings and other tools. You can also opt-out from our use of cookies and similar technologies that track your behaviour on the sites of others.
-### Your Device and Location
+
+### Your Device And Location
 
 When you visit or leave our Services (including our plugins or cookies or similar technology on the sites of others), we receive the URL of both the site you came from and the one you go to next. We also get information about your IP address, proxy server, operating system, web browser and add-ons, device identifier and features, and/or ISP or your mobile carrier. We will ask you to opt-in before we use GPS or other tools to identify your precise location.
+
 ### Other
 
 We are continually looking for ways to improve our Services and often introduce new features, which may require the collection of new information. If we collect materially different personal data or materially change how we use your data, we will notify you and may also modify this Privacy Policy.
 
-## How We Collect Your Information 
+## How We Collect Your Information
 
-We collect personal data from you:  
+We collect personal data from you:
 
-- directly, when you enter or send us information, such as when you register with us, contact us (including via email), send us feedback, use our Services, complete customer surveys, and  
+- directly, when you enter or send us information, such as when you register with us, contact us (including via email), send us feedback, use our Services, complete customer surveys, and
 - indirectly, such as your service use or browsing activity while on our website; we will collect information indirectly using the technologies explain in our [Cookies Policy](https://dressipi.com/cookies/).
 
 ## How & Why We Use Your Information
@@ -130,18 +141,22 @@ We use your personal data:
 We use all the data you provide to create your account and manage your preferences and settings.
 To Provide Our Services To You
 We use all the data that we have about you to provide our Services to you.
+
 ### To Provide Personalised Recommendations
 
 We use all the data that we have about you to provide useful, personalised clothing and dressing recommendations that are both unique and relevant to you.
 
 To create these recommendations (and content) we use your profile, preferences, activities, usage and transactions data, including the help of automated systems and inferences we make. If any decisions are made about you by automated decision-making mechanisms (also called profiling), you may be entitled to review the decision or seek further information in some instances. We will never conduct profiling in respect of sensitive or special category data (such as health data, race, ethnic origins) unless you give us your express consent to do so.
+
 ### To Provide Location Specific Recommendations
 
 We use location-related information - such as your current location - to give you precise recommendations based on where you are (for example, to recommend your top items in a specific store or inform you of the availability of an item close to you).
-### To Connect to Many Retailers
+
+### To Connect To Many Retailers
 
 Our Services allow you to use your profile to easily view recommendations and receive content whenever you are within the online or instore environments of any of our retail partners. To do so, you choose to “connect” your profile with each individual retailer. It is your choice whether to connect to any or all retail partners within the Dressipi retail partner network, and you can modify your choices at any time, either through the account page or directly via the retailer website (for example, by modifying your cookies preferences).
-### To Communicate with You
+
+### To Communicate With You
 
 We will contact you through email, mobile phone, notices posted on our websites or apps, and other ways through our Services, including text messages and push notifications.
 
@@ -156,16 +171,20 @@ Please be aware that you cannot opt-out of receiving service messages from us, i
 ### To Provide Measurement & Analytics
 
 We use the information we have, to help our retailer partners measure the effectiveness of our Services and help them better understand the types of people who shop with them and the types of items they want to buy. This helps our retail partners become more efficient by helping them better forecast the type of products that appeal to their customer base and the volume and sizing of their product ranges.
+
 ### Advertising
 
 We do not share your personal data with any third-party advertisers or ad networks and specifically preclude our retail partners from doing the same.
-### To Improve Our Services to You
+
+### To Improve Our Services To You
 
 We use the information we have, to conduct research and development for the further development of our Services to provide you and others with a better, more useful personalised experience and drive growth and engagement with our Services.
 We seek to create a more efficient and optimised value chain for global fashion retailers by giving them access to solutions and data that will help them make more precise merchandising and marketing decisions.
+
 ### To Provide Customer Support
 
 We use the data to investigate, respond to and resolve complaints and Service issues (e.g., bugs).
+
 ### Aggregate Insights
 
 We use your data to produce and share aggregated insights that do not identify you. For example, we may use your data to generate statistics about the item preferences of our users.
@@ -174,18 +193,18 @@ We use your data to produce and share aggregated insights that do not identify y
 
 We use your data if we think it’s necessary for security purposes or to investigate possible fraud or other violations of our User Agreement or this Privacy Policy and/or attempts to harm our Members or Visitors.
 
-## What is Our Legal Basis for Processing Data?
+## What Is Our Legal Basis For Processing Data?
 
-Under data protection law, we can only use your personal data if we have a lawful basis for doing so, e.g.: 
+Under data protection law, we can only use your personal data if we have a lawful basis for doing so, e.g.:
 
-- where you have given consent 
+- where you have given consent
 - to comply with our legal and regulatory obligations
 - for the performance of a contract with you or to take steps at your request before entering into a contract; or
 - for our legitimate interests or those of a third party.
 
-A legitimate interest is when we have a business or commercial reason to use your personal data, so long as this is not overridden by your own rights and interests. We will carry out an assessment when relying on legitimate interests, to balance our interests against your own. You can obtain details of this assessment by contacting us (see ‘**_How to contact us_**’ below). 
+A legitimate interest is when we have a business or commercial reason to use your personal data, so long as this is not overridden by your own rights and interests. We will carry out an assessment when relying on legitimate interests, to balance our interests against your own. You can obtain details of this assessment by contacting us (see ‘**_How to contact us_**’ below).
 
-We collect, use and share the data that we have in the ways described above: 
+We collect, use and share the data that we have in the ways described above:
 In respect of the Services:
 
 - as necessary to fulfil our Dressipi [Terms of Service](https://dressipi.com/terms-and-conditions/).
@@ -198,22 +217,23 @@ In respect of sensitive data and other data you provide via “Your Fashion Fing
 
 We set out in the below table, a more specific overview of the grounds we rely on and why.
 
-| Purpose for processing your personal data | Lawful basis for processing including basis of legitimate interest |
-|---|---|
-| To create and manage your account with us | Performance of a contract with you |
-| To process and deliver your account purchase / subscription including to:<br><br>Manage payments, fees and charges;<br><br>Collect and recover money owed to us. | Performance of a contract with you<br> <br>Necessary for our legitimate interests (to recover debts due to us) |
-| To manage our relationship with you which will include:<br><br>Notifying you about changes to our Terms of Services or other policies;<br><br>Asking you to leave a review or take a survey. | Performance of a contract with you<br><br>Necessary to comply with a legal obligation<br><br>Necessary for our legitimate interests (to keep our records updated and to study how Members use our Platform/Services) |
-| To conduct checks to identify you and verify your identity or to help prevent and detect fraud against you or us  | To comply with our legal and regulatory obligations<br><br>For our legitimate interests, i.e. to minimise fraud that could be damaging for you and/or us |
-| To enforce legal rights or defend or undertake legal proceedings | Depending on the circumstances:<br>— to comply with our legal and regulatory obligations<br>— in other cases, for our legitimate interests, i.e. to protect our business, interests and rights |
-| To use data analytics to improve our Services, marketing, customer relationships and experiences. | Necessary for our legitimate interests (to define types of users for our materials and services, to keep our Platform updated and relevant, to develop our business and to inform our marketing strategy) |
-| To make suggestions and recommendations to you about goods or services that may be of interest to you. | Necessary for our legitimate interests (to develop our materials/services and grow our business) |
-| Updating and enhancing Members and Visitors records | Depending on the circumstances:<br>—to perform our contract with you or to take steps at your request before entering into a contract<br>—to comply with our legal and regulatory obligations<br>—where neither of the above apply, for our legitimate interests, e.g. making sure that we can keep in touch with our Members and Visitors about existing accounts and subscriptions and new services |
-| Disclosures and other activities necessary to comply with legal and regulatory obligations that apply to our business, e.g. to record and demonstrate evidence of your consents where relevant  | To comply with our legal and regulatory obligations |
-| The audit of our business  | For our legitimate interests, i.e. demonstrate we operate at the highest standards |
-| To share your personal data with third parties that will or may take control or ownership of some or all of our business (and professional advisors acting on our or their behalf) in connection with a significant corporate transaction or restructuring, including a merger, acquisition, asset sale, initial public offering or in the event of our insolvency<br>In such cases information will be anonymised where possible and only shared where necessary | Depending on the circumstances:<br>—to comply with our legal and regulatory obligations<br>—in other cases, for our legitimate interests, i.e. to protect, realise or grow the value in our business and assets |
-| To share your personal data with our third party business partners for specific purposes defined in our contractual agreements with them, provided that they are contractually bound to respect their obligations under the GDPR when acting as a controller or processor of your personal data.<br>In such cases information will be anonymised where possible and only shared where necessary | For our legitimate interests, i.e. to protect, realise or grow the value in our business and assets |
+| Purpose for processing your personal data                                                                                                                                                                                                                                                                                                                                                                                                                         | Lawful basis for processing including basis of legitimate interest                                                                                                                                                                                                                                                                                                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| To create and manage your account with us                                                                                                                                                                                                                                                                                                                                                                                                                         | Performance of a contract with you                                                                                                                                                                                                                                                                                                                                                                    |
+| To process and deliver your account purchase / subscription including to:<br><br>Manage payments, fees and charges;<br><br>Collect and recover money owed to us.                                                                                                                                                                                                                                                                                                  | Performance of a contract with you<br> <br>Necessary for our legitimate interests (to recover debts due to us)                                                                                                                                                                                                                                                                                        |
+| To manage our relationship with you which will include:<br><br>Notifying you about changes to our [Terms of Service](https://dressipi.com/terms-and-conditions/) or other policies;<br><br>Asking you to leave a review or take a survey.                                                                                                                                                                                                                         | Performance of a contract with you<br><br>Necessary to comply with a legal obligation<br><br>Necessary for our legitimate interests (to keep our records updated and to study how Members use our Platform/Services)                                                                                                                                                                                  |
+| To conduct checks to identify you and verify your identity or to help prevent and detect fraud against you or us                                                                                                                                                                                                                                                                                                                                                  | To comply with our legal and regulatory obligations<br><br>For our legitimate interests, i.e. to minimise fraud that could be damaging for you and/or us                                                                                                                                                                                                                                              |
+| To enforce legal rights or defend or undertake legal proceedings                                                                                                                                                                                                                                                                                                                                                                                                  | Depending on the circumstances:<br>— to comply with our legal and regulatory obligations<br>— in other cases, for our legitimate interests, i.e. to protect our business, interests and rights                                                                                                                                                                                                        |
+| To use data analytics to improve our Services, marketing, customer relationships and experiences.                                                                                                                                                                                                                                                                                                                                                                 | Necessary for our legitimate interests (to define types of users for our materials and services, to keep our Platform updated and relevant, to develop our business and to inform our marketing strategy)                                                                                                                                                                                             |
+| To make suggestions and recommendations to you about goods or services that may be of interest to you.                                                                                                                                                                                                                                                                                                                                                            | Necessary for our legitimate interests (to develop our materials/services and grow our business)                                                                                                                                                                                                                                                                                                      |
+| Updating and enhancing Members and Visitors records                                                                                                                                                                                                                                                                                                                                                                                                               | Depending on the circumstances:<br>—to perform our contract with you or to take steps at your request before entering into a contract<br>—to comply with our legal and regulatory obligations<br>—where neither of the above apply, for our legitimate interests, e.g. making sure that we can keep in touch with our Members and Visitors about existing accounts and subscriptions and new services |
+| Disclosures and other activities necessary to comply with legal and regulatory obligations that apply to our business, e.g. to record and demonstrate evidence of your consents where relevant                                                                                                                                                                                                                                                                    | To comply with our legal and regulatory obligations                                                                                                                                                                                                                                                                                                                                                   |
+| The audit of our business                                                                                                                                                                                                                                                                                                                                                                                                                                         | For our legitimate interests, i.e. demonstrate we operate at the highest standards                                                                                                                                                                                                                                                                                                                    |
+| To share your personal data with third parties that will or may take control or ownership of some or all of our business (and professional advisors acting on our or their behalf) in connection with a significant corporate transaction or restructuring, including a merger, acquisition, asset sale, initial public offering or in the event of our insolvency<br>In such cases information will be anonymised where possible and only shared where necessary | Depending on the circumstances:<br>—to comply with our legal and regulatory obligations<br>—in other cases, for our legitimate interests, i.e. to protect, realise or grow the value in our business and assets                                                                                                                                                                                       |
+| To share your personal data with our third party business partners for specific purposes defined in our contractual agreements with them, provided that they are contractually bound to respect their obligations under the GDPR when acting as a controller or processor of your personal data.<br>In such cases information will be anonymised where possible and only shared where necessary                                                                   | For our legitimate interests, i.e. to protect, realise or grow the value in our business and assets                                                                                                                                                                                                                                                                                                   |
 
-## How is this Information Shared?
+## How Is This Information Shared?
+
 ### Profile
 
 Your data is not visible to or shared with any other parties other than those retail partners who you have chosen to connect to.
@@ -221,6 +241,7 @@ Your data is not visible to or shared with any other parties other than those re
 You can adjust what data is shared with each individual retail partner in your Account Settings.
 
 The information that is shared with a retailer when you connect your profile is as follows:
+
 - Your name and email address
 - Your profile information such as your colouring, sizes, garment preferences & attitude towards shopping and dressing (but only if you have provided this information to us – please remember that there is no requirement for you to do so, but the more information we have about your preferences, the more we are able to tailor our Services to you)
 - Items that you have wish listed or disliked when in that specific retailer’s store, website or mobile app
@@ -229,9 +250,10 @@ The information that is shared with a retailer when you connect your profile is 
 ### Recommendations Ranking
 
 We may also send our retail partners a list of products and the order in which to display those products to you. For example, if you clicked on the jeans category on a retailer website, we would send the retailer a list of jeans to show you ordered by what we understand you will like most. This can also be used to select the products used in emails sent to you.
+
 ### Service Providers
 
-We provide information and content to vendors and other service providers who support our business, such as by providing technical infrastructure services, analysing how our Services are used, providing customer service or conducting surveys. They will have access to your information as reasonably necessary to perform these tasks on our behalf and are obligated not to disclose or use it for other purposes. When we do so, we always ensure that such service providers are contractually bound to respect their obligations under the GDPR – including informing you that they hold your personal data. 
+We provide information and content to vendors and other service providers who support our business, such as by providing technical infrastructure services, analysing how our Services are used, providing customer service or conducting surveys. They will have access to your information as reasonably necessary to perform these tasks on our behalf and are obligated not to disclose or use it for other purposes. When we do so, we always ensure that such service providers are contractually bound to respect their obligations under the GDPR – including informing you that they hold your personal data.
 
 ### Researchers and Academics
 
@@ -257,9 +279,9 @@ Countries outside the UK and the EEA have differing data protection laws. From t
 
 Under data protection laws, we can only transfer your personal data to a country outside the UK where :
 
-- The UK government has decided the particular country ensures an adequate level of protection of personal data (known as an ‘adequacy regulation’) further to Article 45 of the UK GDPR. A list of countries the UK currently has adequacy regulations in relation to is available here. We rely on adequacy regulations for transfers to the following countries:
+- The UK government has decided the particular country ensures an adequate level of protection of personal data (known as an ‘adequacy regulation’) further to Article 45 of the UK GDPR. A list of countries the UK currently has adequacy regulations in relation to is available.
 
-- There are appropriate safeguards in place, together with enforceable rights and effective legal remedies for you, or 
+- There are appropriate safeguards in place, together with enforceable rights and effective legal remedies for you, or
 - A specific exception applies under relevant data protection law.
 
 Whenever we transfer your personal data out of the EEA and need to ensure a similar degree of protection is afforded to your personal data, we make sure that at least one of the following safeguards is implemented:
@@ -269,12 +291,14 @@ Whenever we transfer your personal data out of the EEA and need to ensure a simi
 - Please [contact us](mailto:privacy@dressipi.com) if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA
 
 ## How Long Your Personal Data Will Be Kept
-### Active account
+
+### Active Account
 
 We retain your personal data while your account is in existence or as needed to provide you Services. Even if you only use our Services when looking for a new item every few months we will retain your information and keep your profile open until you decide to close your account. This decision is based on research that we have conducted in respect of online shopping habits.
 
-We will not keep your personal data for longer than required for the purpose for which it is processed. In addition, we will comply with different retention periods set by the law for the retention of different types of personal data. Following the end of the of the relevant retention period, we will delete or anonymise your personal data. 
-### Closed account
+We will not keep your personal data for longer than required for the purpose for which it is processed. In addition, we will comply with different retention periods set by the law for the retention of different types of personal data. Following the end of the of the relevant retention period, we will delete or anonymise your personal data.
+
+### Closed Account
 
 When you delete your account, we delete your name, email address, mobile number and identifying information such as IP addresses. It is not possible to recover a deleted account. If you have chosen to connect with any of our retail partners, we will request that they also delete your information.
 
@@ -284,38 +308,44 @@ We retain your personal data even after you have closed your account if reasonab
 
 If you have any queries about how your data is handled by our retailer partners within their online environments, please contact that retailer directly (for example, via the details set out in that retailer’s privacy policy).
 
-## Your Rights Provided Under the GDPR
+## Your Rights Provided Under The GDPR
 
-You generally have the following rights, which you can usually exercise free of charge: 
-### Access to a copy of your personal data
+You generally have the following rights, which you can usually exercise free of charge:
 
-This is the right to be provided with a copy of your personal data  
-### Correction (also known as rectification)
+### Access To A Copy Of Your Personal Data
 
-This is the right to require us to correct any mistakes in your personal data  
-### Erasure (also known as the right to be forgotten)
+This is the right to be provided with a copy of your personal data
 
-This is the right to require us to delete your personal data—in certain situations  
-### Restriction of use
+### Correction (Also Known As Rectification)
+
+This is the right to require us to correct any mistakes in your personal data
+
+### Erasure (Also Known As The Right To Be Forgotten)
+
+This is the right to require us to delete your personal data—in certain situations
+
+### Restriction Of Use
 
 This is the right to require us to restrict use of your personal data in certain circumstances, e.g. if you contest the accuracy of the data
 
-### Data portability 
+### Data Portability
 
 This is the right to receive the personal data you provided to us, in a structured, commonly used and machine-readable format and/or transmit that data to a third party—in certain situations.
-### To object to use
 
-This is the right to object:  
+### To Object To Use
+
+This is the right to object:
+
 - at any time to your personal data being used for direct marketing (including profiling);
 - in certain other situations to our continued use of your personal data, e.g. where we use your personal data for our legitimate interests unless there are compelling legitimate grounds for the processing to continue or the processing is required for the establishment, exercise or defence of legal claims.
 
-Not to be subject to decisions without human involvement 
+Not to be subject to decisions without human involvement
 
 This is the right not to be subject to a decision based solely on automated processing (including profiling) that produces legal effects concerning you or similarly significantly affects you.
 
 We do not make any such decisions based on data collected by our Platform.
 
-### The right to withdraw consents
+### The Right To Withdraw Consents
 
 If you have provided us with a consent to use your personal data you have a right to withdraw that consent easily at any time.
 
@@ -325,12 +355,13 @@ For further information on each of those rights, including the circumstances in 
 
 If you would like to exercise any of those rights, please email, call or write to us - see below: ‘**_How to contact us_**’.
 
-When contacting us please:  
+When contacting us please:
 
-- provide enough information to identify yourself, such as your full name, address and account details and any additional identity information we may reasonably request from you, and  
+- provide enough information to identify yourself, such as your full name, address and account details and any additional identity information we may reasonably request from you, and
 - let us know which right(s) you want to exercise and the information to which your request relates
 
 ## Other Important Information
+
 ### Cookies
 
 A cookie is a small text file which is placed onto your device (e.g. computer, smartphone or other electronic device) when you use our Platform. We use cookies on our Platform. For further information on cookies  our use of them, when we will request your consent before placing them and how to disable them, please see our ["Cookie Policy"](https://dressipi.com/cookies/)
@@ -339,15 +370,15 @@ A cookie is a small text file which is placed onto your device (e.g. computer, s
 
 We implement security safeguards designed to protect your data, such as HTTPS and encrypting data at rest. We regularly monitor our systems for possible vulnerabilities and attacks. However, we cannot warrant the security of any information that you send us because the nature of the Internet is an inherently unsecure environment. When using online services generally, including our Services, there is no guarantee that data may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-### How to Contact Us?
-If you have questions or complaints regarding this Policy, please first contact Dressipi via [privacy@dressipi.com](mailto:privacy@dressipi.com). You can also reach us by physical mail at Stylemania Ltd.
-85 Great Portland Street London W1W 7LT].
+### How To Contact Us?
+
+If you have questions or complaints regarding this Policy, please first contact Dressipi via [privacy@dressipi.com](mailto:privacy@dressipi.com). You can also reach us by physical mail at Stylemania Ltd., 85 Great Portland Street, London, W1W 7LT.
 
 If you are usually resident in the European Economic Area, we have appointed an EU Representative who can be contacted via the above email address.
 
 If contacting us does not resolve your complaint, you have more options which include the right to lodge a complaint with a supervisory authority:
 
-- in the UK, the supervisory authority is the Information Commissioner who may be contacted at <a href="https://www.ico.org.uk/concerns/" target="_blank">www.ico.org.uk/concerns/</a> or by telephone: 0303 123 1113. 
-- a relevant data protection supervisory authority in the EEA state of your habitual residence, place of work or of an alleged infringement of data protection laws in the EEA. If you do not know your data protection supervisory authority, you can find a list and their contact details <a href="blank" target="_blank">here</a>. 
+- in the UK, the supervisory authority is the Information Commissioner who may be contacted at <a href="https://www.ico.org.uk/concerns/" target="_blank">here</a> or by telephone: 0303 123 1113.
+- a relevant data protection supervisory authority in the EEA state of your habitual residence, place of work or of an alleged infringement of data protection laws in the EEA. If you do not know your data protection supervisory authority, you can find a list and their contact details <a href="https://edpb.europa.eu/about-edpb/about-edpb/members_en" target="_blank">here</a>.
 
-#### Policy version: 05 November 2021 
+#### Policy version: 05 November 2021
