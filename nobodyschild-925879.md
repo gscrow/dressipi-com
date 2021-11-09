@@ -9,7 +9,7 @@ type: customer
 hero:
   logo: "/uploads/NobodysChild_Logo.png"
   alt: Nobody's Child
-video: "/uploads/NobodysChildLP%20Video.mp4"
+video: https://dressipi.com/media/nobodys_child_lp.mp4
 video_mask: "/uploads/NobodysChildLPVideo_Moment.JPG"
 exclude-hero: true
 featured_articles:
