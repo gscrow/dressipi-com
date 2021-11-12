@@ -193,6 +193,10 @@
       .logo {
         padding: 55px;
       }
+
+      img {
+        object-fit: contain;
+      }
     }
   }
 }
