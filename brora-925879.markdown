@@ -1,22 +1,22 @@
 ---
 title: "Lay the foundations to deliver \nbreakthrough fashion-specific\nshopping experiences."
 position: 0
-description: "Discover how a partnership between Nobody’s Child \nand Dressipi can
-  deliver highly personalised \nshopping journeys for every visitor, \nbuilding loyalty
-  and retention.\n\n"
+description: "Discover how a partnership between Brora \nand Dressipi can deliver
+  highly personalised \nshopping journeys for every visitor, building \nlifetime value
+  and AOV.\n\n"
 sitemap: false
 type: customer
 hero:
-  logo: "/uploads/NobodysChild_Logo.png"
-  alt: Nobody's Child
-video: https://dressipi.com/media/nobodys_child_lp.mp4
-video_mask: "/uploads/NobodysChildLPVideo_Moment.JPG"
+  logo: "/uploads/brora-logo.png"
+  alt: Brora
+video: "!!"
+video_mask: "!!"
 exclude-hero: true
 featured_articles:
-  title: Tackle the biggest challenges and take advantage of the biggest opportunities
-    facing Nobody’s Child
+  title: "Tackle the biggest challenges and take advantage \nof the biggest opportunities
+    facing Brora"
   content:
-  - title: Increase conversion and AOV by offering personalised outfit recommendations
+  - title: Increase lifetime value and AOV with personalised outfit recommendations
     description: Our unmatched understanding of the fashion industry means we offer
       unbeatable outfit recommendations tailored to the shopper, driving higher conversion,
       lower returns, and better, more loyal customers. Outfits are completely automated,
@@ -26,12 +26,12 @@ featured_articles:
     cta_text: READ THE FULL STORY >
     cta_link: https://dressipi.com/downloads/success-story-john-lewis/
     image: "/uploads/JL_rectangle.png"
-  - title: Turn a one-time purchase into a loyal Nobody’s Child customer with post-purchase
+  - title: Increase repeat purchase rates by inspiring customers with post-purchase
       emails
-    description: Personalised post-purchase emails increase lifetime value and retention
-      by showing customers how to wear their newly bought item (displayed by occasion
-      to show versatility, based on preferences and activity, and can include items
-      they already own).
+    description: Personalised post-purchase emails increase lifetime value by showing
+      customers how to wear their newly bought item (displayed by occasion to show
+      versatility, based on preferences and activity, and can include items they already
+      own).
     article_title: Belstaff increased email revenue by 69% through personalised recommendations
     cta_text: READ THE FULL STORY >
     cta_link: https://dressipi.com/downloads/success-story-belstaff/
@@ -48,12 +48,12 @@ featured_articles:
     cta_link: https://dressipi.com/downloads/success-story-luxury-retailer/
     image: "/uploads/Luxury_rectangle.jpg"
   postscriptum:
-    title: "£1.92m Incremental Revenue"
-    text: Delivered to Nobody's Child over the next 12 months
+    title: "!!m Incremental Revenue"
+    text: Delivered to Brora over the next 12 months
 featured_content:
   title: Featured Content
   description: We’ve hand-picked the following content that we think will be relevant
-    for Nobody's Child
+    for Brora
   content:
   - section: CASE STUDY
     logo: "/uploads/RI_logo_new.png"
@@ -87,7 +87,7 @@ section_about:
   team_members:
   - Sarah McVittie
   - Fred Cheung
-  - Sean Norris
+  - Lara Gonzalez
   - James Tuck
   contact_title: Make every experience more relevant, more fashion-specific with Dressipi
   contact_label: Contact Us
