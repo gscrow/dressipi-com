@@ -57,6 +57,8 @@ featured_articles:
     text: |-
       Delivered to Brora by Dressipi
       <br>
+      <br>
+      <br>
 featured_content:
   title: Featured Content
   description: We’ve hand-picked the following content that we think will be relevant
