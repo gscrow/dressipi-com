@@ -9,7 +9,7 @@ type: customer
 hero:
   logo: "/uploads/brora-logo.png"
   alt: Brora
-video: 
+video: https://dressipi.com/media/brora_lp.mp4
 video_mask: "/uploads/Brora%20Video%20Mask.png"
 exclude-hero: true
 featured_articles:
