@@ -16,7 +16,9 @@ featured_articles:
   title: "Tackle the biggest challenges and take advantage \nof the biggest opportunities
     facing Brora"
   content:
-  - title: Increase lifetime value and AOV with personalised outfit recommendations
+  - title: |-
+      <br>
+      Increase lifetime value and AOV with personalised outfit recommendations
     description: Our unmatched understanding of the fashion industry means we offer
       unbeatable outfit recommendations tailored to the shopper, driving higher conversion,
       lower returns, and better, more loyal customers. Outfits are completely automated,
@@ -26,8 +28,9 @@ featured_articles:
     cta_text: READ THE FULL STORY >
     cta_link: https://dressipi.com/downloads/success-story-john-lewis/
     image: "/uploads/JL_rectangle.png"
-  - title: Increase repeat purchase rates by inspiring customers with post-purchase
-      emails
+  - title: |-
+      <br>
+      Increase repeat purchase rates by inspiring customers with post-purchase emails
     description: Personalised post-purchase emails increase lifetime value by showing
       customers how to wear their newly bought item (displayed by occasion to show
       versatility, based on preferences and activity, and can include items they already
@@ -36,8 +39,8 @@ featured_articles:
     cta_text: READ THE FULL STORY >
     cta_link: https://dressipi.com/downloads/success-story-belstaff/
     image: "/uploads/belstaff_rectangle.png"
-  - title: 'Help all visitors find their best products faster by personalising the
-      entire customer experience '
+  - title: "<br>\nHelp all visitors find their best products faster by personalising
+      the entire customer experience "
     description: Dressipi’s algorithms go beyond outfits and create exponential value
       by personalising each step of the journey, from home to PLPs to similar items
       and more. Crucially, only show products if they are available in the customer's
