@@ -10,7 +10,7 @@ hero:
   logo: "/uploads/brora-logo.png"
   alt: Brora
 video: 
-video_mask: 
+video_mask: "/uploads/Brora%20Video%20Mask.png"
 exclude-hero: true
 featured_articles:
   title: "Tackle the biggest challenges and take advantage \nof the biggest opportunities
