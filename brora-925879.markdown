@@ -9,8 +9,8 @@ type: customer
 hero:
   logo: "/uploads/brora-logo.png"
   alt: Brora
-video: "!!"
-video_mask: "!!"
+video: 
+video_mask: 
 exclude-hero: true
 featured_articles:
   title: "Tackle the biggest challenges and take advantage \nof the biggest opportunities
