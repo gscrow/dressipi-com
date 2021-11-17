@@ -48,8 +48,8 @@ featured_articles:
     cta_link: https://dressipi.com/downloads/success-story-luxury-retailer/
     image: "/uploads/Luxury_rectangle.jpg"
   postscriptum:
-    title: "!!m Incremental Revenue"
-    text: Delivered to Brora over the next 12 months
+    title: "£8.7m contributed profit"
+    text: delivered to Brora
 featured_content:
   title: Featured Content
   description: We’ve hand-picked the following content that we think will be relevant
