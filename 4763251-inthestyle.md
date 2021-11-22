@@ -44,10 +44,10 @@ featured_articles:
       to understand where to focus your efforts when driving down your returns. With
       1060 product attribute values, Dressipi doesn’t just know what good data means
       for In The Style - we can produce it.
-    article_title: 
-    cta_text: 
-    cta_link: 
-    image: 
+    article_title: Understanding Your Unique Return Rate Profile
+    cta_text: LEARN MORE >
+    cta_link: https://dressipi.com/downloads/understanding-your-unique-return-rate-profile-whitepaper/
+    image: "/uploads/very-feat-1-fc.jpg"
   postscriptum:
     title: 
     text: 
