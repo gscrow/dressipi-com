@@ -39,7 +39,7 @@ featured_articles:
     image: "/uploads/JL_rectangle.png"
   - title: |-
       <br>
-      Reduce In The Style's return rates by X% with fashion-specific data
+      Reduce In The Style's return rates by 10% with fashion-specific data
     description: Detailed data on both the customer and the product level is essential
       to understand where to focus your efforts when driving down your returns. With
       1060 product attribute values, Dressipi doesn’t just know what good data means
@@ -47,7 +47,7 @@ featured_articles:
     article_title: Understanding Your Unique Return Rate Profile
     cta_text: LEARN MORE >
     cta_link: https://dressipi.com/downloads/understanding-your-unique-return-rate-profile-whitepaper/
-    image: "/uploads/very-feat-1-fc.jpg"
+    image: "/uploads/Returns%20Whitepaper%20Rectangle.jpg"
   postscriptum:
     title: 
     text: 
