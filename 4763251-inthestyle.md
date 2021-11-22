@@ -7,9 +7,9 @@ sitemap: false
 type: customer
 hero:
   logo: "/uploads/ITS%20Logo.png"
-  alt: adidas
-video: https://dressipi.com/media/adidias_lp.mp4
-video_mask: "/uploads/Adidas%20Video%20Mask-1.png"
+  alt: In The Style
+video: https://dressipi.com/media/inthestyle_lp.mp4
+video_mask: 
 exclude-hero: true
 featured_articles:
   title: Own the Game - Take advantage of the biggest opportunities facing Adidas
