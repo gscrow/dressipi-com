@@ -1,14 +1,8 @@
 ---
 title: Lay the foundations to deliver breakthrough fashion-specific shopping experiences.
 position: 0
-description: |+
-  Discover how a partnership between Adidas and
-  Dressipi can deepen your relationship with your
-  consumers and continue your exceptional growth
-  in ecommerce. Our combined expertise will grow your
-  bottom-line sustainably with less waste, lower
-  returns and more precise production.
-
+description: "Discover how a partnership between In The Style and \nDressipi can deliver
+  highly personalised shopping \njourneys and deliver long-term sustainable growth.\n\n"
 sitemap: false
 type: customer
 hero:
