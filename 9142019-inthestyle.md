@@ -49,9 +49,6 @@ featured_articles:
     cta_text: LEARN MORE >
     cta_link: https://dressipi.com/downloads/understanding-your-unique-return-rate-profile-whitepaper/
     image: "/uploads/returns%20rectangle.jpg"
-  postscriptum:
-    title: 
-    text: 
 featured_content:
   title: Featured Content
   description: We’ve hand-picked the following content that we think will be relevant
