@@ -1,5 +1,5 @@
 ---
-title: Deliver 8% incremental growth with inspiring experiences.
+title: Lay the foundations to deliver breakthrough fashion-specific shopping experiences.
 position: 0
 description: |+
   Discover how a partnership between Adidas and
