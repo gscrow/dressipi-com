@@ -8,7 +8,7 @@ type: customer
 hero:
   logo: "/uploads/ITS%20Logo.png"
   alt: In The Style
-video: 
+video: https://dressipi.com/media/inthestyle_lp.mp4
 video_mask: "/uploads/ITS%20Video%20Mask.png"
 exclude-hero: true
 featured_articles:
