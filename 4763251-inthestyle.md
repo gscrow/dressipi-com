@@ -83,7 +83,7 @@ section_about:
   team_members:
   - Sarah McVittie
   - Fred Cheung
-  - Natalie Theo
+  - Lara Gonzalez
   - James Tuck
   contact_title: "Make every experience more relevant, \n<br>\nmore apparel-specific
     with Dressipi"
