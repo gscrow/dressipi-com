@@ -14,8 +14,9 @@ exclude-hero: true
 featured_articles:
   title: Take advantage of the biggest opportunities facing In The Style
   content:
-  - title: "£2.8m incremental revenue for In The Style by personalising the entire
-      experience"
+  - title: |-
+      <br>
+      £2.8m incremental revenue for In The Style by personalising the entire experience
     description: Create exponential value by personalising each step of the journey,
       from home to PLPs to similar items and more. Crucially, only showing products
       if they are available in the customer’s size - a key cornerstone of personalisation.
@@ -24,7 +25,9 @@ featured_articles:
     cta_text: LEARN MORE >
     cta_link: https://dressipi.com/downloads/success-story-river-island/
     image: "/uploads/Boden_RI-24be63.JPG"
-  - title: "£1.8m incremental revenue by delivering outfits throughout the journey"
+  - title: |-
+      <br>
+      £1.8m incremental revenue by delivering outfits throughout the journey
     description: Our unmatched understanding of the fashion industry means we offer
       unbeatable outfit recommendations tailored to the shopper, driving higher conversion,
       lower returns, and better, more loyal customers. Outfits are completely automated,
@@ -34,7 +37,9 @@ featured_articles:
     cta_text: LEARN MORE >
     cta_link: https://dressipi.com/downloads/success-story-john-lewis/
     image: "/uploads/JL_rectangle.png"
-  - title: Reduce In The Style's return rates by X% with fashion-specific data
+  - title: |-
+      <br>
+      Reduce In The Style's return rates by X% with fashion-specific data
     description: Detailed data on both the customer and the product level is essential
       to understand where to focus your efforts when driving down your returns. With
       1060 product attribute values, Dressipi doesn’t just know what good data means
