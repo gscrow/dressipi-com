@@ -9,51 +9,47 @@ hero:
   logo: "/uploads/ITS%20Logo.png"
   alt: In The Style
 video: https://dressipi.com/media/inthestyle_lp.mp4
-video_mask: 
+video_mask: "/uploads/ITS%20Video%20Mask.png"
 exclude-hero: true
 featured_articles:
-  title: Own the Game - Take advantage of the biggest opportunities facing Adidas
+  title: Take advantage of the biggest opportunities facing In The Style
   content:
-  - title: Deepen your relationship with your consumers by personalising the entire
-      experience
-    description: |-
-      Updated in real-time, Dressipi’s algorithms create exponential and sustainable value by personalising each step of the journey, from home to PLPs to similar items and more. Crucially, only showing products if they are available in the customer’s size - a key cornerstone of personalisation.
-
-      Our recommendations are personalised to the individual and have the consumer at the heart of everything they do, creating a seamless experience across all touchpoints.
+  - title: "£2.8m incremental revenue for In The Style by personalising the entire
+      experience"
+    description: Create exponential value by personalising each step of the journey,
+      from home to PLPs to similar items and more. Crucially, only showing products
+      if they are available in the customer’s size - a key cornerstone of personalisation.
     article_title: River Island increased their revenue by 6% in 12 months with Dressipi’s
       fashion-focused approach to personalisation
     cta_text: LEARN MORE >
     cta_link: https://dressipi.com/downloads/success-story-river-island/
     image: "/uploads/Boden_RI-24be63.JPG"
-  - title: Intensify your focus on your consumer and drive growth by delivering outfits
-      throughout the journey
-    description: |-
-      With Dressipi, Adidas outfits are completely automated, completely personalised and always on-brand. Outfits comprise of different product types, starting from different product types, for different occasions and different sports to show the versatility.
-
-      Based on preferences, activity, product availability and can include items the consumer already owns.
+  - title: "£1.8m incremental revenue by delivering outfits throughout the journey"
+    description: Our unmatched understanding of the fashion industry means we offer
+      unbeatable outfit recommendations tailored to the shopper, driving higher conversion,
+      lower returns, and better, more loyal customers. Outfits are completely automated,
+      completely personalised and always on-brand.
     article_title: How John Lewis achieved a significant increase in revenue with
       outfit recommendations
     cta_text: LEARN MORE >
     cta_link: https://dressipi.com/downloads/success-story-john-lewis/
     image: "/uploads/JL_rectangle.png"
-  - title: Build brand loyalty and increase consumer LTV through inspirational sports
-      and lifestyle experiences
-    description: "Feed Dressipi API’s into Adidas’s members area and create the most
-      personalised experience for your most valued customers by delivering personalised
-      inspiration and outfit inspiration in the context of their wardrobe and sporting
-      / lifestyle preferences.\n\nAllow them to look for similar items to repurchase
-      and give them the option to show explicit preferences. "
-    article_title: An example of what the Adidas members area could look like
-    cta_text: CONTACT FOR DEMO >
-    cta_link: https://dressipi.com/about/contact/
-    image: "/uploads/Members%20area.png"
+  - title: Reduce In The Style's return rates by X% with fashion-specific data
+    description: Detailed data on both the customer and the product level is essential
+      to understand where to focus your efforts when driving down your returns. With
+      1060 product attribute values, Dressipi doesn’t just know what good data means
+      for In The Style - we can produce it.
+    article_title: 
+    cta_text: 
+    cta_link: 
+    image: 
   postscriptum:
-    title: "£274m Incremental Revenue"
-    text: Delivered to Adidas over the next 12 months
+    title: 
+    text: 
 featured_content:
   title: Featured Content
   description: We’ve hand-picked the following content that we think will be relevant
-    for Adidas
+    for In The Style
   content:
   - section: BLOG
     logo: "/uploads/logo.svg"
@@ -95,19 +91,18 @@ section_about:
 quotes_cta_title: Explore our Case Studies
 quotes_cta_link: https://dressipi.com/clients/success-stories/
 quotes:
-- author: Chief Customer Officer, River Island
-  quote: "“Our partnership ….has proven to be a really valuable both commercially
-    and from the support and innovation you have brought to the team. The roadmap
-    and what’s been delivered has been great, your product and the rate you’re evolving
-    it is really impressive” "
-- author: Digital Director, Luxury Retailer
-  quote: "“We wanted a partner that truly understood clothing and would work with
-    us to innovate and create unique experiences in line with our brand DNA. Dressipi
-    delivers on all this and allows us to offer customers a truly personalised experience,
-    which is a key part of our strategy.”"
-- author: Digital Transformation Director, OVS
-  quote: "“The Dressipi team is forensically detailed and our results just get better
-    and better”"
+- author: Digital Insight Analyst, LK Bennett
+  quote: "“Dressipi’s Data Insight Hub provides the team with actionable insights
+    and allows us to get on with the important parts without having to worry about
+    trusting the data quality or reports as they are managed by Dressipi.”"
+- author: Director of Ecommerce, Luxury Retailer (£15m revenue)
+  quote: "“We wanted a partner that went the extra mile, truly understood the fashion
+    domain and would work with us to innovate and create unique experiences that were
+    in line with our brand DNA.”"
+- author: Head of Ecommerce, Belstaff
+  quote: "“We are thrilled to be working with Dressipi. Now we can offer the shopping
+    experiences that customers are demanding whilst maintaining the integrity of our
+    brand identity.”"
 cta_title: "Make every experience more relevant, \n<br>\nmore apparel-specific with
   Dressipi"
 cta_link: "/about/contact/"
