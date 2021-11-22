@@ -48,7 +48,7 @@ featured_articles:
       and improve operating margin
     cta_text: LEARN MORE >
     cta_link: https://dressipi.com/downloads/understanding-your-unique-return-rate-profile-whitepaper/
-    image: 
+    image: "/uploads/returns%20rectangle.jpg"
   postscriptum:
     title: 
     text: 
