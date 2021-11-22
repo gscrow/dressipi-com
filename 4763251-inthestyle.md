@@ -44,7 +44,8 @@ featured_articles:
       to understand where to focus your efforts when driving down your returns. With
       1060 product attribute values, Dressipi doesn’t just know what good data means
       for In The Style - we can produce it.
-    article_title: Understanding Your Unique Return Rate Profile
+    article_title: Learn how to leverage the data you hold to reduce return rates
+      and improve operating margin
     cta_text: LEARN MORE >
     cta_link: https://dressipi.com/downloads/understanding-your-unique-return-rate-profile-whitepaper/
     image: "/uploads/Returns%20Whitepaper%20Rectangle.jpg"
