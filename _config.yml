@@ -2,6 +2,9 @@
 title: Dressipi
 timezone: UTC
 collections:
+  abm-pages:
+    title: ABM Pages
+    output: true
   authors:
     title: Authors
     output: true
