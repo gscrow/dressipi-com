@@ -1,0 +1,129 @@
+---
+title: Deliver 8% incremental growth with inspiring experiences.
+position: 0
+description: |+
+  Discover how a partnership between Adidas and
+  Dressipi can deepen your relationship with your
+  consumers and continue your exceptional growth
+  in ecommerce. Our combined expertise will grow your
+  bottom-line sustainably with less waste, lower
+  returns and more precise production.
+
+sitemap: false
+type: customer
+hero:
+  logo: "/uploads/1280px-Adidas_Logo.svg.png"
+  alt: adidas
+video: https://dressipi.com/media/adidias_lp.mp4
+video_mask: "/uploads/Adidas%20Video%20Mask-1.png"
+exclude-hero: true
+featured_articles:
+  title: Own the Game - Take advantage of the biggest opportunities facing Adidas
+  content:
+  - title: Deepen your relationship with your consumers by personalising the entire
+      experience
+    description: |-
+      Updated in real-time, Dressipi’s algorithms create exponential and sustainable value by personalising each step of the journey, from home to PLPs to similar items and more. Crucially, only showing products if they are available in the customer’s size - a key cornerstone of personalisation.
+
+      Our recommendations are personalised to the individual and have the consumer at the heart of everything they do, creating a seamless experience across all touchpoints.
+    article_title: River Island increased their revenue by 6% in 12 months with Dressipi’s
+      fashion-focused approach to personalisation
+    cta_text: LEARN MORE >
+    cta_link: https://dressipi.com/downloads/success-story-river-island/
+    image: "/uploads/Boden_RI-24be63.JPG"
+  - title: Intensify your focus on your consumer and drive growth by delivering outfits
+      throughout the journey
+    description: |-
+      With Dressipi, Adidas outfits are completely automated, completely personalised and always on-brand. Outfits comprise of different product types, starting from different product types, for different occasions and different sports to show the versatility.
+
+      Based on preferences, activity, product availability and can include items the consumer already owns.
+    article_title: How John Lewis achieved a significant increase in revenue with
+      outfit recommendations
+    cta_text: LEARN MORE >
+    cta_link: https://dressipi.com/downloads/success-story-john-lewis/
+    image: "/uploads/JL_rectangle.png"
+  - title: Build brand loyalty and increase consumer LTV through inspirational sports
+      and lifestyle experiences
+    description: "Feed Dressipi API’s into Adidas’s members area and create the most
+      personalised experience for your most valued customers by delivering personalised
+      inspiration and outfit inspiration in the context of their wardrobe and sporting
+      / lifestyle preferences.\n\nAllow them to look for similar items to repurchase
+      and give them the option to show explicit preferences. "
+    article_title: An example of what the Adidas members area could look like
+    cta_text: CONTACT FOR DEMO >
+    cta_link: https://dressipi.com/about/contact/
+    image: "/uploads/Members%20area.png"
+  postscriptum:
+    title: "£274m Incremental Revenue"
+    text: Delivered to Adidas over the next 12 months
+featured_content:
+  title: Featured Content
+  description: We’ve hand-picked the following content that we think will be relevant
+    for Adidas
+  content:
+  - section: BLOG
+    logo: "/uploads/logo.svg"
+    image: "/uploads/attributes_square.png"
+    title: Tackle the cold start problem with apparel-specific product attributes
+    cta_text: READ THE BLOG >
+    cta_link: https://drive.google.com/file/d/1qtmqasf-3kcRuyG1IZ289hO4OR6WE5gN/view
+  - section: GUIDE
+    logo: "/uploads/logo.svg"
+    image: "/uploads/Sort%20Order-aadb77.jpg"
+    title: Your sort order is your secret weapon to revenue and margin growth
+    cta_text: DOWNLOAD THE WEBINAR >
+    cta_link: https://dressipi.com/downloads/your-sort-order-is-your-secret-weapon-to-success/
+  - section: CASE STUDY
+    logo: "/uploads/Belstaff%20Logo.png"
+    image: "/uploads/Belstaff_success_story_hero_2-bb4fa9.jpg"
+    title: Belstaff increased email revenue by 69% through personalised recommendations
+    cta_text: LEARN MORE >
+    cta_link: https://dressipi.com/downloads/success-story-belstaff/
+section_about:
+  title: About Dressipi
+  content: "We are the apparel AI experts, helping apparel and footwear retailers
+    deliver the relevant products & inspiration their customers deserve, across every
+    part of the shopper journey.\n\n\nDressipi has spent years delivering apparel-speciﬁc
+    algorithms, drawing on the expertise of some of the industry’s top stylists and
+    experts.\n\n\nDressipi owns the most extensive dataset of garment attributes and
+    apparel-speciﬁc customer preferences. \n\n\nOur ability to ingest, cleanse, and
+    augment huge quantities of data from various sources, in real-time, is at the
+    heart of our platform.\n\n\nFor more information, please visit [dressipi.com](/).\n"
+  team_title: Meet your Dressipi Team
+  team_members:
+  - Sarah McVittie
+  - Fred Cheung
+  - Natalie Theo
+  - James Tuck
+  contact_title: "Make every experience more relevant, \n<br>\nmore apparel-specific
+    with Dressipi"
+  contact_label: Contact Us
+quotes_cta_title: Explore our Case Studies
+quotes_cta_link: https://dressipi.com/clients/success-stories/
+quotes:
+- author: Chief Customer Officer, River Island
+  quote: "“Our partnership ….has proven to be a really valuable both commercially
+    and from the support and innovation you have brought to the team. The roadmap
+    and what’s been delivered has been great, your product and the rate you’re evolving
+    it is really impressive” "
+- author: Digital Director, Luxury Retailer
+  quote: "“We wanted a partner that truly understood clothing and would work with
+    us to innovate and create unique experiences in line with our brand DNA. Dressipi
+    delivers on all this and allows us to offer customers a truly personalised experience,
+    which is a key part of our strategy.”"
+- author: Digital Transformation Director, OVS
+  quote: "“The Dressipi team is forensically detailed and our results just get better
+    and better”"
+cta_title: "Make every experience more relevant, \n<br>\nmore apparel-specific with
+  Dressipi"
+cta_link: "/about/contact/"
+cta_label: Contact Us
+layout: default
+---
+
+{%- include customer/top_section.html -%}
+{%- include customer/featured_articles.html -%}
+{%- include customer/featured_content.html -%}
+{%- include customer/quotes.html -%}
+{%- include customer/about.html -%}
+{%- include customer/cta_bottom.html -%}
