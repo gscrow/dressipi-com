@@ -1,6 +1,6 @@
 ---
 title: Dressipi Video:<br>A closer look at our Data Insight Hub
-position: 34
+position: 24
 is-landing-page: true
 description: Learn how to trade as effectively as possible and make a real difference
   to your bottom line with Dressipi's Data Insight Hub.

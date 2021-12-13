@@ -1,0 +1,13 @@
+<div class="quotes">
+  <div class="container gutter">
+  {%- for q in page.quotes -%}
+  <div class="quote_item">
+    <q>{{q.quote}}</q>
+    <b class="quote_author">{{q.author}}</b>
+  </div>
+  {%- endfor -%}
+  <div class="quote_item cta">
+    <a href="{{page.quotes_cta_link}}" class="button button-primary navigation__button">{{page.quotes_cta_title}}</a>
+  </div>
+  </div>
+</div>

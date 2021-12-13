@@ -1,7 +1,7 @@
 ---
 title: 'Dressipi Webinar: How to optimise the sale of overstocked products and release
   maximum cash into your business'
-position: 34
+position: 23
 is-landing-page: true
 includes-video: true
 video-url: https://dressipi.com/media/overstock-webinar.mp4

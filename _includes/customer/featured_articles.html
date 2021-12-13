@@ -1,0 +1,22 @@
+<section class="featured_articles">
+  <h2 class="container gutter feature__title">{{page.featured_articles.title}}</h2>
+  {%- for a in page.featured_articles.content -%}
+  <div class="article_box">
+    <div class="article_box_inner">
+    <div class="article_card">
+      <img src="{{a.image}}" alt="article thumnails">
+      <h4>{{a.article_title}}</h4>
+      <a href="{{a.cta_link}}" class="button button--medium button-secondary text--center" title="team">{{a.cta_text}}</a>
+    </div>
+    <div class="article_description">
+      <h3>{{a.title}}</h3>
+      <p>{{a.description | markdownify }}</p>
+    </div>
+    </div>
+     </div>
+    {%- endfor -%}
+    {%- if page.featured_articles.postscriptum -%}
+      <h2 class="container gutter feature__title">{{page.featured_articles.postscriptum.title}}</h2>
+      <h3 class="container gutter feature__subtitle" style="margin-bottom: 40px;text-align: center">{{page.featured_articles.postscriptum.text}}</h3>
+    {%- endif -%}
+</section>

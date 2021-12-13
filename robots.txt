@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /very-customer-landing-page/
+Disallow: /boden-294985/
+Sitemap: https://dressipi.com/sitemap.xml
