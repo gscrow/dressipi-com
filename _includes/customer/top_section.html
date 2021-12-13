@@ -3,10 +3,14 @@
   <div class="header_box">
     <img src="{{page.hero.logo}}" alt="{{page.hero.alt}}">
 {%- if page.partnership -%}
-  <span>{{page.partnership}}</span>
+  {%- if page.partnership == "nfr" -%}
+    <span class="partnership">X</span>
   {%- else -%}
-  <span class="partnership">X</span>
+    <span>{{page.partnership}}</span>
   {%- endif -%}
+{%- else -%}
+  <span>in partnership with</span>
+{%- endif -%}
     <img src="/uploads/logo.svg" alt="logo">
   </div>
 <div class="banner">
