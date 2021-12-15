@@ -7,7 +7,7 @@ header:
   body: <p class="header__banner-subtitle"> Move from traditional spreadsheet limitations
     to real-time, deeper insights about customers, transactions, returns and operations,
     without any coding or IT intervention </p>
-  hero-image: "/uploads/banner_data-insight-hub.png"
+  hero-image: "/uploads/banner-product-forecasting.png"
   page-title: DATA INSIGHT HUB
   page-title-icon: "/uploads/icon_data-insight-hub-grey.svg"
 description: Move from traditional spreadsheets to real-time, deeper insights about

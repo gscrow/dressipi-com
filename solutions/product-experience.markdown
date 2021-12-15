@@ -8,7 +8,7 @@ header:
     <p class="header__banner-subtitle">
     Power highly personalised fashion-specific customer experiences, resulting in better lifetime value, reduced returns and greater customer loyalty
     </p>
-  hero-image: "/uploads/banner_personalised-recommendations@2x.png"
+  hero-image: "/uploads/banner-product-experience.png"
   page-title: PERSONALISATION
   page-title-icon: "/uploads/icon_personalised-recommendations-grey.svg"
 description: Dressipi powers highly personalised fashion-specific customer experiences

@@ -2,10 +2,9 @@
 layout: default
 ---
 
-{% for section in page.sections %} 
-{% assign handle = section.handle %} {%
-assign my_page_url = page.url | remove: '/' %} 
-{% assign branch = section.subsections.branch %}
+{% for section in page.sections %} {% assign handle = section.handle %} {%
+assign my_page_url = page.url | remove: '/' %} {% assign branch =
+section.subsections.branch %}
 <section
   id="{{ handle }}"
   class="section {% if handle %}{{ section.handle | prepend: 'section-' | append: ' ' }}{% endif %}background--{{ section.color | default:'white' }} {{ page.class }}"
@@ -13,81 +12,104 @@ assign my_page_url = page.url | remove: '/' %}
   <!-- section heading group -->
   {% if section.overview-subtitle %}
   <hgroup class="container gutter section__heading">
-    {% endif %} {% if section.overview-title  %}
+    {% endif %} {% if section.overview-title %}
     <h2>{{ section.overview-title }}</h2>
     <p>{{ section.overview-subtitle }}</p>
   </hgroup>
-  {% endif %}
- {% if section.roi-section %}
+  {% endif %} {% if section.roi-section %}
   <hgroup class="container gutter section__heading roi-title">
     <h2>{{ section.roi-title }}</h2>
   </hgroup>
-  {% endif %}
-  {% if section.title %}
+  {% endif %} {% if section.title %}
   <hgroup class="container gutter section__heading">
     <h2>{{ section.title }}</h2>
-    {% endif %} 
-    {% if section.subtitle %}
+    {% endif %} {% if section.subtitle %}
     <p>{{ section.subtitle }}</p>
-    {% endif %}
-    {% if section.quote %}
+    {% endif %} {% if section.quote %}
     <p>{{ section.quote }}</p>
-    {% if section.retailer %} <p class="strong">{{ section.retailer }}</p>{% endif %}
-    {% if section.action %}<a href="{{ section.action.url }}" class="button button--medium button-{{ section.action.style | default: 'primary' }}">{{ section.action.copy }}</a>{% endif %}
+    {% if section.retailer %}
+    <p class="strong">{{ section.retailer }}</p>
+    {% endif %} {% if section.action %}<a
+      href="{{ section.action.url }}"
+      class="button button--medium button-{{ section.action.style | default: 'primary' }}"
+      >{{ section.action.copy }}</a
+    >{% endif %}
   </hgroup>
   {% endif %}
   <!-- section content group -->
   <div class="section__body">
-    {% case handle %}
-    {% when 'overview' %}
+    {% case handle %} {% when 'overview' %}
     <div class="container">
       <ul class="overview__list">
         {% for subsection in section.subsections %}
         <li class="overview-section__wrap">
-          {% if subsection.image %}
-		      <div class="gutter project__image">
-						<div><!-- keep flex image ratio -->
-              <img src="{{ subsection.image }}" alt="{{ subsection.title }}" {% if subsection.hres-image %}srcset="{{ subsection.hres-image }} 2x"{% endif %} />
-            </div>
-		      </div>
-		      {% endif %}
           <div class="overview-section">
             <div class="overview-section__header">
+              <img
+                src="{{ subsection.image }}"
+                alt="{{ subsection.title }}"
+                class="platform-solution-icon"
+                {%
+                if
+                subsection.hres-image
+                %}srcset="{{ subsection.hres-image }} 2x"
+                {%
+                endif
+                %}
+              />
+
               <p class="project__title">{{ subsection.title }}</p>
             </div>
-            <div class="overview-section__body"><p>{{ subsection.body }}</p></div>
-            {% if subsection.action %}<a href="{{ subsection.action.url }}" class="button button--medium button-{{ subsection.action.style | default: 'secondary' }} text--center">{{ subsection.action.copy }}</a>{% endif %}
+            <div class="overview-section__body">
+              <p>{{ subsection.body }}</p>
+            </div>
+            {% if subsection.action %}<a
+              href="{{ subsection.action.url }}"
+              class="button button--medium button-{{ subsection.action.style | default: 'secondary' }} text--center"
+              >{{ subsection.action.copy }}</a
+            >{% endif %}
           </div>
         </li>
-      {% endfor %}
+        {% endfor %}
       </ul>
     </div>
 
-
     {% when 'solutions' %}
-		<div class="projects">
-		  {% for subsection in section.subsections %}
-		  <div class="project" style="padding: 0">
-		    <div class="container">
-		    	{% if subsection.image %}
-		      <div class="gutter project__image">
-						<div><!-- keep flex image ratio -->
-              <img src="{{ subsection.image }}" alt="{{ subsection.title }}" {% if subsection.hres-image %}srcset="{{ subsection.hres-image }} 2x"{% endif %} />
+    <div class="projects">
+      {% for subsection in section.subsections %}
+      <div class="project" style="padding: 0">
+        <div class="container">
+          {% if subsection.mobile-image %}
+          <div class="gutter project__image">
+            <div>
+              <!-- keep flex image ratio -->
+              <img
+                src="{{ subsection.mobile-image }}"
+                alt="{{ subsection.title }}"
+                {%
+                if
+                subsection.hres-image
+                %}srcset="{{ subsection.hres-image }} 2x, {{ subsection.mobile-image }} x1"
+                {%
+                endif
+                %}
+              />
             </div>
-		      </div>
-		      {% endif %}
-          {% if subsection.branch == 'platform-integrations' %}
+          </div>
+          {% endif %} {% if subsection.branch == 'platform-integrations' %}
           <ul class="integration__logos">
-          {% assign site_integrations = site.integrations | sort:'position' %}
-          {% for integration in site_integrations %}
-            <li class="integration__logo {{ integration.class }}" ><img src="{{ integration.logo }}" alt="{{ integration.title }}" /></li>
-          {% endfor %}
+            {% assign site_integrations = site.integrations | sort:'position' %}
+            {% for integration in site_integrations %}
+            <li class="integration__logo {{ integration.class }}">
+              <img src="{{ integration.logo }}" alt="{{ integration.title }}" />
+            </li>
+            {% endfor %}
           </ul>
           {% endif %}
-		    </div>
-		  </div>
-		  {% endfor %}
-		</div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
     {% when 'intro' %}
     <div
       class="container{% if section.width %}{{ section.width | prepend: '--' }}{% endif %} gutter ul-bullet {{ section.class }}"
@@ -134,7 +156,17 @@ assign my_page_url = page.url | remove: '/' %}
           </div>
           {% endif %}
           <div
-            class="gutter slide__copy{% if subsection.align == 'top' %}--top{% endif %}"
+            class="
+              gutter
+              slide__copy{%
+              if
+              subsection.align
+              ==
+              'top'
+              %}--top{%
+              endif
+              %}
+            "
           >
             <h2 class="slide__title">{{ subsection.title }}</h2>
             <div class="slide__body">{{ subsection.body | markdownify }}</div>
@@ -154,16 +186,26 @@ assign my_page_url = page.url | remove: '/' %}
       <div class="feature">
         <div class="container">
           <div
-            class="gutter feature__copy{% if subsection.align == 'top' %}--top{% endif %}"
+            class="
+              gutter
+              feature__copy{%
+              if
+              subsection.align
+              ==
+              'top'
+              %}--top{%
+              endif
+              %}
+            "
           >
             <h3 class="feature__title">{{ subsection.title }}</h3>
             <p class="feature__subtitle">{{ subsection.subtitle }}</p>
             <div class="feature__body">{{ subsection.body | markdownify }}</div>
-            <div class="container features-container" >
+            <div class="container features-container">
               {% if subsection.action %}<a
-              href="{{ subsection.action.url }}"
-              class="button button--medium button-{{ subsection.action.style | default: 'primary' }} text--center"
-              >{{ subsection.action.copy }}</a
+                href="{{ subsection.action.url }}"
+                class="button button--medium button-{{ subsection.action.style | default: 'primary' }} text--center"
+                >{{ subsection.action.copy }}</a
               >{% endif %}
             </div>
           </div>
@@ -187,14 +229,10 @@ assign my_page_url = page.url | remove: '/' %}
           </div>
           {% endif %}
         </div>
-   
       </div>
       {% endfor %}
-
-  </div>
-    {% when 'benefits' %}
-    {% include partials/roi-contact.html %}
-    {% when nil %}
+    </div>
+    {% when 'benefits' %} {% include partials/roi-contact.html %} {% when nil %}
     <div
       class="container{% if section.width %}{{ section.width | prepend: '--' }}{% endif %} gutter"
     >

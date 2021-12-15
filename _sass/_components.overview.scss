@@ -11,6 +11,13 @@
   max-width: 400px;
   height: 100%;
 
+  .platform-solution-icon {
+    float: left;
+    margin-right: -28px;
+    margin-top: -5px;
+    width: 50px;
+  }
+
   &__wrap {
     margin-right: $gutter-width / 2;
     margin-bottom: rhythm(3);

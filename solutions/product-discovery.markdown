@@ -8,7 +8,7 @@ header:
     <p class="header__banner-subtitle">
     Provide intent-driven categories, filters & personalised recommendations for first time visitors as well as repeat customers
     </p>
-  hero-image: "/uploads/banner-solutions-overview.png"
+  hero-image: "/uploads/banner-product-discovery.png"
   page-title: Product Discovery
   page-title-icon: "/uploads/icon_personalised-recommendations-grey.svg"
   button:
