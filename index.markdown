@@ -4,9 +4,21 @@ position: 1
 header:
   button:
     url: "/contact"
-  color: "#191C24"
-  hero-mobile-image: "/uploads/banner_home-mobile.svg"
-  hero-desktop-image: "/uploads/banner-home.svg"
+  color: "#000"
+  title: Deliver Breakthrough, Fashion Specific, Shopping Experiences
+  body: We are the fashion-AI experts, helping fashion retailers deliver the relevant products & inspiration their visitors deserve, across every part of the shopper journey
+  class: index-banner
+  button:
+    copy: LEARN MORE >
+    url: "/contact"
+    style: primary
+  hero-mobile-image-jpeg: "/uploads/banner_home-mobile.jpeg"
+  hero-mobile-image-png: "/uploads/banner_home-mobile.png"
+  hero-mobile-image-webp: "/uploads/banner_home-mobile.webp"
+  hero-desktop-image-jpeg: "/uploads/banner-home.jpeg"
+  hero-desktop-image-png: "/uploads/banner-home.png"
+  hero-desktop-image-webp: "/uploads/banner-home.webp"
+  page-title:
 description: The leading independently verified Revenue Optimisation Platform for
   fashion retailers. Dressipi transforms how retailers engage with their customers
   through entirely personalised experiences and using data to advance the buying and
