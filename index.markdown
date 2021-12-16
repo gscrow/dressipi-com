@@ -47,22 +47,22 @@ sections:
     subtitle: PRODUCT DISCOVERY 
     body: "Provide intent-driven categories, filters & personalised recommendations for first time visitors as well as repeat customers
       \n"
-    image: "/uploads/section_preferences.png"
-    hres-image: "/uploads/section_preferences@2x.png"
+    image: "/uploads/banner-product-discovery.png"
+    hres-image: "/uploads/banner-product-discovery.png"
     link: Learn More >
     url: /solutions/product-discovery
   - title: Create Customer-Centred, Fashion Experiences
     subtitle: PRODUCT EXPERIENCE
     body: Inspire with outfits relevant to each visitor, showing the value of every product & how to wear your brand their way.
-    image: "/uploads/section_touchpoints.png"
-    hres-image: "/uploads/section_touchpoints@2x.png"
+    image: "/uploads/banner-product-experience.png"
+    hres-image: "/uploads/banner-product-experience.png"
     link: Learn More >
     url: /solutions/product-experience
   - title: Optimise Future Product Assortments & Size Ratios
     subtitle: PRODUCT FORECASTING
     body: Ensure you have the right products to meet demand, significantly reducing overstock & discounting.
-    image: "/uploads/section_real-time.png"
-    hres-image: "/uploads/section_real-time@2x.png"
+    image: "/uploads/banner-product-forecasting.png"
+    hres-image: "/uploads/banner-product-forecasting.png"
     link: Learn More >
     url: /solutions/product-forecasting
 - title: Delivering Relevancy at Scale, Requires Fashion-Specific AI at Scale
