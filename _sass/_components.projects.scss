@@ -12,6 +12,11 @@
   &__image {
     flex: 4;
     justify-content: center;
+
+    .project-img-ai {
+      overflow: hidden;
+      max-height: 332px;
+    }
   }
 
   &__copy {
