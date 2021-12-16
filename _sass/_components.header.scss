@@ -150,7 +150,7 @@ $header-height--mobile: 67px; // 1px border
   padding-top: rhythm(14);
   padding-bottom: rhythm(21);
   background: $header-hero-background-color;
-  background-size: contain !important;
+  background-size: 37% !important;
 
   &-new-updated-dressipi {
     background-color: white !important;
@@ -220,6 +220,7 @@ $header-height--mobile: 67px; // 1px border
   &-content.hero-platform {
     padding-top: 170px;
     padding-bottom: 170px;
+    background-size: cover !important;
   }
 
   &--tight {
@@ -368,7 +369,7 @@ $header-height--mobile: 67px; // 1px border
   }
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 760px) {
   .hero {
     background-position: center !important;
     background-size: cover !important;
@@ -629,7 +630,6 @@ $header-height--mobile: 67px; // 1px border
   .hero {
     padding-top: rhythm(4);
     padding-bottom: rhythm(5);
-    background: $header-hero-background-color !important;
 
     &-new-updated-dressipi {
       background-color: white !important;
