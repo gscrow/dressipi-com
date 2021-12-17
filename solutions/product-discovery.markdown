@@ -28,26 +28,29 @@ sections:
   subsections:
   - title: Predict Intent
     color: lighter
+    class: solution-products-predict
     mini-title: FOR FIRST TIME VISITORS
     body: "Predict shopper intent in real time and get first time visitors to make one more click & start them on a journey of personalised product discovery
       \n"
-    image: "/uploads/section_preferences.png"
-    hres-image: "/uploads/section_preferences@2x.png"
+    image: "/uploads/Predict_Intent@2x.png"
+    hres-image: "/uploads/Predict_Intent@2x.png"
     link: Learn More >
     url: /downloads/your-sort-order-is-your-secret-weapon-to-success/
   - title: Increase Conversion
     mini-title: FOR REPEAT CUSTOMERS
+    class: solution-products-conversion
     body: Deploy personalisation across PDP’s, category pages, editorial themes and filters to increase conversion across the board
-    image: "/uploads/section_touchpoints.png"
-    hres-image: "/uploads/section_touchpoints@2x.png"
+    image: "/uploads/Increase_Conversion@2x.png"
+    hres-image: "/uploads/Increase_Conversion@2x.png"
     link: Learn More >
     url: /downloads/success-story-river-island/
   - title: Deliver Relevancy
     color: lighter
+    class: solution-products-relevancy
     mini-title: FOR LOYAL CUSTOMERS
     body: Leverage the power of personalised inspiration and editorial to demonstrate how much you know and understand your loyal customers
-    image: "/uploads/section_real-time.png"
-    hres-image: "/uploads/section_real-time@2x.png"
+    image: "/uploads/Deliver_Relevancy@2x.png"
+    hres-image: "/uploads/Deliver_Relevancy@2x.png"
     link: Learn More >
     url: /solutions/product-forecasting
 - title: Increase Lifetime Value. Reduce Returns. Greater Customer Loyalty.

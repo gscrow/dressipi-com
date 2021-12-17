@@ -178,7 +178,7 @@ assign my_page_url = page.url | remove: '/' %}
     <div class="features">
       {% for subsection in section.subsections %}
       <div class="feature background--{{ subsection.color | default:'white' }}">
-        <div class="container">
+        <div class="container {{ subsection.class }}">
           <div
             class="gutter feature__copy{% if subsection.align == 'top' %}--top{% endif %}"
           >
