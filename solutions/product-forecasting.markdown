@@ -17,7 +17,7 @@ class: data-insight
 sections:
 - title: Trade as Effectively as Possible
   handle: video
-  subtitle: The Dressipi platform [LINK] will move you from traditional spreadsheet limitations to real-time, deeper insights about customers, transactions, returns and operations, without any coding or IT intervention.
+  subtitle: <a href="/platform/" target="_blank">The Dressipi platform</a> will move you from traditional spreadsheet limitations to real-time, deeper insights about customers, transactions, returns and operations, without any coding or IT intervention.
   video-url: https://dressipi.com/media/data-insight-hub-video.mp4
 - title: 
   handle: features

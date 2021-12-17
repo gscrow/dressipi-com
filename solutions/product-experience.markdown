@@ -21,7 +21,7 @@ has-contact-section: false
 sections:
 - title: A Truly Unique & Personalised Experience
   handle: video
-  subtitle: As part of the Dressipi<a href="/platform/" target="_blank"> platform</a>, we continually build an understanding of your visitors and how they interact with your products at every step of their journey to make sure their experiences get better and better. 
+  subtitle: As part of the<a href="/platform/" target="_blank"> Dressipi platform</a>, we continually build an understanding of your visitors and how they interact with your products at every step of their journey to make sure their experiences get better and better. 
   video-url: https://dressipi.com/media/data-insight-hub-video.mp4
 - title: 
   handle: features

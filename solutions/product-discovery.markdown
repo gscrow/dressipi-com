@@ -21,7 +21,7 @@ description: 'Dressipi''s solutions allow fashion retailers to better understand
 sections:
 - title: The Right Product, in the Right Size, at the Right Time
   handle: video
-  subtitle: Updated in real time, the Dressipi platform [LINK] delivers relevant products & inspiration online, in-store, in-app, email and through new journeys of the future (VR & AR). 
+  subtitle: Updated in real time,<a href="/platform/" target="_blank"> Dressipi platform</a> delivers relevant products & inspiration online, in-store, in-app, email and through new journeys of the future (VR & AR). 
   video-url: https://dressipi.com/media/data-insight-hub-video.mp4
 - title: 
   handle: features
