@@ -7,7 +7,7 @@ type: platform
 header:
   hero-mobile-image-jpeg: "/uploads/banner-solutions-overview.jpg"
   hero-mobile-image-png: "/uploads/banner-solutions-overview.png"
-  hero-mobile-image-webp: "/uploads/banner-solutions-overview.webpp"
+  hero-mobile-image-webp: "/uploads/banner-solutions-overview.webp"
   hero-desktop-image-jpeg: "/uploads/banner-solutions-overview.jpg"
   hero-desktop-image-png: "/uploads/banner-solutions-overview.png"
   hero-desktop-image-webp: "/uploads/banner-solutions-overview.webp"

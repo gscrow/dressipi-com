@@ -64,10 +64,11 @@
         {% if my_page_url == '' or  my_page_url == 'platform'%}
         <div class="banner-image">
           <picture>
-          <source type="image/webp" srcset="{{ page.header.hero-desktop-image-webp}} 1000w, {{ page.header.hero-mobile-image-webp }} 500w">
-          <source type="image/jpeg" srcset="{{ page.header.hero-desktop-image-jpeg}} 1000w, {{ page.header.hero-mobile-image-jpeg }} 500w" >
-          <source type="image/png" srcset="{{ page.header.hero-desktop-image-png}} 1000w, {{ page.header.hero-mobile-image-png }} 500w">
-          <img src="{{ page.header.hero-mobile-image-jpeg }}" srcset="{{ page.header.hero-desktop-image-jpeg}} 1000w" alt="">
+          <source type="image/webp" srcset="{{ page.header.hero-desktop-image-webp}} 2x, {{ page.header.hero-mobile-image-webp }} 1x">
+          <source type="image/jpeg" srcset="{{ page.header.hero-desktop-image-jpeg}} 2x, {{ page.header.hero-mobile-image-jpeg }} 1x" >
+          <source type="image/png" srcset="{{ page.header.hero-desktop-image-png}} 2x, {{ page.header.hero-mobile-image-png }} 1x">
+          
+          <img src="{{ page.header.hero-mobile-image-jpeg }}" srcset="{{ page.header.hero-desktop-image-jpeg}} 2x" alt="">
           </picture>
         </div>
         {% endif %}

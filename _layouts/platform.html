@@ -83,16 +83,8 @@ section.subsections.branch %}
           <div class="gutter project__image">
             <div class="{{ subsection.solution-class }} ">
               <!-- keep flex image ratio -->
-              <img
-                src="{{ subsection.mobile-image }}"
-                alt="{{ subsection.title }}"
-                {%
-                if
-                subsection.hres-image
-                %}srcset="{{ subsection.hres-image }} 2x, {{ subsection.mobile-image }} x1"
-                {%
-                endif
-                %}
+              <img src="{{ subsection.mobile-image }}" alt="{{ subsection.title }}" {% if subsection.hres-image %}srcset="{{ subsection.hres-image }} 2x"
+                {% endif %}
               />
             </div>
           </div>
