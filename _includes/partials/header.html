@@ -55,14 +55,14 @@
   </div>
 
   {% unless page.exclude-hero or page.includes-video %}
-  <div class="hero{% if page.header.height =='tight' or my_page_url contains 'blog' or my_page_url contains 'resources' %} hero--tight{% endif %}{% unless my_page_url == '' %} hero-content {{ my_page_url | prepend: "hero-"}}{% endunless %}{% if page.header.hero-image %} hero--mobile{% endif %} {% if my_page_url == '' %}index{% endif %}" style="background:{% if page.type == 'platform' %} url({{ page.header.hero-image }}) {{ page.header.color | default: '#F3F4F7' }}  no-repeat 50%  {% else if page.header.hero-image %}{{ page.header.color | default: '#F3F4F7' }} url({{ page.header.hero-image }}) no-repeat 74% {% else if page.header.color %}{{ page.header.color | default: '#F3F4F7' }}{% endif %};">
+  <div class="hero{% if page.header.height =='tight' or my_page_url contains 'blog' or my_page_url contains 'resources' %} hero--tight{% endif %}{% unless my_page_url == '' %} hero-content {{ my_page_url | prepend: "hero-"}}{% endunless %}{% if page.header.hero-image %} hero--mobile{% endif %} {% if my_page_url == '' %}index{% endif %} {% if my_page_url == 'platform' %}platform{% endif %}" style="background:{% if page.type == 'platform' %} url({{ page.header.hero-image }}) {{ page.header.color | default: '#F3F4F7' }}  no-repeat 50%  {% else if page.header.hero-image %}{{ page.header.color | default: '#F3F4F7' }} url({{ page.header.hero-image }}) no-repeat 74% {% else if page.header.color %}{{ page.header.color | default: '#F3F4F7' }}{% endif %};">
     <div class="container gutter landing{% if my_page_url contains 'new-updated-dressipi' %}{% endif %}{% if page.header.hero_form %} hero__flex{% endif %}">
       <div class="hero__content {% if page.header.width %}{{ page.header.width | prepend: '--' }}{% endif %}{% if my_page_url contains 'blog' %}--extend{% endif %}">
         {% if my_page_url contains 'author' and page.image %}
           <img src="{{ page.image }}" title="{{ page.title }}" class="thumb thumb--rounded"/>
         {% endif %}
-        {% if my_page_url == '' %}
-        <div class="index-image">
+        {% if my_page_url == '' or  my_page_url == 'platform'%}
+        <div class="banner-image">
           <picture>
           <source type="image/webp" srcset="{{ page.header.hero-desktop-image-webp}} 1000w, {{ page.header.hero-mobile-image-webp }} 500w">
           <source type="image/jpeg" srcset="{{ page.header.hero-desktop-image-jpeg}} 1000w, {{ page.header.hero-mobile-image-jpeg }} 500w" >
