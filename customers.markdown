@@ -2,6 +2,7 @@
 title: Customers
 position: 2
 navigation: header
+footer: customer
 has-menu: false
 header:
   title: How River Island increased their revenue by 6% in 12 months with Dressipi’s

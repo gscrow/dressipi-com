@@ -2,6 +2,7 @@
 title: Platform
 position: 0
 navigation: header
+footer: platform
 has-menu: false
 type: platform
 header:

@@ -32,10 +32,10 @@ sections:
   roi-section: true
   subsections:
   - link: Try Demo
-    url: "/trydemo"
+    url: "/try-demo"
     image: "/uploads/icon-onboarding.svg"
   - link: Contact Sales
-    url: "/contactsales"
+    url: "/contact-sales"
     image: "/uploads/icon-rollout.svg"
   - link: Case Studies
     url: "/customers/"
