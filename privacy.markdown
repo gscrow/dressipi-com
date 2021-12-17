@@ -23,7 +23,7 @@ We ask that you read this privacy notice carefully as it contains important info
 
 **_StyleMania Ltd_** is a company registered in England and Wales under registration number 7063626 whose registered office is at StyleMania Ltd, 85 Great Portland Street, London, W1W 7LT, UK, trading as Dressipi (“**_Dressipi_**”).
 
-Dressipi’s mission is to help people easily find the clothes they will love and enable retailers to be more customer-centric and efficient. For more information about us, please visit our [“About us” ](https://dressipi.com/about/about-us/) page on our website.
+Dressipi’s mission is to help people easily find the clothes they will love and enable retailers to be more customer-centric and efficient. For more information about us, please visit our [“About us” ](https://dressipi.com/company/about-us/) page on our website.
 
 ## Services
 
