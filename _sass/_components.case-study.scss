@@ -176,6 +176,18 @@
   background: $section-background-color;
 }
 
+@media (max-width: 950px) {
+  .case-study__banner {
+    margin-top: 32px;
+    float: left;
+    width: 100%;
+
+    .case-study {
+      margin: 0 auto;
+    }
+  }
+}
+
 @include responsive(tablet) {
   .case-study {
     max-width: calc-columns-width(3);
@@ -193,15 +205,7 @@
     }
   }
 
-  .case-study__banner {
-    margin-top: 32px;
-    float: left;
-    width: 100%;
-
-    .case-study {
-      margin: 0 auto;
-    }
-  }
+  
 
   .index-case-study {
     flex-wrap: wrap;

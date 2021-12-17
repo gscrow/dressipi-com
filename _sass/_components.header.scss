@@ -217,6 +217,22 @@ $header-height--mobile: 67px; // 1px border
     }
   }
 
+  &-content.hero-customers {
+    .hero__content {
+      float: none;
+      width: auto;
+      max-width: none;
+
+      .customer-banner {
+        float: left;
+
+        .header__title {
+          max-width: 545px;
+        }
+      }
+    }
+  }
+
   &-content.hero-platform {
     background-size: cover !important;
   }
@@ -659,7 +675,6 @@ $header-height--mobile: 67px; // 1px border
   .hero-content .header__title {
     line-height: rhythm(5);
   }
-  
 
   .hero {
     padding-top: rhythm(4);

@@ -10,6 +10,7 @@ header:
     copy: SCHEDULE A FREE CONSULTATION >
     url: "/contact"
     style: primary
+  class: customer-banner
   hero-image: false
   page-title: SUCCESS STORIES
   page-title-icon: "/uploads/icon_success-story-colour.svg"
