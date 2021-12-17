@@ -150,7 +150,7 @@ $header-height--mobile: 67px; // 1px border
   padding-top: rhythm(14);
   padding-bottom: rhythm(21);
   background: $header-hero-background-color;
-  background-size: 37% !important;
+  background-size: 47% !important;
 
   &-new-updated-dressipi {
     background-color: white !important;
@@ -268,6 +268,10 @@ $header-height--mobile: 67px; // 1px border
 }
 
 @media (min-width: 1001px) {
+  .hero {
+    background-size: 37% !important;
+  }
+
   .navigation-dropdown {
     position: relative;
     padding-top: 15px;
@@ -325,6 +329,24 @@ $header-height--mobile: 67px; // 1px border
       opacity: 1;
       width: 205px;
     }
+  }
+}
+
+@media (min-width: 1101px) {
+  .hero {
+    background-size: 33% !important;
+  }
+}
+
+@media (min-width: 1301px) {
+  .hero {
+    background-size: 30% !important;
+  }
+}
+
+@media (min-width: 1501px) {
+  .hero {
+    background-size: 22% !important;
   }
 }
 
