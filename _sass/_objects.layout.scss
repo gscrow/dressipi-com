@@ -18,37 +18,13 @@
 }
 
 .solution-products-predict,
-.solution-products-relevancy,
-.solution-products-conversion {
-  max-width: 1670px;
-
-  .feature__copy {
-    max-width: 540px;
-  }
-
+.solution-products-conversion,
+.solution-products-relevancy {
   .feature__image {
     justify-content: left;
-    max-width: 900px;
-
-    img {
-      width: 150%;
-      max-width: none;
-    }
   }
 }
 
-.solution-products-conversion {
-  justify-content: space-evenly;
-
-  .feature__image {
-    justify-content: center !important;
-
-    img {
-      width: 180%;
-      max-width: 180%;
-    }
-  }
-}
 
 .multi-columns {
   @include flexbox;
