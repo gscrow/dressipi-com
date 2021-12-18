@@ -95,7 +95,7 @@ sections:
   color: light-grey 
   button:
     copy: Contact Us
-    url: /company/contact-us
+    url: /company/contact
     style: primary
 
 

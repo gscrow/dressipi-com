@@ -88,7 +88,7 @@ sections:
     number-right-description: returns reduction
     action:
       copy: Case Studies >
-      url: "/solutions/overview/"
+      url: "/customers/"
       style: primary
 - roi-title: Dressipi Makes it Easy to Get Started & Deliver ROI
   handle: benefits

@@ -78,7 +78,7 @@ sections:
   retailer: Simon Konn, Insights & CRM Director
   action:
     copy: CASE STUDIES
-    url: "/resources/guides/"
+    url: "/customers/"
 - roi-title: Dressipi Makes it Easy to Get Started & Deliver ROI
   handle: benefits
   roi-section: true

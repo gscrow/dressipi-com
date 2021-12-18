@@ -66,7 +66,7 @@ sections:
     number-right-description: retention
     action:
       copy: Case Studies >
-      url: "/solutions/overview/"
+      url: "/customers/"
       style: primary
 - roi-title: Dressipi Makes it Easy to Get Started & Deliver ROI
   color: white
