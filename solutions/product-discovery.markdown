@@ -72,7 +72,7 @@ sections:
       copy: Case Studies >
       url: "/customers/"
       style: primary
-- roi-title: Dressipi Makes it Easy to Get Started & Deliver ROI
+- roi-title: Dressipi Makes it Easy to Get Started & Quickly Deliver ROI
   handle: benefits
   roi-section: true
   subsections:

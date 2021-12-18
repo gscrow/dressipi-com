@@ -45,7 +45,7 @@ sections:
   - How OVS Benefited from Dressipi’s Personalised In-Store Emails
   - How LK Bennett is using Dressipi’s Data Insight Hub
   - How A Luxury Retailer Gives Each Customer a Tailored Shopping Experience
-- roi-title: Dressipi Makes it Easy to Get Started & Deliver ROI
+- roi-title: Dressipi Makes it Easy to Get Started & Quickly Deliver ROI
   handle: benefits
   is-centered: true
   roi-section: true

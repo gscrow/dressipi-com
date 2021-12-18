@@ -60,7 +60,7 @@ sections:
     logo: "/uploads/logo_john-lewis.svg"
     image: "/uploads/John-Lewis.jpg"
   hero-image: false
-- roi-title: Dressipi Makes it Easy to Get Started & Deliver ROI
+- roi-title: Dressipi Makes it Easy to Get Started & Quickly Deliver ROI
   handle: benefits
   is-centered: true
   roi-section: true
