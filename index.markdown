@@ -53,6 +53,7 @@ sections:
     url: /solutions/product-discovery
   - title: Create Customer-Centred, Fashion Experiences
     subtitle: PRODUCT EXPERIENCE
+    color: white
     body: Inspire with outfits relevant to each visitor, showing the value of every product & how to wear your brand their way.
     image: "/uploads/banner-product-experience.png"
     hres-image: "/uploads/banner-product-experience.png"

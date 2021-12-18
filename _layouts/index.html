@@ -65,7 +65,7 @@ layout: default
 {% when 'features' %}
 <div class="features index">
   {% for subsection in section.subsections %}
-    <div class="feature {{ subsection.class }}">
+    <div class="feature {{ subsection.class }} background--{{ subsection.color }} ">
       <div class="container benefits text--center">
         {% for workflow in section.workflows %}
           <div class="gutter benefit">
