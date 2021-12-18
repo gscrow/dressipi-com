@@ -3,12 +3,10 @@ title: Product Forecasting
 position: 3
 navigation: solution-footer
 header:
-  title: Increasing Sell-Through. Reducing Discounting. Driving Profitability.
-  body: <p class="header__banner-subtitle"> Move from traditional spreadsheet limitations
-    to real-time, deeper insights about customers, transactions, returns and operations,
-    without any coding or IT intervention </p>
+  title: Optimise Future Product Assortments & Size ratios.
+  body: <p class="header__banner-subtitle"> Ensure you have the right products to meet demand, significantly reducing overstock & discounting </p>
   hero-image: "/uploads/banner-product-forecasting.png"
-  page-title: DATA INSIGHT HUB
+  page-title: PRODUCT FORECASTING
   page-title-icon: "/uploads/icon_data-insight-hub-grey.svg"
 description: Move from traditional spreadsheets to real-time, deeper insights about
   customers, transactions and returns to increase sell-through, reduce discounting
@@ -22,54 +20,33 @@ sections:
 - title: 
   handle: features
   subsections:
-  - title: Daily Trading Insight
+  - mini-title: STOCK PREDICTIONS
     color: lighter
-    subtitle: Easily visualise your data to spot quick wins and trade as effectively
-      as possible
-    body: Identify what % of garments are driving what % of revenue and fragmentation
-      per category. Access detailed, fashion-specific data on customers and garments
-      to understand how products are bought and interacted with. Get better ROI on
-      marketing spend, increased revenue and productivity gain. Click below to learn
-      more.
+    title: Reduce Size Fragmentation
+    subtitle: Equip your buyers and merchandisers with the sales velocity and optimal size ratios for every product at SKU level to help inform replenishment & future buying decisions.
     image: "/uploads/section_daily_trading_insight@2x.png"
     hres-image: "/uploads/section_daily_trading_insight@2x.png"
     action:
-      copy: Daily Trading Insight >
+      copy: Learn More >
       url: https://dressipi.com/closer-look-at-our-data-insight-hub/
-  - title: Returns Analysis
-    subtitle: Gain better understanding into what drives returns and ways to reduce
-      them
-    body: What are the biggest triggers for your returns? Get more accurate and targeted
-      insights that break down returns data, analysing the causes at both category
-      and product level, along with practical ways to reduce them. Click below to
-      learn more.
+  - mini-title: OVERSTOCK STRATEGY
+    title: Reduce Discounting
+    subtitle: Get rid of blanket sales and maximise sell-through to protect margins. Identify the optimum time to markdown a product, the recommended percentage to use and a distribution method that matches the right products to the right customers.
     image: "/uploads/section_returns-analysis.png"
     hres-image: "/uploads/section_returns-analysis@2x.png"
     action:
-      copy: Returns Analysis >
-      url: "/downloads/understanding-your-unique-return-rate-profile-whitepaper/"
-  - title: Smarter Overstock Strategy
+      copy: Learn More >
+      url: "/downloads/dressipi-optimise-sale-overstocked-products-webinar/"
+  - mini-title: RETURNS ANALYSIS
     color: lighter
-    subtitle: Optimise when, how and who you discount to
-    body: |
-      Get rid of blanket sales and maximise your sell-through to protect margins.
-      Identify the optimum time to markdown a product, the recommended percentage to use and a distribution method that matches the right products to the right customers. Click below to learn more.
+    title: Reduce Returns 
+    subtitle: |
+      Get more accurate and targeted insights that break down returns data, analysing the causes at both category and product level, along with practical ways to reduce them.
     image: "/uploads/section-overstock.png"
     hres-image: "/uploads/section-overstock@2x.png"
     action:
-      copy: Smarter Overstock Strategy >
-      url: "/dressipi-optimise-sale-overstocked-products-webinar/"
-  - title: Stock Predictions
-    subtitle: Use data to better manage, forecast and buy products
-    body: Validate your gut predictions and trade decisions with up to the minute
-      data. Equip your buyers and merchandisers with the sales velocity and optimal
-      size ratios for every product at SKU level to help inform replenishment decisions
-      and the shape of future buys. Click below to learn more.
-    image: "/uploads/section_stock-predictions.png"
-    hres-image: "/uploads/section_stock-predictions@2x.png"
-    action:
-      copy: Stock Predictions >
-      url: "/contact/"
+      copy: Learn More >
+      url: "/downloads/understanding-your-unique-return-rate-profile-whitepaper/"
 - title: Increase Sell-Through. Reduce Discounting. Drive Profitability.
   paragraph-narrow: true
   color: lighter
