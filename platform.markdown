@@ -47,6 +47,8 @@ sections:
       url: "/solutions/data-insight-hub/"
 - title: Enterprise AI at Scale
   handle: solutions
+  solutions-class: platform-ai
+  class: top-section
   subtitle: Technology that allows processing of millions of data points at speed to deliver smarter predictions and enabling quicker decisions
   subsections:
   - title:
