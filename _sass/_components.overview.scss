@@ -61,8 +61,8 @@
 
   &__body {
     background: $background--lighter;
-    padding: rhythm(2);
-    min-height: 132px;
+    padding: rhythm(2) !important;
+    min-height: 256px;
 
     > p {
       text-align: center;

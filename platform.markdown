@@ -25,20 +25,23 @@ sections:
   subsections:
   - title: Customer Relevancy
     image: "/uploads/icon_customer-relevancy.png"
-    body: 'Build deeper relationships with customers, to increase LTV, retention, acquisition and reduce churn:
-    Personalised product discovery 
-    Personalised customer experiences
-    Personalised journeys'
+    body: "Build deeper relationships with customers, to increase LTV, retention, acquisition and reduce churn:
+    <ul>
+    <li>Personalised product discovery</li>
+    <li>Personalised customer experiences</li>
+    <li>Personalised journeys</li>
+    </ul>"
     action:
       copy: Find Out How >
       url: "/solutions/personalisation/"
   - title: Retailer Intelligence
     image: "/uploads/icon_retailer-intelligence.png"
-    body: 'Get answers on what’s happening and what to do next:
-    Intelligent assortment optimisation
-    Intelligent stock replenishment
-    Intelligent promotions'
-
+    body: "Get answers on what’s happening and what to do next:
+    <ul>
+    <li>Intelligent assortment optimisation</li>
+    <li>Intelligent stock replenishment</li>
+    <li>Intelligent promotions</li>
+    </ul>"
     action:
       copy: Find Out How >
       url: "/solutions/data-insight-hub/"
