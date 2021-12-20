@@ -169,6 +169,16 @@
       max-width: 60%;
     }
   }
+
+  .index-features {
+    padding-top: 0;
+
+    .index {
+      .index-product-discovery {
+        padding-top: 40px;
+      }
+    }
+  }
 }
 
 .intro {
