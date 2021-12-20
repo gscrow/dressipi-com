@@ -8,7 +8,7 @@
   &.personalisation.section-benefits {
     background-color: $background--lighter;
   }
-  
+
   &.data-insight.section-benefits {
     background-color: $background--white;
   }
@@ -23,6 +23,14 @@
   .section__heading {
     .section__heading-subtitle.narrow {
       max-width: 675px;
+    }
+  }
+
+  .section__heading.platform-quote {
+    margin-bottom: 0;
+    
+    h2 {
+      display: none;
     }
   }
 
