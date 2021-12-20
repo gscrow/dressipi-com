@@ -8,7 +8,7 @@ header:
     <p class="header__banner-subtitle">
     Inspire with outfits & stories relevant to each visitor, showing them the value of every product &how to wear your brand their way</p>
   hero-image: "/uploads/banner-product-experience.png"
-  page-title: PERSONALISATION
+  page-title: Product Experience
   page-title-icon: "/uploads/icon_personalised-recommendations-grey.svg"
   button:
     copy: Request A Demo
