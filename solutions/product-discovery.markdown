@@ -10,7 +10,7 @@ header:
     </p>
   hero-image: "/uploads/banner-product-discovery.png"
   page-title: Product Discovery
-  page-title-icon: "/uploads/icon_personalised-recommendations-grey.svg"
+  page-title-icon: "/uploads/icon_product-discovery.svg"
   button:
     copy: Request A Demo
     url: "/contact"
