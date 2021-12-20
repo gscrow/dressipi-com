@@ -67,11 +67,14 @@ sections:
     image: 
     integrations:
     - Exponea
-    - Ometria
-    - Sap Hybris
-    - Sales Force
-    - IBM
-    - Astound
+    - Commerce Cloud
+    - Shopify
+    - Adobe Experience Cloud
+    - Emarsys
+    - Magento
+    - Oracle Responsys
+    - BigCommerce
+    - Commercetools
 - title: title
   handle: solutions
   quote: "“Dressipi is a very strategic part of our platform, not just an add-on or any other supplier. It’s central to how we’re powering recommendations, how we’re powering the sort and rank on the PLP, and how we introduce more inspiration-led categories and content slots. The key is how it keeps all of our experiences relevant & consistent across all parts of the journey.”"
