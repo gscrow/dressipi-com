@@ -96,7 +96,7 @@ layout: default
           <p class="feature__subtitle">{{ subsection.subtitle }}</p>
           <h2 class="feature__title">{{ subsection.title }}</h2>
           <div class="feature__body">{{ subsection.body | markdownify }}</div>
-          <a href="{{ subsection.url }}" class="article__content__more">{{ subsection.link }}</a>
+          <a href="{{ subsection.url }}" class="button--medium button-primary">{{ subsection.link }}</a>
         </div>
       </div>
       {% if subsection.action %}
