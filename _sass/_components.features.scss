@@ -59,19 +59,28 @@
   background-color: $background--lighter;
 }
 
-.index {
-  .feature-image-wrapper {
-    display: block;
-    width: 100%;
-    text-align: center;
+.index-features {
+  padding-top: 0;
 
-    img {
-      display: inline;
-      width: 55%;
-      margin: 3px auto;
+  .index {
+    .index-product-discovery {
+      padding-top: 96px;
+    }
+
+    .feature-image-wrapper {
+      display: block;
+      width: 100%;
+      text-align: center;
+
+      img {
+        display: inline;
+        width: 55%;
+        margin: 3px auto;
+      }
     }
   }
 }
+
 .feature__image .feature__image_line {
   display: grid;
   gap: 10px;

@@ -42,9 +42,11 @@ sections:
     image: "/uploads/icon-results.svg"
 - title: 
   handle: features
+  class: index-features
   subsections:
   - title: Helping All Visitors Find Their Best Products Faster
     subtitle: PRODUCT DISCOVERY 
+    class: index-product-discovery
     body: "Provide intent-driven categories, filters & personalised recommendations for first time visitors as well as repeat customers
       \n"
     image: "/uploads/banner-product-discovery.png"
