@@ -31,9 +31,6 @@ sections:
   is-centered: true
   roi-section: true
   subsections:
-  - link: Try Demo
-    url: "/try-demo"
-    image: "/uploads/icon-onboarding.svg"
   - link: Contact Sales
     url: "/contact-sales"
     image: "/uploads/icon-rollout.svg"

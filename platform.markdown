@@ -44,7 +44,7 @@ sections:
     </ul>"
     action:
       copy: Find Out How >
-      url: "/solutions/data-insight-hub/"
+      url: "/solutions/product-forecasting/"
 - title: Enterprise AI at Scale
   handle: solutions
   solutions-class: platform-ai
