@@ -182,7 +182,7 @@ assign my_page_url = page.url | remove: '/' %}
           <div
             class="gutter feature__copy{% if subsection.align == 'top' %}--top{% endif %}"
           >
-            <h4 class="feature__mini-title">{{ subsection.mini-title }}</h4>
+            <p class="feature__mini-title">{{ subsection.mini-title }}</p>
             <h3 class="feature__title">{{ subsection.title }}</h3>
             <p class="feature__subtitle">{{ subsection.subtitle }}</p>
             <div class="feature__body">{{ subsection.body | markdownify }}</div>
