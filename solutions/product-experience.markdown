@@ -6,13 +6,13 @@ header:
   title: Create Customer-Centred, Fashion Experiences
   body: |-
     <p class="header__banner-subtitle">
-    Inspire with outfits & stories relevant to each visitor, showing them the value of every product &how to wear your brand their way</p>
+    Inspire with outfits & stories relevant to each visitor, showing them the value of every product & how to wear your brand their way</p>
   hero-image: "/uploads/banner-product-experience.png"
   page-title: Product Experience
   page-title-icon: "/uploads/icon_personalised-recommendations-grey.svg"
   button:
     copy: Request A Demo
-    url: "/contact"
+    url: "/try-demo/"
     style: primary
 description: Dressipi powers highly personalised fashion-specific customer experiences
   for better lifetime value, reduced returns and greater customer loyalty.
@@ -31,7 +31,7 @@ sections:
     subtitle: Show outfits displayed by occasion, inspiring the visitor and showing the versatility of the garment.
     color: lighter
     link: Learn More >
-    url: /blog/personalised-outfits-masterclass-the-top-takeaways/
+    url: /blog/driving-better-predictions-with-better-outfit-algorithms/
     image: "/uploads/Inspire_Your_Visitors@2x.png"
     hres-image: "/uploads/Inspire_Your_Visitors@2x.png"
   - title: Increase 1st to 2nd Purchases

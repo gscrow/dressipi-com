@@ -8,6 +8,10 @@ header:
   hero-image: "/uploads/banner-product-forecasting.png"
   page-title: PRODUCT FORECASTING
   page-title-icon: "/uploads/icon_data-insight-hub-grey.svg"
+  button:
+    copy: Request A Demo
+    url: "/try-demo/"
+    style: primary
 description: Move from traditional spreadsheets to real-time, deeper insights about
   customers, transactions and returns to increase sell-through, reduce discounting
   and drive profitability.
@@ -15,7 +19,7 @@ class: data-insight
 sections:
 - title: Trade as Effectively as Possible
   handle: video
-  subtitle: <a href="/platform/" target="_blank">The Dressipi platform</a> will move you from traditional spreadsheet limitations to real-time, deeper insights about customers, transactions, returns and operations, without any coding or IT intervention.
+  subtitle: <a href="/platform/">The Dressipi platform</a> will move you from traditional spreadsheet limitations to real-time, deeper insights about customers, transactions, returns and operations, without any coding or IT intervention.
   video-url: https://dressipi.com/media/data-insight-hub-video.mp4
 - title: 
   handle: features
@@ -32,8 +36,8 @@ sections:
   - mini-title: OVERSTOCK STRATEGY
     title: Reduce Discounting
     subtitle: Get rid of blanket sales and maximise sell-through to protect margins. Identify the optimum time to markdown a product, the recommended percentage to use and a distribution method that matches the right products to the right customers.
-    image: "/uploads/section_returns-analysis.png"
-    hres-image: "/uploads/section_returns-analysis@2x.png"
+    image: "/uploads/section-overstock.png"
+    hres-image: "/uploads/section-overstock@2x.png"
     action:
       copy: Learn More >
       url: "/downloads/dressipi-optimise-sale-overstocked-products-webinar/"
@@ -42,8 +46,8 @@ sections:
     title: Reduce Returns 
     subtitle: |
       Get more accurate and targeted insights that break down returns data, analysing the causes at both category and product level, along with practical ways to reduce them.
-    image: "/uploads/section-overstock.png"
-    hres-image: "/uploads/section-overstock@2x.png"
+    image: "/uploads/section_returns-analysis.png"
+    hres-image: "/uploads/section_returns-analysis@2x.png"
     action:
       copy: Learn More >
       url: "/downloads/understanding-your-unique-return-rate-profile-whitepaper/"

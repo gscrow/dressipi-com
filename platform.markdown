@@ -33,7 +33,7 @@ sections:
     </ul>"
     action:
       copy: Find Out How >
-      url: "/solutions/personalisation/"
+      url: "/solutions/product-discovery/"
   - title: Retailer Intelligence
     image: "/uploads/icon_retailer-intelligence.png"
     body: "Get answers on what’s happening and what to do next:

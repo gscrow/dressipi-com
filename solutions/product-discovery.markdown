@@ -13,16 +13,12 @@ header:
   page-title-icon: "/uploads/icon_product-discovery.svg"
   button:
     copy: Request A Demo
-    url: "/contact"
+    url: "/try-demo/"
     style: primary
 description: 'Dressipi''s solutions allow fashion retailers to better understand their
   customer''s preferences, anticipate demand faster and personalise all touchpoints
   to stay ahead. '
 sections:
-- title: The Right Product, in the Right Size, at the Right Time
-  handle: video
-  subtitle: Updated in real time,<a href="/platform/" target="_blank"> Dressipi platform</a> delivers relevant products & inspiration online, in-store, in-app, email and through new journeys of the future (VR & AR). 
-  video-url: https://dressipi.com/media/data-insight-hub-video.mp4
 - title: 
   handle: features
   subsections:
@@ -43,7 +39,7 @@ sections:
     image: "/uploads/Increase_Conversion@2x.png"
     hres-image: "/uploads/Increase_Conversion@2x.png"
     link: Learn More >
-    url: /downloads/success-story-river-island/
+    url: /downloads/success-story-luxury-retailer/
   - title: Deliver Relevancy
     color: lighter
     class: solution-products-relevancy
@@ -52,7 +48,7 @@ sections:
     image: "/uploads/Deliver_Relevancy@2x.png"
     hres-image: "/uploads/Deliver_Relevancy@2x.png"
     link: Learn More >
-    url: /solutions/product-forecasting
+    url: /downloads/success-story-river-island/
 - title: Increase Lifetime Value. Reduce Returns. Greater Customer Loyalty.
   paragraph-narrow: true
   subtitle: Dressipi algorithms are updated in real-time, based on in-session customer behaviour and changes in product availability so our clients deliver on their key KPI’s.
@@ -62,10 +58,10 @@ sections:
     number-left: 12
     value-left: "%"
     number-left-description: more revenue
-    number-center: 10
+    number-center: 21
     value-center: "%"
     number-center-description: more profit
-    number-right: 3
+    number-right: 15
     value-right: "%"
     number-right-description: returns reduction
     action:
