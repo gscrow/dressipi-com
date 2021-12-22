@@ -74,6 +74,7 @@ sections:
 - roi-title: Dressipi Makes it Easy to Get Started & Quickly Deliver ROI
   handle: benefits
   is-centered: true
+  color: lighter
   roi-section: true
   roi-class: personalisation-rio
   subsections:

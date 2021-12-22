@@ -9,10 +9,6 @@
     background-color: $background--lighter;
   }
 
-  &.data-insight.section-benefits {
-    background-color: $background--white;
-  }
-
   &.personalisation,
   &#unique,
   &.about-us,
@@ -82,6 +78,20 @@
   .roi-title {
     margin-bottom: 0;
     max-width: 640px;
+  }
+}
+
+.platform {
+  .section.section-overview {
+    .section__heading {
+      margin-bottom: 0;
+    }
+  }
+
+  .platform-integration {
+    .section__heading {
+      margin-bottom: 0;
+    }
   }
 }
 

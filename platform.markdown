@@ -66,6 +66,7 @@ sections:
 - title: One Platform. Limitless Integrations.
   handle: solutions
   subtitle: Integrates effortlessly with the tools and software you already use
+  class: platform-integration
   subsections:
   - title: 
     branch: platform-integrations

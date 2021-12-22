@@ -26,6 +26,10 @@
   }
 }
 
+.commerce-cloud, .adobe-cloud, .magento {
+  margin-bottom: 0 !important;
+}
+
 // mobile responsive styles
 
 @include responsive(tablet) {
