@@ -12,7 +12,7 @@ header:
   page-title: Product Discovery
   page-title-icon: "/uploads/icon_product-discovery.svg"
   button:
-    copy: Request A Demo
+    copy: Request A Demo >
     url: "/try-demo/"
     style: primary
 description: 'Dressipi''s solutions allow fashion retailers to better understand their

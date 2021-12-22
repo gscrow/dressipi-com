@@ -48,16 +48,12 @@ sections:
   subsections:
   - title:
     solution-class: project-img-ai
-    hres-image: "/uploads/enterprise-AI-at-scale-desktop.svg"
-    mobile-image: "/uploads/enterprise-AI-at-scale-mobile.svg"
 - title: Quality Product & Brand Data
   handle: solutions
   subtitle: Address the most fundamental issues retailers experience - inconsistent product & brand data, attribution errors and missing values - with the most comprehensive taxonomy of attributes, built by fashion stylists and scaled by AI.
   subsections:
   - title:
-    class: project-img-quality-data
-    hres-image: "/uploads/quality-product-brand-data-desktop.png"
-    mobile-image: "/uploads/quality-product-brand-data-mobile.png"
+    solution-class: project-img-quality-data
 - title: One Platform. Limitless Integrations.
   handle: solutions
   subtitle: Integrates effortlessly with the tools and software you already use
@@ -82,7 +78,7 @@ sections:
   quote: "“Dressipi is a very strategic part of our platform, not just an add-on or any other supplier. It’s central to how we’re powering recommendations, how we’re powering the sort and rank on the PLP, and how we introduce more inspiration-led categories and content slots. The key is how it keeps all of our experiences relevant & consistent across all parts of the journey.”"
   retailer: Simon Konn, Insights & CRM Director
   action:
-    copy: CASE STUDIES
+    copy: CASE STUDIES >
     url: "/customers/"
 - roi-title: Dressipi Makes it Easy to Get Started & Quickly Deliver ROI
   handle: benefits

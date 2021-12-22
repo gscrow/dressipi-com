@@ -11,7 +11,7 @@ header:
   page-title: Product Experience
   page-title-icon: "/uploads/icon_personalised-recommendations-grey.svg"
   button:
-    copy: Request A Demo
+    copy: Request A Demo >
     url: "/try-demo/"
     style: primary
 description: Dressipi powers highly personalised fashion-specific customer experiences

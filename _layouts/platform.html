@@ -79,13 +79,11 @@ section.subsections.branch %}
       {% for subsection in section.subsections %}
       <div class="project" style="padding: 0">
         <div class="container">
-          {% if subsection.mobile-image %}
+          {% if subsection.solution-class %}
           <div class="gutter project__image">
             <div class="{{ subsection.solution-class }} ">
               <!-- keep flex image ratio -->
-              <img src="{{ subsection.mobile-image }}" alt="{{ subsection.title }}" {% if subsection.hres-image %}srcset="{{ subsection.hres-image }} 2x"
-                {% endif %}
-              />
+              <img alt="{{ subsection.title }}"/>
             </div>
           </div>
           {% endif %} {% if subsection.branch == 'platform-integrations' %}

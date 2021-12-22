@@ -27,9 +27,6 @@ layout: default
     <div class="container benefits {% if section.is-centered %}text--center{% endif %}">
   {% for subsection in section.subsections %}
   <div class="gutter benefit {{ subsection.gutter-class }} erb-section">
-    <div class="benefit__icon">
-      <img src="{{ subsection.image }}" class="{{ subsection.class }}" />
-    </div>
     <a  href="{{ subsection.url }}" class="button--medium button-primary">{{ subsection.link }}</a>
   </div>
   {% endfor %}

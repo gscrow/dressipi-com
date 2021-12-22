@@ -26,12 +26,10 @@ sections:
   is-centered: true
   roi-section: true
   subsections:
-  - link: Contact Sales
+  - link: Contact Sales >
     url: "/contact-sales"
-    image: "/uploads/icon-rollout.svg"
-  - link: Case Studies
+  - link: Case Studies >
     url: "/customers/"
-    image: "/uploads/icon-results.svg"
 - title: 
   handle: features
   class: index-features
@@ -89,7 +87,7 @@ sections:
   handle: roi
   color: light-grey 
   button:
-    copy: Contact Us
+    copy: Contact Us >
     url: /company/contact
     style: primary
 

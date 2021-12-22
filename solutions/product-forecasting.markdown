@@ -9,7 +9,7 @@ header:
   page-title: PRODUCT FORECASTING
   page-title-icon: "/uploads/icon_data-insight-hub-grey.svg"
   button:
-    copy: Request A Demo
+    copy: Request A Demo >
     url: "/try-demo/"
     style: primary
 description: Move from traditional spreadsheets to real-time, deeper insights about
