@@ -6,12 +6,7 @@ footer: platform
 has-menu: false
 type: platform
 header:
-  hero-mobile-image-jpeg: "/uploads/banner-solutions-overview.jpg"
-  hero-mobile-image-png: "/uploads/banner-solutions-overview.png"
-  hero-mobile-image-webp: "/uploads/banner-solutions-overview.webp"
-  hero-desktop-image-jpeg: "/uploads/banner-solutions-overview.jpg"
-  hero-desktop-image-png: "/uploads/banner-solutions-overview.png"
-  hero-desktop-image-webp: "/uploads/banner-solutions-overview.webp"
+  hero-image: "/uploads/banner-solutions-overview.jpg"
   color: "#000"
 description: 'Dressipi''s solutions allow fashion retailers to better understand their
   customer''s preferences, anticipate demand faster and personalise all touchpoints

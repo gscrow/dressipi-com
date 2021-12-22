@@ -12,12 +12,7 @@ header:
     copy: LEARN MORE >
     url: "/contact"
     style: primary
-  hero-mobile-image-jpeg: "/uploads/banner_home-mobile.jpeg"
-  hero-mobile-image-png: "/uploads/banner_home-mobile.png"
-  hero-mobile-image-webp: "/uploads/banner_home-mobile.webp"
-  hero-desktop-image-jpeg: "/uploads/banner-home.jpeg"
-  hero-desktop-image-png: "/uploads/banner-home.png"
-  hero-desktop-image-webp: "/uploads/banner-home.webp"
+  hero-image: "/uploads/banner-home.jpeg"
   page-title:
 description: The leading independently verified Revenue Optimisation Platform for
   fashion retailers. Dressipi transforms how retailers engage with their customers

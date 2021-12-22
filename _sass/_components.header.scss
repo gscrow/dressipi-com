@@ -200,6 +200,11 @@ $header-height--mobile: 67px; // 1px border
     }
   }
 
+  .index {
+    background: #000 url(/uploads/banner-home.jpeg) no-repeat 50%;
+    background-size: 54% !important;
+  }
+
   // hero header for content pages
   &-content {
     padding-top: rhythm(14);
@@ -234,7 +239,10 @@ $header-height--mobile: 67px; // 1px border
   }
 
   &-content.hero-platform {
-    background-size: cover !important;
+    background: #000 url(/uploads/banner-solutions-overview.jpg) no-repeat 50% !important;
+    background-size: contain !important;
+    padding-bottom: 200px;
+    padding-top: 200px;
   }
 
   &--tight {
@@ -243,9 +251,11 @@ $header-height--mobile: 67px; // 1px border
   }
 }
 
-.index,
-.platform {
-  padding: 0;
+.index {
+  background: #000 url(/uploads/banner-home.jpeg) no-repeat 50% !important;
+  background-size: contain !important;
+  padding-top: 330px;
+  padding-bottom: 330px;
 
   .landing {
     .hero__content {
@@ -255,9 +265,10 @@ $header-height--mobile: 67px; // 1px border
 
       .index-banner {
         position: absolute;
-        bottom: 96px;
+        bottom: -215px;
         left: 438px;
         max-width: 640px;
+        width: 650px;
 
         h1 {
           margin-bottom: 51px;
@@ -283,7 +294,9 @@ $header-height--mobile: 67px; // 1px border
 }
 
 @media (min-width: 1001px) {
-  .hero {
+  .hero.hero-solutionsproduct-discovery,
+  .hero.hero-solutionsproduct-experience,
+  .hero.hero-solutionsproduct-forecasting {
     background-size: 37% !important;
   }
 
@@ -348,19 +361,25 @@ $header-height--mobile: 67px; // 1px border
 }
 
 @media (min-width: 1101px) {
-  .hero {
+  .hero.hero-solutionsproduct-discovery,
+  .hero.hero-solutionsproduct-experience,
+  .hero.hero-solutionsproduct-forecasting {
     background-size: 33% !important;
   }
 }
 
 @media (min-width: 1301px) {
-  .hero {
+  .hero.hero-solutionsproduct-discovery,
+  .hero.hero-solutionsproduct-experience,
+  .hero.hero-solutionsproduct-forecasting {
     background-size: 30% !important;
   }
 }
 
 @media (min-width: 1501px) {
-  .hero {
+  .hero.hero-solutionsproduct-discovery,
+  .hero.hero-solutionsproduct-experience,
+  .hero.hero-solutionsproduct-forecasting {
     background-size: 22% !important;
   }
 }
@@ -388,10 +407,11 @@ $header-height--mobile: 67px; // 1px border
 // responisve styles
 @media (max-width: 1060px) {
   .index {
+    background-size: cover !important;
     .landing {
       .hero__content {
         .index-banner {
-          bottom: 56px;
+          left: 330px;
         }
 
         .index-banner {
@@ -509,6 +529,17 @@ $header-height--mobile: 67px; // 1px border
     }
   }
 
+  .index {
+    .landing {
+      .hero__content {
+        .index-banner {
+          left: 266px;
+          bottom: -189px;
+        }
+      }
+    }
+  }
+
   // responsive affix header
   .header-wrapper {
     height: $header-height--mobile;
@@ -525,6 +556,33 @@ $header-height--mobile: 67px; // 1px border
   }
 }
 
+@media (max-width: 1000px) {
+  .index {
+    .landing {
+      .hero__content {
+        .index-banner {
+          left: 217px;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 900px) {
+  .index {
+    .landing {
+      .hero__content {
+        .index-banner {
+          h1 {
+            font-size: 2rem;
+            max-width: 462px;
+          }
+        }
+      }
+    }
+  }
+}
+
 @media (max-width: 760px) {
   .hero {
     background-position: center !important;
@@ -533,7 +591,10 @@ $header-height--mobile: 67px; // 1px border
     padding-bottom: rhythm(10);
 
     &-content.hero-platform {
-      padding: 0;
+      background: #000 url(/uploads/banner-solutions-overview.jpg) no-repeat 50% !important;
+      background-size: contain !important;
+      padding-bottom: 130px;
+      padding-top: 130px;
     }
   }
 
@@ -584,30 +645,45 @@ $header-height--mobile: 67px; // 1px border
       background: none !important;
     }
 
-    &-content.hero-platform {
-      padding: 0;
-    }
-
     &--tight {
       padding-top: rhythm(5);
       padding-bottom: rhythm(5);
     }
   }
 
+  .index.hero--mobile::before {
+    background: none !important;
+  }
+
   .index {
-    padding: 0;
+    background: #000 url(/uploads/banner_home-mobile.jpeg) no-repeat 50% !important;
+    padding-top: 490px;
+    padding-bottom: 500px;
 
     .landing {
       .hero__content {
+        width: 100%;
+        max-width: 1130px;
+        position: relative;
+
         .index-banner {
-          margin-bottom: 0;
-          bottom: 300px;
-          left: 12%;
+          position: unset;
+          width: 100%;
 
           h1 {
             margin-bottom: 4px;
             line-height: 38px;
             font-size: 1.5rem;
+          }
+
+          .header__subtitle > p {
+            font-size: 16px;
+          }
+
+          .header__button-group {
+            a {
+              width: auto;
+            }
           }
         }
       }
@@ -689,23 +765,24 @@ $header-height--mobile: 67px; // 1px border
     }
 
     &-content.hero-platform {
-      padding: 0;
+      padding-bottom: 80px;
+      padding-top: 80px;
     }
   }
 
-  .index {
-    padding: 0;
+  .index.hero--mobile {
+    padding-top: 400px;
+    padding-bottom: 500px;
 
     .landing {
       .hero__content {
-        width: auto;
+        width: 100%;
         max-width: 1130px;
         position: relative;
 
         .index-banner {
-          bottom: 30px;
-          left: 4%;
-          padding: 10px;
+          position: unset;
+          width: 100%;
 
           .header__subtitle > p {
             font-size: 16px;
