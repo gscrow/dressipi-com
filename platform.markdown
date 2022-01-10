@@ -15,7 +15,8 @@ sections:
   overview-subtitle: Dressipi unifies data into a fashion-specific structure, 
     calculates advanced predictions and suggested actions, and connects to core solutions via APIs 
     to provide consistent fashion-specific intelligence throughout your business.
-  subsections:  - title: Customer Relevancy
+  subsections:
+  - title: Customer Relevancy
     image: "/uploads/icon_customer-relevancy.png"
     body: "Build deeper relationships with customers, to increase LTV, retention, acquisition and reduce churn:
     <ul>
