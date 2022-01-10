@@ -1,6 +1,12 @@
 ---
 title: 'Return Rates: A Real Headache for Fashion Retailers… and the Environment'
 date: 2022-01-10 22:13:00 Z
+categories:
+- data
+tags:
+- reduce returns
+- return rates
+download: Return Rate Data Analysis Package
 ---
 
 ### After 2 years of lockdowns and disruptions, UK fashion retail is beginning to steady. 
