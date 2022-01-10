@@ -6,6 +6,8 @@ categories:
 tags:
 - reduce returns
 - return rates
+image: "/uploads/Returns2022_Banner.png"
+author: Sarah McVittie
 download: Return Rate Data Analysis Package
 ---
 
