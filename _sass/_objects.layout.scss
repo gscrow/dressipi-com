@@ -163,8 +163,8 @@
 // mobile styles
 @include responsive(mobile) {
   .gutter {
-    padding-right: $mobile-gutter-width / 2;
-    padding-left: $mobile-gutter-width / 2;
+    padding-right: $mobile-gutter-width * 1.5;
+    padding-left: $mobile-gutter-width * 1.5;
   }
 }
 .box-quote {
