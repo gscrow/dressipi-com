@@ -1,5 +1,5 @@
 ---
-title: Driving Profitable Growth For Fashion Retailers
+title: "Dressipi: The Fashion AI Experts"
 position: 1
 header:
   button:
@@ -14,10 +14,7 @@ header:
     style: primary
   hero-image: "/uploads/banner-home.jpeg"
   page-title:
-description: The leading independently verified Revenue Optimisation Platform for
-  fashion retailers. Dressipi transforms how retailers engage with their customers
-  through entirely personalised experiences and using data to advance the buying and
-  merchandising processes.
+description: The global leader in Fashion AI. Dressipi delivers breakthrough, fashion-specific shopping experiences across every part of the shopper journey.
 has-contact-section: false
 sections:
 - title: Fashion Expertise + More Relevance = More Buying
@@ -94,4 +91,3 @@ sections:
 
 layout: index
 ---
-
