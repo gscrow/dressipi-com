@@ -15,9 +15,7 @@ header:
     copy: Request A Demo >
     url: "/try-demo/"
     style: primary
-description: 'Dressipi''s solutions allow fashion retailers to better understand their
-  customer''s preferences, anticipate demand faster and personalise all touchpoints
-  to stay ahead. '
+description: Provide intent-driven categories, filters & personalised recommendations for first time visitors as well as repeat customers
 sections:
 - title: 
   handle: features

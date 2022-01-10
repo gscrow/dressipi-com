@@ -12,9 +12,7 @@ header:
     copy: Request A Demo >
     url: "/try-demo/"
     style: primary
-description: Move from traditional spreadsheets to real-time, deeper insights about
-  customers, transactions and returns to increase sell-through, reduce discounting
-  and drive profitability.
+description: Ensure you have the right products to meet demand, significantly reducing overstock & discounting
 class: data-insight
 sections:
 - title: Trade as Effectively as Possible

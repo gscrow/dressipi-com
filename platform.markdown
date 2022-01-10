@@ -8,17 +8,14 @@ type: platform
 header:
   hero-image: "/uploads/banner-solutions-overview.jpg"
   color: "#000"
-description: 'Dressipi''s solutions allow fashion retailers to better understand their
-  customer''s preferences, anticipate demand faster and personalise all touchpoints
-  to stay ahead. '
+description: Dressipi is the unified, fashion-specific intelligence behind the scenes making every experience consistent & relevant for all visitors and all interactions.
 sections:
 - title: 
   handle: overview
   overview-subtitle: Dressipi unifies data into a fashion-specific structure, 
     calculates advanced predictions and suggested actions, and connects to core solutions via APIs 
     to provide consistent fashion-specific intelligence throughout your business.
-  subsections:
-  - title: Customer Relevancy
+  subsections:  - title: Customer Relevancy
     image: "/uploads/icon_customer-relevancy.png"
     body: "Build deeper relationships with customers, to increase LTV, retention, acquisition and reduce churn:
     <ul>

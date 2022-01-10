@@ -14,8 +14,7 @@ header:
     copy: Request A Demo >
     url: "/try-demo/"
     style: primary
-description: Dressipi powers highly personalised fashion-specific customer experiences
-  for better lifetime value, reduced returns and greater customer loyalty.
+description: Inspire with outfits relevant to each visitor, showing the value of every product & how to wear your brand their way
 class: personalisation
 has-contact-section: false
 sections:
