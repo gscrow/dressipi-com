@@ -91,7 +91,7 @@ $header-height--mobile: 67px; // 1px border
   &__subtitle {
     > p {
       font-size: 32px;
-      line-height: 37.92px;
+      line-height: 1.7;
     }
 
     > h2,
@@ -254,7 +254,7 @@ $header-height--mobile: 67px; // 1px border
 .index {
   background: #000 url(/uploads/banner-home.jpeg) no-repeat 50% !important;
   background-size: contain !important;
-  padding-top: 330px;
+  padding-top: 276px;
   padding-bottom: 330px;
 
   .landing {
@@ -265,7 +265,7 @@ $header-height--mobile: 67px; // 1px border
 
       .index-banner {
         position: absolute;
-        bottom: -215px;
+        bottom: -261px;
         left: 438px;
         max-width: 640px;
         width: 650px;
@@ -404,7 +404,7 @@ $header-height--mobile: 67px; // 1px border
   transform: translate3D(0, 0, 0) !important;
 }
 
-// responisve styles
+// responsive styles
 @media (max-width: 1060px) {
   .index {
     background-size: cover !important;
@@ -575,7 +575,7 @@ $header-height--mobile: 67px; // 1px border
         .index-banner {
           h1 {
             font-size: 2rem;
-            max-width: 462px;
+            max-width: 400px;
           }
         }
       }
@@ -608,6 +608,7 @@ $header-height--mobile: 67px; // 1px border
           h1 {
             font-size: 1.7rem;
             line-height: 46px;
+            max-width: 348px;
           }
         }
       }
@@ -656,9 +657,7 @@ $header-height--mobile: 67px; // 1px border
   }
 
   .index {
-    background: #000 url(/uploads/banner_home-mobile.jpeg) no-repeat 50% !important;
-    padding-top: 490px;
-    padding-bottom: 500px;
+    background: #000 url(/uploads/banner_home-mobile.jpeg) no-repeat top center/100% !important;
 
     .landing {
       .hero__content {
@@ -771,18 +770,21 @@ $header-height--mobile: 67px; // 1px border
   }
 
   .index.hero--mobile {
-    padding-top: 400px;
-    padding-bottom: 500px;
-
     .landing {
       .hero__content {
         width: 100%;
+        margin-top: 297px;
         max-width: 1130px;
+        padding: 0 20px;
         position: relative;
 
         .index-banner {
           position: unset;
           width: 100%;
+
+          .header__title {
+            margin-bottom: 1rem;
+          }
 
           .header__subtitle > p {
             font-size: 16px;
