@@ -104,7 +104,7 @@ sections:
   - name: Tomasz Pajor
     title: Software Engineer
     linkedin: https://www.linkedin.com/in/tomaszpajor/
-    image: "/uploads/tomasz_pajor.jpeg"
+    image: "/uploads/tomasz_pajor-c8aa9b.jpeg"
   - name: Hassan Iskaf
     title: Front End Engineer
     linkedin: https://uk.linkedin.com/in/hassan-iskaf
