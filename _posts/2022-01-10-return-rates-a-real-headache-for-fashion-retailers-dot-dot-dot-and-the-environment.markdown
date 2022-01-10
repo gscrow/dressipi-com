@@ -50,3 +50,62 @@ When you dig deeper into each category you can see that there is a move to a mor
 This is the same across the board with return rates within categories reducing. Reducing the return rate by 1.27%. 
 
 The combination of product mix change and the casualisation of fashion therefore gives an overall increase of 1% in 2019. 
+
+<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" src ="/uploads/Returns2022_5.JPG"/></p>
+<br>
+
+## Reasons for Returns
+
+### Multiple Style Options is the big growth area in return reasons
+
+Rather than rely on reason codes (that are less accurate), we use a data-driven methodology to get a sense of the reason for garments being returned. We split the returns into 3 categories:
+* When size is the issue (when the same customer buys the same product in more than 1 size over any number of orders within a year)
+* When style is the issue (when the same customer buys multiple options of the same category within the same order, having removed multiple size orders)
+* When it is a single size and single category product
+
+Typically the % of returns breaks down as follows:
+
+<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" src ="/uploads/Returns2022_6.JPG"/></p>
+<br>
+
+Although those reasons do vary by garment category.
+
+<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" src ="/uploads/Returns2022_7.JPG"/></p>
+<br>
+
+When you look at the return rates within each reason category, we typically see the below:
+
+<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" src ="/uploads/Returns2022_8.JPG"/></p>
+<br>
+
+When return rates for any multiple size purchase are at 85%, it suggests that the size wasn’t the issue but that the product wasn’t right in any case. 
+
+And over lockdown we have seen the biggest rise was in customers buying multiple options (19%) but also in customers buying multiple sizes (11%) and a decrease in customers buying single size single product (-10%). 
+
+<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" src ="/uploads/Returns2022_9.JPG"/></p>
+<br>
+
+This suggests that customers are uncertain of what works best for them. Given both of the first 2 reasons have higher return rates this uncertainty will also be contributing to higher return rates. 
+
+## Overall Return Rates
+
+So all of this means that return rates for the period from Aug - Oct 2021 vs the same period in 2021 are up 1%. We predict therefore that the return rates for 2022 will be either inline or approximately 1% higher than 2019.
+
+<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" src ="/uploads/Returns2022_10.JPG"/></p>
+<br>
+
+## What this means for margins
+
+Obviously, this shift to online retailing and return rates increase plays out very differently depending on whether it is an online pureplay or bricks and mortar retailer. 
+
+Let’s assume 2 fictional retailers, both with gross revenues of £500m in 2019. The first is an online pureplay retailer and the other a traditional bricks and mortar retailer. Let’s assume each retailer follows the average movements within their category. 
+
+<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" src ="/uploads/Returns2022_11.JPG"/></p>
+<br>
+
+**Online pureplay retailers** are having an easier time of it, with average growth rates over 20% and reduced return rates in 2020 and 2021, surplus cash has been considerable (and at least a decent buffer against the recent increased supply chain costs). We predict 2022 return rates to be inline with or slightly higher than 2019 and so although the online retailers will have additional growth, we expect their overall EBIT margins to be negatively impacted by about 1% (not including impacts from supply chains).
+
+<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" src ="/uploads/Returns2022_12.JPG"/></p>
+<br>
+
+**For B&M retailers**, it is a different story. Although the online channel has doubled since 2019, overall revenues have declined. So, even with the decrease in return rates that gave the online retailers a boost to their contribution margin. It doesn’t make up for the loss in retail sales. As 2022 reverts to 2019 levels but with a higher online percentage and increased return rates, we expect the traditional players to see their EBIT margins negatively impacted by 8% or an additional cost of £15m. Again, this does not include the increased costs of supply chains.  
