@@ -17,6 +17,10 @@ header:
     style: primary
 description: Provide intent-driven categories, filters & personalised recommendations for first time visitors as well as repeat customers
 sections:
+  - title: The Right Product, in the Right Size, at the Right Time
+    handle: no-video
+    subtitle: Updated in real time, the <a href="/platform/" target="_blank"> Dressipi platform</a> delivers relevant products & inspiration online, in-store, in-app, email and through new journeys of the future (VR & AR).
+    # video-url: tbc
   - title:
     handle: features
     subsections:
