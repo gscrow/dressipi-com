@@ -19,7 +19,7 @@ download: Understanding Your Unique Return Rate Profile
 
 Along with the massive shift to online retailing, average return rates from Aug - Oct 2021 are up +1% on 2019 rates. Together that means that there were 90m more returns in 2021 compared to 2019 and that number is set to reach 121m in 2022. The costs of processing these returns alone will cost the industry £1bn (up by ~£420m since 2019). This inefficiency will negatively impact EBIT margins by 1%.
 
-An additional 121m returned items isn’t just going to hit margins, there is a substantial environmental impact too. These additional returns will be responsible for an additional 121m lbs of waste in landfill and 400k metric tons of CO2 (equivalent to 4,574 double-decker buses of waste and 1.6m hours worth of flight emissions!) 
+An additional 121m returned items isn’t just going to hit margins, there is a substantial environmental impact too. According to [Optoro](https://www.optoro.com/)  these additional returns will be responsible for an additional 400k metric tons of CO2 (equivalent to 4,574 double-decker buses of waste and 1.6m hours worth of flight emissions!) as well as some additional waste in landfill for those products that cannot be sold on.
 
 ## Fashion Retail Over the last 12 months
 
