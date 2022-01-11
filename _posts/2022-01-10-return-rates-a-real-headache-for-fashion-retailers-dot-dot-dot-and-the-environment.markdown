@@ -110,7 +110,7 @@ This suggests that customers are uncertain of what works best for them. Given bo
 
 ## Overall Return Rates
 
-So all of this means that return rates for the period from Aug - Oct 2021 vs the same period in 2021 are up 1%. We predict therefore that the return rates for 2022 will be either inline or approximately 1% higher than 2019.
+So all of this means that return rates for the period from Aug - Oct 2021 vs the same period in 2019 are up 1%. We predict therefore that the return rates for 2022 will be either inline or approximately 1% higher than 2019.
 
 <br>
 <p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Returns2022_10.JPG"/></p>
@@ -158,27 +158,27 @@ Harnessing the power of this data can significantly improve the customer experie
 
 **Make someone in the c-suite responsible for returns**: Whilst most fashion retailers understand the impact their returns experience can have on customer loyalty and their bottom line, it always amazes us that no one person in the business owns this metric. 
 
-**Take the time to analyse the data to state the problem** (rather than trying to solve a problem you assume exists): Most retailers assume that confusing sizing is the core reason for returns (and, to be honest, so did we when we started!) but a deeper look at the data tells a very different story. We have had much better success reducing returns with our return rate propensity model feeding into the recommendations. Only showing customers items they are likely to keep, it turns out, is a quicker and easier way to reduce them. 
+**Take the time to analyse the data to state the problem (rather than trying to solve a problem you assume exists)**: Most retailers assume that confusing sizing is the core reason for returns (and, to be honest, so did we when we started!) but a deeper look at the data tells a very different story. We have had much better success reducing returns with our return rate propensity model feeding into the recommendations. Only showing customers items they are likely to keep, it turns out, is a quicker and easier way to reduce them. 
 
 As a side note here, it kind of makes sense, 70-80% of any retailer’s revenue comes from their top 20-30% of customers and they typically know their size. Those heavier customers are also responsible for the bulk of the returns so is more likely to be other reasons than size. 
 
-**AI** Artificial intelligence is going to become increasingly important in managing returns. Both in terms of what a customer buys and how the whole logistics process works. There are plenty of companies that are there to help retailers minimise this issue. But, going back to the first point, retailers need to be ready with someone in the c-suite owning the metric, get to grips with technology and be ready to transform their returns processes.
+**AI Artificial intelligence is going to become increasingly important in managing returns**: Both in terms of what a customer buys and how the whole logistics process works. There are plenty of companies that are there to help retailers minimise this issue. But, going back to the first point, retailers need to be ready with someone in the c-suite owning the metric, get to grips with technology and be ready to transform their returns processes.
 
-**Educate the consumer**: show your consumers that you care. Help them understand things they can do to make a difference: [ASOS](https://www.asos.com/responsible-fashion/packaging-and-delivery/6-ways-our-returns-are-more-responsible/) does a good job.
+**Educate the consumer**: Show your consumers that you care. Help them understand things they can do to make a difference: [ASOS](https://www.asos.com/responsible-fashion/packaging-and-delivery/6-ways-our-returns-are-more-responsible/) does a good job.
 
 # Prediction for 2022
 
-1) **Mid market squeeze**: as inflationary pressures set in, luxury is likely to be more resilient whereas consumers who feel the squeeze will trade down to the value retailers
+1) **Mid market squeeze**: As inflationary pressures set in, luxury is likely to be more resilient whereas consumers who feel the squeeze will trade down to the value retailers
 
-2) **Online pureplays to see growth rates reduced to average 13% in 2022** Growth in revenue will offset the margin squeeze that comes from increased return rates but will need to be accounted for. 
+2) **Online pureplays to see growth rates reduced to average 13% in 2022**: Growth in revenue will offset the margin squeeze that comes from increased return rates but will need to be accounted for. 
 
-3) **55-60% of B&M revenue will be from online channel** it will be lower than the 70%+ we saw at periods of 2020 and 2021 but settle around the 55-60% level
+3) **55-60% of B&M revenue will be from online channel**: It will be lower than the 70%+ we saw at periods of 2020 and 2021 but settle around the 55-60% level
 
-4) **B&M retailers will see additional pressure on margins**: we expect the growth of online to continue to grow (probably by a similar 10-13%). That, with the additional return rates, means a £500m retailer will need to find an additional £15m of cash to pay for the squeeze.
+4) **B&M retailers will see additional pressure on margins**: We expect the growth of online to continue to grow (probably by a similar 10-13%). That, with the additional return rates, means a £500m retailer will need to find an additional £15m of cash to pay for the squeeze.
 
-5) **Minimal lockdowns** but unsure as to where people spend their discretionary income
+5) **Minimal lockdowns**: But unsure as to where people spend their discretionary income
 
-6) **Return rates will be 1% higher than 2019** depending on inflation, but even then expect it to be inline with 2019 (Sarah predicts 1% rise, Tash predicts 0% on 2019 and James predicts 0.5%-1% increase in return rates)
+6) **Return rates will be 1% higher than 2019**: Depending on inflation, but even then expect it to be inline with 2019 (Sarah predicts 1% rise, Tash predicts 0% on 2019 and James predicts 0.5%-1% increase in return rates)
 
 7) **Category specific Shifts:** 
 * Dresses, Jeans & Sportwear will continue to grow as a % of mix (although smaller increases)
