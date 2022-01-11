@@ -3,11 +3,15 @@ title: 'Return Rates: A Real Headache for Fashion Retailers… and the Environme
 date: 2022-01-10 22:13:00 Z
 categories:
 - data
+- tech
 tags:
 - reduce returns
 - return rates
 image: "/uploads/Returns2022_Banner.png"
 author: Sarah McVittie
+description: 'The pandemic has had a huge impact on the fashion retail industry. Dressipi
+  analysed consumer purchasing habits throughout lockdowns and reopenings and how
+  these have affected return rates. '
 download: Return Rate Data Analysis Package
 ---
 
