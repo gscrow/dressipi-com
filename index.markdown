@@ -61,8 +61,6 @@ sections:
   color: white
   clients:
   - John Lewis
-  - Topshop
-  - Wallis
   - Evans
   - River Island
   - OVS
@@ -73,6 +71,7 @@ sections:
   - Avenue
   - Country Road Group
   - Seasalt Cornwall
+  - Jigsaw
   downloads:
   - Personalisation Drives Profitable Growth for River Island
   - Belstaff increased email revenue by 69% through personalised recommendations
