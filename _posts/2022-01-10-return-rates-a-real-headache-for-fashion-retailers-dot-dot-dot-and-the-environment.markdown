@@ -29,7 +29,7 @@ Now that the industry is steadying (with stores mostly open), the picture is dif
 
 ## Expected Size of Fashion Industry 2022 back to 2019 levels
 
-The latest quarterly results across the industry show the market size is pretty much back to 2019 levels (with some clear winners and losers).We expect growth in 2022 to be limited due to inflation and further supply chain disruptions.
+The latest quarterly results across the industry show the market size is pretty much back to 2019 levels (with some clear winners and losers). We expect growth in 2022 to be limited due to inflation and further supply chain disruptions.
 
 <br>
 <p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Returns2022_1.JPG"/></p>
