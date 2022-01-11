@@ -33,16 +33,18 @@ sections:
           \n"
         image: "/uploads/Predict_Intent@2x.png"
         hres-image: "/uploads/Predict_Intent@2x.png"
-        link: Learn More >
-        url: /downloads/your-sort-order-is-your-secret-weapon-to-success/
+        action:
+          copy: Learn More >
+          url: /downloads/your-sort-order-is-your-secret-weapon-to-success/
       - title: Increase Conversion
         mini-title: FOR REPEAT CUSTOMERS
         class: solution-products-conversion
         body: Deploy personalisation across PDP’s, category pages, editorial themes and filters to increase conversion across the board
         image: "/uploads/Increase_Conversion@2x.png"
         hres-image: "/uploads/Increase_Conversion@2x.png"
-        link: Learn More >
-        url: /downloads/success-story-luxury-retailer/
+        action:
+          copy: Learn More >
+          url: /downloads/success-story-luxury-retailer/
       - title: Deliver Relevancy
         color: lighter
         class: solution-products-relevancy
@@ -50,8 +52,9 @@ sections:
         body: Leverage the power of personalised inspiration and editorial to demonstrate how much you know and understand your loyal customers
         image: "/uploads/Deliver_Relevancy@2x.png"
         hres-image: "/uploads/Deliver_Relevancy@2x.png"
-        link: Learn More >
-        url: /downloads/success-story-river-island/
+        action:
+          copy: Learn More >
+          url: /downloads/success-story-river-island/
   - title: Increase Lifetime Value. Reduce Returns. Greater Customer Loyalty.
     paragraph-narrow: true
     subtitle: Dressipi algorithms are updated in real-time, based on in-session customer behaviour and changes in product availability so our clients deliver on their key KPI’s.
