@@ -21,13 +21,13 @@ Along with the massive shift to online retailing, average return rates from Aug 
 
 An additional 121m returned items isn’t just going to hit margins, there is a substantial environmental impact too. According to [Optoro](https://www.optoro.com/)  these additional returns will be responsible for an additional 400k metric tons of CO2 (equivalent to 4,574 double-decker buses of waste and 1.6m hours worth of flight emissions!) as well as some additional waste in landfill for those products that cannot be sold on.
 
-## Fashion Retail Over the last 12 months
+## Fashion Retail Over the Last 12 Months
 
 Last year (due to store closures) we saw a big overall increase in online shopping (50%) but the mix of products shifted to reflect a more casual wardrobe. This change in product mix meant that most retailers had a real cash bonus as return rates dropped by 21% (8%pts) across the board. You can read more about this in our blog last year [here](https://dressipi.com/blog/reduced-return-rates-a-bonus-for-fashion-retailers/).
 
 Now that the industry is steadying (with stores mostly open), the picture is different. 
 
-## Expected Size of Fashion Industry 2022 back to 2019 levels
+## Expected Size of Fashion Industry 2022 Back to 2019 Levels
 
 The latest quarterly results across the industry show the market size is pretty much back to 2019 levels (with some clear winners and losers). We expect growth in 2022 to be limited due to inflation and further supply chain disruptions.
 
@@ -45,7 +45,7 @@ The average growth of the online channel for Bricks and Mortar retailers in the 
 <p style="text-align:center"><img style="margin-left: 0px; width: 800px;" src ="/uploads/Returns2022_2.JPG"/></p>
 <br>
 
-## Product Mix Back inline with 2019
+## Product Mix Back Inline With 2019
 
 The other big shift is a return to a more “return rate heavy” product mix. Dresses, Tops and Jeans/Bottoms are typically the 3 largest categories. Pre-pandemic dresses were typically 16% of the product mix, declined to 11%  in 2020 but Dresses are now back to above 2019 levels. The chart below shows the changes in product mix and the corresponding return rates for these categories. 
 
@@ -55,7 +55,7 @@ The other big shift is a return to a more “return rate heavy” product mix. D
 
 This product mix change has increased the return rate by **2.17%**. 
 
-## Casualisation of fashion
+## Casualisation of Fashion
 
 When you dig deeper into each category you can see that there is a move to a more casual wardrobe. The chart below illustrates the changes within Dresses. 
 
@@ -73,7 +73,7 @@ The combination of product mix change and the casualisation of fashion therefore
 
 ## Reasons for Returns
 
-### Multiple Style Options is the big growth area in return reasons
+### Multiple Style Options is the Big Growth Area in Return Reasons
 
 Rather than rely on reason codes (that are less accurate), we use a data-driven methodology to get a sense of the reason for garments being returned. We split the returns into 3 categories:
 * When size is the issue (when the same customer buys the same product in more than 1 size over any number of orders within a year)
@@ -116,7 +116,7 @@ So all of this means that return rates for the period from Aug - Oct 2021 vs the
 <p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Returns2022_10.JPG"/></p>
 <br>
 
-## What this means for margins
+## What This Means For Margins
 
 Obviously, this shift to online retailing and return rates increase plays out very differently depending on whether it is an online pureplay or bricks and mortar retailer. 
 
@@ -130,7 +130,7 @@ Let’s assume 2 fictional retailers, both with gross revenues of £500m in 2019
 
 **For B&M retailers**, it is a different story. Although the online channel has doubled since 2019, overall revenues have declined. So, even with the decrease in return rates that gave the online retailers a boost to their contribution margin. It doesn’t make up for the loss in retail sales. As 2022 reverts to 2019 levels but with a higher online percentage and increased return rates, we expect the traditional players to see their EBIT margins negatively impacted by 8% or an additional cost of £15m. Again, this does not include the increased costs of supply chains.  
 
-## There are 2 other big shifts that have taken hold over the last 2 years
+## There Are 2 Other Big Shifts That Have Taken Hold Over The Last 2 Years
 
 ### 1) Sustainability
 
@@ -146,7 +146,7 @@ Returns are just one example. Online returns are typically 3x higher than instor
 
 Returns are a natural cost of doing business online but that minimum natural cost is at least 20% lower than the current 28% return rate. 
 
-### 2) Data driven retailing
+### 2) Data Driven Retailing
 
 On the one hand, the rise and rise of SheIn proves that the consumer isn’t really there yet from a sustainability point of view but on the flipside, it more than proves the power of data driven retailing. 
 
