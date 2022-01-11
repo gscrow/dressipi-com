@@ -12,7 +12,7 @@ author: Sarah McVittie
 description: The last 2 years of lockdowns has had a huge impact on the fashion retail
   industry but it is beginning to steady. Read our analysis on what this means for
   return rates.
-download: Return Rate Data Analysis Package
+download: Understanding Your Unique Return Rate Profile
 ---
 
 ### After 2 years of lockdowns and disruptions, UK fashion retail is beginning to steady. We expect the size of the UK fashion market in 2022 to be just about back to 2019 levels but retailers need to account for a big return rate hit looming on the horizon. 
