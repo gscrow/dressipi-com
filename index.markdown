@@ -17,7 +17,7 @@ header:
 description: The global leader in Fashion AI. Dressipi delivers breakthrough, fashion-specific shopping experiences across every part of the shopper journey.
 has-contact-section: false
 sections:
-- title: Fashion Expertise + More Relevance = More Buying
+- title: Fashion Expertise + More Relevance = Better Buying
   subtitle: Every page view, every recommendation, every interaction made better
   handle: erb
   is-centered: true
@@ -50,13 +50,13 @@ sections:
     url: /solutions/product-experience
   - title: Optimise Future Product Assortments & Size Ratios
     subtitle: PRODUCT FORECASTING
-    body: Ensure you have the right products to meet demand, significantly reducing overstock & discounting.
+    body: Ensure you have the right products to meet demand, significantly reducing overstock & discounting whilst hugely improving your ESG credentials.
     image: "/uploads/banner-product-forecasting.png"
     hres-image: "/uploads/banner-product-forecasting.png"
     link: Learn More >
     url: /solutions/product-forecasting
 - title: Delivering Relevancy at Scale, Requires Fashion-Specific AI at Scale
-  subtitle: Our customers are driving unprecedented profitable revenue growth, cost savings, improved customer experiences and loyalty across their business.
+  subtitle: Our customers are delivering unprecedented profitable revenue growth, cost savings, improved customer experiences and loyalty across their business.
   handle: clients
   color: white
   clients:
