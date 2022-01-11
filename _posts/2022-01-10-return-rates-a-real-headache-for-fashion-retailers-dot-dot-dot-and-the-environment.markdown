@@ -68,7 +68,7 @@ This is the same across the board with return rates within categories reducing. 
 The combination of product mix change and the casualisation of fashion therefore gives an overall increase of 1% in 2019. 
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Returns2022_5.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Returns2022_5a.JPG"/></p>
 <br>
 
 ## Reasons for Returns
