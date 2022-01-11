@@ -27,7 +27,7 @@ sections:
     subsections:
       - title: Inspire Your Visitors
         mini-title: FOR FIRST TIME VISITORS
-        subtitle: Show outfits displayed by occasion, inspiring the visitor and showing the versatility of the garment.
+        body: Show outfits displayed by occasion, inspiring the visitor and showing the versatility of the garment.
         color: lighter
         action:
           copy: Learn More >
@@ -36,14 +36,14 @@ sections:
         hres-image: "/uploads/Inspire_Your_Visitors@2x.png"
       - title: Increase 1st to 2nd Purchases
         mini-title: FOR REPEAT CUSTOMERS
-        subtitle: Send relevant products at the right time to move each existing customer up the purchase ladder. This is the biggest opportunity for revenue growth for retailers.
+        body: Send relevant products at the right time to move each existing customer up the purchase ladder. This is the biggest opportunity for revenue growth for retailers.
         image: "/uploads/Increase_1st_to_2nd_Purchases@2x.png"
         hres-image: "/uploads/Increase_1st_to_2nd_Purchases@2x.png"
         action:
           copy: Learn More >
           url: /blog/secrets-to-success-how-to-optimise-your-email-revenue/
       - title: Increase Customer LTV
-        subtitle: Understand exactly who your customers are, create style profiles based on their activity, preferences and items they already own.
+        body: Understand exactly who your customers are, create style profiles based on their activity, preferences and items they already own.
         color: lighter
         mini-title: FOR LOYAL CUSTOMERS
         image: "/uploads/section_profile@2x.png"

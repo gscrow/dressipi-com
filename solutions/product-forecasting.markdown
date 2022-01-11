@@ -25,7 +25,7 @@ sections:
       - mini-title: STOCK PREDICTIONS
         color: lighter
         title: Reduce Size Fragmentation
-        subtitle: Equip your buyers and merchandisers with the sales velocity and optimal size ratios for every product at SKU level to help inform replenishment & future buying decisions.
+        body: Equip your buyers and merchandisers with the sales velocity and optimal size ratios for every product at SKU level to help inform replenishment & future buying decisions.
         image: "/uploads/section_daily_trading_insight@2x.png"
         hres-image: "/uploads/section_daily_trading_insight@2x.png"
         action:
@@ -33,7 +33,7 @@ sections:
           url: https://dressipi.com/closer-look-at-our-data-insight-hub/
       - mini-title: OVERSTOCK STRATEGY
         title: Reduce Discounting
-        subtitle: Get rid of blanket sales and maximise sell-through to protect margins. Identify the optimum time to markdown a product, the recommended percentage to use and a distribution method that matches the right products to the right customers.
+        body: Get rid of blanket sales and maximise sell-through to protect margins. Identify the optimum time to markdown a product, the recommended percentage to use and a distribution method that matches the right products to the right customers.
         image: "/uploads/section-overstock.png"
         hres-image: "/uploads/section-overstock@2x.png"
         action:
@@ -42,7 +42,7 @@ sections:
       - mini-title: RETURNS ANALYSIS
         color: lighter
         title: Reduce Returns
-        subtitle: |
+        body: |
           Get more accurate and targeted insights that break down returns data, analysing the causes at both category and product level, along with practical ways to reduce them.
         image: "/uploads/section_returns-analysis.png"
         hres-image: "/uploads/section_returns-analysis@2x.png"
