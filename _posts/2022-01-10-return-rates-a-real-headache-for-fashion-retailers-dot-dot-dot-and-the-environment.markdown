@@ -103,7 +103,7 @@ When return rates for any multiple size purchase are at 85%, it suggests that th
 And over lockdown we have seen the biggest rise was in customers buying multiple options (19%) but also in customers buying multiple sizes (11%) and a decrease in customers buying single size single product (-10%). 
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Returns2022_9.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/Returns2022_9.JPG"/></p>
 <br>
 
 This suggests that customers are uncertain of what works best for them. Given both of the first 2 reasons have higher return rates this uncertainty will also be contributing to higher return rates. 
@@ -113,7 +113,7 @@ This suggests that customers are uncertain of what works best for them. Given bo
 So all of this means that return rates for the period from Aug - Oct 2021 vs the same period in 2021 are up 1%. We predict therefore that the return rates for 2022 will be either inline or approximately 1% higher than 2019.
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Returns2022_10.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/Returns2022_10.JPG"/></p>
 <br>
 
 ## What this means for margins
@@ -123,14 +123,10 @@ Obviously, this shift to online retailing and return rates increase plays out ve
 Let’s assume 2 fictional retailers, both with gross revenues of £500m in 2019. The first is an online pureplay retailer and the other a traditional bricks and mortar retailer. Let’s assume each retailer follows the average movements within their category. 
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Returns2022_11.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Returns2022_1112.JPG"/></p>
 <br>
 
 **Online pureplay retailers** are having an easier time of it, with average growth rates over 20% and reduced return rates in 2020 and 2021, surplus cash has been considerable (and at least a decent buffer against the recent increased supply chain costs). We predict 2022 return rates to be inline with or slightly higher than 2019 and so although the online retailers will have additional growth, we expect their overall EBIT margins to be negatively impacted by about 1% (not including impacts from supply chains).
-
-<br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Returns2022_12.JPG"/></p>
-<br>
 
 **For B&M retailers**, it is a different story. Although the online channel has doubled since 2019, overall revenues have declined. So, even with the decrease in return rates that gave the online retailers a boost to their contribution margin. It doesn’t make up for the loss in retail sales. As 2022 reverts to 2019 levels but with a higher online percentage and increased return rates, we expect the traditional players to see their EBIT margins negatively impacted by 8% or an additional cost of £15m. Again, this does not include the increased costs of supply chains.  
 
@@ -138,10 +134,10 @@ Let’s assume 2 fictional retailers, both with gross revenues of £500m in 2019
 
 ### 1) Sustainability
 
-As one of the biggest offenders when it comes to sustainability, fashion has a long way to go to improve its sustainability credentials. Whilst the consumer does yet not always vote with their wallet on this one, sentiments are definitely changing.  Most retail bosses understand that even if their consumer is not completely there, most governments are. There is now a necessity to ensure their businesses are more sustainable (2nd biggest opportunity and challenge as stated in the McKinsey’s latest “State of Fashion report 2022”) 
+As one of the biggest offenders when it comes to sustainability, fashion has a long way to go to improve its sustainability credentials. Whilst the consumer does yet not always vote with their wallet on this one, sentiments are definitely changing.  Most retail bosses understand that even if their consumer is not completely there, most governments are. There is now a necessity to ensure their businesses are more sustainable (2nd biggest opportunity and challenge as stated in the McKinsey’s latest “State of Fashion report 2022”).
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Returns2022_BoF.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/Returns2022_BoF.png"/></p>
 <br>
 
 But this is not just about better materials, there is so much every fashion retailer can do very quickly TODAY to lessen their impact on the environment. 
@@ -184,6 +180,6 @@ As a side note here, it kind of makes sense, 70-80% of any retailer’s revenue 
 
 6) **Return rates will be 1% higher than 2019** depending on inflation, but even then expect it to be inline with 2019 (Sarah predicts 1% rise, Tash predicts 0% on 2019 and James predicts 0.5%-1% increase in return rates)
 
-7) **Category specific Shifts:*** 
+7) **Category specific Shifts:** 
 * Dresses, Jeans & Sportwear will continue to grow as a % of mix (although smaller increases)
 * Big increases in Swimwear (high return rates) and other holiday categories
