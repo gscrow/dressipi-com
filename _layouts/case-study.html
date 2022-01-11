@@ -8,45 +8,53 @@ layout: default
     <div class="container gutter">
       <a href="{{ site.baseurl }}/" class="header__logo">{% include svgs/logo.svg %}</a>
       <div class="header__navigation">
-        <nav class="navigation">
-          <ul class="navigation_items">
-            {% assign header_links = site.pages | where: 'navigation', 'header' | sort: 'position' %}
-            {% for link in header_links %}
+      <nav class="navigation">
+        <ul class="navigation_items">
+          {% assign header_links = site.pages | where: 'navigation', 'header' | sort: 'position' %}
+          {% for link in header_links %}
+          {% if link.has-menu == false %}
+          <li class="navigation__item navigation-dropdown">
+            <a href="{{ link.url }}" class="navigation__link">
+              <span class="navigation-no-dropdown__trigger">{{ link.title }}</span>
+            </a>
+          </li>
+          {% endif %}
+
+          
             {% if link.has-menu %}
-            <li class="navigation__item navigation-dropdown">
-              <span
-                class="navigation-dropdown__trigger {% if page.url contains link.url %}navigation-dropdown__trigger--active{% endif %}">{{
-                link.title }}</span>
-              {% if link.title == 'Solutions' %}
-              {% include partials/navigation.html context='/solutions/' %}
-              {% endif %}
-              {% if link.title == 'Resources' %}
-              {% include partials/navigation.html context='/resources/' %}
-              {% endif %}
-              {% if link.title == 'Company' %}
-              {% include partials/navigation.html context='/company/' %}
-              {% endif %}
-              {% if link.title == 'Clients' %}
-              {% include partials/navigation.html context='/clients/' %}
-              {% endif %}
-            </li>
-            {% endif %}
-            {% endfor %}
-            <li class="navigation__item">
-              <a href="/contact" class="button button-primary navigation__button"
-                title="Schedule A Free Consultation">Free Consultation ></a>
+              <li class="navigation__item navigation-dropdown">
+                <span class="navigation-dropdown__trigger {% if page.url contains link.url %}navigation-dropdown__trigger--active{% endif %}">{{ link.title }}</span>
+                {% if link.title == 'Solutions' %}
+                {% include partials/navigation.html context='/solutions/' %}
+                {% endif %}
+                {% if link.title == 'Resources' %}
+                {% include partials/navigation.html context='/resources/' %}
+                {% endif %}
+                {% if link.title == 'Company' %}
+                {% include partials/navigation.html context='/company/' %}
+                {% endif %}
+                {% if link.title == 'Customers' %}
+                {% include partials/navigation.html context='/clients/' %}
+                {% endif %}
               </li>
-            <!-- Resources Dropdown Menu -->
-          </ul>
-        </nav>
-        <button class="header-mobile-button">
-          {% include svgs/menu.svg %}
-          {% include svgs/cross.svg %}
-        </button>
-      </div>
+      
+            {% endif %}
+          {% endfor %}
+          <!-- Resources Dropdown Menu -->
+          {% unless page.layout == 'landing'%}
+            {% unless page.layout == 'privacy' %}
+          <li class="navigation__item"><a href="/contact" class="button button-primary navigation__button" title=" CONTACT US">CONTACT US ></a></li>
+          {% endunless %}
+          {% endunless %}
+        </ul>
+      </nav>
+      <button class="header-mobile-button">
+        {% include svgs/menu.svg %}
+        {% include svgs/cross.svg %}
+      </button>
+    </div>
     </div>
   </div>
-
   {% if page.header.case-study-header == true %}
   <div class="hero hero-content">
     <div class="container gutter">
