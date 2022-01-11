@@ -136,6 +136,10 @@ Let’s assume 2 fictional retailers, both with gross revenues of £500m in 2019
 
 As one of the biggest offenders when it comes to sustainability, fashion has a long way to go to improve its sustainability credentials. Whilst the consumer does yet not always vote with their wallet on this one, sentiments are definitely changing.  Most retail bosses understand that even if their consumer is not completely there, most governments are. There is now a necessity to ensure their businesses are more sustainable (2nd biggest opportunity and challenge as stated in the McKinsey’s latest “State of Fashion report 2022”) 
 
+<br>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Returns2022_BoF.png"/></p>
+<br>
+
 But this is not just about better materials, there is so much every fashion retailer can do very quickly TODAY to lessen their impact on the environment. 
 
 Returns are just one example. Online returns are typically 3x higher than instore returns. Online returns typically take longer and depending on seasons and styles can be tricky to resell. According to [Optara](https://info.optoro.com/hubfs/The%20Optoro%202020%20Impact%20Report.pdf) online returns are responsible for 14% more waste. They calculate that every 100m returned items results in approximately 100m lbs of waste in landfill and 300k metrics tons of CO2 emitted. 
@@ -165,11 +169,17 @@ As a side note here, it kind of makes sense, 70-80% of any retailer’s revenue 
 # Prediction for 2022
 
 1) **Mid market squeeze**: as inflationary pressures set in, luxury is likely to be more resilient whereas consumers who feel the squeeze will trade down to the value retailers
+
 2) **Online pureplays to see growth rates reduced to average 13% in 2022** Growth in revenue will offset the margin squeeze that comes from increased return rates but will need to be accounted for. 
+
 3) **55-60% of B&M revenue will be from online channel** it will be lower than the 70%+ we saw at periods of 2020 and 2021 but settle around the 55-60% level
+
 4) **B&M retailers will see additional pressure on margins**: we expect the growth of online to continue to grow (probably by a similar 10-13%). That, with the additional return rates, means a £500m retailer will need to find an additional £15m of cash to pay for the squeeze.
+
 5) **Minimal lockdowns** but unsure as to where people spend their discretionary income
+
 6) **Return rates will be 1% higher than 2019** depending on inflation, but even then expect it to be inline with 2019 (Sarah predicts 1% rise, Tash predicts 0% on 2019 and James predicts 0.5%-1% increase in return rates)
+
 7) **Category specific Shifts:*** 
 * Dresses, Jeans & Sportwear will continue to grow as a % of mix (although smaller increases)
 * Big increases in Swimwear (high return rates) and other holiday categories
