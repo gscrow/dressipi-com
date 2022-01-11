@@ -4,7 +4,7 @@ position: 3
 navigation: solution-footer
 header:
   title: Optimise Future Product Assortments & Size ratios.
-  body: <p class="header__banner-subtitle"> Ensure you have the right products to meet demand, significantly reducing overstock & discounting </p>
+  body: <p class="header__banner-subtitle">Ensure you have the right products to meet demand, significantly reducing overstock & discounting whilst hugely improving your ESG credentials</p>
   hero-image: "/uploads/banner-product-forecasting.png"
   page-title: PRODUCT FORECASTING
   page-title-icon: "/uploads/icon_data-insight-hub-grey.svg"
@@ -12,7 +12,7 @@ header:
     copy: Request A Demo >
     url: "/try-demo/"
     style: primary
-description: Ensure you have the right products to meet demand, significantly reducing overstock & discounting
+description: Ensure you have the right products to meet demand, significantly reducing overstock & discounting whilst hugely improving your ESG credentials
 class: data-insight
 sections:
   - title: Trade as Effectively as Possible
