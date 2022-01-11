@@ -103,7 +103,7 @@ When return rates for any multiple size purchase are at 85%, it suggests that th
 And over lockdown we have seen the biggest rise was in customers buying multiple options (19%) but also in customers buying multiple sizes (11%) and a decrease in customers buying single size single product (-10%). 
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/Returns2022_9.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Returns2022_9.JPG"/></p>
 <br>
 
 This suggests that customers are uncertain of what works best for them. Given both of the first 2 reasons have higher return rates this uncertainty will also be contributing to higher return rates. 
@@ -113,7 +113,7 @@ This suggests that customers are uncertain of what works best for them. Given bo
 So all of this means that return rates for the period from Aug - Oct 2021 vs the same period in 2021 are up 1%. We predict therefore that the return rates for 2022 will be either inline or approximately 1% higher than 2019.
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/Returns2022_10.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Returns2022_10.JPG"/></p>
 <br>
 
 ## What this means for margins
@@ -123,7 +123,7 @@ Obviously, this shift to online retailing and return rates increase plays out ve
 Let’s assume 2 fictional retailers, both with gross revenues of £500m in 2019. The first is an online pureplay retailer and the other a traditional bricks and mortar retailer. Let’s assume each retailer follows the average movements within their category. 
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Returns2022_1112.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 800px;" src ="/uploads/Returns2022_1112.JPG"/></p>
 <br>
 
 **Online pureplay retailers** are having an easier time of it, with average growth rates over 20% and reduced return rates in 2020 and 2021, surplus cash has been considerable (and at least a decent buffer against the recent increased supply chain costs). We predict 2022 return rates to be inline with or slightly higher than 2019 and so although the online retailers will have additional growth, we expect their overall EBIT margins to be negatively impacted by about 1% (not including impacts from supply chains).
