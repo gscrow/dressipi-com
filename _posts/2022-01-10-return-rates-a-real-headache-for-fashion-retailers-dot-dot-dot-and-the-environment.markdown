@@ -9,9 +9,9 @@ tags:
 - return rates
 image: "/uploads/Returns2022_Banner.png"
 author: Sarah McVittie
-description: 'The pandemic has had a huge impact on the fashion retail industry. Dressipi
-  analysed consumer purchasing habits throughout lockdowns and reopenings and how
-  these have affected return rates. '
+description: The last 2 years of lockdowns has had a huge impact on the fashion retail
+  industry but it is beginning to steady. Read our analysis on what this means for
+  return rates.
 download: Return Rate Data Analysis Package
 ---
 
