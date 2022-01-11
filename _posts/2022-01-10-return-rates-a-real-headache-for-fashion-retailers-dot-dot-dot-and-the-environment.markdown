@@ -128,7 +128,7 @@ Let’s assume 2 fictional retailers, both with gross revenues of £500m in 2019
 
 **Online pureplay retailers** are having an easier time of it, with average growth rates over 20% and reduced return rates in 2020 and 2021, surplus cash has been considerable (and at least a decent buffer against the recent increased supply chain costs). We predict 2022 return rates to be inline with or slightly higher than 2019 and so although the online retailers will have additional growth, we expect their overall EBIT margins to be negatively impacted by about 1% (not including impacts from supply chains).
 
-**For B&M retailers**, it is a different story. Although the online channel has doubled since 2019, overall revenues have declined. So, even with the decrease in return rates that gave the online retailers a boost to their contribution margin. It doesn’t make up for the loss in retail sales. As 2022 reverts to 2019 levels but with a higher online percentage and increased return rates, we expect the traditional players to see their EBIT margins negatively impacted by 8% or an additional cost of £15m. Again, this does not include the increased costs of supply chains.  
+**For B&M retailers**, it is a different story. Although the online channel has doubled since 2019, overall revenues have declined. So, even with the decrease in return rates that gave the online retailers a boost to their contribution margin, it doesn’t make up for the loss in retail sales. As 2022 reverts to 2019 levels but with a higher online percentage and increased return rates, we expect the traditional players to see their EBIT margins negatively impacted by 8% or an additional cost of £15m. Again, this does not include the increased costs of supply chains.  
 
 ## There Are 2 Other Big Shifts That Have Taken Hold Over The Last 2 Years
 
@@ -148,9 +148,9 @@ Returns are a natural cost of doing business online but that minimum natural cos
 
 ### 2) Data Driven Retailing
 
-On the one hand, the rise and rise of SheIn proves that the consumer isn’t really there yet from a sustainability point of view but on the flipside, it more than proves the power of data driven retailing. 
+On the one hand, the rise and rise of Shein proves that the consumer isn’t really there yet from a sustainability point of view but on the flipside, it more than proves the power of data driven retailing. 
 
-Now that the majority of most fashion retailer’s revenue is online, all those retailers have the data they need to implement much better retail practices to ensure that as retailers, the right products in the right quantities and right sizes are produced and that customers are buying the right items in the first place. 
+Now that the majority of most fashion retailers revenue is online, all those retailers have the data they need to implement much better retail practices to ensure that as retailers, the right products in the right quantities and right sizes are produced and that customers are buying the right items in the first place. 
 
 Harnessing the power of this data can significantly improve the customer experience, reduce returns to a much lower level and reduce the waste every fashion retailer produces. 
 
