@@ -74,7 +74,7 @@ sections:
   handle: solutions
   solutions-class: platform-quote
   quote: "“Dressipi is a very strategic part of our platform, not just an add-on or any other supplier. It’s central to how we’re powering recommendations, how we’re powering the sort and rank on the PLP, and how we introduce more inspiration-led categories and content slots. The key is how it keeps all of our experiences relevant & consistent across all parts of the journey.”"
-  retailer: Simon Konn, Insights & CRM Director
+  retailer: Insights & CRM Director
   action:
     copy: CASE STUDIES >
     url: "/customers/"
