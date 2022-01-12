@@ -12,6 +12,10 @@ header:
     products & inspiration their visitors deserve, across every part of the shopper
     journey
   class: index-banner
+  button:
+    copy: LEARN MORE >
+    url: "/platform"
+    style: primary
   hero-image: "/uploads/banner-home.jpeg"
   page-title: 
 description: The global leader in Fashion AI. Dressipi delivers breakthrough, fashion-specific
@@ -91,4 +95,3 @@ sections:
     style: primary
 layout: index
 ---
-
