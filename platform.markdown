@@ -8,33 +8,28 @@ type: platform
 header:
   hero-image: "/uploads/banner-solutions-overview.jpg"
   color: "#000"
-description: Dressipi is the unified, fashion-specific intelligence behind the scenes making every experience consistent & relevant for all visitors and all interactions.
+description: Dressipi is the unified, fashion-specific intelligence behind the scenes
+  making every experience consistent & relevant for all visitors and all interactions.
 sections:
 - title: 
   handle: overview
-  overview-subtitle: Dressipi unifies data into a fashion-specific structure, 
-    calculates advanced predictions and suggested actions, and connects to core solutions via APIs 
-    to provide consistent fashion-specific intelligence throughout your business.
+  overview-subtitle: Dressipi unifies data into a fashion-specific structure, calculates
+    advanced predictions and suggested actions, and connects to core solutions via
+    APIs to provide consistent fashion-specific intelligence throughout your business.
   subsections:
   - title: Customer Relevancy
     image: "/uploads/icon_customer-relevancy.png"
-    body: "Build deeper relationships with customers, to increase LTV, retention, acquisition and reduce churn and returns:
-    <ul>
-    <li>Personalised product discovery</li>
-    <li>Personalised customer experiences</li>
-    <li>Personalised journeys</li>
-    </ul>"
+    body: 'Build deeper relationships with customers, to increase LTV, retention,
+      acquisition and reduce churn and returns: <ul> <li>Personalised product discovery</li>
+      <li>Personalised customer experiences</li> <li>Personalised journeys</li> </ul>'
     action:
       copy: Find Out How >
       url: "/solutions/product-discovery/"
   - title: Retailer Intelligence
     image: "/uploads/icon_retailer-intelligence.png"
-    body: "Get answers on what’s happening and what to do next, significantly improving ESG credentials:
-    <ul>
-    <li>Intelligent assortment optimisation</li>
-    <li>Intelligent stock replenishment</li>
-    <li>Intelligent promotions</li>
-    </ul>"
+    body: 'Get answers on what’s happening and what to do next, significantly improving
+      ESG credentials: <ul> <li>Intelligent assortment optimisation</li> <li>Intelligent
+      stock replenishment</li> <li>Intelligent promotions</li> </ul>'
     action:
       copy: Find Out How >
       url: "/solutions/product-forecasting/"
@@ -42,15 +37,18 @@ sections:
   handle: solutions
   solutions-class: platform-ai
   class: top-section
-  subtitle: Technology that allows processing of millions of data points at speed to deliver smarter predictions and enabling quicker decisions
+  subtitle: Technology that allows processing of millions of data points at speed
+    to deliver smarter predictions and enabling quicker decisions
   subsections:
-  - title:
+  - title: 
     solution-class: project-img-ai
 - title: Quality Product & Brand Data
   handle: solutions
-  subtitle: Address the most fundamental issues retailers experience - inconsistent product & brand data, attribution errors and missing values - with the most comprehensive taxonomy of attributes, built by fashion stylists and scaled by AI.
+  subtitle: Address the most fundamental issues retailers experience - inconsistent
+    product & brand data, attribution errors and missing values - with the most comprehensive
+    taxonomy of attributes, built by fashion stylists and scaled by AI.
   subsections:
-  - title:
+  - title: 
     solution-class: project-img-quality-data
 - title: One Platform. Limitless Integrations.
   handle: solutions
@@ -73,7 +71,11 @@ sections:
 - title: title
   handle: solutions
   solutions-class: platform-quote
-  quote: "“Dressipi is a very strategic part of our platform, not just an add-on or any other supplier. It’s central to how we’re powering recommendations, how we’re powering the sort and rank on the PLP, and how we introduce more inspiration-led categories and content slots. The key is how it keeps all of our experiences relevant & consistent across all parts of the journey.”"
+  quote: "“Dressipi is a very strategic part of our platform, not just an add-on or
+    any other supplier. It’s central to how we’re powering recommendations, how we’re
+    powering the sort and rank on the PLP, and how we introduce more inspiration-led
+    categories and content slots. The key is how it keeps all of our experiences relevant
+    & consistent across all parts of the journey.”"
   retailer: Insights & CRM Director
   action:
     copy: CASE STUDIES >
@@ -93,3 +95,4 @@ sections:
       url: "/contact/"
 layout: platform
 ---
+

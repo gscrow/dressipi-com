@@ -1,20 +1,21 @@
 ---
-title: "Dressipi: The Fashion AI Experts"
+title: 'Dressipi: The Fashion AI Experts'
 position: 1
 header:
-  button:
-    url: "/contact"
-  color: "#000"
-  title: Deliver Breakthrough, Fashion Specific, Shopping Experiences
-  body: We are the fashion-AI experts, helping fashion retailers deliver the relevant products & inspiration their visitors deserve, across every part of the shopper journey
-  class: index-banner
   button:
     copy: LEARN MORE >
     url: "/contact"
     style: primary
+  color: "#000"
+  title: Deliver Breakthrough, Fashion Specific, Shopping Experiences
+  body: We are the fashion-AI experts, helping fashion retailers deliver the relevant
+    products & inspiration their visitors deserve, across every part of the shopper
+    journey
+  class: index-banner
   hero-image: "/uploads/banner-home.jpeg"
-  page-title:
-description: The global leader in Fashion AI. Dressipi delivers breakthrough, fashion-specific shopping experiences across every part of the shopper journey.
+  page-title: 
+description: The global leader in Fashion AI. Dressipi delivers breakthrough, fashion-specific
+  shopping experiences across every part of the shopper journey.
 has-contact-section: false
 sections:
 - title: Fashion Expertise + More Relevance = Better Buying
@@ -32,31 +33,34 @@ sections:
   class: index-features
   subsections:
   - title: Helping All Visitors Find Their Best Products Faster
-    subtitle: PRODUCT DISCOVERY 
+    subtitle: PRODUCT DISCOVERY
     class: index-product-discovery
-    body: "Provide intent-driven categories, filters & personalised recommendations for first time visitors as well as repeat customers
-      \n"
+    body: "Provide intent-driven categories, filters & personalised recommendations
+      for first time visitors as well as repeat customers \n"
     image: "/uploads/banner-product-discovery.png"
     hres-image: "/uploads/banner-product-discovery.png"
     link: Learn More >
-    url: /solutions/product-discovery
+    url: "/solutions/product-discovery"
   - title: Create Customer-Centred, Fashion Experiences
     subtitle: PRODUCT EXPERIENCE
     color: white
-    body: Inspire with outfits relevant to each visitor, showing the value of every product & how to wear your brand their way.
+    body: Inspire with outfits relevant to each visitor, showing the value of every
+      product & how to wear your brand their way.
     image: "/uploads/banner-product-experience.png"
     hres-image: "/uploads/banner-product-experience.png"
     link: Learn More >
-    url: /solutions/product-experience
+    url: "/solutions/product-experience"
   - title: Optimise Future Product Assortments & Size Ratios
     subtitle: PRODUCT FORECASTING
-    body: Ensure you have the right products to meet demand, significantly reducing overstock & discounting whilst hugely improving your ESG credentials.
+    body: Ensure you have the right products to meet demand, significantly reducing
+      overstock & discounting whilst hugely improving your ESG credentials.
     image: "/uploads/banner-product-forecasting.png"
     hres-image: "/uploads/banner-product-forecasting.png"
     link: Learn More >
-    url: /solutions/product-forecasting
+    url: "/solutions/product-forecasting"
 - title: Delivering Relevancy at Scale, Requires Fashion-Specific AI at Scale
-  subtitle: Our customers are delivering unprecedented profitable revenue growth, cost savings, improved customer experiences and loyalty across their business.
+  subtitle: Our customers are delivering unprecedented profitable revenue growth,
+    cost savings, improved customer experiences and loyalty across their business.
   handle: clients
   color: white
   clients:
@@ -77,16 +81,14 @@ sections:
   - Belstaff increased email revenue by 69% through personalised recommendations
   - How OVS Benefited from Dressipi’s Personalised In-Store Emails
   link: MORE CASE STUDIES >
-  url: /customers/
-
+  url: "/customers/"
 - title: Make Every Experience More Relevant, More Fashion-Specific with Dressipi
   handle: roi
-  color: light-grey 
+  color: light-grey
   button:
     copy: Contact Us >
-    url: /company/contact
+    url: "/company/contact"
     style: primary
-
-
 layout: index
 ---
+
