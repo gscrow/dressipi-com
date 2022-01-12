@@ -9,6 +9,15 @@
           <ul class="navigation_items">
             {% assign header_links = site.pages | where: 'navigation', 'header' | sort: 'position' %}
             {% for link in header_links %}
+            {% if link.has-menu == false %}
+            <li class="navigation__item navigation-dropdown">
+              <a href="{{ link.url }}" class="navigation__link">
+                <span class="navigation-no-dropdown__trigger">{{ link.title }}</span>
+              </a>
+            </li>
+            {% endif %}
+
+            
               {% if link.has-menu %}
                 <li class="navigation__item navigation-dropdown">
                   <span class="navigation-dropdown__trigger {% if page.url contains link.url %}navigation-dropdown__trigger--active{% endif %}">{{ link.title }}</span>
@@ -18,10 +27,10 @@
                   {% if link.title == 'Resources' %}
                   {% include partials/navigation.html context='/resources/' %}
                   {% endif %}
-                  {% if link.title == 'About' %}
-                  {% include partials/navigation.html context='/about/' %}
+                  {% if link.title == 'Company' %}
+                  {% include partials/navigation.html context='/company/' %}
                   {% endif %}
-                  {% if link.title == 'Clients' %}
+                  {% if link.title == 'Customers' %}
                   {% include partials/navigation.html context='/clients/' %}
                   {% endif %}
                 </li>
@@ -31,7 +40,7 @@
             <!-- Resources Dropdown Menu -->
             {% unless page.layout == 'landing'%}
               {% unless page.layout == 'privacy' %}
-            <li class="navigation__item"><a href="/contact" class="button button-primary navigation__button" title="Schedule A Free Consultation">Free Consultation ></a></li>
+            <li class="navigation__item"><a href="/contact" class="button button-primary navigation__button" title=" CONTACT US">CONTACT US ></a></li>
             {% endunless %}
             {% endunless %}
           </ul>
@@ -46,9 +55,9 @@
   </div>
 
   {% unless page.exclude-hero or page.includes-video %}
-  <div class="hero{% if page.header.height =='tight' or my_page_url contains 'blog' or my_page_url contains 'resources' %} hero--tight{% endif %}{% unless my_page_url == '' %} hero-content {{ my_page_url | prepend: "hero-"}}{% endunless %}{% if page.header.hero-image %} hero--mobile{% endif %} {% if my_page_url == '' %}index{% endif %}" style="background: {% if page.header.hero-image %} {{ page.header.color | default: '#F3F4F7' }} url({{ page.header.hero-image }}) no-repeat 70%{% else if page.header.color %}{{ page.header.color | default: '#F3F4F7' }}{% endif %};">
+  <div class="hero{% if page.header.height =='tight' or my_page_url contains 'blog' or my_page_url contains 'resources' %} hero--tight{% endif %}{% unless my_page_url == '' %} hero-content {{ my_page_url | prepend: "hero-" }}{% endunless %} {% if page.header.hero-image %} hero--mobile{% endif %} {% if my_page_url == '' %}index{% endif %} {% if my_page_url == 'platform' %}platform{% endif %}" style="background: {% if page.header.hero-image %}{{ page.header.color | default: '#F3F4F7' }} url({{ page.header.hero-image }}) no-repeat 74% {% else if page.header.color %}{{ page.header.color | default: '#F3F4F7' }}{% endif %};">
     <div class="container gutter landing{% if my_page_url contains 'new-updated-dressipi' %}{% endif %}{% if page.header.hero_form %} hero__flex{% endif %}">
-      <div class="hero__content{% if page.header.width %}{{ page.header.width | prepend: '--' }}{% endif %}{% if my_page_url contains 'blog' %}--extend{% endif %}">
+      <div class="hero__content {% if page.header.width %}{{ page.header.width | prepend: '--' }}{% endif %}{% if my_page_url contains 'blog' %}--extend{% endif %}">
         {% if my_page_url contains 'author' and page.image %}
           <img src="{{ page.image }}" title="{{ page.title }}" class="thumb thumb--rounded"/>
         {% endif %}
@@ -58,15 +67,10 @@
         <p class="banner-page-title">{{page.header.page-title}}</p>
         </div>
         {% endif %}
-        {% unless my_page_url == '' %}
         {% if page.type != 'customer' %}
+        {% if page.type != 'platform' %}
+        <div class={{ page.header.class }}>
         <h1 class="header__title">{{ page.header.title | default: page.title }}</h1>
-        {% endif %}
-        {% endunless %}
-        {% if my_page_url == '' %}
-        <a href="{{ page.header.button.url }}" >
-        <div class="index-image"><img src="{{ page.header.hero-desktop-image }}" {% if subsection.hero-desktop-image %} srcset="{{ page.header.hero-mobile-image }} x1, {{ page.header.hero-desktop-image }} x2" {% endif%}/> </div>
-        </a>
         {% endif %}
         {% if my_page_url contains 'author' and page.twitter %}
         <h4><a href="http://twitter.com/{{ page.twitter }}" target="_blank"><img class="twitter-logo" src="/assets/twitter.png">   {{ page.twitter }}</a></h4>
@@ -76,6 +80,8 @@
         {% endif %}
         {% if page.header.description %}
         <div class="header__description">{{ page.header.description | markdownify }}</div>
+      </div>
+        {% endif %}
         {% endif %}
 
         {% if my_page_url == 'clients' %}

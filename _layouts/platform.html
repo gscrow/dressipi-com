@@ -1,0 +1,245 @@
+---
+layout: default
+---
+
+{% for section in page.sections %} {% assign handle = section.handle %} {%
+assign my_page_url = page.url | remove: '/' %} {% assign branch =
+section.subsections.branch %}
+<section
+  id="{{ handle }}"
+  class="section {{ section.class }} {% if handle %}{{ section.handle | prepend: 'section-' | append: ' ' }}{% endif %}background--{{ section.color | default:'white' }} {{ page.class }}"
+>
+  <!-- section heading group -->
+  {% if section.overview-subtitle %}
+  <hgroup class="container gutter section__heading {{ section.class }}">
+    {% endif %} {% if section.overview-title %}
+    <h2>{{ section.overview-title }}</h2>
+    <p>{{ section.overview-subtitle }}</p>
+  </hgroup>
+  {% endif %} {% if section.roi-section %}
+  <hgroup class="container gutter section__heading roi-title">
+    <h2>{{ section.roi-title }}</h2>
+  </hgroup>
+  {% endif %} {% if section.title %}
+  <hgroup class="container gutter section__heading  {{ section.solutions-class }}">
+    <h2>{{ section.title }}</h2>
+    {% endif %} {% if section.subtitle %}
+    <p>{{ section.subtitle }}</p>
+    {% endif %} {% if section.quote %}
+    <p>{{ section.quote }}</p>
+    {% if section.retailer %}
+    <p class="strong">{{ section.retailer }}</p>
+    {% endif %} {% if section.action %}<a
+      href="{{ section.action.url }}"
+      class="button button--medium button-{{ section.action.style | default: 'primary' }}"
+      >{{ section.action.copy }}</a
+    >{% endif %}
+  </hgroup>
+  {% endif %}
+  <!-- section content group -->
+  <div class="section__body">
+    {% case handle %} {% when 'overview' %}
+    <div class="container">
+      <ul class="overview__list">
+        {% for subsection in section.subsections %}
+        <li class="overview-section__wrap">
+          <div class="overview-section">
+            <div class="overview-section__header">
+              <img
+                src="{{ subsection.image }}"
+                alt="{{ subsection.title }}"
+                class="platform-solution-icon"
+                {%
+                if
+                subsection.hres-image
+                %}srcset="{{ subsection.hres-image }} 2x"
+                {%
+                endif
+                %}
+              />
+
+              <p class="project__title">{{ subsection.title }}</p>
+            </div>
+            <div class="overview-section__body article__content">
+              <p>{{ subsection.body }}</p>
+            </div>
+            {% if subsection.action %}<a
+              href="{{ subsection.action.url }}"
+              class="button button--medium button-{{ subsection.action.style | default: 'secondary' }} text--center"
+              >{{ subsection.action.copy }}</a
+            >{% endif %}
+          </div>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    {% when 'solutions' %}
+    <div class="projects">
+      {% for subsection in section.subsections %}
+      <div class="project" style="padding: 0">
+        <div class="container">
+          {% if subsection.solution-class %}
+          <div class="gutter project__image">
+            <div class="{{ subsection.solution-class }} ">
+              <!-- keep flex image ratio -->
+              <img alt="{{ subsection.title }}"/>
+            </div>
+          </div>
+          {% endif %} {% if subsection.branch == 'platform-integrations' %}
+          <ul class="integration__logos">
+            {% assign site_integrations = site.integrations | sort:'position' %}
+            {% for integration in site_integrations %}
+            <li class="integration__logo {{ integration.class }}">
+              <img src="{{ integration.logo }}" alt="{{ integration.title }}" />
+            </li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    {% when 'intro' %}
+    <div
+      class="container{% if section.width %}{{ section.width | prepend: '--' }}{% endif %} gutter ul-bullet {{ section.class }}"
+    >
+      {{ section.body | markdownify }}
+      <div class="intro__list">
+        {% for subsection in section.subsections %}
+        <div class="gutter intro">
+          <div class="intro__copy">
+            <h3 class="intro__title">{{ subsection.title }}</h3>
+            <div class="intro__body">{{ subsection.body | markdownify }}</div>
+            {% if subsection.list %}
+            <div class="intro__body tick-ul">
+              {{ subsection.list | markdownify }}
+            </div>
+            {% endif %}
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    {% when 'slide' %}
+    <div class="slide">
+      {% for subsection in section.subsections %}
+      <div class="sub_slide">
+        <div class="container">
+          {% if subsection.image %}
+          <div class="gutter slide__image">
+            <div>
+              <!-- keep flex image ratio -->
+              <img
+                src="{{ subsection.image }}"
+                alt="{{ subsection.title }}"
+                {%
+                if
+                subsection.hres-image
+                %}srcset="{{ subsection.hres-image }} 2x"
+                {%
+                endif
+                %}
+                class="slide__image"
+              />
+            </div>
+          </div>
+          {% endif %}
+          <div
+            class="
+              gutter
+              slide__copy{%
+              if
+              subsection.align
+              ==
+              'top'
+              %}--top{%
+              endif
+              %}
+            "
+          >
+            <h2 class="slide__title">{{ subsection.title }}</h2>
+            <div class="slide__body">{{ subsection.body | markdownify }}</div>
+            {% if subsection.action %}<a
+              href="{{ subsection.action.url }}"
+              class="button button--medium button--primary button-{{ subsection.action.style }}"
+              >{{ subsection.action.copy }}</a
+            >{% endif %}
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    {% when 'features' %}
+    <div class="features">
+      {% for subsection in section.subsections %}
+      <div class="feature">
+        <div class="container">
+          <div
+            class="
+              gutter
+              feature__copy{%
+              if
+              subsection.align
+              ==
+              'top'
+              %}--top{%
+              endif
+              %}
+            "
+          >
+            <h3 class="feature__title">{{ subsection.title }}</h3>
+            <p class="feature__subtitle">{{ subsection.subtitle }}</p>
+            <div class="feature__body">{{ subsection.body | markdownify }}</div>
+            <div class="container features-container">
+              {% if subsection.action %}<a
+                href="{{ subsection.action.url }}"
+                class="button button--medium button-{{ subsection.action.style | default: 'primary' }} text--center"
+                >{{ subsection.action.copy }}</a
+              >{% endif %}
+            </div>
+          </div>
+          {% if subsection.image %}
+          <div class="gutter feature__image {{ subsection.class }}">
+            <div>
+              <!-- keep flex image ratio -->
+              <img
+                src="{{ subsection.image }}"
+                alt="{{ subsection.title }}"
+                {%
+                if
+                subsection.hres-image
+                %}srcset="{{ subsection.hres-image }} 2x"
+                {%
+                endif
+                %}
+                class="feature__image"
+              />
+            </div>
+          </div>
+          {% endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    {% when 'benefits' %} {% include partials/roi-contact.html %} {% when nil %}
+    <div
+      class="container{% if section.width %}{{ section.width | prepend: '--' }}{% endif %} gutter"
+    >
+      {{ section.body | markdownify }}
+    </div>
+    {% endcase %}
+  </div>
+
+  {% if section.button %}
+  <!-- section footer group -->
+  <div class="container section__footer text--center">
+    <a
+      href="{{ section.button.url }}"
+      class="button button--medium button--medium button-{{ section.button.style | default: 'primary' }}"
+      >{{ section.button.copy }}</a
+    >
+  </div>
+  {% endif %}
+</section>
+{% endfor %}

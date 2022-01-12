@@ -11,9 +11,15 @@
   max-width: 400px;
   height: 100%;
 
+  .platform-solution-icon {
+    float: left;
+    margin-right: -28px;
+    margin-top: -5px;
+    width: 50px;
+  }
+
   &__wrap {
     margin-right: $gutter-width / 2;
-    margin-bottom: rhythm(3);
     margin-left: $gutter-width / 2;
 
     .project__image {
@@ -54,8 +60,8 @@
 
   &__body {
     background: $background--lighter;
-    padding: rhythm(2);
-    min-height: 132px;
+    padding: rhythm(2) !important;
+    min-height: 256px;
 
     > p {
       text-align: center;
@@ -84,6 +90,10 @@
 @media screen and (max-width: 910px) and (min-width: 800px) {
   .overview-section {
     max-width: 300px;
+
+    &__wrap {
+      margin-right: $gutter-width / 2;
+      margin-left: $gutter-width / 2;}
   }
 }
 
@@ -91,9 +101,8 @@
   .overview-section {
     max-width: calc-columns-width(3);
 
-    &__wrap {
-      margin-right: $tablet-gutter-width / 2;
-      margin-left: $tablet-gutter-width / 2;
+    &__wrap:first-child {
+      margin-bottom: rhythm(3);
     }
 
     &__header {
@@ -104,8 +113,6 @@
   }
 
   .overview-section__wrap {
-    margin-bottom: 70px;
-
     .project__image {
       margin-bottom: 0;
     }
@@ -122,6 +129,9 @@
     }
 
     &__header {
+      p {
+        font-size: 15px;
+      }
       span {
         height: auto;
       }

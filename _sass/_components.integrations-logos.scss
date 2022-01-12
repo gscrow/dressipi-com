@@ -19,12 +19,15 @@
   }
 }
 
-.cheetah,
-.google-tag-manager,
-.intelligent-reach {
+.commerce-cloud,
+.adobe-cloud {
   img {
     max-width: 150%;
   }
+}
+
+.commerce-cloud, .adobe-cloud, .magento {
+  margin-bottom: 0 !important;
 }
 
 // mobile responsive styles

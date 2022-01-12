@@ -11,13 +11,6 @@ assign my_page_url = page.url | remove: '/' %}
   class="section {% if handle %}{{ section.handle | prepend: 'section-' | append: ' ' }}{% endif %}background--{{ section.color | default:'white' }} {{ page.class }}"
 >
   <!-- section heading group -->
-  {% if section.overview-subtitle %}
-  <hgroup class="container gutter section__heading">
-    {% endif %} {% if section.overview-title  %}
-    <h2>{{ section.overview-title }}</h2>
-    <p>{{ section.overview-subtitle }}</p>
-  </hgroup>
-  {% endif %}
  {% if section.roi-section %}
   <hgroup class="container gutter section__heading roi-title">
     <h2>{{ section.roi-title }}</h2>
@@ -33,7 +26,7 @@ assign my_page_url = page.url | remove: '/' %}
   <!-- section content group -->
   <div class="section__body">
     {% case handle %}
-    {% when 'overview' %}
+    {% when 'discovery' %}
     <div class="container">
       <ul class="overview__list">
         {% for subsection in section.subsections %}
@@ -57,6 +50,35 @@ assign my_page_url = page.url | remove: '/' %}
       </ul>
     </div>
 
+    {% when 'revenue' %}
+    <div class="container benefits text--center platform__info">
+      {% for subsection in section.subsections %}
+        <div class="gutter platform__gutter benefit ">
+          <div class="platform__description">
+            <p class="benefit__number">
+              <span class="number">{{ subsection.number-left}}</span>
+              <span class="percentage-sign">{{ subsection.value-left}}</span>
+            </p>
+            <p class="benefit__description">{{ subsection.number-left-description }}</p>
+          </div>
+          <div class="platform__description">
+            <p class="benefit__number">
+              <span class="number">{{ subsection.number-center}}</span>
+              <span class="percentage-sign">{{ subsection.value-center}}</span>
+            </p>
+            <p class="benefit__description">{{ subsection.number-center-description }}</p>
+          </div>
+          <div class="platform__description">
+            <p class="benefit__number">
+              <span class="number">{{ subsection.number-right }}</span>
+              <span class="percentage-sign">{{ subsection.value-right }}</span>
+            </p>
+            <p class="benefit__description">{{ subsection.number-right-description}}</p>
+          </div>
+        </div>
+        {% if subsection.action %}<a href="{{ subsection.action.url }}" class="button button--medium button-{{ subsection.action.style | default: 'primary' }}">{{ subsection.action.copy }}</a>{% endif %}
+      {% endfor %}
+    </div>
 
     {% when 'solutions' %}
 		<div class="projects">
@@ -146,24 +168,40 @@ assign my_page_url = page.url | remove: '/' %}
       </div>
       {% endfor %}
     </div>
+    {% when 'video' %}
+    <div class="video-wrapper">
+      <video width="100%" height="100%" controls poster="{{ page.video-mask }}">
+        <source src="{{ section.video-url }}" type="video/mp4">
+        </video>	
+    </div>
     {% when 'features' %}
     <div class="features">
       {% for subsection in section.subsections %}
-      <div class="feature">
-        <div class="container">
+      <div class="feature background--{{ subsection.color | default:'white' }}">
+        <div class="container {{ subsection.class }}">
           <div
             class="gutter feature__copy{% if subsection.align == 'top' %}--top{% endif %}"
           >
+            <p class="feature__mini-title">{{ subsection.mini-title }}</p>
             <h3 class="feature__title">{{ subsection.title }}</h3>
             <p class="feature__subtitle">{{ subsection.subtitle }}</p>
             <div class="feature__body">{{ subsection.body | markdownify }}</div>
+            {% if subsection.action %}
             <div class="container features-container" >
-              {% if subsection.action %}<a
+              <a
               href="{{ subsection.action.url }}"
               class="button button--medium button-{{ subsection.action.style | default: 'primary' }} text--center"
-              >{{ subsection.action.copy }}</a
-              >{% endif %}
+              >{{ subsection.action.copy }}</a>
             </div>
+            {% endif %}
+            {% if subsection.link %}
+            <div class="container features-container" >
+              <a
+              href="{{ subsection.url }}"
+              class="article__content__more"
+              >{{ subsection.link }}</a>
+            </div>
+            {% endif %}
           </div>
           {% if subsection.image %}
           <div class="gutter feature__image {{ subsection.class }}">

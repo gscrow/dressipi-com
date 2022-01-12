@@ -107,7 +107,7 @@ quotes:
     experiences that customers are demanding whilst maintaining the integrity of our
     brand identity.”"
 cta_title: Make every experience more relevant, more fashion-specific with Dressipi
-cta_link: "/about/contact/"
+cta_link: "/company/contact/"
 cta_label: Contact Us >
 layout: default
 ---

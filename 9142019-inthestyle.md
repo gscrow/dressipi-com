@@ -108,7 +108,7 @@ quotes:
     brand identity.”"
 cta_title: "Make every experience more relevant, \n<br>\nmore apparel-specific with
   Dressipi"
-cta_link: "/about/contact/"
+cta_link: "/company/contact/"
 cta_label: Contact Us
 layout: default
 ---

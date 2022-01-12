@@ -114,7 +114,7 @@ quotes:
   cta_title: Explore our Case Studies >
   cta_link: https://dressipi.com/clients/success-stories/
 cta_title: Make every experience more relevant, more fashion-specific with Dressipi
-cta_link: "/about/contact/"
+cta_link: "/company/contact/"
 cta_label: Contact Us >
 layout: default
 ---

@@ -17,6 +17,15 @@
   }
 }
 
+.solution-products-predict,
+.solution-products-conversion,
+.solution-products-relevancy {
+  .feature__image {
+    justify-content: left;
+  }
+}
+
+
 .multi-columns {
   @include flexbox;
   @include flex-wrap(wrap);
@@ -54,7 +63,7 @@
     flex-basis: 24%;
   }
 }
- 
+
 // grid gutter
 .gutter {
   padding-right: $gutter-width / 2;
@@ -64,7 +73,7 @@
     font-weight: 600;
     text-align: center;
   }
-  
+
   .quote {
     font-style: italic;
     text-align: center;
@@ -154,17 +163,17 @@
 // mobile styles
 @include responsive(mobile) {
   .gutter {
-    padding-right: $mobile-gutter-width / 2;
-    padding-left: $mobile-gutter-width / 2;
+    padding-right: $mobile-gutter-width * 1.5;
+    padding-left: $mobile-gutter-width * 1.5;
   }
 }
- .box-quote {
-    flex-direction: column;
-    text-align: center;
-    padding-top: 80px;
-    padding-bottom: 80px;
-    .button {
-      align-self: center;
-      width: fit-content;
-    }
+.box-quote {
+  flex-direction: column;
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  .button {
+    align-self: center;
+    width: fit-content;
   }
+}

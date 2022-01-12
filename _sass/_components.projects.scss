@@ -12,6 +12,23 @@
   &__image {
     flex: 4;
     justify-content: center;
+
+    .project-img-ai {
+      overflow: hidden;
+      max-height: 267px;
+      max-width: 863px;
+      margin: 0 auto;
+
+      img {
+        content: url("/uploads/enterprise-AI-at-scale-desktop.svg");
+      }
+    }
+
+    .project-img-quality-data {
+      img {
+        content: url("/uploads/quality-product-brand-data-desktop.png");
+      }
+    }
   }
 
   &__copy {
@@ -71,11 +88,24 @@
       flex-basis: 100%;
       order: 1;
       margin-bottom: rhythm(2);
-    }
 
-    &__copy {
-      flex-basis: 100%;
-      order: 2;
+      .project-img-ai {
+        img {
+          content: url("/uploads/enterprise-AI-at-scale-mobile.svg");
+        }
+      }
+
+      .project-img-quality-data {
+        img {
+          content: url("/uploads/quality-product-brand-data-mobile.png");
+          max-width: 50%;
+        }
+      }
+
+      &__copy {
+        flex-basis: 100%;
+        order: 2;
+      }
     }
   }
 }
@@ -84,5 +114,11 @@
 @include responsive(mobile) {
   .project {
     padding: rhythm(5) 0;
+
+    .project-img-quality-data {
+      img {
+        max-width: 100%;
+      }
+    }
   }
 }

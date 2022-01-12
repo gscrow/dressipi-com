@@ -6,6 +6,13 @@
     <nav class="site-footer__nav">
       <div class="site-footer__cols">
         <div class="gutter site-footer__col">
+          {% assign footer_links = site.pages | where: 'footer',
+            'platform' | sort: 'position' %} {% for link in footer_links
+            %}
+          <a href="{{ link.url }}" class="{{ link.title }}"><h3 class="site-footer__col-title">Platform</h3></a>
+          {% endfor %}
+        </div>
+        <div class="gutter site-footer__col">
           <h3 class="site-footer__col-title">Solutions</h3>
           <ul>
             {% assign footer_links = site.pages | where: 'navigation',
@@ -16,14 +23,11 @@
           </ul>
         </div>
         <div class="gutter site-footer__col">
-          <h3 class="site-footer__col-title">Clients</h3>
-          <ul>
-            {% assign footer_links = site.pages | where: 'navigation',
-            'clients-footer' | sort: 'footer-position' %} {% for link in
-            footer_links %}
-            <li><a href="{{ link.url }}" class="{{ link.title }}">{{ link.title }}</a></li>
-            {% endfor %}
-          </ul>
+          {% assign footer_links = site.pages | where: 'footer',
+          'customer' | sort: 'position' %} {% for link in footer_links
+          %}
+          <a href="{{ link.url }}" class="{{ link.title }}"><h3 class="site-footer__col-title">Customers</h3></a>
+          {% endfor %}
         </div>
         <div class="gutter site-footer__col">
           <h3 class="site-footer__col-title">Resources</h3>
@@ -36,7 +40,7 @@
           </ul>
         </div>
         <div class="gutter site-footer__col">
-          <h3 class="site-footer__col-title">About</h3>
+          <h3 class="site-footer__col-title">Company</h3>
           <ul>
             {% assign footer_links = site.pages | where: 'navigation',
             'about-footer' | sort: 'position' %} {% for link in footer_links

@@ -46,7 +46,7 @@ sections:
     image: "/uploads/success-story_river-island@2x.jpg"
   hero-image: false
   class: index-riverisland
-- roi-title: Dressipi Makes it Easy to Get Started & Deliver ROI
+- roi-title: Dressipi Makes it Easy to Get Started & Quickly Deliver ROI
   handle: benefits
   is-centered: true
   roi-section: true
