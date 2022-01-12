@@ -4,7 +4,7 @@ position: 1
 header:
   button:
     copy: LEARN MORE >
-    url: "/contact"
+    url: "/platform"
     style: primary
   color: "#000"
   title: Deliver Breakthrough, Fashion Specific, Shopping Experiences
@@ -12,10 +12,6 @@ header:
     products & inspiration their visitors deserve, across every part of the shopper
     journey
   class: index-banner
-  button:
-    copy: LEARN MORE >
-    url: "/platform"
-    style: primary
   hero-image: "/uploads/banner-home.jpeg"
   page-title: 
 description: The global leader in Fashion AI. Dressipi delivers breakthrough, fashion-specific
@@ -95,3 +91,4 @@ sections:
     style: primary
 layout: index
 ---
+
