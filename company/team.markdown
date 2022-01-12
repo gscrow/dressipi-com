@@ -97,6 +97,14 @@ sections:
     title: Software Engineer
     linkedin: https://www.linkedin.com/in/stefan-collier-320a00106/
     image: "/uploads/Stefan.jpg"
+  - name: Patrícia Santos
+    title: Software Engineer
+    linkedin: https://www.linkedin.com/in/patriciadsantos/
+    image: "/uploads/patricia_santos.jpg"
+  - name: Tomasz Pajor
+    title: Software Engineer
+    linkedin: https://www.linkedin.com/in/tomaszpajor/
+    image: "/uploads/tomasz_pajor-c8aa9b.jpeg"
   - name: Hassan Iskaf
     title: Front End Engineer
     linkedin: https://uk.linkedin.com/in/hassan-iskaf
