@@ -22,68 +22,61 @@ cta_top:
 featured_articles:
   title: Proteger, Impulsar, Desarrollar, Colaborar.
   content:
-  - title: |-
-      <br>
-      Agregar valor y construir un modelo de crecimiento sostenible y rentable mediante la predicción de ratios de tallas.
-    description: 'Una manera fácil de aumentar las ganancias y mejorar procesos internos:
-      Proporciona a tus equipos de Buyers & Merchandising con informes de ventas y
-      ratios de tallas de cada producto a tiempo real. Además, mejora el proceso para
-      la reposición de existencias y toma mejores decisiones para compras futuras.'
-    article_title: River Island ha mejorado el STR un 10% con nuestro modelo predictivo
-      de stock
-    cta_text: "¿QUIERES SABER MÁS? \n<br>\nPONTE EN CONTACTO >"
-    cta_link: https://dressipi.com/downloads/success-story-river-island/
-    image: "/uploads/RI%20Size%20Ratios%20Rectangle-2e0dc7.png"
-  - title: |-
-      <br>
-      Acelere el plan de transformación digital de Tendam con los atributos de Dressipi.
-    description: Una correcta atribución de datos de producto es clave para una transformación
-      digital sólida. En Dressipi no solo sabemos lo importante que es una buena base
-      de datos de productos, sino que además podemos producir esta base de datos para
-      Tendam, utilizando más de 1.060 valores diferentes de productos. Nuestro modelo
-      de etiquetado es totalmente escalable y casi 100% preciso, lo que significa
-      una mayor cantidad y calidad de información.
-    article_title: Atributos de productos creados específicamente para la indústria
-      de la moda són fundamentales para la transformación digital
+  - title: Meet specific customer demands by personalising every step of the journey
+    description: |-
+      Updated in real-time, Dressipi’s flexible recommendation API’s are personalised to the individual’s preferences and intentions, creating a seamless purchasing experience across all touchpoints.
+
+      Crucially, only showing products if they are available in the customer’s size - a key cornerstone of personalisation.
+    article_title: River Island increased their revenue by 6% in 12 months with Dressipi’s
+      fashion-focused approach to personalisation
     cta_text: LEER MÁS >
-    cta_link: https://drive.google.com/file/d/1qtmqasf-3kcRuyG1IZ289hO4OR6WE5gN/view?usp=sharing
-    image: "/uploads/Boden_Attributes.JPG"
-  - title: |-
-      <br>
-      Empuja la digitalización y optimiza la experiencia de compra de mas de 400 millones de clientes de Tendam.
-    description: Nuestro conocimiento incomparable de la industria de la moda significa
-      que podemos ofrecer combinaciones inmejorables y recomendar al cliente justo
-      aquello que necesita. Esto incrementa la conversión, disminuye las devoluciones
-      y construye una cartera de clientes mejor y más leal.
+    cta_link: https://dressipi.com/downloads/success-story-river-island/
+    image: "/uploads/Boden_RI-24be63.JPG"
+  - title: 'Put customers at the centre of decisions and offer inspiring outfit recommendations '
+    description: |-
+      With Dressipi, outfits are completely automated, completely personalised and always on-brand. Outfits consist of different product types, starting from different product types, for different occasions to show the versatility.
+
+      Based on preferences, activity, product availability and can include items the customer already owns.
     article_title: John Lewis incrementó sus ingresos ofreciendo recomendaciones personalizadas
     cta_text: LEER MÁS >
     cta_link: https://dressipi.com/downloads/success-story-john-lewis/
     image: "/uploads/JL_rectangle.png"
+  - title: Sustainability embedded into API’s and prediction models
+    description: "One differentiating factor is that we are the only recommendation
+      provider that builds return rate propensities into our algorithms. For every
+      customer, every garment and every feature. \n\nWe typically see return rates
+      drop by 10-15% when the same customer buys through our recommendations versus
+      the normal customer journey. "
+    article_title: |
+      Return Rates: A Real Headache for Fashion Retailers… and the Environment
+      <br>
+    cta_text: LEER MÁS >
+    cta_link: https://dressipi.com/blog/return-rates-a-real-headache-for-fashion-retailers-dot-dot-dot-and-the-environment/
+    image: "/uploads/Returns%202022%20Banner.png"
 featured_content:
   title: Contenido recomendado
-  description: Hemos escogido este contenido especialmente para Tendam, creemos que
+  description: Hemos escogido este contenido especialmente para Inditex, creemos que
     puede ser muy interesante para vosotros.
   content:
-  - section: SEMINARIO WEB
-    logo: "/uploads/logo.svg"
-    image: "/uploads/RI%20Webinar.PNG"
-    title: Descubre como River Island ha aumentado sus ingresos un 6% en 12 meses
-      utilizando herramientas de personalización.
-    cta_text: DESCÁRLAGO AQUÍ >
-    cta_link: https://dressipi.com/downloads/how-river-island-used-personalisation-to-deliver-revenue-increase/
   - section: CASOS DE ÉXITO
     logo: "/uploads/Belstaff%20Logo.png"
     image: "/uploads/Belstaff_success_story_hero_2-bb4fa9.jpg"
-    title: Belstaff ha incrementado sus ventas un 69% utilizando emails personalizados.
+    title: Belstaff ha incrementado sus ventas un 69% utilizando emails personalizados
     cta_text: LEER MÁS >
     cta_link: https://dressipi.com/downloads/success-story-belstaff/
-  - section: SEMINARIO WEB
+  - section: BLOG
     logo: "/uploads/logo.svg"
-    image: "/uploads/boden_be.png"
-    title: Descubre como optimizar la venta de exceso de inventario y mejorar el flujo
-      de caja.
-    cta_text: DESCÁRLAGO AQUÍ >
-    cta_link: https://dressipi.com/downloads/dressipi-optimise-sale-overstocked-products-webinar/
+    image: "/uploads/Why%20Is%20Fashion%20Different%20Square.jpg"
+    title: Chief Data Scientist explains why recommendation algorithms for fashion
+      have to be different
+    cta_text: READ THE BLOG >
+    cta_link: https://dressipi.com/blog/why-is-fashion-different/
+  - section: WHITEPAPER
+    logo: "/uploads/logo.svg"
+    image: "/uploads/attributes_square.png"
+    title: 'Fashion-specific product attributes driving value in key retail areas '
+    cta_text: GET THE GUIDE >
+    cta_link: https://drive.google.com/file/d/1qtmqasf-3kcRuyG1IZ289hO4OR6WE5gN/view?usp=sharing
 section_about:
   title: Sobre Dressipi
   content: "Somos expertos en moda e Inteligencia Artificial y ayudamos empresas del
@@ -105,19 +98,20 @@ section_about:
     personalizada con la ayuda de Dressipi"
   contact_label: Contáctanos
 quotes_cta_title: Lee más historias de nuestros clientes >
-quotes_cta_link: https://dressipi.com/clients/success-stories/
+quotes_cta_link: https://dressipi.com/customers/
 quotes:
-- author: Director de CRM, OVS
-  quote: "‘Trabajando con Dressipi, hemos podido enviar emails verdaderamente personalizados
-    a nuestros clientes, además de aprovechar el amplio potencial de nuestras tiendas.’"
-- author: Director de CRM, River Island
-  quote: "‘Los datos de atributos que nos proporciona Dressipi son muchísimo mejores
-    que los nuestros (¡y de los demás proveedores!). Nuestros modelos predictivos
-    internos son 10% más efectivos cuando utilizamos los datos de Dressipi.’"
-- author: Director de Comercios Electrónicos, Belstaff
-  quote: "'Estamos encantados de trabajar con Dressipi. Ahora podemos ofrecer a nuestros
-    clientes la experiencia de compras que se merecen, y al mismo tiempo mantener
-    nuestro ADN de marca.'"
+- author: Rob Hitchman, Digital Product Owner, John Lewis
+  quote: "“Working with Dressipi has really helped us look at different ways in how
+    we can support our customers on the site and the different tactics that we can
+    deploy to meet their needs.”"
+- author: Director of Ecommerce, Luxury Retailer
+  quote: "“We wanted a partner that went the extra mile, truly understood the fashion
+    domain and would work with us to innovate and create unique experiences that were
+    in line with our brand DNA.”"
+- author: Simon Konn, Insights & CRM Director, River Island
+  quote: "“We have huge amounts more to explore with Dressipi. The bit that really
+    excites me is how we come together on insights. Getting beyond personalisation
+    has really helped us understand our customer base and what they want and need.”"
 cta_title: "Transforma cada experiencia para que sea más relevante \n<br>\ny personalizada
   con la ayuda de Dressipi"
 cta_link: https://dressipi.com/company/contact/
