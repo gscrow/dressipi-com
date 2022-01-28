@@ -11,8 +11,8 @@ partnership: en alianza con
 hero:
   logo: "/uploads/Inditex%20Logo.png"
   alt: Inditex
-video: https://dressipi.com/media/tendam_lp_es.mp4
-video_mask: "/uploads/Tendam%20Video%20Mask.PNG"
+video: 
+video_mask: "/uploads/Inditex%20(PullBear)%20LP%20Video%20Mask.png"
 exclude-hero: true
 cta_top:
 - label: CONTÁCTANOS
