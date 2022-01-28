@@ -3,8 +3,9 @@ title: Descubre cómo una colaboración entre Inditex y Dressipi puede ayudar a 
   las demandas de tus clientes, y al mismo tiempo contribuir con vuestra estrategia
   de sostenibilidad.
 position: 0
-description: "Discover how an Inditex and Dressipi \ncollaboration can help you meet
-  specific \ncustomer demands, while contributing to your \nsustainability strategy."
+description: "Descubre cómo una colaboración entre \nInditex y Dressipi puede ayudar
+  a \nsatisfacer las demandas de tus \nclientes, y al mismo tiempo contribuir \ncon
+  vuestra estrategia de sostenibilidad."
 sitemap: false
 type: customer
 partnership: en alianza con
@@ -22,33 +23,34 @@ cta_top:
 featured_articles:
   title: Proteger, Impulsar, Desarrollar, Colaborar.
   content:
-  - title: Meet specific customer demands by personalising every step of the journey
+  - title: Personaliza cada parte de la experiencia de compra para satisfacer las
+      demandas de tus clientes
     description: |-
-      Updated in real-time, Dressipi’s flexible recommendation API’s are personalised to the individual’s preferences and intentions, creating a seamless purchasing experience across all touchpoints.
+      Actualizadass en tiempo real, las recomendaciones de Dressipi son personalizadas para cada cliente dependiendo de sus gustos e intenciones, creando una experiencia de compra excepcional a través de todos los puntos de contacto.
 
-      Crucially, only showing products if they are available in the customer’s size - a key cornerstone of personalisation.
-    article_title: River Island increased their revenue by 6% in 12 months with Dressipi’s
-      fashion-focused approach to personalisation
+      Fundamentalmente, solo enseñando prendas a clientes si están en stock en su talla - una clave para personalización.
+    article_title: River Island creció sus ingresos un 6% en 12 meses gracias a las
+      recommendaciones de Dressipi creadas específicamente para la moda
     cta_text: LEER MÁS >
     cta_link: https://dressipi.com/downloads/success-story-river-island/
     image: "/uploads/Boden_RI-24be63.JPG"
-  - title: 'Put customers at the centre of decisions and offer inspiring outfit recommendations '
+  - title: Pon a tus clientes al centro de decisiones y ofrece recomendaciones de
+      outfits inspiradoras
     description: |-
-      With Dressipi, outfits are completely automated, completely personalised and always on-brand. Outfits consist of different product types, starting from different product types, for different occasions to show the versatility.
+      Los outfits de Dressipi se generan de forma automatizada y son totalmente personalizados para cada cliente, siempre manteniendo el ADN de la marca.
 
-      Based on preferences, activity, product availability and can include items the customer already owns.
+      Basados en los gustos, la actividad, lo que hay en stock, y puede incluir prendas que compraron previamente.
     article_title: John Lewis incrementó sus ingresos ofreciendo recomendaciones personalizadas
     cta_text: LEER MÁS >
     cta_link: https://dressipi.com/downloads/success-story-john-lewis/
     image: "/uploads/JL_rectangle.png"
-  - title: Sustainability embedded into API’s and prediction models
-    description: "One differentiating factor is that we are the only recommendation
-      provider that builds return rate propensities into our algorithms. For every
-      customer, every garment and every feature. \n\nWe typically see return rates
-      drop by 10-15% when the same customer buys through our recommendations versus
-      the normal customer journey. "
+  - title: Sostenibilidad incrustada en API's y modelos de predicción
+    description: |-
+      Lo que nos separa de los demás es que somos el único proveedor de recomendaciones que incluye las propensiones de la tasa de devolución en nuestros algoritmos. Para cada cliente, cada prenda y cada elemento.
+
+      Normalmente, la tasa de devolución disminuye un 10-15% cuando un cliente compra una prenda tras una de nuestras recomendaciones comparado con la experiencia de compra normal.
     article_title: |
-      Return Rates: A Real Headache for Fashion Retailers… and the Environment
+      Tasa de devolución: Un dolor de cabeza para minoristas de moda ... y para el medio ambiente.
       <br>
     cta_text: LEER MÁS >
     cta_link: https://dressipi.com/blog/return-rates-a-real-headache-for-fashion-retailers-dot-dot-dot-and-the-environment/
@@ -67,15 +69,16 @@ featured_content:
   - section: BLOG
     logo: "/uploads/logo.svg"
     image: "/uploads/Why%20Is%20Fashion%20Different%20Square.jpg"
-    title: Chief Data Scientist explains why recommendation algorithms for fashion
-      have to be different
-    cta_text: READ THE BLOG >
+    title: Director de Datos explica porque algoritmos de recomendaciones para la
+      moda tienen que ser diferentes
+    cta_text: LEER MÁS >
     cta_link: https://dressipi.com/blog/why-is-fashion-different/
   - section: WHITEPAPER
     logo: "/uploads/logo.svg"
     image: "/uploads/attributes_square.png"
-    title: 'Fashion-specific product attributes driving value in key retail areas '
-    cta_text: GET THE GUIDE >
+    title: Atributos de producto creados específicamente para la moda impulsan el
+      valor en partes claves de tus operaciones
+    cta_text: LEER MÁS >
     cta_link: https://drive.google.com/file/d/1qtmqasf-3kcRuyG1IZ289hO4OR6WE5gN/view?usp=sharing
 section_about:
   title: Sobre Dressipi
