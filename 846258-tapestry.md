@@ -1,7 +1,5 @@
 ---
-title: Descubre cómo una colaboración entre Inditex y Dressipi puede ayudar a satisfacer
-  las demandas de tus clientes, y al mismo tiempo contribuir con vuestra estrategia
-  de sostenibilidad.
+title: "[TAPESTRY]"
 position: 0
 description: "Discover how an Inditex and Dressipi \ncollaboration can help you meet
   specific \ncustomer demands, while contributing to your \nsustainability strategy.\n\n"
