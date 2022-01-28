@@ -104,17 +104,17 @@ quotes_cta_title: Lee más historias de nuestros clientes >
 quotes_cta_link: https://dressipi.com/customers/
 quotes:
 - author: Rob Hitchman, Digital Product Owner, John Lewis
-  quote: "“Working with Dressipi has really helped us look at different ways in how
-    we can support our customers on the site and the different tactics that we can
-    deploy to meet their needs.”"
+  quote: '"Trabajar con Dressipi nos ha a dado una nueva perspectiva sobre cómo apoyar
+    a nuestros clientes en el sitio web además de las tácticas que podemos utilizar
+    para satisfacer sus necesidades."'
 - author: Director of Ecommerce, Luxury Retailer
-  quote: "“We wanted a partner that went the extra mile, truly understood the fashion
-    domain and would work with us to innovate and create unique experiences that were
-    in line with our brand DNA.”"
+  quote: '"Queríamos colaborar con un proveedor que siempre se esfuerza, que verdaderamente
+    entiende la industria de la moda, y con el que podemos trabajar juntos para innovar
+    y crear experiencias mientras mantener el ADN de la marca."'
 - author: Simon Konn, Insights & CRM Director, River Island
-  quote: "“We have huge amounts more to explore with Dressipi. The bit that really
-    excites me is how we come together on insights. Getting beyond personalisation
-    has really helped us understand our customer base and what they want and need.”"
+  quote: '"Hay muchísimo que explorar con Dressipi. Lo que me emociona es como colaboramos
+    para conocer a nuestros clientes. Yendo más allá de la personalización, hemos
+    podido entender lo que nuestros clientes quieren y lo que necesitan."'
 cta_title: "Transforma cada experiencia para que sea más relevante \n<br>\ny personalizada
   con la ayuda de Dressipi"
 cta_link: https://dressipi.com/company/contact/
