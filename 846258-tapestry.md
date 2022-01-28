@@ -11,7 +11,7 @@ video:
 video_mask: 
 exclude-hero: true
 featured_articles:
-  title: Proteger, Impulsar, Desarrollar, Colaborar.
+  title: 
   content:
   - title: Meet specific customer demands by personalising every step of the journey
     description: |-
