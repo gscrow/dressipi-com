@@ -5,7 +5,7 @@ description: "\n\n"
 sitemap: false
 type: customer
 hero:
-  logo: "/uploads/Inditex%20Logo.png"
+  logo: 
   alt: Inditex
 video: 
 video_mask: "/uploads/Inditex%20(PullBear)%20LP%20Video%20Mask.png"
