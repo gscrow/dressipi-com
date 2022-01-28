@@ -3,8 +3,8 @@ title: Descubre cómo una colaboración entre Inditex y Dressipi puede ayudar a 
   las demandas de tus clientes, y al mismo tiempo contribuir con vuestra estrategia
   de sostenibilidad.
 position: 0
-description: Descubre cómo una alianza entre Tendam y Dressipi puede garantizar que
-  las ventas online sigan creciendo de forma sólida y consistente, superando las expectativas.
+description: "Discover how an Inditex and Dressipi \ncollaboration can help you meet
+  specific \ncustomer demands, while contributing to your \nsustainability strategy."
 sitemap: false
 type: customer
 partnership: en alianza con
