@@ -20,8 +20,7 @@ cta_top:
 - label: CONOCE A VUESTRO EQUIPO
   link: "#team"
 featured_articles:
-  title: Afronta los mayores desafíos y aprovecha las mayores oportunidades a las
-    que se enfrenta Tendam.
+  title: Proteger, Impulsar, Desarrollar, Colaborar.
   content:
   - title: |-
       <br>
