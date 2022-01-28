@@ -1,6 +1,7 @@
 ---
-title: Genere un crecimiento sostenible y rentable, además de ofrecer una experiencia
-  de compra innovadora y única del sector moda.
+title: Descubre cómo una colaboración entre Inditex y Dressipi puede ayudar a satisfacer
+  las demandas de tus clientes, y al mismo tiempo contribuir con vuestra estrategia
+  de sostenibilidad.
 position: 0
 description: Descubre cómo una alianza entre Tendam y Dressipi puede garantizar que
   las ventas online sigan creciendo de forma sólida y consistente, superando las expectativas.
