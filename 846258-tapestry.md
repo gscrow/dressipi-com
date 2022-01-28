@@ -1,8 +1,7 @@
 ---
 title: "[TAPESTRY]"
 position: 0
-description: "Discover how an Inditex and Dressipi \ncollaboration can help you meet
-  specific \ncustomer demands, while contributing to your \nsustainability strategy.\n\n"
+description: "\n\n"
 sitemap: false
 type: customer
 hero:
