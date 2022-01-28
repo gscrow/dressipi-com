@@ -1,0 +1,133 @@
+---
+title: Genere un crecimiento sostenible y rentable, además de ofrecer una experiencia
+  de compra innovadora y única del sector moda.
+position: 0
+description: Descubre cómo una alianza entre Tendam y Dressipi puede garantizar que
+  las ventas online sigan creciendo de forma sólida y consistente, superando las expectativas.
+sitemap: false
+type: customer
+partnership: en alianza con
+hero:
+  logo: "/uploads/Tendam%20Logo.png"
+  alt: Tendam
+video: https://dressipi.com/media/tendam_lp_es.mp4
+video_mask: "/uploads/Tendam%20Video%20Mask.PNG"
+exclude-hero: true
+cta_top:
+- label: CONTÁCTANOS
+  link: "/company/contact/"
+- label: CONOCE A VUESTRO EQUIPO
+  link: "#team"
+featured_articles:
+  title: Afronta los mayores desafíos y aprovecha las mayores oportunidades a las
+    que se enfrenta Tendam.
+  content:
+  - title: |-
+      <br>
+      Agregar valor y construir un modelo de crecimiento sostenible y rentable mediante la predicción de ratios de tallas.
+    description: 'Una manera fácil de aumentar las ganancias y mejorar procesos internos:
+      Proporciona a tus equipos de Buyers & Merchandising con informes de ventas y
+      ratios de tallas de cada producto a tiempo real. Además, mejora el proceso para
+      la reposición de existencias y toma mejores decisiones para compras futuras.'
+    article_title: River Island ha mejorado el STR un 10% con nuestro modelo predictivo
+      de stock
+    cta_text: "¿QUIERES SABER MÁS? \n<br>\nPONTE EN CONTACTO >"
+    cta_link: https://dressipi.com/downloads/success-story-river-island/
+    image: "/uploads/RI%20Size%20Ratios%20Rectangle-2e0dc7.png"
+  - title: |-
+      <br>
+      Acelere el plan de transformación digital de Tendam con los atributos de Dressipi.
+    description: Una correcta atribución de datos de producto es clave para una transformación
+      digital sólida. En Dressipi no solo sabemos lo importante que es una buena base
+      de datos de productos, sino que además podemos producir esta base de datos para
+      Tendam, utilizando más de 1.060 valores diferentes de productos. Nuestro modelo
+      de etiquetado es totalmente escalable y casi 100% preciso, lo que significa
+      una mayor cantidad y calidad de información.
+    article_title: Atributos de productos creados específicamente para la indústria
+      de la moda són fundamentales para la transformación digital
+    cta_text: LEER MÁS >
+    cta_link: https://drive.google.com/file/d/1qtmqasf-3kcRuyG1IZ289hO4OR6WE5gN/view?usp=sharing
+    image: "/uploads/Boden_Attributes.JPG"
+  - title: |-
+      <br>
+      Empuja la digitalización y optimiza la experiencia de compra de mas de 400 millones de clientes de Tendam.
+    description: Nuestro conocimiento incomparable de la industria de la moda significa
+      que podemos ofrecer combinaciones inmejorables y recomendar al cliente justo
+      aquello que necesita. Esto incrementa la conversión, disminuye las devoluciones
+      y construye una cartera de clientes mejor y más leal.
+    article_title: John Lewis incrementó sus ingresos ofreciendo recomendaciones personalizadas
+    cta_text: LEER MÁS >
+    cta_link: https://dressipi.com/downloads/success-story-john-lewis/
+    image: "/uploads/JL_rectangle.png"
+featured_content:
+  title: Contenido recomendado
+  description: Hemos escogido este contenido especialmente para Tendam, creemos que
+    puede ser muy interesante para vosotros.
+  content:
+  - section: SEMINARIO WEB
+    logo: "/uploads/logo.svg"
+    image: "/uploads/RI%20Webinar.PNG"
+    title: Descubre como River Island ha aumentado sus ingresos un 6% en 12 meses
+      utilizando herramientas de personalización.
+    cta_text: DESCÁRLAGO AQUÍ >
+    cta_link: https://dressipi.com/downloads/how-river-island-used-personalisation-to-deliver-revenue-increase/
+  - section: CASOS DE ÉXITO
+    logo: "/uploads/Belstaff%20Logo.png"
+    image: "/uploads/Belstaff_success_story_hero_2-bb4fa9.jpg"
+    title: Belstaff ha incrementado sus ventas un 69% utilizando emails personalizados.
+    cta_text: LEER MÁS >
+    cta_link: https://dressipi.com/downloads/success-story-belstaff/
+  - section: SEMINARIO WEB
+    logo: "/uploads/logo.svg"
+    image: "/uploads/boden_be.png"
+    title: Descubre como optimizar la venta de exceso de inventario y mejorar el flujo
+      de caja.
+    cta_text: DESCÁRLAGO AQUÍ >
+    cta_link: https://dressipi.com/downloads/dressipi-optimise-sale-overstocked-products-webinar/
+section_about:
+  title: Sobre Dressipi
+  content: "Somos expertos en moda e Inteligencia Artificial y ayudamos empresas del
+    sector moda a ofrecer a sus clientes una experiencia de compra completamente personalizada,
+    utilizando sistemas de recomendaciones y predicciones.\n\nEn Dressipi llevamos
+    años entrenando y mejorando nuestros algoritmos de recomendación únicamente para
+    el sector moda. Contamos con la experiencia de grandes estilistas de la industria
+    de la moda.\n\nDressipi posee la base de datos más extensa de atributos de prendas
+    y de preferencias de usuario específicamente del sector moda. \n\nNuestra plataforma
+    tiene la capacidad de ingerir, procesar e incrementar grandes cantidades de datos
+    procedentes de distintas fuentes a tiempo real.\n\nPara más info visita [dressipi.com](/)."
+  team_title: Conoce a vuestro equipo de Dressipi
+  team_members:
+  - Sarah McVittie
+  - Fred Cheung
+  - Natalie Theo
+  - James Tuck
+  contact_title: "Transforma cada experiencia para que sea más relevante \n<br>\ny
+    personalizada con la ayuda de Dressipi"
+  contact_label: Contáctanos
+quotes_cta_title: Lee más historias de nuestros clientes >
+quotes_cta_link: https://dressipi.com/clients/success-stories/
+quotes:
+- author: Director de CRM, OVS
+  quote: "‘Trabajando con Dressipi, hemos podido enviar emails verdaderamente personalizados
+    a nuestros clientes, además de aprovechar el amplio potencial de nuestras tiendas.’"
+- author: Director de CRM, River Island
+  quote: "‘Los datos de atributos que nos proporciona Dressipi son muchísimo mejores
+    que los nuestros (¡y de los demás proveedores!). Nuestros modelos predictivos
+    internos son 10% más efectivos cuando utilizamos los datos de Dressipi.’"
+- author: Director de Comercios Electrónicos, Belstaff
+  quote: "'Estamos encantados de trabajar con Dressipi. Ahora podemos ofrecer a nuestros
+    clientes la experiencia de compras que se merecen, y al mismo tiempo mantener
+    nuestro ADN de marca.'"
+cta_title: "Transforma cada experiencia para que sea más relevante \n<br>\ny personalizada
+  con la ayuda de Dressipi"
+cta_link: https://dressipi.com/company/contact/
+cta_label: Contáctanos >
+layout: default
+---
+
+{%- include customer/top_section.html -%}
+{%- include customer/featured_articles.html -%}
+{%- include customer/featured_content.html -%}
+{%- include customer/quotes.html -%}
+{%- include customer/about.html -%}
+{%- include customer/cta_bottom.html -%}
