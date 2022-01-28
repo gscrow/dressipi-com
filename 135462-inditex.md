@@ -9,8 +9,8 @@ sitemap: false
 type: customer
 partnership: en alianza con
 hero:
-  logo: "/uploads/Tendam%20Logo.png"
-  alt: Tendam
+  logo: "/uploads/Inditex%20Logo.png"
+  alt: Inditex
 video: https://dressipi.com/media/tendam_lp_es.mp4
 video_mask: "/uploads/Tendam%20Video%20Mask.PNG"
 exclude-hero: true
