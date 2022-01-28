@@ -6,9 +6,9 @@ sitemap: false
 type: customer
 hero:
   logo: 
-  alt: Inditex
+  alt: 
 video: 
-video_mask: "/uploads/Inditex%20(PullBear)%20LP%20Video%20Mask.png"
+video_mask: 
 exclude-hero: true
 featured_articles:
   title: Proteger, Impulsar, Desarrollar, Colaborar.
