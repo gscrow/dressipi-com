@@ -29,7 +29,8 @@ featured_articles:
 
       Fundamentalmente, solo enseñando prendas a clientes si están en stock en su talla - una clave para personalización.
     article_title: River Island creció sus ingresos un 6% en 12 meses gracias a las
-      recommendaciones de Dressipi creadas específicamente para la moda
+      River Island creció sus ingresos un 6% en 12 meses gracias a las recommendaciones
+      de Dressipi
     cta_text: LEER MÁS >
     cta_link: https://dressipi.com/downloads/success-story-river-island/
     image: "/uploads/Boden_RI-24be63.JPG"
