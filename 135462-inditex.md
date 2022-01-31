@@ -1,6 +1,5 @@
 ---
-title: Innova con Dressipi para crear una experiencia de compra avanzada y creada
-  específicamente para la moda.
+title: Innova con Dressipi para crear una experiencia de compra incomparable.
 position: 0
 description: "Descubre cómo una colaboración entre \nInditex y Dressipi puede ayudar
   a \nsatisfacer las demandas de tus \nclientes, y al mismo tiempo contribuir \ncon
