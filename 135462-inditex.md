@@ -1,7 +1,6 @@
 ---
-title: Descubre cómo una colaboración entre Inditex y Dressipi puede ayudar a satisfacer
-  las demandas de tus clientes, y al mismo tiempo contribuir con vuestra estrategia
-  de sostenibilidad.
+title: Innova con Dressipi para crear una experiencia de compra avanzada y creada
+  específicamente para la moda.
 position: 0
 description: "Descubre cómo una colaboración entre \nInditex y Dressipi puede ayudar
   a \nsatisfacer las demandas de tus \nclientes, y al mismo tiempo contribuir \ncon
