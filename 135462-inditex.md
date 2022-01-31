@@ -22,8 +22,10 @@ cta_top:
 featured_articles:
   title: Proteger, Impulsar, Desarrollar, Colaborar.
   content:
-  - title: Personaliza cada parte de la experiencia de compra para satisfacer las
-      demandas de tus clientes
+  - title: |-
+      <br>
+
+      Personaliza cada parte de la experiencia de compra para satisfacer las demandas de tus clientes
     description: |-
       Actualizadass en tiempo real, las recomendaciones de Dressipi son personalizadas para cada cliente dependiendo de sus gustos e intenciones, creando una experiencia de compra excepcional a través de todos los puntos de contacto.
 
