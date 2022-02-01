@@ -91,8 +91,8 @@ section_about:
   team_title: Conoce a vuestro equipo de Dressipi
   team_members:
   - Sarah McVittie
-  - Fred Cheung
-  - Natalie Theo
+  - Sean Norris
+  - Nick Landia
   - James Tuck
   contact_title: "Transforma cada experiencia para que sea más relevante \n<br>\ny
     personalizada con la ayuda de Dressipi"
