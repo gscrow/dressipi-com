@@ -115,7 +115,7 @@ quotes:
 cta_title: "Transforma cada experiencia para que sea más relevante \n<br>\ny personalizada
   con la ayuda de Dressipi"
 cta_link: https://dressipi.com/company/contact/
-cta_label: Contáctanos >
+cta_label: Contáctanos
 layout: default
 ---
 
