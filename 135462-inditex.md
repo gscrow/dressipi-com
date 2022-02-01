@@ -47,9 +47,8 @@ featured_articles:
       Lo que nos separa de los demás es que somos el único proveedor de recomendaciones que incluye las propensiones de la tasa de devolución en nuestros algoritmos. Para cada cliente, cada prenda y cada elemento.
 
       Normalmente, la tasa de devolución disminuye un 10-15% cuando un cliente compra una prenda tras una de nuestras recomendaciones comparado con la experiencia de compra normal.
-    article_title: |
-      Tasa de devolución: Un dolor de cabeza para minoristas de moda ... y para el medio ambiente.
-      <br>
+    article_title: 'Tasa de devolución: Un dolor de cabeza para minoristas de moda
+      ... y para el medio ambiente.'
     cta_text: LEER MÁS >
     cta_link: https://dressipi.com/blog/return-rates-a-real-headache-for-fashion-retailers-dot-dot-dot-and-the-environment/
     image: "/uploads/Returns%202022%20Banner.png"
