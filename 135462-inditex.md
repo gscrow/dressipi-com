@@ -98,7 +98,7 @@ section_about:
   contact_title: "Transforma cada experiencia para que sea más relevante \n<br>\ny
     personalizada con la ayuda de Dressipi"
   contact_label: Contáctanos
-quotes_cta_title: Lee más historias de nuestros clientes >
+quotes_cta_title: Lee más historias de nuestros clientes
 quotes_cta_link: https://dressipi.com/customers/
 quotes:
 - author: Rob Hitchman, Digital Product Owner, John Lewis
