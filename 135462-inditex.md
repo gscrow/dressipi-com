@@ -11,7 +11,7 @@ hero:
   logo: "/uploads/Inditex%20Logo.png"
   alt: Inditex
 video: https://dressipi.com/media/inditex_lp_es.mp4
-video_mask: "/uploads/Inditex%20(PullBear)%20LP%20Video%20Mask.png"
+video_mask: "/uploads/Inditex%20(PullBear)%20LP%20Video%20ES%20Mask.png"
 exclude-hero: true
 cta_top:
 - label: CONTÁCTANOS
