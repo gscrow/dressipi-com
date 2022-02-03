@@ -59,7 +59,7 @@ featured_content:
   content:
   - section: WHITEPAPER
     logo: "/uploads/logo.svg"
-    image: 
+    image: "/uploads/Biggest%20Asset%20Whitepaper%20Square.jpg"
     title: How Dressipi Can Help Retailers Transform Their Biggest Asset
     cta_text: GET THE GUIDE >
     cta_link: https://dressipi.com/downloads/how-dressipi-can-help-retailers-transform-their-biggest-asset-whitepaper/
