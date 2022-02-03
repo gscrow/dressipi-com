@@ -10,7 +10,7 @@ description: "Discover how the JD Group and Dressipi can \nwork together to achi
 sitemap: false
 type: customer
 hero:
-  logo: 
+  logo: "/uploads/JD%20Group%20Logo%20Black.png"
   alt: JD Group
 video: 
 video_mask: 
