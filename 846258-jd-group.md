@@ -2,7 +2,9 @@
 title: Innovate with Dressipi to offer a market-leading multichannel consumer proposition.
 published: false
 position: 0
-description: "\n\n"
+description: "Discover how the JD Group and Dressipi can \nwork together to achieve
+  the best in digital \napparel retail, maximising your reach and \nimpact to consumers
+  internationally and \ncomplementing your physical offering. "
 sitemap: false
 type: customer
 hero:
