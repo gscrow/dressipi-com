@@ -62,7 +62,7 @@ featured_content:
     image: 
     title: How Dressipi Can Help Retailers Transform Their Biggest Asset
     cta_text: GET THE GUIDE >
-    cta_link: 
+    cta_link: https://dressipi.com/downloads/how-dressipi-can-help-retailers-transform-their-biggest-asset-whitepaper/
   - section: BLOG
     logo: 
     image: 
