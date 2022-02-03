@@ -46,7 +46,7 @@ featured_articles:
       your trend assortment and size ratios with Dressipi’s prediction models. \n\nIntegrate
       these models at every intervention point to minimise your over-purchase and
       under-sell, and optimise your sustainable supply chain and inventory management
-      strategies."
+      strategies.\n<br>\n"
     article_title: How to optimise the sale of overstocked products  and release maximum
       cash
     cta_text: DOWNLOAD THE WEBINAR >
