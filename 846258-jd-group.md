@@ -64,17 +64,17 @@ featured_content:
     cta_text: GET THE GUIDE >
     cta_link: https://dressipi.com/downloads/how-dressipi-can-help-retailers-transform-their-biggest-asset-whitepaper/
   - section: BLOG
-    logo: 
-    image: 
+    logo: "/uploads/logo.svg"
+    image: "/uploads/Return%20Rates%202022%20Square.png"
     title: 'Return Rates: A Real Headache for Fashion Retailers… and the Environment'
     cta_text: READ THE BLOG >
-    cta_link: 
+    cta_link: https://dressipi.com/blog/return-rates-a-real-headache-for-fashion-retailers-dot-dot-dot-and-the-environment/
   - section: BLOG
-    logo: 
-    image: 
+    logo: "/uploads/logo.svg"
+    image: "/uploads/Athleisure%20Blog%20Square.jpg"
     title: The Athleisure Trend is Here to Stay
     cta_text: READ THE BLOG >
-    cta_link: 
+    cta_link: https://dressipi.com/blog/the-athleisure-trend-is-here-to-stay/
 section_about:
   title: About Dressipi
   content: |-
