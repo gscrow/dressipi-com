@@ -17,72 +17,94 @@ featured_articles:
   title: Take advantage of the opportunities facing you to optimise your consumer
     proposition.
   content:
-  - title: 
-    description: 
-    article_title: 
-    cta_text: 
+  - title: Enhance the bond between JD and its consumers by personalising every step
+      of the journey
+    description: |-
+      Updated in real-time, Dressipi’s flexible recommendation API’s are personalised to the individual’s preferences and intentions, creating a seamless purchasing experience across all touchpoints.
+
+      Crucially, only showing products if they are available in the customer’s size - a key cornerstone of personalisation.
+    article_title: River Island increased their revenue by 6% in 12 months with Dressipi’s
+      fashion-focused approach to personalisation
+    cta_text: READ THE FULL STORY >
     cta_link: 
     image: 
-  - title: 
-    description: 
-    article_title: 
-    cta_text: 
+  - title: Engage your customers and ensure they return through all channels with
+      personalised outfits
+    description: Dressipi’s innovative and exciting outfit recommendation API is tailored
+      to the customer’s preferences and activity, as well as product availability.
+      Our API’s can be injected into existing ESPs, inspiring the customer to return
+      to the JD website - or find the products in store.
+    article_title: Belstaff increased email revenue by 69% through personalised recommendations
+    cta_text: READ THE FULL STORY >
     cta_link: 
     image: 
-  - title: 
-    description: 
-    article_title: "\n\n"
-    cta_text: 
+  - title: Optimise your inventory management and reduce markdown with Dressipi’s
+      data-driven prediction models
+    description: "Make the most informed and accurate buying decisions you can for
+      your trend assortment and size ratios with Dressipi’s prediction models. \n\nIntegrate
+      these models at every intervention point to minimise your over-purchase and
+      under-sell, and optimise your sustainable supply chain and inventory management
+      strategies."
+    article_title: How to optimise the sale of overstocked products  and release maximum
+      cash
+    cta_text: DOWNLOAD THE WEBINAR >
     cta_link: 
     image: 
 featured_content:
-  title: Contenido recomendado
-  description: 
+  title: Featured Content
+  description: We’ve hand-picked the following content that we think will be relevant
+    for JD
   content:
-  - section: 
-    logo: 
-    image: "/uploads/Belstaff_success_story_hero_2-bb4fa9.jpg"
-    title: 
-    cta_text: 
-    cta_link: 
-  - section: 
+  - section: WHITEPAPER
     logo: 
     image: 
-    title: 
-    cta_text: 
+    title: How Dressipi Can Help Retailers Transform Their Biggest Asset
+    cta_text: GET THE GUIDE >
     cta_link: 
-  - section: 
+  - section: BLOG
     logo: 
     image: 
-    title: 
-    cta_text: 
+    title: 'Return Rates: A Real Headache for Fashion Retailers… and the Environment'
+    cta_text: READ THE BLOG >
+    cta_link: 
+  - section: BLOG
+    logo: 
+    image: 
+    title: The Athleisure Trend is Here to Stay
+    cta_text: READ THE BLOG >
     cta_link: 
 section_about:
-  title: 
+  title: About Dressipi
   content: "\n"
-  team_title: 
+  team_title: Meet Your JD Team
   team_members:
-  - 
-  - 
-  - 
-  - 
-  contact_title: 
+  - Sarah McVittie
+  - Sean Norris
+  - Nick Landia
+  - James Tuck
+  contact_title: CONTACT US >
   contact_label: 
 quotes_cta_title: 
 quotes_cta_link: 
 quotes:
-- author: 
-  quote: 
-- author: 
-  quote: 
-- author: 
-  quote: 
+- author: Simon Konn, Insights & CRM Director, River Island
+  quote: "“We have huge amounts more to explore with Dressipi. The bit that really
+    excites me is how we come together on insights. Getting beyond personalisation
+    has really helped us understand our customer base and what they want and need.”"
+- author: Isabel Serafini, Head of CRM, OVS
+  quote: "“The OVS customer is a much heavier in store shopper and we needed a highly
+    personalised way to target them. By working with Dressipi, we have been able to
+    deliver truly personalised emails to our customers and open up the massive revenue
+    potential of the store portfolio.”"
+- author: Sally Hunter, Digital Insight Analyst, LK Bennett
+  quote: "“Having data insight that is directly linked to our order management system
+    is much more reliable for order and product purchases than Google Analytics.”"
 cta_title: |-
-  Transforma cada experiencia para que sea más relevante
+  Make every experience more relevant,
   <br>
-  y personalizada con la ayuda de Dressipi
+  more apparel-specific with Dressipi
 cta_link: "/company/contact/"
-cta_label: Contactános
+cta_label: CONTACT US >
 layout: default
 ---
 
