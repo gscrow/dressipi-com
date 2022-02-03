@@ -2,20 +2,22 @@
 title: Innovate with Dressipi to offer a market-leading multichannel consumer proposition.
 published: false
 position: 0
+header:
+  body: " "
 description: "Discover how the JD Group and Dressipi can \nwork together to achieve
   the best in digital \napparel retail, maximising your reach and \nimpact to consumers
-  internationally and \ncomplementing your physical offering. "
+  internationally and \ncomplementing your physical offering."
 sitemap: false
 type: customer
 hero:
   logo: 
-  alt: 
+  alt: JD Group
 video: 
 video_mask: 
 exclude-hero: true
 featured_articles:
-  title: Take advantage of the opportunities facing you to optimise your consumer
-    proposition.
+  title: "Take advantage of the opportunities facing you to \noptimise your consumer
+    proposition."
   content:
   - title: Enhance the bond between JD and its consumers by personalising every step
       of the journey
@@ -26,8 +28,8 @@ featured_articles:
     article_title: River Island increased their revenue by 6% in 12 months with Dressipi’s
       fashion-focused approach to personalisation
     cta_text: READ THE FULL STORY >
-    cta_link: 
-    image: 
+    cta_link: https://dressipi.com/downloads/success-story-river-island/
+    image: "/uploads/Boden_RI-24be63.JPG"
   - title: Engage your customers and ensure they return through all channels with
       personalised outfits
     description: Dressipi’s innovative and exciting outfit recommendation API is tailored
@@ -36,8 +38,8 @@ featured_articles:
       to the JD website - or find the products in store.
     article_title: Belstaff increased email revenue by 69% through personalised recommendations
     cta_text: READ THE FULL STORY >
-    cta_link: 
-    image: 
+    cta_link: https://dressipi.com/downloads/success-story-belstaff/
+    image: "/uploads/belstaff_rectangle.png"
   - title: Optimise your inventory management and reduce markdown with Dressipi’s
       data-driven prediction models
     description: "Make the most informed and accurate buying decisions you can for
@@ -48,15 +50,15 @@ featured_articles:
     article_title: How to optimise the sale of overstocked products  and release maximum
       cash
     cta_text: DOWNLOAD THE WEBINAR >
-    cta_link: 
-    image: 
+    cta_link: https://dressipi.com/downloads/dressipi-optimise-sale-overstocked-products-webinar/
+    image: "/uploads/overstock-webinar-video-mask.png"
 featured_content:
   title: Featured Content
   description: We’ve hand-picked the following content that we think will be relevant
     for JD
   content:
   - section: WHITEPAPER
-    logo: 
+    logo: "/uploads/logo.svg"
     image: 
     title: How Dressipi Can Help Retailers Transform Their Biggest Asset
     cta_text: GET THE GUIDE >
