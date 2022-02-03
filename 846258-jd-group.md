@@ -1,5 +1,5 @@
 ---
-title: "[TAPESTRY]"
+title: Innovate with Dressipi to offer a market-leading multichannel consumer proposition.
 published: false
 position: 0
 description: "\n\n"
