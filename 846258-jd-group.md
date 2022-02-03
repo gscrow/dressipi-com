@@ -14,7 +14,8 @@ video:
 video_mask: 
 exclude-hero: true
 featured_articles:
-  title: 
+  title: Take advantage of the opportunities facing you to optimise your consumer
+    proposition.
   content:
   - title: 
     description: 
