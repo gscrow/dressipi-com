@@ -1,5 +1,6 @@
 ---
 title: "[TAPESTRY]"
+published: false
 position: 0
 description: "\n\n"
 sitemap: false
