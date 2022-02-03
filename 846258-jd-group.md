@@ -77,17 +77,25 @@ featured_content:
     cta_link: 
 section_about:
   title: About Dressipi
-  content: "\n"
+  content: |-
+    We are the apparel-AI experts, helping fashion retailers deliver the relevant products & inspiration their customers deserve, across every part of the shopper journey.
+
+    Dressipi has spent years delivering apparel-specific algorithms, drawing on the expertise of some of the industry’s top stylists and experts.
+
+    Dressipi owns the most extensive dataset of garment attributes and apparel-specific customer preferences. Our ability to ingest, cleanse, and augment huge quantities of data from various sources, in real-time, is at the heart of our platform.
+
+    For more information, please visit [dressipi.com](/).
   team_title: Meet Your JD Team
   team_members:
   - Sarah McVittie
   - Sean Norris
   - Nick Landia
   - James Tuck
-  contact_title: CONTACT US >
-  contact_label: 
-quotes_cta_title: 
-quotes_cta_link: 
+  contact_title: "Make every experience more relevant, \n<br>\nmore apparel-specific
+    with Dressipi"
+  contact_label: CONTACT US >
+quotes_cta_title: EXPLORE OUR SUCCESS STORIES >
+quotes_cta_link: https://dressipi.com/customers/
 quotes:
 - author: Simon Konn, Insights & CRM Director, River Island
   quote: "“We have huge amounts more to explore with Dressipi. The bit that really
