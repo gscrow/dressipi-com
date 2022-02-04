@@ -70,10 +70,9 @@ featured_content:
     cta_text: DOWNLOAD THE WEBINAR >
     cta_link: "/downloads/gated-value-of-data/"
   - section: CASE STUDY
-    logo: "/uploads/logo_ovs.svg"
-    image: "/uploads/ovs.jpg"
-    title: OVS improved revenue by 54% and delivered an additional €4m of incremental
-      revenue increase
+    logo: "/uploads/logo__lk-bennett.png"
+    image: "/uploads/LK%20Bennett%20Success%20Story.png"
+    title: LK Bennett improved first to second purchase rate by 25% through data insight
     cta_text: READ THE FULL STORY >
     cta_link: "/downloads/success-story-ovs/"
 section_about:
