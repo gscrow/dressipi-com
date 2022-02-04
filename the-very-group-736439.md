@@ -74,7 +74,7 @@ featured_content:
     image: "/uploads/LK%20Bennett%20Success%20Story.png"
     title: LK Bennett improved first to second purchase rate by 25% through data insight
     cta_text: READ THE FULL STORY >
-    cta_link: "/downloads/success-story-ovs/"
+    cta_link: "/downloads/success-story-lk-bennett/"
 section_about:
   title: About Dressipi
   content: "We are the fashion-AI experts, helping fashion retailers deliver the relevant
