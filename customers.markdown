@@ -41,7 +41,6 @@ sections:
   - Personalisation Drives Profitable Growth for River Island
   - Personalised Outfits Increase Revenue For John Lewis
   - Belstaff increased email revenue by 69% through personalised recommendations
-  - How OVS Benefited from Dressipi’s Personalised In-Store Emails
   - How LK Bennett is using Dressipi’s Data Insight Hub
   - How A Luxury Retailer Gives Each Customer a Tailored Shopping Experience
 - roi-title: Dressipi Makes it Easy to Get Started & Quickly Deliver ROI
