@@ -101,11 +101,12 @@ quotes:
   quote: "“We have huge amounts more to explore with Dressipi. The bit that really
     excites me is how we come together on insights. Getting beyond personalisation
     has really helped us understand our customer base and what they want and need.”"
-- author: Isabel Serafini, Head of CRM, OVS
-  quote: "“The OVS customer is a much heavier in store shopper and we needed a highly
-    personalised way to target them. By working with Dressipi, we have been able to
-    deliver truly personalised emails to our customers and open up the massive revenue
-    potential of the store portfolio.”"
+- author: Rob Hitchman, Digital Product Owner, John Lewis
+  quote: “Working with Dressipi has really helped us look at different ways in how
+    we can support our customers on the site and the different tactics that we can
+    deploy to meet their needs. We are aspiring towards having the ability to influence
+    customers and help facilitate their shopping journey from the point they arrive
+    on the website all the way through to post checkout and then even beyond that."
 - author: Sally Hunter, Digital Insight Analyst, LK Bennett
   quote: "“Having data insight that is directly linked to our order management system
     is much more reliable for order and product purchases than Google Analytics.”"
