@@ -30,6 +30,10 @@ sections:
     title: CTO
     linkedin: https://www.linkedin.com/in/frederickcheung/?ppe=1
     image: "/uploads/frederick-cheung@2x.jpg"
+  - name: Rob McCann
+    title: Chief Technology Officer
+    linkedin: https://www.linkedin.com/in/robmccannweb/
+    image: "/uploads/RobMcCann.jfif"
   - name: Rob Bevan
     title: Creative Director
     linkedin: https://www.linkedin.com/in/robbevan/?ppe=1
@@ -38,6 +42,10 @@ sections:
     title: Chief Data Scientist
     linkedin: https://www.linkedin.com/in/nicklandia/?ppe=1
     image: "/uploads/nick-landia.jpg"
+  - name: Caroline Allen
+    title: Chief Commercial Officer
+    linkedin: https://www.linkedin.com/in/carolineallen2/
+    image: "/uploads/CarolineAllen.jfif"
   - name: Jonny Aloysius
     title: Director of Finance
     linkedin: https://www.linkedin.com/in/jonny-aloysius-1562463
