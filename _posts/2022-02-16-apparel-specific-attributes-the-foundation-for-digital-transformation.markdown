@@ -36,10 +36,10 @@ For example, our analysis has shown that when larger customers buy ankle length 
 <p style="text-align:center"><img style="margin-left: 0px; width: 300px;" src ="/uploads/SportswearAtts3.JPG"/></p>
 <br>
 
-Small details like this can have a big impact, however they can be very difficult for computer vision to label accurately. The difference between these lengths are small, only varying in the way a person’s ankle is shown:
+Small details like this can have a big impact, however they can be very difficult for computer vision to label accurately. The difference between these lengths are small, only varying in how much a persons leg is shown:
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/SportswearAtts4.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/SportswearAtts42.JPG"/></p>
 <br>
 
 Dressipi has up to 35 attributes per product, across thousands of products. If 95% of them were tagged correctly, that would mean every product would be incorrectly labelled in some way - so we have to get as close to 100% as possible. 
