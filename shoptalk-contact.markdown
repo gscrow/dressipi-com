@@ -17,4 +17,4 @@ google-maps: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d
 layout: contact
 ---
 
-### Please leave your contact details and we will get back to you to pre-book a demo at NRF 2022.
+### Please leave your contact details and we will get back to you to pre-book a demo at Shoptalk 2022.
