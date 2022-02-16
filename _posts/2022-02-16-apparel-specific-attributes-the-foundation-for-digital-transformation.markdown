@@ -33,7 +33,6 @@ Imagine if your revenue figures were sometimes wrong by 5%. Obviously this would
 
 For example, our analysis has shown that when larger customers buy ankle length leggings, the return rate is, on average 4.4% pts higher than the return rate for calf length leggings in the same size.
 
-<br>
 <p style="text-align:center"><img style="margin-left: 0px; width: 300px;" src ="/uploads/SportswearAtts3.JPG"/></p>
 <br>
 
@@ -54,7 +53,7 @@ To accurately predict customer behaviour, retailers need to see product features
 It’s not only data models that benefit from customer focused attributes however. Dressipi’s Data Insight Hub links up our attributes with transaction or visit data, allowing buyers, merchandisers and marketing teams to view their data through a customer’s point of view and make truly informed decisions based on what they really want.
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/SportswearAtts5.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 650px;" src ="/uploads/SportswearAtts5.JPG"/></p>
 <br>
 
 ## 4) Attributes Are As Much an Art as a Science
