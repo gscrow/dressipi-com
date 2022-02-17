@@ -1,6 +1,7 @@
 ---
 title: 'Apparel-Specific Attributes: The Foundation for Digital Transformation'
 date: 2022-02-16 15:15:00 Z
+published: false
 image: "/uploads/SportswearAttsBanner.JPG"
 author: James Tuck
 ---
