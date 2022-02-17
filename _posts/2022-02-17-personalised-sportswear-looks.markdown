@@ -41,6 +41,10 @@ However, templates don’t handle combinations of different garment attributes a
 
 At this stage, looks aren’t personalised yet. Personalisation happens in real-time when a garment is requested. At that moment we pick the remaining garments in the look by checking if they are recommended for a user. As not all garments have an equal recommended score, they are sorted in order of descending goodness. Even though always returning the best-recommended garments sounds good in theory, in practice, that means there will be a lot of homogeneous looks. Looks’ diversity is equally important as the best-recommended garments. That is why we aggregate looks to ensure diversity and blocklist garments that have already been shown for a short period of time. Consequently, slightly less recommended garments are returned but a diversity of looks is increased.
 
+<br>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/SportswearOutfits3.JPG"/></p>
+<br>
+
 ## Building context into Looks
 
 Sportswear looks have different purposes at different stages of the customer journey:
