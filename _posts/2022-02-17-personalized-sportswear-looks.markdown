@@ -26,11 +26,11 @@ At Dressipi we combine technology, text classification and image recognition, wi
 <p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/SportswearOutfits1.JPG"/></p>
 <br>
 
-As a tech company, Dressipi uses a number of technologies to make garment labelling effective. Unfortunately, Computer Vision models or Convolutional Neural Networks are still not good enough to provide 99% accurate results. Hence, we constantly work on improving those models.
+As a tech company, Dressipi uses a number of technologies to make garment labeling effective. Unfortunately, Computer Vision models or Convolutional Neural Networks are still not good enough to provide 99% accurate results. Hence, we constantly work on improving those models.
 
 ## Garment Relationships: Tennis Skirt & Football Boots?!
 
-Another thing a machine needs to know is which garment categories can be combined together and for which activity. The activity is important because rules will be different for different activities. A tennis skirt shouldn’t be styled with football boots while a team jersey can. To achieve this, we create a set of templates that reflects those relationships and can be customised per retailer.
+Another thing a machine needs to know is which garment categories can be combined together and for which activity. The activity is important because rules will be different for different activities. A tennis skirt shouldn’t be styled with football boots while a team jersey can. To achieve this, we create a set of templates that reflects those relationships and can be customized per retailer.
 
 <br>
 <p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/SportswearOutfits2.JPG"/></p>
