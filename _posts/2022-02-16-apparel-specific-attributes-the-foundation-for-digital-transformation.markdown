@@ -8,7 +8,7 @@ author: James Tuck
 
 ### Digital services like Netflix and Spotify have been able to rapidly transform their industries thanks to the abundance of data available to them. In apparel however, while there is plenty of data available on marketing channels and transactions, retailers never had quality data for what the customers actually care about the most - **the clothes**.
 
-Most retailers have a handful of attributes they think are necessary. Products tend to be tagged with basic attributes such as neckline, length and fabric but these are mostly used for paid search and site navigation - missing out on value in both supply chain optimisation (e.g. size ratios, returns and product development) and personalisation (e.g. recommendations, editorial content and customer journeys). They are also likely being updated manually, posing a scalability challenge and leading to inaccuracies and inconsistency in the attributes. 
+Most retailers have a handful of attributes they think are necessary. Products tend to be tagged with basic attributes such as neckline, length and fabric but these are mostly used for paid search and site navigation - missing out on value in both supply chain optimisation (e.g. size ratios, returns and product development) and personalization (e.g. recommendations, editorial content and customer journeys). They are also likely being updated manually, posing a scalability challenge and leading to inaccuracies and inconsistency in the attributes. 
 
 Digital transformation depends on the quality and accuracy of the data it is built upon. There are a number of things that come into play for retailers when advancing this key area of their business:
 
@@ -20,7 +20,7 @@ One of the key benefits of machine learning is its ability to sort through huge 
 <p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/SportswearAtts1.JPG"/></p>
 <br>
 
-For example, when considering how many of each size should be stocked, retailers tend to only think about a product’s fit and length. However, through analysing Dressipi’s unique taxonomy of over 1000 attributes, we found that attributes such as necklines, pattern and colour had an impact on how many of each size should be stocked. 
+For example, when considering how many of each size should be stocked, retailers tend to only think about a product’s fit and length. However, through analyzing Dressipi’s unique taxonomy of over 1000 attributes, we found that attributes such as necklines, pattern and color had an impact on how many of each size should be stocked. 
 
 This pair of black leggings had 142% more sales for sizes XS & S than the equivalent pair in slate grey:
 
@@ -30,7 +30,7 @@ This pair of black leggings had 142% more sales for sizes XS & S than the equiva
 
 ## 3) Accuracy & Consistency is Key
 
-Imagine if your revenue figures were sometimes wrong by 5%. Obviously this would make understanding your sales performance each week impossible - and the same is true for understanding customer behaviour through product attributes. 
+Imagine if your revenue figures were sometimes wrong by 5%. Obviously this would make understanding your sales performance each week impossible - and the same is true for understanding customer behavior through product attributes. 
 
 For example, our analysis has shown that when larger customers buy ankle length leggings, the return rate is, on average 4.4% pts higher than the return rate for calf length leggings in the same size.
 
@@ -43,13 +43,13 @@ Small details like this can have a big impact, however they can be very difficul
 <p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/SportswearAtts42.JPG"/></p>
 <br>
 
-Dressipi has up to 35 attributes per product, across thousands of products. If 95% of them were tagged correctly, that would mean every product would be incorrectly labelled in some way - so we have to get as close to 100% as possible. 
+Dressipi has up to 35 attributes per product, across thousands of products. If 95% of them were tagged correctly, that would mean every product would be incorrectly labeled in some way - so we have to get as close to 100% as possible. 
 
-Once accuracy and consistency is achieved, retailers can deploy the best possible propensity models and personalisation components. Without them however, these efforts are doomed to fail.
+Once accuracy and consistency is achieved, retailers can deploy the best possible propensity models and personalization components. Without them however, these efforts are doomed to fail.
 
 ## 3) Be Customer Focused
 
-To accurately predict customer behaviour, retailers need to see product features in the same way that customers do. However, current product attributes are typically designed for business users: for example, retailers will often end up with a ‘Plus Size' category that has bundled together leggings and tops - a nightmare to analyse. 
+To accurately predict customer behavior, retailers need to see product features in the same way that customers do. However, current product attributes are typically designed for business users: for example, retailers will often end up with a ‘Plus Size' category that has bundled together leggings and tops - a nightmare to analyze. 
 
 It’s not only data models that benefit from customer focused attributes however. Dressipi’s Data Insight Hub links up our attributes with transaction or visit data, allowing buyers, merchandisers and marketing teams to view their data through a customer’s point of view and make truly informed decisions based on what they really want.
 
