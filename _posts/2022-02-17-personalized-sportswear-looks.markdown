@@ -3,7 +3,7 @@ title: 'Personalized Sportswear Looks: Garment Data is Key'
 date: 2022-02-17 15:12:00 Z
 published: false
 image: "/uploads/SportswearOutfitsBanner.JPG"
-author: Marija Mandić
+author: Georgina Fisher
 ---
 
 ### Right from the start brands have showcased their product through looks and outfits: from catwalk collections to window displays, shop mannequins to advertising campaigns and on today’s social media platforms. They play a huge part in our everyday life.
