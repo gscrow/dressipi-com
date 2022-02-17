@@ -10,7 +10,7 @@ partnership-class: nfr-partnership
 sitemap: false
 type: customer
 hero:
-  logo: "/uploads/NRF2022.png"
+  logo: "/uploads/Logo%20and%20Location%20Vector.png"
   alt: NRF2022
 video: https://dressipi.com/media/nrf_lp.mp4
 video_mask: "/uploads/NFR%20Video%20Mask-1.png"
