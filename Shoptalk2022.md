@@ -11,14 +11,14 @@ sitemap: false
 type: customer
 hero:
   logo: "/uploads/Logo%20and%20Location%20Vector.png"
-  alt: NRF2022
-video: https://dressipi.com/media/nrf_lp.mp4
-video_mask: "/uploads/NFR%20Video%20Mask-1.png"
+  alt: Shoptalk2022
+video: 
+video_mask: 
 exclude-hero: true
 cta_top:
 - label: Pre-book a demo
-  link: "/NRF-contact/"
-- label: 'Visit us at booth #557'
+  link: "/shoptalk-contact/"
+- label: 'Visit us at booth #3097'
 featured_articles:
   title: Tackle the biggest challenges and take advantage of the biggest opportunities
     facing your brand
@@ -43,8 +43,8 @@ featured_articles:
     cta_text: LEARN MORE >
     cta_link: https://dressipi.com/downloads/success-story-john-lewis/
     image: "/uploads/JL_rectangle.png"
-  - title: 1060 fashion-specific product attributes, built by stylist and scaled by
-      AI.
+  - title: 1060+ fashion-specific product attributes, built by stylist and scaled
+      by AI.
     description: Dressipi doesn’t just know what good data means for retailers - we
       can produce it. Our tagging is scalable and nearly 100% accurate, which means
       higher quantity and quality insight.
@@ -63,10 +63,10 @@ featured_content:
   content:
   - section: GUIDE
     logo: "/uploads/logo.svg"
-    image: "/uploads/very-feat-1-fc.jpg"
-    title: Understanding your unique return rate profile
-    cta_text: DOWNLOAD THE GUIDE >
-    cta_link: https://dressipi.com/downloads/understanding-your-unique-return-rate-profile-whitepaper/
+    image: "/uploads/Return%20Rates%202022%20Square.png"
+    title: 'Return Rates: A Real Headache for Fashion Retailers… and the Environment'
+    cta_text: LEARN MORE >
+    cta_link: https://dressipi.com/blog/return-rates-a-real-headache-for-fashion-retailers-dot-dot-dot-and-the-environment/
   - section: GUIDE
     logo: "/uploads/logo.svg"
     image: "/uploads/Sort%20Order-aadb77.jpg"
@@ -87,7 +87,7 @@ section_about:
     Dressipi has spent years delivering fashion-specific algorithms, drawing on the expertise of some of the industry’s top stylists and experts.
 
     Dressipi owns the most extensive dataset of garment attributes and fashion-specific customer preferences. Our ability to ingest, cleanse, and augment huge quantities of data from various sources, in real-time, is at the heart of our platform.
-  team_title: Meet the NRF 2022 Team
+  team_title: Meet the Shoptalk 2022 Team
   team_members:
   - Sarah McVittie
   - Sean Norris
@@ -95,9 +95,9 @@ section_about:
   - Georgina Fisher
   contact_title: "Make every experience more relevant, \n<br>\nmore fashion-specific
     with Dressipi"
-  contact_label: Contact Us
-quotes_cta_title: Explore our Case Studies
-quotes_cta_link: https://dressipi.com/clients/success-stories/
+  contact_label: CONTACT US >
+quotes_cta_title: SUCCESS STORIES >
+quotes_cta_link: https://dressipi.com/customers/
 quotes:
 - author: Chief Customer Officer, River Island
   quote: "“Our partnership ….has proven to be a really valuable both commercially
@@ -109,13 +109,14 @@ quotes:
     us to innovate and create unique experiences in line with our brand DNA. Dressipi
     delivers on all this and allows us to offer customers a truly personalised experience,
     which is a key part of our strategy.”"
-- author: Digital Transformation Director, OVS
-  quote: "“The Dressipi team is forensically detailed and our results just get better
-    and better”"
+- author: Insights & CRM Director, LK Bennett
+  quote: "“Being able to use and drive things out from proven product attributes and
+    linking them to customers enables you to understand what might work outside of
+    their core categories.”"
 cta_title: "Make every experience more relevant, \n<br>\nmore fashion-specific with
   Dressipi"
-cta_link: "/company/contact/"
-cta_label: Contact Us
+cta_link: "/shoptalk-contact/"
+cta_label: CONTACT US >
 layout: default
 ---
 
