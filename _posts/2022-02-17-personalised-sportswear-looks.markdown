@@ -50,8 +50,8 @@ At this stage, looks aren’t personalised yet. Personalisation happens in real-
 
 Sportswear looks have different purposes at different stages of the customer journey:
 
-**Looks on the PDP**: Here, showing different looks for different activities is important here to show the customer the versatility of the garment and make them more likely to purchase. 
-**Looks on the basket page**: Creating looks on the basket page should be around trying to cross-sell products. Increase the AOV by promoting products with a lower price such as a water bottle or a foam roller. 
+**Looks on the PDP**: Here, showing different looks for different activities is important here to show the customer the versatility of the garment and make them more likely to purchase.<br> 
+**Looks on the basket page**: Creating looks on the basket page should be around trying to cross-sell products. Increase the AOV by promoting products with a lower price such as a water bottle or a foam roller.<br> 
 **Looks in post-purchase emails**: Get the customer to come back and buy again by adding looks built around their newly bought item to post-purchase emails. Again, showing the versatility of the garment for different activities and personalised for them - these customers are not new now and you will have information on their preferences.
 
 ## Conclusion
