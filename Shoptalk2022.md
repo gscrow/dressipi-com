@@ -19,6 +19,7 @@ cta_top:
 - label: Pre-book a demo
   link: "/shoptalk-contact/"
 - label: 'Visit us at booth #3097'
+  link: "/shoptalk-contact/"
 featured_articles:
   title: Tackle the biggest challenges and take advantage of the biggest opportunities
     facing your brand
