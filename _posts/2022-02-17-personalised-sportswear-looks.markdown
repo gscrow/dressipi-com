@@ -1,5 +1,5 @@
 ---
-title: Personalised Sportswear Looks
+title: 'Personalised Sportswear Looks: Garment Data is Key'
 date: 2022-02-17 15:12:00 Z
 image: "/uploads/SportswearOutfitsBanner.JPG"
 author: Marija Mandić
