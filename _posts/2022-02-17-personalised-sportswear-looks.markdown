@@ -1,5 +1,5 @@
 ---
-title: 'Personalised Sportswear Looks: Accuracy & Specificity of Garment Data is Key'
+title: Personalised Sportswear Looks
 date: 2022-02-17 15:12:00 Z
 image: "/uploads/SportswearOutfitsBanner.JPG"
 author: Marija Mandić
