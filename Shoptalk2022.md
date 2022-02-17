@@ -10,7 +10,7 @@ partnership-class: nfr-partnership
 sitemap: false
 type: customer
 hero:
-  logo: "/uploads/Logo%20and%20Location%20Vector.png"
+  logo: 
   alt: Shoptalk2022
 video: 
 video_mask: 
