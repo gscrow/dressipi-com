@@ -1,5 +1,5 @@
 ---
-title: 'Personalised Looks: Accuracy & Specificity of Garment Data is Key'
+title: 'Personalised Sportswear Looks: Accuracy & Specificity of Garment Data is Key'
 date: 2022-02-17 15:12:00 Z
 image: "/uploads/SportswearOutfitsBanner.JPG"
 author: Marija Mandić
@@ -7,7 +7,7 @@ author: Marija Mandić
 
 ### Right from the start brands have showcased their product through looks and outfits: from catwalk collections to window displays, shop mannequins to advertising campaigns and on today’s social media platforms. They play a huge part in our everyday life.
 
-At Dressipi, we have always known they are an important part of how a customer shops and as apparel consumption moves increasingly online, we needed to replicate this. Due to the rise in athleisure and the casualisation of fashion, these looks are now an increasingly important tool for selling sportswear. 
+At Dressipi, we have always known they are an important part of how a customer shops and due to the rise in athleisure and the casualisation of fashion, these looks are now an increasingly important tool for selling sportswear. 
 
 Dressipi is now able to create up to 100 million looks for retailers with larger numbers of SKU’s. Personalising recommendations and styling garments as looks in multiple ways for more than one activity (& including items from a customer’s wardrobe), inspires individuals whilst upselling a garment by showing its versatility.
 
