@@ -10,7 +10,7 @@ author: Georgina Fisher
 
 At Dressipi, we have always known they are an important part of how a customer shops and due to the rise in athleisure and the casualisation of fashion, these looks are now an increasingly important tool for selling sportswear. 
 
-Dressipi is now able to create up to 100 million looks for retailers with larger numbers of SKU’s. Personalizing recommendations and styling garments as looks in multiple ways for more than one activity (& including items from a customer’s wardrobe), inspires individuals whilst upselling a garment by showing its versatility.
+Dressipi now creates up to 100 million looks for retailers with larger numbers of SKUs. Personalising recommendations and styling garments as looks in multiple ways for sportswear is different to creating “outfits” for fashion garments. In sportswear it is key to understand how different items can be used and worn for different sporting activities, whether an item can cross over into lifestyle or leisurewear and how it works with other items that customer already owns.
 
 ## Approaching personalized looks from a technical point of view
 
@@ -20,7 +20,7 @@ Not all garments can be matched together and their compatibility depends on fact
 
 The first step in building looks is reviewing the product attributes in the context of sportswear. Each garment has a number of attributes (category, season, activity, garment attributes such as fit, style, length, neckline, etc) that describe it in a uniform way and those attributes must be accurate. It’s especially important in sportswear to understand that some customers will be wearing garments to train and others for lifestyle. 
 
-At Dressipi we combine technology, text classification and image recognition, with our expert stylists, to deliver the best results. For example, the neckline of a top can be described through one of 25 different attributes. That is the level of detail and accuracy Dressipi provides.
+At Dressipi we combine technology, text classification and image recognition, with our sportswear stylists, to deliver the best results. For example, the neckline of a top can be described through one of 25 different attributes. That is the level of detail and accuracy Dressipi provides.
 
 <br>
 <p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/SportswearOutfits1.JPG"/></p>
@@ -30,13 +30,13 @@ As a tech company, Dressipi uses a number of technologies to make garment labeli
 
 ## Garment Relationships: Tennis Skirt & Football Boots?!
 
-Another thing a machine needs to know is which garment categories can be combined together and for which activity. The activity is important because rules will be different for different activities. A tennis skirt shouldn’t be styled with football boots while a team jersey can. To achieve this, we create a set of templates that reflects those relationships and can be customized per retailer.
+Another thing a machine needs to know is which garment categories can be combined together and for which activity. The activity is important because rules will be different for different activities. A tennis skirt shouldn’t be styled with football boots while a team jersey can. To achieve this, we have trained our algorithms to understand those relationships.
 
 <br>
 <p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/SportswearOutfits2.JPG"/></p>
 <br>
 
-However, templates don’t handle combinations of different garment attributes and how they can be styled together. For that purpose, we introduced a set of rules where combinations of attributes that cannot go together are listed - e.g. football jerseys can only be matched with other products from the same club. Rules are written by senior stylists and can be easily and quickly updated as new trends may “break” rules already set. For example, the rise in athleisure meaning we can style sportswear as everyday looks. 
+Our algorithms also handle combinations of different garment attributes and how they can be styled together. We have a set of rules where combinations of attributes that cannot go together are listed - e.g. football jerseys can only be matched with other products from the same club. Rules are written by sportswear stylists and can be easily and quickly updated as new trends may “break” rules already set. For example, the rise in athleisure meaning we can style sportswear as everyday looks. 
 
 ## Adding the personalization to personalized looks
 
