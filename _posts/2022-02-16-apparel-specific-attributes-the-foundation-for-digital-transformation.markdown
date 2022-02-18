@@ -65,7 +65,7 @@ Clothes can’t be truly understood broken down into its individual attributes -
 <p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/SportswearAtts6.JPG"/></p>
 <br>
 
-Apparel trends are also a set of attributes, which means your attributes can’t be created by data scientists alone. At Dressipi, our stylist team works very closely with our data science team to make sure that our attributes are written in the language of fashion, but are also created in a well defined, flexible way to allow them to be used and combined in our models. 
+Apparel trends are also a set of attributes, which means your attributes can’t be created by data scientists alone. At Dressipi, our sportswear stylists work very closely with our data science team to make sure that our attributes are written in the language of fashion, but are also created in a well defined, flexible way to allow them to be used and combined in our models. 
 
 This combination of expertise means we can create high performance models, but also translate those models into plain english for retailers to understand.
 
