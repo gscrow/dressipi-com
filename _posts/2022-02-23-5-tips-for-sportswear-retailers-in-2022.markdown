@@ -41,7 +41,7 @@ Activewear clothes are returned at rates of around 11.3%, much lower than the av
 * Women ordering an XL returned clothing the most frequently, with white items being returned 31.83% of the time compared to L white items 17.03% of the time.
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/SportswearTips3.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 560px;" src ="/uploads/SportswearTips3.png"/></p>
 <br>
 
 * Men return much fewer items than women. This is a huge benefit as for all womenswear sales, 2.96% come from sportswear whereas for men this shoots up to 6.70%. 
@@ -77,7 +77,7 @@ Customers repurchase the same garment a lot more often in the sportswear space d
 Total activewear customers come back and purchase activewear again every 3.6 months - 20% less than fashion customers who repurchase every 4.32 months. 
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 650px;" src ="/uploads/SportswearTips7.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 650px;" src ="/uploads/SportswearTips72.JPG"/></p>
 <br>
 
 **TIP 4** - If your customers are repurchasing leggings every 3 months, then communicate with them and send the right product in the right time frame. 
