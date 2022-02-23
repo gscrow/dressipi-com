@@ -22,7 +22,7 @@ description: The shift to athleisure as people spent more time at home during th
 Dressipi data shows there has been a permanent increase of 1-2% of activewear as a % of total revenue since pre-Covid.
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/SportswearTips1.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/SportswearTips1.JPG"/></p>
 <br>
 
 Sweatshirts tripled in volume of sales from 2019 to 2021, from 0.5% of total womenswear spend to 1.5% respectively. They peaked at around 3.6% at the height of lockdown. Tracksuit bottoms held a similar story. They were 4% of overall bottoms spend in 2019 which increased to 12%, after ballooning to a whopping 34% at the height of lockdown. Leggings sales doubled from 4% in 2019 to 8% for the same period in 2021 with a peak of 27%. Cycling shorts also became popular from close to 0% pre-Covid to 11.15% of revenue in activewear bottoms in Oct 2021 after the trend took off in April 2021.
@@ -41,7 +41,7 @@ Activewear clothes are returned at rates of around 11.3%, much lower than the av
 * Women ordering an XL returned clothing the most frequently, with white items being returned 31.83% of the time compared to L white items 17.03% of the time.
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/SportswearTips3.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/SportswearTips3.png"/></p>
 <br>
 
 * Men return much fewer items than women. This is a huge benefit as for all womenswear sales, 2.96% come from sportswear whereas for men this shoots up to 6.70%. 
