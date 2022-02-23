@@ -1,5 +1,6 @@
 <section class="hero">
 <div class="container gutter">
+  {%- unless page.exclude-partnership-header -%}
   <div class="header_box">
     <img src="{{page.hero.logo}}" alt="{{page.hero.alt}}">
   {%- if page.partnership -%}
@@ -9,6 +10,7 @@
   {%- endif -%}
     <img src="/uploads/logo.svg" alt="logo">
   </div>
+  {%- endunless -%}
 <div class="banner">
   <div class="text_box">
     <h1 class="header__title">{{page.title}}</h1>
