@@ -11,6 +11,10 @@ tags:
 - sportswear recommendations
 image: "/uploads/SportswearTipsBanner.jpg"
 author: Georgina Fisher
+description: The shift to athleisure as people spent more time at home during the
+  pandemic along with the lockdown exercise craze meant sportswear retailers have
+  reaped in the benefits over the last 2 years. Check out our top tips to make your
+  activewear brand even more profitable.
 ---
 
 ### The shift to athleisure as people spent more time at home during the pandemic along with the lockdown exercise craze meant sportswear retailers have reaped in the benefits over the last 2 years. 
@@ -88,4 +92,4 @@ Of all activewear orders that had items from more than one category, the highest
 
 The activewear market will continue to grow. Jump ahead with these top tips and get in touch for some more information.
 
-<p style="text-align:center"><a href="/contact/" class="button button-primary">GET IN TOUCH</a></p>
+<p style="text-align:center"><a href="/contact/" class="button button-primary">CONTACT US</a></p>
