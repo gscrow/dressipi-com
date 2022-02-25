@@ -64,7 +64,7 @@ featured_content:
     cta_link: https://dressipi.com/downloads/how-dressipi-can-help-retailers-transform-their-biggest-asset-whitepaper/
   - section: BLOG
     logo: "/uploads/logo.svg"
-    image: "/uploads/SportswearAttributesSquare.png"
+    image: "/uploads/SportswearAttributesSquare-1.png"
     title: 'Apparel-Specific Attributes: The Foundation for Digital Transformation'
     cta_text: READ THE BLOG >
     cta_link: https://drive.google.com/file/d/1VSzPFKSw6KKTm8EnkraH7qAD9FuHgWex/view
