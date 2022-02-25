@@ -4,9 +4,9 @@ published: false
 position: 0
 header:
   body: " "
-description: "Discover how the JD Group and Dressipi can \nwork together to achieve
-  the best in digital \napparel retail, maximising your reach and \nimpact to consumers
-  internationally and \ncomplementing your physical offering."
+description: "Discover how the JD Group and Dressipi \ncan work together to drive
+  consumer loyalty \nand channel mix by offering the right \nproduct at the right
+  time. \n"
 sitemap: false
 type: customer
 hero:
@@ -40,18 +40,17 @@ featured_articles:
     cta_text: READ THE FULL STORY >
     cta_link: https://dressipi.com/downloads/success-story-belstaff/
     image: "/uploads/belstaff_rectangle.png"
-  - title: Optimise your inventory management and reduce markdown with Dressipi’s
-      data-driven prediction models
-    description: "Make the most informed and accurate buying decisions you can for
-      your trend assortment and size ratios with Dressipi’s prediction models. \n\nIntegrate
-      these models at every intervention point to minimise your over-purchase and
-      under-sell, and optimise your sustainable supply chain and inventory management
-      strategies."
-    article_title: How to optimise the sale of overstocked products  and release maximum
-      cash
-    cta_text: DOWNLOAD THE WEBINAR >
-    cta_link: https://dressipi.com/downloads/dressipi-optimise-sale-overstocked-products-webinar/
-    image: "/uploads/overstock-webinar-video-mask.png"
+  - title: Use the best possible fashion-specific product attributes to optimise your
+      online and in-store operations
+    description: |-
+      With 1060 of the most detailed garment attribute values, Dressipi doesn’t just know what good apparel data means for you - we can produce it. Our product tagging is scalable and nearly 100% accurate,  across all categories - from sportswear to high fashion.
+
+      This data feeds into our trend assortment and size ratios prediction models, allowing you to Make the most informed and accurate buying decisions you can.
+    article_title: 'Personalized Sportswear Looks: Accuracy & Specificity of Garment
+      Data is Key'
+    cta_text: LEARN MORE >
+    cta_link: https://drive.google.com/file/d/1v7vEjnQHueJwXPDPFVz2pEs4bQ__1wci/view
+    image: "/uploads/Sportswear%20Outfits%2016.9.jfif"
 featured_content:
   title: Featured Content
   description: We’ve hand-picked the following content that we think will be relevant
@@ -65,10 +64,10 @@ featured_content:
     cta_link: https://dressipi.com/downloads/how-dressipi-can-help-retailers-transform-their-biggest-asset-whitepaper/
   - section: BLOG
     logo: "/uploads/logo.svg"
-    image: "/uploads/Return%20Rates%202022%20Square.png"
-    title: 'Return Rates: A Real Headache for Fashion Retailers… and the Environment'
+    image: "/uploads/SportswearAttributesSquare.png"
+    title: 'Apparel-Specific Attributes: The Foundation for Digital Transformation'
     cta_text: READ THE BLOG >
-    cta_link: https://dressipi.com/blog/return-rates-a-real-headache-for-fashion-retailers-dot-dot-dot-and-the-environment/
+    cta_link: https://drive.google.com/file/d/1VSzPFKSw6KKTm8EnkraH7qAD9FuHgWex/view
   - section: BLOG
     logo: "/uploads/logo.svg"
     image: "/uploads/Athleisure%20Blog%20Square.jpg"
@@ -94,7 +93,7 @@ section_about:
   contact_title: "Make every experience more relevant, \n<br>\nmore apparel-specific
     with Dressipi"
   contact_label: CONTACT US >
-quotes_cta_title: EXPLORE OUR SUCCESS STORIES >
+quotes_cta_title: SUCCESS STORIES >
 quotes_cta_link: https://dressipi.com/customers/
 quotes:
 - author: Simon Konn, Insights & CRM Director, River Island
