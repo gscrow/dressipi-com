@@ -13,7 +13,7 @@ hero:
   logo: "/uploads/JD%20Group%20Logo%20Black.png"
   alt: JD Group
 video: 
-video_mask: "/uploads/JD%20Video%20Mask.png"
+video_mask: "/uploads/JD%20Video%20Mask%201.png"
 exclude-hero: true
 featured_articles:
   title: "Take advantage of the opportunities facing you to \noptimise your consumer
