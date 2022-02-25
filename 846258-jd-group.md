@@ -5,8 +5,8 @@ position: 0
 header:
   body: " "
 description: "Discover how the JD Group and Dressipi \ncan work together to drive
-  consumer loyalty \nand channel mix by offering the right \nproduct at the right
-  time. \n"
+  consumer \nloyalty both online and in-store, by \noffering the right product at
+  the right time.\n"
 sitemap: false
 type: customer
 hero:
@@ -40,13 +40,13 @@ featured_articles:
     cta_text: READ THE FULL STORY >
     cta_link: https://dressipi.com/downloads/success-story-belstaff/
     image: "/uploads/belstaff_rectangle.png"
-  - title: Use the best possible fashion-specific product attributes to optimise your
+  - title: Use the best possible apparel-specific product attributes to optimise your
       online and in-store operations
     description: |-
-      With 1060 of the most detailed garment attribute values, Dressipi doesn’t just know what good apparel data means for you - we can produce it. Our product tagging is scalable and nearly 100% accurate,  across all categories - from sportswear to high fashion.
+      With 1060 of the most detailed garment attribute values, Dressipi doesn’t just know what good apparel data means for you - we can produce it. Our product tagging is scalable and nearly 100% accurate, across all categories - from sportswear to high fashion.
 
       This data feeds into our trend assortment and size ratios prediction models, allowing you to Make the most informed and accurate buying decisions you can.
-    article_title: 'Personalized Sportswear Looks: Accuracy & Specificity of Garment
+    article_title: 'Personalised Sportswear Looks: Accuracy & Specificity of Garment
       Data is Key'
     cta_text: LEARN MORE >
     cta_link: https://drive.google.com/file/d/1v7vEjnQHueJwXPDPFVz2pEs4bQ__1wci/view
@@ -77,7 +77,7 @@ featured_content:
 section_about:
   title: About Dressipi
   content: |-
-    We are the apparel-AI experts, helping fashion retailers deliver the relevant products & inspiration their customers deserve, across every part of the shopper journey.
+    We are the apparel-AI experts, helping fashion and sportswear retailers deliver the relevant products & inspiration their customers deserve, across every part of the shopper journey.
 
     Dressipi has spent years delivering apparel-specific algorithms, drawing on the expertise of some of the industry’s top stylists and experts.
 
