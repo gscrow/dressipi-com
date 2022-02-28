@@ -94,6 +94,7 @@ section_about:
   - Sean Norris
   - Lara Gonzalez
   - Georgina Fisher
+  - Caroline Allen
   contact_title: "Make every experience more relevant, \n<br>\nmore fashion-specific
     with Dressipi"
   contact_label: CONTACT US >
