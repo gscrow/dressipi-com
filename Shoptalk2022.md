@@ -44,7 +44,7 @@ featured_articles:
     cta_text: LEARN MORE >
     cta_link: https://dressipi.com/downloads/success-story-john-lewis/
     image: "/uploads/JL_rectangle.png"
-  - title: 1060+ fashion-specific product attributes, built by stylist and scaled
+  - title: 1060+ fashion-specific product attributes, built by stylists and scaled
       by AI.
     description: Dressipi doesn’t just know what good data means for retailers - we
       can produce it. Our tagging is scalable and nearly 100% accurate, which means
