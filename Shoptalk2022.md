@@ -88,7 +88,7 @@ section_about:
     Dressipi has spent years delivering fashion-specific algorithms, drawing on the expertise of some of the industry’s top stylists and experts.
 
     Dressipi owns the most extensive dataset of garment attributes and fashion-specific customer preferences. Our ability to ingest, cleanse, and augment huge quantities of data from various sources, in real-time, is at the heart of our platform.
-  team_title: Meet the Shoptalk 2022 Team
+  team_title: Meet the Shoptalk Team
   team_members:
   - Sarah McVittie
   - Sean Norris
