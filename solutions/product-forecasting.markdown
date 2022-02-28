@@ -33,8 +33,8 @@ sections:
     body: Equip your buyers and merchandisers with the sales velocity and optimal
       size ratios for every product at SKU level to help inform replenishment & future
       buying decisions.
-    image: "/uploads/section_daily_trading_insight@2x.png"
-    hres-image: "/uploads/section_daily_trading_insight@2x.png"
+    image: "/uploads/section_stock-predictions@2x.png"
+    hres-image: "/uploads/section_stock-predictions@2x.png"
     action:
       copy: Learn More >
       url: https://dressipi.com/closer-look-at-our-data-insight-hub/
