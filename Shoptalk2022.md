@@ -55,11 +55,11 @@ featured_articles:
     cta_link: https://drive.google.com/file/d/1qtmqasf-3kcRuyG1IZ289hO4OR6WE5gN/view
     image: "/uploads/Very_Attributes.JPG"
   postscriptum:
-    title: |-
-      <h4>15% Returns Reduction
+    title: 
+    text: |-
+      <h3>15% Returns Reduction
       <br>+489% RPV on Personalized Emails
-      <br>+10% Sell-Through</h4>
-    text: 
+      <br>+10% Sell-Through</h3>
 featured_content:
   title: Featured Content
   description: We’ve hand-picked the following content that we think will be relevant
