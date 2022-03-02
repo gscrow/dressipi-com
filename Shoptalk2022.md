@@ -40,7 +40,7 @@ featured_articles:
 
       Outfits are completely automated, completely personalized and always on-brand.
     article_title: How John Lewis achieved a significant increase in revenue with
-      Dressipi's outfit recommendation API's
+      Dressipi's personalized outfit API's
     cta_text: LEARN MORE >
     cta_link: https://dressipi.com/downloads/success-story-john-lewis/
     image: "/uploads/JL_rectangle.png"
@@ -92,15 +92,14 @@ section_about:
     and River Island drawing on the combined expertise of top stylists and data scientists.
     \n\nToday Dressipi outperforms every competitor and delivers significant incremental
     improvements to revenue (up to 12%), profit (up to 21%), returns (reduction of
-    15%), sell-through rate (up to 10%) and email revenue (up to 200%).\n\nFor more
-    information, please visit [dressipi.com](/)."
+    15%), sell-through rate (up to 10%) and email revenue (up to 200%)."
   team_title: Meet the Shoptalk Team
   team_members:
   - Sarah McVittie
+  - Caroline Allen
+  - Georgina Fisher
   - Sean Norris
   - Lara Gonzalez
-  - Georgina Fisher
-  - Caroline Allen
   contact_title: "Make every experience more relevant, \n<br>\nmore fashion-specific
     with Dressipi"
   contact_label: CONTACT US >
