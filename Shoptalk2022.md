@@ -85,14 +85,15 @@ featured_content:
     cta_link: https://dressipi.com/downloads/success-story-belstaff/
 section_about:
   title: About Dressipi
-  content: |-
-    We are the fashion-AI experts, helping fashion retailers deliver the relevant products & inspiration their customers deserve, across every part of the shopper journey.
-
-    Dressipi has spent years delivering fashion-specific algorithms, drawing on the expertise of some of the industry’s top stylists and experts.
-
-    Dressipi owns the most extensive dataset of garment attributes and fashion-specific customer preferences. Our ability to ingest, cleanse, and augment huge quantities of data from various sources, in real-time, is at the heart of our platform.
-
-    For more information, please visit [dressipi.com](/).
+  content: "Dressipi are the fashion-AI experts, helping apparel retailers deliver
+    the relevant products & inspiration their customers deserve, across every part
+    of the shopper journey.\n\nWe deliver fashion-speciﬁc algorithms and API’s to
+    global retailers such as Country Road Group, Belstaff, City Chic, OVS, John Lewis
+    and River Island drawing on the combined expertise of top stylists and data scientists.
+    \n\nToday Dressipi outperforms every competitor and delivers significant incremental
+    improvements to revenue (up to 12%), profit (up to 21%), returns (reduction of
+    15%), sell-through rate (up to 10%) and email revenue (up to 200%).\n\nFor more
+    information, please visit [dressipi.com](/)."
   team_title: Meet the Shoptalk Team
   team_members:
   - Sarah McVittie
