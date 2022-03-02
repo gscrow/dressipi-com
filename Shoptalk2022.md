@@ -25,9 +25,9 @@ featured_articles:
     facing your brand
   content:
   - title: Increase revenue by 6% by personalizing the entire experience
-    description: Create exponential value by personalizing each step of the journey,
-      from home to PLPs to similar items and more. Crucially, only showing products
-      if they are available in the customer’s size - a key cornerstone of personalization.
+    description: "Create exponential value by personalizing each step of the journey,
+      from home to PLPs to similar items and more. \n\nOur fashion-first approach
+      means we know what your customers will buy - and crucially, what they’ll keep."
     article_title: River Island increased their revenue by 6% in 12 months with Dressipi’s
       fashion-focused approach to personalization
     cta_text: LEARN MORE >
@@ -35,10 +35,10 @@ featured_articles:
     image: "/uploads/Boden_RI-24be63.JPG"
   - title: 208% increase in Click Through Rates by delivering outfits throughout the
       journey
-    description: Our unmatched understanding of the fashion industry means we offer
-      unbeatable outfit recommendations tailored to the shopper, driving higher conversion,
-      lower returns, and better, more loyal customers. Outfits are completely automated,
-      completely personalized and always on-brand.
+    description: |-
+      Our unmatched understanding of the fashion industry means we offer unbeatable outfit recommendations tailored to the shopper, driving higher conversion, lower returns, and better, more loyal customers.
+
+      Outfits are completely automated, completely personalized and always on-brand.
     article_title: How John Lewis achieved a significant increase in revenue with
       Dressipi's outfit recommendation API's
     cta_text: LEARN MORE >
@@ -46,9 +46,9 @@ featured_articles:
     image: "/uploads/JL_rectangle.png"
   - title: 1060+ fashion-specific product attributes, built by stylists and scaled
       by AI.
-    description: Dressipi doesn’t just know what good data means for retailers - we
-      can produce it. Our tagging is scalable and nearly 100% accurate, which means
-      higher quantity and quality insight.
+    description: "Dressipi doesn’t just know what good data means for retailers -
+      we can produce it. \n\nOur tagging is scalable and nearly 100% accurate, which
+      means higher quantity and quality insight."
     article_title: 'Fashion-specific product attributes: The foundation for digital
       transformation'
     cta_text: READ THE BLOG >
