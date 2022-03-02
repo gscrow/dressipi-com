@@ -74,7 +74,7 @@ featured_content:
   - section: GUIDE
     logo: "/uploads/logo.svg"
     image: "/uploads/Sort%20Order-aadb77.jpg"
-    title: Your sort order is your secret sauce to revenue and margin growth
+    title: Your sort order is the secret sauce to revenue and margin growth
     cta_text: DOWNLOAD THE GUIDE >
     cta_link: https://dressipi.com/downloads/your-sort-order-is-your-secret-sauce-to-success/
   - section: CASE STUDY
