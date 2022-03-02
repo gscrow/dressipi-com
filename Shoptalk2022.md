@@ -57,9 +57,9 @@ featured_articles:
   postscriptum:
     title: 
     text: |-
-      <h3>15% Returns Reduction
+      15% Returns Reduction
       <br>+489% RPV on Personalized Emails
-      <br>+10% Sell-Through</h3>
+      <br>+10% Sell-Through
 featured_content:
   title: Featured Content
   description: We’ve hand-picked the following content that we think will be relevant
