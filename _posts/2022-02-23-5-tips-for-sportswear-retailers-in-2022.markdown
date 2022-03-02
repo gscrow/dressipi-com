@@ -33,7 +33,7 @@ Sweatshirts tripled in volume of sales from 2019 to 2021, from 0.5% of total wom
 
 The global sportswear market was valued at $351m in 2017, and is expected to reach $547m by 2024 ([Allied Market Research](https://www.alliedmarketresearch.com/activewear-market)). If you are part of this then don’t miss out on our top tips to make your brand even more profitable:
 
-## Keep Decreasing you Sportswear Return Rates
+## Keep Decreasing your Sportswear Return Rates
 
 Sportswear clothes are returned at rates of around 11.3%, much lower than the average clothing return rate of 14.3%. 
 
