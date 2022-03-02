@@ -40,7 +40,7 @@ featured_articles:
       lower returns, and better, more loyal customers. Outfits are completely automated,
       completely personalized and always on-brand.
     article_title: How John Lewis achieved a significant increase in revenue with
-      outfit recommendations
+      Dressipi's outfit recommendation API's
     cta_text: LEARN MORE >
     cta_link: https://dressipi.com/downloads/success-story-john-lewis/
     image: "/uploads/JL_rectangle.png"
@@ -55,8 +55,11 @@ featured_articles:
     cta_link: https://drive.google.com/file/d/1qtmqasf-3kcRuyG1IZ289hO4OR6WE5gN/view
     image: "/uploads/Very_Attributes.JPG"
   postscriptum:
-    title: 12% Incremental Revenue
-    text: Delivered to your brand over the next 12 months
+    title: |-
+      <h4>15% Returns Reduction
+      <br>+489% RPV on Personalized Emails
+      <br>+10% Sell-Through</h4>
+    text: 
 featured_content:
   title: Featured Content
   description: We’ve hand-picked the following content that we think will be relevant
@@ -64,16 +67,16 @@ featured_content:
   content:
   - section: GUIDE
     logo: "/uploads/logo.svg"
-    image: "/uploads/Return%20Rates%202022%20Square.png"
-    title: 'Return Rates: A Real Headache for Fashion Retailers… and the Environment'
-    cta_text: LEARN MORE >
-    cta_link: https://dressipi.com/blog/return-rates-a-real-headache-for-fashion-retailers-dot-dot-dot-and-the-environment/
+    image: "/uploads/very-feat-1-fc.jpg"
+    title: Understanding Your Unique Return Rate Proﬁle
+    cta_text: GET THE GUIDE >
+    cta_link: "/downloads/understanding-your-unique-return-rate-profile-whitepaper/"
   - section: GUIDE
     logo: "/uploads/logo.svg"
     image: "/uploads/Sort%20Order-aadb77.jpg"
-    title: Your sort order is your secret weapon to revenue and margin growth
+    title: Your sort order is your secret sauce to revenue and margin growth
     cta_text: DOWNLOAD THE GUIDE >
-    cta_link: https://dressipi.com/downloads/your-sort-order-is-your-secret-weapon-to-success/
+    cta_link: https://dressipi.com/downloads/your-sort-order-is-your-secret-sauce-to-success/
   - section: CASE STUDY
     logo: "/uploads/Belstaff%20Logo.png"
     image: "/uploads/Belstaff_success_story_hero_2-bb4fa9.jpg"
