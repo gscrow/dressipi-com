@@ -1,11 +1,13 @@
 ---
 title: |-
-  Your Sort Order is Your Secret Weapon
+  Your Sort Order is Your Secret Sauce
   to Success
 date: 2019-09-25 13:08:00 Z
 position: 1
 resource: Guides
 image: "/uploads/Sort_Order_Whitepaper_Small.jpg"
+testimonial:
+  action: Download
 download:
   title: Download Free Whitepaper
   button: Download >
@@ -13,12 +15,10 @@ download:
   checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services
   button_class: whitepaper
-testimonial:
-  action: Download
 position-list: 1
 ---
 
-# Your Sort Order is Your Secret Weapon to Success
+# Your Sort Order is Your Secret Sauce to Success
 
 ## Why redefining the discovery process is fundamental to significantly grow revenues and margins.
 
