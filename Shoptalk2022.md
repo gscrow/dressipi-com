@@ -63,7 +63,7 @@ featured_articles:
 featured_content:
   title: Featured Content
   description: We’ve hand-picked the following content that we think will be relevant
-    for you
+    for you.
   content:
   - section: GUIDE
     logo: "/uploads/logo.svg"
