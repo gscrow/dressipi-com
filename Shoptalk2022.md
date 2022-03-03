@@ -26,7 +26,7 @@ featured_articles:
   content:
   - title: Increase revenue by 6% by personalizing the entire experience
     description: "Create exponential value by personalizing each step of the journey,
-      from home to PLPs to similar items and more. \n\nOur apparel-first approach
+      from home to PLPs to similar items and more. \n\nOur fashion-first approach
       means we know what your customers will buy - and crucially, what they’ll keep."
     article_title: River Island increased their revenue by 6% in 12 months with Dressipi’s
       fashion-focused approach to personalization
