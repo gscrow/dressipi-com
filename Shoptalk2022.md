@@ -2,9 +2,9 @@
 title: Dressipi is coming to Shoptalk 2022!
 published: false
 position: 0
-description: We are the fashion-AI experts, helping fashion retailers deliver the
-  relevant products & inspiration their visitors deserve, across every part of the
-  shopper journey.
+description: We are the fashion-AI experts, helping apparel and footwear retailers
+  deliver the relevant products & inspiration their visitors deserve, across every
+  part of the shopper journey.
 partnership: X
 partnership-class: nfr-partnership
 sitemap: false
@@ -26,19 +26,19 @@ featured_articles:
   content:
   - title: Increase revenue by 6% by personalizing the entire experience
     description: "Create exponential value by personalizing each step of the journey,
-      from home to PLPs to similar items and more. \n\nOur fashion-first approach
+      from home to PLPs to similar items and more. \n\nOur apparel-first approach
       means we know what your customers will buy - and crucially, what they’ll keep."
     article_title: River Island increased their revenue by 6% in 12 months with Dressipi’s
       fashion-focused approach to personalization
     cta_text: LEARN MORE >
     cta_link: https://dressipi.com/downloads/success-story-river-island/
     image: "/uploads/Boden_RI-24be63.JPG"
-  - title: 208% increase in Click Through Rates by delivering outfits throughout the
-      journey
+  - title: 208% increase in Click Through Rates by delivering outfits and looks throughout
+      the journey
     description: |-
-      Our unmatched understanding of the fashion industry means we offer unbeatable outfit recommendations tailored to the shopper, driving higher conversion, lower returns, and better, more loyal customers.
+      Our unmatched understanding of the apparel and footwear industry means we offer unbeatable outfit and look recommendations tailored to the shopper, driving higher conversion, lower returns, and better, more loyal customers.
 
-      Outfits are completely automated, completely personalized and always on-brand.
+      Outfits and looks are completely automated, completely personalized and always on-brand.
     article_title: How John Lewis achieved a significant increase in revenue with
       Dressipi's personalized outfit API's
     cta_text: LEARN MORE >
@@ -85,14 +85,14 @@ featured_content:
     cta_link: https://dressipi.com/downloads/success-story-belstaff/
 section_about:
   title: About Dressipi
-  content: "Dressipi are the fashion-AI experts, helping apparel retailers deliver
-    the relevant products & inspiration their customers deserve, across every part
-    of the shopper journey.\n\nWe deliver fashion-speciﬁc algorithms and API’s to
-    global retailers such as Country Road Group, Belstaff, City Chic, OVS, John Lewis
-    and River Island drawing on the combined expertise of top stylists and data scientists.
-    \n\nToday Dressipi outperforms every competitor and delivers significant incremental
-    improvements to revenue (up to 12%), profit (up to 21%), returns (reduction of
-    15%), sell-through rate (up to 10%) and email revenue (up to 200%)."
+  content: "Dressipi are the fashion-AI experts, helping apparel and footwear retailers
+    deliver the relevant products & inspiration their customers deserve, across every
+    part of the shopper journey.\n\nWe deliver fashion-speciﬁc algorithms and API’s
+    to global retailers such as Country Road Group, Belstaff, City Chic, OVS, John
+    Lewis and River Island drawing on the combined expertise of top stylists and data
+    scientists. \n\nToday Dressipi outperforms every competitor and delivers significant
+    incremental improvements to revenue (up to 12%), profit (up to 21%), returns (reduction
+    of 15%), sell-through rate (up to 10%) and email revenue (up to 200%)."
   team_title: Meet the Shoptalk Team
   team_members:
   - Sarah McVittie
