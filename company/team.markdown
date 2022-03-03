@@ -74,11 +74,11 @@ sections:
     linkedin: https://www.linkedin.com/in/gabriel-crow-a0799718b/
     image: "/uploads/gabriel-crow.jpeg"
   - name: Sean Norris
-    title: Sales Development Representative
+    title: E-commerce Consultant, Apparel
     linkedin: https://www.linkedin.com/in/sean-norris-2b22ba170/
     image: "/uploads/SeanNorris.jpg"
   - name: Lara Gonzalez
-    title: Sales Development Representative
+    title: E-commerce Consultant, Apparel
     linkedin: https://www.linkedin.com/in/lara-gonz/
     image: "/uploads/LaraGonzalez.jpg"
   - name: JJ. Green
