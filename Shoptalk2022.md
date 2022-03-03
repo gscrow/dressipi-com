@@ -12,7 +12,7 @@ type: customer
 hero:
   logo: "/uploads/ShoptalkLogo1.png"
   alt: Shoptalk2022
-video: 
+video: https://dressipi.com/media/shoptalk_lp.mp4
 video_mask: 
 exclude-hero: true
 cta_top:
