@@ -4,9 +4,8 @@ published: false
 position: 0
 header:
   body: " "
-description: "Discover how the JD Group and Dressipi \ncan work together to drive
-  consumer \nloyalty both online and in-store, by \noffering the right product at
-  the right time.\n"
+description: "Discover how a partnership between \nthe JD Group and Dressipi can drive
+  \nloyalty by presenting engaging and \ninnovative experiences.\n"
 sitemap: false
 type: customer
 hero:
@@ -16,20 +15,19 @@ video:
 video_mask: "/uploads/JD%20Video%20Mask%201.png"
 exclude-hero: true
 featured_articles:
-  title: "Take advantage of the opportunities facing you to \noptimise your consumer
-    proposition."
+  title: "Tackle the biggest challenges and take advantage \nof the biggest opportunities
+    facing JD"
   content:
-  - title: Enhance the bond between JD and its consumers by personalising every step
-      of the journey
+  - title: Use the best possible apparel-specific product attributes to drive future
+      international growth
     description: |-
-      Updated in real-time, Dressipi’s flexible recommendation API’s are personalised to the individual’s preferences and intentions, creating a seamless purchasing experience across all touchpoints.
+      With 1060 of the most detailed garment attribute values, Dressipi doesn’t just know what good apparel data means for you - we can produce it. Our product tagging is scalable and nearly 100% accurate,  across all categories - from sportswear to luxury fashion.
 
-      Crucially, only showing products if they are available in the customer’s size - a key cornerstone of personalisation.
-    article_title: River Island increased their revenue by 6% in 12 months with Dressipi’s
-      fashion-focused approach to personalisation
-    cta_text: READ THE FULL STORY >
+      This data feeds into our trend assortment and size ratios prediction models, allowing you to make the most informed and accurate buying decisions you can.
+    article_title: 'Apparel-Specific Attributes: The Foundation for Digital Transformation'
+    cta_text: LEARN MORE >
     cta_link: https://dressipi.com/downloads/success-story-river-island/
-    image: "/uploads/Boden_RI-24be63.JPG"
+    image: "/uploads/Sportswear%20Attributes%20Blog%2016.9.jfif"
   - title: Engage your customers and ensure they return through all channels with
       personalised outfits
     description: Dressipi’s innovative and exciting outfit recommendation API is tailored
