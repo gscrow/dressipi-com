@@ -60,7 +60,7 @@ featured_content:
     title: Your sort order is your secret sauce to revenue and margin growth
     cta_text: GET THE GUIDE >
     cta_link: https://dressipi.com/downloads/your-sort-order-is-your-secret-sauce-to-success/
-  - section: BLOG
+  - section: SUCCESS STORY
     logo: "/uploads/Belstaff%20Logo.png"
     image: "/uploads/Belstaff_success_story_hero_2-cf6cd5.jpg"
     title: Belstaff increased email revenue by 69% through personalised recommendations
