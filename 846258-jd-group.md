@@ -26,24 +26,24 @@ featured_articles:
       This data feeds into our trend assortment and size ratios prediction models, allowing you to make the most informed and accurate buying decisions you can.
     article_title: 'Apparel-Specific Attributes: The Foundation for Digital Transformation'
     cta_text: LEARN MORE >
-    cta_link: https://dressipi.com/downloads/success-story-river-island/
+    cta_link: https://drive.google.com/file/d/1VSzPFKSw6KKTm8EnkraH7qAD9FuHgWex/view
     image: "/uploads/Sportswear%20Attributes%20Blog%2016.9.jfif"
-  - title: Engage your customers and ensure they return through all channels with
-      personalised outfits
-    description: Dressipi’s innovative and exciting outfit recommendation API is tailored
-      to the customer’s preferences and activity, as well as product availability.
-      Our API’s can be injected into existing ESPs, inspiring the customer to return
-      to the JD website - or find the products in store.
-    article_title: Belstaff increased email revenue by 69% through personalised recommendations
-    cta_text: READ THE FULL STORY >
-    cta_link: https://dressipi.com/downloads/success-story-belstaff/
-    image: "/uploads/belstaff_rectangle.png"
-  - title: Use the best possible apparel-specific product attributes to optimise your
-      online and in-store operations
+  - title: Further enhance the experience for JD consumers by personalising every
+      step of the journey
     description: |-
-      With 1060 of the most detailed garment attribute values, Dressipi doesn’t just know what good apparel data means for you - we can produce it. Our product tagging is scalable and nearly 100% accurate, across all categories - from sportswear to high fashion.
+      Updated in real-time, Dressipi’s flexible recommendation API’s are personalised to the individual’s preferences and intentions, creating a seamless purchasing experience across all touchpoints and meeting all style aspirations.
 
-      This data feeds into our trend assortment and size ratios prediction models, allowing you to Make the most informed and accurate buying decisions you can.
+      Crucially, only showing products if they are available in the consumer’s size - a key cornerstone of personalisation.
+    article_title: River Island increased their revenue by 6% in 12 months with Dressipi’s
+      fashion-focused approach to personalisation
+    cta_text: LEARN MORE >
+    cta_link: https://dressipi.com/downloads/success-story-river-island/
+    image: "/uploads/Boden_RI-24be63.JPG"
+  - title: Engage your consumers through all channels with personalised looks
+    description: |-
+      Dressipi’s algorithms can deliver sportswear looks that are completely automated, completely personalised, and always on-brand. Looks are comprised of different product types, starting from different product types, for different activities and sports to show the versatility of the product.
+
+      Outfit and look API’s can be injected into ESP’s, to be used in post-purchase emails with the consumer’s newly bought item.
     article_title: 'Personalised Sportswear Looks: Accuracy & Specificity of Garment
       Data is Key'
     cta_text: LEARN MORE >
@@ -56,32 +56,30 @@ featured_content:
   content:
   - section: WHITEPAPER
     logo: "/uploads/logo.svg"
-    image: "/uploads/Biggest%20Asset%20Whitepaper%20Square.jpg"
-    title: How Dressipi Can Help Retailers Transform Their Biggest Asset
+    image: "/uploads/Sort%20Order-aadb77.jpg"
+    title: Your sort order is your secret sauce to revenue and margin growth
     cta_text: GET THE GUIDE >
-    cta_link: https://dressipi.com/downloads/how-dressipi-can-help-retailers-transform-their-biggest-asset-whitepaper/
+    cta_link: https://dressipi.com/downloads/your-sort-order-is-your-secret-sauce-to-success/
+  - section: BLOG
+    logo: "/uploads/Belstaff%20Logo.png"
+    image: "/uploads/Belstaff_success_story_hero_2-cf6cd5.jpg"
+    title: Belstaff increased email revenue by 69% through personalised recommendations
+    cta_text: READ THE FULL STORY >
+    cta_link: https://dressipi.com/downloads/success-story-belstaff/
   - section: BLOG
     logo: "/uploads/logo.svg"
-    image: "/uploads/SportswearAttributesSquare-1.png"
-    title: 'Apparel-Specific Attributes: The Foundation for Digital Transformation'
+    image: "/uploads/SportswearTipsSquare.jpg"
+    title: 5 Tips for Sportswear Retailers in 2022
     cta_text: READ THE BLOG >
-    cta_link: https://drive.google.com/file/d/1VSzPFKSw6KKTm8EnkraH7qAD9FuHgWex/view
-  - section: BLOG
-    logo: "/uploads/logo.svg"
-    image: "/uploads/Athleisure%20Blog%20Square.jpg"
-    title: The Athleisure Trend is Here to Stay
-    cta_text: READ THE BLOG >
-    cta_link: https://dressipi.com/blog/the-athleisure-trend-is-here-to-stay/
+    cta_link: https://dressipi.com/blog/5-tips-for-sportswear-retailers-in-2022/
 section_about:
   title: About Dressipi
   content: |-
-    We are the apparel-AI experts, helping fashion and sportswear retailers deliver the relevant products & inspiration their customers deserve, across every part of the shopper journey.
+    Dressipi are the fashion-AI experts, helping apparel and footwear retailers deliver the relevant products & inspiration their customers deserve, across every part of the shopper journey.
 
-    Dressipi has spent years delivering apparel-specific algorithms, drawing on the expertise of some of the industry’s top stylists and experts.
+    We deliver apparel-speciﬁc algorithms and API’s to global retailers such as John Lewis, River Island, Country Road Group, Belstaff, City Chic and OVS drawing on the combined expertise of top stylists and data scientists.
 
-    Dressipi owns the most extensive dataset of garment attributes and apparel-specific customer preferences. Our ability to ingest, cleanse, and augment huge quantities of data from various sources, in real-time, is at the heart of our platform.
-
-    For more information, please visit [dressipi.com](/).
+    Today Dressipi outperforms every competitor and delivers significant incremental improvements to revenue (up to 12%), profit (up to 21%), returns (reduction of 15%), sell-through rate (up to 10%) and email revenue (up to 200%).
   team_title: Meet Your JD Team
   team_members:
   - Sarah McVittie
@@ -98,11 +96,11 @@ quotes:
   quote: "“We have huge amounts more to explore with Dressipi. The bit that really
     excites me is how we come together on insights. Getting beyond personalisation
     has really helped us understand our customer base and what they want and need.”"
-- author: Rob Hitchman, Digital Product Owner, John Lewis
-  quote: “Working with Dressipi has really helped us look at different ways in how
-    we can support our customers. We are helping facilitate their shopping journey
-    from the point they arrive on the website all the way through to post checkout
-    and then even beyond that."
+- author: Isabel Serafini, Head of CRM, OVS
+  quote: "“The OVS customer is a much heavier in store shopper and we needed a highly
+    personalised way to target them. By working with Dressipi, we have been able to
+    deliver truly personalised emails to our customers and open up the massive revenue
+    potential of the store portfolio.”"
 - author: Sally Hunter, Digital Insight Analyst, LK Bennett
   quote: "“Having data insight that is directly linked to our order management system
     is much more reliable for order and product purchases than Google Analytics.”"
