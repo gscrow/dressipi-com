@@ -13,7 +13,7 @@ Along with the shift to online retailing, average return rates from Aug - Dec 20
 
 We estimate that in the apparel/fashion segment there were 200m more returned items in 2021 compared to 2019 and that number is set to reach 379m in 2022. The costs of processing these returns alone will cost the industry $2.5bn (up by ~$850m since 2019). This inefficiency will negatively impact EBIT margins by 0.5%.
 
-An additional 380m returned items isn’t just going to hit margins, there is a substantial environmental impact too. These additional returns will be responsible for an additional 380m lbs of waste in landfill and 1200k metric tons of CO2 (equivalent to 36,014 SUV’s of waste and 5.2m hours worth of flight emissions!) 
+An additional 380m returned items isn’t just going to hit margins, there is a substantial environmental impact too. These additional returns will be responsible for an additional 380m lbs of waste in landfill and 1200k metric tons of CO2 (equivalent to 36,014 SUV’s of waste and 5.2m hours worth of flight emissions!).
 
 ## Expected Size of Apparel Industry 2022 back to above 2019 levels
 
@@ -43,9 +43,9 @@ Although the mix of product purchases has moved to a more casual make up, the ch
 
 ## Category mix suggesting a casualisation of apparel choices
 
-We are seeing a rise in the purchases of Jeans, Sportswear, Tops and Knitwear with a slight decrease in the purchases of dresses and more formal jackets. 
+We are seeing a rise in the purchases of jeans, sportswear, tops and knitwear with a slight decrease in the purchases of dresses and more formal jackets. 
 
-In 2021 dresses and tops were the highest categories at approximately 20% and 26% of the overall womenswear product mix. Within those categories, dresses saw return rate increases by 16% and tops increase by 12%. This was mostly due to people buying multiple options. 
+In 2021, dresses and tops were the highest categories at approximately 20% and 26% of the overall womenswear product mix. Within those categories, dresses saw return rate increases by 16% and tops increase by 12%. This was mostly due to people buying multiple options. 
 
 <br>
 <p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/USReturns4.JPG"/></p>
