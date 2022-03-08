@@ -51,8 +51,8 @@ featured_articles:
     image: "/uploads/Sportswear%20Outfits%2016.9.jfif"
 featured_content:
   title: Featured Content
-  description: "<h3>We’ve hand-picked the following content that we think will be
-    relevant for JD</h3>"
+  description: We’ve hand-picked the following content that we think will be relevant
+    for JD
   content:
   - section: WHITEPAPER
     logo: "/uploads/logo.svg"
