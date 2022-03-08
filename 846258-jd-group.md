@@ -15,7 +15,7 @@ video:
 video_mask: "/uploads/JD%20Video%20Mask%201.png"
 exclude-hero: true
 featured_articles:
-  title: "Tackle the biggest challenges and take advantage \nof the biggest opportunities
+  title: "Tackle the biggest challenges and take advantage \n<br>of the biggest opportunities
     facing JD"
   content:
   - title: Use the best possible apparel-specific product attributes to drive future
