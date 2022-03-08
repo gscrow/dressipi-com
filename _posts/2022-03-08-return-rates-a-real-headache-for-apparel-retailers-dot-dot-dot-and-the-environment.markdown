@@ -69,10 +69,10 @@ Returns are just one example. Online returns are typically 3x higher than instor
 
 Returns are a natural cost of doing business online but that minimum natural cost is at least 20% lower than the current 28% return rate. 
 
-Dressipi builds the return propensity into all its models to ensure we are always increasing revenue and reducing returns
+Dressipi builds the return propensity into all its models to ensure we are always increasing revenue and reducing returns.
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/USReturns6.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" src ="/uploads/USReturns6.JPG"/></p>
 <br>
 
 ### 2) Data driven retailing
