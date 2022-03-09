@@ -11,7 +11,7 @@ type: customer
 hero:
   logo: "/uploads/JD%20Group%20Logo%20Black.png"
   alt: JD Group
-video: 
+video: https://dressipi.com/media/jd_lp.mp4
 video_mask: "/uploads/JD%20Video%20Mask%201.png"
 exclude-hero: true
 featured_articles:
