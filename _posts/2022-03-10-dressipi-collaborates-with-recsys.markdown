@@ -1,6 +1,20 @@
 ---
 title: Dressipi Collaborates with RecSys
 date: 2022-03-10 11:51:00 Z
+categories:
+- data
+- tech
+tags:
+- RecSys
+- Recsys challenge
+- new-user problem
+- fashion AI
+- content data
+- garment attributes
+image: "/uploads/RecSysBanner.png"
+author: Nick Landia
+description: "As recognised leaders in fashion AI, Dressipi have been chosen as the
+  industry partner for the prestigious RecSys challenge. \n"
 ---
 
 ### [RecSys](https://recsys.acm.org/recsys22/) is the premier international forum for the presentation of new research results, systems and techniques in the field of recommender systems. 
@@ -45,6 +59,6 @@ This is a great opportunity for Dressipi to engage further with the research com
 
 After the challenge is concluded we are planning to release the dataset and keep it available for researchers to encourage further research and publications in this area.
 
-Check out the full RecSys Challenge 2022 here.
+Check out the full RecSys Challenge 2022 [here](http://www.recsyschallenge.com/2022/).
 
 <p style="text-align:center"><a href="/contact/" class="button button-primary">CONTACT US</a></p>
