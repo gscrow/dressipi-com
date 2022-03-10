@@ -33,7 +33,7 @@ Participants will be responding to the question **‘When given user sessions, p
 
 It’s important to be able to make recommendations that respond to what the user is doing during the current session to create the best experience possible that results in a purchase. However, nuances in the fashion domain make it notoriously hard to predict:
 
-<p style="padding-left: 50px;"> * On average 51% of total visitors are new (Dressipi Data) which means there is no historical data available and we solely have to rely on current session activity. </p>
+* On average 51% of total visitors are new (Dressipi Data) which means there is no historical data available and we solely have to rely on current session activity. </p>
 
 * Sessions can be pretty short so we need to be able to make accurate predictions as early as possible, before the user bounces.
 
