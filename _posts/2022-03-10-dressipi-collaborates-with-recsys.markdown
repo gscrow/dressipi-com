@@ -11,7 +11,7 @@ tags:
 - fashion AI
 - content data
 - garment attributes
-image: "/uploads/RecSysBanner.png"
+image: "/uploads/RecSysBanner.jpeg"
 author: Nick Landia
 description: "As recognised leaders in fashion AI, Dressipi have been chosen as the
   industry partner for the prestigious RecSys challenge. \n"
