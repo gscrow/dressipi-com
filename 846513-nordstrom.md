@@ -17,10 +17,10 @@ featured_articles:
   content:
   - title: Lay the best possible digital foundation with Dressipi’s fashion-specific
       product attributes.
-    description: "Good attribution is a vital foundation to ongoing digital transformation.
+    description: Good attribution is a vital foundation to ongoing digital transformation.
       With 1060 product attribute values, Dressipi doesn’t just know what good data
-      means for Nordstrom - we can produce it. \n\nOur tagging is scalable and nearly
-      100% accurate, which means higher quantity and quality insight."
+      means for Nordstrom - we can produce it. Our tagging is scalable and nearly
+      100% accurate, which means higher quantity and quality insight.
     article_title: |-
       Fashion-specific product attributes: The foundation for digital transformation
       <br>
