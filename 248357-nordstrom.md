@@ -1,7 +1,6 @@
 ---
 title: Accelerate your digital transformation with breakthrough, fashion-specific
   shopping experiences
-published: false
 position: 0
 description: "Discover how Dressipi can help \nNordstrom increase your digital \nvelocity
   and  better serve your \ncustomers when, where and how they \nwant to shop.\n\n\n"
