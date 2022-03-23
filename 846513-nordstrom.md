@@ -21,8 +21,9 @@ featured_articles:
       With 1060 product attribute values, Dressipi doesn’t just know what good data
       means for Nordstrom - we can produce it. \n\nOur tagging is scalable and nearly
       100% accurate, which means higher quantity and quality insight."
-    article_title: 'Fashion-specific product attributes: The foundation for digital
-      transformation'
+    article_title: |-
+      Fashion-specific product attributes: The foundation for digital transformation
+      <br>
     cta_text: LEARN MORE >
     cta_link: https://drive.google.com/file/d/1qtmqasf-3kcRuyG1IZ289hO4OR6WE5gN/view
     image: "/uploads/Very_Attributes.JPG"
