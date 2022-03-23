@@ -10,7 +10,7 @@ hero:
   logo: "/uploads/Nordstrom_Logo_2019.png"
   alt: Nordstrom
 video: 
-video_mask: 
+video_mask: "/uploads/NordstromLPVideoMask.jpg"
 exclude-hero: true
 featured_articles:
   title: Be the best fashion retailer in a digitally-connected world
