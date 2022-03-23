@@ -7,7 +7,7 @@ description: "Discover how Dressipi can help \nNordstrom increase your digital \
 sitemap: false
 type: customer
 hero:
-  logo: 
+  logo: "/uploads/Nordstrom_Logo_2019.png"
   alt: Nordstrom
 video: 
 video_mask: 
