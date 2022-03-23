@@ -1,9 +1,9 @@
 ---
-title: Deliver an inspiring, exciting, and truly personalised experience.
+title: Accelerate your digital transformation with breakthrough, fashion-specific
+  shopping experiences
 position: 0
-description: "Discover how a partnership between ASOS \nand Dressipi can deliver a
-  breakthrough \nfashion-specific experience, helping your \ncustomers find their
-  best products faster.\n\n\n"
+description: "Discover how Dressipi can help Nordstrom \nincrease your digital velocity
+  and  better \nserve your customers when, where and how \nthey want to shop.\n\n\n"
 sitemap: false
 type: customer
 hero:
