@@ -39,11 +39,12 @@ featured_articles:
     cta_text: LEARN MORE >
     cta_link: https://dressipi.com/downloads/success-story-belstaff/
     image: "/uploads/belstaff_rectangle.png"
-  - title: Sustainability embedded into API’s and prediction models
-    description: "We are the only recommendation provider that builds return rate
-      propensities into our algorithms: for every customer, every garment, and every
-      feature. \n\nWe typically see return rates drop by 10-15% when the same customer
-      buys through our recommendations versus the normal customer journey."
+  - title: Build brand loyalty and increase consumer LTV through inspirational shopping
+      experiences
+    description: "Our unmatched understanding of the fashion industry means we offer
+      unbeatable outfit recommendations tailored to the shopper, driving higher conversion,
+      lower returns, and better, more loyal customers. \n\nOutfits are completely
+      automated, completely personalized and always on-brand."
     article_title: How John Lewis achieved a significant increase in revenue with
       outfit recommendations
     cta_text: LEARN MORE >
