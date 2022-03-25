@@ -11,7 +11,7 @@ tags:
 - Harrods
 - Luxury retailer
 - Virtual fitting room
-image: "/uploads/Feb19%20blog.png"
+image: "/uploads/Feb19_blog.jpeg"
 author: Georgina Fisher
 description: With lots of news to keep track of, Dressipi brings you this month's
   best stories from the world of retail and its supporting industries.

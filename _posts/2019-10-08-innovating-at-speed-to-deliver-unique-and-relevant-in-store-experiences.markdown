@@ -26,7 +26,7 @@ tags:
 - retail innovation
 - omnichannel retail
 - future of retail
-image: "/uploads/pip%20banner.png"
+image: "/uploads/pip_banner.jpeg"
 author: Sarah McVittie
 description: Online is on its way to personalising experiences for every individual
   customer but what should this experience look like in-store? Dressipi's Co-Founder

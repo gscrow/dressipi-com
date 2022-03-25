@@ -13,7 +13,7 @@ tags:
 - H&M
 - clothes rental
 - resale
-image: "/uploads/Oct19%20Monthly%20RoundUp.png"
+image: "/uploads/Oct19_Monthly_RoundUp.jpeg"
 author: Georgina Fisher
 description: With lots of news to keep track of, Dressipi brings you this month's
   best stories from the world of retail and its supporting industries.

@@ -22,7 +22,7 @@ sections:
       occasions
     body: 
     video:
-      src: "/uploads/LinkedIn%20Ad%20Specific%20John%20Lewis.mp4"
+      src: https://dressipi.com/media/LinkedIn_Ad_Specific_John_Lewis.mp4
       w: 100%
       h: auto
       poster: "/uploads/LinkedIn%20Ad%20Specific%20Johh%20Lewis%20Outfit_Thumbnail.jpg"
@@ -37,7 +37,7 @@ sections:
     subtitle: Instant personal styling by taking every visitor’s preferences into
       account
     body: 
-    image: "/uploads/Personalised%20Outfit-c8fbc7.png"
+    image: "/uploads/Personalised_Outfit-c8fbc7.jpeg"
   - title: Deliver 5% incremental revenue by going beyond what the model wears
     type: counter
     number-left: 5

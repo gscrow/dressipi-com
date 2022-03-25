@@ -61,7 +61,7 @@ A very apt example is the [trend of heavy metal band shirts](https://www.theguar
 
 From your past interactions a recommender would have learned that you don’t like heavy metal t-shirts and in theory when personalising for you we should never recommend them. But in the case of fashion even a fairly strong opinion can change depending on how trends and public opinion changes.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/HeavyMetalTShirt.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/HeavyMetalTShirt.jpeg"/></p>
 
 Traditionally, when we try to personalise for a user we think of it as an exploration and narrowing in on the user’s taste. The task of the algorithms is to start broad (most popular) and then narrow in on the user’s taste, getting more accurate with each piece of information. In fashion however the true taste of the user is not as static as we would traditionally assume in recommender systems. In fact what the user likes can be rapidly changing and inconsistent over relatively short periods of time, meanings we can’t blindly rely on past data. We have to figure out how representative past purchases and interactions really are for a given user and whether or not their actual preference is that they are on trend.
 

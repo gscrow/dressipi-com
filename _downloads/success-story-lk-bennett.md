@@ -3,11 +3,11 @@ title: How LK Bennett is using Dressipi’s Data Insight Hub
 date: 2021-06-06 08:54:00 Z
 position: 5
 resource: Case Studies
-image: "/uploads/success-lk.png"
+image: "/uploads/success-lk.jpeg"
 testimonial:
   logo: "/uploads/success-lkb-logo.svg"
   author:
-    image: "/uploads/success-lk.png"
+    image: "/uploads/success-lk.jpeg"
   action: Read The Full Story >
   title: Success Story
   small-testimonial: LK Bennett improved first to second purchase rate by 25% through

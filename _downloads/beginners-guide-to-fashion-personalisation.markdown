@@ -4,7 +4,7 @@ date: 2018-09-25 13:40:00 Z
 published: false
 position: 5
 resource: Guides
-image: "/uploads/image%20(13).png"
+image: "/uploads/image_(13).jpeg"
 download:
   title: Download Your Guide to Fashion Personalisation
   button: Download Free Whitepaper >

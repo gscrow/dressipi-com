@@ -8,7 +8,7 @@ tags:
 - outfit algorithms
 - personalised outfits technology
 - ai outfit
-image: "/uploads/OufitBanner.png"
+image: "/uploads/OufitBanner.jpeg"
 author: Natalie Theo
 description: Style Director, Natalie Theo discusses the importance of having both
   fashion stylists and AI when scaling a brand's creativity and creating truly personalised

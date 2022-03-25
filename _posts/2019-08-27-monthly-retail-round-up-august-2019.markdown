@@ -10,7 +10,7 @@ tags:
 - fashion pact
 - asos
 - ar effects
-image: "/uploads/August%2019.png"
+image: "/uploads/August_19.jpeg"
 author: Georgina Fisher
 description: With lots of news to keep track of, Dressipi brings you this month's
   best stories from the world of retail and its supporting industries.
