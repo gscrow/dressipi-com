@@ -12,7 +12,7 @@ tags:
 - click through rate
 - open rate
 - revenue per email sent
-image: "/uploads/PPE%20Banner%20New-632f0d.png"
+image: "/uploads/PPE_Banner_New-632f0d.jpeg"
 author: Georgina Fisher
 description: Enticing the customer to move up the purchase ladder through outfit recommendations
   based on what you know the customer has already purchased from the retailer is a
@@ -28,7 +28,7 @@ This is exactly the type of email I’d like to receive.
 <br>
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/PPE1New.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/PPE1New.jpeg"/></p>
 <br>
 Whilst creating an amazing experience for the customer, it also increases lifetime value (LTV) by prompting another purchase. LTV is an often neglected metric in the retail industry but an absolutely necessary one for retailers to have as one of their key KPI’s if they are to be transformational and leaders in the space.
 
@@ -62,7 +62,7 @@ These emails can also be generated for in-store purchases with recommendations i
 Enticing the customer to move up the purchase ladder through outfit recommendations based on what we know the customer has already purchased from the retailer is a great way to increase retention and lifetime value. 
 <br>
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/PPE3.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/PPE3.jpeg"/></p>
 <br>
 ### The Results: No Excuse Not to Test
 

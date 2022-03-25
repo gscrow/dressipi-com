@@ -7,7 +7,7 @@ categories:
 tags:
 - reduce returns
 - return rates
-image: "/uploads/Returns2022_Banner.png"
+image: "/uploads/Returns2022_Banner.jpeg"
 author: Sarah McVittie
 description: The last 2 years of lockdowns has had a huge impact on the fashion retail
   industry but it is beginning to steady. Read our analysis on what this means for

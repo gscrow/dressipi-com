@@ -22,7 +22,7 @@ tags:
 - beast from the east
 - KPMG
 - Farfetch
-image: "/uploads/image%20(8).png"
+image: "/uploads/image_(8).jpeg"
 author: Georgina Fisher
 description: With lots of news to keep track of, Dressipi brings you this month's
   best stories from the world of retail and its supporting industries.

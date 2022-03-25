@@ -37,7 +37,7 @@ sections:
     subtitle: Instant personal styling by taking every visitor’s preferences into
       account
     body: 
-    image: "/uploads/Personalised%20Outfit-c8fbc7.png"
+    image: "/uploads/Personalised_Outfit-c8fbc7.jpeg"
   - title: Deliver 5% incremental revenue by going beyond what the model wears
     type: counter
     number-left: 5

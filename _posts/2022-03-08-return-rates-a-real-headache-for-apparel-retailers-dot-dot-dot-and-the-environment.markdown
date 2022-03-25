@@ -2,7 +2,7 @@
 title: 'Return Rates: A Real Headache for Apparel Retailers… and the Environment'
 date: 2022-03-08 11:07:00 Z
 published: false
-image: "/uploads/Returns2022_Banner.png"
+image: "/uploads/Returns2022_Banner.jpeg"
 author: Sarah McVittie
 ---
 
