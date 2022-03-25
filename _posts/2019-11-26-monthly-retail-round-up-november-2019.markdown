@@ -10,7 +10,7 @@ tags:
 - Monki
 - social shopping
 - black friday
-image: "/uploads/Nov19%20RoundUp.png"
+image: "/uploads/Nov19_RoundUp.jpeg"
 author: Georgina Fisher
 description: With lots of news to keep track of, Dressipi brings you this month's
   best stories from the world of retail and its supporting industries.

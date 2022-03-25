@@ -64,7 +64,7 @@ sections:
   - name: Elisenda Torras
     title: Style Team Lead
     linkedin: https://www.linkedin.com/in/elisenda-torras/
-    image: "/uploads/Elisenda%20Torras-b16c1a.png"
+    image: "/uploads/Elisenda_Torras-b16c1a.jpeg"
   - name: Georgina Fisher
     title: Marketing Manager
     linkedin: https://www.linkedin.com/in/georgina-fisher-408689151/
@@ -92,7 +92,7 @@ sections:
   - name: Rachael McAlister
     title: Data Scientist
     linkedin: https://www.linkedin.com/in/rachael-mcalister-1a6978a3/
-    image: "/uploads/Rachael%20McAlister_Data%20Scientist.png"
+    image: "/uploads/Rachael_McAlister_Data_Scientist.jpeg"
   - name: Nicole Richardson
     title: Data Scientist
     linkedin: https://www.linkedin.com/in/nicole-n-richardson/
@@ -128,7 +128,7 @@ sections:
   - name: Geoff Wilkinson
     title: Data Engineer
     linkedin: https://www.linkedin.com/in/geoff-wilkinson-60703618/
-    image: "/uploads/geoff-wilkinson.png"
+    image: "/uploads/geoff-wilkinson.jpeg"
   - name: James Tuck
     title: Data Analyst
     linkedin: https://www.linkedin.com/in/james-tuck-28555172/

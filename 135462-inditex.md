@@ -51,7 +51,7 @@ featured_articles:
       ... y para el medio ambiente.'
     cta_text: LEER MÁS >
     cta_link: https://dressipi.com/blog/return-rates-a-real-headache-for-fashion-retailers-dot-dot-dot-and-the-environment/
-    image: "/uploads/Returns%202022%20Banner.png"
+    image: "/uploads/Returns_2022_Banner.jpeg"
 featured_content:
   title: Contenido recomendado
   description: Hemos escogido este contenido especialmente para Inditex, creemos que

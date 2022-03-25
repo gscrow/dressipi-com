@@ -14,7 +14,7 @@ tags:
 - Inditex
 - Kurt Geiger
 - LVMH
-image: "/uploads/march-banner-pic.png"
+image: "/uploads/march-banner-pic.jpeg"
 author: Georgina Fisher
 description: With lots of news to keep track of, Dressipi brings you this month's
   best stories from the world of retail and its supporting industries.

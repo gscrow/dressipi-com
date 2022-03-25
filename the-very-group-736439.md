@@ -71,7 +71,7 @@ featured_content:
     cta_link: "/downloads/gated-value-of-data/"
   - section: CASE STUDY
     logo: "/uploads/logo__lk-bennett.png"
-    image: "/uploads/LK%20Bennett%20Success%20Story.png"
+    image: "/uploads/LK_Bennett_Success_Story.jpeg"
     title: LK Bennett improved first to second purchase rate by 25% through data insight
     cta_text: READ THE FULL STORY >
     cta_link: "/downloads/success-story-lk-bennett/"

@@ -15,7 +15,7 @@ tags:
 - retail innovation
 - one to one personalisation
 - true personalisation
-image: "/uploads/Screen%20Shot%202018-04-19%20at%2015.28.31.png"
+image: "/uploads/Screen_Shot_2018-04-19_at_15.28.31.jpeg"
 author: Nick Landia
 description: Nick Landia, Dressipi's Chief Data Scientist explores the challenges
   of building intelligent and effective fashion recommendation systems to create highly
