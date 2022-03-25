@@ -22,7 +22,7 @@ sections:
       occasions
     body: 
     video:
-      src: "/uploads/LinkedIn%20Ad%20Specific%20John%20Lewis.mp4"
+      src: https://dressipi.com/media/LinkedIn_Ad_Specific_John_Lewis.mp4
       w: 100%
       h: auto
       poster: "/uploads/LinkedIn%20Ad%20Specific%20Johh%20Lewis%20Outfit_Thumbnail.jpg"
