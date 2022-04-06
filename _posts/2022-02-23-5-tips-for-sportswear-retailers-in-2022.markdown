@@ -9,7 +9,7 @@ tags:
 - sportswear
 - personalization
 - sportswear recommendations
-image: "/uploads/SportswearTipsBanner-1.png"
+image: "/uploads/SportswearTipsBanner-1.jpeg"
 author: Georgina Fisher
 description: The shift to athleisure as people spent more time at home during the
   pandemic along with the lockdown exercise craze meant sportswear retailers have
