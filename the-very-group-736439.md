@@ -26,7 +26,7 @@ featured_articles:
       quantity and quality customer insight.\n"
     article_title: 'Fashion-specific product attributes: The foundation for digital
       transformation'
-    cta_text: READ THE BLOG >
+    cta_text: LEARN MORE >
     cta_link: https://drive.google.com/file/d/1qtmqasf-3kcRuyG1IZ289hO4OR6WE5gN/view
     image: "/uploads/Very_Attributes.JPG"
   - title: Increase conversion on garments by offering credible fashion recommendations
@@ -37,7 +37,7 @@ featured_articles:
       conversion, lower returns, and better, more loyal customers.
     article_title: How John Lewis achieved a significant increase in revenue with
       outfit recommendations
-    cta_text: READ THE FULL STORY >
+    cta_text: LEARN MORE >
     cta_link: https://dressipi.com/downloads/success-story-john-lewis/
     image: "/uploads/very-fa-jl.png"
   - title: Turn a one-time purchase into a loyal Very fashion customer with post-purchase
@@ -49,7 +49,7 @@ featured_articles:
 
 '
     article_title: Belstaff increased email revenue by 69% through personalised recommendations
-    cta_text: READ MORE >
+    cta_text: LEARN MORE >
     cta_link: https://dressipi.com/downloads/success-story-belstaff/
     image: "/uploads/very-fa-bellstaff.png"
 featured_content:
@@ -57,7 +57,7 @@ featured_content:
   description: We’ve hand-picked the following content that we think will be relevant
     for The Very Group
   content:
-  - section: WHITEPAPER
+  - section: GUIDE
     logo: "/uploads/logo.svg"
     image: "/uploads/very-feat-1-fc.jpg"
     title: Understanding Your Unique Return Rate Proﬁle

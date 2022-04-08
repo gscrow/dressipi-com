@@ -12,6 +12,9 @@ hero:
 video: https://dressipi.com/media/nordstrom_lp.mp4
 video_mask: "/uploads/NordstromLPVideoMask.jpg"
 exclude-hero: true
+cta_top:
+- label: Find out more
+  link: https://meetings.hubspot.com/lara-gonzalez/dressipi-intro
 featured_articles:
   title: Be the best fashion retailer in a digitally-connected world
   content:
@@ -68,7 +71,7 @@ featured_content:
     title: 'Return Rates: A Real Headache for Fashion Retailers… and the Environment'
     cta_text: READ THE BLOG >
     cta_link: https://dressipi.com/blog/return-rates-a-real-headache-for-fashion-retailers-dot-dot-dot-and-the-environment/
-  - section: WHITEPAPER
+  - section: GUIDE
     logo: "/uploads/logo.svg"
     image: "/uploads/Sort%20Order-aadb77.jpg"
     title: Your sort order is your secret sauce to success

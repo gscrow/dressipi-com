@@ -53,7 +53,7 @@ featured_content:
   description: We’ve hand-picked the following content that we think will be relevant
     for JD
   content:
-  - section: WHITEPAPER
+  - section: GUIDE
     logo: "/uploads/logo.svg"
     image: "/uploads/Sort%20Order-aadb77.jpg"
     title: Your sort order is your secret sauce to revenue and margin growth
@@ -109,6 +109,9 @@ cta_title: |-
   more apparel-specific with Dressipi
 cta_link: "/company/contact/"
 cta_label: CONTACT US >
+cta_top:
+- label: Find out more
+  link: https://meetings.hubspot.com/sean-norris/general-meeting-booking-link-
 layout: default
 ---
 

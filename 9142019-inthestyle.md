@@ -64,13 +64,13 @@ featured_content:
     logo: "/uploads/logo.svg"
     image: "/uploads/Sort%20Order-aadb77.jpg"
     title: Your sort order is your secret sauce to revenue and margin growth
-    cta_text: DOWNLOAD THE WEBINAR >
+    cta_text: GET THE GUIDE >
     cta_link: dressipi.com/downloads/your-sort-order-is-your-secret-sauce-to-success/
   - section: CASE STUDY
     logo: "/uploads/Belstaff%20Logo.png"
     image: "/uploads/Belstaff_success_story_hero_2-bb4fa9.jpg"
     title: Belstaff increased email revenue by 69% through personalised recommendations
-    cta_text: LEARN MORE >
+    cta_text: READ THE FULL STORY >
     cta_link: https://dressipi.com/downloads/success-story-belstaff/
 section_about:
   title: About Dressipi
@@ -91,8 +91,8 @@ section_about:
   contact_title: "Make every experience more relevant, \n<br>\nmore apparel-specific
     with Dressipi"
   contact_label: Contact Us
-quotes_cta_title: Explore our Case Studies
-quotes_cta_link: https://dressipi.com/clients/success-stories/
+quotes_cta_title: SUCCESS STORIES >
+quotes_cta_link: https://dressipi.com/customers/
 quotes:
 - author: Digital Insight Analyst, LK Bennett
   quote: "“Dressipi’s Data Insight Hub provides the team with actionable insights
@@ -110,6 +110,9 @@ cta_title: "Make every experience more relevant, \n<br>\nmore apparel-specific w
   Dressipi"
 cta_link: "/company/contact/"
 cta_label: Contact Us
+cta_top:
+- label: Find out more
+  link: https://meetings.hubspot.com/lara-gonzalez/dressipi-intro
 layout: default
 ---
 

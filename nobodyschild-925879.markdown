@@ -23,7 +23,7 @@ featured_articles:
       completely personalised and always on-brand.
     article_title: How John Lewis achieved a significant increase in revenue with
       outfit recommendations
-    cta_text: READ THE FULL STORY >
+    cta_text: LEARN MORE >
     cta_link: https://dressipi.com/downloads/success-story-john-lewis/
     image: "/uploads/JL_rectangle.png"
   - title: Turn a one-time purchase into a loyal Nobody’s Child customer with post-purchase
@@ -33,7 +33,7 @@ featured_articles:
       to show versatility, based on preferences and activity, and can include items
       they already own).
     article_title: Belstaff increased email revenue by 69% through personalised recommendations
-    cta_text: READ THE FULL STORY >
+    cta_text: LEARN MORE >
     cta_link: https://dressipi.com/downloads/success-story-belstaff/
     image: "/uploads/belstaff_rectangle.png"
   - title: 'Help all visitors find their best products faster by personalising the
@@ -44,7 +44,7 @@ featured_articles:
       size - a key cornerstone of personalisation.
     article_title: A Luxury Retailer achieved 25% returns reduction and 11% conversion
       increase
-    cta_text: READ THE FULL STORY >
+    cta_text: LEARN MORE >
     cta_link: https://dressipi.com/downloads/success-story-luxury-retailer/
     image: "/uploads/Luxury_rectangle.jpg"
   postscriptum:
@@ -61,7 +61,7 @@ featured_content:
     title: River Island increased their revenue by 6% in 12 months
     cta_text: READ THE FULL STORY >
     cta_link: https://dressipi.com/downloads/success-story-river-island/
-  - section: WHITEPAPER
+  - section: GUIDE
     logo: "/uploads/logo.svg"
     image: "/uploads/very-feat-1-fc.jpg"
     title: Understanding Your Unique Return Rate Profile
@@ -91,8 +91,8 @@ section_about:
   - James Tuck
   contact_title: Make every experience more relevant, more fashion-specific with Dressipi
   contact_label: Contact Us
-quotes_cta_title: Explore our Case Studies >
-quotes_cta_link: https://dressipi.com/clients/success-stories/
+quotes_cta_title: SUCCESS STORIES >
+quotes_cta_link: https://dressipi.com/customers/
 quotes:
 - author: Digital Insight Analyst, LK Bennett
   quote: "“Dressipi’s Data Insight Hub provides the team with actionable insights
