@@ -64,7 +64,7 @@ sections:
   - name: Elisenda Torras
     title: Style Team Lead
     linkedin: https://www.linkedin.com/in/elisenda-torras/
-    image: "/uploads/Elisenda_Torras-b16c1a.jpeg"
+    image: "/uploads/Elisenda_Torras-b16c1a.jpg"
   - name: Georgina Fisher
     title: Marketing Manager
     linkedin: https://www.linkedin.com/in/georgina-fisher-408689151/
@@ -72,7 +72,7 @@ sections:
   - name: Gabriel Crow
     title: Marketing Associate
     linkedin: https://www.linkedin.com/in/gabriel-crow-a0799718b/
-    image: "/uploads/gabriel-crow.jpeg"
+    image: "/uploads/gabriel-crow.jpg"
   - name: Sean Norris
     title: E-commerce Consultant, Apparel
     linkedin: https://www.linkedin.com/in/sean-norris-2b22ba170/
@@ -92,7 +92,7 @@ sections:
   - name: Rachael McAlister
     title: Data Scientist
     linkedin: https://www.linkedin.com/in/rachael-mcalister-1a6978a3/
-    image: "/uploads/Rachael_McAlister_Data_Scientist.jpeg"
+    image: "/uploads/Rachael_McAlister_Data_Scientist.jpg"
   - name: Nicole Richardson
     title: Data Scientist
     linkedin: https://www.linkedin.com/in/nicole-n-richardson/
@@ -112,7 +112,7 @@ sections:
   - name: Tomasz Pajor
     title: Software Engineer
     linkedin: https://www.linkedin.com/in/tomaszpajor/
-    image: "/uploads/tomasz_pajor-c8aa9b.jpeg"
+    image: "/uploads/tomasz_pajor-c8aa9b.jpg"
   - name: Hassan Iskaf
     title: Front End Engineer
     linkedin: https://uk.linkedin.com/in/hassan-iskaf
@@ -128,7 +128,7 @@ sections:
   - name: Geoff Wilkinson
     title: Data Engineer
     linkedin: https://www.linkedin.com/in/geoff-wilkinson-60703618/
-    image: "/uploads/geoff-wilkinson.jpeg"
+    image: "/uploads/geoff-wilkinson.jpg"
   - name: James Tuck
     title: Data Analyst
     linkedin: https://www.linkedin.com/in/james-tuck-28555172/
