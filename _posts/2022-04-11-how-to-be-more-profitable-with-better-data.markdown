@@ -2,7 +2,7 @@
 title: How to Be More Profitable with Better Data
 date: 2022-04-11 14:10:00 Z
 published: false
-image: "/uploads/ShoptalkBlog_Banner.JPG"
+image: "/uploads/ShoptalkBlog_Banner2.png"
 author: Sarah McVittie
 ---
 
