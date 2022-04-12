@@ -1,6 +1,6 @@
 ---
 title: How to Be More Profitable with Better Data
-date: 2022-04-11 14:10:00 Z
+date: 2022-04-12 13:10:00 Z
 categories:
 - data
 - tech
@@ -16,6 +16,9 @@ tags:
 - product discovery
 image: "/uploads/ShoptalkBlog_Banner2.png"
 author: Sarah McVittie
+description: 'Apparel retailers are facing another period of uncertainty so protecting
+  profits will be critical. Discover how to drive profitability with better data used
+  in the right way. '
 ---
 
 ### Apparel retailers are facing another period of uncertainty so protecting profits will be critical. Fixing the quality and depth of data at the top of the funnel will deliver outsized impacts on the profitability for retailers. 
@@ -128,3 +131,5 @@ Our AB tests have proven this, consistently outperforming all other providers. D
 <p style="padding-left: 50px;"> 6) Take the time to state the problem and then solve the problem that actually exists </p>
 
 In short, there is plenty a retailer can be doing today to protect their margins for the coming 12-24 months but it is essential they get started right away. This is also profit protection that can be delivered relatively easily without having to compromise on quality or ethical standards.
+
+<p style="text-align:center"><a href="/contact/" class="button button-primary">CONTACT US</a></p>
