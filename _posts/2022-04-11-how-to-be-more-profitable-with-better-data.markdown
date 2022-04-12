@@ -1,7 +1,19 @@
 ---
 title: How to Be More Profitable with Better Data
 date: 2022-04-11 14:10:00 Z
-published: false
+categories:
+- data
+- tech
+tags:
+- profitability
+- Fashion Data
+- Product data
+- customer data
+- Product forecasting
+- size management efficiencies
+- returns reduction
+- how to reduce returns
+- product discovery
 image: "/uploads/ShoptalkBlog_Banner2.png"
 author: Sarah McVittie
 ---
@@ -13,7 +25,7 @@ Whether it is to make quicker business decisions, improve the customer experienc
 <p style="text-align:center"><img style="margin-left: 0px; width: 300px;" src ="/uploads/ShoptalkBlog_1.png"/></p>
 
 
-## DATA, DATA EVERYWHERE BUT SADLY NOT THE *RIGHT* DATA
+## Data, Data Everywhere But Sadly Not The *Right* Data
 
 Apparel and fashion industry experts, pundits and the brands themselves have all been extolling just how important data is to the new digital retailing age. No one disagrees; it will be what defines the winners and the losers. 
 
@@ -24,7 +36,7 @@ Let’s look at the facts. To really deliver, apparel retailers need excellent d
 **Product Data:** This is where it all starts. This is what the customer cares most about. This is why they arrive at the store or on the site in the first place. And yet, it is here, at the top of the funnel where retailers are really missing a trick. Good quality, detailed product data just does not exist. It is not valued as it should be and is typically added by junior merchandisers and buyers who do not necessarily understand the importance of data integrity (with any algorithmic retailing the old adage of rubbish-in rubbish-out is particularly pertinent). 
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 1000px;" src ="/uploads/ShoptalkBlog_2.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 1000px;" src ="/uploads/ShoptalkBlog_22.JPG"/></p>
 <br>
 
 **Customer Data:** The average customer is buying 40-50 items of clothing a year but for most retailers 70% of those customers are only buying once a year. It is only 5-10% of their customer base, where people really love the brand and are buying multiple items a year, where the retailer has lots of data on the individual customer. For the majority of customers data is sparse and limited to 1 or 2 items a year. What can you really glean from that? One of the best things you can do is learn how to understand every customer’s intent as quickly as possible and then match the supply to the demand.
@@ -35,7 +47,7 @@ Let’s look at the facts. To really deliver, apparel retailers need excellent d
 
 Once the right quality of data is in place and the true relationship between the products and the customers is understood, retailers will be able to make the right decisions quickly, improve product discovery and deliver more efficient operation processes. 
 
-## CURRENT STATE OF APPAREL RETAIL 
+## Current State of Apparel Retail
 
 Having survived COVID, one of the biggest shocks to the fashion and apparel industry, many retailers have emerged stronger and have been enjoying the rebound, posting record Q4 earnings ([Inditex](https://www.inditex.com/documents/10279/667627/Full_year_2021_Results_final.pdf/be21f962-162e-2804-6338-38cf69cbeed9), [Adidas](https://www.adidas-group.com/media/filer_public/ac/47/ac47f936-e811-4368-882c-c8d4d53be022/20220309_adidas_ag_fy2021_results_en.pdf)) as customers get back into the swing of things.
 
@@ -43,7 +55,7 @@ But, there is a sense of unease as the industry is set to face another period of
 
 Given all the uncertainty and external factors, it is impossible to predict what is likely to happen. But the next 12 months could see profits for fashion retailers squeezed by 5-6%+. This could be catastrophic for retailers already operating on low profit and relying on an undisrupted supply chain.
 
-## FACTORS IMPACTING PROFITABILITY 
+## Factors Impacting Profitability
 
 There will always be external shocks (like the current war in Ukraine or the Oil price spikes) that are completely outside of a retailer’s control. 
 
@@ -53,7 +65,7 @@ And then there are factors where retailers have complete control. In these cases
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/ShoptalkBlog_4.JPG"/></p>
 
-## HOW TO IMPROVE PROFITABILITY WITH BETTER QUALITY DATA USED  IN THE RIGHT WAY
+## How To Improve Profitability With Better Quality Data Used In The Right Way
 
 ### 1) Size Management Efficiencies: **+3% improvement in profitability**
 
@@ -95,13 +107,13 @@ Whether it is for the 20-30% of customers driving 70% of revenue or for new cust
 
 Our AB tests have proven this, consistently outperforming all other providers. Dressipi’s API’s typically deliver up to 8% sales growth within the first 12 months with the added benefit of additional profit due to higher full-priced sell-through rates on top of the lower return rates previously mentioned.
 
-## DRIVING PROFITABILITY WITH BETTER DATA 
+## Driving Profitability With Better Data
 
 <br>
 <p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/ShoptalkBlog_8.JPG"/></p>
 <br>
 
-## PRACTICAL STEPS AN APPAREL RETAILER CAN TAKE
+## Practical Steps An Apparel Retailer Can Take
 
 <p style="padding-left: 50px;"> 1) Understand the importance of data integrity </p>
 
