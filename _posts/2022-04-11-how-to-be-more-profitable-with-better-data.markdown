@@ -63,7 +63,7 @@ When considering how much of each size to stock, retailers typically consider st
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Attributes_2.JPG"/></p>
 
-Merchants are often having to make the buy within a 24-48 hour period and they simply don’t have the manpower to sift through reams and reams of data. Fortunately, using better predictive retailing models can deliver significant improvements on increasing full-priced sellthrough rates and decreasing markdowns. When you model the true demand for a product (where the optimal outcome is for all sizes to sell through at full price at the same time) you can see that 25% of markdowns could be eliminated.
+Merchants are often having to make the buy within a 24-48 hour period and they simply don’t have the manpower to sift through reams and reams of data. Fortunately, using better predictive retailing models can deliver significant improvements on increasing full-priced sell-through rates and decreasing markdowns. When you model the true demand for a product (where the optimal outcome is for all sizes to sell through at full price at the same time) you can see that 25% of markdowns could be eliminated.
 
 Retailers that Dressipi works with typically see an average of 3% improvements in their profitability. This use of data-driven retailing models will also often highlight any net “overproduction”, i.e. when retailers are effectively buying markdowns from the outset. This can be easily eliminated with the added side benefit of improving the sustainability of the retailer and reducing waste. Another genuine ESG benefit for everyone.  
 
@@ -93,7 +93,7 @@ Regardless of where a customer lands, whether it is the PDP (from social channel
 
 Whether it is for the 20-30% of customers driving 70% of revenue or for new customers, this approach means that retailers can offer each customer a journey that is unique to them but in line with the brand DNA that is so key in the fashion domain.
 
-Our AB tests have proven this, consistently outperforming all other providers. Dressipi’s API’s typically deliver up to 8% sales growth within the first 12 months with the added benefit of additional profit due to higher full-priced sell through rates on top of the lower return rates previously mentioned.
+Our AB tests have proven this, consistently outperforming all other providers. Dressipi’s API’s typically deliver up to 8% sales growth within the first 12 months with the added benefit of additional profit due to higher full-priced sell-through rates on top of the lower return rates previously mentioned.
 
 ## DRIVING PROFITABILITY WITH BETTER DATA 
 
