@@ -103,11 +103,11 @@ Our AB tests have proven this, consistently outperforming all other providers. D
 
 ## PRACTICAL STEPS AN APPAREL RETAILER CAN TAKE
 
-1. Understand the importance of data integrity
-2. Build clean, consistent data sets you can cross reference to really understand you business
-3. Build as much data on your products as you do on your customers
-4. Ensure that data is fully integrated across the business 
-5. Build infrastructure that really allows you to test and learn
-6. Take the time to state the problem and then solve the problem that actually exists
+<p style="padding-left: 50px;"> 1) Understand the importance of data integrity </p>
+2) Build clean, consistent data sets you can cross reference to really understand you business
+3) Build as much data on your products as you do on your customers
+4) Ensure that data is fully integrated across the business 
+5) Build infrastructure that really allows you to test and learn
+6) Take the time to state the problem and then solve the problem that actually exists
 
 In short, there is plenty a retailer can be doing today to protect their margins for the coming 12-24 months but it is essential they get started right away. This is also profit protection that can be delivered relatively easily without having to compromise on quality or ethical standards.
