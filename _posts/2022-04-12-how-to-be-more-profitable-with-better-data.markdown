@@ -39,7 +39,7 @@ Let’s look at the facts. To really deliver, apparel retailers need excellent d
 **Product Data:** This is where it all starts. This is what the customer cares most about. This is why they arrive at the store or on the site in the first place. And yet, it is here, at the top of the funnel where retailers are really missing a trick. Good quality, detailed product data just does not exist. It is not valued as it should be and is typically added by junior merchandisers and buyers who do not necessarily understand the importance of data integrity (with any algorithmic retailing the old adage of rubbish-in rubbish-out is particularly pertinent). 
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 1000px;" src ="/uploads/ShoptalkBlog_22.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 1000px;" src ="/uploads/ShoptalkBlog_22.jpg"/></p>
 <br>
 
 **Customer Data:** The average customer is buying 40-50 items of clothing a year but for most retailers 70% of those customers are only buying once a year. It is only 5-10% of their customer base, where people really love the brand and are buying multiple items a year, where the retailer has lots of data on the individual customer. For the majority of customers data is sparse and limited to 1 or 2 items a year. What can you really glean from that? One of the best things you can do is learn how to understand every customer’s intent as quickly as possible and then match the supply to the demand.
