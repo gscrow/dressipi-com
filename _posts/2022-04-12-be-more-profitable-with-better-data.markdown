@@ -1,5 +1,5 @@
 ---
-title: How to Be More Profitable with Better Data
+title: How Retailers Can Be More Profitable with Better Data
 date: 2022-04-12 13:10:00 Z
 categories:
 - data
