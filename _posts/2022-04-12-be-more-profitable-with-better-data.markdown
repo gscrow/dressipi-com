@@ -45,7 +45,7 @@ Let’s look at the facts. To really deliver, apparel retailers need excellent d
 **Customer Data:** The average customer is buying 40-50 items of clothing a year but for most retailers 70% of those customers are only buying once a year. It is only 5-10% of their customer base, where people really love the brand and are buying multiple items a year, where the retailer has lots of data on the individual customer. For the majority of customers data is sparse and limited to 1 or 2 items a year. What can you really glean from that? One of the best things you can do is learn how to understand every customer’s intent as quickly as possible and then match the supply to the demand.
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 550px;" src ="/uploads/ShoptalkBlog_3.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 550px;" src ="/uploads/ShoptalkBlog_32.JPG"/></p>
 <br>
 
 Once the right quality of data is in place and the true relationship between the products and the customers is understood, retailers will be able to make the right decisions quickly, improve product discovery and deliver more efficient operation processes. 
