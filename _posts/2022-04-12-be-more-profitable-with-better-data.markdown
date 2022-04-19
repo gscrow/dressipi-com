@@ -14,7 +14,7 @@ tags:
 - returns reduction
 - how to reduce returns
 - product discovery
-image: "/uploads/ShoptalkBlog_Banner2.jpg"
+image: "/uploads/ShoptalkBlog_Banner3.jpg"
 author: Sarah McVittie
 description: 'Apparel retailers are facing another period of uncertainty so protecting
   profits will be critical. Discover how to drive profitability with better data used
