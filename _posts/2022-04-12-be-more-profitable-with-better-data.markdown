@@ -120,7 +120,7 @@ Our AB tests have proven this, consistently outperforming all other providers. D
 
 <p style="padding-left: 50px;"> 1) Understand the importance of data integrity </p>
 
-<p style="padding-left: 50px;"> 2) Build clean, consistent data sets you can cross reference to really understand you business </p>
+<p style="padding-left: 50px;"> 2) Build clean, consistent data sets you can cross reference to really understand your business </p>
 
 <p style="padding-left: 50px;"> 3) Build as much data on your products as you do on your customers </p>
 
