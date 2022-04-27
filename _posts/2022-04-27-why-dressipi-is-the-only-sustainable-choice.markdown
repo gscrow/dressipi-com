@@ -24,7 +24,7 @@ This is more than all international flights and maritime shipping combined ([Eur
 
 Many retailers have started to address the huge impact they have on the planet through various supply chain initiatives. Simultaneously, customers are changing their behavior with preferences for sustainably produced or second-hand garments.
 
-However, change is not happening fast enough. The future depends on retailers changing the entire way we consume fashion, by both buying, and selling, better. This can happen by driving both back end efficiencies, and front-end experiences.
+However, change is not happening fast enough. The future depends on retailers changing the entire way we consume fashion, by both buying and selling better. This can happen by driving both back-end efficiencies, and front-end experiences.
 
 This is where Dressipi can help. We enable fashion retailers to grow sustainably - through unique fashion data and prediction models. 
 
