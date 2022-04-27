@@ -1,7 +1,21 @@
 ---
 title: Why Dressipi is the Only Sustainable Choice
 date: 2022-04-27 15:00:00 Z
+categories:
+- retail
+- data
+- Tech
+tags:
+- retail sustainability
+- sustainability
+- sustainable
+- sustainable fashion
+- ai product forecasting
+- reduce returns
+image: "/uploads/SustainabilityBanner-648f0a.jpg"
 author: Georgina Fisher
+description: 'The future depends on retailers changing the entire way we consume fashion,
+  by both buying, and selling, better. Check out what Dressipi can do to help. '
 ---
 
 ### The fashion industry accounts for 10% of global greenhouse gas emissions. 
@@ -23,3 +37,33 @@ Dressipi helps retailers optimize product assortments & size ratios on a garment
 <p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/SustainabilityBlog1.JPG"/></p>
 
 When considering how much of each size to stock, retailers consider style and length. However, when analyzing a deeper, better set of data retailers would see that neckline, embellishment and even color play a major part. This cream pair of leather trousers had 8% more sales in sizes 6 & 8 than the equivalent pair in black.
+
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/Attributes_2.JPG"/></p>
+
+Good attribution is the key to this. By having detailed data on products, retailers can start to see significant performance benefits in this area.
+
+The use of data-driven retailing models highlights when retailers are buying markdowns from the outset. These can be easily eliminated with the added benefit of improving the sustainability of the retailer and reducing waste. Another genuine ESG benefit for everyone.
+
+It is an impossible scenario to have zero waste: but with Dressipi, retailers can make a significant change. 
+
+## Sustainability Embedded Into APIs with Return Propensities 
+
+In our most recent [returns analysis](https://dressipi.com/blog/return-rates-a-real-headache-for-fashion-retailers-dot-dot-dot-and-the-environment/), we discovered there will be an additional 121m returns in 2022 compared to 2019. According to [Optoro](https://www.optoro.com/), these returns will be responsible for an extra 400k metric tons of CO2 (equal to 1.6m hours worth of flight emissions!) as well as waste in landfill for those products that cannot be sold.
+
+Dressipi’s core focuses on helping fashion retailers increase their revenue and reduce their return rates. Returns are one of the key inputs into our algorithms and we have spent time understanding what is driving return rates for retailers. 
+
+By building the return rate propensities into our algorithms we have been able to reduce the return rates for our partners by 10-15%. We are the only recommendation provider that does this (for every customer, every garment and every feature).
+
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/SustainabilityBlog3.JPG"/></p>
+
+This minimizes the reverse logistics hassle and has a genuine ESG benefit due to fewer emissions and less waste.
+
+## Conclusion
+
+To genuinely affect real change in the fashion industry, you cannot only impact front or back-end operations. Retailers need a symbiotic approach, improving both back end efficiencies and front-end experiences. 
+
+Working with Dressipi, fashion retailers have a real potential to propel lasting change. We transform how retailers engage their customers through recommendations and personalized outfits. Data collected through these algorithms allows Dressipi to create more efficient supply chains.
+
+Get in touch if you'd like to get started in achieving your sustainability goals.
+
+<p style="text-align:center"><a href="/contact/" class="button button-primary">CONTACT US</a></p>
