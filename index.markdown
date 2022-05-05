@@ -76,6 +76,7 @@ sections:
   - Country Road Group
   - Seasalt Cornwall
   - Jigsaw
+  - Hush
   downloads:
   - Personalisation Drives Profitable Growth for River Island
   - Belstaff increased email revenue by 69% through personalised recommendations

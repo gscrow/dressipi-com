@@ -35,6 +35,7 @@ sections:
   - Country Road Group
   - Seasalt Cornwall
   - Jigsaw
+  - Hush
 - title: More Success Stories
   handle: success-stories
   downloads:
