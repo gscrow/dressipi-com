@@ -19,8 +19,6 @@ description: 'The pandemic has had a huge impact on the fashion retail industry.
 download: Understanding Your Unique Return Rate Profile
 ---
 
-
-
 ### But, the good news is we can see what’s coming. 
 
 ## Introduction
