@@ -1,4 +1,7 @@
 User-agent: *
+Disallow: /thanks/
+Disallow: /thanks-for-registering/
+Disallow: /shoptalk-contact/
 Disallow: /*.pdf
 Disallow: /404/
 Disallow: /135462-inditex/
