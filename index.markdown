@@ -40,7 +40,7 @@ sections:
     image: "/uploads/banner-product-discovery.png"
     hres-image: "/uploads/banner-product-discovery.png"
     link: Learn More >
-    url: "/solutions/product-discovery"
+    url: "/solutions/product-discovery/"
   - title: Create Customer-Centred, Fashion Experiences
     subtitle: PRODUCT EXPERIENCE
     color: white
@@ -49,7 +49,7 @@ sections:
     image: "/uploads/banner-product-experience.png"
     hres-image: "/uploads/banner-product-experience.png"
     link: Learn More >
-    url: "/solutions/product-experience"
+    url: "/solutions/product-experience/"
   - title: Optimise Future Product Assortments & Size Ratios
     subtitle: PRODUCT FORECASTING
     body: Ensure you have the right products to meet demand, significantly reducing
@@ -57,7 +57,7 @@ sections:
     image: "/uploads/banner-product-forecasting.png"
     hres-image: "/uploads/banner-product-forecasting.png"
     link: Learn More >
-    url: "/solutions/product-forecasting"
+    url: "/solutions/product-forecasting/"
 - title: Delivering Relevancy at Scale, Requires Fashion-Specific AI at Scale
   subtitle: Our customers are delivering unprecedented profitable revenue growth,
     cost savings, improved customer experiences and loyalty across their business.
