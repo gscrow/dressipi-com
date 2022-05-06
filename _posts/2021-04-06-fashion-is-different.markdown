@@ -38,4 +38,4 @@ Technology allows us in the fashion industry to scale our creativity and output.
 
 Technology when used well is there to enhance the creativity of the retail industry. It’s not about replacing it or simply reproducing it. It acts like a wonderful springboard. In building our fashion-specific AI our fashion domain expertise serves as a springboard. Fashion and technology teams are solving the same problems; working towards providing the same solutions so that retailers can better serve their customers. Although we’re coming at it from different angles, for both it’s about patterns, pattern building, pattern recognition, and staying curious. I was happy to be curious about florals, but you still won’t convince me to watch a thriller.
 
-<p style="text-align:center"><a href="/contact/" class="button button-primary">FREE CONSULTATION</a></p>
+<p style="text-align:center"><a href="/company/contact/" class="button button-primary">FREE CONSULTATION</a></p>

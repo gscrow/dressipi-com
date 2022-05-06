@@ -85,4 +85,4 @@ To ensure a profitable relationship with these customers, new customer promotion
 
 3) [Post-Purchase Emails](https://dressipi.com/blog/post-purchase-emails-helping-customers-make-the-most-of-their-purchases/): Turn those less valuable Black Friday visitors into loyal customers by making them come back and buy again. Increase that 1st to 2nd purchase % by sending those customers relevant communications, with the right product at the right time.
 
-<p style="text-align:center"><a href="/contact/" class="button button-primary">FREE CONSULTATION</a></p>
+<p style="text-align:center"><a href="/company/contact/" class="button button-primary">FREE CONSULTATION</a></p>

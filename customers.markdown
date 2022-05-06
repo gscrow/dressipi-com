@@ -9,7 +9,7 @@ header:
     fashion-focused approach to personalisation and better data
   button:
     copy: SCHEDULE A FREE CONSULTATION >
-    url: "/contact"
+    url: "/company/contact/"
     style: primary
   class: customer-banner
   hero-image: false
@@ -57,7 +57,7 @@ sections:
     image: "/uploads/icon-results.svg"
     action:
       copy: SCHEDULE A FREE CONSULTATION >
-      url: "/contact"
+      url: "/company/contact/"
 layout: customers
 ---
 

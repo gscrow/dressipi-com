@@ -38,4 +38,4 @@ And data shows that taking into account that there are more sustainable products
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/ConsumerSustainability.JPG"/></p>
 <br>
-<p style="text-align:center"><a href="/contact/" class="button button-primary">FREE CONSULTATION</a></p>
+<p style="text-align:center"><a href="/company/contact/" class="button button-primary">FREE CONSULTATION</a></p>

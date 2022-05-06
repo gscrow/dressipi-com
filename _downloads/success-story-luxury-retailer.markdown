@@ -68,7 +68,7 @@ sections:
   handle: contact
   button:
     copy: Schedule A Free Consultation >
-    url: "/contact"
+    url: "/company/contact/"
 testimonial:
   title: Success Story
   small-testimonial: A Luxury Retailer achieved 25% returns reduction and 11% conversion

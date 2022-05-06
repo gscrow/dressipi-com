@@ -85,7 +85,7 @@ sections:
     bg: white
     button:
       copy: Schedule A Free Consultation >
-      url: "/contact"
+      url: "/company/contact/"
 position-list: 1
 layout: case-study
 ---

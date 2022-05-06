@@ -48,7 +48,7 @@ This is different from other domains like books, movies and music where all that
 
 I might be personally very comfortable in my tracksuit that is loose and practical but when I go outside into a public space I like to wear jeans and a well-fitting top. We choose our clothes taking into consideration who will see us in them. With fashion everyone has to blend personal taste and comfort with public perception. Lifestyle and body changes affect what clothes we deem appropriate to wear in what environment. People ask their friend’s opinion  about clothes they are about to buy to get a reading on how they come across. Stylists are people who have an especially good eye for this. From a recommender perspective there is an opportunity to not only cater to a user’s personal taste, like we would do with movies, but also to play the role of the public eye and recommend items the same way a stylist would do, advising users to follow trends or steer clear because it doesn’t work for their body shape even though it’s very popular at the moment.
 
-<p style="text-align:center"><a href="/contact/" class="button button-primary">FREE CONSULTATION</a></p>
+<p style="text-align:center"><a href="/company/contact/" class="button button-primary">FREE CONSULTATION</a></p>
 
 ## Change in Taste vs Discovery
 
@@ -73,4 +73,4 @@ In other domains we deal with the problem of discovery where we don’t have use
 
 While traditional recommender systems rely on user behaviour being fairly consistent we have to be aware of a much more fluid user preference in the fashion domain and look at additional dimensions such as trends that drive preference changes for some users but not others.
 
-<p style="text-align:center"><a href="/contact/" class="button button-primary">FREE CONSULTATION</a></p>
+<p style="text-align:center"><a href="/company/contact/" class="button button-primary">FREE CONSULTATION</a></p>

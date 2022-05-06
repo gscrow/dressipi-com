@@ -58,4 +58,4 @@ As retailers up their digital offering, Dressipi’s ability to support their cl
 
 **If you’d like to talk to us about how we can help your emails be more relevant to every customer then please get in touch.**
 
-<p style="text-align:center"><a href="/contact/" class="button button-primary">Contact Us</a></p>
+<p style="text-align:center"><a href="/company/contact/" class="button button-primary">Contact Us</a></p>

@@ -27,4 +27,4 @@ With people turning to garments that were comfortable and multifunctional, categ
 <br>
 <p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Comfort%20Clothing.JPG"/></p>
 <br>
-<p style="text-align:center"><a href="/contact/" class="button button-primary">FREE CONSULTATION</a></p>
+<p style="text-align:center"><a href="/company/contact/" class="button button-primary">FREE CONSULTATION</a></p>

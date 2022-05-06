@@ -25,7 +25,7 @@ sections:
   roi-section: true
   subsections:
   - link: Contact Sales >
-    url: "/contact-sales"
+    url: "/company/contact/"
   - link: Case Studies >
     url: "/customers/"
 - title: 

@@ -111,7 +111,7 @@ sections:
   handle: contact
   button:
     copy: FREE CONSULTATION >
-    url: "/contact"
+    url: "/company/contact/"
 testimonial:
   title: Success Story
   small-testimonial: River Island increased their revenue by 6% in 12 months

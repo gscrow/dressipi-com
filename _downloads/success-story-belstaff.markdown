@@ -78,7 +78,7 @@ sections:
   handle: contact
   button:
     copy: FREE CONSULTATION >
-    url: "/contact"
+    url: "/company/contact/"
 position-list: 3
 layout: case-study
 ---

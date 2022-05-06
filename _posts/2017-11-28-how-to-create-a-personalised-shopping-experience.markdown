@@ -61,6 +61,6 @@ Most importantly, no matter how confident or not a customer may be, Personalisat
 
 > If you are at the beginning of your Personalisation journey and are interested in learning Five Things Every Retailer Should Know About Personalisation, [download our recent whitepaper](https://dressipi.com/downloads/five-things-every-retailer-should-know-about-personalisation-whitepaper/) by Dressipi’s co-founder Donna North.
 
-> Equally, if you are interested in a demo to see how we could provide our Personalisation solutions for you and reduce return rates by 5% percentage points, [Schedule A Free Consultation](https://dressipi.com/contact/) today.
+> Equally, if you are interested in a demo to see how we could provide our Personalisation solutions for you and reduce return rates by 5% percentage points, [Schedule A Free Consultation](https://dressipi.com/company/contact/) today.
 
 Header Photo by Ewan Robertson on Unsplash

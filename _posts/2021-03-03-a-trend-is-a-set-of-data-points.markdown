@@ -49,4 +49,4 @@ It’s a fun and interesting part of the year each season when we start to think
 
 > Images from isabelmarant.com; chanel.com; miumiu.com
 
-<p style="text-align:center"><a href="/contact/" class="button button-primary">FREE CONSULTATION</a></p>
+<p style="text-align:center"><a href="/company/contact/" class="button button-primary">FREE CONSULTATION</a></p>

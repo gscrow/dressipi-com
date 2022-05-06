@@ -93,7 +93,7 @@ sections:
     image: "/uploads/icon-results.svg"
     action:
       copy: GET STARTED >
-      url: "/contact"
+      url: "/company/contact/"
 layout: product
 ---
 

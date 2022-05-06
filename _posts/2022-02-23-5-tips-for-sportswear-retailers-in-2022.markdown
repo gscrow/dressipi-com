@@ -92,4 +92,4 @@ Of all sportswear orders that had items from more than one category, the highest
 
 The sportswear market will continue to grow. Jump ahead with these top tips and get in touch for some more information.
 
-<p style="text-align:center"><a href="/contact/" class="button button-primary">CONTACT US</a></p>
+<p style="text-align:center"><a href="/company/contact/" class="button button-primary">CONTACT US</a></p>

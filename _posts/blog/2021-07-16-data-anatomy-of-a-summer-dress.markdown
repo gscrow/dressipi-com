@@ -45,5 +45,5 @@ Spare a thought for dresses in those hot summer brights, it's time for the quiet
 
 <br>
 
-<p style="text-align:center"><a href="/contact/" class="button button-primary">FREE CONSULTATION</a></p>
+<p style="text-align:center"><a href="/company/contact/" class="button button-primary">FREE CONSULTATION</a></p>
 

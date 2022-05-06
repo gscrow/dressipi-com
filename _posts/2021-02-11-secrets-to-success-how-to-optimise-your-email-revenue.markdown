@@ -80,4 +80,4 @@ So whilst you have a captive audience, now is the time to optimise your email st
  
 Key to success is finding the right mix of creative branded emails versus relevant transactional ones. But the transactional ones need to be really relevant, not just a selection of bestsellers by department. Do this well and you can expect to see your revenues and profits grow by 6%.
 
-<p style="text-align:center"><a href="/contact/" class="button button-primary">FREE CONSULTATION</a></p>
+<p style="text-align:center"><a href="/company/contact/" class="button button-primary">FREE CONSULTATION</a></p>

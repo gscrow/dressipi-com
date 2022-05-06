@@ -91,7 +91,7 @@ sections:
   handle: contact
   button:
     copy: FREE CONSULTATION >
-    url: "/contact"
+    url: "/company/contact/"
 position-list: 2
 layout: case-study
 ---

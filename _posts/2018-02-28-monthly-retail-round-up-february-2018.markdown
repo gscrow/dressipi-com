@@ -72,4 +72,4 @@ After 17 years as the creative head of Burberry, Christopher Bailey showed his f
 With Christopher Bailey’s last London Fashion Week came the Queen’s first. Sitting next to Vogue’s editor-in-chief, Anna Wintour, the Queen attended her first ever London Fashion Show. The collection was by Richard Quinn who has just been announced as a new addition to Designers at Debenhams, with his first collaboration due to launch in May. She was there to present Richard Quinn with the inaugural Queen Elizabeth II Award for British Design. You can read more about his show and the Queen in [Vogue](http://www.vogue.co.uk/article/the-queen-london-fashion-week-british-design-award).
 
 
-We hope you enjoyed the round-up. Please feel free to [get in touch](https://dressipi.com/contact/) with any stories you feel would be of interest. 
+We hope you enjoyed the round-up. Please feel free to [get in touch](https://dressipi.com/company/contact/) with any stories you feel would be of interest. 
