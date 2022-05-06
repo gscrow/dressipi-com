@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: /*.pdf
 Disallow: /404/
 Disallow: /135462-inditex/
 Disallow: /135462-tendam/
