@@ -13,8 +13,8 @@ video: https://dressipi.com/media/nordstrom_lp.mp4
 video_mask: "/uploads/NordstromLPVideoMask.jpg"
 exclude-hero: true
 cta_top:
-- label: Find out more
-  link: https://meetings.hubspot.com/lara-gonzalez/dressipi-intro
+- label: Book a Demo
+  link: https://dressipi.com/company/demo/
 featured_articles:
   title: Be the best fashion retailer in a digitally-connected world
   content:
