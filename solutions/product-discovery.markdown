@@ -8,13 +8,13 @@ header:
     <p class="header__banner-subtitle">
     Provide intent-driven categories, filters & personalised recommendations for first time visitors as well as repeat customers
     </p>
+  button:
+    copy: Book A Demo >
+    url: company/demo
+    style: primary
   hero-image: "/uploads/banner-product-discovery.png"
   page-title: Product Discovery
   page-title-icon: "/uploads/icon_product-discovery.svg"
-  button:
-    copy: Request A Demo >
-    url: "/try-demo/"
-    style: primary
 description: Provide intent-driven categories, filters & personalised recommendations
   for first time visitors as well as repeat customers
 sections:
