@@ -1,5 +1,5 @@
 ---
-title: Schedule a Demo
+title: Book a Demo
 date: 2022-05-09 10:51:00 Z
 position: 3
 navigation: company-footer
