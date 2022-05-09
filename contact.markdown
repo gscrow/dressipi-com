@@ -2,7 +2,7 @@
 title: Contact
 date: 2017-05-06 09:50:00 Z
 published: false
-position: 4
+position: 32
 navigation: about-footer
 header:
   height: tight
