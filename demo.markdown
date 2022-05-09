@@ -5,6 +5,7 @@ navigation: about
 header:
   title: Book a Demo
   height: tight
+description: Schedule a demo of Dressipi, the fashion specific recommendation engine.
 ---
 
 <p style="padding-left: 100px;"> Let’s make it personal. Leave your details and we’ll be in touch answer all of your questions. </p>
