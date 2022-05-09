@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contact Us
 date: 2017-05-06 09:50:00 Z
 permalink: "/company/contact/"
 position: 31
