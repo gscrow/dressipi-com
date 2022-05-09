@@ -15,8 +15,8 @@ video: https://dressipi.com/media/shoptalk_lp.mp4
 video_mask: "/uploads/ShoptalkLPVideoMask.png"
 exclude-hero: true
 cta_top:
-- label: Pre-book a demo
-  link: "/shoptalk-contact/"
+- label: Book a Demo
+  link: https://dressipi.com/company/demo/
 - label: 'Visit us at booth #3097'
   link: "/shoptalk-contact/"
 featured_articles:
