@@ -11,13 +11,13 @@ header:
   width: tight
   class: customer-banner
 sections:
-  title: test
-  subtitle: testy
-  handle: clients
-  clients:
-  - John Lewis
-  - River Island
-  - Jigsaw
+  title: Our Customers Doing Great Things
+  handle: success-stories
+  downloads:
+  - Personalised Outfits Increase Revenue For John Lewis
+  - Personalisation Drives Profitable Growth for River Island
+  - How LK Bennett is using Dressipi’s Data Insight Hub
+footer: customer
 ---
 
 testy
