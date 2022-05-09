@@ -7,4 +7,11 @@ header:
   body: Leader in fashion AI
 ---
 
-Hello
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+<script>
+  hbspt.forms.create({
+	region: "na1",
+	portalId: "9442988",
+	formId: "d833b04c-593c-4411-92c0-6fb8043f40e2"
+});
+</script>
