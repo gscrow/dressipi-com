@@ -1,11 +1,13 @@
 ---
-title: Test
+title: Schedule a Demo
 date: 2022-05-09 10:51:00 Z
 navigation: about
 header:
   title: Fashion-specific
   height: tight
 ---
+
+If you would like to book a demo, send a message to our team of experts and we’ll get back to you as soon as possible.
 
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
 <script>
