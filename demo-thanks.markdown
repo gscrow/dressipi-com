@@ -11,9 +11,9 @@ header:
 
     * [River Island](https://dressipi.com/downloads/success-story-river-island/) increased revenue by 6% in 12 months
 
-    * [LK Bennett](https://dressipi.com/downloads/success-story-lk-bennett/) boosted repeat purchases by 25%
+    * [Belstaff](https://dressipi.com/downloads/success-story-belstaff/) increased email revenue by 69% with personalized recommendations
   button:
-    copy: READ CUSTOMER STORIES
+    copy: MORE CASE STUDIES
     url: https://dressipi.com/customers/
     style: secondary
   width: tight
