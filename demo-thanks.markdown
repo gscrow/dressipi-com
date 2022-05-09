@@ -8,5 +8,10 @@ header:
         <div class="meetings-iframe-container" data-src="https://meetings.hubspot.com/ccurl?embed=true"></div>\
         <script type="text/javascript" src="https://static.hsappstatic.net/MeetingsEmbed/ex/MeetingsEmbedCode.js"></script>\
       <!-- End of Meetings Embed Script -->
+  button:
+    copy: READ CUSTOMER STORIES
+    url: https://dressipi.com/customers/
+    style: secondary
+  width: tight
 ---
 
