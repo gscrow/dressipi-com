@@ -7,9 +7,9 @@ header:
   height: tight
 ---
 
-<p style="padding-left: 50px;"> ##If you would like to book a demo, send a message to our team of experts and we’ll get back to you as soon as possible.</p>
+<p style="padding-left: 100px;"> If you would like to book a demo, send a message to our team of experts and we’ll get back to you as soon as possible.</p>
 
-<p style="padding-left: 50px;"> <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+<p style="padding-left: 100px;"> <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
 <script>
   hbspt.forms.create({
 	region: "na1",
