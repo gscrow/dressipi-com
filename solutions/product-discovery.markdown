@@ -10,7 +10,7 @@ header:
     </p>
   button:
     copy: Book A Demo >
-    url: company/demo
+    url: "/company/demo/"
     style: primary
   hero-image: "/uploads/banner-product-discovery.png"
   page-title: Product Discovery
