@@ -111,8 +111,8 @@ cta_title: "Make every experience more relevant, \n<br>\nmore apparel-specific w
 cta_link: "/company/contact/"
 cta_label: Contact Us
 cta_top:
-- label: Find out more
-  link: https://meetings.hubspot.com/lara-gonzalez/dressipi-intro
+- label: Book a Demo
+  link: https://dressipi.com/company/demo/
 layout: default
 ---
 
