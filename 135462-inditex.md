@@ -14,10 +14,8 @@ video: https://dressipi.com/media/inditex_lp_es.mp4
 video_mask: "/uploads/Inditex%20(PullBear)%20LP%20Video%20ES%20Mask.png"
 exclude-hero: true
 cta_top:
-- label: Saber más
-  link: https://meetings.hubspot.com/sean-norris/general-meeting-booking-link-
-- label: CONOCE A VUESTRO EQUIPO
-  link: "#team"
+- label: Book a Demo
+  link: https://dressipi.com/company/demo/
 featured_articles:
   title: Proteger, Impulsar, Desarrollar, Colaborar.
   content:
