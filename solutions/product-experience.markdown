@@ -9,7 +9,7 @@ header:
     Inspire with outfits & stories relevant to each visitor, showing them the value of every product & how to wear your brand their way</p>
   button:
     copy: Book A Demo >
-    url: company/demo
+    url: "/company/demo/"
     style: primary
   hero-image: "/uploads/banner-product-experience.png"
   page-title: Product Experience
