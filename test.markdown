@@ -4,6 +4,7 @@ date: 2022-05-09 10:51:00 Z
 navigation: about
 header:
   title: Fashion-specific
+  height: tight
 ---
 
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
