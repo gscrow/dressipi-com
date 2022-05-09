@@ -1,7 +1,7 @@
 ---
 title: Fashion AI
 date: 2021-05-16 09:50:00 Z
-position: 26
+position: 25
 navigation: header
 header:
   title: Increasing Revenue<br/>for Fashion Retailers<br/>Through<br/>Fashion-Specific

@@ -1,7 +1,7 @@
 ---
 title: Blog
 permalink: "/resources/blog/"
-position: 2
+position: 1
 navigation: resource-footer
 header:
   title: Dressipi Blog

@@ -1,7 +1,7 @@
 ---
 title: About Us
 date: 2017-05-06 09:50:00 Z
-position: 1
+position: 0
 navigation: about-footer
 header:
   title: We are Dressipi

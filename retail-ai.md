@@ -1,7 +1,7 @@
 ---
 title: Retail AI
 date: 2021-05-16 09:50:00 Z
-position: 23
+position: 22
 navigation: header
 header:
   title: Increasing Revenue<br/>for Fashion Retailers<br/>Through<br/>Retail-Specific
