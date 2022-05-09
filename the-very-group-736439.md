@@ -115,6 +115,9 @@ quotes:
 cta_title: Make every experience more relevant, more fashion-specific with Dressipi
 cta_link: "/company/contact/"
 cta_label: Contact Us >
+cta_top:
+- label: Book a Demo
+  link: https://dressipi.com/company/demo/
 layout: default
 ---
 
