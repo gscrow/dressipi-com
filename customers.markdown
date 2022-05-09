@@ -1,6 +1,6 @@
 ---
 title: Customers
-position: 2
+position: 20
 navigation: header
 footer: customer
 has-menu: false

@@ -1,7 +1,7 @@
 ---
 title: Thanks for Registering!
 date: 2020-03-19 14:42:00 Z
-position: 2
+position: 22
 header:
   title: Thanks for Registering!
   body: |

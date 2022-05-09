@@ -1,6 +1,6 @@
 ---
 title: 'Dressipi: The Fashion AI Experts'
-position: 1
+position: 19
 header:
   button:
     copy: LEARN MORE >

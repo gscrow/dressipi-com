@@ -1,6 +1,6 @@
 ---
 title: "Lay the foundations to deliver \nbreakthrough fashion-specific\nshopping experiences."
-position: 0
+position: 7
 description: "Discover how a partnership between Nobody’s Child \nand Dressipi can
   deliver highly personalised \nshopping journeys for every visitor, \nbuilding loyalty
   and retention.\n\n"

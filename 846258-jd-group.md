@@ -1,6 +1,6 @@
 ---
 title: Innovate with Dressipi to offer a market-leading multichannel consumer proposition.
-position: 0
+position: 12
 header:
   body: " "
 description: "Discover how a partnership between \nthe JD Group and Dressipi can drive

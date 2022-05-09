@@ -1,6 +1,6 @@
 ---
 title: Platform
-position: 0
+position: 11
 navigation: header
 footer: platform
 has-menu: false

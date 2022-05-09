@@ -1,7 +1,7 @@
 ---
 title: Contact
 date: 2017-05-06 09:50:00 Z
-position: 4
+position: 24
 header:
   height: tight
 description: Contact

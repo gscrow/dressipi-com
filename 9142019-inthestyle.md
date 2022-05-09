@@ -1,6 +1,6 @@
 ---
 title: Lay the foundations to deliver breakthrough fashion-specific shopping experiences.
-position: 0
+position: 8
 description: "Discover how a partnership between In The Style and \nDressipi can deliver
   highly personalised shopping \njourneys and deliver long-term sustainable growth.\n\n"
 sitemap: false

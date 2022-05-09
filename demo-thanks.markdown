@@ -1,6 +1,7 @@
 ---
 title: Thanks for your demo request
 date: 2022-05-09 13:11:00 Z
+position: 2
 header:
   title: Thanks for your demo request!
   body: |-

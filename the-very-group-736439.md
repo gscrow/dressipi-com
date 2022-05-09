@@ -3,7 +3,7 @@ title: |-
   Lay the foundations to deliver
   breakthrough fashion-speciﬁc
   experiences.
-position: 25
+position: 43
 description: "Discover how a partnership between The Very\nGroup and fashion-AI experts
   Dressipi can ensure \nconsistent, detailed and fashion-specific data to \ndeliver
   a relevant and inspiring shopper journey.\n"

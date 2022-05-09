@@ -1,6 +1,6 @@
 ---
 title: "Lay the foundations to deliver \nbreakthrough fashion-specific\nshopping experiences."
-position: 0
+position: 4
 description: "Discover how a partnership between Brora \nand Dressipi can deliver
   highly personalised \nshopping journeys for every visitor, building \nlifetime value
   and AOV.\n\n"
