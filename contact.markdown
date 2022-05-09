@@ -11,7 +11,7 @@ description: 'Leave your details and we’ll be in touch to answer all of your q
 layout: contact
 ---
 
-<p style="padding-left: 100px;"> Let’s make it personal! Leave your details and we’ll be in touch to answer all of your questions. </p>
+<p style="padding-left: 100px;"> Leave your details and we’ll be in touch to answer all of your questions. </p>
 
 <p style="padding-left: 100px;"> <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
 <script>
