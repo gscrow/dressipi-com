@@ -2,17 +2,17 @@
 title: 'Dressipi: The Fashion AI Experts'
 position: 19
 header:
-  button:
-    copy: LEARN MORE >
-    url: "/platform"
-    style: primary
-  color: "#000"
   title: Deliver Breakthrough, Fashion Specific, Shopping Experiences
   body: We are the fashion-AI experts, helping fashion retailers deliver the relevant
     products & inspiration their visitors deserve, across every part of the shopper
     journey
-  class: index-banner
+  button:
+    copy: LEARN MORE >
+    url: "/platform"
+    style: primary
   hero-image: "/uploads/banner-home.jpeg"
+  color: "#000"
+  class: index-banner
   page-title: 
 description: The global leader in Fashion AI. Dressipi delivers breakthrough, fashion-specific
   shopping experiences across every part of the shopper journey.
@@ -24,8 +24,8 @@ sections:
   is-centered: true
   roi-section: true
   subsections:
-  - link: Contact Sales >
-    url: "/company/contact/"
+  - link: Book a Demo >
+    url: "/company/demo/"
   - link: Case Studies >
     url: "/customers/"
 - title: 
