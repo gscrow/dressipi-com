@@ -1,14 +1,14 @@
 ---
 title: Schedule a Demo
 date: 2022-05-09 10:51:00 Z
-navigation: about
+navigation: company
 header:
   title: Book a Demo
   height: tight
 description: Schedule a demo of Dressipi, the fashion specific recommendation engine.
 ---
 
-<p style="padding-left: 100px;"> Let’s make it personal! Leave your details and we’ll be in touch answer all of your questions. </p>
+<p style="padding-left: 100px;"> Let’s make it personal! Leave your details and we’ll be in touch to answer all of your questions. </p>
 
 <p style="padding-left: 100px;"> <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
 <script>
