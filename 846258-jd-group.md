@@ -110,8 +110,8 @@ cta_title: |-
 cta_link: "/company/contact/"
 cta_label: CONTACT US >
 cta_top:
-- label: Find out more
-  link: https://meetings.hubspot.com/sean-norris/general-meeting-booking-link-
+- label: Book a Demo
+  link: https://dressipi.com/company/demo/
 layout: default
 ---
 
