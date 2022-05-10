@@ -1,6 +1,9 @@
 <head>
   <meta charset="utf-8" />
-  <!-- Google Tag Manager -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- Start Google Tag Manager -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-11668082-32"></script>
   <script>
    window.dataLayer = window.dataLayer || [];
@@ -9,7 +12,8 @@
    gtag('config', 'UA-11668082-32');
   </script>
   <!-- End Google Tag Manager -->
-  <!-- Drift -->
+
+  <!-- Start Drift -->
   <script>
     !(function () {
       var t;
@@ -76,6 +80,7 @@
     });
   </script>
   <!-- End Drift -->
+
   <!-- Start ZoomInfo tracker -->
   <script>
     (function () {
@@ -89,9 +94,9 @@
     })();
   </script>
   <!-- End ZoomInfo tracker -->
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <!-- load slick-slider-->
+
+ 
+  <!-- Start Slick carousel-->
   <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css"
@@ -104,7 +109,9 @@
     integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw=="
     crossorigin="anonymous"
   />
-  <!-- Load Google Fonts -->
+  <!-- End Slick carousel-->
+
+  <!-- Start Google fonts -->
   <link
     href="https://fonts.googleapis.com/css2?family=Domine:wght@400;700&display=swap"
     rel="stylesheet"
@@ -113,7 +120,9 @@
     href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&display=swap"
     rel="stylesheet"
   />
-  <!-- Load favicon -->
+  <!-- End Google fonts -->
+
+  <!-- Start Favicon -->
   <link
     rel="apple-touch-icon-precomposed"
     sizes="57x57"
@@ -146,7 +155,15 @@
   />
   <link rel="icon" sizes="128x128" href="/uploads/favicon.icns" />
   <link rel="icon" href="/uploads/favicon.png" type="image/x-icon" />
-    <!-- end favicon -->
+  <!-- End Favicon -->
 
+  <link href="{{ "/css/main.css" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}" rel="stylesheet">
+
+   <!-- Start SEO -->
+   {% seo %}
+  <!-- End SEO -->
+
+  <!-- Start Bing site validation -->
   <meta name="msvalidate.01" content="83A7D378677C4F4102B969411E92A925" />
+  <!-- End Bing site validation -->
 </head>
