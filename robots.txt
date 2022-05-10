@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: /admin/
 Disallow: /demo-thanks/
 Disallow: /company/demo/
 Disallow: /thanks/
