@@ -5,7 +5,7 @@ position: 32
 navigation: about-footer
 header:
   height: tight
-description: 'Leave your details and we’ll be in touch to answer all of your questions.'
+description: Leave your details and we’ll be in touch to answer all of your questions.
 layout: contact
 ---
 
