@@ -88,7 +88,7 @@ sections:
   color: light-grey
   button:
     copy: Contact Us >
-    url: "/company/contact"
+    url: "/company/demo/"
     style: primary
 layout: index
 ---
