@@ -1,4 +1,6 @@
 User-agent: *
+Disallow: /demo-thanks/
+Disallow: /company/demo/
 Disallow: /thanks/
 Disallow: /thanks-for-registering/
 Disallow: /shoptalk-contact/
