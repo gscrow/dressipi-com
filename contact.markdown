@@ -5,7 +5,11 @@ position: 32
 navigation: about-footer
 header:
   height: tight
+<<<<<<< HEAD
 description: Leave your details and we’ll be in touch to answer all of your questions.
+=======
+description: Get started with Dressipi, the leader in fashion-specific AI.
+>>>>>>> 77471e4 (fix contact page description)
 layout: contact
 ---
 
