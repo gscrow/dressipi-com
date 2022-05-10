@@ -108,7 +108,7 @@ quotes:
     brand identity.”"
 cta_title: "Make every experience more relevant, \n<br>\nmore apparel-specific with
   Dressipi"
-cta_link: "/company/contact/"
+cta_link: "/company/demo/"
 cta_label: Contact Us
 cta_top:
 - label: Book a Demo

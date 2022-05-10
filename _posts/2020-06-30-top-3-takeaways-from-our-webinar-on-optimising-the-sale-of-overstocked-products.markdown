@@ -66,4 +66,4 @@ Dressipi is here to support fashion retailers and maximise their cash position. 
 
 Thank you Stuart and Sarah for your thoughts on this topic and for giving us an inspiring webinar with takeaways that can be executed today.
 
-<p style="text-align:center"><a href="/company/contact/" class="button button-primary">FREE CONSULTATION</a></p>
+<p style="text-align:center"><a href="/company/demo/" class="button button-primary">FREE CONSULTATION</a></p>

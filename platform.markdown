@@ -92,7 +92,7 @@ sections:
     image: "/uploads/icon-results.svg"
     action:
       copy: GET STARTED >
-      url: "/company/contact/"
+      url: "/company/demo/"
 layout: platform
 ---
 

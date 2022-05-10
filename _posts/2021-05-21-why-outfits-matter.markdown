@@ -22,4 +22,4 @@ If you ask a fashion editor (like I was for most of my career) it might all soun
 ### Full article published in [The Robin Report](https://www.therobinreport.com/why-outfits-matter/).
 Read [here](https://www.therobinreport.com/why-outfits-matter/).
 
-<p style="text-align:center"><a href="/company/contact/" class="button button-primary">FREE CONSULTATION</a></p>
+<p style="text-align:center"><a href="/company/demo/" class="button button-primary">FREE CONSULTATION</a></p>

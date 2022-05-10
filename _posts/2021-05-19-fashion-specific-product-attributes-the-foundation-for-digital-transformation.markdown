@@ -55,7 +55,7 @@ Dressipi has an average of 20 attributes per product, across thousands of produc
 
 Once accuracy and consistency are achieved, retailers can deploy the best possible propensity models and personalisation components. Without them however, these efforts are doomed to fail.
 
-<p style="text-align:center"><a href="/company/contact/" class="button button-primary">FREE CONSULTATION</a></p>
+<p style="text-align:center"><a href="/company/demo/" class="button button-primary">FREE CONSULTATION</a></p>
 
 ### 3) Be Customer Focused
 
@@ -93,4 +93,4 @@ One of the key pillars to Dressipi’s services is detailed, consistent, fashion
 
 If you’d like to learn more about how our AI taxonomy of garment features and deep tagging can give you the ability to build a strong foundation for digital transformation, please get in touch.
 
-<p style="text-align:center"><a href="/company/contact/" class="button button-primary">FREE CONSULTATION</a></p>
+<p style="text-align:center"><a href="/company/demo/" class="button button-primary">FREE CONSULTATION</a></p>

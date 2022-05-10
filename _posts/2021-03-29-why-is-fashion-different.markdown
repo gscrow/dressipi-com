@@ -95,4 +95,4 @@ Recommendation approaches built on and inspired by datasets from Netflix, Spotif
 
 At Dressipi, we have addressed these challenges - and many more! Stay tuned for our next blog on how consumer behaviour has a huge impact on how recommender systems are built for the fashion domain. 
 
-<p style="text-align:center"><a href="/company/contact/" class="button button-primary">FREE CONSULTATION</a></p>
+<p style="text-align:center"><a href="/company/demo/" class="button button-primary">FREE CONSULTATION</a></p>

@@ -107,7 +107,7 @@ cta_title: |-
   Make every experience more relevant,
   <br>
   more apparel-specific with Dressipi
-cta_link: "/company/contact/"
+cta_link: "/company/demo/"
 cta_label: CONTACT US >
 cta_top:
 - label: Book a Demo

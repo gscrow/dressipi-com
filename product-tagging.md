@@ -61,6 +61,6 @@ sections:
       rates</a> <br> Supply chain / Inventory management
   action:
     copy: SCHEDULE A FREE CONSULTATION >
-    url: "/company/contact/"
+    url: "/company/demo/"
 ---
 

@@ -112,7 +112,7 @@ quotes:
     has really helped us understand our customer base and what they want and need.”"
 cta_title: "Make every experience more relevant, \n<br>\nmore fashion-specific with
   Dressipi"
-cta_link: "/company/contact/"
+cta_link: "/company/demo/"
 cta_label: CONTACT US >
 layout: default
 ---

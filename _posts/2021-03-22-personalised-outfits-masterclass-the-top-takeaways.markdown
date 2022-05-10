@@ -67,4 +67,4 @@ We went from testing 200 customers to now working with [global retailers](https:
 
 If you have any questions or you’d like to speak to us directly about how we could help you get started on delivering truly personalised outfits at scale, please get in touch.
 
-<p style="text-align:center"><a href="/company/contact/" class="button button-primary">FREE CONSULTATION</a></p>
+<p style="text-align:center"><a href="/company/demo/" class="button button-primary">FREE CONSULTATION</a></p>

@@ -71,4 +71,4 @@ Showing [Personalised Outfits](https://dressipi.com/blog/driving-better-predicti
 * Open Rate +155%
 * Revenue / Email Sent +200% 
 
-<p style="text-align:center"><a href="/company/contact/" class="button button-primary">FREE CONSULTATION</a></p>
+<p style="text-align:center"><a href="/company/demo/" class="button button-primary">FREE CONSULTATION</a></p>

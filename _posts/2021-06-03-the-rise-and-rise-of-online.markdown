@@ -32,4 +32,4 @@ On the plus side, there are lots of benefits from this shift to online. One of w
 
 Retailers can now start to know what they don’t know. There has never been more data available to know who each visitor is, what their intent is and where the missed revenue opportunities are.
 
-<p style="text-align:center"><a href="/company/contact/" class="button button-primary">FREE CONSULTATION</a></p>
+<p style="text-align:center"><a href="/company/demo/" class="button button-primary">FREE CONSULTATION</a></p>

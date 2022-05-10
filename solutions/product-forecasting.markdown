@@ -99,7 +99,7 @@ sections:
     class: hanger-icon
     action:
       copy: GET STARTED >
-      url: "/company/contact/"
+      url: "/company/demo/"
 layout: product
 ---
 

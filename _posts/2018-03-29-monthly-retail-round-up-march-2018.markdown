@@ -84,6 +84,6 @@ Daniela Rinaldi, Co-Chief Operating Officer, Harvey Nichols, told [Drapers](http
 Harvey Nichols is the first department store to join Farfetch with their products being sold on both Farfetch’s platform as well as their own website.
 
 
-We hope you enjoyed the round-up. Please feel free to [get in touch](https://dressipi.com/company/contact/) with any stories you feel would be of interest. 
+We hope you enjoyed the round-up. Please feel free to [get in touch](https://dressipi.com/contact/) with any stories you feel would be of interest. 
 
 > Photo by Ashim D’Silva on Unsplash

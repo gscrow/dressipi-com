@@ -59,7 +59,7 @@ sections:
     image: "/uploads/icon-results.svg"
     action:
       copy: SCHEDULE A FREE CONSULTATION >
-      url: "/company/contact/"
+      url: "/company/demo/"
 layout: personalised
 ---
 

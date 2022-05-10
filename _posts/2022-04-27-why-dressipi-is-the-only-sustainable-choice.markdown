@@ -66,4 +66,4 @@ Working with Dressipi, fashion retailers have a real potential to propel lasting
 
 Get in touch if you'd like to get started in achieving your sustainability goals.
 
-<p style="text-align:center"><a href="/company/contact/" class="button button-primary">CONTACT US</a></p>
+<p style="text-align:center"><a href="/company/demo/" class="button button-primary">CONTACT US</a></p>

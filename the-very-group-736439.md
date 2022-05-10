@@ -113,7 +113,7 @@ quotes:
   cta_title: Explore our Case Studies >
   cta_link: https://dressipi.com/clients/success-stories/
 cta_title: Make every experience more relevant, more fashion-specific with Dressipi
-cta_link: "/company/contact/"
+cta_link: "/company/demo/"
 cta_label: Contact Us >
 cta_top:
 - label: Book a Demo

@@ -112,7 +112,7 @@ quotes:
     podido entender lo que nuestros clientes quieren y lo que necesitan."'
 cta_title: "Transforma cada experiencia para que sea más relevante \n<br>\ny personalizada
   con la ayuda de Dressipi"
-cta_link: https://dressipi.com/company/contact/
+cta_link: https://dressipi.com/company/demo/
 cta_label: Contáctanos >
 layout: default
 ---
