@@ -7,6 +7,7 @@ header:
   title: Book a Demo
   height: tight
 description: Get started with Dressipi, the leader in fashion-specific AI.
+layout: contact
 ---
 
 <p style="padding-left: 100px;"> Let’s make it personal! Leave your details and we’ll be in touch to answer all of your questions. </p>
