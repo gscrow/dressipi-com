@@ -69,7 +69,7 @@ Our decision making is unique, as is our timing, our sensitivities and our affin
 
 Here, the customer is shopping in the context of their shape, their size, their confidence, their preferences, the occasion and location of where the item will be worn, what it will be worn with, the weather, what they already own and numerous other considerations. All factors that segmentation cannot know about or respond to.
 
-So, as a fashion retailer, using segmentation might initially get some improvements using automated micro-segments, but you’re not going to make any progress in transforming the [understanding of your customers](https://dressipi.com/customer-first-personalisation/) and delivering on their actual wants, which is vital to driving long-term growth and profitability. Only personalisation can deliver that.
+So, as a fashion retailer, using segmentation might initially get some improvements using automated micro-segments, but you’re not going to make any progress in transforming the understanding of your customers and delivering on their actual wants, which is vital to driving long-term growth and profitability. Only personalisation can deliver that.
 
 ## Personalisation
 
@@ -88,8 +88,6 @@ It provides each customer with the right product at the right time, specific to 
 It also creates and aggregates new data sets that give a richer and more real time view of customers and products, which can remove some of the risks around business processes, such as range planning and merchandising.
 
 Because of this, retailers who are not using personalisation today or planning to invest in personalisation soon, risk losing market share against those who have the head start and are realising their gains.
-
-> Download our [case study](https://dressipi.com/downloads/wallis-case-study/) on how we've helped Wallis deliver personalisation to every customer
 
 Personalisation can reduce acquisition costs by as much as 50%, lift revenues by 5 to 15%, and increase efficiency by 10-30%. This will continue to improve over the coming years as greater efficiency is introduced into areas such as product range and sell through.
 
