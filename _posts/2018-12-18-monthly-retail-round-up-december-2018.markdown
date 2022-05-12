@@ -68,8 +68,6 @@ The four key areas of the strategy are Creating Fwd, Making Fwd, Engaging Fwd an
 
 The [Drapers Sustainability Report](http://guides.drapersonline.com/5922.guide) was released in [July](https://dressipi.com/blog/monthly-retail-round-up-july-2018/), showing us there are many retailers including H&M and John Lewis who all have the same goal - to become more sustainable.
 
-You can read Bestseller’s full report [here](https://about.bestseller.com/news/bringing-sustainable-fashion-forward).
-
 ## We hope you enjoyed the round-up. Please feel free to get in touch with any stories you feel would be of interest.
 
 > Banner Photo by @bravelyventure on Unsplash
