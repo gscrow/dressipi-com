@@ -35,7 +35,7 @@ A study commissioned by Royal Mail (reported in [Drapers](https://www.drapersonl
 * 72% of shoppers want clear guidance about which returns labels to use
 * 58% of shoppers are more likely to use a retailer if they offer a “try before you buy” service
 
-Dressipi’s Co-Founder and Chief Data Scientist were interviewed by [BBC Radio 5 Live](https://www.bbc.co.uk/sounds/play/m000cpzp) (18 mins 22 seconds in) to help explain some of these ways retailers can better use their data to reduce returns costs. 
+Dressipi’s Co-Founder and Chief Data Scientist were interviewed by BBC Radio 5 Live to help explain some of these ways retailers can better use their data to reduce returns costs. 
 
 ### 2) ASOS Rolls Out AR Tool
 
