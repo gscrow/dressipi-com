@@ -65,7 +65,7 @@ Although JD Sports have a huge amount of product, I didn’t feel overwhelmed du
 
 ## To Conclude…
 
-At Dressipi we have always been passionate about in-store experiences and feel there is a huge opportunity for retailers to maximise their stores’ profitability by [improving customer service and experience whilst in-store](https://dressipi.com/how-to-improve-customer-experience-instore/).
+At Dressipi we have always been passionate about in-store experiences and feel there is a huge opportunity for retailers to maximise their stores’ profitability by improving customer service and experience whilst in-store.
 
 [Retail Systems](http://www.retail-systems.com/rs/Millennial_Prefer_Store_To_Online_Shopping.php) reported that digitally focused millennials still prefer shopping in stores to online, so retailers need to make shopping in stores both convenient and exciting, with clever technology at the centre. As quoted in [Forbes](https://www.forbes.com/consent/?toURL=https://www.forbes.com/sites/richardkestenbaum/2017/12/10/where-retail-technology-needs-to-go-now/#7d2e8415fc6c), *“Technology is a tool”* but it is important to not lose sight of the fact that retailers need to get their product right too. If the customer and product are not right for each other, this won’t translate into sales, even with the use of technology. 
 
