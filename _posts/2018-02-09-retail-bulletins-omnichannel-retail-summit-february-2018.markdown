@@ -82,5 +82,3 @@ I was glad when Tony Brown, CEO, Beales Department Stores brought us crashing ba
 
 
 >In summary, digital experiences that hold the customer at its heart and provide truly helpful and delightful experiences, are those that will win. It was evident from the event that retailers are coming under increasing pressure to innovate and stay ahead, which fits perfectly with my favourite quote of the day from the brilliant Kate Franklin, who quite rightly said, *“Customers are moving faster than the retailers - so keep up!”* 
-
->To find out more about how Dressipi can deliver a truly [omnichannel experience](https://dressipi.com/omnichannel-personalisation/) for your customers, please [get in touch](/company/demo/)
