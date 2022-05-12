@@ -53,7 +53,7 @@ The partnership with [Fit Analytics](https://www.fitanalytics.com/), helps Asos 
 
 Andy Berks, Digital Product Director, Asos said in a press release, reported in [Drapers](https://www.drapersonline.com/7033123.article?utm_source=newsletter&utm_medium=email&utm_campaign=DR_EditorialNewsletters.Reg:%20Send%20-%20Daily%20News&mkt_tok=eyJpIjoiTldWaE9EZzFPREl3TkRBeSIsInQiOiJ2Smp4Y1d2cmZKK2NNdWRpaDYxdFA5NWh6MENzTmE2TDYxXC9PZVhrRUNxMittTkRUdWthbXUwUWpEXC9nTklOQW12bWw1eU54dlwvbmlmM05jZ1diOHlcL0kzd0d1YzFMWHVBelJaSFhKbHBUTEFTc1FPb2RmcUJrNlo0WDNlcjRaQkIifQ%3D%3D), *“We want to do all we can to make sure our customers are getting the right size, first time. This is where Asos Fit Assistant comes in – we can now offer personalised size recommendations across Asos collections, exclusive labels and fashion favourites.”*
 
-[Returns cost a huge amount to retailers every year](https://dressipi.com/how-to-decrease-your-return-rate/), with many customers buying multiple sizes. The Fit Assistant feature will help customers get the sizing right the first time, therefore eliminating ordering multiple sizes and improving customer experience. A benefit to both the retailer and the customer.
+[Returns cost a huge amount to retailers every year](https://dressipi.com/downloads/understanding-your-unique-return-rate-profile-whitepaper/), with many customers buying multiple sizes. The Fit Assistant feature will help customers get the sizing right the first time, therefore eliminating ordering multiple sizes and improving customer experience. A benefit to both the retailer and the customer.
 
 ### 3) Matalan’s Omnichannel Experience
 
