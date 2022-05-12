@@ -51,7 +51,7 @@ While any single customer will want different things at different times, no shop
 
 It’s these three pain points that drive shoppers into the arms of online – yet they are all straightforward to resolve.
 
-Adding motivation requires a mix of approaches – but at the core is [one to one personalisation](https://dressipi.com/one-to-one-personalisation/). Without knowing each shopper at an individual level it’s impossible to understand the intent at that specific point in time and to respond appropriately. While motivation is driven by need or inspiration, it is mostly self-serving. Having access to data and insight that can predict consumers behaviour in real time (or in some cases ahead of time) will be essential.
+Adding motivation requires a mix of approaches – but at the core is one to one personalisation. Without knowing each shopper at an individual level it’s impossible to understand the intent at that specific point in time and to respond appropriately. While motivation is driven by need or inspiration, it is mostly self-serving. Having access to data and insight that can predict consumers behaviour in real time (or in some cases ahead of time) will be essential.
 
 For example, if a retailer knows I am in the market for a new dress they could tailor my shopping experience to suit, guiding me to the best possible products and giving me the confidence to purchase it by showing me how I can wear it with the jacket I bought last week. This is a real advantage for the bricks & mortar retailers who have the greatest opportunity since well over 80% of transactions take place in-store.
 
