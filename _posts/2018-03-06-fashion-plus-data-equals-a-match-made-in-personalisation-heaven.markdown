@@ -30,7 +30,7 @@ Fashion authority can't be taught and it can't be bought. Natalie Theo, Dressipi
 
 The article really resonated with me because it perfectly summed up the importance of that intangible concept of ‘fashion intuition’. “Finally, someone has explained it!” I thought. As a fashion authority myself, it also got me thinking about the emotion of fashion and how integral it is to any technology built around shopping and fashion recommendation platforms.
 
-Fashion authority is that unexplainable human touch. It’s the one that can just sense without logic when a brand will be the next must-have. It’s understanding a new way to wear something noted months and months in advance thanks to catwalk collections, influencers and brands. It’s also the reason why when building a [fashion-specific personalisation solution](https://dressipi.com/fashion-specific-personalisation-case-study/), the fashion and technology teams are intertwined. You simply cannot have one without the other.
+Fashion authority is that unexplainable human touch. It’s the one that can just sense without logic when a brand will be the next must-have. It’s understanding a new way to wear something noted months and months in advance thanks to catwalk collections, influencers and brands. It’s also the reason why when building a fashion-specific personalisation solution, the fashion and technology teams are intertwined. You simply cannot have one without the other.
 
 The predictive instinct of fashion authority can’t be taught and it certainly can’t be bought. However, the now ever-present data and technology expertise is the tool that cleverly translates this fashion authority into something tangible. There is no doubt that when you match the two it’s a potent results-driven combination.
 
