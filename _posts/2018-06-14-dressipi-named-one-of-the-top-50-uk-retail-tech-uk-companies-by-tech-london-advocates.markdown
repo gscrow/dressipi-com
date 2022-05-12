@@ -41,7 +41,7 @@ One of their events at London Tech Week was the launch of the [Retail Tech 50 Ca
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Top50.jpg"/></p>
 
-The evening was a great success, with a few of the chosen businesses presenting how they are also working on [improving customer experience](https://dressipi.com/solutions/customer-experience/):
+The evening was a great success, with a few of the chosen businesses presenting how they are also working on [improving customer experience](https://dressipi.com/solutions/product-experience/):
 
 ## MishiPay
 
@@ -57,5 +57,5 @@ Balint Szeplaki, Head of Product at [Poq](https://poqcommerce.com/) outlined how
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Speaking.jpg"/></p>
 
-There are a huge number of businesses innovating and breaking into the retail sector, and given our expertise in [retail personalisation](https://dressipi.com/retail-personalisation-case-study/), Dressipi was delighted to be considered [one of the top UK companies switching up the fashion game](http://www.techlondonadvocates.org.uk/wp-content/uploads/2018/06/RetailTech_Gatefold_Pages-3.pdf). Thanks very much to Tech London Advocates for hosting a brilliant evening.
+There are a huge number of businesses innovating and breaking into the retail sector, and given our expertise in [fashion personalisation](https://dressipi.com/customers/), Dressipi was delighted to be considered [one of the top UK companies switching up the fashion game](http://www.techlondonadvocates.org.uk/wp-content/uploads/2018/06/RetailTech_Gatefold_Pages-3.pdf). Thanks very much to Tech London Advocates for hosting a brilliant evening.
 
