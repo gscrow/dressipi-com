@@ -61,7 +61,7 @@ In addition to online growth, footfall rose in retail parks and shopping centres
 
 ### 3) Farfetch Announces ‘Dream Assembly’ Initiative
 
-Luxury online fashion retailer, Farfetch has launched an initiative known as ‘Dream Assembly’ which will support 10 technology startups over a course of 12 weeks, providing them with “*a programme of mentorship, networking opportunities and access to early-stage funding.*” According to [Just-Style](https://www.just-style.com/news/farfetch-launches-tech-accelerator_id133355.aspx) the programme will include workshops and meetings covering topics such as e-commerce, marketing, technology, fashion, logistics and operations. This scheme will “give startups direct access to Farfetch’s expertise in the luxury fashion and technology industries.”
+Luxury online fashion retailer, Farfetch has launched an initiative known as ‘Dream Assembly’ which will support 10 technology startups over a course of 12 weeks, providing them with “*a programme of mentorship, networking opportunities and access to early-stage funding.*” According to Just-Style the programme will include workshops and meetings covering topics such as e-commerce, marketing, technology, fashion, logistics and operations. This scheme will “give startups direct access to Farfetch’s expertise in the luxury fashion and technology industries.”
 
 Burberry is the first to partner with Farfetch’s initiative and will provide modules for ‘Dream Assembly’. This comes soon after Farfetch and Burberry’s announcement of their partnership in [February](https://dressipi.com/blog/monthly-retail-round-up-february-2018/) when Burberry began selling their collection on Farfetch’s e-commerce platform.
 
