@@ -36,7 +36,7 @@ Also reported in [Drapers](https://www.drapersonline.com/7033188.article?utm_sou
 * The average discount is 37%, compared with 33% in 2017 and 30% in 2016
 * A total of 51% of all retail products are currently discounted, and 82% of products will drop in price over the Black Friday weekend
 
-Other data published in [Internet Retailing](https://internetretailing.net/themes/themes/this-week-in-peak-moving-on-from-the-cyber-weekend-18750?utm_source=bm23&utm_medium=email&utm_term=THIS+WEEK+IN+PEAK+Moving+on+from+the+Cyber+Weekend&utm_content=IR+-+Newsletter+-+27+Nov+2018&utm_campaign=27/11/2018) indicated that customers were moving away from the physical stores to shop the discounts from the convenience of their own homes.
+Other data published in [Internet Retailing](https://internetretailing.net/themes/themes/this-week-in-peak-moving-on-from-the-cyber-weekend) indicated that customers were moving away from the physical stores to shop the discounts from the convenience of their own homes.
 * Shoppers spent £1.49bn online with UK retailers on Black Friday. That was 7.3% ahead of the same day last year, but didn’t meet IMRG forecasts of +13.2%. (*IMRG estimates*)
 * On Black Friday itself, footfall was 5.4% down compared to the same time last year, and continued to be down over Saturday (-5.6%) and Sunday (-4.3%). (*Springboard*)
 * Online transactions were up 46% ahead of last year on Friday. (*Loqate*)
