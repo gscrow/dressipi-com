@@ -54,7 +54,7 @@ Furthermore, we’ll see more brands scaling back their stores to provide highly
 
 There is well documented over-capacity in the mid-market, both in terms of real estate and in terms of product produced. Put simply, there aren’t enough women to buy the number of products produced and what people are willing to spend on clothing varies drastically.
 
-We predict that the gap separating the winners and losers in retail will start to widen even further, with 2019 seeing some large high profile casualties or much-needed consolidation. The winners will be those that clearly understand their customer, have excellent product and a value proposition that resonates. Although everyone understands the value of well-structured data, we feel the winners will start to capitalise on that to surge ahead. In short, [data-driven retailers](https://www.youtube.com/watch?v=FxKrRJhkVyA&t=2s) will succeed over gut retailers. 
+We predict that the gap separating the winners and losers in retail will start to widen even further, with 2019 seeing some large high profile casualties or much-needed consolidation. The winners will be those that clearly understand their customer, have excellent product and a value proposition that resonates. Although everyone understands the value of well-structured data, we feel the winners will start to capitalise on that to surge ahead. In short, data-driven retailers will succeed over gut retailers. 
 
 ## 3) Customer Experiences Take A Leap
 
