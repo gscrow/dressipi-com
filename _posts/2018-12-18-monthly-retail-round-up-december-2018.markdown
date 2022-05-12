@@ -30,7 +30,7 @@ Luxury e-commerce platform, Farfetch has partnered with [Syte](https://www.syte.
 
 Reported in [Tech Startups](https://techstartups.com/2018/12/07/visual-ai-startup-syte-partners-luxury-fashion-platform-farfetch-launch-new-app-visual-search-feature-ios/), Sara Wood, VP Product, Farfetch said, *“Visual search is the ultimate connection between on and offline inspiration. By allowing our customers to show us what they are interested in we gain a deeper understanding of their needs, are able to inspire them with fashion based on what they are looking for, and enable a more personalised shopping experience.”*
 
-This year has seen a wave of retailers continually investing in innovative technology to help them improve their customer experience. Check out some of our [other retail round-ups](https://dressipi.com/blog/) for more.
+This year has seen a wave of retailers continually investing in innovative technology to help them improve their customer experience. Check out some of our [other retail round-ups](https://dressipi.com/resources/blog/) for more.
 
 ### 2) H&M’s New Concept Store
 
