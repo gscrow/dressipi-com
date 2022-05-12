@@ -93,6 +93,6 @@ There are many ways retailers look to provide seamless experiences for their cus
 
 ## To Conclude…
 
-Personalisation is still high on the agenda. Retailers are starting to realise they need to take immediate action by planning [how to deliver true personalisation](https://dressipi.com/how-to-deliver-true-personalisation/) across every single touch point and every single device to avoid being left behind. 
+Personalisation is still high on the agenda. Retailers are starting to realise they need to take immediate action by planning how to deliver true personalisation across every single touch point and every single device to avoid being left behind. 
 
 As put perfectly by Susanne Given, “*Retail is going through a seismic shift*”. More than ever before, innovation is paramount to improving customer experiences and getting ahead. It's the way retailers choose to deliver this to meet rising customer expectations, which will be a key indicator of success. 
