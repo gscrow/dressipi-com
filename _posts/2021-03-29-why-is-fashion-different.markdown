@@ -47,7 +47,7 @@ This article will look at the stats that we can use to quantify the characterist
 * How long is an item usually available for?
 * How many of each item are available?
 
-We have looked up and compiled these numbers for Netflix and Spotify as representatives of movie and music domains. The fashion number we give is an aggregation of the data we have seen across the small, medium and large fashion [retailers we work with](https://dressipi.com/clients/success-stories/) (these are all aggregated numbers but the differences in characteristics are so large that even very rough numbers suffice).
+We have looked up and compiled these numbers for Netflix and Spotify as representatives of movie and music domains. The fashion number we give is an aggregation of the data we have seen across the small, medium and large fashion [retailers we work with](https://dressipi.com/customers/) (these are all aggregated numbers but the differences in characteristics are so large that even very rough numbers suffice).
 
 ### 1) Changes in product catalogue
 
