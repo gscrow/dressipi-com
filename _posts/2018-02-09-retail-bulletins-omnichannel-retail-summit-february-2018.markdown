@@ -34,7 +34,7 @@ In order to truly understand the intent and preferences of customers, their offl
 
 Of course, this is easier said than done.
 
-As the title suggests, this year’s [Omnichannel Retail Summit](https://www.theretailbulletin.com/retail-events/omnichannel-summit-2018/), hosted by The Retail Bulletin focused on *‘How Omnichannel Investment is Driving the Future of Businesses’*. With a lineup of fantastic leaders from the wider retail industry, the day-long event included lively interactive panels and thought leadership presentations all centred around *‘providing the best ‘total’ retail experience’*. 
+As the title suggests, this year’s Omnichannel Retail Summit, hosted by The Retail Bulletin focused on *‘How Omnichannel Investment is Driving the Future of Businesses’*. With a lineup of fantastic leaders from the wider retail industry, the day-long event included lively interactive panels and thought leadership presentations all centred around *‘providing the best ‘total’ retail experience’*. 
 
 My key learnings from the event include the following:
 
