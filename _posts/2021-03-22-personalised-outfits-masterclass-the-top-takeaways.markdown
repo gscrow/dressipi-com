@@ -63,7 +63,7 @@ When a customer comes to your website, you really want to elevate that experienc
 
 Somewhere someone loves your garment and what our technology can do is to show that garment to someone that might love it.
 
-We went from testing 200 customers to now working with [global retailers](https://dressipi.com/clients/success-stories/), testing our outfits with tens of millions of customers. We have the results and know that personalised outfitting and showing the versatility of a garment is very financially compelling.
+We went from testing 200 customers to now working with [global retailers](https://dressipi.com/customers/), testing our outfits with tens of millions of customers. We have the results and know that personalised outfitting and showing the versatility of a garment is very financially compelling.
 
 If you have any questions or you’d like to speak to us directly about how we could help you get started on delivering truly personalised outfits at scale, please get in touch.
 
