@@ -15,7 +15,7 @@ description: How To Create A Personalised Shopping Experience
 download: Five Things Every Retailer Should Know About Personalisation
 ---
 
-Natalie Theo, Dressipi’s Style Director explores the meaning of Personalisation, and how retailers can use it to create [one to one shopping experiences](https://dressipi.com/one-to-one-personalisation/) for their customers that will delight and inspire them.
+Natalie Theo, Dressipi’s Style Director explores the meaning of Personalisation, and how retailers can use it to create one to one shopping experiences for their customers that will delight and inspire them.
 
 # How To Create A Personalised Shopping Experience
 
@@ -32,9 +32,7 @@ Personalisation starts with the customer and ends with the customer. It’s an o
 - What parts of their shape they find difficult to dress
 - Do they enjoy following trends (or not)
 
-These are all crucial data points that we continually capture and learn from, highlighting that putting the customer needs first enables us to create a [truly personalised shopping solution](https://dressipi.com/true-personalisation/) for our retail partners.
-
-> Download our case study [‘How Wallis Benefited from Dressipi’s Personalisation Solutions’](https://dressipi.com/downloads/wallis-case-study/) to discover how Dressipi has helped Wallis deliver Personalisation to every customer.
+These are all crucial data points that we continually capture and learn from, highlighting that putting the customer needs first enables us to create a truly personalised shopping solution for our retail partners.
 
 Thanks to each customer’s unique and ever evolving Fashion Fingerprint® (their unique fashion profile) and the fact that Dressipi has the largest set of product fit and style data available in the world today, retailer’s products are mapped to a customer as if it were the result of that very intimate discussion she might have had with a personal stylist in real time.
 
