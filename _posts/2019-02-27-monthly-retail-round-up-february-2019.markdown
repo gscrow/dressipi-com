@@ -51,7 +51,7 @@ If a customer isn’t able to be at home to receive a delivery it's frustrating 
 - Reported in <span class="anchor-inside-bullet-point"> [Retail Gazette](https://www.retailgazette.co.uk/blog/2019/02/amazon-soon-deliver-packages-daily-bus/) </span>, _“Amazon customers could soon be able to collect their packages from public transport vehicles they use on their daily commute.”_
 - Reported in <span class="anchor-inside-bullet-point"> [Retail Gazette](https://www.retailgazette.co.uk/blog/2019/01/amazon-launches-autonomous-scout-delivery-robot/) </span>, _“Amazon has launched an autonomous delivery robot called Amazon Scout and will begin testing the device near its headquarters in Seattle.”_
 
-Similarly to all the February Monthly Retail Round-Up stories, Amazon is trying to [improve customer experience](https://dressipi.com/solutions/customer-experience/) and they have chosen to do this through experimenting with delivery ideas.
+Similarly to all the February Monthly Retail Round-Up stories, Amazon is trying to [improve customer experience](https://dressipi.com/solutions/product-experience/) and they have chosen to do this through experimenting with delivery ideas.
 
 ## We hope you enjoyed the round-up. Please feel free to get in touch with any stories you feel would be of interest.
 
