@@ -26,7 +26,7 @@ Some of the best articles from the world of retail and its supporting industries
 
 # Monthly Retail Round-Up - July 2018
 
-## With lots of interesting highlights in the world of retail this July, Dressipi, the experts in [retail personalisation](https://dressipi.com/retail-personalisation-case-study/), have put together our top stories to keep you up to date.
+## With lots of interesting highlights in the world of retail this July, Dressipi, the experts in fashion personalisation, have put together our top stories to keep you up to date.
 
 ### 1) Push for Retailers to Become More Sustainable
 
