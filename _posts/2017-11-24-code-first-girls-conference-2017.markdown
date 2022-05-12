@@ -24,7 +24,7 @@ Being big advocates for women in tech, Dressipi had the pleasure of attending th
 
 ## [‘Code First: Girls’](http://www.codefirstgirls.org.uk/conference-2017.html) is a not for profit social enterprise that works exclusively with women in Britain to develop coding skills.
 
-This conference was organised to inspire and empower women to start a career in technology and entrepreneurship, whilst also helping to make the tech industry more accessible. Events like these give women the opportunity to understand what it takes to succeed in tech, something our co-founder Donna North recently spoke about during her interview with [Everywoman](https://startups.co.uk/female-tech-leaders-talk-gender-pay-gap-stem-skills/), when she talked about the importance of encouraging and highlighting more female role models in the technology industry.
+This conference was organised to inspire and empower women to start a career in technology and entrepreneurship, whilst also helping to make the tech industry more accessible. Events like these give women the opportunity to understand what it takes to succeed in tech, something our co-founder Donna North recently spoke about during her interview with Everywoman, when she talked about the importance of encouraging and highlighting more female role models in the technology industry.
 
 >The conference consisted of motivational talks and insightful panel discussions, the most interesting being *“Should we be worried? The ethics of Artificial Intelligence (AI)”*. This panel focused on demystifying the dangers of machine learning and the gender bias in AI.
 
