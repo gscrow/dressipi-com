@@ -22,7 +22,7 @@ For those who weren't able to make the yearly Ecommerce Expo, or simply didn't h
 
 This year’s [Ecommerce Expo](https://www.ecommerceexpo.co.uk/) lived up to expectations - many stalls (with many sweets), an overwhelming amount of brilliant companies doing fascinating things, and lest we forget, jostling for a seat at industry talks.
 
-From talks on [omnichannel](https://dressipi.com/omnichannel-personalisation/) to [personalisation](https://dressipi.com/how-to-deliver-true-personalisation/) to customer engagement, two days of information overload can leave us feeling slightly saturated and trying to figure out where on earth to begin. Yes - it's all about the [customer experience](https://dressipi.com/how-to-create-a-personalised-shopping-experience/). Yes - retailers need to use data smartly and effectively. Yes - online and offline need to work together. But how do you join the dots?
+From talks on omnichannel to personalisation to customer engagement, two days of information overload can leave us feeling slightly saturated and trying to figure out where on earth to begin. Yes - it's all about the [customer experience](https://dressipi.com/solutions/product-experience/). Yes - retailers need to use data smartly and effectively. Yes - online and offline need to work together. But how do you join the dots?
 
 Here are some of the most interesting takeaways from a packed two days at the Olympia Exhibition Centre which may help provide some clarity:
 
@@ -31,8 +31,6 @@ Here are some of the most interesting takeaways from a packed two days at the Ol
 Some interesting insight on consumer behaviour and decision-making processes were shared by several industry experts. David Khon, Customer & eCommerce Director at Heal's touched on Fast and Slow Thinking - Fast being automatic, frequent, emotional, stereotypic, unconscious thoughts, and Slow being effortful, infrequent, logical, calculating, conscious thoughts.
 
 David argued that consumers tend to rely on fast thinking when making decisions because it's sometimes too much effort for our brains to engage in slow thinking. Heal’s have been doing some work with Hero on bridging the gap between online and in-store (we covered Hero's work with Harvey Nichols in our [June Monthly Retail Round-Up](https://dressipi.com/blog/monthly-retail-round-up-june-2018/)), using a chat interface that provides a “*digital touch*” - consumers can speak to Heal’s store staff instantly and ask for advice in real time, helping them with “*the tyranny of choice that makes it difficult for consumers to navigate*” so they can come to a decision quicker.
-
-> Download our whitepaper [‘How Dressipi Can Help Retailers Transform Their Biggest Asset’](https://dressipi.com/downloads/how-dressipi-can-help-retailers-transform-their-biggest-asset-whitepaper/) to discover how retailers should be maximising their stores.
 
 Customer expectations are higher than ever at every part of the journey, with the speed at which they get through that journey being paramount. Jonathan Bowers, MD, UKFast did a talk titled ‘The Psychology of Speed in Ecommerce’ where he informed us that consumers “*will wait for live chat for 45 seconds*” and have a “*want it now*” attitude. Jonathan explained that our brains remember the first moment and last moment of any shopping experience – landing page and shopping cart, so retailers better be sure the experience of getting there was as quick and painless as possible if they want to stay in the good books. Essentially, speed = happy customers.
 
@@ -43,8 +41,6 @@ Easy, right? In principle yes, in practice, not so much. The consumer is a fickl
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/IMG_5565.jpg"/></p>
 
 Skip Fidura, Strategy & Insight Director, DotMailer expressed the importance of the timely nature of messaging, “*The consumer wants us to be **where** they want to be, **when** they want to be there, delivering **what** they want to hear in a format that is **convenient to them** at that moment.*” Skip’s stat of 5x more people reading the subject line than actually opening the email highlights the importance of making sure communication is delivered when the consumer is wanting/expecting it and really nailing subject lines.
-
-> Check out our [case study with NBrown](https://dressipi.com/downloads/personalised-email-success-with-n-brown/) where we delivered a bespoke personalised email solution to the JD Williams brand.
 
 Oliver Jones, Commercial Director, UK – Insider spoke about real-time influencing and why customer context is key. Understanding data instantly to influence consumer decision making at that very moment to drive that next transaction (whenever it may be) is extremely powerful.
 
@@ -66,7 +62,7 @@ Nicola Millard, Head of Customer Insights & Futures, BT emphasised how smartphon
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/IMG_5569.jpg"/></p>
 
-In addition, data can and should be used in stores to speak to customers on a truly [one-to-one level](https://dressipi.com/one-to-one-personalisation/). As Simon Calvert pointed out, “*technology enables us to be better shopkeepers*” - it's all about creating a more interactive experience in store, whether through giving style advice or helping the customer validate a purchase. Seth Ellison, Executive VP and President, Europe, Levi’s explained that the brand was proud of the collaborative experience it has created between the customer, their partners and employees, which in 2017 delivered the best results they had for two decades.
+In addition, data can and should be used in stores to speak to customers on a truly one-to-one level. As Simon Calvert pointed out, “*technology enables us to be better shopkeepers*” - it's all about creating a more interactive experience in store, whether through giving style advice or helping the customer validate a purchase. Seth Ellison, Executive VP and President, Europe, Levi’s explained that the brand was proud of the collaborative experience it has created between the customer, their partners and employees, which in 2017 delivered the best results they had for two decades.
 
 ## In Summary…
 
