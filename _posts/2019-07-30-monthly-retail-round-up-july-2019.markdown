@@ -26,7 +26,7 @@ Some of the best articles from the world of retail and its supporting industries
 Research released this July from data agency [Pi Datametrics](https://www.pi-datametrics.com/), showed the online fashion retail brands most in demand on Google in the UK. After analysing 972 retailers, the key findings over the last 3 ½ years were as follows:
 
 * Next came out on top with their brand name being searched 82m times between May 2018-April 2019
-* [John Lewis](https://dressipi.com/clients/) (one of our retail clients) followed in second place with 60.4m searches, and ASOS closely behind with 50m searches
+* [John Lewis](https://dressipi.com/downloads/success-story-john-lewis/) (one of our retail clients) followed in second place with 60.4m searches, and ASOS closely behind with 50m searches
 * Pretty Little Thing and Boohoo (both part of Boohoo PLC) have a combined search volume of 53m, which would bump them up to position 3
 * Pretty Little Thing has grown by 238% when comparing searches between May 2015-April 2016 and May 2018-April 2019. This could be due to shrewd influencer collaborations, prime time promotions during reality TV show ‘Love Island’ and a well-informed pricing strategy
 * JD Sports also displays positive search volume growth over the last four years, rising by 17%. 
