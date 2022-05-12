@@ -25,7 +25,7 @@ description: 'After a busy first day at Millennial 2020, Day 2 began with a keyn
 download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
-After a busy [first day](dressipi.com/blog/millennial-2020-europe-summit-day-1/) at Millennial 2020, Day 2 began with a keynote panel discussing ‘Reinventing the brand’. 
+After a busy [first day](https://dressipi.com/blog/millennial-2020-europe-summit-day-1/) at Millennial 2020, Day 2 began with a keynote panel discussing ‘Reinventing the brand’. 
 
 # Millennial 2020 - Europe Summit Day 2
 
