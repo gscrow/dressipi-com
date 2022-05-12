@@ -23,7 +23,7 @@ Some of the best articles from the world of retail and its supporting industries
 
 # Monthly Retail Round-Up - September 2019
 
-## Dressipi, the world’s only [fashion prediction platform](https://dressipi.com/solutions/predictive-retail/), brings you a round-up of the top retail news this September to keep you up to date.
+## Dressipi, the fashion-AI experts, brings you a round-up of the top retail news this September to keep you up to date.
 
 ### 1) A Partnership for VIP’s Only
 
