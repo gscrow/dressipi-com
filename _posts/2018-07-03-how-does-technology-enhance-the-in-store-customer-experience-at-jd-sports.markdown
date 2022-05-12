@@ -36,7 +36,7 @@ As discussed in Dressipi’s Whitepaper, ‘[How Dressipi can Help Retailers Tra
 
 Furthermore, [Internet Retailing](https://internetretailing.net/themes/themes/-while-81-of-consumers-prefer-physical-stores-so-a-third-can-showroom-15848) reported that 70% of customers enjoy the full experience of going into stores to browse, see what’s new and buy what they like.
 
-However, customers want the convenience and increasingly [personalised experiences](https://dressipi.com/solutions/customer-experience/) they get online to be translated into a store environment. This is where technology comes in - with reports of CVA’s and store closures dominating the press, retailers are turning to cutting-edge technologies to help them boost in-store sales at this turbulent time.
+However, customers want the convenience and increasingly personalised experiences they get online to be translated into a store environment. This is where technology comes in - with reports of CVA’s and store closures dominating the press, retailers are turning to cutting-edge technologies to help them boost in-store sales at this turbulent time.
 
 RFID tagging, barcode scanning, online access mirrors, and self-checkouts are just a few examples of new emerging technologies brought into stores. Furthermore, many retailers are opting to out-source technologies to [innovative startups](https://dressipi.com/blog/dressipi-named-one-of-the-top-50-uk-retail-tech-uk-companies-by-tech-london-advocates/) (e.g. MishiPay, the seamless checkout experience) instead of trying to build the tech in-house.
 
