@@ -57,7 +57,7 @@ Furthermore, there have been growing concerns around the fate of its bricks and 
 
 ### 4) Forever 21 Rolls Out Visual Search Feature
 
-Forever 21 has teamed up with [Donde Search](https://www.dondesearch.com/) to create a new visual search and navigation feature on their website. [Retail Dive](https://www.retaildive.com/news/forever-21-visual-search-tool-boosted-purchase-value-by-20/530770/) reported that the feature *'lets shoppers search by clicking icons representing attributes desired in an outfit, such as a skirt's length and fit, or a shirt's neckline and color, and not have to type terms into a search bar'*.
+Forever 21 has teamed up with Donde Search to create a new visual search and navigation feature on their website. [Retail Dive](https://www.retaildive.com/news/forever-21-visual-search-tool-boosted-purchase-value-by-20/530770/) reported that the feature *'lets shoppers search by clicking icons representing attributes desired in an outfit, such as a skirt's length and fit, or a shirt's neckline and color, and not have to type terms into a search bar'*.
 
 ‘Discover your Style’ was first launched in May on the iOS app but only available for the dresses and tops categories. However, the immediate boost in sales saw the retailer scaling the solution with a spokesman saying (reported in [WWD](https://wwd.com/business-news/technology/forever-21-visual-search-1202776337/)), *“In the first month after launching the feature, Forever 21 saw an increase in sales conversions and a 20% increase in average purchase value for the two test categories. This initial success led Forever 21 executives to fast-track the large-scale web integration of Donde Search’s technology”*.
 
