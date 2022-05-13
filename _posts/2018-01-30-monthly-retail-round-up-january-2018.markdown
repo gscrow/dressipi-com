@@ -22,7 +22,6 @@ image: "/uploads/monthly_round_up_Jan_banner.jpg"
 author: Philippa Mew
 description: Some of the best articles from the world of retail and its supporting
   industries.
-download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
 Some of the best articles from the world of retail and its supporting industries.
