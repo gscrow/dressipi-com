@@ -26,7 +26,6 @@ image: "/uploads/Marketing_Team.jpg"
 author: Philippa Mew
 description: 'Held at The Old Truman Brewery, London, Millennial 2020’s Europe Summit
   was a two-day event exploring the future trends in retail, marketing and commerce. '
-download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
 Held at The Old Truman Brewery, London, Millennial 2020’s Europe Summit was a two-day event exploring the future trends in retail, marketing and commerce. 
