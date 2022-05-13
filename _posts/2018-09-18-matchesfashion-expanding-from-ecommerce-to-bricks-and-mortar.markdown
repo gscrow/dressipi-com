@@ -30,8 +30,6 @@ Luxury ecommerce has rapidly taken off over the past few years with platforms su
 
 Despite this growth, [stores still play a huge role in the customer shopping journey](https://dressipi.com/blog/new-phase-of-retail-evolution-bricks-and-mortar-retailers/). Physical spaces are being occupied by pureplay retailers as a way to showcase their brand, establish a strong brand identity, and engage with their customers in a different way. [Boden opened a new store in January](https://dressipi.com/blog/from-clicks-to-bricks-bodens-new-flagship-store/) and even [Google ](http://www.retail-systems.com/rs/Google_Sizes%20up_Physical_Retail_Store.php)is looking to open its first physical store in Chicago.
 
-> Download our whitepaper [‘How Dressipi Can Help Retailers Transform Their Biggest Asset’](https://dressipi.com/downloads/how-dressipi-can-help-retailers-transform-their-biggest-asset-whitepaper/) to discover how stores can be transformed into a retailer’s biggest asset not their biggest liability through the power of one-to-one personalisation.
-
 Not only do stores allow customers to try on products and allow for face to face style advice, they are also being increasingly introduced to enable immersive brand experiences and encourage the social aspect of shopping. Luxury fashion retailer Matchesfashion has taken this to the next level with 5 Carlos Place, creating a concept space which allows more than just shopping.
 
 ## 5 Carlos Place
