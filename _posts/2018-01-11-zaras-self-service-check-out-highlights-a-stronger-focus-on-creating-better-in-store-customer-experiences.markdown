@@ -31,8 +31,6 @@ One way is solving the problem of how to avoid those long and tiresome queues to
 
 Cue Zara and the self-service checkout. Using a self-checkout is something that’s become second nature for me when shopping at supermarkets or Boots – despite the usual technical glitches involved with unidentified items in the basket or barcodes on scrunched up stickers that are impossible to scan. To be able to have that ‘beat the queue’ option at Zara was something that appealed to me and I felt marked a move towards using technology to create more seamless in-store experiences for the customer.
 
-> Download our whitepaper [‘How Dressipi Can Help Retailers Transform Their Biggest Asset’](https://dressipi.com/downloads/how-dressipi-can-help-retailers-transform-their-biggest-asset-whitepaper/) to discover how stores can be transformed into a retailer’s biggest asset not their biggest liability through the power of one-to-one personalisation.
-
 Zara is trialling out this service at one of its Oxford Street stores. On the downside, if I hadn’t read about it on Twitter, I wouldn’t have known it existed. The self-service kiosks are located upstairs on the first floor tucked away, albeit in a very sleek and almost zen-like section. It’s also not immediately obvious what they are.
 
 <p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Zara%201_resized.jpg"/></p>
