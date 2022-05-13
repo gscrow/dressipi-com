@@ -22,14 +22,13 @@ description: With the athleisure trend rapidly growing, and reports of internati
   store expansion in the press, Georgina Fisher visited JD Sports’ flagship on Oxford
   Street to see what technologies they have adopted to improve customer experience
   in-store.
-download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
 When a customer walks into a store they expect a great experience, and these expectations are continuously growing.
 
 # How does Technology Enhance the In-Store Customer Experience at JD Sports?
 
-As discussed in Dressipi’s Whitepaper, ‘[How Dressipi can Help Retailers Transform their Biggest Asset](https://dressipi.com/downloads/how-dressipi-can-help-retailers-transform-their-biggest-asset-whitepaper/)’, physical stores will continue to play a significant role in the customer’s shopping journey. Bricks and mortar retailers offer an experience that customers cannot get online, a fact supported by data in the most recent Retail Sector Report ([I-AM](https://i-amonline.com/press/retail-technology-review-2018-retail-sector-report-convergence-continuum/)):
+Physical stores will continue to play a significant role in the customer’s shopping journey. Bricks and mortar retailers offer an experience that customers cannot get online, a fact supported by data in the most recent Retail Sector Report ([I-AM](https://i-amonline.com/press/retail-technology-review-2018-retail-sector-report-convergence-continuum/)):
 
 * 74% still prefer physical stores compared to just 26% preferring online shopping
 * 49% of people said their most loved element of the in-store experience is touching and trying things out
