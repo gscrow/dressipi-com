@@ -22,7 +22,6 @@ image: "/uploads/retail-tech-banner-image.jpg"
 author: Philippa Mew
 description: Dressipi was delighted to be named one of the Top 50 UK Retail Tech companies
   switching up the fashion game by Tech London Advocates.
-download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
 Following hot on the heels of San Francisco and New York, London is a city brimming with tech talent. 
