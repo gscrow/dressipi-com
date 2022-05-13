@@ -22,7 +22,6 @@ image: "/uploads/Panel_Day2.jpg"
 author: Philippa Mew
 description: 'After a busy first day at Millennial 2020, Day 2 began with a keynote
   panel discussing ‘Reinventing the brand’. '
-download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
 After a busy [first day](https://dressipi.com/blog/millennial-2020-europe-summit-day-1/) at Millennial 2020, Day 2 began with a keynote panel discussing ‘Reinventing the brand’. 
