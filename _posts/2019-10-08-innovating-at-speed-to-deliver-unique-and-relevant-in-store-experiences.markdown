@@ -32,7 +32,6 @@ description: Online is on its way to personalising experiences for every individ
   customer but what should this experience look like in-store? Dressipi's Co-Founder
   Sarah McVittie outlines the challenges of applying a hyper-personalised in-store
   experience to the fashion industry and the steps retailers can take to get there.
-download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
 ## Why fashion-specific customer experiences can drive profitability and loyalty in-store.
