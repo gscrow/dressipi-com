@@ -3,9 +3,9 @@ title: Thanks for downloading
 date: 2022-05-13 15:02:00 Z
 published: false
 header:
-  title: Check your inbox, your whitepaper is on it's way...
+  title: Your whitepaper is on it's way...
   body: |-
-    We've emailed the whitepaper to the email you gave us. If you don't see it soon have a peek in your junk folder.
+    Check your inbox for a link to the whitepaper you requested. If you don't see it soon have a peek in your junk folder.
 
     **While you wait, check out how:**
 
