@@ -63,29 +63,25 @@ layout: default
       {% endif %}
       {{ content }}
       </div>
-      <!-- download form -->
+      {% if page.download.formId %}
       <div class="hero__form">
         <div class="form-download">
           <hgroup class="form-download__heading">
             <h3>{{ page.form.title }} </h3>
           </hgroup>
-
-          <form class="form-download__form" method="POST" action="https://formspree.io/mgoaajkm">
-            <input type="text" name="_gotcha" style="display: none">
-            <input type="hidden" name="_next" value="{{ page.download.file | default: '/' }}" />
-            <input type="hidden" name="_subject" value="New Download – Email submission" />
-            <!-- hidden field to be tested -->
-            <input type="hidden" name="page url" value="{{ page.url }}" />
-            <input class="form-download__input" type="input" name="name" placeholder="Enter your name" required>
-            <input class="form-download__input" type="email" name="email" placeholder="Enter your work email" required>
-            <input type="checkbox" name="marketing"  id="checkOpt" name="subscribe">
-            <label for="checkOpt" class="checkOpt__label">{{ page.download.checkbox }}</label>
-            <button class="button button--large button-primary form-download__submit {{page.form.button_class}}" type="submit" formtarget="_blank">
-              {{ page.download.button }}
-            </button>
-          </form>
+          <!-- Start Hubspot download form -->
+          <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+          <script>
+            hbspt.forms.create({
+            region: "na1",
+            portalId: "9442988",
+            formId: "{{ page.download.formId }}"
+          });
+          </script>
+          <!-- End Hubspot download form -->
         </div>
       </div>
+      {% endif %}
     </div>
   </div>
 </header>

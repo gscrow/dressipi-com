@@ -4,7 +4,7 @@ layout: default
 
 {% assign my_page_url = page.url | remove: '/' | remove: 'resources' %}
 
-{% assign guides = site.downloads | sort: 'position' | where: 'resource', 'Guide' %}
+{% assign guides = site.downloads | sort: 'position' | where: 'resource', 'Guides' %}
 
 <section class="section section-resources">
   <div class="container">
@@ -28,7 +28,6 @@ layout: default
 			  </div>
       	{% endfor %}
       </section>
-
 		</div>
 	</div>
 </div>
