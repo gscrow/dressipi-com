@@ -19,20 +19,12 @@ layout: default
 					<div class="resource__content">
 						{{ download.list-content | markdownify }}
 						{% if download.button %}
-						{%- if download.registration -%}
-							<p><a href="/downloads/gated-value-of-data/" class="button button--medium button-primary">{{ download.button }}</a></p>
-							{%- else -%}
 						<p><a href="{{ download.url }}" class="button button--medium button-primary">{{ download.button }}</a></p>
-						{% endif %}
 						{%- endif -%}
 					</div>
 					{% if download.image %}
 					<div class="resource__image">
-						{%- if download.registration -%}
-						<a href="/downloads/gated-value-of-data/">
-							{%- else -%}
 						<a href="{{ download.url }}">
-						{%- endif -%}	
 							<p><img src="{{download.image}}" title="{{ download.title }}" /></p>
 						</a>
 					</div>
@@ -40,7 +32,6 @@ layout: default
 				</div>
 				{% endfor %}
 			</section>
-
 		</div>
 	</div>
 	</div>

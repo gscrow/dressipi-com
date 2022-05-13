@@ -5,7 +5,6 @@ resource: Webinars
 image: "/uploads/unlocking-the-value-of-data-webinar.png"
 is-landing-page: true
 includes-video: true
-registration: true
 video-url: https://dressipi.com/media/unlocking-the-value-of-data-webinar.mp4
 video-mask: "/uploads/unlocking-the-value-of-data-webinar.png"
 list-content: |-
