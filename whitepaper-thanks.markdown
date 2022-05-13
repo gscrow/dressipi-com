@@ -5,7 +5,7 @@ published: false
 header:
   title: Your whitepaper is on it's way...
   body: |-
-    Check your inbox for a link to the whitepaper you requested. If you don't see it soon have a peek in your junk folder.
+    *Check your inbox for a link to the whitepaper you requested. If you don't see it soon have a peek in your junk folder.*
 
     **While you wait, check out how:**
 
