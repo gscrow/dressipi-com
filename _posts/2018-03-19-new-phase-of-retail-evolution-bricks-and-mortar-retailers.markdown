@@ -20,7 +20,6 @@ image: "/uploads/timothy-muza-572-unsplash.png"
 author: Donna North
 description: Bricks & mortar retailers won't die, they'll evolve. Donna North, Dressipi’s
   Co-Founder discuss a new and exciting phase for retail.
-download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
 Bricks & Mortar retailers won't die, they'll evolve. Donna North, Dressipi's Co-Founder discusses a new and exciting phase of retail.
