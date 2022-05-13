@@ -15,7 +15,6 @@ image: "/uploads/20190501_132158.jpg"
 author: Philippa Mew
 description: If you were unable to make the yearly Retail Expo or couldn’t fit in
   all the talks, here are the best bits over two days.
-download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
 If you were unable to make the yearly Retail Expo or couldn’t fit in all the talks, here are the best bits over two days.
