@@ -19,7 +19,6 @@ author: Philippa Mew
 description: Omnichannel. Or is it ‘Multichannel’? How about ‘A Single View of the
   Customer’? Highlights from this year's Omnichannel Retail Summit, hosted by Retail
   Bulletin.
-download: How Dressipi Can Help Retailers Transform Their Biggest Asset
 ---
 
 Highlights from this year's Omnichannel Retail Summit, hosted by Retail Bulletin.
