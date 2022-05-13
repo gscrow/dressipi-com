@@ -6,7 +6,7 @@ resource: Guides
 image: "/uploads/Five_Things_Whitepaper_small.jpg"
 download:
   title: Download Free Whitepaper
-  formId: "75d2353d-4024-45ab-8330-c2c4015a76ae"
+  formId: 75d2353d-4024-45ab-8330-c2c4015a76ae
 testimonial:
   action: Download
 position-list: 4
