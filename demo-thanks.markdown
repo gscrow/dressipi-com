@@ -5,7 +5,7 @@ position: 2
 header:
   title: Thanks for your demo request!
   body: |-
-    You'll hear from our team soon. In the meantime check out how...
+    You'll hear from our team soon. In the meantime, check out how...
 
     * [John Lewis](https://dressipi.com/downloads/success-story-john-lewis/) increased revenue with outfit recommendations
 

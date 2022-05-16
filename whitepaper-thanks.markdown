@@ -5,13 +5,13 @@ published: false
 header:
   title: Your whitepaper is on it's way to your inbox...
   body: |-
-    **While you wait, check out how:**
+    While you wait, check out how:
 
-    * [John Lewis](https://dressipi.com/downloads/success-story-john-lewis/) used outfit recommendations to grow sales
+    * [John Lewis](https://dressipi.com/downloads/success-story-john-lewis/) increased revenue with outfit recommendations
 
-    * [River Island](https://dressipi.com/downloads/success-story-river-island/) increased AOV by 5%
+    * [River Island](https://dressipi.com/downloads/success-story-river-island/) increased revenue by 6% in 12 months
 
-    * [Belstaff](https://dressipi.com/downloads/success-story-belstaff/) increased email conversion rates by 32% with personalized recommendations
+    * [Belstaff](https://dressipi.com/downloads/success-story-belstaff/) increased email revenue by 69% with personalized recommendations
   button:
     copy: MORE CASE STUDIES
     url: https://dressipi.com/customers/
