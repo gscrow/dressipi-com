@@ -1,6 +1,7 @@
 ---
 title: Thanks for downloading
 date: 2022-05-13 15:02:00 Z
+published: false
 header:
   title: Your whitepaper is on it's way to your inbox...
   body: |-
