@@ -32,7 +32,7 @@ sections:
   handle: features
   class: index-features
   subsections:
-  - title: Helping All Visitors Find Their Best Products Faster
+  - title: Help All Visitors Find Their Best Products Faster
     subtitle: PRODUCT DISCOVERY
     class: index-product-discovery
     body: "Provide intent-driven categories, filters & personalised recommendations
@@ -45,7 +45,7 @@ sections:
     subtitle: PRODUCT EXPERIENCE
     color: white
     body: Inspire with outfits relevant to each visitor, showing the value of every
-      product & how to wear your brand their way.
+      product & how to wear your brand their way
     image: "/uploads/banner-product-experience.png"
     hres-image: "/uploads/banner-product-experience.png"
     link: Learn More >
@@ -53,7 +53,7 @@ sections:
   - title: Optimise Future Product Assortments & Size Ratios
     subtitle: PRODUCT FORECASTING
     body: Ensure you have the right products to meet demand, significantly reducing
-      overstock & discounting whilst hugely improving your ESG credentials.
+      overstock & discounting whilst hugely improving your ESG credentials
     image: "/uploads/banner-product-forecasting.png"
     hres-image: "/uploads/banner-product-forecasting.png"
     link: Learn More >
