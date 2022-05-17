@@ -3,7 +3,7 @@ title: Product Discovery
 position: 1
 navigation: solution-footer
 header:
-  title: Helping All Visitors Find Their Best Products Faster
+  title: Help All Visitors Find Their Best Products Faster
   body: |-
     <p class="header__banner-subtitle">
     Provide intent-driven categories, filters & personalised recommendations for first time visitors as well as repeat customers
