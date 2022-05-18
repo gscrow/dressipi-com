@@ -47,34 +47,6 @@ layout: default
 		<div class="landing__content">
 			{{content}}
 		</div>
-		<div class="landing__form">
-
-    {% if page.downloads %}
-			{% assign downloads = site.downloads %}
-      {% for download in downloads %}
-      {% if page.downloads contains download.title %}
-			<div class="form-download">
-        <hgroup class="form-download__heading">
-          <h3>{{ download.form.title }}</h3>
-        </hgroup>
-
-        <form class="form-download__form" method="POST" action="https://formspree.io/mgoaajkm">
-          <input type="text" name="_gotcha" style="display: none">
-          <input type="hidden" name="_next" value="{{ download.form.file | default: '/' }}" />
-          <input type="hidden" name="_subject" value="New Download – Email submission" />
-          <!-- hidden field to be tested -->
-          <input type="hidden" name="download url" value="{{ download.url }}" />
-          <button class="button button--large button-primary form-download__submit {{download.form.button_class}}" type="submit">
-            {{ download.form.button }}
-          </button>
-        </form>
-      </div>
-		  {% endif %}
-      {% endfor %}
-    {% elsif page.is-demo-page %}
-      {% include partials/form-demo.html %}
-		{% endif %}
-    </div>
 	</div>
 </section>
 {% endunless %}
