@@ -1,6 +1,6 @@
 ---
 title: Webinars
-position: 0
+position: 2
 navigation: resource-footer
 header:
   title: Dressipi Webinars

@@ -1,7 +1,7 @@
 ---
 title: Guides
 permalink: "/resources/guides/"
-position: 3
+position: 1
 navigation: resource-footer
 header:
   title: Dressipi Guides
