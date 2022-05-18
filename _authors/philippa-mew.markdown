@@ -6,6 +6,6 @@ header:
   title: Pip Mew
   body: xxx
 twitter: "@pipmew"
-linkedin: 
+linkedin: https://www.linkedin.com/in/georgina-fisher-408689151/
 ---
 
