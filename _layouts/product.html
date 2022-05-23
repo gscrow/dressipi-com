@@ -61,13 +61,15 @@ assign my_page_url = page.url | remove: '/' %}
             </p>
             <p class="benefit__description">{{ subsection.number-left-description }}</p>
           </div>
+          {% if subsection.number-center %}
           <div class="platform__description">
             <p class="benefit__number">
-              <span class="number">{{ subsection.number-center}}</span>
-              <span class="percentage-sign">{{ subsection.value-center}}</span>
+              <span class="number">{{ subsection.number-center }}</span>
+              <span class="percentage-sign">{{ subsection.value-center }}</span>
             </p>
             <p class="benefit__description">{{ subsection.number-center-description }}</p>
           </div>
+          {% endif %}
           <div class="platform__description">
             <p class="benefit__number">
               <span class="number">{{ subsection.number-right }}</span>
