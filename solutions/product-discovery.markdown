@@ -1,6 +1,6 @@
 ---
 title: Product Discovery
-position: 1
+position: 2
 navigation: solution-footer
 header:
   title: Help All Visitors Find Their Best Products Faster
