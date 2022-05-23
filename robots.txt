@@ -7,6 +7,7 @@ Disallow: /thanks-for-registering/
 Disallow: /shoptalk-contact/
 Disallow: /*.pdf
 Disallow: /404/
+Disallow: /404.html
 Disallow: /135462-inditex/
 Disallow: /135462-tendam/
 Disallow: /248357-nordstrom/
