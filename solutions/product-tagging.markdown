@@ -13,21 +13,25 @@ header:
     url: "/company/demo/"
     style: primary
   hero-image: "/uploads/banner-product-tagging.png"
-  page-title: "Product Tagging: Learn More"
+  page-title: Product Tagging
   page-title-icon: "/uploads/icon_product-tagging.svg"
 description: Get quality and accurate data that can be used intelligently throughout the business
 
 sections:
 - title: Quality Product & Brand Data
-  handle: no-video
+  handle: slide
   subtitle: Address the most fundamental issues retailers experience - inconsistent product & brand data, attribution errors and missing values - with the most comprehensive taxonomy of attributes, built by fashion stylists and scaled by AI
+  subsections:
+  - title: 
+    color: lighter
+    image: "/uploads/quality-product-brand-data-desktop.png"
+
 - title: 
   handle: features
-
   subsections:
   - title: Increase Conversion
     color: lighter
-    # class: solution-products-predict
+    class: solution-products-predict
     mini-title: INTERNAL/PAID SEARCH
     body: Accurate and consistent attributes deliver search results that visitors actually want to see, making them more likely to convert
     image: "/uploads/Tagging_Increase_Conversion@2x.png"
@@ -37,8 +41,7 @@ sections:
       url: "/downloads/attributes-whitepaper/"
 
   - title: Boost Product Discovery
-    color: lighter
-    # class: solution-products-relevancy
+    class: solution-products-relevancy
     mini-title: PERSONALIZED RECOMMENDATIONS & OUTFITS
     body: Detailed and deeper attributes lead to better product discovery experiences and can work collectively to create personalized outfits
     image: "/uploads/Tagging_Boost_Product_Discovery@2x.png"
@@ -48,6 +51,7 @@ sections:
       url: "/downloads/attributes-whitepaper/"
 
   - title: Reduce Size Fragmentation
+    color: lighter
     mini-title: SUPPLY CHAIN OPTIMIZATION
     # class: solution-products-conversion
     body: Granular attributes can lead to more sophisticated AI-driven product forecasting models accurately predicting the correct size ratio for any product based on demand
