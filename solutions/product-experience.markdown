@@ -1,6 +1,6 @@
 ---
 title: Product Experience
-position: 2
+position: 3
 navigation: solution-footer
 header:
   title: Create Customer-Centred, Fashion Experiences

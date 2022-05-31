@@ -1,6 +1,6 @@
 ---
 title: Product Forecasting
-position: 3
+position: 4
 navigation: solution-footer
 header:
   title: Optimise Future Product Assortments & Size ratios.
