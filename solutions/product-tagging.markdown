@@ -38,7 +38,7 @@ sections:
     hres-image: "/uploads/Tagging_Increase_Conversion@2x.png"
     action:
       copy: Learn More >
-      url: "/downloads/attributes-whitepaper/"
+      url: "/company/demo/"
 
   - title: Boost Product Discovery
     class: solution-products-relevancy
@@ -48,7 +48,7 @@ sections:
     hres-image: "/uploads/Tagging_Boost_Product_Discovery@2x.png"
     action:
       copy: Learn More >
-      url: "/downloads/attributes-whitepaper/"
+      url: "/company/demo/"
 
   - title: Reduce Size Fragmentation
     color: lighter
@@ -59,7 +59,7 @@ sections:
     hres-image: "/uploads/Tagging_Reduce_Size_Fragmentation@2x.png"
     action:
       copy: Learn More >
-      url: "/downloads/attributes-whitepaper/"
+      url: "/company/demo/"
 
 - title: Increase Revenue and Efficiency
   paragraph-narrow: true
