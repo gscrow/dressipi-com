@@ -53,7 +53,6 @@ sections:
   - title: Reduce Size Fragmentation
     color: lighter
     mini-title: SUPPLY CHAIN OPTIMIZATION
-    # class: solution-products-conversion
     body: Granular attributes can lead to more sophisticated AI-driven product forecasting models accurately predicting the correct size ratio for any product based on demand
     image: "/uploads/Tagging_Reduce_Size_Fragmentation@2x.png"
     hres-image: "/uploads/Tagging_Reduce_Size_Fragmentation@2x.png"
