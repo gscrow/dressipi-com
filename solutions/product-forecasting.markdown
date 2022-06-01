@@ -3,7 +3,7 @@ title: Product Forecasting
 position: 4
 navigation: solution-footer
 header:
-  title: Optimise Future Product Assortments & Size ratios.
+  title: Optimise Future Product Assortments & Size Ratios
   body: <p class="header__banner-subtitle">Ensure you have the right products to meet
     demand, significantly reducing overstock & discounting whilst hugely improving
     your ESG credentials</p>

@@ -22,7 +22,7 @@ sections:
   handle: no-video
   subtitle: Updated in real time, the <a href="/platform/" target="_blank"> Dressipi
     platform</a> delivers relevant products & inspiration online, in-store, in-app,
-    email and through new journeys of the future (VR & AR).
+    email and through new journeys of the future (VR & AR)
 - title: 
   handle: features
   subsections:
@@ -62,7 +62,7 @@ sections:
   paragraph-narrow: true
   subtitle: Dressipi algorithms are updated in real-time, based on in-session customer
     behaviour and changes in product availability so our clients deliver on their
-    key KPI’s.
+    key KPI’s
   handle: revenue
   subsections:
   - title: 
