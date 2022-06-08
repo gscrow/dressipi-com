@@ -3,6 +3,7 @@ title: Natalie Data Blog
 date: 2022-06-08 11:01:00 Z
 tags:
 - data
+image: "/uploads/natalie_data_blog-banner.jpg"
 author: Natalie Theo
 ---
 
