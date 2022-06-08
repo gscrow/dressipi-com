@@ -7,7 +7,9 @@ image: "/uploads/natalie_data_blog-banner.jpg"
 author: Natalie Theo
 ---
 
-From tricky trends to spring/summer favourites, what trends your customers are buying into and how they’re wearing them is integral in how our Dressipi data helps to inspire merchandising each season. Bold brights, our favourite summer whites and perennial florals bring nothing new to the seasonal spring/summer palettes. But how to wear and ‘will you wear?’ top-to-toe colour, whether you highlight or not with accents of neon and where those on-trend cut-out details might be placed, do. 
+## From tricky trends to spring/summer favourites, what trends your customers are buying into and how they’re wearing them is integral in how our Dressipi data helps to inspire merchandising each season. 
+
+Bold brights, our favourite summer whites and perennial florals bring nothing new to the seasonal spring/summer palettes. But how to wear and ‘will you wear?’ top-to-toe colour, whether you highlight or not with accents of neon and where those on-trend cut-out details might be placed, do. 
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 1000px;" src="/uploads/natalie_data_blog-slide_1.jpeg"/></p>
 
