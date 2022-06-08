@@ -14,4 +14,8 @@ How much is too much? If the catwalks were anything to go by flesh baring cut-ou
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 1000px;" src=""/></p>
 
-When it comes to dresses bold brights – from plain to prints - always a trusty summer wardrobe pick-me-up are seeing a steady rise, up from 16% total dress revenue in 2019 to 19% 2022 and as we head into summer holidays no doubt expected to rise. But bright colours this season are not just about the versatile joy of a throw-on-and-go dress. Separates and suiting - Dior and Prada - offer a bold alternative to the dress. And here it’s all in the way this trend is worn. Are your customers going down the top-to-colour-blocking route? Do they have a preference for a monotone take on the trend or do they favour bold clashing shades? For more see Dressipi XXXX
+When it comes to dresses bold brights – from plain to prints - always a trusty summer wardrobe pick-me-up are seeing a steady rise, up from 16% total dress revenue in 2019 to 19% 2022 and as we head into summer holidays no doubt expected to rise. But bright colours this season are not just about the versatile joy of a throw-on-and-go dress. Separates and suiting - Dior and Prada - offer a bold alternative to the dress. And here it’s all in the way this trend is worn. Are your customers going down the top-to-colour-blocking route? Do they have a preference for a monotone take on the trend or do they favour bold clashing shades?
+
+For more, visit the <a href="https://dressipi.com/resources/blog/">Dressipi blog</a>.
+
+<p style="text-align:center"><a href="/company/demo/" class="button button-primary">CONTACT US</a></p>
