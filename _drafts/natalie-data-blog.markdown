@@ -7,7 +7,7 @@ categories:
 - Fashion trends
 tags:
 - data
-image: "/uploads/natalie_data_blog-banner.jpg"
+image: "/uploads/spring_summer_2022_trends-banner.jpg"
 author: Natalie Theo
 description: "Style Director, Natalie Theo describes the top Spring/Summer 2022 trends
   and how Dressipi data helps inspire merchandising each season. \n"
