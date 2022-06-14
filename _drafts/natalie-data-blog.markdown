@@ -1,10 +1,16 @@
 ---
-title: Natalie Data Blog
+title: Spring/Summer 2022 Fashion Trends
 date: 2022-06-08 11:01:00 Z
+categories:
+- S/s 22 Trends
+- Spring/summer trends
+- Fashion trends
 tags:
 - data
 image: "/uploads/natalie_data_blog-banner.jpg"
 author: Natalie Theo
+description: "Style Director, Natalie Theo describes the top Spring/Summer 2022 trends
+  and how Dressipi data helps inspire merchandising each season. \n"
 ---
 
 ## From tricky trends to spring/summer favourites, what trends your customers are buying into and how they’re wearing them is integral in how our Dressipi data helps to inspire merchandising each season. 
