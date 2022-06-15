@@ -1,5 +1,5 @@
 ---
-title: How does Technology Enhance the In-Store Customer Experience at JD Sports?
+title: Technology for In-Store Experiences at JD Sports
 date: 2018-07-03 11:12:00 Z
 categories:
 - retail
