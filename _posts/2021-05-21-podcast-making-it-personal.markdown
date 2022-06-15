@@ -3,6 +3,8 @@ title: 'PODCAST: Making It Personal'
 date: 2021-05-21 12:35:00 Z
 image: "/uploads/PodcastBanner.JPG"
 author: Sarah McVittie
+description: Customers now expect an inspirational, personalized and relevant online
+  experience. How can retailers deliver a valuable, emotional experience?
 ---
 
 Customers don’t want a flat journey that shows the same products in the same order to everyone. They want an inspirational, personalised experience that is completely relevant to them. How do retailers deliver a valuable, emotional online experience? 
