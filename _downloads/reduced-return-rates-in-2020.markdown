@@ -1,6 +1,5 @@
 ---
-title: 'Dressipi Workshop: The Silver Lining of COVID: Lower Return Rates - But Don''t
-  Get Too Comfortable'
+title: 'Workshop: How Covid Ushered Lower Return Rates'
 position: 35
 resource: Webinars
 image: "/uploads/returns-workshop.png"
