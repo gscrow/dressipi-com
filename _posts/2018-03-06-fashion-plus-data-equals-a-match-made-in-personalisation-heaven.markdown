@@ -16,9 +16,9 @@ tags:
 - data
 image: "/uploads/natalie-nick.jpg"
 author: Natalie Theo
-description: Fashion Authority can't be taught and it can't be bought. Natalie Theo,
-  Dressipi’s Style Director explores the importance of fashion intuition, and how
-  combining it with data creates a powerful personalisation solution.
+description: Fashion authority can’t be taught or bought. Dressipi’s Style Director
+  explains fashion intuition and how to use data to create a powerful personalized
+  solution.
 download: Delivering One-to-One Personalisation for Wallis
 ---
 
