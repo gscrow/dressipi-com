@@ -1,5 +1,5 @@
 ---
-title: 'Return Rates: A Real Headache for Fashion Retailers… and the Environment'
+title: 'Return Rates: A Worry For Retailers & The Environment'
 date: 2022-01-10 22:13:00 Z
 categories:
 - data
