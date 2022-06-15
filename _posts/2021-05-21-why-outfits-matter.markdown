@@ -10,9 +10,9 @@ tags:
 - ai outfit
 image: "/uploads/OufitBanner.jpeg"
 author: Natalie Theo
-description: Style Director, Natalie Theo discusses the importance of having both
-  fashion stylists and AI when scaling a brand's creativity and creating truly personalised
-  outfits to each and every customer.
+description: Style Director, Natalie Theo discusses the importance of having fashion
+  stylists and AI when scaling a brand’s creativity and creating truly personalized
+  outfits.
 ---
 
 ## Nice outfit! Thanks, an algorithm styled it for me. Controversial? Maybe. 
