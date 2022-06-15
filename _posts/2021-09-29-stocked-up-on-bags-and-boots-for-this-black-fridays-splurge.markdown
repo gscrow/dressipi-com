@@ -15,10 +15,8 @@ image: "/uploads/BlackFridayBanner.jpg"
 author: Georgina Fisher
 button:
   Key: 
-description: 'To help you get ready for peak, we have analysed the Black Friday numbers
-  from the last 3 years, found out what your customers are buying and what promotions
-  you need to give to ensure profitable relationships with them. Plus, our top tips
-  to make the period as successful as possible
+description: 'Get Black Friday ready by discovering what customers are buying, what
+  promotions you need and how to make the period as successful and profitable as possible.
 
 '
 ---
