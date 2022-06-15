@@ -11,9 +11,8 @@ tags:
 - consumer behaviour
 image: "/uploads/SustainabilityBanner.jpg"
 author: Sarah McVittie
-description: With lots of changes in the retail industry, our data analysts have been
-  monitoring consumer behaviour to discover how people are dressing and expressing
-  themselves post-pandemic with some interesting findings.
+description: With stark changes to the retail industry, our data analysts monitored
+  post-pandemic consumer behaviour to unravel how fashion habits have evolved.
 ---
 
 ## Some interesting findings from our data analysts.
