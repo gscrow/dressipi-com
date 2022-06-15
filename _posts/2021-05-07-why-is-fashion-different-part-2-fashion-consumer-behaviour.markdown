@@ -18,10 +18,8 @@ tags:
 - fashion personalisation
 image: "/uploads/WhyFashionDifferentBanner-b94292.jpg"
 author: Nick Landia
-description: 'Chief Data Scientist, Nick Landia has observed the many reasons why
-  fashion recommendations are so hard to do throughout his time at Dressipi. Part
-  2 in his blog series digs deeper into the impact consumer behaviour has on building
-  recommender systems for the fashion domain. '
+description: Dressipi’s Data Scientist digs deeper into the impact consumer behaviour
+  has on building recommender systems for the fashion domain.
 ---
 
 ## Fashion Consumer Behaviour
