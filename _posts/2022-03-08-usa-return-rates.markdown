@@ -4,6 +4,8 @@ date: 2022-03-08 11:07:00 Z
 published: false
 image: "/uploads/Returns2022_Banner.jpg"
 author: Sarah McVittie
+description: The last 2 years stirred huge uncertainty for fashion retailers but it
+  is beginning to steady. Read our analysis on what this means for return rates.
 ---
 
 ### After 2 years of lockdowns and disruptions, apparel/fashion retail is recovering in the US. 
