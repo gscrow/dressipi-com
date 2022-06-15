@@ -1,5 +1,5 @@
 ---
-title: Personalized Emails Are Key In A Post-COVID World
+title: Personalized Emails Are Key In A Post-Covid World
 date: 2020-08-24 15:40:00 Z
 categories:
 - Tech
