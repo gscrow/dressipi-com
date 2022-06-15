@@ -1,5 +1,5 @@
 ---
-title: 'Post-Purchase Emails: Helping Customers Make the Most of Their Purchases'
+title: Improve Customer Experience With Post-Purchase Emails
 date: 2021-07-20 13:05:00 Z
 categories:
 - retail
