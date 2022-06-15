@@ -1,5 +1,5 @@
 ---
-title: Segmentation vs Personalisation
+title: Segmentation vs Personalization
 date: 2018-11-21 14:32:00 Z
 categories:
 - data
@@ -20,10 +20,8 @@ tags:
 - true personalisation
 image: "/uploads/rawpixel-1080873-unsplash%20(1).jpg"
 author: Donna North
-description: How best to target customers and deliver products and experiences that
-  are truly relevant to them is a hotly debated topic. Dressipi's Co-Founder Donna
-  North looks at Segmentation vs Personalisation, and why the latter will soon become
-  the norm.
+description: Dressipi looks at Segmentation vs Personalization, and why the latter
+  will soon prevail
 download: Beginner's Guide to Fashion Personalisation
 ---
 
