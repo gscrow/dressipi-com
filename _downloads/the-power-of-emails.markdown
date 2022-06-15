@@ -1,6 +1,5 @@
 ---
-title: 'Dressipi Webinar: Don''t Underestimate the Power of Emails: Maximise Your
-  Most Powerful Asset'
+title: 'Webinar: Emails are Your Most Powerful Asset'
 position: 36
 resource: Webinars
 image: "/uploads/emails-webinar.png"
