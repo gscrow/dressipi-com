@@ -2,6 +2,7 @@
 title: Unlocking Insights and Driving Growth with Fashion-Specific Data
 date: 2022-06-15 16:35:00 Z
 published: false
+author: Georgina Fisher
 ---
 
 ## In fashion, there is plenty of data available on marketing channels and transactions. However, retailers never had quality data for what the customers care about the most - the clothes. 
