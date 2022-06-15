@@ -16,9 +16,8 @@ tags:
 - product discovery
 image: "/uploads/ShoptalkBlog_Banner3.jpg"
 author: Sarah McVittie
-description: 'Apparel retailers are facing another period of uncertainty so protecting
-  profits will be critical. Discover how to drive profitability with better data used
-  in the right way. '
+description: In periods of uncertainty, protecting profits for retailers is crucial.
+  Learn how to drive profitability with better data used in the right way.
 ---
 
 ### Apparel retailers are facing another period of uncertainty so protecting profits will be critical. Fixing the quality and depth of data at the top of the funnel will deliver outsized impacts on the profitability for retailers. 
