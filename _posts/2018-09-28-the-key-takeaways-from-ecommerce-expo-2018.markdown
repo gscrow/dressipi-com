@@ -10,9 +10,8 @@ tags:
 - omnichannel
 image: "/uploads/20180927_125227.jpg"
 author: Philippa Mew
-description: For those who weren't able to make the yearly Ecommerce Expo, or simply
-  didn't have enough time to squeeze in the best talks, here are our main takeways
-  from the event.
+description: For those who weren’t able to make the yearly E-commerce Expo, here are
+  our main takeaway from the event
 download: Five Things Every Retailer Should Know About Personalisation
 ---
 
