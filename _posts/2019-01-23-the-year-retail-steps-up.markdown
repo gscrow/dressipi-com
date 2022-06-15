@@ -22,9 +22,8 @@ tags:
 - sustainability
 image: "/uploads/commerce-crown-group-374894%20(1).jpg"
 author: Philippa Mew
-description: 2018 was undoubtedly a tough year for retail and one that will be remembered
-  for many years to come. As we look to the year ahead, these are our top predictions
-  for 2019.
+description: 2018 was undoubtedly a tough year for retail and one that will be remembered.
+  As we look to the year ahead, these are our top predictions for 2019.
 download: Five Things Every Retailer Should Know About Personalisation
 ---
 
