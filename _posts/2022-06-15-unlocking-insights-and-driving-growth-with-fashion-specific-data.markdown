@@ -38,4 +38,6 @@ The most helpful thing to do when starting your data journey is to create a set 
 
 However, data doesn't come from anywhere. If people are creating the data, they have to fundamentally care that it’s accurate for the product and the customer. Therefore it should not be delegated to an administrator. They need to understand the process and the impact they are having on that end.
 
-…even better - automate and create <a href="https://dressipi.com/solutions/product-tagging/">data through AI</a>!
+…even better - automate and create [data through AI](https://dressipi.com/solutions/product-tagging/)!
+
+## The Future of Data
