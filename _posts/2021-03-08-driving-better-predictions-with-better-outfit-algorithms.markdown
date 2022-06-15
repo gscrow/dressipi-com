@@ -1,5 +1,5 @@
 ---
-title: 'Personalised Outfits: Accuracy & Specifity of Garment Data is Key'
+title: Accurate Garment Data is Key for Personalized Outfits
 date: 2021-03-08 15:56:00 Z
 categories:
 - tech
