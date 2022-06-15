@@ -18,10 +18,8 @@ tags:
 - physical store
 image: "/uploads/JD-sports-banner.jpg"
 author: Georgina Fisher
-description: With the athleisure trend rapidly growing, and reports of international
-  store expansion in the press, Georgina Fisher visited JD Sports’ flagship on Oxford
-  Street to see what technologies they have adopted to improve customer experience
-  in-store.
+description: With athleisure on the rise, we visited JD Sport’s flagship on Oxford
+  street to see which technologies they use to improve experiences in-store.
 ---
 
 When a customer walks into a store they expect a great experience, and these expectations are continuously growing.
