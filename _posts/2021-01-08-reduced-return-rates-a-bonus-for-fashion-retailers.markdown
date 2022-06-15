@@ -1,5 +1,5 @@
 ---
-title: 'Reduced Return Rates: A Bonus For Fashion Retailers...But Don''t Get Too Comfortable'
+title: The Truth Behind Reduced Return Rates
 date: 2021-01-08 09:50:00 Z
 categories:
 - data
