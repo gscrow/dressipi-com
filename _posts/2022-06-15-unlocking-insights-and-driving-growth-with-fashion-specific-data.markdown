@@ -18,7 +18,7 @@ Here are our main takeaways:
 
 ## 1) The Data Differentiator
 
-*"You have to understand that the new landscape is people are using data to compete with you in a way that they have not done historically."* - Helen Farrugia
+<p style="text-align:center">*"You have to understand that the new landscape is people are using data to compete with you in a way that they have not done historically."* - Helen Farrugia</p>
 
 All your competitors will start using data to outsmart you. Customers finding the right products, in the right place (and quickly!) depends on data. 
 
@@ -26,17 +26,17 @@ However, if everyone has as much data as everyone else then you'll come back to 
 
 ## 2) A Data Lake, Not Swamp
 
-"*Democratize the data and give people the relevant information that's easy to digest and they can make decisions with.*" - Raine Peake
+<p style="text-align:center">"*Democratize the data and give people the relevant information that's easy to digest and they can make decisions with.*" - Raine Peake</p>
 
 Get rid of the sea of numbers in Excel. Starting to report on trends in a way that everyone can understand and make data easily accessible for everyone in the business. Also, having this data to validate your hunches gives you confidence in the decisions that you are making.
 
 Raine’s other top tip is when you're showing data to anyone, people can only remember 3 things. What do you want those 3 things to be, what do you want that data to show and why? A lot of people spend hours pulling reports and then a minimal number of seconds on what the report is actually saying. Make a machine do the heavy lifting and then use that spare time to interpret it.
 
-"*This will enable buyers to focus on the things that they really can make a difference to.*" - Susan Aubrey-Cound
+<p style="text-align:center">"*This will enable buyers to focus on the things that they really can make a difference to.*" - Susan Aubrey-Cound</p>
 
 ## 3) Rubbish In, Rubbish Out
 
-"*You can't put #!? data into any system, it's illogical.*" - Helen Farrugia
+<p style="text-align:center">"*You can't put #!? data into any system, it's illogical.*" - Helen Farrugia</p>
 
 The most helpful thing to do when starting your data journey is to create a set of really meaningful data and standardize it. Inconsistently tagging products affects customer searches. For example, a merchandiser would start tagging yellow as lemon because that’s what the fashionistas were saying. But this was not what the customers were searching for, meaning they were not finding the products.
 
