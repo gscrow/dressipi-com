@@ -13,9 +13,8 @@ tags:
 - In-store technology
 image: "/uploads/Matches%20Fashion%20front%20(2).jpg"
 author: Georgina Fisher
-description: With physical retail spaces increasingly being occupied by brands that
-  started online, Georgina Fisher visited 5 Carlos Place, Matchesfashion’s new concept
-  store.
+description: With physical stores increasingly being occupied by retailers that started
+  online, we visited 5 Carlos Place, Matchesfashion’s new concept store.
 download: Five Things Every Retailer Should Know About Personalisation
 ---
 
