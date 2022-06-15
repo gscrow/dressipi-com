@@ -1,11 +1,23 @@
 ---
-title: Personalisation Drives Profitable Growth for River Island
+title: Personalization Drives Profitable Growth for River Island
 date: 2021-03-01 08:54:00 Z
 position: 1
-layout: case-study
-navigation: header
 resource: Case Studies
 image: "/uploads/success-story_river-island@2x.jpg"
+testimonial:
+  body: “We are extremely happy with the results. Dressipi has consistently outperformed
+    our incumbent provider on all key metrics."
+  logo: "/uploads/logo_river-island.svg"
+  author:
+    name: Lauren Terry
+    job-title: Director of Ecommerce
+    company: The Modist
+    image: "/uploads/success-story_river-island@2x.jpg"
+  action: Read The Full Story >
+  title: Success Story
+  small-testimonial: River Island increased their revenue by 6% in 12 months
+  class: riverisland
+navigation: header
 header:
   case-study-header: true
   page-title: SUCCESS STORY
@@ -53,13 +65,13 @@ sections:
     image: "/uploads/river-islandsleeve-maxi-dress.jpg"
     number-boxes:
     - number-lines:
-      - number-line: '6'
+      - number-line: 6
         value-line: "%"
         number-line-description: MORE REVENUE
-      - number-line: '5'
+      - number-line: 5
         value-line: "%"
         number-line-description: AOV increase
-      - number-line: '3'
+      - number-line: 3
         value-line: "%"
         number-line-description: Conversion Increase
       quote: "“Not only are the emails great on performance and engagement on the
@@ -78,16 +90,16 @@ sections:
 
 '
     - number-lines:
-      - number-line: '99'
+      - number-line: 99
         value-line: "%"
         number-line-description: REVENUE per email
-      - number-line: '45'
+      - number-line: 45
         value-line: "%"
         number-line-description: conversion increase
-      - number-line: '52'
+      - number-line: 52
         value-line: "%"
         number-line-description: click-to-open rate
-      - number-line: '34'
+      - number-line: 34
         value-line: "%"
         number-line-description: click-through rate
       body: "From implementing personalisation on the front end, it became apparent
@@ -112,19 +124,7 @@ sections:
   button:
     copy: FREE CONSULTATION >
     url: "/company/demo/"
-testimonial:
-  title: Success Story
-  small-testimonial: River Island increased their revenue by 6% in 12 months
-  body: “We are extremely happy with the results. Dressipi has consistently outperformed
-    our incumbent provider on all key metrics."
-  logo: "/uploads/logo_river-island.svg"
-  action: Read The Full Story >
-  class: riverisland
-  author:
-    name: Lauren Terry
-    job-title: Director of Ecommerce
-    company: The Modist
-    image: "/uploads/success-story_river-island@2x.jpg"
 position-list: 1
+layout: case-study
 ---
 
