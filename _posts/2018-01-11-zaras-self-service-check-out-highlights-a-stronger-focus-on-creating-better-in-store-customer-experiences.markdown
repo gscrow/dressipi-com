@@ -1,6 +1,5 @@
 ---
-title: Zara’s Self-Service Check Out Highlights a Stronger Focus on Creating Better
-  In-Store Customer Experiences
+title: Why Customers Love Zara’s Self-Service Check Out
 date: 2018-01-11 12:56:00 Z
 categories:
 - retail
