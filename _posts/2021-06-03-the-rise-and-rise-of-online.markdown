@@ -10,9 +10,8 @@ tags:
 - online shopping
 image: "/uploads/Jeans_Tops_Trend.JPG"
 author: Sarah McVittie
-description: With lots of changes in the retail industry, our data analysts have been
-  monitoring consumer behaviour to discover how people are dressing and expressing
-  themselves post-pandemic with some interesting findings.
+description: Discover what our data analysts have been finding out about changes to
+  consumer behaviour post-pandemic.
 ---
 
 ## Some interesting findings from our data analysts.
