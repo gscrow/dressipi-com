@@ -16,7 +16,7 @@ We held a breakfast with a fantastic panel of retailers and data experts. They d
 *"The first time I heard someone say, ‘<b>Data is the new oil</b>’ was 2011. So we’ve had over a decade to think about that and do something about it. The point of today is to discuss, during that decade, what have we done?" - Jonathan Brech*
 </p>
 
-Here are our main takeaways:
+### Here are our main takeaways:
 
 ## 1) The Data Differentiator
 
