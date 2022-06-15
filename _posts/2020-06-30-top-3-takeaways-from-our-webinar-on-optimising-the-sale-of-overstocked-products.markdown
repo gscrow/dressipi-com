@@ -1,5 +1,5 @@
 ---
-title: Top 3 Takeaways from our Webinar on Optimising the Sale of Overstocked Products
+title: Optimizing The Sale Of Overstocked Products
 date: 2020-06-30 16:26:00 Z
 categories:
 - data
