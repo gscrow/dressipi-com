@@ -1,5 +1,5 @@
 ---
-title: 'Dressipi Masterclass: The Secret to a 5% Uplift in Revenue? Personalised Outfits'
+title: 'Masterclass: The Success Of Personalized Outfits'
 position: 37
 resource: Webinars
 image: "/uploads/outfits-webinar.png"
