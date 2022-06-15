@@ -1,5 +1,5 @@
 ---
-title: 'Dressipi Webinar: Adapt and Thrive: Unlocking the Value of Data in Retail'
+title: 'Webinar: Adapt and Thrive: Unlocking the Value of Data in Retail'
 position: 38
 resource: Webinars
 image: "/uploads/unlocking-the-value-of-data-webinar.png"
