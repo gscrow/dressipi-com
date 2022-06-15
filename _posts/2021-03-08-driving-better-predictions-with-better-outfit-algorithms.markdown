@@ -14,9 +14,9 @@ tags:
 - personalised outfits technology
 image: "/uploads/Outfit_Blog_Banner.JPG"
 author: Marija Mandić
-description: Marija Mandić, one of Dressipi's Software Engineers explains why outfitting
-  is a hugely important part of selling fashion and how generating personalised outfits
-  is approached from a technical and data-driven point of view.
+description: Dressipi’s Software Engineer Marija Mandić explains why outfitting is
+  a vital component to selling fashion and how it operates from a data-driven point
+  of view.
 ---
 
 ### Right from the start brands have showcased their product through outfitting: from catwalk collections to window displays, shop mannequins to advertising campaigns and on today’s social media platforms. They play a huge part in our everyday life. 
