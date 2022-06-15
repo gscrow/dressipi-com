@@ -41,3 +41,9 @@ However, data doesn't come from anywhere. If people are creating the data, they 
 …even better - automate and create [data through AI](https://dressipi.com/solutions/product-tagging/)!
 
 ## The Future of Data
+
+The need for data to help the fashion industry become more sustainable is hugely important. There is now going to be [legislation](https://www.voguebusiness.com/sustainability/eu-moves-to-legislate-sustainable-fashion-will-it-work) to force people to report how they are performing in this area.
+
+"<i>That’ll change the appetite radically within a lot of retailers. If there is any resistance at the moment, it’s soon going to become a core part of how you do business. Tracking and tracing where your sourcing has come from.</i>" explained Susan who works with AI data businesses and retail to develop step changes in sustainability. "<i>The flip side of that is the ability you can deliver using AI to impact your ESG metrics much more quickly. For example, if you apply the data you have to [demand forecasting](https://dressipi.com/blog/be-more-profitable-with-better-data/) you can change your EBIT by 5% in one season and reduce your carbon footprint. All because you've reduced your overproduction.</i>"
+
+Sign up to hear about future events!
