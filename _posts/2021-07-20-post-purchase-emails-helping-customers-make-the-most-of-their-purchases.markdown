@@ -14,10 +14,8 @@ tags:
 - revenue per email sent
 image: "/uploads/PPE_Banner_New-632f0d.jpeg"
 author: Georgina Fisher
-description: Enticing the customer to move up the purchase ladder through outfit recommendations
-  based on what you know the customer has already purchased from the retailer is a
-  great way to increase retention and lifetime value. At Dresspi we have recently
-  launched Post-Purchase Emails to do this for you.
+description: Increase retention and lifetime value by moving customers up the purchase
+  ladder with Dressipi's outfit recommendations in post-purchase emails.
 ---
 
 ## “Thanks for your purchase! Here’s how we’d style it…”
