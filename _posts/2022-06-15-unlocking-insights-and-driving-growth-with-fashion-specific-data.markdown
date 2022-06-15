@@ -10,7 +10,7 @@ author: Georgina Fisher
 
 We held a breakfast with a fantastic panel of retailers and data experts. They discussed why accurate and consistent product data is one of the most impactful assets in the fashion retail industry.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 800px;" src ="/uploads/attributes-breakfast-speakers.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/attributes-breakfast-speakers.jpg"/></p>
 
 <p style="text-align:center">*"The first time I heard someone say, ‘<b>Data is the new oil</b>’ was 2011. So we’ve had over a decade to think about that and do something about it. The point of today is to discuss, during that decade, what have we done?"* - Jonathan Brech</p>
 
