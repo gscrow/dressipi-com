@@ -1,6 +1,5 @@
 ---
-title: 'Fashion is Different: You Can''t Create Fashion-Specific Algorithms Without
-  Fashion Expertise'
+title: Fashion Specific Algorithms Need Style Expertise
 date: 2021-04-06 09:12:00 Z
 categories:
 - tech
