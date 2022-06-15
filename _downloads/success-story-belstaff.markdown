@@ -1,5 +1,5 @@
 ---
-title: Belstaff increased email revenue by 69% through personalised recommendations
+title: Belstaff increased email revenue by 69% through personalized recommendations
 date: 2020-03-30 15:26:00 Z
 position: 3
 resource: Case Studies
