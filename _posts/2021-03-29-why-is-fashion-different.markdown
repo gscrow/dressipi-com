@@ -11,11 +11,9 @@ tags:
 - attributes
 image: "/uploads/WhyFashionDifferentBanner.jpg"
 author: Nick Landia
-description: 'Chief Data Scientist, Nick Landia has observed the many reasons why
-  fashion recommendations are so hard to do throughout his time at Dressipi. This
-  article digs deeper into these specific characteristics and how they have to be
-  addressed when building recommender systems for fashion, compared with music and
-  movie domains.
+description: 'Dressipi’s Data Scientist explains why fashion recommendations are so
+  hard to achieve, compared to music or movie domains and what obstacles need to be
+  addressed.
 
 '
 ---
