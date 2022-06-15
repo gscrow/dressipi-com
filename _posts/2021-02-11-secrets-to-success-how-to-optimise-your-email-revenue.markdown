@@ -1,5 +1,5 @@
 ---
-title: Optimising Your Email Revenue
+title: Optimizing Your Email Revenue
 date: 2021-02-11 10:05:00 Z
 categories:
 - data
@@ -12,10 +12,8 @@ tags:
 - loyal customers
 image: "/uploads/First_Second_Purchase_Blog.jpg"
 author: Sarah McVittie
-description: Emails being very pertinent to the times we're living in with the need
-  to maximise digital capabilities whilst minimising costs. At Dressipi, we have analysed
-  the value behind improving the retention of a retailer's customer base through personalised
-  emails and where the biggest opportunities lie.
+description: Dressipi have analysed the value behind improving customer retention
+  and how personalized emails may be the answer for retailers to capitalize on this.
 ---
 
 Customer Lifetime Value (LTV) and Personalisation, two words that get used a lot by the modern-day marketeer.
