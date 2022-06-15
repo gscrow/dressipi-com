@@ -18,7 +18,7 @@ Here are our main takeaways:
 
 ## 1) The Data Differentiator
 
-"<i>You have to understand that the new landscape is people are using data to compete with you in a way that they have not done historically.</i>" - Helen Farrugia
+<i>"You have to understand that the new landscape is people are using data to compete with you in a way that they have not done historically."</i> - Helen Farrugia
 
 All your competitors will start using data to outsmart you. Customers finding the right products, in the right place (and quickly!) depends on data. 
 
