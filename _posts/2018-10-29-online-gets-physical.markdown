@@ -11,10 +11,9 @@ tags:
 - customer experience
 image: "/uploads/Amazon%20banner.jpg"
 author: Natalie Theo
-description: More and more of the industry's key online players are popping up as
-  temporary bricks-and-mortar stores. Natalie Theo, Dressipi's Style Director visited
-  Amazon's new pop-up to explore how they manage to replicate that exceptional online
-  customer experience, in a physical space.
+description: Key online brands are appearing as temporary bricks-and-mortar stores.
+  Dressipi visited Amazon’s pop-up to see how they replicated their exceptional online
+  presence.
 ---
 
 More and more of the industry's key online players are popping up as temporary bricks-and-mortar stores. Natalie Theo, Dressipi's Style Director visited Amazon's new pop-up to explore how they manage to replicate that exceptional online customer experience, in a physical space.
