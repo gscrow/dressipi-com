@@ -1,5 +1,5 @@
 ---
-title: Innovating at Speed to Deliver Unique and Relevant In-Store Experiences
+title: Delivering Unique In-Store Experiences
 date: 2019-10-08 09:04:00 Z
 categories:
 - retail
