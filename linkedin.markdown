@@ -7,5 +7,6 @@ class: linkedin
 type: social
 logo: "/uploads/logo_linkedin_footer_gray.png"
 social-link: https://www.linkedin.com/company/dressipi/
+redirect_to: https://www.linkedin.com/company/dressipi/
 ---
 

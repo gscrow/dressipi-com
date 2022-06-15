@@ -7,5 +7,6 @@ class: twitter
 type: social
 logo: "/uploads/logo_twitter_footer_gray.png"
 social-link: https://twitter.com/dressipi/
+redirect_to: https://twitter.com/dressipi/
 ---
 
