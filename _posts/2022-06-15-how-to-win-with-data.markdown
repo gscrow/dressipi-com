@@ -4,6 +4,9 @@ date: 2022-06-15 16:35:00 Z
 published: false
 image: "/uploads/attributes-breakfast-banner.jpg"
 author: Georgina Fisher
+description: Expert advice from retailers and data guru’s at our most recent breakfast.
+  They discussed why accurate and consistent product data is one of the most impactful
+  assets in the fashion retail industry.
 ---
 
 ## In fashion, there is plenty of data available on marketing channels and transactions. However, retailers never had quality data for what the customers care about the most - the clothes. 
