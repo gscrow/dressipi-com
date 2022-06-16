@@ -23,10 +23,6 @@ We held a breakfast with a fantastic panel of retailers and data experts. They d
 <td style="text-align: center"><img style="width: 150px;" src ="/uploads/jonathan-breakfast-blog.jpg"/><br>Jonathan Brech<br>CEO, Partner, Industry Advisory<br>Cambridge Data, Fashion Retail Academy</td>
 </tr></table>
 
-<p style="text-align: center">
-<img style="margin-left: 0px; width: 150px;" src ="/uploads/helen-breakfast-blog.jpg"/><br>Helen Farrugia<br>Lead Product Manager<br>The Very Group
-</p>
-
 > *"The first time I heard someone say, ‘**Data is the new oil**’ was 2011. So we’ve had over a decade to think about that and do something about it. The point of today is to discuss, during that decade, what have we done?"* - Jonathan Brech, CEO, Cambridge Data & Industry Adviser, Fashion Retail Academy
 
 ### Here are the best tips from our panel on how to win with data:
