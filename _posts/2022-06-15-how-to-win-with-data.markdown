@@ -18,7 +18,7 @@ We held a breakfast with a fantastic panel of retailers and data experts. They d
 
 ## 1) The Data Differentiator
 
->*"You have to understand that the new landscape is people are using data to compete with you in a way that they have not done historically."* - Helen Farrugia
+>*"You have to understand that the new landscape is people are using data to compete with you in a way that they have not done historically."* - Susan Aubrey-Cound, Digital & Customer Strategy, AI for Sustainable Business
 
 All your competitors will start using data to outsmart you. Customers finding the right products, in the right place (and quickly!) depends on data. 
 
