@@ -1,5 +1,5 @@
 ---
-title: Unlocking Insights and Driving Growth with Fashion-Specific Data
+title: 'How to win with data: Advice from fashion industry experts'
 date: 2022-06-15 16:35:00 Z
 published: false
 image: "/uploads/attributes-breakfast-banner.jpg"
