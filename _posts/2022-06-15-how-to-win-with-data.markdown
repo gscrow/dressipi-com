@@ -14,7 +14,7 @@ description: Expert advice from retailers and data guru’s at our most recent b
 We held a breakfast with a fantastic panel of retailers and data experts. They discussed why accurate and consistent product data is one of the most impactful assets in the fashion retail industry and shared their expert advice.
 
 <table><tr>
-<td style="text-align: center"><img style="margin-left: 0px; width: 150px;" src ="/uploads/helen-breakfast-blog.jpg"/><br>Helen Farrugia<br>Lead Product Manager<br>The Very Group</td>
+<td style="text-align: center"><img style="width: 150px;" src ="/uploads/helen-breakfast-blog.jpg"/><br>Helen Farrugia<br>Lead Product Manager<br>The Very Group</td>
 <td style="text-align: center"><img style="margin-left: 0px; width: 150px;" src ="/uploads/raine-breakfast-blog.jpg"/><br>Raine Peake<br>Digital Director<br>Jigsaw</td>
 </tr></table>
 
