@@ -32,7 +32,7 @@ If all brands and retailers have equal data then you'll come back to the inheren
 
 >*"Democratize the data and give people the relevant information that's easy to digest and they can make decisions with."* - Raine Peake
 
-Get rid of the sea of numbers in Excel. Starting to report on trends in a way that everyone can understand and make data easily accessible for everyone in the business. Also, having this data to validate your hunches gives you confidence in the decisions that you are making.
+Get rid of the sea of numbers in Excel. Starting to report on trends in a way that everyone can understand and make data easily accessible for everyone in the business. Using this data to validate your hunches gives you confidence in the decisions that you are making.
 
 Raine’s other top tip is when you're showing data to anyone, people can only remember 3 things. What do you want those 3 things to be, what do you want that data to show and why? A lot of people spend hours pulling reports and then a minimal number of seconds on what the report is actually saying. Make a machine do the heavy lifting and then use that spare time to interpret it.
 
