@@ -20,9 +20,9 @@ We held a breakfast with a fantastic panel of retailers and data experts. They d
 
 >*"You have to understand that the new landscape is people are using data to compete with you in a way that they have not done historically."* - Susan Aubrey-Cound, Digital & Customer Strategy, AI for Sustainable Business
 
-All your competitors will start using data to outsmart you. Customers finding the right products, in the right place (and quickly!) depends on data. 
+Your competitors will start using data to outsmart you. Customers finding the right products, in the right place (and quickly!) depends on data. Those who do that, will win. 
 
-However, if everyone has as much data as everyone else then you'll come back to the inherent integrity of the brand as being the key differentiator. If you can combine the 2 (excellent brand DNA and the data piece) you’ll have a successful retailer.
+Shein, the huge online retailer, is a great example. Their business is based on data not merchandisers. Shein didn’t start from the rag trade like most other retailers. Shein was started by an SEO guy. This shows that when you have data at the heart, you can build something both bigger and faster than you can build a traditional retailer. Shein drives a different perspective on why data matters to retailers.
 
 ## 2) A Data Lake, Not Swamp
 
