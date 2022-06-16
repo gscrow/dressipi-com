@@ -24,6 +24,8 @@ Your competitors will start using data to outsmart you. Customers finding the ri
 
 Shein, the huge online retailer, is a great example. Their business is based on data not merchandisers. Shein didn’t start from the rag trade like most other retailers. Shein was started by an SEO guy. This shows that when you have data at the heart, you can build something both bigger and faster than you can build a traditional retailer. Shein drives a different perspective on why data matters to retailers.
 
+>*
+
 ## 2) A Data Lake, Not Swamp
 
 >*"Democratize the data and give people the relevant information that's easy to digest and they can make decisions with."* - Raine Peake
