@@ -42,9 +42,10 @@ Raine’s other top tip is when you're showing data to anyone, people can only r
 
 >*"You can't put bad data into any system, it's illogical."* - Helen Farrugia
 
-The most helpful thing to do when starting your data journey is to create a set of really meaningful data and standardize it. Inconsistently tagging products affects customer searches. For example, a merchandiser would start tagging yellow as lemon because that’s what the fashionistas were saying. But this was not what the customers were searching for, meaning they were not finding the products.
 
-However, data doesn't come from anywhere. If people are creating the data, they have to fundamentally care that it’s accurate for the product and the customer. Therefore it should not be delegated to an administrator. They need to understand the process and the impact they are having on that end.
+The most helpful thing to do when starting your data journey is to create a set of really meaningful data and standardize it. Inconsistent product tagging affects customer searches and gives them frustrating online shopping experiences. For example, a merchandiser would start tagging yellow as lemon because that’s what the fashionistas were saying. But this was not what the customers were searching for, meaning they were not finding the products.
+
+Data doesn't come from anywhere. If people are creating the data, they have to fundamentally care that it’s accurate for the product and the customer. Therefore it should not be delegated to an administrator. They need to understand the process and the impact they are having on that end.
 
 …even better - automate and create [data through AI](https://dressipi.com/solutions/product-tagging/)!
 
