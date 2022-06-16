@@ -19,6 +19,8 @@ We held a breakfast with a fantastic panel of retailers and data experts. They d
 <td style="text-align: center"><img style="width: 150px;" src ="/uploads/raine-breakfast-blog.jpg"/><br>Raine Peake<br>Digital Director<br>Jigsaw</td>
 
 <td style="text-align: center"><img style="width: 150px;" src ="/uploads/susan-breakfast-blog.jpg"/><br>Susan Aubrey-Cound<br>Digital & Customer Strategy, AI for Sustainable Business<br>Previously at M&S, Moss Bros</td>
+
+<td style="text-align: center"><img style="width: 150px;" src ="/uploads/jonathan-breakfast-blog.jpg"/><br>Jonathan Brech<br>CEO, Partner, Industry Advisory<br>Cambridge Data, Fashion Retail Academy</td>
 </tr></table>
 
 <p style="text-align: center">
