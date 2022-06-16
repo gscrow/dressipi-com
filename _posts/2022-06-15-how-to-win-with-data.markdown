@@ -36,7 +36,7 @@ Get rid of the sea of numbers in Excel. Starting to report on trends in a way th
 
 Raine’s other top tip is when you're showing data to anyone, people can only remember 3 things. What do you want those 3 things to be, what do you want that data to show and why? A lot of people spend hours pulling reports and then a minimal number of seconds on what the report is actually saying. Make a machine do the heavy lifting and then use that spare time to interpret it.
 
->*"This will enable buyers to focus on the things that they really can make a difference to."* - Susan Aubrey-Cound
+>*"[Accessible data and reporting] will enable buyers to focus on the things that they really can make a difference to."* - Susan Aubrey-Cound
 
 ## 3) Rubbish In, Rubbish Out
 
