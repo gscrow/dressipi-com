@@ -29,10 +29,10 @@ We held a breakfast with a fantastic panel of retailers and data experts. They d
             </td>
         </tr>
         <tr>
-            <td style="text-align:center;">Helen Farrugia<br>Lead Product Manager<br>The Very Group</td>
-            <td style="text-align:center;">Raine Peake<br>Digital Director<br>Jigsaw</td>
-            <td style="text-align:center;">Susan Aubrey-Cound<br>Digital & Customer Strategy, AI for Sustainable Business<br>Previously at M&S, Moss Bros</td>
-            <td style="text-align:center;">Jonathan Brech<br>CEO, Partner, Industry Advisory<br>Cambridge Data, Fashion Retail Academy</td>
+            <td style="text-align:center; border-radius: 0px;">Helen Farrugia<br>Lead Product Manager<br>The Very Group</td>
+            <td style="text-align:center; border-radius: 0px;">Raine Peake<br>Digital Director<br>Jigsaw</td>
+            <td style="text-align:center; border-radius: 0px;">Susan Aubrey-Cound<br>Digital & Customer Strategy, AI for Sustainable Business<br>Previously at M&S, Moss Bros</td>
+            <td style="text-align:center; border-radius: 0px;">Jonathan Brech<br>CEO, Partner, Industry Advisory<br>Cambridge Data, Fashion Retail Academy</td>
         </tr>
     </table>
 
