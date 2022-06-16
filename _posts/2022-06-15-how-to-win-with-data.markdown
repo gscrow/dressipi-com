@@ -15,16 +15,16 @@ We held a breakfast with a fantastic panel of retailers and data experts. They d
 
 <table>
         <tr>
-            <td style="text-align:center; padding-left: 5px; padding-right: 5px;">
+            <td style="text-align:center; padding-left: 5px; padding-right: 5px; border-radius: 0px;">
                 <img style="width:150px;" src="/uploads/helen-breakfast-blog.jpg">
             </td>
-            <td style="text-align:center; padding-left: 5px; padding-right: 5px;">
+            <td style="text-align:center; padding-left: 5px; padding-right: 5px; border-radius: 0px;">
                 <img style="width:150px;" src="/uploads/raine-breakfast-blog.jpg">
             </td>
-            <td style="text-align:center; padding-left: 5px; padding-right: 5px;">
+            <td style="text-align:center; padding-left: 5px; padding-right: 5px; border-radius: 0px;">
                 <img style="width:150px;" src="/uploads/susan-breakfast-blog.jpg">
             </td>
-            <td style="text-align:center; padding-left: 5px; padding-right: 5px;">
+            <td style="text-align:center; padding-left: 5px; padding-right: 5px; border-radius: 0px;">
                 <img style="width:150px;" src="/uploads/jonathan-breakfast-blog.jpg">
             </td>
         </tr>
