@@ -40,7 +40,7 @@ Raine’s other top tip is when you're showing data to anyone, people can only r
 
 ## 3) Rubbish In, Rubbish Out
 
->*"You can't put #!? data into any system, it's illogical."* - Helen Farrugia
+>*"You can't put bad data into any system, it's illogical."* - Helen Farrugia
 
 The most helpful thing to do when starting your data journey is to create a set of really meaningful data and standardize it. Inconsistently tagging products affects customer searches. For example, a merchandiser would start tagging yellow as lemon because that’s what the fashionistas were saying. But this was not what the customers were searching for, meaning they were not finding the products.
 
