@@ -26,6 +26,8 @@ Shein, the huge online retailer, is a great example. Their business is based on 
 
 >*“It is such a competitive place out there and we need to give our customers a reason to shop with us. Product data is going to be significant in supporting that.”* - Helen Farrugia, Digital Customer Experience Director, The Very Group
 
+If all brands and retailers have equal data then you'll come back to the inherent integrity of the brand as being the key differentiator. If you can combine the two (excellent brand DNA and the data piece) you’ll win.
+
 ## 2) A Data Lake, Not Swamp
 
 >*"Democratize the data and give people the relevant information that's easy to digest and they can make decisions with."* - Raine Peake
