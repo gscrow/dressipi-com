@@ -59,6 +59,6 @@ The need for data to help the fashion industry become more sustainable is hugely
 
 <p style="text-align: center"><img style="margin-left: 0px; width: 800px;" src="/uploads/shoptalk-breakfast-image.jpg"/></p>
 
-Sign up to hear about future events!
+### Sign up to hear about future events!
 
 <p style="text-align:center"><a href="/company/demo/" class="button button-primary">CONTACT US</a></p>
