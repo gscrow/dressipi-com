@@ -13,28 +13,7 @@ description: Expert advice from retailers and data guru’s at our most recent b
 
 We held a breakfast with a fantastic panel of retailers and data experts. They discussed why accurate and consistent product data is one of the most impactful assets in the fashion retail industry and shared their expert advice.
 
-<table>
-        <tr>
-            <td style="text-align:center; padding-left: 5px; padding-right: 5px; border-radius: 0px;">
-                <img style="width:150px;" src="/uploads/helen-breakfast-blog.jpg">
-            </td>
-            <td style="text-align:center; padding-left: 5px; padding-right: 5px; border-radius: 0px;">
-                <img style="width:150px;" src="/uploads/raine-breakfast-blog.jpg">
-            </td>
-            <td style="text-align:center; padding-left: 5px; padding-right: 5px; border-radius: 0px;">
-                <img style="width:150px;" src="/uploads/susan-breakfast-blog.jpg">
-            </td>
-            <td style="text-align:center; padding-left: 5px; padding-right: 5px; border-radius: 0px;">
-                <img style="width:150px;" src="/uploads/jonathan-breakfast-blog.jpg">
-            </td>
-        </tr>
-        <tr>
-            <td style="text-align:center; border-radius: 0px;">Helen Farrugia<br>Lead Product Manager<br>The Very Group</td>
-            <td style="text-align:center; border-radius: 0px;">Raine Peake<br>Digital Director<br>Jigsaw</td>
-            <td style="text-align:center; border-radius: 0px;">Susan Aubrey-Cound<br>Digital & Customer Strategy, AI for Sustainable Business<br>Previously at M&S, Moss Bros</td>
-            <td style="text-align:center; border-radius: 0px;">Jonathan Brech<br>CEO, Partner, Industry Advisory<br>Cambridge Data, Fashion Retail Academy</td>
-        </tr>
-    </table>
+<p style="text-align: center">
 
 > *"The first time I heard someone say, ‘**Data is the new oil**’ was 2011. So we’ve had over a decade to think about that and do something about it. The point of today is to discuss, during that decade, what have we done?"* - Jonathan Brech, CEO, Cambridge Data & Industry Adviser, Fashion Retail Academy
 
