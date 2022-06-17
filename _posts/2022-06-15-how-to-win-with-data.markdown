@@ -13,7 +13,7 @@ description: Expert advice from retailers and data guru’s at our most recent b
 
 We held a breakfast with a fantastic panel of retailers and data experts. They discussed why accurate and consistent product data is one of the most impactful assets in the fashion retail industry and shared their expert advice.
 
-<p style="text-align: center"><img style="margin-left: 0px; width: 1000px;" src="/uploads/shoptalk-breakfast-speakers.jpg"/></p>
+<p style="text-align: center"><img style="margin-left: 0px; width: 750px;" src="/uploads/shoptalk-breakfast-speakers.jpg"/></p>
 
 > *"The first time I heard someone say, ‘**Data is the new oil**’ was 2011. So we’ve had over a decade to think about that and do something about it. The point of today is to discuss, during that decade, what have we done?"* - Jonathan Brech, CEO, Cambridge Data & Industry Adviser, Fashion Retail Academy
 
