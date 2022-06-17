@@ -1,7 +1,7 @@
 ---
 title: 'How to Win with Data: Advice from Fashion Industry Experts'
 date: 2022-06-17 15:35:00 Z
-image: "/uploads/attributes-breakfast-banner.jpg"
+image: "/uploads/attributes-breakfast-banner-1.jpg"
 author: Georgina Fisher
 description: Expert advice from retailers and data guru’s at our most recent breakfast.
   They discussed why accurate and consistent product data is one of the most impactful
@@ -56,8 +56,8 @@ The need for data to help the fashion industry become more sustainable is hugely
 
 *"\[New legislation will\] change the appetite radically within a lot of retailers. If there is any resistance at the moment, it’s soon going to become a core part of how you do business. Tracking and tracing where your sourcing has come from."* explained Susan who works with AI data businesses and retail to develop step changes in sustainability. *"The flip side of that is the ability you can deliver using AI to impact your ESG metrics much more quickly. For example, if you apply the data you have to [demand forecasting](https://dressipi.com/blog/be-more-profitable-with-better-data/) you can change your EBIT by 5% in one season and reduce your carbon footprint. All because you've reduced your overproduction."*
 
-<p style="text-align: center"><img style="margin-left: 0px; width: 800px;" src="/uploads/shoptalk-breakfast-image.jpg"/></p>
+<p style="text-align: center"><img style="margin-left: 0px; width: 800px;" src="/uploads/shoptalk-breakfast-image-1.jpg"/></p>
 
-### Sign up to hear about future events!
+Sign up to hear about future events!
 
 <p style="text-align:center"><a href="/company/demo/" class="button button-primary">CONTACT US</a></p>
