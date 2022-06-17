@@ -1,6 +1,7 @@
 ---
 title: Team
 date: 2017-05-06 09:50:00 Z
+published: false
 position: 1
 navigation: about-footer
 description: Dressipi's expert technologists, data scientists and fashion stylists
