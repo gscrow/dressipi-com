@@ -1,7 +1,6 @@
 ---
-title: 'How to win with data: Advice from fashion industry experts'
+title: 'How to Win with Data: Advice from Fashion Industry Experts'
 date: 2022-06-15 16:35:00 Z
-published: false
 image: "/uploads/attributes-breakfast-banner.jpg"
 author: Georgina Fisher
 description: Expert advice from retailers and data guru’s at our most recent breakfast.
