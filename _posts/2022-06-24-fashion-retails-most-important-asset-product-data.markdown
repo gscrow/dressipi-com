@@ -48,7 +48,7 @@ Buyers and merchandisers can also benefit. While reviewing performance and forec
 
 For example, more accurately determining your customers’ buying propensity for ‘balloon sleeves’ at customer size and shape level can be the difference between over or under buying into a trend. Dressipi has found that forecasts with attributes can lead to 10% increase in sell-through rate and 3%pt increase in contributed margin. And this is only the beginning. 
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 750px;" src="/uploads/ShoptalkBlog_6.JPG"/></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 650px;" src="/uploads/ShoptalkBlog_6.JPG"/></p>
 
 ### Product Attribution is Critical for Growth
 
