@@ -19,3 +19,7 @@ Search technology and behavior is shifting from rigid questioning â€˜red dressâ€
 
 <p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 600px;" src=""/><br>*Subset of attributes available*</p>
 
+### 2) Personalization
+
+Organizations that excel at personalization generate 40 percent more revenue from those activities than average players ([McKinsey](https://www.mckinsey.com/business-functions/growth-marketing-and-sales/our-insights/the-value-of-getting-personalization-right-or-wrong-is-multiplying))
+
