@@ -23,3 +23,10 @@ Search technology and behavior is shifting from rigid questioning ‘red dress�
 
 Organizations that excel at personalization generate 40 percent more revenue from those activities than average players ([McKinsey](https://www.mckinsey.com/business-functions/growth-marketing-and-sales/our-insights/the-value-of-getting-personalization-right-or-wrong-is-multiplying))
 
+Deeper attribution also improves relevancy and personalisation. Both can be measured in a few different ways but ultimately a high quality recommendation is the one that is the most relevant and inspiring to each specific customer. Machine learning models have improved recommendations tenfold but the size of their impact correlates directly to the volume and accuracy of the data going in; looking forward, their improvement will depend on the volume of data that is unique. 
+
+An effective goal is to understand who your most valuable customers are and connect with them at the precise moment they intend to buy. This starts with understanding their specific preferences to product features and ends with being able to present products within a context that resonates and with features they love and without those they won’t buy. 
+
+That means being able to interpret and deliver on a wide and rich taxonomy of interests and subjectivity (thinking and talking how each of your customers do) as well as hard and very granular product attributes.
+
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 800px;" src=""/></p>
