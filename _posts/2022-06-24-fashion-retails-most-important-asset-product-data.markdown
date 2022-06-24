@@ -1,7 +1,6 @@
 ---
 title: 'Fashion Retail’s Most Important Asset: Product Data'
 date: 2022-06-24 11:18:00 Z
-published: false
 categories:
 - data
 - retail
