@@ -29,7 +29,7 @@ An effective goal is to understand who your most valuable customers are and conn
 
 That means being able to interpret and deliver on a wide and rich taxonomy of interests and subjectivity (thinking and talking how each of your customers do) as well as hard and very granular product attributes.
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 800px;" src=""/></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 800px;" src="/uploads/data_important_asset_blog-outfit.jpg"/></p>
 
 ### 3) Product Forecasting
 
