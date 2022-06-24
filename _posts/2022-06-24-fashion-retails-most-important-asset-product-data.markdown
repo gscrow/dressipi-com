@@ -8,6 +8,7 @@ categories:
 tags:
 - data
 - retail
+image: "/uploads/data_important_asset_blog-banner.jpg"
 author: Donna North
 ---
 
