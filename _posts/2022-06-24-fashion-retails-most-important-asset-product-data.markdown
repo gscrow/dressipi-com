@@ -55,7 +55,7 @@ Put simply, attributes allow you to have a representation of your product in a f
 Dressipi has invested years of work in attribution understanding and development. It’s not a straightforward challenge and relies upon a combination of solutions including computer vision, semantic approaches, and natural language processing. No one approach works well singularly and the solution set is forever evolving. 
 
 Large data-led decision making businesses like Amazon, Pinterest, Etsy, Shein invest heavily in product attribution, knowing it’s critical to their growth. For fashion retailers, now is the time to get an attribute strategy in place - as those who are prepared to make the small investment today - will be in the best position to capture demand and loyalty and ensure long-term growth.
-<br>
+
 Get in touch for more data breakdowns and insights.
 
 <p style="text-align:center"><a href="/company/demo/" class="button button-primary">CONTACT US</a></p>
