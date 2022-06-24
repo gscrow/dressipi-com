@@ -21,7 +21,7 @@ Search technology and behavior is shifting from rigid questioning â€˜red dressâ€
 
 ### 2) Personalization
 
-Organizations that excel at personalization generate 40 percent more revenue from those activities than average players ([McKinsey](https://www.mckinsey.com/business-functions/growth-marketing-and-sales/our-insights/the-value-of-getting-personalization-right-or-wrong-is-multiplying))
+Organizations that excel at personalization generate 40 percent more revenue from those activities than average players ([McKinsey](https://www.mckinsey.com/business-functions/growth-marketing-and-sales/our-insights/the-value-of-getting-personalization-right-or-wrong-is-multiplying)).
 
 Deeper attribution also improves relevancy and personalisation. Both can be measured in a few different ways but ultimately a high quality recommendation is the one that is the most relevant and inspiring to each specific customer. Machine learning models have improved recommendations tenfold but the size of their impact correlates directly to the volume and accuracy of the data going in; looking forward, their improvement will depend on the volume of data that is unique. 
 
