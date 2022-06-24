@@ -58,6 +58,6 @@ Dressipi has invested years of work in attribution understanding and development
 
 Large data-led decision making businesses like Amazon, Pinterest, Etsy, Shein invest heavily in product attribution, knowing it’s critical to their growth. For fashion retailers, now is the time to get an attribute strategy in place - as those who are prepared to make the small investment today - will be in the best position to capture demand and loyalty and ensure long-term growth.
 
-Get in touch to learn how to address the issue of bad product data.
+Get in touch to learn how to overcome the issue of bad product data and thrive on the results.
 
 <p style="text-align:center"><a href="/company/demo/" class="button button-primary">CONTACT US</a></p>
