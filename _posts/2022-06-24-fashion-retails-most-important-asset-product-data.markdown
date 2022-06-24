@@ -17,7 +17,7 @@ One of the most important factors in retail is product discoverability. A shoppe
 
 Search technology and behavior is shifting from rigid questioning ‘red dress’ - to the intuitive “bright, fun holiday clothes to relax in”. Richer and more detailed product attributes help brands respond to this more context and emotionally driven search. 
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 600px;" src=""/><br> Subset of attributes available</p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 600px;" src="/uploads/data_important_asset_blog-dress_attributes.png"/><br> Subset of attributes available</p>
 
 ### 2) Personalization
 
