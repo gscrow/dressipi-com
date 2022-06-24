@@ -30,3 +30,21 @@ An effective goal is to understand who your most valuable customers are and conn
 That means being able to interpret and deliver on a wide and rich taxonomy of interests and subjectivity (thinking and talking how each of your customers do) as well as hard and very granular product attributes.
 
 <p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 800px;" src=""/></p>
+
+### 3) Product Forecasting
+
+Buyers and merchandisers can also benefit. While reviewing performance and forecasting at a product level is insightful, doing so at an attribute level can help uncover insights previously unavailable. If those attributes are also human readable, it gives teams a unique advantage of both improving outcomes and being able to explain how. 
+
+For example, more accurately determining your customers’ buying propensity for ‘balloon sleeves’ at customer size and shape level can be the difference between over or under buying into a trend. Dressipi has found that forecasts with attributes can lead to 10% increase in sell-through rate and 3%pt increase in contributed margin. And this is only the beginning. 
+
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 800px;" src=""/></p>
+
+### Product Attribution is Critical for Growth
+
+Put simply, attributes allow you to have a representation of your product in a format that machine learning can use to help you better understand your products, your customers and your opportunities - ultimately driving higher value customers and conversions and reducing returns and markdowns. 
+
+Dressipi has invested years of work in attribution understanding and development. It’s not a straightforward challenge and relies upon a combination of solutions including computer vision, semantic approaches, and natural language processing. No one approach works well singularly and the solution set is forever evolving. 
+
+Large data-led decision making businesses like Amazon, Pinterest, Etsy, Shein invest heavily in product attribution, knowing it’s critical to their growth. For fashion retailers, now is the time to get an attribute strategy in place - as those who are prepared to make the small investment today - will be in the best position to capture demand and loyalty and ensure long-term growth.
+
+<p style="text-align:center"><a href="/company/demo/" class="button button-primary">CONTACT US</a></p>
