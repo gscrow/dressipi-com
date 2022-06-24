@@ -14,7 +14,9 @@ description: Dressipi Co-Founder Donna North breaks down how good product attrib
   is critical for fashion retailers to drive growth, and other key benefits it provides.
 ---
 
-## Is your product data up to scratch? Product data, and product attributes specifically, have the amazing capacity to improve many retail processes - including search relevancy, recommendations accuracy and inventory forecasting.
+## Is your product data up to scratch? 
+
+Product data, and product attributes specifically, have the amazing capacity to improve many retail processes - including search relevancy, recommendations accuracy and inventory forecasting.
 
 But to get good outcomes it’s not enough to have the same data as your competitors, you also need more accurate and differentiated attribution. Generic data will get you started but better and unique data helps you excel.
 
