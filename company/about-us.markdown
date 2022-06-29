@@ -63,11 +63,11 @@ sections:
   - image: "/uploads/RSA_2022.png"
     title: |-
       Artificial Intelligence Project of the Year
-      Winner
+      <br>Winner
   - image: "/uploads/RSA_2022.png"
     title: |-
       Experiential or Personalised Retail Solution of the Year
-      Winner
+      <br>Winner
   - image: "/uploads/business-cloud.png"
     title: Business Cloud London Tech 50 2020
   - image: "/uploads/Screenshot%202019-12-09%20at%2017.11.03.png"
@@ -75,7 +75,7 @@ sections:
   - image: "/uploads/award__millenial1.png"
     title: |-
       Best Connected Experience of the Year
-      Winner
+      <br>Winner
   - image: "/uploads/tech-london-advocates-logo-black-09fced.png"
     title: Top 50 UK Retail Tech Businesses
 - title: Our Opportunities
