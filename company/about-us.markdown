@@ -60,11 +60,11 @@ sections:
   subtitle: 
   handle: awards
   awards:
-  - image: "/uploads/RSA2022.png"
+  - image: "/uploads/RSA_2022.png"
     title: |-
       Artificial Intelligence Project of the Year
       Winner
-  - image: "/uploads/RSA2022.png"
+  - image: "/uploads/RSA_2022.png"
     title: |-
       Experiential or Personalised Retail Solution of the Year
       Winner
