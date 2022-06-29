@@ -60,20 +60,24 @@ sections:
   subtitle: 
   handle: awards
   awards:
+  - image: "/uploads/RSA2022.png"
+    title: |-
+      Artificial Intelligence Project of the Year
+      Winner
+  - image: "/uploads/RSA2022.png"
+    title: |-
+      Experiential or Personalised Retail Solution of the Year
+      Winner
   - image: "/uploads/business-cloud.png"
     title: Business Cloud London Tech 50 2020
   - image: "/uploads/Screenshot%202019-12-09%20at%2017.11.03.png"
     title: Top 100 eCommerce Trailblazers (BusinessCloud)
   - image: "/uploads/award__millenial1.png"
-    title: Best Connected Experience of the Year   Winner
+    title: |-
+      Best Connected Experience of the Year
+      Winner
   - image: "/uploads/tech-london-advocates-logo-black-09fced.png"
     title: Top 50 UK Retail Tech Businesses
-  - image: "/uploads/rs_awards_Shortlisted_2018_outlines%20(1).png"
-    title: |-
-      Retail Partnership of the Year (Online)
-      Winner
-  - image: "/uploads/RW_AWARDS_LOGO_FINALIST_Small-92d0cf.png"
-    title: Customer Innovation - Finalist
 - title: Our Opportunities
   body: '<p style="text-align: center; max-width: 600px; margin-left: auto; margin-right:
     auto;">We are always looking for outstanding individuals from diverse backgrounds
