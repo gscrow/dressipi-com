@@ -31,11 +31,11 @@ By continuing to visit or use our services, or by ticking any consent box or by 
 
 We use cookies if you have a Dressipi account, use the Dressipi solutions or visit our retail partners who use Dressipi solutions and plug ins.
 
-They enable us to identify you or your device, secure access to your account (including helping us know if someone attempts to login in to your account from a different device), easily enable you to connect your profile to retailers in our network and serve individually personalised clothing and outfit recommendations to you.
+They enable us to identify you or your device, secure access to your account (including helping us know if someone attempts to login in to your account from a different device), easily enable you to connect your profile to retailers in our network and serve individually personalized clothing and outfit recommendations to you.
 
 ## How Long Does Dressipi Use Cookies For?
 
-Dressipi only uses cookies for as long as is necessary in order to provide the most optimised services to you. In accordance with the law, Dressipi will never use cookies within its own controlled online environments for longer than 24 months following your acceptance of our cookies. Your acceptance of our cookies may be continuously refreshed as you use our services, for example when you update your profile data via our online platform, via the account settings page or when your consent is collated when you visit our site or use our services. Further details about how long our cookies are used are set out in the table below.
+Dressipi only uses cookies for as long as is necessary in order to provide the most optimized services to you. In accordance with the law, Dressipi will never use cookies within its own controlled online environments for longer than 24 months following your acceptance of our cookies. Your acceptance of our cookies may be continuously refreshed as you use our services, for example when you update your profile data via our online platform, via the account settings page or when your consent is collated when you visit our site or use our services. Further details about how long our cookies are used are set out in the table below.
 
 ## What Types Of Cookies Does Dressipi Use?
 
@@ -45,7 +45,7 @@ Session cookies only last for as long as the session (usually a single visit to 
 
 ## What Are Cookies Used For?
 
-Cookies can be used to recognise you when you visit Dressipi or our retail partner sites, to remember your preferences and give you personalised recommendations that are in line with your permission settings.
+Cookies can be used to recognise you when you visit Dressipi or our retail partner sites, to remember your preferences and give you personalized recommendations that are in line with your permission settings.
 Cookies also make your interactions with Dressipi faster and more secure.
 Additionally, cookies allow us to bring you useful features through Dressipi plugins such as our aggregated wish list functionality and dislike buttons.
 
@@ -53,7 +53,7 @@ Additionally, cookies allow us to bring you useful features through Dressipi plu
 
 ### Authentication
 
-We use cookies to verify your account and determine when you are logged-in so we can show your individual personalised clothing recommendations and content.
+We use cookies to verify your account and determine when you are logged-in so we can show your individual personalized clothing recommendations and content.
 
 For example, cookies keep you logged in as you navigate between the retail partners to whom you have connected your profile, so you do not have to log in each time you visit different retailer environments.
 
@@ -73,7 +73,7 @@ For example, cookies help us route traffic between servers and understand how qu
 
 We use cookies to better understand how people use the Dressipi solutions so that we can improve them.
 
-For example, cookies can help us analyse which parts of the Dressipi solutions people find most useful and identify features that can be improved.
+For example, cookies can help us analyze which parts of the Dressipi solutions people find most useful and identify features that can be improved.
 
 ## How Are Cookies Used For Advertising Purposes?
 
@@ -89,7 +89,7 @@ If you want further information about third party cookies or those used by socia
 
 ## Controlling Cookies
 
-Most browsers allow you to control cookies through their settings preferences. However, if you limit the ability of websites to set cookies, you may worsen your overall user experience, since it will no longer be personalised to you. It may also stop you from saving customised settings like login information.
+Most browsers allow you to control cookies through their settings preferences. However, if you limit the ability of websites to set cookies, you may worsen your overall user experience, since it will no longer be personalized to you. It may also stop you from saving customised settings like login information.
 
 ## What To Do If You Want To Remove Cookies?
 
@@ -139,7 +139,7 @@ These are cookies set by Dressipi and used only by Dressipi.
 | dressipi-session    | Session cookie (terminates at the end of your current session and in any case, never exceeds 24 months) | Stores temporary data such as error messages                                                                                                                                                                                                                                                       |
 | last-login          | 24 months                                                                                               | Encrypted copy of the email address you last logged in with. This allows us to prefill the email field on the login form                                                                                                                                                                           |
 | Dressipi-mobile     | 24 months                                                                                               | Records whether we should be showing you the mobile version of our site                                                                                                                                                                                                                            |
-| \_ga, \_gid, \_gat  | Up to 24 months                                                                                         | These cookies are set by google analytics, which we use to analyse how our site is used See <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage" target="_blank">www.developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage </a> |
+| \_ga, \_gid, \_gat  | Up to 24 months                                                                                         | These cookies are set by google analytics, which we use to analyze how our site is used See <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage" target="_blank">www.developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage </a> |
 | Dressipi_status     | 24 months                                                                                               | This allows the retailer you are visiting to know that you have already completed signup with dressipi.                                                                                                                                                                                            |
 
 ### Cookies Used By Our Retail Partners

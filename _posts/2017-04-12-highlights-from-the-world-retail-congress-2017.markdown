@@ -8,7 +8,7 @@ tags:
 - world retail congress
 - technology
 - data
-- personalisation
+- personalization
 - retail technology
 - fashion technology
 - retail
@@ -24,7 +24,7 @@ Dressipi were thrilled to be selected as one of 5 start-ups who exhibited at the
 
 ## Bringing together over 130 leaders from the global retail industry, the theme for this year’s event was Reimagining the Customer Experience.
 
-A variety of brilliant talks were held over the three days, with many of them centred around meeting consumers’ needs at a time when the pace of innovation is rapid, and the expectations of exceptional customer experiences are higher than ever before.
+A variety of brilliant talks were held over the three days, with many of them centered around meeting consumers’ needs at a time when the pace of innovation is rapid, and the expectations of exceptional customer experiences are higher than ever before.
 
 The following represent my top highlights from the event:
 
@@ -38,7 +38,7 @@ Martijn’s three trends to watch included:
 
 - **Machine Learning**- Use data to keep learning. Emphasis must be placed on developing smarter machines that can adapt on the go. Gathering insights and making real changes based on these is what will drive innovation forward.
 - **Immersive Experiences** - In years gone by we would treasure our pen and take it everywhere with us – this has now evolved into whatever device helps make our lives easier and more efficient. The rise of more and more connected devices around the home reflects this.
-- **Faster Decision Making** - The consumer is faced with far too much choice. The winners are the retailers who are going to help their customers make faster and better decisions, whether that is through natural language search or more personalised shopping journeys. In short, retailers need to show up when the customer wants them to.
+- **Faster Decision Making** - The consumer is faced with far too much choice. The winners are the retailers who are going to help their customers make faster and better decisions, whether that is through natural language search or more personalized shopping journeys. In short, retailers need to show up when the customer wants them to.
 
 ### 2) Physical Stores Need to Provide Emotional Experiences
 

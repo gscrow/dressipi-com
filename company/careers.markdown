@@ -28,7 +28,7 @@ sections:
     exciting challenge? \n\nDressipi’s passion is to transform the way fashion retailers
     engage with their customers whilst helping create more efficient supply chains.
     Through leading machine learning and AI, we give retailers the tools they need
-    to offer deeper, entirely personalised customer experiences and make data-driven
+    to offer deeper, entirely personalized customer experiences and make data-driven
     buying and merchandising decisions. \n\nWe believe this combination of selling
     smarter and using insight to buy and market better gives retailers the profitability
     they need to invest in creating an even better future for themselves and their

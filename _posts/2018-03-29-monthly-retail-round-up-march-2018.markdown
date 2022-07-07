@@ -15,7 +15,7 @@ tags:
 - innovation
 - fashion technology
 - retail
-- how to create a personalised shopping experience
+- how to create a personalized shopping experience
 - instore experience
 - self check out
 - zara self check out

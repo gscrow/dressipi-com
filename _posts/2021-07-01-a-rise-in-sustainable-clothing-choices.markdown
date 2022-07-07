@@ -8,11 +8,11 @@ tags:
 - sustainable
 - retail sustainability
 - sustainability
-- consumer behaviour
+- consumer behavior
 image: "/uploads/SustainabilityBanner.jpg"
 author: Sarah McVittie
 description: With stark changes to the retail industry, our data analysts monitored
-  post-pandemic consumer behaviour to unravel how fashion habits have evolved.
+  post-pandemic consumer behavior to unravel how fashion habits have evolved.
 ---
 
 ## Some interesting findings from our data analysts.

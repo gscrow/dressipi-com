@@ -9,7 +9,7 @@ image: "/uploads/ows.jpg"
 header:
   case-study-header: true
   page-title: SUCCESS STORY
-  page-title-icon: "/uploads/icon_success-story-colour.svg"
+  page-title-icon: "/uploads/icon_success-story-color.svg"
   body: How a luxury retailer gave each customer a tailored shopping experience and
     delivered an extra 12% increase in Revenue Per Visitor and 25% reduction in Returns
 sections:
@@ -56,7 +56,7 @@ sections:
       individual level. We wanted a partner that went the extra mile, truly understood
       the fashion domain and would work with us to innovate and create unique experiences
       that were in line with our brand DNA. Dressipi delivers on all of this and allows
-      us to offer our customers a truly personalised experience, which is a key part
+      us to offer our customers a truly personalized experience, which is a key part
       of our strategy.”"
     author: Director of Ecommerce
     button: DOWNLOAD PDF>

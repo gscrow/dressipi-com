@@ -24,7 +24,7 @@ image: "/uploads/commerce-crown-group-374894%20(1).jpg"
 author: Philippa Mew
 description: 2018 was undoubtedly a tough year for retail and one that will be remembered.
   As we look to the year ahead, these are our top predictions for 2019.
-download: Five Things Every Retailer Should Know About Personalisation
+download: Five Things Every Retailer Should Know About Personalization
 ---
 
 We take a look at our top predictions in the world of retail for 2019.
@@ -59,7 +59,7 @@ We predict that the gap separating the winners and losers in retail will start t
 
 2018 saw some great progress where brands focussed on [improving customer experiences](https://www.youtube.com/watch?v=_y_njgfUdbg&t=4s), but it fell short of where we believe retail is truly heading.
 
-Rather than playing at the edges, we predict 2019 will see the launch of the first proper execution of personalisation in store and online. By this we mean customers having access to an entire shopping experience that is unique and [completely relevant to them](https://dressipi.com/blog/segmentation-vs-personalisation/) as individuals. 
+Rather than playing at the edges, we predict 2019 will see the launch of the first proper execution of personalization in store and online. By this we mean customers having access to an entire shopping experience that is unique and [completely relevant to them](https://dressipi.com/blog/segmentation-vs-personalization/) as individuals. 
 
 In stores we’ll see an increase in real-time context assistance for customers, helping to guide and educate them better as they shop. Online, we’ll see properly tailored experiences and truly relevant content in marketing material such as emails.
 

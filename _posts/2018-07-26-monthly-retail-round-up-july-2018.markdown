@@ -26,11 +26,11 @@ Some of the best articles from the world of retail and its supporting industries
 
 # Monthly Retail Round-Up - July 2018
 
-## With lots of interesting highlights in the world of retail this July, Dressipi, the experts in fashion personalisation, have put together our top stories to keep you up to date.
+## With lots of interesting highlights in the world of retail this July, Dressipi, the experts in fashion personalization, have put together our top stories to keep you up to date.
 
 ### 1) Push for Retailers to Become More Sustainable
 
-The [Drapers Sustainability Report](http://guides.drapersonline.com/5922.guide) was released this July and centred around creating a circular business model for fashion. This includes:
+The [Drapers Sustainability Report](http://guides.drapersonline.com/5922.guide) was released this July and centered around creating a circular business model for fashion. This includes:
 
 - Increasing clothing recycling
 - Reducing the industry’s reliance on raw materials, e.g. Cotton
@@ -69,7 +69,7 @@ Reported in [RACKED](https://www.racked.com/2018/7/19/17591310/nike-live-concept
 
 - See if their size is in store, allowing for same day reservations
 - NikePlus members will be given access to special Nike products, exclusive discounts, and partner awards
-- Scan barcodes to learn more about any product and find more sizes and colours
+- Scan barcodes to learn more about any product and find more sizes and colors
 
 ### 4) Missguided’s Partnership with Love Island
 

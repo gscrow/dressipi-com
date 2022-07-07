@@ -6,11 +6,11 @@ is-open: false
 
 We are looking for an entrepreneurial and highly driven Head of Sales. Our product is now award-winning and the best in class. You will be the driving force behind our overall commercial strategy and be instrumental in shaping a rapidly scaling business.
 
-You’ll get to work directly with the co-founders to convince partners to join, evolve and optimise their relationship with us. We are offering a highly competitive package including a range of benfits.
+You’ll get to work directly with the co-founders to convince partners to join, evolve and optimize their relationship with us. We are offering a highly competitive package including a range of benfits.
 
 ### Key Responsibilities:
 
-* Build a pipeline of target brands to use Dressipi personalisation solutions
+* Build a pipeline of target brands to use Dressipi personalization solutions
 
 * Proven ability to pursue and close new partnerships within a defined industry sector
 

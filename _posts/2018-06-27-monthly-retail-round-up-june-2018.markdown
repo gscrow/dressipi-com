@@ -12,7 +12,7 @@ tags:
 - Voice Interactive Mirrors
 - Augmented Reality
 - Harvey Nichols
-- one to one personalisation
+- one to one personalization
 - Westfield
 - Destination 2028
 - ASOS
@@ -51,15 +51,15 @@ High street retailers aren’t the only ones trying to bridge online and offline
 
 * Hero will enable shoppers to access a platform called Black Book. *“Customers who opt into Black Book can stay connected with their preferred stylist, in-store and online. When they're signed up to this service, they can also discover product offerings and recommendations.”*
 
-Instead of queries going to the customer service team, customers will speak through messaging, photo sharing and live video streaming with actual stylists based at Harvey Nichols. As reported in [The Industry Fashion](https://www.theindustry.fashion/harvey-nichols-partners-with-hero-to-offer-live-shopping-online/), Harvey Nichols wants to offer their online customers the same level of luxury, personalised service that they would expect at their stores.
+Instead of queries going to the customer service team, customers will speak through messaging, photo sharing and live video streaming with actual stylists based at Harvey Nichols. As reported in [The Industry Fashion](https://www.theindustry.fashion/harvey-nichols-partners-with-hero-to-offer-live-shopping-online/), Harvey Nichols wants to offer their online customers the same level of luxury, personalized service that they would expect at their stores.
 
 ### 3) Westfield London’s Technology Plans
 
-In March, Westfield London opened its new expansion. Anchored by John Lewis, other retailers including Boden, Primark and H&M opened new and improved stores, centred around customer experience and new technology. This June, [Fashion United](https://fashionunited.uk/news/retail/westfield-unveils-the-future-of-retail-destination-2028/2018060430007) reported that marking their 10 year anniversary, Westfield has unveiled a new concept named ‘Destination 2028’.
+In March, Westfield London opened its new expansion. Anchored by John Lewis, other retailers including Boden, Primark and H&M opened new and improved stores, centered around customer experience and new technology. This June, [Fashion United](https://fashionunited.uk/news/retail/westfield-unveils-the-future-of-retail-destination-2028/2018060430007) reported that marking their 10 year anniversary, Westfield has unveiled a new concept named ‘Destination 2028’.
 
 Destination 2028 will include features such as:
 
-* Eye scanners recalling information on entry on a visitor's former purchases and recommendations for personalised fast-lanes
+* Eye scanners recalling information on entry on a visitor's former purchases and recommendations for personalized fast-lanes
 
 * Magic mirrors and smart changing rooms will give shoppers a virtual reflection of themselves wearing new garments
 

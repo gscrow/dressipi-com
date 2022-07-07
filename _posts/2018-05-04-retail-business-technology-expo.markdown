@@ -12,9 +12,9 @@ tags:
 - instore experience
 - omnichannel retail
 - millennials
-- personalisation
+- personalization
 - retail events
-- retail personalisation
+- retail personalization
 - future of retail
 - smartphone
 - customer experience
@@ -58,7 +58,7 @@ Retailers are increasingly using smartphones to make this information available 
 
 Customer experience is the most important thing in retail. It is something that will never change and is an ethos that still sits at the heart of most retailers’ strategies. *“Our customers at John Lewis are the most important thing to us”* stated Louisa Nicholls. 
 
-In today’s world, this expectation of customer experience has evolved, with customers demanding a personalised and seamless experience across all channels.
+In today’s world, this expectation of customer experience has evolved, with customers demanding a personalized and seamless experience across all channels.
 
 Kash Ghedia, Head of Technology, Dixons Carphone highlighted, *“It is not about making the technology disappear, it is how to make it seamless from online to in-store,”* whilst making *“an incremental benefit for the customer.”*
 
@@ -66,7 +66,7 @@ James Lipscombe, Managing Director and Owner, The Chesterford Group gave us his 
 
 * **Making sure your shops/website/app look fantastic**
 * **Everything has got to be fast, easy and accurate, online and in-store**
-* **Being able to offer a personalised shopping experience**
+* **Being able to offer a personalized shopping experience**
 
 ## To Conclude…
 

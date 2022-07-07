@@ -10,8 +10,8 @@ tags:
 - labelling
 - garment attributes
 - outfit algorithms
-- personalised outfits
-- personalised outfits technology
+- personalized outfits
+- personalized outfits technology
 image: "/uploads/Outfit_Blog_Banner.JPG"
 author: Marija Mandić
 description: Dressipi’s Software Engineer Marija Mandić explains why outfitting is
@@ -25,7 +25,7 @@ At Dressipi, we have always known they are an important part of how a customer s
 
 Dressipi is now able to create around ~10 million outfits for retailers with smaller numbers of distinct products (<1K) and up to 100 million outfits for retailers with larger numbers - depending on garment categories and number of occasions a single garment can be worn in. Dressipi provides a bridge between the user’s needs and retailer stock. Personalising recommendations and styling garments as outfits in multiple ways for more than one occasion (& including items from a customer’s wardrobe), inspires individuals whilst upselling a garment by showing its versatility. 
 
-## Approaching personalised outfits from a technical point of view
+## Approaching personalized outfits from a technical point of view
 
 Not all garments can be matched together and their compatibility depends on factors such as occasion, season, category, features and trends. It is crucial to build a system that will handle all these factors while being efficient and performant at the same time. It also must be able to tune different inputs to match potential changes in starting requirements over time.
 
@@ -45,7 +45,7 @@ Another thing a machine needs to know is which garment categories can be combine
 
 ## Rules
 
-However, templates don’t handle combinations of different garment attributes and how they can be styled together. For that purpose, we introduced a set of outfit rules where combinations of attributes that cannot go together are listed - e.g. animal print dress shouldn’t be styled with an animal print jacket. Rules are written by senior stylists and can be easily and quickly updated as new trends may “break” rules already set. For example, a pink-and-red colour-blocking trend showed up a few years ago and we promptly incorporated it within our rules.
+However, templates don’t handle combinations of different garment attributes and how they can be styled together. For that purpose, we introduced a set of outfit rules where combinations of attributes that cannot go together are listed - e.g. animal print dress shouldn’t be styled with an animal print jacket. Rules are written by senior stylists and can be easily and quickly updated as new trends may “break” rules already set. For example, a pink-and-red color-blocking trend showed up a few years ago and we promptly incorporated it within our rules.
 
 ## Creating the outfits
 
@@ -53,20 +53,20 @@ Once garments are labelled and a set of templates is created, outfits can be cre
 
 Before actually generating all possible garment combinations, we create a partial resolution of the garment’s attributes in a template set following the outfit rules. Attributes that violate the rules are eliminated which allows large numbers of combinations of garments to be excluded without ever considering them.
 
-The final step is to find all the garments that match the partially resolved attributes for every garment category in the template set. At this step, other factors, such as colour restrictions and different ranges (e.g. curve range) all also applied. 
+The final step is to find all the garments that match the partially resolved attributes for every garment category in the template set. At this step, other factors, such as color restrictions and different ranges (e.g. curve range) all also applied. 
 
-## Adding the personalisation to personalised outfits
+## Adding the personalization to personalized outfits
 
-At this stage, outfits aren’t personalised yet. Personalisation happens in real-time when a garment is requested. At that moment we pick the remaining garments in the outfit by checking if they are recommended for a user. As not all garments have an equal recommended score, they are sorted in order of descending goodness. Even though always returning the best-recommended garments sounds good in theory, in practice, that means there will be a lot of homogeneous outfits. Outfits’ diversity is equally important as the best-recommended garments. That is why we aggregate outfits to ensure diversity and blocklist garments that have already been shown for a short period of time. Consequently, slightly less recommended garments are returned but a diversity of outfits is increased.
+At this stage, outfits aren’t personalized yet. Personalization happens in real-time when a garment is requested. At that moment we pick the remaining garments in the outfit by checking if they are recommended for a user. As not all garments have an equal recommended score, they are sorted in order of descending goodness. Even though always returning the best-recommended garments sounds good in theory, in practice, that means there will be a lot of homogeneous outfits. Outfits’ diversity is equally important as the best-recommended garments. That is why we aggregate outfits to ensure diversity and blocklist garments that have already been shown for a short period of time. Consequently, slightly less recommended garments are returned but a diversity of outfits is increased.
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 400px;" alt="Example of a personalized outfit for a dress" src="/uploads/Outfit_Blog_3.JPG"/></p>
 
 ## Conclusion
 
-Dressipi is unique in its ability to deliver personalised outfits. Although 'What The Model Is Wearing' delivers some uplift (~1%), personalising outfits will deliver an additional 2-3% incremental revenue, demonstrating that there is a clear user appetite for personalised outfits. The success has been proven by numerous AB tests with our clients, improving revenue, conversion, AOV and retention whilst also inspiring the customer and creating amazing experiences.
+Dressipi is unique in its ability to deliver personalized outfits. Although 'What The Model Is Wearing' delivers some uplift (~1%), personalising outfits will deliver an additional 2-3% incremental revenue, demonstrating that there is a clear user appetite for personalized outfits. The success has been proven by numerous AB tests with our clients, improving revenue, conversion, AOV and retention whilst also inspiring the customer and creating amazing experiences.
 
-Personalised outfits tell stories about garments and help show customers how different garments can be styled together. There will always be a need for outfitting and whether your vision is for a customer to try on outfits through AR or VR, you will still need the Dressipi technology to pick out the best outfit for you.
+Personalized outfits tell stories about garments and help show customers how different garments can be styled together. There will always be a need for outfitting and whether your vision is for a customer to try on outfits through AR or VR, you will still need the Dressipi technology to pick out the best outfit for you.
 
-If you’d like to learn how to get started on delivering personalised outfits at scale to your customers, please get in touch.
+If you’d like to learn how to get started on delivering personalized outfits at scale to your customers, please get in touch.
 
 <p style="text-align:center"><a href="/company/demo/" class="button button-primary">FREE CONSULTATION</a></p>

@@ -25,8 +25,8 @@ sections:
   - title: Our Mission
     subtitle: We set up Dressipi to help the fashion industry change
     body: "Our mission is to transform how retailers engage with their customers through
-      deeper, entirely personalised experiences; and use data to advance the buying
-      and merchandising processes. <br/><br/>\nWe believe this combination optimises
+      deeper, entirely personalized experiences; and use data to advance the buying
+      and merchandising processes. <br/><br/>\nWe believe this combination optimizes
       demand and supply, giving retailers the profitability to invest in creating
       better products and services, and to tackle the issue of waste in the industry.
       <br/><br/>\nWe deliver genuine results, quickly and work with the world’s leading
@@ -66,7 +66,7 @@ sections:
       <br>Winner
   - image: "/uploads/RSA_2022.png"
     title: |-
-      Experiential or Personalised Retail Solution of the Year
+      Experiential or Personalized Retail Solution of the Year
       <br>Winner
   - image: "/uploads/business-cloud.png"
     title: Business Cloud London Tech 50 2020

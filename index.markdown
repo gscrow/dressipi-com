@@ -35,13 +35,13 @@ sections:
   - title: Help All Visitors Find Their Best Products Faster
     subtitle: PRODUCT DISCOVERY
     class: index-product-discovery
-    body: "Provide intent-driven categories, filters & personalised recommendations
+    body: "Provide intent-driven categories, filters & personalized recommendations
       for first time visitors as well as repeat customers \n"
     image: "/uploads/banner-product-discovery.png"
     hres-image: "/uploads/banner-product-discovery.png"
     link: Learn More >
     url: "/solutions/product-discovery/"
-  - title: Create Customer-Centred, Fashion Experiences
+  - title: Create Customer-Centered, Fashion Experiences
     subtitle: PRODUCT EXPERIENCE
     color: white
     body: Inspire with outfits relevant to each visitor, showing the value of every
@@ -50,7 +50,7 @@ sections:
     hres-image: "/uploads/banner-product-experience.png"
     link: Learn More >
     url: "/solutions/product-experience/"
-  - title: Optimise Future Product Assortments & Size Ratios
+  - title: Optimize Future Product Assortments & Size Ratios
     subtitle: PRODUCT FORECASTING
     body: Ensure you have the right products to meet demand, significantly reducing
       overstock & discounting whilst hugely improving your ESG credentials
@@ -78,9 +78,9 @@ sections:
   - Jigsaw
   - Hush
   downloads:
-  - Personalisation Drives Profitable Growth for River Island
-  - Belstaff increased email revenue by 69% through personalised recommendations
-  - How OVS Benefited from Dressipi’s Personalised In-Store Emails
+  - Personalization Drives Profitable Growth for River Island
+  - Belstaff increased email revenue by 69% through personalized recommendations
+  - How OVS Benefited from Dressipi’s Personalized In-Store Emails
   link: MORE CASE STUDIES >
   url: "/customers/"
 - title: Make Every Experience More Relevant, More Fashion-Specific with Dressipi

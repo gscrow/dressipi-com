@@ -90,7 +90,7 @@ Harnessing the power of this data can significantly improve the customer experie
 
 **Make someone in the c-suite responsible for returns:** Whilst most apparel retailers understand the impact their returns experience can have on customer loyalty and their bottom line, it always amazes us that no one person in the business owns this metric. 
 
-**Take the time to analyse the data to state the problem (rather than trying to solve a problem you assume exists):** Most retailers assume that confusing sizing is the core reason for returns (and, to be honest, so did we when we started!) but a deeper look at the data tells a very different story. We have had much better success reducing returns with our return rate propensity model feeding into the recommendations. Only showing customers items they are likely to keep, it turns out, is a quicker and easier way to reduce them. 
+**Take the time to analyze the data to state the problem (rather than trying to solve a problem you assume exists):** Most retailers assume that confusing sizing is the core reason for returns (and, to be honest, so did we when we started!) but a deeper look at the data tells a very different story. We have had much better success reducing returns with our return rate propensity model feeding into the recommendations. Only showing customers items they are likely to keep, it turns out, is a quicker and easier way to reduce them. 
 
 As a side note here, it kind of makes sense, 70-80% of any retailer’s revenue comes from their top 20-30% of customers and they typically know their size. Those heavier customers are also responsible for the bulk of the returns so is more likely to be other reasons than size. 
 

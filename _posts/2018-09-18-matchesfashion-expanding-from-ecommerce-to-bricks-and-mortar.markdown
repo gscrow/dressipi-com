@@ -15,7 +15,7 @@ image: "/uploads/Matches%20Fashion%20front%20(2).jpg"
 author: Georgina Fisher
 description: With physical stores increasingly being occupied by retailers that started
   online, we visited 5 Carlos Place, Matchesfashion’s new concept store.
-download: Five Things Every Retailer Should Know About Personalisation
+download: Five Things Every Retailer Should Know About Personalization
 ---
 
 With physical retail spaces increasingly being occupied by brands that started online, Georgina Fisher visited 5 Carlos Place, Matchesfashion’s new concept store.
@@ -41,7 +41,7 @@ For the launch of 5 Carlos Place, Matchesfashion collaborated with Prada to crea
 
 QR codes are everywhere to encourage scanning and interaction, prompting customers to open the Matchesfashion app (or download it). Depending on which code you scan, the app will then launch content such as ‘The Making of 5 Carlos Place’, beautiful catwalk videos and product pages allowing you to shop the full collection. 
 
-Despite a strong focus on technology, the space doesn’t include gimmicks such as magic mirrors or VR headsets, but rather tech that genuinely helps the customer and enriches their experience. As [Drapers](https://www.drapersonline.com/news/first-look-matchesfashion-opens-new-retail-space-5-carlos-place/7031983.article?search=https%3a%2f%2fwww.drapersonline.com%2fsearcharticles%3fqsearch%3d1%26keywords%3dmatches) reports *“The store includes subtle mobile technology throughout that is connected to the Matchesfashion app, which allows shoppers full access to the retailer’s product range. The technology will also give staff access to visitor’s sizing information, past orders and browsing history, using a bespoke algorithm that helps staff to suggest relevant and personalised recommendations.”* Furthermore, the algorithm allows for staff to send the customer follow up personalised emails (once they have left the store) with other relevant product suggestions. 
+Despite a strong focus on technology, the space doesn’t include gimmicks such as magic mirrors or VR headsets, but rather tech that genuinely helps the customer and enriches their experience. As [Drapers](https://www.drapersonline.com/news/first-look-matchesfashion-opens-new-retail-space-5-carlos-place/7031983.article?search=https%3a%2f%2fwww.drapersonline.com%2fsearcharticles%3fqsearch%3d1%26keywords%3dmatches) reports *“The store includes subtle mobile technology throughout that is connected to the Matchesfashion app, which allows shoppers full access to the retailer’s product range. The technology will also give staff access to visitor’s sizing information, past orders and browsing history, using a bespoke algorithm that helps staff to suggest relevant and personalized recommendations.”* Furthermore, the algorithm allows for staff to send the customer follow up personalized emails (once they have left the store) with other relevant product suggestions. 
 
 <p style="text-align:center"><img style="margin-left: 0px" alt="Image of a railing of clothes at the Matchesfashion store and a QR code linking to the Matchesfashion mobile app" src="/uploads/matches-2.jpeg"/></p>
 

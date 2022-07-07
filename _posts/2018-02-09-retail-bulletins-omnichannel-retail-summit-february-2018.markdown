@@ -11,7 +11,7 @@ tags:
 - omnichannel retail
 - retail bulletin
 - fashion technology
-- fashion personalisation
+- fashion personalization
 - instore experience
 - instore technology
 image: "/uploads/IMG_20180207_115532_760.jpeg"
@@ -24,15 +24,15 @@ Highlights from this year's Omnichannel Retail Summit, hosted by Retail Bulletin
 
 # Omnichannel. Or is it ‘Multichannel’? How about ‘A Single View of the Customer’?
 
-## Many buzzwords within the industry are used to describe what is essentially understanding customer behaviour across all shopping channels to deliver the best possible experience from start to finish.
+## Many buzzwords within the industry are used to describe what is essentially understanding customer behavior across all shopping channels to deliver the best possible experience from start to finish.
 
-Connecting that customer journey is gold dust for retailers. Whether its increasing brand loyalty, boosting acquisition and retention or driving sales, the [omnichannel experience](https://dressipi.com/omnichannel-personalisation/) (when done correctly) has the potential to be transformative for a business.
+Connecting that customer journey is gold dust for retailers. Whether its increasing brand loyalty, boosting acquisition and retention or driving sales, the [omnichannel experience](https://dressipi.com/omnichannel-personalization/) (when done correctly) has the potential to be transformative for a business.
 
 In order to truly understand the intent and preferences of customers, their offline and online interactions with a brand should not exist separately, but rather work together, with data being the foundation that allows customers to have seamless (and accurate) interactions with that brand.
 
 Of course, this is easier said than done.
 
-As the title suggests, this year’s Omnichannel Retail Summit, hosted by The Retail Bulletin focused on *‘How Omnichannel Investment is Driving the Future of Businesses’*. With a lineup of fantastic leaders from the wider retail industry, the day-long event included lively interactive panels and thought leadership presentations all centred around *‘providing the best ‘total’ retail experience’*. 
+As the title suggests, this year’s Omnichannel Retail Summit, hosted by The Retail Bulletin focused on *‘How Omnichannel Investment is Driving the Future of Businesses’*. With a lineup of fantastic leaders from the wider retail industry, the day-long event included lively interactive panels and thought leadership presentations all centered around *‘providing the best ‘total’ retail experience’*. 
 
 My key learnings from the event include the following:
 
@@ -57,7 +57,7 @@ Andrew Mann, Vice President Insight, Pricing & Digital CRM at Asda firmly believ
 
 His example of Disney’s “Magic Band” (essentially a tracking device!) to help manage your stay at the resort was a particularly good way of showcasing how brands are using tech in new ways to delight and fulfil expectations of great customer service.
 
-In short, his top tips for implementing [omnichannel solutions](https://dressipi.com/omnichannel-personalisation/) were to focus on the customer, be best friends with your IT team (I wholeheartedly agree!), and most importantly within the business culture, don’t pass down the fear of using data intelligently.
+In short, his top tips for implementing [omnichannel solutions](https://dressipi.com/omnichannel-personalization/) were to focus on the customer, be best friends with your IT team (I wholeheartedly agree!), and most importantly within the business culture, don’t pass down the fear of using data intelligently.
 
 ## 3) Omnichannel in 2018 has an Entirely New Meaning
 

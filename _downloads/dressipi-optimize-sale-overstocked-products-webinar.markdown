@@ -7,7 +7,7 @@ is-landing-page: true
 includes-video: true
 video-url: https://dressipi.com/media/overstock-webinar.mp4
 video-mask: "/uploads/overstock-webinar-video-mask.png"
-list-content: "# How to optimise the sale of overstocked products and release maximum
+list-content: "# How to optimize the sale of overstocked products and release maximum
   cash into your business\n\nThis webinar focused exclusively on how better use of
   data can deliver smarter solutions for shifting overstocked products. Watch the
   video recording to learn: \n\n- How to adopt a strategic, staged approach for the

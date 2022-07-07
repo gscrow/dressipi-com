@@ -26,9 +26,9 @@ Some of the best articles from the world of retail and its supporting industries
 
 ### 1) Farfetch Launches ‘See It, Snap It, Shop It’
 
-Luxury e-commerce platform, Farfetch has partnered with [Syte](https://www.syte.ai/) to launch a visual search feature called See It, Snap It, Shop It. Reported in [Glossy](https://www.glossy.co/evolution-of-luxury/farfetch-launches-visual-search-feature-as-luxury-plays-digital-catch-up), *“the feature lets customers upload pictures from anywhere, which the app will then analyze and serve up either the specific product or something similar.”* This is done using details such as colour, fit and fabric.
+Luxury e-commerce platform, Farfetch has partnered with [Syte](https://www.syte.ai/) to launch a visual search feature called See It, Snap It, Shop It. Reported in [Glossy](https://www.glossy.co/evolution-of-luxury/farfetch-launches-visual-search-feature-as-luxury-plays-digital-catch-up), *“the feature lets customers upload pictures from anywhere, which the app will then analyze and serve up either the specific product or something similar.”* This is done using details such as color, fit and fabric.
 
-Reported in [Tech Startups](https://techstartups.com/2018/12/07/visual-ai-startup-syte-partners-luxury-fashion-platform-farfetch-launch-new-app-visual-search-feature-ios/), Sara Wood, VP Product, Farfetch said, *“Visual search is the ultimate connection between on and offline inspiration. By allowing our customers to show us what they are interested in we gain a deeper understanding of their needs, are able to inspire them with fashion based on what they are looking for, and enable a more personalised shopping experience.”*
+Reported in [Tech Startups](https://techstartups.com/2018/12/07/visual-ai-startup-syte-partners-luxury-fashion-platform-farfetch-launch-new-app-visual-search-feature-ios/), Sara Wood, VP Product, Farfetch said, *“Visual search is the ultimate connection between on and offline inspiration. By allowing our customers to show us what they are interested in we gain a deeper understanding of their needs, are able to inspire them with fashion based on what they are looking for, and enable a more personalized shopping experience.”*
 
 This year has seen a wave of retailers continually investing in innovative technology to help them improve their customer experience. Check out some of our [other retail round-ups](https://dressipi.com/resources/blog/) for more.
 
@@ -39,7 +39,7 @@ H&M has revamped its Hammersmith store with the launch of a new retail experienc
 The store will include a fashion assortment specifically tailored to Hammersmith customers along with H&M Home products. Reported in [Retail Week](https://www.retail-week.com/fashion/handms-new-concept-store--nothing-like-your-average-handm/7030643.article), there are also many new additions to the store apart from the new look including:
 
 * A ‘Repair and Remake’ station where H&M will repair customer-owned H&M clothing.
-* Personalisation in the shape of customised embroidery with prices starting at around the £3 mark.
+* Personalization in the shape of customised embroidery with prices starting at around the £3 mark.
 * Screens showing images of customers wearing recent purchases that they have shared using the #HMxME hashtag on Instagram.
 * Self-checkouts in addition to normal till points (the first H&M in the UK to do this...Zara launched self-checkouts earlier this year, which you can read about in our [blog post](https://dressipi.com/blog/zaras-self-service-check-out-highlights-a-stronger-focus-on-creating-better-in-store-customer-experiences/) where we went to try it out for ourselves).
 
@@ -47,7 +47,7 @@ The store will include a fashion assortment specifically tailored to Hammersmith
 
 Another luxury e-commerce platform is in the news this December. Reported in [Drapers](https://www.drapersonline.com/7033452.article?utm_source=newsletter&utm_medium=email&utm_campaign=DR_EditorialNewsletters.Paid:%20Send%20-%20Daily%20News&mkt_tok=eyJpIjoiTnpNMVptRmlOR0l6TVRrdyIsInQiOiJnNEFvdGd2dHZNVGwwUGpodTIxRWszU1JzTFNBRWs5bTRIZFlkaVNmckJqUDc2d1wvSkVjcUpmblQ0MXRHQXRIWFd3R0ZnRmg4cEpXdjRIcnhyeFVERU9yV1B2cWFKZ1JWbEpTSnBPNlJcL3czMXFXQnYzMTZqaTc0Y1dVdmo2Ung0In0%3D), YOOX launched an AI-powered stylist. 
 
-The feature, YOOXMIRROR, allows customers to explore new looks by mixing and matching garments and accessories on a virtual avatar, Daisy. Daisy can be customised with different hair colour and skin tones which best relate to the customer, or they can upload their own picture. Reported in [Fashion Network](https://us.fashionnetwork.com/news/YNAP-unveils-Yoox-Mirror-AI-based-avatar-styling-suite,1044171.html#.XBjtYmj7RaR), *“Customers can see how a look will suit them (or at least how it looks on an avatar, which is a big step forward from static product images).”*
+The feature, YOOXMIRROR, allows customers to explore new looks by mixing and matching garments and accessories on a virtual avatar, Daisy. Daisy can be customised with different hair color and skin tones which best relate to the customer, or they can upload their own picture. Reported in [Fashion Network](https://us.fashionnetwork.com/news/YNAP-unveils-Yoox-Mirror-AI-based-avatar-styling-suite,1044171.html#.XBjtYmj7RaR), *“Customers can see how a look will suit them (or at least how it looks on an avatar, which is a big step forward from static product images).”*
 
 There are 250 products that Daisy will be able to showcase every week, and customers can then share the looks they have created on social media. This will get them to gain immediate feedback to decide whether to purchase the items or save them directly into their wishlist, the Yoox DreamBox. In addition to this, Daisy has taken over the YOOX Instagram account.
 

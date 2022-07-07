@@ -6,7 +6,7 @@ categories:
 tags:
 - instore experience
 - customer experience
-- instore personalisation
+- instore personalization
 - data
 - fashion specific experiences
 - customer data
@@ -14,7 +14,7 @@ tags:
 - Next Plc
 - Next
 - retail technology
-- how to create a personalised shopping experience
+- how to create a personalized shopping experience
 - shopping instore
 - shopping
 - fashion tech
@@ -36,7 +36,7 @@ description: Co-Founder Sarah McVittie outlines the challenges of applying a hyp
 
 The pace of transformation in the fashion industry has been accelerating over the last few decades. After the successes of Amazon selling books and electronics online, the first wave of change came in the form of a channel shift where retailers began to sell online as well as offline. 
 
-After years of fashion retailers selling successfully via their online stores, the second, current wave is to deliver hyper-curated, hyper-personalised services to customers. 
+After years of fashion retailers selling successfully via their online stores, the second, current wave is to deliver hyper-curated, hyper-personalized services to customers. 
 
 However, as retailers have begun this journey there is an increasing understanding that fashion behaves very differently to other categories such as books, electronics or travel. As discussed in Harvard Business Review’s ‘[How Retail Changes When Algorithms Curate Everything We Buy](https://hbr.org/2019/01/how-retail-changes-when-algorithms-curate-everything-we-buy)’, *‘differences between travel and retail curators make direct comparisons difficult...developing these engines for retail will probably be harder than it has been for travel’.*
 
@@ -44,18 +44,18 @@ Over the last decade, online retail has grown quickly and now represents around 
 
 Next Plc, one of the UK’s largest retailers, understands the value of bricks and mortar stores in the overall customer proposition. Having secured rent reductions for some of its stores the company is due to add 100,000 sq ft of space compared to an earlier estimate of 50,000 sq ft. Next CEO Simon Wolfson says, *“Returns are a central part of our online service and 82% of returns come back through our stores. It is counter-intuitive, but the fact is stores have become an important part of our online service”*. A bricks and mortar presence on the high street is not just about enabling the online business (and lowering the costs of returns and distribution) but also a way to offer a richer shopping experience to its customers.
 
-Online is on its way to personalising experiences for every customer. The store, however, is lagging, which is unusual, since forecasts say most of the fashion shopping journey will continue to take place in physical environments. Retailers should be offering an individual level of in-store hyper-personalisation if they are to stay relevant and create experiences that build unique, long-term relationships with customers. 
+Online is on its way to personalising experiences for every customer. The store, however, is lagging, which is unusual, since forecasts say most of the fashion shopping journey will continue to take place in physical environments. Retailers should be offering an individual level of in-store hyper-personalization if they are to stay relevant and create experiences that build unique, long-term relationships with customers. 
 
 
 # Guiding the Shopper
 
 To succeed at every touchpoint (not just online) a customer's experience with their favourite brands needs to be more intelligent and more individual, and yet there is currently very little activity focussed on individualising the store experience.
 
-Having said this, several forward-thinking brands are trying tactical projects. [Amazon](https://dressipi.com/blog/online-gets-physical/) and [McKinsey](https://fortune.com/2019/09/26/mckinsey-retail-store/) have opened pop up stores and malls, whilst [Nike](https://www.dezeen.com/2018/08/03/nike-live-melrose-los-angeles-retail-concept-interview/) and [Reformation](https://www.businessinsider.com/how-reformation-clothing-stores-beat-online-shopping-2018-1?r=US&IR=T) are good examples of brands that have been experimenting with more permanent concept stores centred around customer experiences.
+Having said this, several forward-thinking brands are trying tactical projects. [Amazon](https://dressipi.com/blog/online-gets-physical/) and [McKinsey](https://fortune.com/2019/09/26/mckinsey-retail-store/) have opened pop up stores and malls, whilst [Nike](https://www.dezeen.com/2018/08/03/nike-live-melrose-los-angeles-retail-concept-interview/) and [Reformation](https://www.businessinsider.com/how-reformation-clothing-stores-beat-online-shopping-2018-1?r=US&IR=T) are good examples of brands that have been experimenting with more permanent concept stores centered around customer experiences.
 
-Some retailers are taking a different tactic by repurposing space (Next Plc), whilst others (ASOS and Zalando) are starting to use machine learning to optimise inventory stock and size levels. 
+Some retailers are taking a different tactic by repurposing space (Next Plc), whilst others (ASOS and Zalando) are starting to use machine learning to optimize inventory stock and size levels. 
 
-However, regardless of this progress, no one is taking the obvious step of using personalisation to guide the shopper through their physical journey despite all the technology being in place to be able to do so.
+However, regardless of this progress, no one is taking the obvious step of using personalization to guide the shopper through their physical journey despite all the technology being in place to be able to do so.
 
 Imagine the following scenario...
 
@@ -65,11 +65,11 @@ Imagine the following scenario...
 
 <p style="padding-left: 50px; font-style: italic;"> You spot a few other items you like whilst walking around the store and want to know their suitability for you. You scan their barcodes and the product is recognised by your digital AI wardrobe assistant who gives you feedback on versatility and suitability based on what you already own. </p>
 
-<p style="padding-left: 50px; font-style: italic;"> In the changing room, you can’t decide between two dresses. You want to choose the one which works best with the shoes and bag you bought last month. You simply scan the barcode and the AI visualises the complete outfit for you, together with multiple other outfit options with items from your wardrobe. </p>
+<p style="padding-left: 50px; font-style: italic;"> In the changing room, you can’t decide between two dresses. You want to choose the one which works best with the shoes and bag you bought last month. You simply scan the barcode and the AI visualizes the complete outfit for you, together with multiple other outfit options with items from your wardrobe. </p>
 
-<p style="padding-left: 50px; font-style: italic;"> But the personalisation doesn’t stop here. After you have left the store paying using your mobile Pay & Go,  without the need to queue at the checkout, the personalisation continues. </p>
+<p style="padding-left: 50px; font-style: italic;"> But the personalization doesn’t stop here. After you have left the store paying using your mobile Pay & Go,  without the need to queue at the checkout, the personalization continues. </p>
 
-<p style="padding-left: 50px; font-style: italic;"> Ideas about how to wear your dress for different occasions and how to style your dress with new complementary items when they arrive new at your nearest store (or online) are simple ways to continue to personalise the experiences for every customer at scale. </p>
+<p style="padding-left: 50px; font-style: italic;"> Ideas about how to wear your dress for different occasions and how to style your dress with new complementary items when they arrive new at your nearest store (or online) are simple ways to continue to personalize the experiences for every customer at scale. </p>
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 400px;" alt="Graphic demonstrating personalization at different stages between the online and in store journey" src="/uploads/instore-journey.png"/></p>
 
@@ -82,13 +82,13 @@ The integrated shopping experience described above is a great example of what th
 
 ## 1) Sparsity of Data
 
-Retailers have a lot of data, but on a per-customer basis, it is typically very sparse. 60-70% of a retailer’s customers only buy 1-2 items with that retailer each year but the same customers are buying 30-40 items across up to 15 retailers. This means that each retailer typically only has access to a small portion of its customers’ shopping behaviour. 
+Retailers have a lot of data, but on a per-customer basis, it is typically very sparse. 60-70% of a retailer’s customers only buy 1-2 items with that retailer each year but the same customers are buying 30-40 items across up to 15 retailers. This means that each retailer typically only has access to a small portion of its customers’ shopping behavior. 
 
-If retailers are trying to build customer experiences based on less than 5-10% of each customer’s behaviour, those experiences that can be developed and delivered to each customer will be limited in both its success and scope.
+If retailers are trying to build customer experiences based on less than 5-10% of each customer’s behavior, those experiences that can be developed and delivered to each customer will be limited in both its success and scope.
 
 ## 2) The Way We Shop for Fashion is Different
 
-Most generic personalisation vendors completely miss that fashion is a complex and emotional purchase and don’t understand the nuances that make it different. Unlike other categories, clothes are typically bought to go with other items the customer already owns.
+Most generic personalization vendors completely miss that fashion is a complex and emotional purchase and don’t understand the nuances that make it different. Unlike other categories, clothes are typically bought to go with other items the customer already owns.
 
 A recent Dressipi survey sent to over 2,000 people, showed that 73% said it was important that outfit recommendations included a mix of items they owned as well as new ones, with an extra 10% wanting recommendations drawn only from items they already owned.
 
@@ -109,7 +109,7 @@ Some examples include:
 
 # How to Overcome These Problems
 
-Unless a retailer can build this domain expertise and some appreciation of these nuances into their chosen technology/AI they will struggle to deliver personalisation to the fashion customer.
+Unless a retailer can build this domain expertise and some appreciation of these nuances into their chosen technology/AI they will struggle to deliver personalization to the fashion customer.
 
 ## 1) Get Better Quality Data
   
@@ -129,11 +129,11 @@ Unless a retailer can build this domain expertise and some appreciation of these
 
 Due to the sparsity of data and because of the nuances specific to the fashion domain, a combination of fashion stylists and technology will, for the foreseeable future, outperform any purely AI and big data solution. Technology is a key tool, but the human element is still very important. Fashion stylists can fill in the necessary gaps that technology misses. 
 
-Having fashion experts involved ensures the understanding of the nuances of the industry. They must [work very closely with tech and data team](https://dressipi.com/blog/fashion-plus-data-equals-a-match-made-in-personalisation-heaven/) to build algorithms that take into account the fashion-specific information explained previously.
+Having fashion experts involved ensures the understanding of the nuances of the industry. They must [work very closely with tech and data team](https://dressipi.com/blog/fashion-plus-data-equals-a-match-made-in-personalization-heaven/) to build algorithms that take into account the fashion-specific information explained previously.
 
 <p style="text-align:center"><img style="margin-left: 0px" alt="Dressipi's Style Director Natalie Theo and Chief Data Scientist Nick Landia working on fashion-specific algorithms for John Lewis" src="/uploads/natalie-nick.jpg"/></p>
 
-# Leading the Way in Creating Hyper-Personalised Experiences
+# Leading the Way in Creating Hyper-Personalized Experiences
 
 Dressipi is currently [working with some of the UK and Europe’s biggest retailers](https://dressipi.com/customers/) on their long-term strategies to drive profitability and customer loyalty by redefining the shopping experience as we know it.
 
@@ -173,7 +173,7 @@ Technology can supercharge all of those efforts but the fundamentals still hold 
 
 As fashion becomes more global and competitive, brand positioning and DNA becomes increasingly important. Stores can be a vital component of that success, demonstrating what each brand stands for, but to do that, the role of the store needs to be redefined to work seamlessly alongside other channels.
 
-We know from years of experience that personalisation is not a one-off project. Retailers should be working with partners that will enable experiences customers need so they are more willing to share their data in return. Furthermore, technology now allows retailers to put excellent service back into stores at a fraction of the cost. 
+We know from years of experience that personalization is not a one-off project. Retailers should be working with partners that will enable experiences customers need so they are more willing to share their data in return. Furthermore, technology now allows retailers to put excellent service back into stores at a fraction of the cost. 
 
 By focusing on servicing the customer, retailers will gain so much more data than they would otherwise, meaning that they will be in a significantly better position to develop better products for their customers at the right price, every time.
 

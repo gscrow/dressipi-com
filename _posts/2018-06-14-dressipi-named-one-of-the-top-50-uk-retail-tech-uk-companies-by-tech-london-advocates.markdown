@@ -16,7 +16,7 @@ tags:
 - MishiPay
 - Mercaux
 - Poq
-- retail personalisation
+- retail personalization
 - Top 50
 image: "/uploads/retail-tech-banner-image.jpg"
 author: Philippa Mew
@@ -56,5 +56,5 @@ Balint Szeplaki, Head of Product at [Poq](https://poqcommerce.com/) outlined how
 
 <p style="text-align:center"><img style="margin-left: 0px" alt="Image of Balint Szeplaki giving a talk at the London Tech Week event" src="/uploads/Speaking.jpg"/></p>
 
-There are a huge number of businesses innovating and breaking into the retail sector, and given our expertise in [fashion personalisation](https://dressipi.com/customers/), Dressipi was delighted to be considered [one of the top UK companies switching up the fashion game](http://www.techlondonadvocates.org.uk/wp-content/uploads/2018/06/RetailTech_Gatefold_Pages-3.pdf). Thanks very much to Tech London Advocates for hosting a brilliant evening.
+There are a huge number of businesses innovating and breaking into the retail sector, and given our expertise in [fashion personalization](https://dressipi.com/customers/), Dressipi was delighted to be considered [one of the top UK companies switching up the fashion game](http://www.techlondonadvocates.org.uk/wp-content/uploads/2018/06/RetailTech_Gatefold_Pages-3.pdf). Thanks very much to Tech London Advocates for hosting a brilliant evening.
 

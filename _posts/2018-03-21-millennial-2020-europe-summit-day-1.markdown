@@ -9,15 +9,15 @@ tags:
 - millennials
 - retail
 - retail technology
-- retail personalisation
+- retail personalization
 - retail innovation
 - brand
 - instore experience
 - instore technology
 - future of retail
 - marketing
-- personalisation
-- how to create a personalised shopping experience
+- personalization
+- how to create a personalized shopping experience
 - better customer service
 - omnichannel retail
 - digital technology
@@ -46,9 +46,9 @@ Some key highlights from Day 1 (you can check out Day 2 highlights [here](https:
 
 Pepijn Rijvers, CMO, Booking.com boasted a built-in-house bot that handles 30% of Booking.com’s customer enquiries in under 5 minutes.  An impressive statistic, however, do we need to be careful of losing that human touch and authenticity? On [Day 2](https://dressipi.com/blog/millennial-2020-europe-summit-day-2/) of this event Joe Rohrlich, General Manager of EMEA at Bazaarvoice said that as consumers we look for “*authentic signals*” and are nervous about “*what is real and what isn’t real*”.
 
-In Pepijn’s opinion, this is where the combination of data and creativity come in. He firmly believes that these shouldn’t exist separately, but instead work together - firstly the process and technicalities should be data driven, then comes the creativity tool which adds colour and authenticity to your brand.
+In Pepijn’s opinion, this is where the combination of data and creativity come in. He firmly believes that these shouldn’t exist separately, but instead work together - firstly the process and technicalities should be data driven, then comes the creativity tool which adds color and authenticity to your brand.
 
-This certainly isn’t a new concept. In a [recent interview](https://www.glossy.co/ecommerce/farfetchs-vp-of-creative-yasmin-sewell-fashion-authority-doesnt-come-from-analyzing-data) about her fashion-led vision for Farfetch, Yasmin Sewell Vice President Of Style and Creative told Glossy’s Hilary Milnes, “*Fashion authority doesn’t come from analyzing data*.” Dressipi’s Style Director Natalie Theo explored this in [a recent blog post](https://dressipi.com/blog/fashion-plus-data-equals-a-match-made-in-personalisation-heaven/) on the importance of fashion intuition and how combining it with data creates a powerful personalisation solution.
+This certainly isn’t a new concept. In a [recent interview](https://www.glossy.co/ecommerce/farfetchs-vp-of-creative-yasmin-sewell-fashion-authority-doesnt-come-from-analyzing-data) about her fashion-led vision for Farfetch, Yasmin Sewell Vice President Of Style and Creative told Glossy’s Hilary Milnes, “*Fashion authority doesn’t come from analyzing data*.” Dressipi’s Style Director Natalie Theo explored this in [a recent blog post](https://dressipi.com/blog/fashion-plus-data-equals-a-match-made-in-personalization-heaven/) on the importance of fashion intuition and how combining it with data creates a powerful personalization solution.
 
 ## 2) Building an Authentic Brand is Key to Success
 
@@ -68,7 +68,7 @@ We cannot shy away from the role that data plays when marketing to customers. Tr
 
 Gen X, Y, Z...Millennials. I personally can’t keep track of the letters and their corresponding ages, but businesses certainly need to. According to Lana Glazman, VP - Corporate Innovation EU, Estee Lauder, “*we need to recognise millennials as the experts - they know more than we can possibly imagine*.”
 
-The youth of today are those who determine a retailers’ evolution. They call the shots when expressing how they wish to interact with a brand, which is why it is important to understand what truly connects with a millennial audience - what are the trigger points and what is the appetite for content? Their behaviour, however, might not always be what you expect... 
+The youth of today are those who determine a retailers’ evolution. They call the shots when expressing how they wish to interact with a brand, which is why it is important to understand what truly connects with a millennial audience - what are the trigger points and what is the appetite for content? Their behavior, however, might not always be what you expect... 
 
 Recent reports published by the likes of PWC (covered by [Business Insider](http://uk.businessinsider.com/generation-z-vs-millennials-in-shopping-2017-10) revealed that despite living in a digital age, young shoppers prefer to shop in-store - ‘*81% of young Gen Z respondents said they preferred to shop in stores, while 40% said they will only shop in stores*.’ This is supported nicely by Lana’s opinion that, “brands must create a true dialogue between the consumers and the brand but not just online - 90% of decisions are made online, but 70% of purchases are made offline.”
 

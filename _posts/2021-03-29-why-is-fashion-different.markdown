@@ -20,7 +20,7 @@ description: 'Dressipi’s Data Scientist explains why fashion recommendations a
 
 ## Quantifying Fashion Data
 
-Fashion is very different to the domains where recommender systems originated, both in terms of the industry and in terms of consumer behaviour. In this blog series we examine the main characteristics that make fashion different to other domains, and dive into the challenges that this causes for recommendation algorithms. 
+Fashion is very different to the domains where recommender systems originated, both in terms of the industry and in terms of consumer behavior. In this blog series we examine the main characteristics that make fashion different to other domains, and dive into the challenges that this causes for recommendation algorithms. 
 
 Although recommendation approaches built on and inspired by datasets from Netflix and Spotify have their own interesting characteristics, they do not encounter the conditions specific to the fashion domain, such as the rapidly changing product catalogue and the short lifetime of garments. This article will dig deeper into these specific characteristics and how they have to be addressed when building recommender systems for fashion.
 
@@ -65,7 +65,7 @@ To address this problem the need for using content data is much bigger than othe
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 700px;" alt="Example of a set of Dressipi's garment attributes for a jacket" src="/uploads/WhyFashionDifferent3.JPG"/></p>
 
-Find out more about why accuracy and specificity of garment data is so critical to drive better predictions and better algorithms in our webinar [here](https://dressipi.com/downloads/personalised-outfits/).
+Find out more about why accuracy and specificity of garment data is so critical to drive better predictions and better algorithms in our webinar [here](https://dressipi.com/downloads/personalized-outfits/).
 
 ### 2) Stock and lifetime of items
 
@@ -91,6 +91,6 @@ Recommendation approaches built on and inspired by datasets from Netflix, Spotif
 * The new-item problem is much more pronounced with large portions of the product catalogue being new each month - using content data is critical. The data we need is in the product image.
 * Items are short-lived and get discontinued - recommender has to react to new items quickly and we have to find a way to keep data on discontinued items useful.
 
-At Dressipi, we have addressed these challenges - and many more! Stay tuned for our next blog on how consumer behaviour has a huge impact on how recommender systems are built for the fashion domain. 
+At Dressipi, we have addressed these challenges - and many more! Stay tuned for our next blog on how consumer behavior has a huge impact on how recommender systems are built for the fashion domain. 
 
 <p style="text-align:center"><a href="/company/demo/" class="button button-primary">FREE CONSULTATION</a></p>

@@ -5,7 +5,7 @@ categories:
 - retail
 - Tech
 tags:
-- Personalised emails
+- Personalized emails
 - post purchase email
 - retention
 - customer retention
@@ -30,7 +30,7 @@ This is exactly the type of email I’d like to receive.
 <br>
 Whilst creating an amazing experience for the customer, it also increases lifetime value (LTV) by prompting another purchase. LTV is an often neglected metric in the retail industry but an absolutely necessary one for retailers to have as one of their key KPI’s if they are to be transformational and leaders in the space.
 
-[Dressipi data](https://dressipi.com/blog/secrets-to-success-how-to-optimise-your-email-revenue/) shows that only 30-40% of 1st time buyers come back and buy again. This increases to 45-50% for 2nd time buyers and 55-60% for 3rd time buyers, highlighting just how important moving customers up the purchase ladder is to building a loyal customer base. What’s more, retention marketing is more cost effective for retailers than acquisition marketing so increasing the percentage of customers that come back and buy again is one of the cheapest ways to increase your revenue and profitability. 
+[Dressipi data](https://dressipi.com/blog/secrets-to-success-how-to-optimize-your-email-revenue/) shows that only 30-40% of 1st time buyers come back and buy again. This increases to 45-50% for 2nd time buyers and 55-60% for 3rd time buyers, highlighting just how important moving customers up the purchase ladder is to building a loyal customer base. What’s more, retention marketing is more cost effective for retailers than acquisition marketing so increasing the percentage of customers that come back and buy again is one of the cheapest ways to increase your revenue and profitability. 
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 500px;" alt="Average percentage of customers who came back and bought again by number of purchases in 2019" src="/uploads/1st2nd_2.PNG"/></p>
 
@@ -44,13 +44,13 @@ By simply injecting Dressipi’s API’s into existing ESP’s, Dressipi’s Pos
 
 <p style="padding-left: 50px; font-style: italic;"> 1) A customer purchases a top. It is the right style and fit so the customer does not return this top. </p>
 
-<p style="padding-left: 50px; font-style: italic;"> 2) Powered by AI, personalised outfits featuring different occasions are generated to go with the top. </p>
+<p style="padding-left: 50px; font-style: italic;"> 2) Powered by AI, personalized outfits featuring different occasions are generated to go with the top. </p>
 
 <p style="padding-left: 50px; font-style: italic;"> 3) The outfits are included in an email and sent to the customer, promoting another purchase. </p>
 
 <p style="padding-left: 50px; font-style: italic;"> 4) The customer clicks through to buy a pair of trousers featured in the post-purchase email. </p>
 
-<p style="padding-left: 50px; font-style: italic;"> 5) The process starts again, with personalised outfits generated to go with the trousers. </p>
+<p style="padding-left: 50px; font-style: italic;"> 5) The process starts again, with personalized outfits generated to go with the trousers. </p>
 <br>
 <p style="text-align:center"><img style="margin-left: 0px; width: 400px;" alt="Graphic showing the cycle of product purchase, outfits being generated and sent by email, customer clicking through and purchasing an item for the email, and the process starting again with the new product" src="/uploads/PPE2.JPG"/></p>
 <br>
@@ -64,7 +64,7 @@ Enticing the customer to move up the purchase ladder through outfit recommendati
 <br>
 ### The Results: No Excuse Not to Test
 
-Showing [Personalised Outfits](https://dressipi.com/blog/driving-better-predictions-with-better-outfit-algorithms/) in emails have delivered amazing results. Recent tests over a 4 week period show the following uplifts compared to BAU emails.
+Showing [Personalized Outfits](https://dressipi.com/blog/driving-better-predictions-with-better-outfit-algorithms/) in emails have delivered amazing results. Recent tests over a 4 week period show the following uplifts compared to BAU emails.
 * Click Through Rates +89%
 * Open Rate +155%
 * Revenue / Email Sent +200% 

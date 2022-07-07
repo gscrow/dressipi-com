@@ -1,5 +1,5 @@
 ---
-title: 'Why is Fashion Different? Part 2: Fashion Consumer Behaviour'
+title: 'Why is Fashion Different? Part 2: Fashion Consumer Behavior'
 date: 2021-05-07 14:07:00 Z
 categories:
 - tech
@@ -15,22 +15,22 @@ tags:
 - data
 - recommender system
 - fashion technology
-- fashion personalisation
+- fashion personalization
 image: "/uploads/WhyFashionDifferentBanner-b94292.jpg"
 author: Nick Landia
-description: Dressipi’s Data Scientist digs deeper into the impact consumer behaviour
+description: Dressipi’s Data Scientist digs deeper into the impact consumer behavior
   has on building recommender systems for the fashion domain.
 ---
 
-## Fashion Consumer Behaviour
+## Fashion Consumer Behavior
 
-Fashion is very different to the domains where recommender systems originated, both in terms of the industry and in terms of consumer behaviour. In this blog series we examine the main characteristics that make fashion different to other domains, and dive into the challenges that this causes for recommendation algorithms. In our last blog entry we explored different stats to [quantify the characteristics of fashion retail](https://dressipi.com/blog/why-is-fashion-different/), compared with music and movie domains. In this entry we look at user behaviour.
+Fashion is very different to the domains where recommender systems originated, both in terms of the industry and in terms of consumer behavior. In this blog series we examine the main characteristics that make fashion different to other domains, and dive into the challenges that this causes for recommendation algorithms. In our last blog entry we explored different stats to [quantify the characteristics of fashion retail](https://dressipi.com/blog/why-is-fashion-different/), compared with music and movie domains. In this entry we look at user behavior.
 
-Recommender systems at their core rely on being able to find patterns in user behaviour. For this to be possible the user behaviour has to be fairly consistent. If the user’s actions contradict each other or give opposite signals the recommender’s job becomes very difficult. A very important difference between fashion and other domains is that users change their taste and preferences over relatively short periods of time. This can be caused by a number of things including trends, lifestyle changes, body shape changes and general public perception. In this article we examine these reasons further and dig deeper into the challenges it poses for traditional recommender systems.
+Recommender systems at their core rely on being able to find patterns in user behavior. For this to be possible the user behavior has to be fairly consistent. If the user’s actions contradict each other or give opposite signals the recommender’s job becomes very difficult. A very important difference between fashion and other domains is that users change their taste and preferences over relatively short periods of time. This can be caused by a number of things including trends, lifestyle changes, body shape changes and general public perception. In this article we examine these reasons further and dig deeper into the challenges it poses for traditional recommender systems.
 
 ## How Recommenders usually work
 
-Recommenders learn from historical data to predict future behaviour. They assume there is an underlying pattern in user taste or preference to be discovered and that the true preference of the user that we are trying to learn is fairly static. Even if the user does different things over time there is an underlying taste pattern that we are narrowing in on with each additional data point. In other words we assume the user is somewhat consistent in their actions.
+Recommenders learn from historical data to predict future behavior. They assume there is an underlying pattern in user taste or preference to be discovered and that the true preference of the user that we are trying to learn is fairly static. Even if the user does different things over time there is an underlying taste pattern that we are narrowing in on with each additional data point. In other words we assume the user is somewhat consistent in their actions.
 
 ## Fashion-specific challenges
 
@@ -50,7 +50,7 @@ I might be personally very comfortable in my tracksuit that is loose and practic
 
 ## Change in Taste vs Discovery
 
-When we think about modelling user behaviour in fashion vs other domains, it is important to distinguish between change and discovery. Discovery is when the user discovers something new they were not aware of before, say they come across a new artist they have not heard of before and this becomes their new favourite music. Change is when they have already encountered the artist before and had decided they don’t like them, but later when the artist becomes more popular and releases a new song they really get into it and change their opinion on this type of music. This happens less frequently for music, film and books but in fashion we encounter real changes in taste where people already had an opinion on a type of item and then change that opinion pretty suddenly when a trend comes along and public perception shifts.
+When we think about modelling user behavior in fashion vs other domains, it is important to distinguish between change and discovery. Discovery is when the user discovers something new they were not aware of before, say they come across a new artist they have not heard of before and this becomes their new favourite music. Change is when they have already encountered the artist before and had decided they don’t like them, but later when the artist becomes more popular and releases a new song they really get into it and change their opinion on this type of music. This happens less frequently for music, film and books but in fashion we encounter real changes in taste where people already had an opinion on a type of item and then change that opinion pretty suddenly when a trend comes along and public perception shifts.
 
 A very apt example is the [trend of heavy metal band shirts](https://www.theguardian.com/fashion/2017/jul/26/nirvana-nevermind-fashion-co-opted-band-t-shirt) that became popular and available at mainstream fashion stores.
  
@@ -61,14 +61,14 @@ From your past interactions a recommender would have learned that you don’t li
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 400px;" alt="Example image of a t-shirt with a graphic logo of a heavt metal band" src="/uploads/HeavyMetalTShirt.jpeg"/></p>
 
-Traditionally, when we try to personalise for a user we think of it as an exploration and narrowing in on the user’s taste. The task of the algorithms is to start broad (most popular) and then narrow in on the user’s taste, getting more accurate with each piece of information. In fashion however the true taste of the user is not as static as we would traditionally assume in recommender systems. In fact what the user likes can be rapidly changing and inconsistent over relatively short periods of time, meanings we can’t blindly rely on past data. We have to figure out how representative past purchases and interactions really are for a given user and whether or not their actual preference is that they are on trend.
+Traditionally, when we try to personalize for a user we think of it as an exploration and narrowing in on the user’s taste. The task of the algorithms is to start broad (most popular) and then narrow in on the user’s taste, getting more accurate with each piece of information. In fashion however the true taste of the user is not as static as we would traditionally assume in recommender systems. In fact what the user likes can be rapidly changing and inconsistent over relatively short periods of time, meanings we can’t blindly rely on past data. We have to figure out how representative past purchases and interactions really are for a given user and whether or not their actual preference is that they are on trend.
 
 ## Conclusion
 
-Fashion behavioural data has some interesting characteristics that are different to other domains and challenging to deal with for traditional recommender systems. This is because fashion has such a big social component that tastes and preferences of users can change very rapidly. 
+Fashion behavioral data has some interesting characteristics that are different to other domains and challenging to deal with for traditional recommender systems. This is because fashion has such a big social component that tastes and preferences of users can change very rapidly. 
 
 In other domains we deal with the problem of discovery where we don’t have user feedback on a subcategory of items. As a result, those items have low scores for the user and don’t make it into the top recommendations. This makes it hard for the user to discover new things they might like. There are approaches to deal with this, for example showing different types of items to the user to gather feedback and narrow in on their preferences. In fashion we have an additional problem on top of discovery which is actual change in taste: a preference that is established through several data points and that the system is confident in having learnt can change quickly. One of the reasons for this is trends. Trends can invalidate long-standing preferences that we thought we were sure about. To deal with this we have to take the trend-propensity of the user into consideration. Other challenges include changes in lifestyle, body shape and general public perception. 
 
-While traditional recommender systems rely on user behaviour being fairly consistent we have to be aware of a much more fluid user preference in the fashion domain and look at additional dimensions such as trends that drive preference changes for some users but not others.
+While traditional recommender systems rely on user behavior being fairly consistent we have to be aware of a much more fluid user preference in the fashion domain and look at additional dimensions such as trends that drive preference changes for some users but not others.
 
 <p style="text-align:center"><a href="/company/demo/" class="button button-primary">FREE CONSULTATION</a></p>

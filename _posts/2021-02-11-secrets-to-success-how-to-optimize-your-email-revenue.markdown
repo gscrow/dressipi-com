@@ -4,7 +4,7 @@ date: 2021-02-11 10:05:00 Z
 categories:
 - data
 tags:
-- Personalised emails
+- Personalized emails
 - emails
 - 1st to 2nd purchase
 - retention
@@ -12,15 +12,15 @@ tags:
 - loyal customers
 image: "/uploads/First_Second_Purchase_Blog.jpg"
 author: Sarah McVittie
-description: Dressipi have analysed the value behind improving customer retention
+description: Dressipi have analyzed the value behind improving customer retention
   and how personalized emails may be the answer for retailers to capitalize on this.
 ---
 
-Customer Lifetime Value (LTV) and Personalisation, two words that get used a lot by the modern-day marketeer.
+Customer Lifetime Value (LTV) and Personalization, two words that get used a lot by the modern-day marketeer.
 
 There is one obvious tool to deliver on both of those 2 goals: email. Don’t get me wrong, retailers use their email channel. In some cases they send too many emails but, more often than not, they are sending the same manually merchandised products to all customers or, at best, sending segmented emails to their base (bestsellers for men, women, kids etc).
  
-The right communication strategy couples beautiful, branded emails alongside truly personalised and relevant emails. Done well, this can increase overall revenue by 6-10%.  
+The right communication strategy couples beautiful, branded emails alongside truly personalized and relevant emails. Done well, this can increase overall revenue by 6-10%.  
  
 Average customer acquisition cost for high street fashion retailers is around £50-60. This is seven times more than the cost of driving better customer retention.* 
  
@@ -36,7 +36,7 @@ A typical high street retailer sees 30% of customers delivering 70% of revenue. 
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 500px;" alt="Graph showing the top 30% of customers representing 70% of total revenue" src="/uploads/1st2nd_1.PNG"/></p>
 
-These are the customers who typically sign up to get the emails and these are the customers for whom retailers have the most amount of data.  With that level of data you really can personalise what each customer is seeing with a very high confidence of success.
+These are the customers who typically sign up to get the emails and these are the customers for whom retailers have the most amount of data.  With that level of data you really can personalize what each customer is seeing with a very high confidence of success.
 
 ## Building A Loyal Base
 Starting from their first purchase: 
@@ -60,7 +60,7 @@ The key question is therefore what products do you show them and when. Initially
 
 If you can speak to each customer at the right time, with as relevant a message as possible and a selection of products that really work for that customer then you’ll start to reap the benefits. 
  
-At Dressipi, we test our personalised emails against all other BAU and segmented emails and consistently outperform by significant margins, by up to 2-3x (revenue per email sent). 
+At Dressipi, we test our personalized emails against all other BAU and segmented emails and consistently outperform by significant margins, by up to 2-3x (revenue per email sent). 
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 500px;" alt="Graphic showing 200% uplift in revenue per email sent" src="/uploads/1st2nd_3.PNG"/></p>
 
@@ -74,7 +74,7 @@ We have seen this continue through the whole of 2020.
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Graph showign average percentage of customers who came back and bought again within 6 months between January and June, 2019 versus 2020" src="/uploads/1st2nd_4.PNG"/></p>
 
-So whilst you have a captive audience, now is the time to optimise your email strategies.  With an increasingly fickle customer base it is more important than ever to drive your brand message through to your customer. 
+So whilst you have a captive audience, now is the time to optimize your email strategies.  With an increasingly fickle customer base it is more important than ever to drive your brand message through to your customer. 
  
 Key to success is finding the right mix of creative branded emails versus relevant transactional ones. But the transactional ones need to be really relevant, not just a selection of bestsellers by department. Do this well and you can expect to see your revenues and profits grow by 6%.
 

@@ -7,7 +7,7 @@ tags:
 - boden
 - boden store
 - instore experience
-- how to create a personalised shopping experience
+- how to create a personalized shopping experience
 - retail
 - better customer service
 - innovation
@@ -16,7 +16,7 @@ image: "/uploads/boden_banner.jpg"
 author: Natalie Theo
 description: As more and more pureplay retailers open physical stores, Natalie Theo,
   Dressipi’s Style Director ventures to Boden's newest flagship.
-download: Five Things Every Retailer Should Know About Personalisation
+download: Five Things Every Retailer Should Know About Personalization
 ---
 
 As more and more pureplay retailers open physical stores, Natalie Theo, Dressipi’s Style Director ventures to Boden's new flagship.
@@ -33,12 +33,12 @@ Their re-engagement with the physical retail space at the end of last year came 
 
 Boden already offers a full 365 days returns policy, but there is something to be said for having a physical retail space where I could try on a look (a bold green trouser suit with a hot pink print blouse) that I really would not have bothered with online. The flagship also offers the convenience of click-and-collect, an increasingly common feature as retailers look to expand their in-store services to improve customer experiences.
 
-There are no quirky technological offerings in-store, so it is very much about the actual space and the edited selection of clothes. It is furnished to feel like you are at home with Johnnie Boden, creating a welcoming environment complete with plush colourful furnishings, fun artwork cascading down the staircase and a library of colourful knits. I took the lift to the fitting rooms (it’s only one floor) because Johnnie Boden himself is the voice announcing each floor.
+There are no quirky technological offerings in-store, so it is very much about the actual space and the edited selection of clothes. It is furnished to feel like you are at home with Johnnie Boden, creating a welcoming environment complete with plush colorful furnishings, fun artwork cascading down the staircase and a library of colorful knits. I took the lift to the fitting rooms (it’s only one floor) because Johnnie Boden himself is the voice announcing each floor.
  
-Their mail order catalogue and online experience is one I enjoy. I look forward to the colourful printed envelopes and books I receive in the post. They were one of the first to not only ‘talk to me’ by personalising my catalogue with my name but to also show me something I had already bought.
+Their mail order catalogue and online experience is one I enjoy. I look forward to the colorful printed envelopes and books I receive in the post. They were one of the first to not only ‘talk to me’ by personalising my catalogue with my name but to also show me something I had already bought.
 
 <p style="text-align:center"><img style="margin-left: 0px" alt="Image of a blazer on a hangar with the phrase 'You must be mine' written above at the Boden store" src="/uploads/boden_2.jpg"/></p>
 
-Online, the witty ‘how to wear it’ and ‘why to buy it’ content that accompanies the product puts me in that Boden mood and ups my click-through-rate. Replicating the outfitting and editorial they provide online is exactly what would enhance the [in-store customer experience](https://dressipi.com/how-to-improve-customer-experience-instore/) further and inspire even more engagement.  Someone or something to translate all those wonderful colours and prints into multi-tasking looks perfectly suited to *my own* personal preferences, which would all work with my existing wardrobe. 
+Online, the witty ‘how to wear it’ and ‘why to buy it’ content that accompanies the product puts me in that Boden mood and ups my click-through-rate. Replicating the outfitting and editorial they provide online is exactly what would enhance the [in-store customer experience](https://dressipi.com/how-to-improve-customer-experience-instore/) further and inspire even more engagement.  Someone or something to translate all those wonderful colors and prints into multi-tasking looks perfectly suited to *my own* personal preferences, which would all work with my existing wardrobe. 
 
 Boden’s flagship store is jostling for prime retail space with the likes of Massimo Dutti, Zara, Whistles and Joseph, not to mention the myriad of childrenswear stores along the King’s Road, making this a perfect location for them to attract new customers. The challenge, however, will be to avoid the growing concern of reduced footfall in-store - retailers need to work hard to provide great in-store experiences that keep people inspired and wanting to return.

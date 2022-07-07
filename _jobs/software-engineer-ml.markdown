@@ -4,7 +4,7 @@ date: 2017-05-09 12:31:00 Z
 is-open: false
 ---
 
-Interested in disrupting the trillion pound retail industry? We’re tackling one of the hottest and most challenging problems in Machine Learning: building a personalisation system that understands fashion.
+Interested in disrupting the trillion pound retail industry? We’re tackling one of the hottest and most challenging problems in Machine Learning: building a personalization system that understands fashion.
 
 ### Where you can make an impact
 

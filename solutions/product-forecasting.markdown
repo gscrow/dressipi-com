@@ -3,7 +3,7 @@ title: Product Forecasting
 position: 4
 navigation: solution-footer
 header:
-  title: Optimise Future Product Assortments & Size Ratios
+  title: Optimize Future Product Assortments & Size Ratios
   body: <p class="header__banner-subtitle">Ensure you have the right products to meet
     demand, significantly reducing overstock & discounting whilst hugely improving
     your ESG credentials</p>
@@ -47,11 +47,11 @@ sections:
     hres-image: "/uploads/section-overstock@2x.png"
     action:
       copy: Learn More >
-      url: "/downloads/dressipi-optimise-sale-overstocked-products-webinar/"
+      url: "/downloads/dressipi-optimize-sale-overstocked-products-webinar/"
   - mini-title: RETURNS ANALYSIS
     color: lighter
     title: Reduce Returns
-    body: 'Get more accurate and targeted insights that break down returns data, analysing
+    body: 'Get more accurate and targeted insights that break down returns data, analyzing
       the causes at both category and product level, along with practical ways to
       reduce them.
 
@@ -64,7 +64,7 @@ sections:
 - title: Increase Sell-Through. Reduce Discounting. Drive Profitability.
   paragraph-narrow: true
   color: lighter
-  subtitle: We help out clients easily visualise data and spot quick wins to ensure
+  subtitle: We help out clients easily visualize data and spot quick wins to ensure
     they are always trading as effectively as possible and delivering on their key
     KPI’s.
   handle: revenue
@@ -88,7 +88,7 @@ sections:
   is-centered: true
   color: lighter
   roi-section: true
-  roi-class: personalisation-rio
+  roi-class: personalization-rio
   subsections:
   - title: Easy onboarding by our team of friendly experts
     image: "/uploads/icon-onboarding.svg"

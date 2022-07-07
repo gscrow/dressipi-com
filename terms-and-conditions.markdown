@@ -27,15 +27,15 @@ If you have any questions about the Services, please [contact us](mailto:privacy
 
 Dressipi’s mission is to help people easily find the clothes they will love and enable retailers to be more customer-centric and efficient. To help fulfil this mission, we provide the Services as described below:
 
-### Provide Personalised Recommendations For You
+### Provide Personalized Recommendations For You
 
 What you buy and wear is unique to you. We help you (and millions of shoppers) easily find items that will suit your individual style, taste and preferences and can be worn well with items that are already in your wardrobe. We use the data we have to create these tailored recommendations (and associated content) – for example, your profile information, your preferences, the choices and settings you select and your activity and transactions on Dressipi sites, apps and plug-ins that our retail partners use. Keeping your profile accurate and up-to-date helps us to make these recommendations more accurate and relevant. Any information that we hold about you or any personal data that you supply to us under these Terms shall always be processed in accordance with applicable laws and terms of our [Privacy Policy](https://dressipi.com/privacy/). If any information is gained about you via our cookies or other similar technologies, we always act in accordance with our [Cookies Policy](https://dressipi.com/cookies/). Where cookies or other technologies which collect personal data or other information are held solely within our retailers’ environments, this is outside the scope of these Terms and our Services. You should therefore always check the privacy and cookies policy, as well as your general preferences if available, on each individual retailer website that you visit.
 
 ### Empower Retailers To Improve Efficiency
 
-We develop data products and solutions that enable our retail partners to get a deeper understanding of the types of clothes and features their customers prefer and want to buy. With this information our retail partners can establish a more efficient and optimised value chain which will ultimately reduce industry wastage.
+We develop data products and solutions that enable our retail partners to get a deeper understanding of the types of clothes and features their customers prefer and want to buy. With this information our retail partners can establish a more efficient and optimized value chain which will ultimately reduce industry wastage.
 
-Our retail partners pay us to provide them with a list of recommendations for each shopper, which they use to personalise your shopping journey experience when you are on their sites, in their stores or receiving communications from them (in accordance with your settings). Our retail partners can also pay us to provide them with insights that help them better forecast the types and volumes of products they should be creating, buying and selling.
+Our retail partners pay us to provide them with a list of recommendations for each shopper, which they use to personalize your shopping journey experience when you are on their sites, in their stores or receiving communications from them (in accordance with your settings). Our retail partners can also pay us to provide them with insights that help them better forecast the types and volumes of products they should be creating, buying and selling.
 
 ## Contract
 
@@ -124,7 +124,7 @@ You should know that, for technical reasons, content you delete may persist for 
 
 When you connect your profile to any of our retail partners you give us permission to share your profile, data with that retailer (in accordance with your Account Settings and our [Privacy Policy](https://dressipi.com/privacy/)).
 
-This data will only be used to improve your personalised shopping experience with that retailer and to improve their understanding of the types of clothes and features their customers prefer and want to buy.
+This data will only be used to improve your personalized shopping experience with that retailer and to improve their understanding of the types of clothes and features their customers prefer and want to buy.
 
 ## Additional Provisions
 
