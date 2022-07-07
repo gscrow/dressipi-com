@@ -40,7 +40,7 @@ sections:
   subtitle: Technology that allows processing of millions of data points at speed
     to deliver smarter predictions and enabling quicker decisions
   subsections:
-  - title: 
+  - title: Enterprise AI at Scale
     solution-class: project-img-ai
 - title: Quality Product & Brand Data
   handle: solutions
@@ -48,7 +48,7 @@ sections:
     product & brand data, attribution errors and missing values - with the most comprehensive
     taxonomy of attributes, built by fashion stylists and scaled by AI.
   subsections:
-  - title: 
+  - title: Quality Product & Brand Data
     solution-class: project-img-quality-data
 - title: One Platform. Limitless Integrations.
   handle: solutions

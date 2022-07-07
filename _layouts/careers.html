@@ -27,7 +27,7 @@ layout: default
         {% for subsection in section.subsections %}
         <div class="gutter column">
           <div class="column__copy">
-            <div class="column__icon {{ subsection.class }}"><img src="{{ subsection.image }}" /></div>
+            <div class="column__icon {{ subsection.class }}"><img src="{{ subsection.image }}" alt="{{ subsection.title }}" /></div>
             <h3 class="{{ subsection.class }}">{{ subsection.title }}</h3>
             {{ subsection.body | markdownify }}
           </div>
