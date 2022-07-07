@@ -61,8 +61,8 @@ sections:
 - title: Increase Lifetime Value. Reduce Returns. Greater Customer Loyalty.
   paragraph-narrow: true
   subtitle: Dressipi algorithms are updated in real-time, based on in-session customer
-    behavior and changes in product availability so our clients deliver on their
-    key KPI’s
+    behavior and changes in product availability so our clients deliver on their key
+    KPI’s
   handle: revenue
   subsections:
   - title: 
