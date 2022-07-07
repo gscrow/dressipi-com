@@ -3,7 +3,7 @@ title: Product Experience
 position: 3
 navigation: solution-footer
 header:
-  title: Create Customer-Centred, Fashion Experiences
+  title: Create Customer-Centered, Fashion Experiences
   body: |-
     <p class="header__banner-subtitle">
     Inspire with outfits & stories relevant to each visitor, showing them the value of every product & how to wear your brand their way</p>
@@ -13,13 +13,13 @@ header:
     style: primary
   hero-image: "/uploads/banner-product-experience.png"
   page-title: Product Experience
-  page-title-icon: "/uploads/icon_personalised-recommendations-grey.svg"
+  page-title-icon: "/uploads/icon_personalized-recommendations-grey.svg"
 description: Inspire with outfits relevant to each visitor, showing the value of every
   product & how to wear your brand their way
-class: personalisation
+class: personalization
 has-contact-section: false
 sections:
-- title: A Truly Unique & Personalised Experience
+- title: A Truly Unique & Personalized Experience
   handle: video
   subtitle: As part of the<a href="/platform/" target="_blank"> Dressipi platform</a>,
     we continually build an understanding of your visitors and how they interact with
@@ -48,7 +48,7 @@ sections:
     hres-image: "/uploads/Increase_1st_to_2nd_Purchases@2x.png"
     action:
       copy: Learn More >
-      url: "/blog/secrets-to-success-how-to-optimise-your-email-revenue/"
+      url: "/blog/secrets-to-success-how-to-optimize-your-email-revenue/"
   - title: Increase Customer LTV
     body: Understand exactly who your customers are, create style profiles based on
       their activity, preferences and items they already own
@@ -58,8 +58,8 @@ sections:
     hres-image: "/uploads/section_profile@2x.png"
     action:
       copy: Learn More >
-      url: "/downloads/personalised-outfits/"
-- title: Personalised Outfits Always Outperform.
+      url: "/downloads/personalized-outfits/"
+- title: Personalized Outfits Always Outperform.
   paragraph-narrow: true
   subtitle: We help our clients deliver on their key KPI’s and work closely alongside
     them to ensure their Brand DNA is understood and captured in our algorithms

@@ -50,7 +50,7 @@ Retailers are continually trying to make the lives of their customers easier, wi
 
 ### 3) H&M X Klarna
 
-In [June](https://dressipi.com/blog/monthly-retail-round-up-june-2018/), H&M launched tech developments including voice interactive mirrors and human holograms in AR as a way to create *“extraordinary customer experiences.”* Reported in [Fashion United](https://fashionunited.uk/news/retail/h-m-and-klarna-announces-global-partnership/2018100839323), in another way to create a *“seamless, personalised and engaging shopping experience”*, H&M has announced a partnership with payment provider, [Klarna](https://www.klarna.com/uk/).
+In [June](https://dressipi.com/blog/monthly-retail-round-up-june-2018/), H&M launched tech developments including voice interactive mirrors and human holograms in AR as a way to create *“extraordinary customer experiences.”* Reported in [Fashion United](https://fashionunited.uk/news/retail/h-m-and-klarna-announces-global-partnership/2018100839323), in another way to create a *“seamless, personalized and engaging shopping experience”*, H&M has announced a partnership with payment provider, [Klarna](https://www.klarna.com/uk/).
 
 Klarna’s platform will cover the entire customer journey, with [Fashion United](https://fashionunited.uk/news/retail/h-m-and-klarna-announces-global-partnership/2018100839323) outlining, *“The partnership will see Klarna powering the H&M Club1 payment programme, providing an enhanced omni-channel customer payment offering, as well as a streamlined post-purchase service in the H&M app.”*
 

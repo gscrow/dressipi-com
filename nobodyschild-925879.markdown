@@ -2,7 +2,7 @@
 title: "Lay the foundations to deliver \nbreakthrough fashion-specific\nshopping experiences."
 position: 7
 description: "Discover how a partnership between Nobody’s Child \nand Dressipi can
-  deliver highly personalised \nshopping journeys for every visitor, \nbuilding loyalty
+  deliver highly personalized \nshopping journeys for every visitor, \nbuilding loyalty
   and retention.\n\n"
 sitemap: false
 type: customer
@@ -16,11 +16,11 @@ featured_articles:
   title: Tackle the biggest challenges and take advantage of the biggest opportunities
     facing Nobody’s Child
   content:
-  - title: Increase conversion and AOV by offering personalised outfit recommendations
+  - title: Increase conversion and AOV by offering personalized outfit recommendations
     description: Our unmatched understanding of the fashion industry means we offer
       unbeatable outfit recommendations tailored to the shopper, driving higher conversion,
       lower returns, and better, more loyal customers. Outfits are completely automated,
-      completely personalised and always on-brand.
+      completely personalized and always on-brand.
     article_title: How John Lewis achieved a significant increase in revenue with
       outfit recommendations
     cta_text: LEARN MORE >
@@ -28,11 +28,11 @@ featured_articles:
     image: "/uploads/JL_rectangle.png"
   - title: Turn a one-time purchase into a loyal Nobody’s Child customer with post-purchase
       emails
-    description: Personalised post-purchase emails increase lifetime value and retention
+    description: Personalized post-purchase emails increase lifetime value and retention
       by showing customers how to wear their newly bought item (displayed by occasion
       to show versatility, based on preferences and activity, and can include items
       they already own).
-    article_title: Belstaff increased email revenue by 69% through personalised recommendations
+    article_title: Belstaff increased email revenue by 69% through personalized recommendations
     cta_text: LEARN MORE >
     cta_link: https://dressipi.com/downloads/success-story-belstaff/
     image: "/uploads/belstaff_rectangle.png"
@@ -41,7 +41,7 @@ featured_articles:
     description: Dressipi’s algorithms go beyond outfits and create exponential value
       by personalising each step of the journey, from home to PLPs to similar items
       and more. Crucially, only show products if they are available in the customer's
-      size - a key cornerstone of personalisation.
+      size - a key cornerstone of personalization.
     article_title: A Luxury Retailer achieved 25% returns reduction and 11% conversion
       increase
     cta_text: LEARN MORE >

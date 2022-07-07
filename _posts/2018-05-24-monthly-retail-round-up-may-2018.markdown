@@ -4,7 +4,7 @@ date: 2018-05-24 10:14:00 Z
 categories:
 - news
 tags:
-- one to one personalisation
+- one to one personalization
 - retail
 - retail technology
 - retail news

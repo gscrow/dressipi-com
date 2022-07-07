@@ -23,7 +23,7 @@ Some of the best articles from the world of retail and its supporting industries
 
 ### 1) UK Customers Searching for Fast Fashion 
 
-Research released this July from data agency [Pi Datametrics](https://www.pi-datametrics.com/), showed the online fashion retail brands most in demand on Google in the UK. After analysing 972 retailers, the key findings over the last 3 ½ years were as follows:
+Research released this July from data agency [Pi Datametrics](https://www.pi-datametrics.com/), showed the online fashion retail brands most in demand on Google in the UK. After analyzing 972 retailers, the key findings over the last 3 ½ years were as follows:
 
 * Next came out on top with their brand name being searched 82m times between May 2018-April 2019
 * [John Lewis](https://dressipi.com/downloads/success-story-john-lewis/) (one of our retail clients) followed in second place with 60.4m searches, and ASOS closely behind with 50m searches

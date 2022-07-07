@@ -20,15 +20,15 @@ sections:
   - title: Customer Relevancy
     image: "/uploads/icon_customer-relevancy.png"
     body: 'Build deeper relationships with customers, to increase LTV, retention,
-      acquisition and reduce churn and returns: <ul> <li>Personalised product discovery</li>
-      <li>Personalised customer experiences</li> <li>Personalised journeys</li> </ul>'
+      acquisition and reduce churn and returns: <ul> <li>Personalized product discovery</li>
+      <li>Personalized customer experiences</li> <li>Personalized journeys</li> </ul>'
     action:
       copy: Find Out How >
       url: "/solutions/product-discovery/"
   - title: Retailer Intelligence
     image: "/uploads/icon_retailer-intelligence.png"
     body: 'Get answers on what’s happening and what to do next, significantly improving
-      ESG credentials: <ul> <li>Intelligent assortment optimisation</li> <li>Intelligent
+      ESG credentials: <ul> <li>Intelligent assortment optimization</li> <li>Intelligent
       stock replenishment</li> <li>Intelligent promotions</li> </ul>'
     action:
       copy: Find Out How >

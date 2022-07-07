@@ -6,7 +6,7 @@ header:
   title: Help All Visitors Find Their Best Products Faster
   body: |-
     <p class="header__banner-subtitle">
-    Provide intent-driven categories, filters & personalised recommendations for first time visitors as well as repeat customers
+    Provide intent-driven categories, filters & personalized recommendations for first time visitors as well as repeat customers
     </p>
   button:
     copy: Book A Demo >
@@ -15,7 +15,7 @@ header:
   hero-image: "/uploads/banner-product-discovery.png"
   page-title: Product Discovery
   page-title-icon: "/uploads/icon_product-discovery.svg"
-description: Provide intent-driven categories, filters & personalised recommendations
+description: Provide intent-driven categories, filters & personalized recommendations
   for first time visitors as well as repeat customers
 sections:
 - title: The Right Product, in the Right Size, at the Right Time
@@ -31,7 +31,7 @@ sections:
     class: solution-products-predict
     mini-title: FOR FIRST TIME VISITORS
     body: "Predict shopper intent in real time and get first time visitors to make
-      one more click & start them on a journey of personalised product discovery \n"
+      one more click & start them on a journey of personalized product discovery \n"
     image: "/uploads/Predict_Intent@2x.png"
     hres-image: "/uploads/Predict_Intent@2x.png"
     action:
@@ -40,7 +40,7 @@ sections:
   - title: Increase Conversion
     mini-title: FOR REPEAT CUSTOMERS
     class: solution-products-conversion
-    body: Deploy personalisation across PDP’s, category pages, editorial themes and
+    body: Deploy personalization across PDP’s, category pages, editorial themes and
       filters to increase conversion across the board
     image: "/uploads/Increase_Conversion@2x.png"
     hres-image: "/uploads/Increase_Conversion@2x.png"
@@ -51,7 +51,7 @@ sections:
     color: lighter
     class: solution-products-relevancy
     mini-title: FOR LOYAL CUSTOMERS
-    body: Leverage the power of personalised inspiration and editorial to demonstrate
+    body: Leverage the power of personalized inspiration and editorial to demonstrate
       how much you know and understand your loyal customers
     image: "/uploads/Deliver_Relevancy@2x.png"
     hres-image: "/uploads/Deliver_Relevancy@2x.png"
@@ -61,7 +61,7 @@ sections:
 - title: Increase Lifetime Value. Reduce Returns. Greater Customer Loyalty.
   paragraph-narrow: true
   subtitle: Dressipi algorithms are updated in real-time, based on in-session customer
-    behaviour and changes in product availability so our clients deliver on their
+    behavior and changes in product availability so our clients deliver on their
     key KPI’s
   handle: revenue
   subsections:

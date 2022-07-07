@@ -9,7 +9,7 @@ tags:
 - code first
 - CFGConf17
 - fashion technology
-- personalisation
+- personalization
 image: "/uploads/CFG-a73eec.jpg"
 author: Philippa Mew
 description: 'Code First: Girls Conference 2017'
@@ -41,6 +41,6 @@ She explained that the three most important things that will allow you to grow y
 In summary, the third Code First: Girls Conference 2017 was a resounding success. A very supportive and entrepreneurial, coding spirit could be sensed throughout the room. The packed Twitter offices  spoke volumes for the appeal of events like this which are essential if we are to motivate and to encourage more women into the technology industry.
 
 
->To find out more about how we are using the latest advancements in machine learning and AI to provide one-to-one personalisation to some of the biggest UK retailers, take a look at our cutting edge fashion retail innovation.
+>To find out more about how we are using the latest advancements in machine learning and AI to provide one-to-one personalization to some of the biggest UK retailers, take a look at our cutting edge fashion retail innovation.
 
 >We’re always on the lookout for amazing talent to join our diverse and ever-growing team. Take a look at what [jobs](https://dressipi.com/company/careers/) we have on offer.

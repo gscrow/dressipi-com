@@ -27,7 +27,7 @@ Some of the best articles from the world of retail and its supporting industries
 
 ### 1) Facial Recognition Trialling across London
 
-Facial recognition is defined as *“the process of identifying or verifying the identity of a person using their face – captures, analyses, and compares biometric patterns based on a person’s facial details"* ([Drapers](https://www.drapersonline.com/news/facial-recognition-big-brother-or-ultimate-convenience/7039368.article?blocktitle=News-Analysis&contentID=21075)). There are four main uses for it when it comes to retail including anti-shoplifting, automated check-out, customer service and customer journey tracking.
+Facial recognition is defined as *“the process of identifying or verifying the identity of a person using their face – captures, analyzes, and compares biometric patterns based on a person’s facial details"* ([Drapers](https://www.drapersonline.com/news/facial-recognition-big-brother-or-ultimate-convenience/7039368.article?blocktitle=News-Analysis&contentID=21075)). There are four main uses for it when it comes to retail including anti-shoplifting, automated check-out, customer service and customer journey tracking.
 
 Facial recognition could be classed as creepy and invasive however reported in [Drapers](https://www.drapersonline.com/news/facial-recognition-tech-deployed-on-oxford-street/7039599.article) this February, *“the Metropolitan Police service has today launched live facial recognition technology at key locations in London’s Westminster, including Oxford Street and Regent Street.”*
 

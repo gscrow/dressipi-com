@@ -11,12 +11,12 @@ tags:
 image: "/uploads/Jeans_Tops_Trend.JPG"
 author: Sarah McVittie
 description: Discover what our data analysts have been finding out about changes to
-  consumer behaviour post-pandemic.
+  consumer behavior post-pandemic.
 ---
 
 ## Some interesting findings from our data analysts.
 
-As we monitor consumer behaviour within the fashion industry across the UK, it is clear that the length and severity of the lockdown has resulted in a permanent channel shift to online purchasing. 
+As we monitor consumer behavior within the fashion industry across the UK, it is clear that the length and severity of the lockdown has resulted in a permanent channel shift to online purchasing. 
  
 Since stores opened on 12th April (Week 15) and then post the UK opening up on 17th May (Week 20), the data suggests a permanent shift of in-store customers to online, worth around 30% YoY growth to online. This shift will take most “bricks and mortar” fashion retailers who were typically around the 30/70 (online/in-store) mark to more like a 40/60 or 50/50 split.
 <br>

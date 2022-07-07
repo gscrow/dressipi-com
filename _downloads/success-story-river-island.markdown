@@ -21,9 +21,9 @@ navigation: header
 header:
   case-study-header: true
   page-title: SUCCESS STORY
-  page-title-icon: "/uploads/icon_success-story-colour.svg"
+  page-title-icon: "/uploads/icon_success-story-color.svg"
   body: How River Island increased their revenue by 6% in 12 months with Dressipi’s
-    fashion-focused approach to personalisation and better data
+    fashion-focused approach to personalization and better data
 sections:
 - title: 
   handle: story
@@ -34,9 +34,9 @@ sections:
     body: "River Island is one of the UK’s leading fashion retailers. Generating millions
       of pounds of annual revenue, the brand boasts over 350 stores worldwide and
       six dedicated online sites operating in four currencies. \n\nRiver Island believed
-      that personalisation could make a difference to their customer experiences and
+      that personalization could make a difference to their customer experiences and
       in turn, their online revenue. Despite this, they were struggling to see any
-      material difference with the two generic personalisation providers they were
+      material difference with the two generic personalization providers they were
       using. \n\nThey wanted to explore other options.\n"
   - title: The Solution
     subtitle: 
@@ -44,8 +44,8 @@ sections:
     body: "River Island were intrigued by Dressipi’s fashion focussed approach and
       understood that a fashion focus vs a generic approach was likely to provide
       a much better experience to customers.\n\nThe team wanted to test Dressipi’s
-      personalisation in a very simple, light touch way and so decided to start with
-      personalisation on the womenswear Product Listing Page (PLP). \n\nThe team at
+      personalization in a very simple, light touch way and so decided to start with
+      personalization on the womenswear Product Listing Page (PLP). \n\nThe team at
       River Island didn’t consider it could make such a big difference. The initial
       results surprised - Dressipi outperformed the 2 other generic providers with
       a 3% increase in revenue per visitor.\n"
@@ -59,9 +59,9 @@ sections:
   - title: The Results
     class: results
     body: |
-      Given the success of the initial test, River Island were then prepared to extend personalisation to all parts of the customer journey and expand across their menswear and kidswear categories.
+      Given the success of the initial test, River Island were then prepared to extend personalization to all parts of the customer journey and expand across their menswear and kidswear categories.
 
-      Since then the partnership has gone from strength to strength. Rolling out personalised outfits and similar items on the Product Description Page and PLP saw results get better and better increasing revenue from the initial 3% to 6% in just 12 months, increasing AOV by 5% and increasing conversion by 3%.
+      Since then the partnership has gone from strength to strength. Rolling out personalized outfits and similar items on the Product Description Page and PLP saw results get better and better increasing revenue from the initial 3% to 6% in just 12 months, increasing AOV by 5% and increasing conversion by 3%.
     image: "/uploads/river-islandsleeve-maxi-dress.jpg"
     number-boxes:
     - number-lines:
@@ -102,7 +102,7 @@ sections:
       - number-line: 34
         value-line: "%"
         number-line-description: click-through rate
-      body: "From implementing personalisation on the front end, it became apparent
+      body: "From implementing personalization on the front end, it became apparent
         that there was new access to data that did not exist before. This was not
         only useful to the commerce team but also many other parts of the business.
         The different approach to the data with a customer lens and product specific
@@ -111,14 +111,14 @@ sections:
         ecommerce partnership as they can see the growth isn't static but exponential.
         \ \n"
     quote: "“We have huge amounts more to explore with Dressipi. The bit that really
-      excites me is how we come together on insights. Getting beyond personalisation
+      excites me is how we come together on insights. Getting beyond personalization
       has really helped us understand our customer base and what they want and need.”"
     author: Simon Konn, Insights & CRM Director
     button: DOWNLOAD PDF>
     file: "/uploads/Dressipi-River-Island-Success-Story.pdf"
     button_class: case-study
 - contact-title: If you have any questions or you’d like to speak to us directly about
-    how fashion-specific  personalisation can make a difference to your customer experience
+    how fashion-specific  personalization can make a difference to your customer experience
     and increase your online revenue, please get in touch.
   handle: contact
   button:

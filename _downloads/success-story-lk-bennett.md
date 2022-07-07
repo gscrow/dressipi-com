@@ -17,7 +17,7 @@ navigation: header
 header:
   case-study-header: true
   page-title: SUCCESS STORY
-  page-title-icon: "/uploads/icon_success-story-colour.svg"
+  page-title-icon: "/uploads/icon_success-story-color.svg"
   body: How LK Bennett is using Dressipi’s Data Insight Hub to trade more effectively
     and increase first to second purchase by 25% in the first 4 months.
 sections:
@@ -38,7 +38,7 @@ sections:
 
       Dressipi and LK Bennett worked together and edited the interactive dashboards to guarantee that they would be right for their specific needs and enhance all operational parts of their business. They could quickly get started by simply adding some tracking onsite. <br>
 
-      The dashboards are used for monthly reporting which has been particularly helpful for tracking top-level strategies for optimisation. With the uncertainty of COVID and being light on data resource, this was key for LK Bennett. <br>
+      The dashboards are used for monthly reporting which has been particularly helpful for tracking top-level strategies for optimization. With the uncertainty of COVID and being light on data resource, this was key for LK Bennett. <br>
     image-line:
     - "/uploads/success-story-LKBennett-Body.jpg"
     quote: "“Having data insight that is directly linked to our order management system
@@ -61,7 +61,7 @@ sections:
       is critical to ensure healthy growth within a business. <br>\n\nThis has been
       a key metric for LK Bennett with the Dressipi dashboards. The Insight Hub allowed
       them to view the best product category to send at the most optimal time. They
-      could then evolve their CRM strategy in line with customer behaviour. The first
+      could then evolve their CRM strategy in line with customer behavior. The first
       to second purchase metric has improved by an average of 25% for the 4 months
       from December 2020 - March 2021.<br> \n"
     number-aside:
@@ -69,7 +69,7 @@ sections:
       value-line: "%"
       number-line-description: 1ST-2ND Purchase
   - title: 
-    quote: "“We’ve seen huge benefits in the ability to visualise our data. Dressipi’s
+    quote: "“We’ve seen huge benefits in the ability to visualize our data. Dressipi’s
       Data Insight Hub provides the team with actionable insights and allows us to
       get on with the important parts without having to worry about trusting the data
       quality or reports as they are managed by Dressipi. As well as the team at Dressipi
@@ -80,7 +80,7 @@ sections:
     file: "/uploads/Dressipi-LK-Bennett-Success-Story.pdf"
     button_class: case-study
   - contact-title: If you have any questions or you’d like to speak to us directly
-      about how fashion-specific  personalisation can make a difference to your customer
+      about how fashion-specific  personalization can make a difference to your customer
       experience and increase your online revenue, please get in touch.
     bg: white
     button:

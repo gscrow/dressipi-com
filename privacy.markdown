@@ -32,7 +32,7 @@ This Privacy Policy applies to Dressipi.com, Your Style Adviser, Your Personal E
 ## Our Principles
 
 - We are transparent about the data we collect about you, how we use it and who we share it with.
-- We will only use your data to improve and personalise your experience.
+- We will only use your data to improve and personalize your experience.
 - We protect and secure your data.
 - We give you the control to decide what you share and what you receive from us.
 
@@ -76,7 +76,7 @@ To create an account, you need to provide data including your name, email addres
 
 ### Profile
 
-You have choices about the information on your profile, such as your colouring, sizes, item preferences & attitude towards shopping and dressing (Your Fashion Fingerprint).
+You have choices about the information on your profile, such as your coloring, sizes, item preferences & attitude towards shopping and dressing (Your Fashion Fingerprint).
 
 Your profile information helps you to get more from our Services, including helping us find and show you items that best match your shape, style and existing wardrobe. It’s your choice whether to include sensitive information on your profile, and even if you choose not to, you will still be able to use our Services and benefit from an enjoyable user experience.
 
@@ -114,7 +114,7 @@ We log usage data when you visit or otherwise use our Services, including our ap
 
 As further described in our [Cookies Policy](https://dressipi.com/cookies/), we use cookies and similar technologies (e.g., web beacons, pixels, tags and device identifiers) to recognise you and/or your device(s) on, off and across our Services. We also allow some others to use cookies as described in our [Cookies Policy](https://dressipi.com/cookies/).
 
-You can control cookies through your browser settings and other tools. You can also opt-out from our use of cookies and similar technologies that track your behaviour on the sites of others.
+You can control cookies through your browser settings and other tools. You can also opt-out from our use of cookies and similar technologies that track your behavior on the sites of others.
 
 ### Your Device And Location
 
@@ -143,9 +143,9 @@ We use all the data you provide to create your account and manage your preferenc
 To Provide Our Services To You
 We use all the data that we have about you to provide our Services to you.
 
-### To Provide Personalised Recommendations
+### To Provide Personalized Recommendations
 
-We use all the data that we have about you to provide useful, personalised clothing and dressing recommendations that are both unique and relevant to you.
+We use all the data that we have about you to provide useful, personalized clothing and dressing recommendations that are both unique and relevant to you.
 
 To create these recommendations (and content) we use your profile, preferences, activities, usage and transactions data, including the help of automated systems and inferences we make. If any decisions are made about you by automated decision-making mechanisms (also called profiling), you may be entitled to review the decision or seek further information in some instances. We will never conduct profiling in respect of sensitive or special category data (such as health data, race, ethnic origins) unless you give us your express consent to do so.
 
@@ -179,8 +179,8 @@ We do not share your personal data with any third-party advertisers or ad networ
 
 ### To Improve Our Services To You
 
-We use the information we have, to conduct research and development for the further development of our Services to provide you and others with a better, more useful personalised experience and drive growth and engagement with our Services.
-We seek to create a more efficient and optimised value chain for global fashion retailers by giving them access to solutions and data that will help them make more precise merchandising and marketing decisions.
+We use the information we have, to conduct research and development for the further development of our Services to provide you and others with a better, more useful personalized experience and drive growth and engagement with our Services.
+We seek to create a more efficient and optimized value chain for global fashion retailers by giving them access to solutions and data that will help them make more precise merchandising and marketing decisions.
 
 ### To Provide Customer Support
 
@@ -210,7 +210,7 @@ In respect of the Services:
 
 - as necessary to fulfil our Dressipi [Terms of Service](https://dressipi.com/terms-and-conditions/).
 - as necessary to comply with our legal obligations;
-- as necessary for your legitimate interests, those of our retailers, as well as in our interests in providing an innovative, personalised and useful service to our members, visitors and partners. As you benefit from our Services as a shopper which improves your overall customer experience, we do not consider our legitimate interests are overridden by your interests or fundamental rights and freedoms that require protection of personal data, because our mutual legitimate interests are likely to closely align – the use and provision of an excellent and personalised retail experience.
+- as necessary for your legitimate interests, those of our retailers, as well as in our interests in providing an innovative, personalized and useful service to our members, visitors and partners. As you benefit from our Services as a shopper which improves your overall customer experience, we do not consider our legitimate interests are overridden by your interests or fundamental rights and freedoms that require protection of personal data, because our mutual legitimate interests are likely to closely align – the use and provision of an excellent and personalized retail experience.
 
 In respect of sensitive data and other data you provide via “Your Fashion Fingerprint” or in your account:
 
@@ -244,7 +244,7 @@ You can adjust what data is shared with each individual retail partner in your A
 The information that is shared with a retailer when you connect your profile is as follows:
 
 - Your name and email address
-- Your profile information such as your colouring, sizes, garment preferences & attitude towards shopping and dressing (but only if you have provided this information to us – please remember that there is no requirement for you to do so, but the more information we have about your preferences, the more we are able to tailor our Services to you)
+- Your profile information such as your coloring, sizes, garment preferences & attitude towards shopping and dressing (but only if you have provided this information to us – please remember that there is no requirement for you to do so, but the more information we have about your preferences, the more we are able to tailor our Services to you)
 - Items that you have wish listed or disliked when in that specific retailer’s store, website or mobile app
 - Items that you have scanned when in that specific retailer’s store
 
@@ -254,7 +254,7 @@ We may also send our retail partners a list of products and the order in which t
 
 ### Service Providers
 
-We provide information and content to vendors and other service providers who support our business, such as by providing technical infrastructure services, analysing how our Services are used, providing customer service or conducting surveys. They will have access to your information as reasonably necessary to perform these tasks on our behalf and are obligated not to disclose or use it for other purposes. When we do so, we always ensure that such service providers are contractually bound to respect their obligations under the GDPR – including informing you that they hold your personal data.
+We provide information and content to vendors and other service providers who support our business, such as by providing technical infrastructure services, analyzing how our Services are used, providing customer service or conducting surveys. They will have access to your information as reasonably necessary to perform these tasks on our behalf and are obligated not to disclose or use it for other purposes. When we do so, we always ensure that such service providers are contractually bound to respect their obligations under the GDPR – including informing you that they hold your personal data.
 
 ### Researchers and Academics
 
@@ -305,7 +305,7 @@ When you delete your account, we delete your name, email address, mobile number 
 
 To delete your account at any time, please visit your Account Settings. We generally delete closed account information within 30 days of account closure, except as noted below.
 
-We retain your personal data even after you have closed your account if reasonably necessary to comply with our legal obligations (including law enforcement requests), meet regulatory requirements, resolve disputes, maintain security, prevent fraud and abuse, enforce our User Agreement, or fulfil your request to “unsubscribe” from further messages from us. We will retain de-personalised information after your account has been closed.
+We retain your personal data even after you have closed your account if reasonably necessary to comply with our legal obligations (including law enforcement requests), meet regulatory requirements, resolve disputes, maintain security, prevent fraud and abuse, enforce our User Agreement, or fulfil your request to “unsubscribe” from further messages from us. We will retain de-personalized information after your account has been closed.
 
 If you have any queries about how your data is handled by our retailer partners within their online environments, please contact that retailer directly (for example, via the details set out in that retailer’s privacy policy).
 

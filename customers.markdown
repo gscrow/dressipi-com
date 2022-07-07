@@ -4,7 +4,7 @@ position: 20
 navigation: header
 header:
   title: How River Island increased their revenue by 6% in 12 months with Dressipi’s
-    fashion-focused approach to personalisation and better data
+    fashion-focused approach to personalization and better data
   button:
     copy: SCHEDULE A FREE CONSULTATION >
     url: "/company/demo/"
@@ -12,7 +12,7 @@ header:
   hero-image: false
   class: customer-banner
   page-title: SUCCESS STORIES
-  page-title-icon: "/uploads/icon_success-story-colour.svg"
+  page-title-icon: "/uploads/icon_success-story-color.svg"
 description: Dressipi has a proven track record of swiftly producing externally-validated
   results. Read our case studies to see how we help leading global brands.
 footer: customer

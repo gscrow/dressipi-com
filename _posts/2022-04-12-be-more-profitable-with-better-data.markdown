@@ -73,7 +73,7 @@ And then there are factors where retailers have complete control. In these cases
 
 Size fragmentation can really eat into profits. Better quality product data and a better understanding of true customer propensities to buy (and keep) features at a size level allows retailers to build significantly better prediction models that clearly show the over and under buy at every size for every product. 
 
-When considering how much of each size to stock, retailers typically consider style and length. When analysing a deeper, better set of data retailers would see that neckline, embellishment and even color play a major part. This cream pair of leather trousers had 8% more sales in sizes 6 & 8 than the equivalent pair in black. 
+When considering how much of each size to stock, retailers typically consider style and length. When analyzing a deeper, better set of data retailers would see that neckline, embellishment and even color play a major part. This cream pair of leather trousers had 8% more sales in sizes 6 & 8 than the equivalent pair in black. 
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Comparison of sales at the size level affected by attributes" src="/uploads/Attributes_2.JPG"/></p>
 

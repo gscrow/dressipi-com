@@ -24,7 +24,7 @@ The main takeaways from our Overstocked Webinar.
 <p style="text-align:center; font-style: italic; font-weight: bold;"> “We are coming back to a slightly different world. Sitting on stock, fewer customers, the need to convert our inventory more efficiently and improve bottom line margins.” </p>
 <p style="text-align:center; font-weight: bold;">Stuart Rose, Chairman, Dressipi</p>
 
-At Dressipi we are holding a new series of webinars looking at how data and technology can help to solve some of fashion retailers’ biggest problems. Our first webinar focused on the issue of overstocked products. Stuart highlighted just how different the world of retail is as we come out of lockdown and stressed that it is now essential for retailers to optimise processes.
+At Dressipi we are holding a new series of webinars looking at how data and technology can help to solve some of fashion retailers’ biggest problems. Our first webinar focused on the issue of overstocked products. Stuart highlighted just how different the world of retail is as we come out of lockdown and stressed that it is now essential for retailers to optimize processes.
 
 Due to store closures as a result of COVID-19, the overstocked product issue is particularly pertinent. However, regardless of COVID, every season’s requirement to shift clearance stock eats into retailers’ cash/profit. We estimate that clearance stock typically costs the UK fashion retailers £2.2bn a year but likely to cost £4.5bn in 2020. This is a lot of cash for an industry to lose!
 
@@ -36,9 +36,9 @@ This webinar outlined smarter, data-driven solutions for shifting overstock prod
 
 These advances allow retailers to clean, structure and process the huge volumes of data so that it is consistent and all in one place. Additional fashion specific data can be added to spot the patterns and trends so unique to this industry.
 
-These models can be trained to respond in real-time which is more important than ever with rapidly changing consumer behaviour and as we come in and out of lockdown.
+These models can be trained to respond in real-time which is more important than ever with rapidly changing consumer behavior and as we come in and out of lockdown.
 
-This allows retailers to show a completely personalised edit to each customer with only garments they are likely to buy and keep. This includes personalised discounting which leads us onto our next point.
+This allows retailers to show a completely personalized edit to each customer with only garments they are likely to buy and keep. This includes personalized discounting which leads us onto our next point.
 
 ## 2) The clearance problem needs to be redefined as one of optimum distribution rather than blanket discounts to all customers
    
@@ -48,7 +48,7 @@ This allows retailers to show a completely personalised edit to each customer wi
 
 Due to the advances in Machine Learning and AI outlined in the point above, retailers can get a deeper understanding of each customer and product. This enables them to more effectively distribute products to customers to significantly improve the chances of a product being bought and kept.
 
-A simple example is illustrated in the webinar, you can watch the video [here](https://dressipi.com/dressipi-optimise-sale-overstocked-products-webinar/).
+A simple example is illustrated in the webinar, you can watch the video [here](https://dressipi.com/dressipi-optimize-sale-overstocked-products-webinar/).
 
 Offering different products to different customers in each phase of discounting will increase the probability of purchase and have a huge impact on your contributed margin.
 

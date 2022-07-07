@@ -6,7 +6,7 @@ categories:
 tags:
 - retail
 - fashion technology
-- fashion personalisation
+- fashion personalization
 - instore technology
 - instore experience
 - KPMG
@@ -15,7 +15,7 @@ tags:
 - Financial Times
 - Zara
 - Asos
-- personalisation
+- personalization
 - retail innovation
 - retail technology
 image: "/uploads/monthly_round_up_Jan_banner.jpg"
@@ -41,7 +41,7 @@ As well as giving insight on Black Friday, increasing mobile usage, Brexit and s
 
 The segment *'Improving the customer experience, are retailers ahead of the pack?'* highlighted the important role of retail in driving better customer experiences, something that should be increasingly possible given recent advancements in AI, Machine Learning and using customer data in a more meaningful way.
 
-Mounting pressure from customers for outstanding services (such as better transactional experiences, a greater choice when it comes to delivery options, personalisation, a greater focus on sustainability, or more flexible returns) means it is essential for retailers to stay ahead of the curve. As the report boldly states, *'retailers are faced with a stark choice: innovate around the consumer and catch up, or get left behind'*.
+Mounting pressure from customers for outstanding services (such as better transactional experiences, a greater choice when it comes to delivery options, personalization, a greater focus on sustainability, or more flexible returns) means it is essential for retailers to stay ahead of the curve. As the report boldly states, *'retailers are faced with a stark choice: innovate around the consumer and catch up, or get left behind'*.
 
 You can read the full report by downloading it from the [KPMG website](https://home.kpmg.com/uk/en/home/insights/2018/01/kpmg-annual-retail-survey-2018.html).
 
@@ -50,7 +50,7 @@ You can read the full report by downloading it from the [KPMG website](https://h
 
 Zara continues to surge ahead as a leader in retail as it opens its new online-only store in London. As [reported by Drapers](https://www.drapersonline.com/news/zara-to-launch-first-online-only-store-in-london/7028764.article?blocktitle=Latest-News&contentID=15719), the Westfield Stratford City store *‘will offer a small edit of women’s and men’s clothing for online purchase directly in store, as well as access to the retailer’s full catalogue online’*. Store staff will also play a crucial role, assisting customers with mobile devices.
 
-Trialling technologies is nothing new for the Spanish giant as they continually experiment with different store concepts to merge online and offline experiences. New mirror, RFID and scanning technology coupled with product recommendation systems highlight the importance of, and increasing demand for, access to personalisation services whilst shopping.
+Trialling technologies is nothing new for the Spanish giant as they continually experiment with different store concepts to merge online and offline experiences. New mirror, RFID and scanning technology coupled with product recommendation systems highlight the importance of, and increasing demand for, access to personalization services whilst shopping.
 
 Chairman and CEO of Inditex, Pablo Isla has called it *“another milestone in our strategy of integrating our stores with the online world, which defines our identity as a business”*. 
 
@@ -73,7 +73,7 @@ If the likes of Asos are taking measures to differentiate themselves, then brick
 
 With constant reports of store closures ([896 high street shops closed in 2016](http://www.wired.co.uk/article/six-learnings-future-retail-consumer)) and declining footfall, [WIRED](http://www.wired.co.uk/article/six-learnings-future-retail-consumer) is adamant that *‘Retailers must combine emotion with innovation if they want to survive growing consumer demand and economic pressure’*.
 
-The article puts an emphasis on re-thinking personal assistance using AI, as well as improving payment methods. You can find another really interesting article [here](https://www.kamcity.com/namnews/uk-and-ireland/supermarkets/amazon-go-tech-will-bring-new-era-personalised-shopping-wont-kill-human-interaction/) by KamCity on how despite the launch of new check-out free technology (Amazon Go), human interaction is still very important and will be used to *‘complement and enhance the relationships customers have with human sales staff’*. 
+The article puts an emphasis on re-thinking personal assistance using AI, as well as improving payment methods. You can find another really interesting article [here](https://www.kamcity.com/namnews/uk-and-ireland/supermarkets/amazon-go-tech-will-bring-new-era-personalized-shopping-wont-kill-human-interaction/) by KamCity on how despite the launch of new check-out free technology (Amazon Go), human interaction is still very important and will be used to *‘complement and enhance the relationships customers have with human sales staff’*. 
 
 The WIRED article also comments on how luxury retailers must think more strategically about extending conversations they have with their customers in-store into *‘after-sales care and analytics*’.
 

@@ -12,7 +12,7 @@ image: "/uploads/20180927_125227.jpg"
 author: Philippa Mew
 description: For those who weren’t able to make the yearly E-commerce Expo, here are
   our main takeaway from the event
-download: Five Things Every Retailer Should Know About Personalisation
+download: Five Things Every Retailer Should Know About Personalization
 ---
 
 For those who weren't able to make the yearly Ecommerce Expo, or simply didn't have enough time to squeeze in the best talks, here are our main takeways from the event.
@@ -21,13 +21,13 @@ For those who weren't able to make the yearly Ecommerce Expo, or simply didn't h
 
 This year’s [Ecommerce Expo](https://www.ecommerceexpo.co.uk/) lived up to expectations - many stalls (with many sweets), an overwhelming amount of brilliant companies doing fascinating things, and lest we forget, jostling for a seat at industry talks.
 
-From talks on omnichannel to personalisation to customer engagement, two days of information overload can leave us feeling slightly saturated and trying to figure out where on earth to begin. Yes - it's all about the [customer experience](https://dressipi.com/solutions/product-experience/). Yes - retailers need to use data smartly and effectively. Yes - online and offline need to work together. But how do you join the dots?
+From talks on omnichannel to personalization to customer engagement, two days of information overload can leave us feeling slightly saturated and trying to figure out where on earth to begin. Yes - it's all about the [customer experience](https://dressipi.com/solutions/product-experience/). Yes - retailers need to use data smartly and effectively. Yes - online and offline need to work together. But how do you join the dots?
 
 Here are some of the most interesting takeaways from a packed two days at the Olympia Exhibition Centre which may help provide some clarity:
 
 ## Do Your Homework on the Psychology of Consumers
 
-Some interesting insight on consumer behaviour and decision-making processes were shared by several industry experts. David Khon, Customer & eCommerce Director at Heal's touched on Fast and Slow Thinking - Fast being automatic, frequent, emotional, stereotypic, unconscious thoughts, and Slow being effortful, infrequent, logical, calculating, conscious thoughts.
+Some interesting insight on consumer behavior and decision-making processes were shared by several industry experts. David Khon, Customer & eCommerce Director at Heal's touched on Fast and Slow Thinking - Fast being automatic, frequent, emotional, stereotypic, unconscious thoughts, and Slow being effortful, infrequent, logical, calculating, conscious thoughts.
 
 David argued that consumers tend to rely on fast thinking when making decisions because it's sometimes too much effort for our brains to engage in slow thinking. Heal’s have been doing some work with Hero on bridging the gap between online and in-store (we covered Hero's work with Harvey Nichols in our [June Monthly Retail Round-Up](https://dressipi.com/blog/monthly-retail-round-up-june-2018/)), using a chat interface that provides a “*digital touch*” - consumers can speak to Heal’s store staff instantly and ask for advice in real time, helping them with “*the tyranny of choice that makes it difficult for consumers to navigate*” so they can come to a decision quicker.
 
@@ -35,7 +35,7 @@ Customer expectations are higher than ever at every part of the journey, with th
 
 ## Give Customers the Right Message at the Right Time Through the Right Channel
 
-Easy, right? In principle yes, in practice, not so much. The consumer is a fickle, complicated beast that can change their mind or behaviour in an instant. Understanding their intention when interacting with your brand online or in-store is tricky enough, then putting the perfect product in front of them that meets their expectations at that exact time is the next challenge. 
+Easy, right? In principle yes, in practice, not so much. The consumer is a fickle, complicated beast that can change their mind or behavior in an instant. Understanding their intention when interacting with your brand online or in-store is tricky enough, then putting the perfect product in front of them that meets their expectations at that exact time is the next challenge. 
 
 <p style="text-align:center"><img style="margin-left: 0px" alt="Image of Skip Fidura giving a talk at the Ecommerce Expo 2018" src="/uploads/IMG_5565.jpg"/></p>
 

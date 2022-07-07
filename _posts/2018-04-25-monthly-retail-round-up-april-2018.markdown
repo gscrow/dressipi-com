@@ -4,7 +4,7 @@ date: 2018-04-25 14:27:00 Z
 categories:
 - news
 tags:
-- one to one personalisation
+- one to one personalization
 - retail
 - retail technology
 - retail news
@@ -13,12 +13,12 @@ tags:
 - news
 - AI
 - Artificial Intelligence
-- personalisation
-- fashion personalisation
+- personalization
+- fashion personalization
 - better customer service
 - customer experience
 - shopping instore
-- how to create a personalised shopping experience
+- how to create a personalized shopping experience
 - beast from the east
 - KPMG
 - Farfetch
@@ -36,9 +36,9 @@ Some of the best articles from the world of retail and its supporting industries
 
 ### 1) Drapers Publish Report on Artificial Intelligence
 
-[Drapers Report on Artificial Intelligence](http://ll1.workcast.net/10573/8311124275420960/Documents/Drapers%20Report%C2%A0%E2%80%93%20Artificial%20Intelligence.pdf) was released at the beginning of April, exploring how AI is changing the customer experience and how it can provide a fully personalised customer offer. PwC’s Total Retail Survey 2017 showed that 59% of consumers in retail stores want real-time, personalised offers. Pui-Guan Man, Senior Reporter at Drapers highlighted, “*Shoppers want the ability to find specific items speedily, and to browse through products that are relevant to their individual styles.*”
+[Drapers Report on Artificial Intelligence](http://ll1.workcast.net/10573/8311124275420960/Documents/Drapers%20Report%C2%A0%E2%80%93%20Artificial%20Intelligence.pdf) was released at the beginning of April, exploring how AI is changing the customer experience and how it can provide a fully personalized customer offer. PwC’s Total Retail Survey 2017 showed that 59% of consumers in retail stores want real-time, personalized offers. Pui-Guan Man, Senior Reporter at Drapers highlighted, “*Shoppers want the ability to find specific items speedily, and to browse through products that are relevant to their individual styles.*”
 
-Furthermore, Rachael Stott from Future Laboratory stated, “*Technologies such as in-store face-tracking AI can be used to provide a hyper-personalised service based on metrics such as previous purchases, style preferences and even someone’s current mood.*”
+Furthermore, Rachael Stott from Future Laboratory stated, “*Technologies such as in-store face-tracking AI can be used to provide a hyper-personalized service based on metrics such as previous purchases, style preferences and even someone’s current mood.*”
 
 There are many retailers currently using AI, including Farfetch, who are encouraging customers to use their smartphones in-store to create wish lists and to let shop assistants know how chatty they are feeling. Other examples include Tommy Hilfiger’s partnership with IBM and the Fashion Institute of Technology to identify upcoming trends, and Adidas’ Speedfactory which creates different trainers for London and 5 other cities based on the specific demands of that city. 
 

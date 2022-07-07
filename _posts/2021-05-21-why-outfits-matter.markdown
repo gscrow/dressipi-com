@@ -4,9 +4,9 @@ date: 2021-05-21 10:55:00 Z
 categories:
 - Tech
 tags:
-- personalised outfits
+- personalized outfits
 - outfit algorithms
-- personalised outfits technology
+- personalized outfits technology
 - ai outfit
 image: "/uploads/OufitBanner.jpeg"
 author: Natalie Theo

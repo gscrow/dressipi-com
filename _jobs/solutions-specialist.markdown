@@ -64,7 +64,7 @@ We are not a traditional tech start-up; it is an exciting environment with a div
 
 ### The Company
 
-Dressipi is the leader in fashion personalisation.
+Dressipi is the leader in fashion personalization.
 
 Dressipi was founded by tech entrepreneurs Donna North & Sarah McVittie to solve the problem of overwhelming choice.
 

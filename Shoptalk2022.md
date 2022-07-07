@@ -79,7 +79,7 @@ featured_content:
   - section: CASE STUDY
     logo: "/uploads/Belstaff%20Logo.png"
     image: "/uploads/Belstaff_success_story_hero_2-bb4fa9.jpg"
-    title: Belstaff increased email revenue by 69% through personalised recommendations
+    title: Belstaff increased email revenue by 69% through personalized recommendations
     cta_text: LEARN MORE >
     cta_link: https://dressipi.com/downloads/success-story-belstaff/
 section_about:
@@ -113,7 +113,7 @@ quotes:
 - author: Digital Director, Luxury Retailer
   quote: "“We wanted a partner that truly understood clothing and would work with
     us to innovate and create unique experiences in line with our brand DNA. Dressipi
-    delivers on all this and allows us to offer customers a truly personalised experience,
+    delivers on all this and allows us to offer customers a truly personalized experience,
     which is a key part of our strategy.”"
 - author: Insights & CRM Director, LK Bennett
   quote: "“Being able to use and drive things out from proven product attributes and

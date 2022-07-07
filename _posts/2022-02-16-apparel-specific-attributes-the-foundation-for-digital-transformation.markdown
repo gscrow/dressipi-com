@@ -8,7 +8,7 @@ author: James Tuck
 
 ### Digital services like Netflix and Spotify have been able to rapidly transform their industries thanks to the abundance of data available to them. In apparel however, while there is plenty of data available on marketing channels and transactions, retailers never had quality data for what the customers actually care about the most - **the clothes**.
 
-Most retailers have a handful of attributes they think are necessary. Products tend to be tagged with basic attributes such as neckline, length and fabric but these are mostly used for paid search and site navigation - missing out on value in both supply chain optimisation (e.g. size ratios, returns and product development) and personalization (e.g. recommendations, editorial content and customer journeys). They are also likely being updated manually, posing a scalability challenge and leading to inaccuracies and inconsistency in the attributes. 
+Most retailers have a handful of attributes they think are necessary. Products tend to be tagged with basic attributes such as neckline, length and fabric but these are mostly used for paid search and site navigation - missing out on value in both supply chain optimization (e.g. size ratios, returns and product development) and personalization (e.g. recommendations, editorial content and customer journeys). They are also likely being updated manually, posing a scalability challenge and leading to inaccuracies and inconsistency in the attributes. 
 
 Digital transformation depends on the quality and accuracy of the data it is built upon. There are a number of things that come into play for retailers when advancing this key area of their business:
 

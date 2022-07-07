@@ -7,7 +7,7 @@ description: Customers now expect an inspirational, personalized and relevant on
   experience. How can retailers deliver a valuable, emotional experience?
 ---
 
-Customers don’t want a flat journey that shows the same products in the same order to everyone. They want an inspirational, personalised experience that is completely relevant to them. How do retailers deliver a valuable, emotional online experience? 
+Customers don’t want a flat journey that shows the same products in the same order to everyone. They want an inspirational, personalized experience that is completely relevant to them. How do retailers deliver a valuable, emotional online experience? 
 
 Listen in as Robin Lewis and Shelley E. Kohan, TRR chief strategist, have a wide-ranging conversation with Dressipi Co-Founder, Sarah McVittie, as they discuss how innovative tech solutions fused with empathy are changing the customer experience and retailers’ bottom lines.
 

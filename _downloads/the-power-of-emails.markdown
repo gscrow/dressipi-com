@@ -10,9 +10,9 @@ video-mask: "/uploads/emails-webinar.png"
 list-content: |-
   # Don’t Underestimate the Power of Emails: Maximise Your Most Powerful Asset
 
-  This webinar focused on how John Lewis and River Island enhance their customer experience through relevant personalised product recommendations and more importantly make every email work harder to deliver more revenue and profit. Watch the video recording to learn:
+  This webinar focused on how John Lewis and River Island enhance their customer experience through relevant personalized product recommendations and more importantly make every email work harder to deliver more revenue and profit. Watch the video recording to learn:
 
-   - The difference and benefits of personalisation over segmentation
+   - The difference and benefits of personalization over segmentation
 
    - Why a fashion-specific approach makes a big difference
 

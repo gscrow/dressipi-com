@@ -13,7 +13,7 @@ tags:
 - garment data
 image: "/uploads/Returns_Sept_Banner.jpg"
 author: Sarah McVittie
-description: The pandemic had a huge impact on fashion retailers. Dressipi analysed
+description: The pandemic had a huge impact on fashion retailers. Dressipi analyzed
   consumer habits and how these have affected return rates.
 download: Understanding Your Unique Return Rate Profile
 ---
@@ -31,7 +31,7 @@ Now, as lockdowns are easing, consumer purchasing habits suggest a resurgence of
 <p style="text-align:center"><img style="margin-left: 0px; width: 400px;" alt="Change in online return rate for the period of May to June, 2019 versus 2021" src="/uploads/Returns_Sept_1.png"/></p>
 <br>
 
-Customer basket behaviours and category mix aligns well with restrictions being imposed and lifted. The benefit of this means that going forward, depending on the status of various restrictions, it should be relatively easy to predict return rates ahead of time. 
+Customer basket behaviors and category mix aligns well with restrictions being imposed and lifted. The benefit of this means that going forward, depending on the status of various restrictions, it should be relatively easy to predict return rates ahead of time. 
 
 ## What happened over lockdown
 
@@ -87,7 +87,7 @@ All these indicators could have led to a false sense of security for many fashio
 
 ### 1) Customer Demand
 
-Now, as the vaccinations are rolled out in earnest and lockdowns are easing, the pent up need to socialise and look good is catching up - something which is evident in consumer behaviour:  
+Now, as the vaccinations are rolled out in earnest and lockdowns are easing, the pent up need to socialise and look good is catching up - something which is evident in consumer behavior:  
 * The sales of dresses are booming (up 5.6% on 2020 and 9% on 2019) with evening and occasion dresses increasing alongside shorter dresses 
 * The mix of jumpsuits and swimwear is increasing (up by 1% on 2020 but still down on 2019)
 * Tops as a % of products bought is down by 1.5% on 2020 but still up 3% on 2019
@@ -104,7 +104,7 @@ However, with these changes in item types and categories comes a **higher return
 
 These increased return rates can be attributed to the frenzy surrounding the nation’s reopening and excitement to step out on the right foot - and in the right outfit. 
 
-Similarly to going into lockdown, the increased return rates coming out of lockdown are partly due to a change in the mix of products, and partly due to the change in garment type and customer behaviour within each category. 
+Similarly to going into lockdown, the increased return rates coming out of lockdown are partly due to a change in the mix of products, and partly due to the change in garment type and customer behavior within each category. 
 
 The chart below shows the change in return rates specifically since the lifting of restrictions were announced and enacted. It compares the return rates for Dresses, Jumpsuits, Bottoms and Tops for May and June 2019 and the same period in 2021. As is visible in every case, the return rates for those categories are higher than they were in 2019. 
 <br>
@@ -141,7 +141,7 @@ This has also had a detrimental impact on return rates. Every 5% shift from sing
 <p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Graphic of a 5% shift in multiple style purchases resulting in a 0.75 percentage point increase in return rate" src="/uploads/Returns_Sept_11.png"/></p>
 <br>
 
-The reassuring thing is that we are predictable creatures with predictable behaviours, as is evident in the COVID timeline below. We have annotated customer demand, purchasing behaviour, and return rates, and there is a visible correlation between all three.
+The reassuring thing is that we are predictable creatures with predictable behaviors, as is evident in the COVID timeline below. We have annotated customer demand, purchasing behavior, and return rates, and there is a visible correlation between all three.
 <br>
 <br>
 
@@ -154,7 +154,7 @@ As we continue to return to normality, we expect the initial excitement around t
 
 So, assuming no further lockdowns, we would expect return rates to settle to around 5% lower than their pre-pandemic levels. 
 
-However, we do live in uncertain times. It would be wise for retailers to keep track of the data surrounding consumer behaviour, changes in purchase of garment and occasion types, and basket behaviour. Staying on top of this data will make it easier to keep abreast of returns and associated costs.
+However, we do live in uncertain times. It would be wise for retailers to keep track of the data surrounding consumer behavior, changes in purchase of garment and occasion types, and basket behavior. Staying on top of this data will make it easier to keep abreast of returns and associated costs.
 
 > We wanted to extend a big thank you to Tara Tadjbajhsh, our amazing summer intern who did most of the analysis and work going into this article!
 

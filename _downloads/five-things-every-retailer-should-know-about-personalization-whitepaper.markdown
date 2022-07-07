@@ -12,8 +12,8 @@ download:
 position-list: 4
 ---
 
-# Five Things Every Retailer Should Know About Personalisation
+# Five Things Every Retailer Should Know About Personalization
 
 ## Learn how to get started, navigate the numerous solutions on offer, and build genuinely trusted connections with customers.
 
-In this paper Donna North, co-founder of Dressipi shares five key thoughts on how to leverage personalisation to deliver value for both your business and its customers.
+In this paper Donna North, co-founder of Dressipi shares five key thoughts on how to leverage personalization to deliver value for both your business and its customers.

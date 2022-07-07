@@ -39,9 +39,9 @@ What has been happening with the length of dresses is that the middle-man so to 
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/DressLengths-Prints.jpg"/></p>
 
-Spare a thought for dresses in those hot summer brights, it's time for the quieter shades with pastels rising from 13% to 19% and a rise for muted shades from 4% to 8%. Although if you’re after a must-have summer suit then a bold red or happy green are your go to colours.  Or you can always wait until next season, because obviously like all good things in fashion it changes. It wouldn’t be fashion otherwise.
+Spare a thought for dresses in those hot summer brights, it's time for the quieter shades with pastels rising from 13% to 19% and a rise for muted shades from 4% to 8%. Although if you’re after a must-have summer suit then a bold red or happy green are your go to colors.  Or you can always wait until next season, because obviously like all good things in fashion it changes. It wouldn’t be fashion otherwise.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 800px;" src ="/uploads/ColourGroups.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 800px;" src ="/uploads/ColorGroups.jpg"/></p>
 
 <br>
 

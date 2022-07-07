@@ -10,7 +10,7 @@ tags:
 - retail technology
 - sizing
 - style
-- personalisation
+- personalization
 position: 2
 resource: Guides
 image: "/uploads/returns_small.jpg"

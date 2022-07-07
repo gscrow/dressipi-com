@@ -2,7 +2,7 @@
 title: Lay the foundations to deliver breakthrough fashion-specific shopping experiences.
 position: 8
 description: "Discover how a partnership between In The Style and \nDressipi can deliver
-  highly personalised shopping \njourneys and deliver long-term sustainable growth.\n\n"
+  highly personalized shopping \njourneys and deliver long-term sustainable growth.\n\n"
 sitemap: false
 type: customer
 hero:
@@ -19,9 +19,9 @@ featured_articles:
       £2.8m incremental revenue for In The Style by personalising the entire experience
     description: Create exponential value by personalising each step of the journey,
       from home to PLPs to similar items and more. Crucially, only showing products
-      if they are available in the customer’s size - a key cornerstone of personalisation.
+      if they are available in the customer’s size - a key cornerstone of personalization.
     article_title: River Island increased their revenue by 6% in 12 months with Dressipi’s
-      fashion-focused approach to personalisation
+      fashion-focused approach to personalization
     cta_text: LEARN MORE >
     cta_link: https://dressipi.com/downloads/success-story-river-island/
     image: "/uploads/Boden_RI-24be63.JPG"
@@ -31,7 +31,7 @@ featured_articles:
     description: Our unmatched understanding of the fashion industry means we offer
       unbeatable outfit recommendations tailored to the shopper, driving higher conversion,
       lower returns, and better, more loyal customers. Outfits are completely automated,
-      completely personalised and always on-brand.
+      completely personalized and always on-brand.
     article_title: How John Lewis achieved a significant increase in revenue with
       outfit recommendations
     cta_text: LEARN MORE >
@@ -69,7 +69,7 @@ featured_content:
   - section: CASE STUDY
     logo: "/uploads/Belstaff%20Logo.png"
     image: "/uploads/Belstaff_success_story_hero_2-bb4fa9.jpg"
-    title: Belstaff increased email revenue by 69% through personalised recommendations
+    title: Belstaff increased email revenue by 69% through personalized recommendations
     cta_text: READ THE FULL STORY >
     cta_link: https://dressipi.com/downloads/success-story-belstaff/
 section_about:

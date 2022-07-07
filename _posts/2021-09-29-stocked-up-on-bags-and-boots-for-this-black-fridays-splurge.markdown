@@ -6,7 +6,7 @@ categories:
 - data
 tags:
 - black friday
-- personalised recommendations
+- personalized recommendations
 - smarter discounting
 - post purchase email
 - black friday data
@@ -23,7 +23,7 @@ description: 'Get Black Friday ready by discovering what customers are buying, w
 
 ### The economy has opened up and we are expecting a bumper Black Friday in line with 2018 and 2019 - and a bonus for your return rates, customers buying categories with lower return rates is one of the reasons why Black Friday works so well! 
 
-To help you get ready for peak, we have analysed the Black Friday numbers from the last 3 years, found out what your customers are buying and what promotions you need to give to ensure profitable relationships with them.
+To help you get ready for peak, we have analyzed the Black Friday numbers from the last 3 years, found out what your customers are buying and what promotions you need to give to ensure profitable relationships with them.
 
 Plus, our top tips to make the period as successful as possible - you’ll be pleased to know that net net, for most retailers, Black Friday is a profitable exercise!
 
@@ -52,7 +52,7 @@ Pre-pandemic, we actually saw an average decrease in return rates of 11% over Bl
 <p style="text-align:center"><img style="margin-left: 0px; width: 500px;" alt="Black Friday return rates between October and January, 2019 to 2020 compared with 2020 to 2021" src="/uploads/BlackFriday2.JPG"/></p>
 <br>
 
-Read our recent [analysis on Return Rates](https://dressipi.com/blog/garment-return-rates-spike-to-above-pre-pandemic-levels/), where our analysts looked back at the fascinating data over COVID and the correlations between customer demand, purchasing behaviour and return rates.
+Read our recent [analysis on Return Rates](https://dressipi.com/blog/garment-return-rates-spike-to-above-pre-pandemic-levels/), where our analysts looked back at the fascinating data over COVID and the correlations between customer demand, purchasing behavior and return rates.
 
 ## What to Recommend to Visitors
 
@@ -60,13 +60,13 @@ For most retailers over the Black Friday period, the biggest % increase in purch
 
 Categories purchased by new and existing customers are typically different on a day to day basis. This is also reflected during the Black Friday period with new customers purchasing bags and returning customers purchasing jeans at a much higher rate, showing that retailers need to push different categories to their different customer groups. Taking data from 2019 (pre-Covid):
 
-* For new customers, sales of bags, coats and boots were up 582% vs normal sales behaviour. 
-* For returning customers, sales of jeans were up 432% vs normal sales behaviour. 
+* For new customers, sales of bags, coats and boots were up 582% vs normal sales behavior. 
+* For returning customers, sales of jeans were up 432% vs normal sales behavior. 
 What to Recommend to Visitors
 <br>
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" alt="What to recommend to new customers versus returning customers by increase in sales compared to normal sales behaviour" src="/uploads/BlackFriday3.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" alt="What to recommend to new customers versus returning customers by increase in sales compared to normal sales behavior" src="/uploads/BlackFriday3.JPG"/></p>
 <br>
 
 ## Promotion Type for New and Returning Customers
@@ -77,9 +77,9 @@ To ensure a profitable relationship with these customers, new customer promotion
 
 ## Top Tips for a Successful Black Friday 
 
-1) [Personalised Recommendations](https://dressipi.com/downloads/success-story-belstaff/): In the lead up to Black Friday, push different categories to different customers depending on their preferences. Delve into your data, are your new customers also buying bags, coats and boots like the rest of the nation?
+1) [Personalized Recommendations](https://dressipi.com/downloads/success-story-belstaff/): In the lead up to Black Friday, push different categories to different customers depending on their preferences. Delve into your data, are your new customers also buying bags, coats and boots like the rest of the nation?
 
-2) [Smarter Discounting](https://dressipi.com/downloads/dressipi-optimise-sale-overstocked-products-webinar/): Use your data to deliver smarter solutions for discounting rather than blanket sales and release maximum cash into your business. 
+2) [Smarter Discounting](https://dressipi.com/downloads/dressipi-optimize-sale-overstocked-products-webinar/): Use your data to deliver smarter solutions for discounting rather than blanket sales and release maximum cash into your business. 
 
 3) [Post-Purchase Emails](https://dressipi.com/blog/post-purchase-emails-helping-customers-make-the-most-of-their-purchases/): Turn those less valuable Black Friday visitors into loyal customers by making them come back and buy again. Increase that 1st to 2nd purchase % by sending those customers relevant communications, with the right product at the right time.
 

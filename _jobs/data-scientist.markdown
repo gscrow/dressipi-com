@@ -4,11 +4,11 @@ date: 2017-05-09 12:29:00 Z
 is-open: false
 ---
 
-Interested in disrupting the trillion-pound retail industry? We're tackling one of the hottest and most challenging problems in Machine Learning: building a personalisation system that understands fashion.
+Interested in disrupting the trillion-pound retail industry? We're tackling one of the hottest and most challenging problems in Machine Learning: building a personalization system that understands fashion.
 
 ### Where you can make an impact
 
-For Dressipi, machine learning and statistical modelling are the keystones to predicting customer behaviour and intent, analysing which clothes will look great on a customer and providing fashion-specific recommendations.
+For Dressipi, machine learning and statistical modelling are the keystones to predicting customer behavior and intent, analyzing which clothes will look great on a customer and providing fashion-specific recommendations.
 
 As a Data Scientist in the Dressipi team, you will be responsible for designing and improving our recommendation algorithms and models. Your work will directly impact end consumers in the form of personalising shopping journeys and communications, both online and instore.
 

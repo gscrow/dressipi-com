@@ -9,20 +9,20 @@ tags:
 - data
 - recommender systems
 - fashion technology
-- fashion personalisation
+- fashion personalization
 - technology
 - retail technology
 - retail innovation
-- one to one personalisation
-- true personalisation
+- one to one personalization
+- true personalization
 image: "/uploads/Screen_Shot_2018-04-19_at_15.28.31.jpeg"
 author: Nick Landia
 description: Dressipi explores the challenges of building intelligent and effective
   fashion recommendation systems to create highly personalized shopping experiences.
-download: Five Things Every Retailer Should Know About Personalisation
+download: Five Things Every Retailer Should Know About Personalization
 ---
 
-Nick Landia, Dressipi's Chief Data Scientist explores the challenges of building intelligent and effective fashion recommendation systems to create highly personalised shopping experiences.
+Nick Landia, Dressipi's Chief Data Scientist explores the challenges of building intelligent and effective fashion recommendation systems to create highly personalized shopping experiences.
 
 # Building Fashion Recommendation Systems
 
@@ -73,7 +73,7 @@ Customers might not know what fits them best or be seeking guidance on what item
 
 **2. There are objective fashion do’s and don'ts that professional stylists know about but customers might not**
 
-This is where the importance of fashion expertise comes in. At Dressipi we have a team of stylists who work alongside our tech team to ensure the nuances surrounding fashion are captured in our algorithms. Natalie Theo, Dressipi’s Style Director wrote about the important combination of fashion intuition and data in her [latest blog post](https://dressipi.com/blog/fashion-plus-data-equals-a-match-made-in-personalisation-heaven/). 
+This is where the importance of fashion expertise comes in. At Dressipi we have a team of stylists who work alongside our tech team to ensure the nuances surrounding fashion are captured in our algorithms. Natalie Theo, Dressipi’s Style Director wrote about the important combination of fashion intuition and data in her [latest blog post](https://dressipi.com/blog/fashion-plus-data-equals-a-match-made-in-personalization-heaven/). 
 
 **3. Trends and popular culture events influence user preference and public perception quickly and sometimes drastically**
 
@@ -84,7 +84,7 @@ Many companies providing recommendations in this space have realised that the cu
 
 - Body Shape
 - Age
-- Favourite Colours
+- Favourite Colors
 - Lifestyle
 - Attitudes to Fashion
 
@@ -92,8 +92,8 @@ This information, alongside our garment tagging technology (each garment is tagg
 
 ## In Summary
 
-Customers are increasingly demanding and expecting highly personalised and curated shopping experiences, which not only benefit the customer, but also the retailer. According to [Forbes](https://www.forbes.com/sites/shephyken/2017/10/29/personalized-customer-experience-increases-revenue-and-loyalty/#663517f94bd6), personalisation leads to increased revenue, fewer returns and increased loyalty, and we see this already with the retailers that we partner with, delivering a 5% percentage point reduction in returns (you can read a whitepaper by our co-founder Sarah McVittie on making data work harder to reduce garment return rates [here](https://dressipi.com/downloads/understanding-your-unique-return-rate-profile-whitepaper/).
+Customers are increasingly demanding and expecting highly personalized and curated shopping experiences, which not only benefit the customer, but also the retailer. According to [Forbes](https://www.forbes.com/sites/shephyken/2017/10/29/personalized-customer-experience-increases-revenue-and-loyalty/#663517f94bd6), personalization leads to increased revenue, fewer returns and increased loyalty, and we see this already with the retailers that we partner with, delivering a 5% percentage point reduction in returns (you can read a whitepaper by our co-founder Sarah McVittie on making data work harder to reduce garment return rates [here](https://dressipi.com/downloads/understanding-your-unique-return-rate-profile-whitepaper/).
 
-In an environment where customer is king, retailers are prioritising creating delightful and efficient [personalised shopping experiences](https://dressipi.com/solutions/product-experience/) both online and in store. This piece highlights that highly intelligent and effective fashion recommendation systems will be at the heart of this. Although complex to create (due to the multiple challenges posed by both the retailer and the customer), when integrated fully it becomes a essential tool, translating into multiple business benefits and an improved customer experience.
+In an environment where customer is king, retailers are prioritising creating delightful and efficient [personalized shopping experiences](https://dressipi.com/solutions/product-experience/) both online and in store. This piece highlights that highly intelligent and effective fashion recommendation systems will be at the heart of this. Although complex to create (due to the multiple challenges posed by both the retailer and the customer), when integrated fully it becomes a essential tool, translating into multiple business benefits and an improved customer experience.
 
 > Banner photo by rawpixel.com on Unsplash

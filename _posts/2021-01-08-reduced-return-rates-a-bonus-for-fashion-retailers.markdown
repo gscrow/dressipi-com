@@ -15,7 +15,7 @@ image: "/uploads/blog_banner_returns.jpg"
 author: Sarah McVittie
 description: 'An area that has delivered a significant boost to fashion retailers
   during COVID-19 is the huge drop in return rates for online orders. At Dressipi,
-  we have analysed the detail behind this drop in return rates with some interesting
+  we have analyzed the detail behind this drop in return rates with some interesting
   findings that will help retailers more accurately forecast returns for 2021.
 
 '
@@ -30,7 +30,7 @@ To illustrate the impact of this reduction in return rates, take a retailer with
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 500px;" alt="Graph showing an 8% decrease in return rates delivering a five million pound cash increase in contributed profit" src="/uploads/Returns_1.PNG"/></p>
 
-While this is a well needed cash injection, we expect fashion retailers to see a very different return rate profile in the second half of 2021. Like many behavioural scientists have predicted, we expect pent up demand will lead to a "roaring 20s" of our own as restrictions are lifted. The subsequent increase in evening and occasion wear will shift return rates back to above 2019 levels. Unless properly budgeted and planned for, this will eat into the precious cash reserves of retailers.
+While this is a well needed cash injection, we expect fashion retailers to see a very different return rate profile in the second half of 2021. Like many behavioral scientists have predicted, we expect pent up demand will lead to a "roaring 20s" of our own as restrictions are lifted. The subsequent increase in evening and occasion wear will shift return rates back to above 2019 levels. Unless properly budgeted and planned for, this will eat into the precious cash reserves of retailers.
 
 Luckily, the depth and breadth of customer and garment data that retailers have access to means that they can accurately forecast their return rates and ensure there are no nasty shocks whilst firming up forecasts and budgets for 2021. 
 
@@ -38,7 +38,7 @@ So let’s dig a little deeper and look at the detail behind those declining ret
 
 ## Change In What Customers Are Buying
 
-At Dressipi, we have analysed the return rates of our UK clients (who represent approximately 15% of the online womenswear market) over 6 months from March-October 2019 vs the same period in 2020. We can see that return rates have dropped from 35.4% to 27.6%. At a high level this breaks down as follows:
+At Dressipi, we have analyzed the return rates of our UK clients (who represent approximately 15% of the online womenswear market) over 6 months from March-October 2019 vs the same period in 2020. We can see that return rates have dropped from 35.4% to 27.6%. At a high level this breaks down as follows:
 
 * Change in mix of Product Category: 1.7% points of the drop in returns is due to a change in the mix of products - fewer dresses, jumpsuits and skirts but more jeans, tops and pyjamas. 
 * Change within each Product Category: 6.1% points of the drop in returns is due to decreases within each category (for example dresses return rates have dropped from 51% to 44%). 
@@ -85,7 +85,7 @@ When it comes to multiple style purchases you will see that this is where the ma
 
 In summary, most fashion retailers will have seen return rates decrease and will have benefited from the increased cash injection.  
 
-The data suggests, and our expectation is, that retailers should be careful forecasting the same behaviour into H2 2021. As vaccinations are rolled out in earnest, there will be a period of extreme gratification (whether through travel, socialising or returning to work). With all of that change in behaviour will be a desire to look good. As demand for those categories increases over those periods and with the permanent shift to ecommerce, retailers should budget carefully for those return rate costs to rise over H2 in 2021. If a retailer with £100m of online revenue assumes a permanent shift to lower return rates, they could well find themselves £3m short on their forecasted cost base.
+The data suggests, and our expectation is, that retailers should be careful forecasting the same behavior into H2 2021. As vaccinations are rolled out in earnest, there will be a period of extreme gratification (whether through travel, socialising or returning to work). With all of that change in behavior will be a desire to look good. As demand for those categories increases over those periods and with the permanent shift to ecommerce, retailers should budget carefully for those return rate costs to rise over H2 in 2021. If a retailer with £100m of online revenue assumes a permanent shift to lower return rates, they could well find themselves £3m short on their forecasted cost base.
 
 Fortunately, with the right data structure and the right garment attributes, every retailer should be able to accurately predict return rates on a monthly and quarterly basis. This data approach also enables retailers to predict what products will be returned more than they should be and who the worst customers are likely to be and change how you trade these groups to maximise their profitability. And, if any retailer is struggling with resources, please do [get in touch](https://dressipi.com/contact/), we would be more than happy to help!
 
@@ -97,7 +97,7 @@ Happy January folks!
 
 * Formal workwear has had its day 
 * WFH will drive more active/casual wear but there will be a real desire for self expression as we start to get out and socialise again. 
-* Expect different social behaviours from different groups. Those that are vaccinated and those that are not, the young, the old will all deal with the pent up demand differently. 
+* Expect different social behaviors from different groups. Those that are vaccinated and those that are not, the young, the old will all deal with the pent up demand differently. 
 * Retailers who use Dressipi will see improved contributed margin through 2021! 
 
 Our estimate on what this means for numbers and margins:

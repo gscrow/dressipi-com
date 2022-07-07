@@ -30,20 +30,20 @@ featured_articles:
   - title: Further enhance the experience for JD consumers by personalising every
       step of the journey
     description: |-
-      Updated in real-time, Dressipi’s flexible recommendation API’s are personalised to the individual’s preferences and intentions, creating a seamless purchasing experience across all touchpoints and meeting all style aspirations.
+      Updated in real-time, Dressipi’s flexible recommendation API’s are personalized to the individual’s preferences and intentions, creating a seamless purchasing experience across all touchpoints and meeting all style aspirations.
 
-      Crucially, only showing products if they are available in the consumer’s size - a key cornerstone of personalisation.
+      Crucially, only showing products if they are available in the consumer’s size - a key cornerstone of personalization.
     article_title: River Island increased their revenue by 6% in 12 months with Dressipi’s
-      fashion-focused approach to personalisation
+      fashion-focused approach to personalization
     cta_text: LEARN MORE >
     cta_link: https://dressipi.com/downloads/success-story-river-island/
     image: "/uploads/Boden_RI-24be63.JPG"
-  - title: Engage your consumers through all channels with personalised looks
+  - title: Engage your consumers through all channels with personalized looks
     description: |-
-      Dressipi’s algorithms can deliver sportswear looks that are completely automated, completely personalised, and always on-brand. Looks are comprised of different product types, starting from different product types, for different activities and sports to show the versatility of the product.
+      Dressipi’s algorithms can deliver sportswear looks that are completely automated, completely personalized, and always on-brand. Looks are comprised of different product types, starting from different product types, for different activities and sports to show the versatility of the product.
 
       Outfit and look API’s can be injected into ESP’s, to be used in post-purchase emails with the consumer’s newly bought item.
-    article_title: 'Personalised Sportswear Looks: Accuracy & Specificity of Garment
+    article_title: 'Personalized Sportswear Looks: Accuracy & Specificity of Garment
       Data is Key'
     cta_text: LEARN MORE >
     cta_link: https://drive.google.com/file/d/1v7vEjnQHueJwXPDPFVz2pEs4bQ__1wci/view
@@ -62,7 +62,7 @@ featured_content:
   - section: SUCCESS STORY
     logo: "/uploads/Belstaff%20Logo.png"
     image: "/uploads/Belstaff_success_story_hero_2-cf6cd5.jpg"
-    title: Belstaff increased email revenue by 69% through personalised recommendations
+    title: Belstaff increased email revenue by 69% through personalized recommendations
     cta_text: READ THE FULL STORY >
     cta_link: https://dressipi.com/downloads/success-story-belstaff/
   - section: BLOG
@@ -93,12 +93,12 @@ quotes_cta_link: https://dressipi.com/customers/
 quotes:
 - author: Simon Konn, Insights & CRM Director, River Island
   quote: "“We have huge amounts more to explore with Dressipi. The bit that really
-    excites me is how we come together on insights. Getting beyond personalisation
+    excites me is how we come together on insights. Getting beyond personalization
     has really helped us understand our customer base and what they want and need.”"
 - author: Isabel Serafini, Head of CRM, OVS
   quote: "“The OVS customer is a much heavier in store shopper and we needed a highly
-    personalised way to target them. By working with Dressipi, we have been able to
-    deliver truly personalised emails to our customers and open up the massive revenue
+    personalized way to target them. By working with Dressipi, we have been able to
+    deliver truly personalized emails to our customers and open up the massive revenue
     potential of the store portfolio.”"
 - author: Sally Hunter, Digital Insight Analyst, LK Bennett
   quote: "“Having data insight that is directly linked to our order management system
