@@ -24,7 +24,7 @@ description: In periods of uncertainty, protecting profits for retailers is cruc
 
 Whether it is to make quicker business decisions, improve the customer experience, deliver operational efficiencies or reduce return rates, once the right data is in place there are some very simple things that brands and retailers can do today to drive up to 6% growth in their profit within the next 12 months. That is a significant cash injection for any business. 
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 300px;" src ="/uploads/ShoptalkBlog_1.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 300px;" alt="6% growth in profits" src="/uploads/ShoptalkBlog_1.png"/></p>
 
 
 ## Data, Data Everywhere But Sadly Not The *Right* Data
@@ -38,13 +38,13 @@ Let’s look at the facts. To really deliver, apparel retailers need excellent d
 **Product Data:** This is where it all starts. This is what the customer cares most about. This is why they arrive at the store or on the site in the first place. And yet, it is here, at the top of the funnel where retailers are really missing a trick. Good quality, detailed product data just does not exist. It is not valued as it should be and is typically added by junior merchandisers and buyers who do not necessarily understand the importance of data integrity (with any algorithmic retailing the old adage of rubbish-in rubbish-out is particularly pertinent). 
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 1000px;" src ="/uploads/ShoptalkBlog_22.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 1000px;" alt="On site product attributes versus Dressipi's in-depth taxonomy" src="/uploads/ShoptalkBlog_22.jpg"/></p>
 <br>
 
 **Customer Data:** The average customer is buying 40-50 items of clothing a year but for most retailers 70% of those customers are only buying once a year. It is only 5-10% of their customer base, where people really love the brand and are buying multiple items a year, where the retailer has lots of data on the individual customer. For the majority of customers data is sparse and limited to 1 or 2 items a year. What can you really glean from that? One of the best things you can do is learn how to understand every customer’s intent as quickly as possible and then match the supply to the demand.
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 550px;" src ="/uploads/ShoptalkBlog_32.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 550px;" alt="Percentage of visitors compared to percentage of revenue they represent" src="/uploads/ShoptalkBlog_32.JPG"/></p>
 <br>
 
 Once the right quality of data is in place and the true relationship between the products and the customers is understood, retailers will be able to make the right decisions quickly, improve product discovery and deliver more efficient operation processes. 
@@ -65,7 +65,7 @@ Retailers can impact other costs, for example either by negotiating with and div
 
 And then there are factors where retailers have complete control. In these cases, a better use of the right data can have an outsized impact on growing sales and profit. The obvious ones are around assortment planning, size curve forecasts and garment return rates but it is also true of delivering the best possible product discovery process to combat the impact of high inflation on a discretionary purchase like fashion and apparel. 
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/ShoptalkBlog_4.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" alt="Factors impacting profitability" src="/uploads/ShoptalkBlog_4.JPG"/></p>
 
 ## How To Improve Profitability With Better Quality Data Used In The Right Way
 
@@ -75,14 +75,14 @@ Size fragmentation can really eat into profits. Better quality product data and 
 
 When considering how much of each size to stock, retailers typically consider style and length. When analysing a deeper, better set of data retailers would see that neckline, embellishment and even color play a major part. This cream pair of leather trousers had 8% more sales in sizes 6 & 8 than the equivalent pair in black. 
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Attributes_2.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Comparison of sales at the size level affected by attributes" src="/uploads/Attributes_2.JPG"/></p>
 
 Merchants are often having to make the buy within a 24-48 hour period and they simply don’t have the manpower to sift through reams and reams of data. Fortunately, using better predictive retailing models can deliver significant improvements on increasing full-priced sell-through rates and decreasing markdowns. When you model the true demand for a product (where the optimal outcome is for all sizes to sell through at full price at the same time) you can see that 25% of markdowns could be eliminated.
 
 Retailers that Dressipi works with typically see an average of 3% improvements in their profitability. This use of data-driven retailing models will also often highlight any net “overproduction”, i.e. when retailers are effectively buying markdowns from the outset. This can be easily eliminated with the added side benefit of improving the sustainability of the retailer and reducing waste. Another genuine ESG benefit for everyone.  
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/ShoptalkBlog_6.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Recommended stock change by size" src="/uploads/ShoptalkBlog_6.JPG"/></p>
 <br>
 
 ### 2) Return rates: **1.5% improvement in profitability**
@@ -92,7 +92,7 @@ We have written a lot about return rates, it is one of the key inputs into our a
 Once a retailer understands the relationship between the product attributes and the customer it is much easier to predict a customer’s likelihood of returning an item. By building the return rate propensities into our algorithms we have been able to reduce the return rates for our partners by 10-15% which is 2-3% points. For a womenswear specialty retailer that is a minimum of 1.5% increase in profitability. There is then the added benefit of minimising the reverse logistics hassle with the bonus of a genuine ESG benefit from less emissions and less waste.
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" src ="/uploads/ShoptalkBlog_7.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" alt="Return rates comparison between Dressipi recommendations and rest of site" src="/uploads/ShoptalkBlog_7.JPG"/></p>
 <br>
 
 ### 3) Product Discovery: **1% improvement in profitability (8% growth in sales)**
@@ -112,7 +112,7 @@ Our AB tests have proven this, consistently outperforming all other providers. D
 ## Driving Profitability With Better Data
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/ShoptalkBlog_8.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" alt="Impact margins from better prediction models" src="/uploads/ShoptalkBlog_8.JPG"/></p>
 <br>
 
 ## Practical Steps An Apparel Retailer Can Take

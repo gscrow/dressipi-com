@@ -71,7 +71,7 @@ Imagine the following scenario...
 
 <p style="padding-left: 50px; font-style: italic;"> Ideas about how to wear your dress for different occasions and how to style your dress with new complementary items when they arrive new at your nearest store (or online) are simple ways to continue to personalise the experiences for every customer at scale. </p>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/instore-journey.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" alt="Graphic demonstrating personalization at different stages between the online and in store journey" src="/uploads/instore-journey.png"/></p>
 
 Retailers need to create experiences and services that customers want to use and that add value to their shopping journey. If these services reflect the customer’s aspirations, then they will be more willing to share their data in return, particularly if it enables the retailer to be more efficient.  
 
@@ -123,7 +123,7 @@ Unless a retailer can build this domain expertise and some appreciation of these
 
 <p style="padding-left: 37px;">Retailers need a more accurate way to enrich their garment data to ensure the right breadth, depth and consistency of data. Typically, this will describe the garment's versatility, how it might be worn and what it should be worn with, all in the context of purchases already made by the customer. The more detailed the data, the richer the experience.</p> 
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/data-new.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" alt="Examples of a set of customer data points and garment data points" src="/uploads/data-new.png"/></p>
 
 ## 2) Supplement the Gaps Left by Data Sparsity with Expert Domain Knowledge 
 
@@ -131,7 +131,7 @@ Due to the sparsity of data and because of the nuances specific to the fashion d
 
 Having fashion experts involved ensures the understanding of the nuances of the industry. They must [work very closely with tech and data team](https://dressipi.com/blog/fashion-plus-data-equals-a-match-made-in-personalisation-heaven/) to build algorithms that take into account the fashion-specific information explained previously.
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/natalie-nick.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" alt="Dressipi's Style Director Natalie Theo and Chief Data Scientist Nick Landia working on fashion-specific algorithms for John Lewis" src="/uploads/natalie-nick.jpg"/></p>
 
 # Leading the Way in Creating Hyper-Personalised Experiences
 
@@ -150,7 +150,7 @@ When a customer is in a store their requirements are very different. For a start
 * <p style="padding-left: 20px;">What size they should try on and if that isn’t available in that store, if there’s another store nearby with availability, or</p>
 * <p style="padding-left: 20px;">Other items that are similar if that one isn’t quite right </p>
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/instore-scanning.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" alt="Graphic showing the process of getting style advice and size availability for a product from scanning the bar code in store" src="/uploads/instore-scanning.png"/></p>
 
 As well as being delivered directly through an app or mobile site, the data can also be linked up to clienteling apps for store staff to use. Dressipi’s API’s can be extended to create a scalable personal styling service that enables a 1-2-1 conversation with every customer.
 
@@ -158,7 +158,7 @@ These are a couple of examples of how Dressipi can deliver in-store experiences 
 
 Dressipi believes there are 4 key steps to delivering successful experiences within fashion retail:
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/conclusion-pip.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" alt="Dressipi's four steps to delivering successful experiences within fashion retail" src="/uploads/conclusion-pip.png"/></p>
 
 
 # Conclusion

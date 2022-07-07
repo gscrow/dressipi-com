@@ -39,7 +39,7 @@ It’s important to be able to make recommendations that respond to what the use
 
 * Even for the other half of visitors that have historical data, trends and other external factors change user preferences much more quickly than in other domains, meaning the historical data might no longer be representative of the user’s interests on a case-to-case basis. This places even more importance on having a highly accurate in-session recommender that can be pulled into the mix.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/RecSys1.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" alt="Demonstration of session and purchase data gathered from visitors" src="/uploads/RecSys1.JPG"/></p>
 
 We want a recommender that can predict the item the user will purchase as early as possible in the session, but we have to balance that with having more information available for better accuracy of predictions as the session goes on. At some point the recommendation may no longer be useful because the user has worked through a sufficiently long journey and is about to find the item they want themselves, without the intervention of the recommender.
 
@@ -47,7 +47,7 @@ We want a recommender that can predict the item the user will purchase as early 
 
 This new-user problem is one of the many issues Dressipi as a fashion-AI specialist is at the forefront of solving so as part of the RecSys challenge, we will be releasing a public dataset of items labeled with content data (such as color, length, neckline, sleeve style, etc.).
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/RecSys2.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Sample of Dressipi product attributes" src="/uploads/RecSys2.JPG"/></p>
 
 Fashion-specific item features (content data) are essential to learn as much as possible from only a few user interactions and successfully recommend items. Using the item features, can we be effective at identifying what type of thing the user is looking for and recommend those types of items, after only a few items have been interacted with during the session.
 

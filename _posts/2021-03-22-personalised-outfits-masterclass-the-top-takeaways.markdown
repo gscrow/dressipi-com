@@ -29,7 +29,7 @@ Natalie and Software Engineer, Marija Mandic spoke at our recent Masterclass abo
 
 At Dressipi we have around 35 different attributes per product. This taxonomy of garment features is completely unique to Dressipi, not existing anywhere else in the retail industry. And it is this taxonomy that allows us to scale this technology, building 100 million outfits per night for John Lewis.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/OutfitSlide2.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" alt="Example of a set of Dressipi's garment attributes for a dress" src="/uploads/OutfitSlide2.JPG"/></p>
 
 It is very important that these attributes are accurate. When it comes to necklines, a crew, a round and a scoop neck are all types of “round” necklines but they differ in the way a customer's collar bones are exposed. Therefore, they suit different customer types and the return rate is impacted if you recommend the wrong garment. We know that customers who have a large bust tend to return more crew neck items over round and scoop neck items.
 
@@ -49,7 +49,7 @@ Outfits need to be personalised because not only do customers come in all differ
 
 Personalised outfits can also be shown in the context of different occasions. Below, on John Lewis, Natalie and Marija have been shown the versatility of an L.K.Bennett dress in a way that is right for them, manifesting in very different recommendations:
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/OutfitSlide3.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" alt="Examples of personalized outfits for Casual and Evening occasions for two different customers" src="/uploads/OutfitSlide3.JPG"/></p>
 
 > *“I like high heels, I don't like yellow and I have explicitly told John Lewis to not show me yellow. I also don't wear trainers.”* - **Natalie Theo**
 

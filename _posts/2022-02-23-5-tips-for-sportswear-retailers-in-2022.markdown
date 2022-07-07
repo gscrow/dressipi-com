@@ -20,13 +20,13 @@ description: The pandemic evoked a shift towards athleisure explained by the loc
 Dressipi data shows there has been a permanent increase of 1-2% of sportswear as a % of total revenue since pre-Covid.
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/SportswearTips1.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" alt="Activewear as a percentage of total fashion revenue" src="/uploads/SportswearTips1.JPG"/></p>
 <br>
 
 Sweatshirts tripled in volume of sales from 2019 to 2021, from 0.5% of total womenswear spend to 1.5% respectively. They peaked at around 3.6% at the height of lockdown. Tracksuit bottoms held a similar story. They were 4% of overall bottoms spend in 2019 which increased to 12%, after ballooning to a whopping 34% at the height of lockdown. Leggings sales doubled from 4% in 2019 to 8% for the same period in 2021 with a peak of 27%. Cycling shorts also became popular from close to 0% pre-Covid to 11.15% of revenue in sportswear bottoms in Oct 2021 after the trend took off in April 2021.
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/SportswearTips2.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Volume of sales for sweatshirts, tracksuit bottoms, and leggings as a percentage of total womenswear sales in 2019, 2020, and 2021" src="/uploads/SportswearTips2.JPG"/></p>
 <br>
 
 The global sportswear market was valued at $351m in 2017, and is expected to reach $547m by 2024 ([Allied Market Research](https://www.alliedmarketresearch.com/activewear-market)). If you are part of this then don’t miss out on our top tips to make your brand even more profitable:
@@ -39,7 +39,7 @@ Sportswear clothes are returned at rates of around 11.3%, much lower than the av
 * Women ordering an XL returned clothing the most frequently, with white items being returned 31.83% of the time compared to L white items 17.03% of the time.
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 560px;" src ="/uploads/SportswearTips3.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 560px;" alt="Graphic of lower return rates for black leggings versus higher rates for white leggings" src="/uploads/SportswearTips3.png"/></p>
 <br>
 
 * Men return much fewer items than women. This is a huge benefit as for all womenswear sales, 2.96% come from sportswear whereas for men this shoots up to 6.70%. 
@@ -49,7 +49,7 @@ Sportswear clothes are returned at rates of around 11.3%, much lower than the av
 **TIP 2** - If returns are high, drill down into the reasons behind the returns. It is often assumed that most returns are driven by sizing issues, however, most of the time, this is not the case.
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/SportswearTips4.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Reasons for returns in 2021 as a percentage of all returns" src="/uploads/SportswearTips4.JPG"/></p>
 <br>
 
 ## Athleisure vs Activewear
@@ -57,13 +57,13 @@ Sportswear clothes are returned at rates of around 11.3%, much lower than the av
 Athleisure garments such as straight cut tops and hoodies have increased by 21.48% pts and 12.7% pts respectively whereas sportswear garments such as tank tops decreased by 11.48% pts.
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/SportswearTips5.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Increase in sales of sweatshirts between November 2019 and October 2021, and hoodies between February 2020 and October 2021, versus decrease in sales of vests between February 2020 and October 2021" src="/uploads/SportswearTips5.JPG"/></p>
 <br>
 
 **TIP 3** - With the rise in athlesiure, you need to understand that there are two types of customers, one’s who buy garments for training or sports and another who buy garments for lifestyle. If the customer is unknown then give the option for both on the PDP. 
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/SportswearTips6.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Examples of outfits for Football and Lifestyle occasions" src="/uploads/SportswearTips6.JPG"/></p>
 <br>
 
 ## Found your perfect match?
@@ -75,7 +75,7 @@ Customers repurchase the same garment a lot more often in the sportswear space d
 Total sportswear customers come back and purchase sportswear again every 3.6 months - 20% less than fashion customers who repurchase every 4.32 months. 
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 650px;" src ="/uploads/SportswearTips72.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 650px;" alt="Chart showing the higher repurchase time of fashion products compared to activewear products between men, women, and all customers" src="/uploads/SportswearTips72.JPG"/></p>
 <br>
 
 **TIP 4** - If your customers are repurchasing leggings every 3 months, then communicate with them and send the right product in the right time frame. 

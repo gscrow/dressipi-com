@@ -27,7 +27,7 @@ As more and more pureplay retailers open physical stores, Natalie Theo, Dressipi
 
 This is something I’m used to seeing on Boden's online site accompanied by a witty catchphrase or two, and they’ve managed to replicate this when stepping into their flagship store on the King’s Road. In an expanding push into bricks-and-mortar, the retailer has brought their big bouncy bright personality to the heart of London, adding to their store in Hanger Lane and concessions in John Lewis.
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/boden_1.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" alt="Image of a wall of artwork at the Boden store" src="/uploads/boden_1.jpg"/></p>
 
 Their re-engagement with the physical retail space at the end of last year came at a time when pureplayers such as beauty brand Glossier and online giant Amazon were upping their emotional quotient by offering customers physical touchpoints. Glossier hosted a London pop-up store and Amazon a Black Friday pop-up complete with sampling experiences and workshops. Pureplay retailers moving into bricks and mortar spaces is becoming increasingly common. A prime example of this is Missguided, who opened their first physical store in Westfield back in 2016.
 
@@ -37,7 +37,7 @@ There are no quirky technological offerings in-store, so it is very much about t
  
 Their mail order catalogue and online experience is one I enjoy. I look forward to the colourful printed envelopes and books I receive in the post. They were one of the first to not only ‘talk to me’ by personalising my catalogue with my name but to also show me something I had already bought.
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/boden_2.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" alt="Image of a blazer on a hangar with the phrase 'You must be mine' written above at the Boden store" src="/uploads/boden_2.jpg"/></p>
 
 Online, the witty ‘how to wear it’ and ‘why to buy it’ content that accompanies the product puts me in that Boden mood and ups my click-through-rate. Replicating the outfitting and editorial they provide online is exactly what would enhance the [in-store customer experience](https://dressipi.com/how-to-improve-customer-experience-instore/) further and inspire even more engagement.  Someone or something to translate all those wonderful colours and prints into multi-tasking looks perfectly suited to *my own* personal preferences, which would all work with my existing wardrobe. 
 

@@ -34,7 +34,7 @@ So, let’s delve into the detail:
  
 A typical high street retailer sees 30% of customers delivering 70% of revenue. With the top 5% of customers driving 25% of revenue (this is even more heavily skewed for the luxury players).
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/1st2nd_1.PNG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" alt="Graph showing the top 30% of customers representing 70% of total revenue" src="/uploads/1st2nd_1.PNG"/></p>
 
 These are the customers who typically sign up to get the emails and these are the customers for whom retailers have the most amount of data.  With that level of data you really can personalise what each customer is seeing with a very high confidence of success.
 
@@ -44,7 +44,7 @@ Starting from their first purchase:
 * 2nd time buyers: 45-50% come back to buy again
 * 3rd time buyers: 55-60% come back to buy again 
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/1st2nd_2.PNG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Average percentage of customers who came back and bought again by number of purchases in 2019" src="/uploads/1st2nd_2.PNG"/></p>
 
 And so it goes on with an increasing percentage coming back (but with diminishing returns). 
  
@@ -62,7 +62,7 @@ If you can speak to each customer at the right time, with as relevant a message 
  
 At Dressipi, we test our personalised emails against all other BAU and segmented emails and consistently outperform by significant margins, by up to 2-3x (revenue per email sent). 
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/1st2nd_3.PNG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" alt="Graphic showing 200% uplift in revenue per email sent" src="/uploads/1st2nd_3.PNG"/></p>
 
 ## Retention Over COVID
 
@@ -72,7 +72,7 @@ The chart shows the average number of customers who come back to buy their secon
  
 We have seen this continue through the whole of 2020. 
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/1st2nd_4.PNG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Graph showign average percentage of customers who came back and bought again within 6 months between January and June, 2019 versus 2020" src="/uploads/1st2nd_4.PNG"/></p>
 
 So whilst you have a captive audience, now is the time to optimise your email strategies.  With an increasingly fickle customer base it is more important than ever to drive your brand message through to your customer. 
  

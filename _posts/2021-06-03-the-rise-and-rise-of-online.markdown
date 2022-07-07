@@ -21,7 +21,7 @@ As we monitor consumer behaviour within the fashion industry across the UK, it i
 Since stores opened on 12th April (Week 15) and then post the UK opening up on 17th May (Week 20), the data suggests a permanent shift of in-store customers to online, worth around 30% YoY growth to online. This shift will take most “bricks and mortar” fashion retailers who were typically around the 30/70 (online/in-store) mark to more like a 40/60 or 50/50 split.
 <br>
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/Newsletter%20Image.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" alt="Online sales growth vs pre-covid trends for weeks 1-7, weeks 8-14, weeks 15-19, and weeks 20+" src="/uploads/Newsletter%20Image.JPG"/></p>
 <br>
 In terms of what people are buying, jeans and tops are surging. However, dress volumes are only slowly creeping back up to 2019 levels and with more of a focus on highlight dresses than occasionwear.
 

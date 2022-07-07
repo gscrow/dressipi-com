@@ -24,6 +24,6 @@ With people turning to garments that were comfortable and multifunctional, categ
 
 * **Leggings** sales have doubled from 4% in 2019 to 8% for the same period in 2021 with a peak of 27%.
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Comfort%20Clothing.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Rise and fall of sweatshirts, tracksuit bottoms, and leggings as a percentage of total activewear mix in 2019, 2020, and 2021" src="/uploads/Comfort%20Clothing.JPG"/></p>
 <br>
 <p style="text-align:center"><a href="/company/demo/" class="button button-primary">FREE CONSULTATION</a></p>

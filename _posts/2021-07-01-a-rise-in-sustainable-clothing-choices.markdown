@@ -25,7 +25,7 @@ And certainly retailers are making an effort to produce more products in sustain
 The chart here shows the % of products produced in sustainable fabrics rising from 33% in March 2020 to 45% in June 2021.
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Newsletter%20Sustainability.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" alt="Comparison of sustainable versus unsustainable products as a percentage of total products produced between March 2020 and June 2021" src="/uploads/Newsletter%20Sustainability.JPG"/></p>
 <br>
 
 We have always been concerned that despite all the rhetoric, there is a big disconnect between what the consumer says they care about versus how they spend their money. There are small signs that this is changing though (hopefully). 
@@ -35,6 +35,6 @@ In Mintel’s UK Womenswear Report from May 2021, surveying women’s priorities
 And data shows that taking into account that there are more sustainable products available, the consumer is 3% more likely to buy those products made from sustainable materials than they were 12 months ago. Hopefully, a sign in the right direction.
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/ConsumerSustainability.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" alt="Graphic showing that the consumer is 3% more likely to buy those products made from sustainable materials than they were 12 months ago" src="/uploads/ConsumerSustainability.JPG"/></p>
 <br>
 <p style="text-align:center"><a href="/company/demo/" class="button button-primary">FREE CONSULTATION</a></p>

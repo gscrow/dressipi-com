@@ -28,7 +28,7 @@ Now, as lockdowns are easing, consumer purchasing habits suggest a resurgence of
 <br>
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/Returns_Sept_1.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" alt="Change in online return rate for the period of May to June, 2019 versus 2021" src="/uploads/Returns_Sept_1.png"/></p>
 <br>
 
 Customer basket behaviours and category mix aligns well with restrictions being imposed and lifted. The benefit of this means that going forward, depending on the status of various restrictions, it should be relatively easy to predict return rates ahead of time. 
@@ -42,7 +42,7 @@ Data from throughout the lockdown period suggests a permanent casualisation of f
 <br>
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Returns_Sept_2.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Fall in dress sales compared to rise in pyjamas and tops, between January and April 2020" src="/uploads/Returns_Sept_2.png"/></p>
 <br>
 
 The [recent announcement that M&S is halting suit sales in the majority of its stores](https://www.drapersonline.com/news/marks-and-spencer-drops-suits-from-more-than-half-of-its-stores?eea=*EEA*&eea=UmErV1Ftc1lOOUpRbVA3RzMwbkRFdWJIa3JhL0lQVDVLbnlvNm1hRVJHUT0%3D&utm_source=acs&utm_medium=email&utm_campaign=FABS_Drapers_EDI_Subs_Daily_31082021&deliveryName=DM5528) is just one example of the impact the pandemic had on how consumers are filling their closets. 
@@ -50,7 +50,7 @@ The [recent announcement that M&S is halting suit sales in the majority of its s
 <br>
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/Returns_Sept_3.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" alt="Percentage change in mix for different occasions between January and April 2020" src="/uploads/Returns_Sept_3.png"/></p>
 <br>
 
 ### Impact on Return Rates
@@ -60,7 +60,7 @@ Consequently, most fashion retailers found themselves in the happy position of i
 <br>
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 350px;" src ="/uploads/Returns_Sept_4.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 350px;" alt="Increase in revenue and cash for fashion retailers between 2019 and 2020" src="/uploads/Returns_Sept_4.png"/></p>
 <br>
 
 This chart shows the difference between 2019 and 2020 for a typical online fashion retailer. Most fashion retailers saw online revenue growth of at least 15% and reduced return rates by somewhere between 8-10%, delivering significant cash and EBIT rewards. 
@@ -69,7 +69,7 @@ Even as purchases began to normalise after the first lockdown, retailers continu
 
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Returns_Sept_5.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" alt="Top 3 gaining product categories as a percentage of womenswear mix between 2019 and 2020" src="/uploads/Returns_Sept_5.png"/></p>
 <br>
 
 ### 2) The Lockdown Exercise Splurge
@@ -78,7 +78,7 @@ Additionally, with the exercise craze that came with lockdown, activewear became
 <br>
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" src ="/uploads/Comfort%20Clothing.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" alt="Rise and fall of sweatshirts, tracksuit bottoms, and leggings as a percentage of total activewear mix in 2019, 2020, and 2021" src="/uploads/Comfort%20Clothing.JPG"/></p>
 <br>
 All these indicators could have led to a false sense of security for many fashion retailers.
 
@@ -95,7 +95,7 @@ Now, as the vaccinations are rolled out in earnest and lockdowns are easing, the
 <br>
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Returns_Sept_7.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" alt="Change in mix of garment categories between May and June, 2020 versus 2021" src="/uploads/Returns_Sept_7.png"/></p>
 <br>
 
 ### Impact on Return Rates
@@ -110,7 +110,7 @@ The chart below shows the change in return rates specifically since the lifting 
 <br>
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Returns_Sept_8.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" alt="Change in return rates in key growth garment categories between May and June, 2019 versus 2021" src="/uploads/Returns_Sept_8.png"/></p>
 <br>
 
 Within each category, the increase is also due to rises in the % of trend pieces, event, and occasion wear.  
@@ -122,7 +122,7 @@ Pre lockdown, the general split of purchases was as follows:
 <br>
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Returns_Sept_9.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" alt="Standard behavior of purchases and return rates for multiple size purchases, multiple style purchases, and single size/single style purchases pre-COVID" src="/uploads/Returns_Sept_9.png"/></p>
 <br>
 
 Throughout lockdown, multiple size purchases stayed pretty flat, but multiple style options reduced by 7% and single style single purchases increased by a similar %. 
@@ -131,21 +131,21 @@ Since restrictions have eased, consumers are starting to go out more, and so are
 <br>
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Returns_Sept_10.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" alt="Comparison of multiple style purchases for dresses and tops for pre-pandemic, February 2021, and June 2021" src="/uploads/Returns_Sept_10.png"/></p>
 <br>
 
 This has also had a detrimental impact on return rates. Every 5% shift from single size/single style to multiple style purchases increases return rates by approximately 0.75% points. 
 <br>
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Returns_Sept_11.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Graphic of a 5% shift in multiple style purchases resulting in a 0.75 percentage point increase in return rate" src="/uploads/Returns_Sept_11.png"/></p>
 <br>
 
 The reassuring thing is that we are predictable creatures with predictable behaviours, as is evident in the COVID timeline below. We have annotated customer demand, purchasing behaviour, and return rates, and there is a visible correlation between all three.
 <br>
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" src ="/uploads/Returns_Sept_12.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" alt="Timeline of the relationship between customer demand, purchasing behavior, and return rates throughout the COVID period" src="/uploads/Returns_Sept_12.png"/></p>
 <br>
 
 ## Forecasting into Q4 2021 and 2022

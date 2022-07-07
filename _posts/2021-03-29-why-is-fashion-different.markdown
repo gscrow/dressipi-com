@@ -51,19 +51,19 @@ We have looked up and compiled these numbers for Netflix and Spotify as represen
 
 The table below shows how many items are available at any one time, and what percentage of the product catalogue is changing each month by either adding or removing items.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/WhyFashionDifferent_1.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Table showing number of items available, number of items added per month, and number of items removed per month for movies (Netflix), music (Spotify), and fashion (Dressipi aggregate)" src="/uploads/WhyFashionDifferent_1.JPG"/></p>
 
 We can observe that the movie and music domains have a large consistent product catalogue that on the whole remains unchanged from month to month, and is continuously growing in small increments. Looking at the new releases, only 5% of items are new per month, so 95% of candidate items that we could recommend have a user interaction history available and only 5% are in the new-item-problem group. At the same time, less than 2% of items get removed every month and the rest remain available to be recommended and for users to interact with. The majority of historical data remains directly relatable to new user interactions due to the same items being available then and now, without needing to use content data (or learn an additional feature space representation that introduces one more source of error in the model). 
 
 On the other hand, in fashion, we have a very dynamic product catalogue where every month on average about a third of products are discontinued and equally as many new products get added. The new-item problem affects on average 33% of the product catalogue and can range between 20% to as high as 50% depending on the retailer. With as many items getting removed we are also at risk of losing a large chunk of data to learn from unless we use content data or make a specific effort to bridge the gap between discontinued and available products.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/WhyFashionDifferent2.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" alt="Comparison of how many items are released per month versus how many items leave the product pool per month for Netflix, Spotify, and the fashion domain" src="/uploads/WhyFashionDifferent2.JPG"/></p>
 
 Furthermore, if we look at larger time frames such as seasons or years, almost all items that were available before won’t be anymore. Seasons affect what clothes are sold. As the weather changes the product catalogue changes drastically. Not many winter items get sold in summer. There are staple items, basics, that remain in the product catalogue for longer but even those get slightly changed and re-released as new items. When comparing the product catalogue for a spring / summer season from one year to the next there is only a small percentage of items that are still available, usually less than 10%.
 
 To address this problem the need for using content data is much bigger than other domains. In fashion the most valuable information is in the image, so we need a way to extract the content data from the image and turn the image into something our recommender can use. At Dressipi we have a process of labelling items with human-understandable fashion tags, as shown below.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/WhyFashionDifferent3.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" alt="Example of a set of Dressipi's garment attributes for a jacket" src="/uploads/WhyFashionDifferent3.JPG"/></p>
 
 Find out more about why accuracy and specificity of garment data is so critical to drive better predictions and better algorithms in our webinar [here](https://dressipi.com/downloads/personalised-outfits/).
 

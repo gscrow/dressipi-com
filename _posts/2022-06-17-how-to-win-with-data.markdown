@@ -12,7 +12,7 @@ description: Expert advice from retailers and data guru’s at our most recent b
 
 We held a breakfast with a fantastic panel of retailers and data experts. They discussed why accurate and consistent product data is one of the most impactful assets in the fashion retail industry and shared their expert advice.
 
-<p style="text-align: center"><img style="margin-left: 0px; width: 750px;" src="/uploads/shoptalk-breakfast-speakers.jpg"/></p>
+<p style="text-align: center"><img style="margin-left: 0px; width: 750px;" alt="The speakers at Dressipi's 'How to Win with Data' breakfast" src="/uploads/shoptalk-breakfast-speakers.jpg"/></p>
 
 > *"The first time I heard someone say, ‘**Data is the new oil**’ was 2011. So we’ve had over a decade to think about that and do something about it. The point of today is to discuss, during that decade, what have we done?"* - Jonathan Brech, CEO, Cambridge Data & Industry Adviser, Fashion Retail Academy
 
@@ -56,7 +56,7 @@ The need for data to help the fashion industry become more sustainable is hugely
 
 *"\[New legislation will\] change the appetite radically within a lot of retailers. If there is any resistance at the moment, it’s soon going to become a core part of how you do business. Tracking and tracing where your sourcing has come from."* explained Susan who works with AI data businesses and retail to develop step changes in sustainability. *"The flip side of that is the ability you can deliver using AI to impact your ESG metrics much more quickly. For example, if you apply the data you have to [demand forecasting](https://dressipi.com/blog/be-more-profitable-with-better-data/) you can change your EBIT by 5% in one season and reduce your carbon footprint. All because you've reduced your overproduction."*
 
-<p style="text-align: center"><img style="margin-left: 0px; height: 400px;" src="/uploads/shoptalk-breakfast-image-2.jpg"/></p>
+<p style="text-align: center"><img style="margin-left: 0px; height: 400px;" alt="Image of the panel at Dressipi's 'How to Win with Data' breakfast" src="/uploads/shoptalk-breakfast-image-2.jpg"/></p>
 
 Sign up to hear about future events!
 

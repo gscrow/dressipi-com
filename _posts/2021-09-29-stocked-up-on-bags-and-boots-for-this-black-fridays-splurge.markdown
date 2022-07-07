@@ -36,7 +36,7 @@ Due to lockdowns and more discounted periods throughout 2020, Black Friday in 20
 <br>
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" src ="/uploads/BlackFriday1.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" alt="Black Friday sales as a percentage of annual revenue, and Black Friday revenue growth on previous two weeks between 2018 and 2021" src="/uploads/BlackFriday1.JPG"/></p>
 <br>
 
 Due to lower promotional activity and the opening up of the economy, we anticipate 2021 to be in line with 2018 and 2019, with a revenue boost back up to 9% of overall sales.
@@ -49,7 +49,7 @@ Pre-pandemic, we actually saw an average decrease in return rates of 11% over Bl
 <br>
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/BlackFriday2.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" alt="Black Friday return rates between October and January, 2019 to 2020 compared with 2020 to 2021" src="/uploads/BlackFriday2.JPG"/></p>
 <br>
 
 Read our recent [analysis on Return Rates](https://dressipi.com/blog/garment-return-rates-spike-to-above-pre-pandemic-levels/), where our analysts looked back at the fascinating data over COVID and the correlations between customer demand, purchasing behaviour and return rates.
@@ -66,7 +66,7 @@ What to Recommend to Visitors
 <br>
 <br>
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/BlackFriday3.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" alt="What to recommend to new customers versus returning customers by increase in sales compared to normal sales behaviour" src="/uploads/BlackFriday3.JPG"/></p>
 <br>
 
 ## Promotion Type for New and Returning Customers

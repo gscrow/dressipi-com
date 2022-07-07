@@ -37,17 +37,17 @@ Not only do stores allow customers to try on products and allow for face to face
 
 For the launch of 5 Carlos Place, Matchesfashion collaborated with Prada to create an installation with Prada marked vending machines, pinball machines and 100 products only available in the Matchesfashion store. This fun-filled shopping space spans over the first 2 floors of the beautiful red-bricked Mayfair building, with collaborations by new designers changing every few weeks, bringing a freshness and exclusivity to an exciting and ever-evolving space.
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/matches-1.jpeg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" alt="Three images of the Prada installation at the Matchesfashion store at 5 Carlos Place" src="/uploads/matches-1.jpeg"/></p>
 
 QR codes are everywhere to encourage scanning and interaction, prompting customers to open the Matchesfashion app (or download it). Depending on which code you scan, the app will then launch content such as ‘The Making of 5 Carlos Place’, beautiful catwalk videos and product pages allowing you to shop the full collection. 
 
 Despite a strong focus on technology, the space doesn’t include gimmicks such as magic mirrors or VR headsets, but rather tech that genuinely helps the customer and enriches their experience. As [Drapers](https://www.drapersonline.com/news/first-look-matchesfashion-opens-new-retail-space-5-carlos-place/7031983.article?search=https%3a%2f%2fwww.drapersonline.com%2fsearcharticles%3fqsearch%3d1%26keywords%3dmatches) reports *“The store includes subtle mobile technology throughout that is connected to the Matchesfashion app, which allows shoppers full access to the retailer’s product range. The technology will also give staff access to visitor’s sizing information, past orders and browsing history, using a bespoke algorithm that helps staff to suggest relevant and personalised recommendations.”* Furthermore, the algorithm allows for staff to send the customer follow up personalised emails (once they have left the store) with other relevant product suggestions. 
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/matches-2.jpeg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" alt="Image of a railing of clothes at the Matchesfashion store and a QR code linking to the Matchesfashion mobile app" src="/uploads/matches-2.jpeg"/></p>
 
 The next few floors are home to the private shopping suites. These have to be pre-booked but customers can have clothes delivered to the store from the warehouse in just 90 minutes. Impressive!
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/matches-3.jpeg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" alt="Images of the private shopping suites at the Matchesfashion store" src="/uploads/matches-3.jpeg"/></p>
 
 However, despite the amazing shopping spaces, it’s not just about the clothes - increasingly physical retail is putting an emphasis on being a place where customers enjoy spending their time as well as their money. The cafe on the top floor offers free coffee and cakes, and will also be used as an [event](https://www.matchesfashion.com/5carlosplace/whats-on) space hosting masterclasses, dinners and musical performances. Matchesfashion is well known for its brilliant content including ‘The Style Report’ and ‘The Style Social’ and these events will be broadcasted from 5 Carlos Place onto their website as additional content. Reported in [Drapers](https://www.drapersonline.com/news/comment/comment-does-5-carlos-place-deliver-for-matchesfashion/7031992.article?search=https%3a%2f%2fwww.drapersonline.com%2fsearcharticles%3fqsearch%3d1%26keywords%3dmatches), *“40% of Matchesfashion’s sales now come via interactions with its content, it is clear to see why content sits at the core of 5 Carlos Place, both physically in store – providing that experiential element – and digitally, and therefore internationally, via the website.”*
 

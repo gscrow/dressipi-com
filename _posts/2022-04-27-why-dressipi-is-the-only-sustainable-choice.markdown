@@ -34,11 +34,11 @@ According to [Forbes](https://www.forbes.com/sites/aslaugmagnusdottir/2020/05/13
 
 Dressipi helps retailers optimize product assortments & size ratios on a garment specific level - with a 90% lower error margin. This facilitates a shift to a more demand-led (and hugely less wasteful!) business model.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 1000px;" src ="/uploads/SustainabilityBlog1.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 1000px;" alt="Recommended stock change by size for two dresses" src="/uploads/SustainabilityBlog1.JPG"/></p>
 
 When considering how much of each size to stock, retailers consider style and length. However, when analyzing a deeper, better set of data retailers would see that neckline, embellishment and even color play a major part. This cream pair of leather trousers had 8% more sales in sizes 6 & 8 than the equivalent pair in black.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Attributes_2.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" alt="Comparison of sales at the size level" src="/uploads/Attributes_2.JPG"/></p>
 
 Good attribution is the key to this. By having detailed data on products, retailers can start to see significant performance benefits in this area.
 
@@ -54,7 +54,7 @@ Dressipi’s core focuses on helping fashion retailers increase their revenue an
 
 By building the return rate propensities into our algorithms we have been able to reduce the return rates for our partners by 10-15%. We are the only recommendation provider that does this (for every customer, every garment and every feature).
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/SustainabilityBlog3.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" alt="Return rates comparison between Dressipi recommendations and rest of site" src="/uploads/SustainabilityBlog3.JPG"/></p>
 
 This minimizes the reverse logistics hassle and has a genuine ESG benefit due to fewer emissions and less waste.
 

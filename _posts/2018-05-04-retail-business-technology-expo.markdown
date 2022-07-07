@@ -44,7 +44,7 @@ Retailers have to make their stores a destination. *“There has to be a reason 
 
 There has been a lot of investment in in-store technology, as customers want a similarly convenient experience to what they get shopping online - *“The successful retailers are those that are truly omnichannel”* stated Ken Daly, CEO, JML. Furthermore, retailers want to know as much as possible about their customers when they walk through that door, such as whether they have recently bought something or whether they are considering purchasing something online.
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/RBTE%20panel-56c490.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" alt="Image of the panel at the Retail Business Technology Expo" src="/uploads/RBTE%20panel-56c490.jpg"/></p>
 
 ## 2. *“It is fast becoming all about the smartphone.”* Louisa Nicholls, Senior Online Trading Manager, John Lewis
 
@@ -76,4 +76,4 @@ Ultimately retailers need to take a step back and think about the experience the
 
 Technology shouldn’t be ‘tech for tech’s sake’. Retailers need to know their own business, what they want to achieve and implement the technology that will enable them to reach their goals.
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Exhibitors.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" alt="Image of the exhibitor floor at the Retail Business Technology Expo" src="/uploads/Exhibitors.jpg"/></p>

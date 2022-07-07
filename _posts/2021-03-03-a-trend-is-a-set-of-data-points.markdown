@@ -30,17 +30,17 @@ Trends are emotive and ever-changing. Whilst floral for spring may indeed not so
 
 These really aren’t going anywhere, are they? But it would be remiss to simply tag every voluminous sleeve style as one ‘big sleeve’ trend. That’s just the start…entry-level data. There are big sleeves and then there are even bigger sleeves from a full volume puff to a gentler balloon. Volume is not just about the sleeve style either, like the edgier 80s padded shoulder details. Each is a way to reflect a brand’s signature style and to cater to a customer’s preference. Personalisation takes the data to a next level. By looking at the combination of features: we will know that customer X is likely to buy a puff sleeve on a dress, rather than a dress with a balloon sleeve; OR customer Y only buys into the big sleeve trend via Tops. Which Isabel Marant big sleeve style are you?
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Trends_Blog_1.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="An image of a model wearing a top with padded shoulders and an image of a model wearing a dress with balloon sleeves" src="/uploads/Trends_Blog_1.jpg"/></p>
 
 ### 2) Trends: Sequins by Day and the New Ladylike
 
 A trend is also a way to style a look. Partial to a bit of sequins? The new ‘stay at home work from home party from home’ mood gave rise to designers taking our favourite shiny evening embellishment and making it casual-friendly. At Celine a midi-length sequin dress had a make-under with baseball cap, tote and pair of white trainers; at Chanel and Louis Vuitton top-to-toe sequins were dressed down with t-shirts. Because we also capture data such as embellishment location: all over OR embellishment location: shoulder we can personalise the trend to suit the customer’s preferences. A confident shopper may well subscribe to the top-to-toe sequin look with a dress down t-shirt and trainer. A not so confident customer may use a hint of sequin embellishment on a t-shirt styled with jeans to dabble in the trend.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 350px;" src ="/uploads/Trends_Blog_2.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 350px;" alt="Image of model wearing matching sequin embellished jacket and skirt" src="/uploads/Trends_Blog_2.jpg"/></p>
 
 The new take on ladylike dressing means our stay-at-home sweatshirts and hoodies can be upscaled by styling them with pleated skirts or a sharper cut pencil skirt. Want to know what to recommend next to the customer who’s just bought a hoody? Perhaps that voluminous softly pleated calf-length skirt.
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 350px;" src ="/uploads/Trends_Blog_3.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 350px;" alt="Image of a woman wearing a casual floral pattern jacket with a smart checked pencil skirt" src="/uploads/Trends_Blog_3.jpg"/></p>
 
 ## Conclusion
 

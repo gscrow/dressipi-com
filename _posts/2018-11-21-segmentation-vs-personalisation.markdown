@@ -49,7 +49,7 @@ Segmentation can inform product market strategy by enabling customer mapping to 
 
 However, it is rather static and doesn’t take into consideration user behaviour nor the multiple touch points (online, mobile, in-store, search, social media) that influence a customers’ micro-moments such as help deciding what to buy.
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Blog_1_smaller.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" alt="Image of a woman with shopping smiling at her phone" src="/uploads/Blog_1_smaller.png"/></p>
 
 Additionally, consumers are rarely part of one segment. They could belong to multiple segments at different times of the day and week. You may have a professional working woman during the week, who runs marathons on weekends and happens to be a mother of 3 children. This is a good example of one person with different behaviour patterns, interests and product affinities at different points in time.
 
@@ -61,7 +61,7 @@ The above begs the key question - Is it an artificial constraint to segment peop
 
 There is little doubt that automated micro-segmentation, done correctly, should deliver improved results over the more static and hypothetical alternatives. However, there is more fluidity and dynamism in our personalities today than ever before, and our customer journeys are individual and growing in complexity.
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Blog_2_smaller.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" alt="Image of a segmented wall of fashion-related images" src="/uploads/Blog_2_smaller.png"/></p>
 
 Our decision making is unique, as is our timing, our sensitivities and our affinities to products and product features. Nowhere is this more pertinent than in [fashion retailing](https://dressipi.com/blog/building-fashion-recommendation-systems/).
 
@@ -73,7 +73,7 @@ So, as a fashion retailer, using segmentation might initially get some improveme
 
 Personalisation doesn’t care about putting customers into segments. It concerns itself with collecting data and learning as much as possible about each individual customer, so it can respond to each unique need in real time.
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Blog_3_smaller.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" alt="Image of a woman being recommended an outfit on a screen display" src="/uploads/Blog_3_smaller.png"/></p>
 
 It understands that you are a working woman, a marathon runner and a mother. That you will be buying a tailored suit one day and a biker jacket the next. It knows your likes and dislikes at a feature level, it knows the clothes that suit you best and those you will avoid or return. It saw that you bought the coat you were looking for last week and knows you won’t be buying another for at least a year. It understands that you buy your trainers online and your dresses in-store.
 

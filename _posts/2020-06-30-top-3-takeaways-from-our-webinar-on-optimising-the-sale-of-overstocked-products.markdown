@@ -32,7 +32,7 @@ This webinar outlined smarter, data-driven solutions for shifting overstock prod
 
 ## 1) Advances in Data Science and Machine Learning / AI Technology make the previously impossible possible
    
-<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/overstock-webinar-image-1.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" alt="Accelerating progress of advanced in data, processing, and delivery" src="/uploads/overstock-webinar-image-1.png"/></p>
 
 These advances allow retailers to clean, structure and process the huge volumes of data so that it is consistent and all in one place. Additional fashion specific data can be added to spot the patterns and trends so unique to this industry.
 
@@ -44,7 +44,7 @@ This allows retailers to show a completely personalised edit to each customer wi
    
 
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/overstock-webinar-image-2.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" alt="Demonstration of an alternative approach to product distribution by probability of purchase" src="/uploads/overstock-webinar-image-2.png"/></p>
 
 Due to the advances in Machine Learning and AI outlined in the point above, retailers can get a deeper understanding of each customer and product. This enables them to more effectively distribute products to customers to significantly improve the chances of a product being bought and kept.
 
@@ -55,7 +55,7 @@ Offering different products to different customers in each phase of discounting 
 ## 3) Dressipi has won an Innovate UK grant to accelerate fashion retailers’ access to these products
 
 
-<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/overstock-webinar-image-3.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" alt="Dressipi has won an Innovate UK grant to accelerate fashion retailers’ access to our size ratios product" src="/uploads/overstock-webinar-image-3.png"/></p>
 
 <p style="text-align:center; font-style: italic; font-weight: bold;"> “Our primary objective is to maximise the cash for our retail partners to ensure their longevity.” </p>
 <p style="text-align:center; font-weight: bold;">Sarah McVittie, Co-Founder, Dressipi</p>

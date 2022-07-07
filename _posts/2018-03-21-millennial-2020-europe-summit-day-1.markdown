@@ -38,7 +38,7 @@ What exciting developments lie ahead, we can’t be sure, but what we do know is
 
 Alex Wood, Europe Editor of Forbes (and founder of The Memo which published [this article](https://www.thememo.com/2016/07/18/why-confidence-is-so-crucial-for-the-future-of-online-clothes-shopping/) about Dressipi) described a current shift, “*from an industrial age to an information age*.” He emphasised that “*digital brings a new way to tell stories*”, and although speaking primarily about how we consume news today, I also feel this is applicable to how retailers are using data to tell stories to their customers, enhancing their brand and creating better experiences. 
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/Alex_Wood.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" alt="Image of Alex Wood talking at the Millenial 2020 Europe Summit" src="/uploads/Alex_Wood.jpg"/></p>
 
 Some key highlights from Day 1 (you can check out Day 2 highlights [here](https://dressipi.com/blog/millennial-2020-europe-summit-day-2/) included:
 
@@ -84,4 +84,4 @@ But don’t run the risk of being too intrusive when it comes to using data - as
 
 We also can’t forget the added bonus of Dressipi’s ‘Ones to Watch Award’ nomination. Although we missed out on the title, we were thrilled to be in the running for Best Innovation Commerce-Enabler / Best Retail Solution!
 
-<p style="text-align:center"><img style="margin-left: 0px" src ="/uploads/awards.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" alt="Image of Dressipi on the shortlist for the Ones to Watch Award at the Millenial 2020 Europe Summit" src="/uploads/awards.jpg"/></p>

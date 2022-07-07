@@ -23,7 +23,7 @@ The first step in building looks is reviewing the product attributes in the cont
 At Dressipi we combine technology, text classification and image recognition, with our sportswear stylists, to deliver the best results. For example, the neckline of a top can be described through one of 25 different attributes. That is the level of detail and accuracy Dressipi provides.
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/SportswearOutfits1.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Sample of Dressipi attributes for sports bottoms" src="/uploads/SportswearOutfits1.JPG"/></p>
 <br>
 
 As a tech company, Dressipi uses a number of technologies to make garment labeling effective. Unfortunately, Computer Vision models or Convolutional Neural Networks are still not good enough to provide 99% accurate results. Hence, we constantly work on improving those models.
@@ -33,7 +33,7 @@ As a tech company, Dressipi uses a number of technologies to make garment labeli
 Another thing a machine needs to know is which garment categories can be combined together and for which activity. The activity is important because rules will be different for different activities. A tennis skirt shouldn’t be styled with football boots while a team jersey can. To achieve this, we have trained our algorithms to understand those relationships.
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/SportswearOutfits2.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Example of outfit recommendations for Football and Lifestyle occasions" src="/uploads/SportswearOutfits2.JPG"/></p>
 <br>
 
 Our algorithms also handle combinations of different garment attributes and how they can be styled together. We have a set of rules where combinations of attributes that cannot go together are listed - e.g. football jerseys can only be matched with other products from the same club. Rules are written by sportswear stylists and can be easily and quickly updated as new trends may “break” rules already set. For example, the rise in athleisure meaning we can style sportswear as everyday looks. 
@@ -43,7 +43,7 @@ Our algorithms also handle combinations of different garment attributes and how 
 At this stage, looks aren’t personalized yet. Personalization happens in real-time when a garment is requested. At that moment we pick the remaining garments in the look by checking if they are recommended for a user. As not all garments have an equal recommended score, they are sorted in order of descending goodness. Even though always returning the best-recommended garments sounds good in theory, in practice, that means there will be a lot of homogeneous looks. Looks’ diversity is equally important as the best-recommended garments. That is why we aggregate looks to ensure diversity and blocklist garments that have already been shown for a short period of time. Consequently, slightly less recommended garments are returned but a diversity of looks is increased.
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/SportswearOutfits3.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Example of personalized outfit recommendations for Running and Lifestyle occasions" src="/uploads/SportswearOutfits3.JPG"/></p>
 <br>
 
 ## Building context into Looks

@@ -27,7 +27,7 @@ One of the most important factors in retail is product discoverability. A shoppe
 
 Search technology and behavior is shifting from rigid questioning ‘red dress’ - to the intuitive “bright, fun holiday clothes to relax in”. Richer and more detailed product attributes help brands respond to this more context and emotionally driven search. 
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 500px;" src="/uploads/data_important_asset_blog-dress_attributes.png"/><br> Subset of attributes available</p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 500px;" alt="Subset of attributes for a red dress" src="/uploads/data_important_asset_blog-dress_attributes.png"/><br> Subset of attributes available</p>
 
 ### 2) Personalization
 
@@ -39,7 +39,7 @@ An effective goal is to understand who your most valuable customers are and conn
 
 That means being able to interpret and deliver on a wide and rich taxonomy of interests and subjectivity (thinking and talking how each of your customers do) as well as hard and very granular product attributes.
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 750px;" src="/uploads/data_important_asset_blog-outfit.jpg"/></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 750px;" alt="Product attributes working together to create an outfit" src="/uploads/data_important_asset_blog-outfit.jpg"/></p>
 
 ### 3) Product Forecasting
 
@@ -47,7 +47,7 @@ Buyers and merchandisers can also benefit. While reviewing performance and forec
 
 For example, more accurately determining your customers’ buying propensity for ‘balloon sleeves’ at customer size and shape level can be the difference between over or under buying into a trend. Dressipi has found that forecasts with attributes can lead to 10% increase in sell-through rate and 3%pt increase in contributed margin. And this is only the beginning. 
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 650px;" src="/uploads/ShoptalkBlog_6.JPG"/></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 650px;" alt="Chart of recommended stock changes by size" src="/uploads/ShoptalkBlog_6.JPG"/></p>
 
 ### Product Attribution is Critical for Growth
 

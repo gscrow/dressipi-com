@@ -23,7 +23,7 @@ An additional 380m returned items isn’t just going to hit margins, there is a 
 The latest quarterly results across the industry show the market size is pretty much back to 2019 levels (with some clear winners and losers). Even before recent events, we were expecting growth in 2022 to be limited due to inflation and further supply chain disruptions and spiking warehousing costs.
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 550px;" src ="/uploads/USReturns1.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 550px;" alt="Gross revenue of US apparel industry" src="/uploads/USReturns1.JPG"/></p>
 <br>
 
 ## 11% Permanent Shift to Online 
@@ -33,7 +33,7 @@ The pandemic has also accelerated the shift to online. We estimate there has bee
 The average growth of the online channel for retailers in the last 6 months of 2021 vs 2020 is 13% (up 54% on 2019).
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/USReturns2.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" alt="Online channel growth rate and percentage of overall revenue growth" src="/uploads/USReturns2.JPG"/></p>
 <br>
 
 ## Deeper Dive into what is driving return rates
@@ -41,7 +41,7 @@ The average growth of the online channel for retailers in the last 6 months of 2
 Although the mix of product purchases has moved to a more casual make up, the changes in return rates are less as a result of the mix of products and more within each category.
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/USReturns3.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" alt="Percentage change in return rates" src="/uploads/USReturns3.JPG"/></p>
 <br>
 
 ## Category mix suggesting a casualisation of apparel choices
@@ -51,7 +51,7 @@ We are seeing a rise in the purchases of jeans, sportswear, tops and knitwear wi
 In 2021, dresses and tops were the highest categories at approximately 20% and 26% of the overall womenswear product mix. Within those categories, dresses saw return rate increases by 16% and tops increase by 12%. This was mostly due to people buying multiple options. 
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" src ="/uploads/USReturns4.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 700px;" alt="Reasons for returns of dresses and tops in 2021" src="/uploads/USReturns4.JPG"/></p>
 <br>
 
 ## Sustainability Impact 
@@ -63,7 +63,7 @@ There are 2 other big shifts that have taken hold over the last 2 years
 As one of the biggest offenders when it comes to sustainability, fashion has a long way to go to improve its sustainability credentials. Whilst the consumer does not yet  always vote with their wallet on this one, sentiments are definitely changing.  Most retail bosses understand that even if their consumer is not completely there, most governments are. There is now a necessity to ensure their businesses are more sustainable (2nd biggest opportunity and challenge as stated in the McKinsey’s latest “State of Fashion report 2022”) 
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/Returns2022_BoF.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" alt="Business of Fashion chart of fashion's biggest opportunities for growth" src="/uploads/Returns2022_BoF.png"/></p>
 <br>
 
 But this is not just about better materials, there is so much every fashion retailer can do very quickly TODAY to lessen their impact on the environment. 
@@ -75,7 +75,7 @@ Returns are a natural cost of doing business online but that minimum natural cos
 Dressipi builds the return propensity into all its models to ensure we are always increasing revenue and reducing returns.
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" src ="/uploads/USReturns6.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 900px;" alt="Comparison of return rates between Dressipi recommendations and rest of site" src="/uploads/USReturns6.JPG"/></p>
 <br>
 
 ### 2) Data driven retailing

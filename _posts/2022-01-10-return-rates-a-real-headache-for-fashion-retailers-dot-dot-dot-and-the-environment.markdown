@@ -31,7 +31,7 @@ Now that the industry is steadying (with stores mostly open), the picture is dif
 The latest quarterly results across the industry show the market size is pretty much back to 2019 levels (with some clear winners and losers). We expect growth in 2022 to be limited due to inflation and further supply chain disruptions.
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Returns2022_1.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Size of UK fashion industry between 2019 and 2021" src="/uploads/Returns2022_1.JPG"/></p>
 <br>
 
 ## 25-30% Permanent Shift to Online 
@@ -41,7 +41,7 @@ The pandemic has also accelerated the shift to online. We estimate there has bee
 The average growth of the online channel for Bricks and Mortar retailers in the last 6 months vs 2020 is 24.7% (up 95% on 2019). Similarly, average growth rates for the online pure play retailers is 23%.
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 800px;" src ="/uploads/Returns2022_2.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 800px;" alt="Brick and mortar online channel versus online pure play growth rates, and online channel as a percentage of total fashion channel mix" src="/uploads/Returns2022_2.JPG"/></p>
 <br>
 
 ## Product Mix Back Inline With 2019
@@ -49,7 +49,7 @@ The average growth of the online channel for Bricks and Mortar retailers in the 
 The other big shift is a return to a more “return rate heavy” product mix. Dresses, Tops and Jeans/Bottoms are typically the 3 largest categories. Pre-pandemic dresses were typically 16% of the product mix, declined to 11%  in 2020 but Dresses are now back to above 2019 levels. The chart below shows the changes in product mix and the corresponding return rates for these categories. 
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Returns2022_3.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Percentage changes for high return rate categories between 2019 and 2021" src="/uploads/Returns2022_3.JPG"/></p>
 <br>
 
 This product mix change has increased the return rate by **2.17%**. 
@@ -59,7 +59,7 @@ This product mix change has increased the return rate by **2.17%**.
 When you dig deeper into each category you can see that there is a move to a more casual wardrobe. The chart below illustrates the changes within Dresses. 
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Returns2022_4.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Percentage changes for mix of wardrobe by dress type between 2019 and 2021" src="/uploads/Returns2022_4.JPG"/></p>
 <br>
 
 This is the same across the board with return rates within categories reducing. Reducing the return rate by 1.27%. 
@@ -67,7 +67,7 @@ This is the same across the board with return rates within categories reducing. 
 The combination of product mix change and the casualisation of fashion therefore gives an overall increase of 1% in 2019. 
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Returns2022_5a.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="percentage point change in return rates by product mix between 2019 and 2021" src="/uploads/Returns2022_5a.JPG"/></p>
 <br>
 
 ## Reasons for Returns
@@ -82,19 +82,19 @@ Rather than rely on reason codes (that are less accurate), we use a data-driven 
 Typically the % of returns breaks down as follows:
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Returns2022_6.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Reasons for returns in 2021" src="/uploads/Returns2022_6.JPG"/></p>
 <br>
 
 Although those reasons do vary by garment category.
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 800px;" src ="/uploads/Returns2022_7.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 800px;" alt="Reasons for all returns by percentage in 2021, and change in reason as a percentage of all returns between 2020 and 2021" src="/uploads/Returns2022_7.JPG"/></p>
 <br>
 
 When you look at the return rates within each reason category, we typically see the below:
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" src ="/uploads/Returns2022_8.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Return rates within each reason in 2021" src="/uploads/Returns2022_8.JPG"/></p>
 <br>
 
 When return rates for any multiple size purchase are at 85%, it suggests that the size wasn’t the issue but that the product wasn’t right in any case. 
@@ -102,7 +102,7 @@ When return rates for any multiple size purchase are at 85%, it suggests that th
 And over lockdown we have seen the biggest rise was in customers buying multiple options (19%) but also in customers buying multiple sizes (11%) and a decrease in customers buying single size single product (-10%). 
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Returns2022_9.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" alt="Increase in return rate reasons between 2019 and 2021" src="/uploads/Returns2022_9.JPG"/></p>
 <br>
 
 This suggests that customers are uncertain of what works best for them. Given both of the first 2 reasons have higher return rates this uncertainty will also be contributing to higher return rates. 
@@ -112,7 +112,7 @@ This suggests that customers are uncertain of what works best for them. Given bo
 So all of this means that return rates for the period from Aug - Oct 2021 vs the same period in 2019 are up 1%. We predict therefore that the return rates for 2022 will be either inline or approximately 1% higher than 2019.
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" src ="/uploads/Returns2022_10.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 500px;" alt="Average return rate across all departments between 2019 and 2022" src="/uploads/Returns2022_10.JPG"/></p>
 <br>
 
 ## What This Means For Margins
@@ -122,7 +122,7 @@ Obviously, this shift to online retailing and return rates increase plays out ve
 Let’s assume 2 fictional retailers, both with gross revenues of £500m in 2019. The first is an online pureplay retailer and the other a traditional bricks and mortar retailer. Let’s assume each retailer follows the average movements within their category. 
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 800px;" src ="/uploads/Returns2022_1112.JPG"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 800px;" alt="Online pure play versus traditional bricks and mortar revenue and contributed margins between 2019 and 2022" src="/uploads/Returns2022_1112.JPG"/></p>
 <br>
 
 **Online pureplay retailers** are having an easier time of it, with average growth rates over 20% and reduced return rates in 2020 and 2021, surplus cash has been considerable (and at least a decent buffer against the recent increased supply chain costs). We predict 2022 return rates to be inline with or slightly higher than 2019 and so although the online retailers will have additional growth, we expect their overall EBIT margins to be negatively impacted by about 1% (not including impacts from supply chains).
@@ -136,7 +136,7 @@ Let’s assume 2 fictional retailers, both with gross revenues of £500m in 2019
 As one of the biggest offenders when it comes to sustainability, fashion has a long way to go to improve its sustainability credentials. Whilst the consumer does yet not always vote with their wallet on this one, sentiments are definitely changing.  Most retail bosses understand that even if their consumer is not completely there, most governments are. There is now a necessity to ensure their businesses are more sustainable (2nd biggest opportunity and challenge as stated in the McKinsey’s latest “State of Fashion report 2022”).
 
 <br>
-<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" src ="/uploads/Returns2022_BoF.png"/></p>
+<p style="text-align:center"><img style="margin-left: 0px; width: 400px;" alt="Fashion's biggest opportunities for growth by Business of Fashion" src="/uploads/Returns2022_BoF.png"/></p>
 <br>
 
 But this is not just about better materials, there is so much every fashion retailer can do very quickly TODAY to lessen their impact on the environment. 
