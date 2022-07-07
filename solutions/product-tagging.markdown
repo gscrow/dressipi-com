@@ -24,9 +24,10 @@ sections:
     product & brand data, attribution errors and missing values - with the most comprehensive
     taxonomy of attributes, built by fashion stylists and scaled by AI
   subsections:
-  - title: Quality Product & Brand Data
+  - title: 
     color: lighter
     image: "/uploads/quality-product-brand-data-desktop.png"
+    alt: Quality Product & Brand Data
 - title: 
   handle: features
   subsections:
