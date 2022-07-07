@@ -94,6 +94,13 @@
   .blog-mobile-button {
     display: none;
   }
+
+  .article__content {
+    h2, h3 {
+      font-family: "Rubik", sans-serif;
+      line-height: 1.4;
+    }
+  }
 }
 
 @include responsive(tablet) {
