@@ -1,5 +1,5 @@
 ---
-title: Spring/Summer 2022 Fashion Trends
+title: Data Points for the SS22 Fashion Trends
 date: 2022-06-08 11:01:00 Z
 categories:
 - S/s 22 Trends
@@ -14,6 +14,8 @@ description: "Style Director, Natalie Theo describes the top Spring/Summer 2022 
 ---
 
 ## From tricky trends to spring/summer favourites, what trends your customers are buying into and how they’re wearing them is integral in how our Dressipi data helps to inspire merchandising each season. 
+
+A trend is a set of garment features. Each feature works on its own (eg. prints: florals) or collectively in a group to capture and reflect a mood of the new season. It might be a single item of clothing or the way an entire look is styled. This is one of the reasons why our fashion-specific data on garments matters. Retailers can identify what % of trend garment features are driving what % of revenue and whether or not it is a single feature or a collection of features, as well as what the customer is likely to buy into.
 
 Bold brights, our favourite summer whites and perennial florals bring nothing new to the seasonal spring/summer palettes. But how to wear and ‘will you wear?’ top-to-toe color, whether you highlight or not with accents of neon and where those on-trend cut-out details might be placed, do. 
 
