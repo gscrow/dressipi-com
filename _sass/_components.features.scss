@@ -66,21 +66,15 @@
 .index-features {
   padding-top: 0;
 
-  .index {
-    .index-product-discovery {
-      padding-top: 96px;
-    }
+  .feature-image-wrapper {
+    display: block;
+    width: 100%;
+    text-align: center;
 
-    .feature-image-wrapper {
-      display: block;
-      width: 100%;
-      text-align: center;
-
-      img {
-        display: inline;
-        width: 55%;
-        margin: 3px auto;
-      }
+    img {
+      display: inline;
+      width: 85%;
+      margin: 3px auto;
     }
   }
 }
@@ -158,7 +152,7 @@
   .index {
     .feature-image-wrapper {
       img {
-        width: 85%;
+        width: 8%;
       }
     }
   }
