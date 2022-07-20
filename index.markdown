@@ -22,12 +22,7 @@ sections:
   subtitle: Every page view, every recommendation, every interaction made better
   handle: erb
   is-centered: true
-  roi-section: true
-  subsections:
-  - link: Book a Demo >
-    url: "/company/demo/"
-  - link: Case Studies >
-    url: "/customers/"
+  roi-section: false
 - title: 
   handle: features
   class: index-features
