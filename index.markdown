@@ -22,7 +22,7 @@ sections:
   subtitle: Every page view, every recommendation, every interaction made better
   handle: erb
   is-centered: true
-  roi-section: false
+  roi-section: true
 - title: 
   handle: features
   class: index-features
