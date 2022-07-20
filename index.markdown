@@ -7,7 +7,7 @@ header:
     products & inspiration their visitors deserve, across every part of the shopper
     journey
   button:
-    copy: LEARN MORE >
+    copy: BOOK A DEMO >
     url: "/platform"
     style: primary
   hero-image: "/uploads/banner-home.jpeg"
@@ -97,7 +97,7 @@ sections:
   handle: roi
   color: light-grey
   button:
-    copy: Contact Us >
+    copy: BOOK A DEMO >
     url: "/company/demo/"
     style: primary
 layout: index
