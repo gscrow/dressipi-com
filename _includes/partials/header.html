@@ -72,8 +72,17 @@
         <div class={{ page.header.class }}>
         <h1 class="header__title">{{ page.header.title | default: page.title }}</h1>
         {% endif %}
+        {% if my_page_url contains 'author' and page.job_title %}
+        <h3 class="header__job_title">{{ page.job_title }}</h3>
+        {% endif %}
+        {% if my_page_url contains 'author' and page.bio %}
+        <p class="header__bio">{{ page.bio }}</p>
+        {% endif %}
+        {% if my_page_url contains 'author' and page.linkedin %}
+        <a href="{{ page.linkedin }}" target="_blank"><img class="twitter-logo" src="/uploads/logo_linkedin_footer_pink.png"></a>
+        {% endif %}
         {% if my_page_url contains 'author' and page.twitter %}
-        <h4><a href="http://twitter.com/{{ page.twitter }}" target="_blank"><img class="twitter-logo" src="/assets/twitter.png">   {{ page.twitter }}</a></h4>
+        <a href="http://twitter.com/{{ page.twitter }}" target="_blank"><img class="twitter-logo" src="/uploads/logo_twitter_footer_pink.png"></a>
         {% endif %}
         {% if page.header.body %}
         <div class="header__subtitle">{{ page.header.body | markdownify }}</div>
