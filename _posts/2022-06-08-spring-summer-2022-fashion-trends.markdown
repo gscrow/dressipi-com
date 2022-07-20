@@ -17,7 +17,7 @@ description: "Style Director, Natalie Theo describes the top Spring/Summer 2022 
 
 A trend is a set of garment features. Each feature works on its own (eg. prints: florals) or collectively in a group to capture and reflect a mood of the new season. It might be a single item of clothing or the way an entire look is styled. This is one of the reasons why our fashion-specific data on garments matters. Retailers can identify what % of trend garment features are driving what % of revenue and whether or not it is a single feature or a collection of features, as well as what the customer is likely to buy into.
 
-Bold brights, our favourite summer whites and perennial florals bring nothing new to the seasonal spring/summer palettes. But how to wear and ‘will you wear?’ top-to-toe color, whether you highlight or not with accents of neon and where those on-trend cut-out details might be placed, do. 
+Fashion-specific data on garments is crucial when it comes to mapping and unravelling trends. Bold brights, our favourite summer whites and perennial florals bring nothing new to the seasonal spring/summer palettes. But how to wear and ‘will you wear?’ top-to-toe color, whether you highlight or not with accents of neon and where those on-trend cut-out details might be placed, do. 
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 1000px;" alt="Examples of summer florals and colors" src="/uploads/natalie_data_blog-slide_1.jpeg"/></p>
 
