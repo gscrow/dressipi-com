@@ -12,7 +12,7 @@ tags:
 - better customer service
 - innovation
 - retail innovation
-image: "/uploads/boden_banner.jpg"
+image: "/uploads/Boden_banner.JPG"
 author: Natalie Theo
 description: As more and more pureplay retailers open physical stores, Natalie Theo,
   Dressipi’s Style Director ventures to Boden's newest flagship.
