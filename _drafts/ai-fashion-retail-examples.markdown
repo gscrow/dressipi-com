@@ -62,11 +62,11 @@ There have been some interesting partnerships between fashion retailers and AI, 
 
 With the support of Dressipi’s fashion AI they provided their customers with personalized recommendations, outfits and similar items across the entire customer journey. Customers were seeing what they needed, when they needed it, across Product Listing Pages (PLP), Product Display Pages (PDP) and emails. This fashion-focused approach showed in the business results with revenue up by 6% in 12 months!
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 650px;" alt="River Island example of personalization in retail AI" src="/uploads/examples_of_ai-blog-2.jpg"/></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 600px;" alt="River Island example of personalization in retail AI" src="/uploads/examples_of_ai-blog-2.jpg"/></p>
 
 2) Today's customers don't just want to be sold to, they want to get inspired. Using Dressipi’s AI, [John Lewis](https://dressipi.com/downloads/success-story-john-lewis/) inspired their customers by displaying multiple outfits per garment and by occasion. 
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 750px;" alt="John Lewis personalization in retail examples occasion outfits" src="/uploads/examples_of_ai-blog-3.jpg"/></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 600px;" alt="John Lewis personalization in retail examples occasion outfits" src="/uploads/examples_of_ai-blog-3.jpg"/></p>
 
 Whether the customer was looking for ‘Casual’, ‘Creative Work’ or ‘Evening’, John Lewis successfully demonstrated the versatility of the garments. The outfit recommendations saw a significant increase in revenue.
 
