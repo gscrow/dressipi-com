@@ -72,7 +72,7 @@ Whether the customer was looking for ‘Casual’, ‘Creative Work’ or ‘Eve
 
 3) Successful retailers like [Belstaff](https://dressipi.com/downloads/success-story-belstaff/) recognize how important customer-focused innovation is to maintaining a competitive edge in what is currently a challenging retail market. Utilizing Dressipi’s fashion AI, Belstaff can offer shopping experiences that customers are demanding including personalized product and outfit recommendations on the homepage, PDP and emails. This customer-centric approach saw email revenue increase by 69%.
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 750px;" alt="Personalized product recommendations in a Belstaff email" src="/uploads/examples_of_ai-blog-4.jpg"/></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 400px;" alt="Personalized product recommendations in a Belstaff email" src="/uploads/examples_of_ai-blog-4.jpg"/></p>
 
 4) [Macy’s On Call](https://www.forbes.com/sites/rachelarthur/2016/07/20/macys-teams-with-ibm-watson-for-ai-powered-mobile-shopping-assistant/#17e5b437f415) app uses an in store shopping assistant powered by AI. Customers open an app when they’re in the store and can chat with an AI bot to get directions to item or check if something is in stock. 
 
