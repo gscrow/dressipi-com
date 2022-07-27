@@ -28,19 +28,19 @@ Fashion retailers at the forefront of innovation have already deployed AI across
 1) **Improved customer personalization**: Retailers are still, showing the same products in the same order to all customers regardless of who they are, how frequently they shop or what page they land on.
 
 Customers want a relevant and personalized experience and fashion AI will enable this by continually building an understanding of your customers and how they interact with your products at every step. Read our whitepaper on why personalizing the sort order significantly grows revenue and margins. It’s a great fashion machine learning example.
-
+<br>
 <p style="text-align:center"><a href="/downloads/your-sort-order-is-your-secret-sauce-to-success/" class="button button-primary">DOWNLOAD WHITEPAPER</a></p>
-
+<br>
 Using fashion AI to improve [product discovery](https://dressipi.com/solutions/product-discovery/) across the customer journey through personalized recommendations and outfits delivers up to 8% sales growth.This also results in extra profit from selling items at full price, on top of the lower return rates.
-
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 750px;" alt="AI generated product recommendations on a fashion retail website" src="/uploads/examples_of_ai-blog-1.jpg"/></p>
+<br>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 700px;" alt="AI generated product recommendations on a fashion retail website" src="/uploads/examples_of_ai-blog-1.jpg"/></p>
 
 2) [**Product forecasting**](https://dressipi.com/solutions/product-forecasting/): Most fashion retailers’ margin erosion is a result of the size and shape of how they buy their products. Fashion AI can help retailers move to demand-led predictions of size ratios for every product instead of relying on last year’s data. 
 
 Fashion retailers often have to make decisions quickly, without having time to sift through all the data. However, using better fashion AI predictive retailing models can help them make better decisions, resulting in increased full-priced sell-through rates and decreased markdowns. In fact, modeling the true demand for a product can eliminate 25% of markdowns. 
 
 AI data-driven retailing models can also help identify any net "overproduction," meaning when retailers are effectively buying markdowns from the outset. This can be easily eliminated with the added side benefit of improving the sustainability of the retailer and reducing waste. Another genuine Environment, Social, and Governance (ESG) benefit for everyone.
-
+<br>
 <p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 600px;" alt="Recommended stock change for a fashion retailer by dress size" src="/uploads/ShoptalkBlog_6.JPG"/></p>
 
 3) **AI fashion design**: As a creative industry, fashion designers have been slower on the uptake of AI but it can help them do certain functions of their job both better and quicker. This includes automating the design process, generating new designs, and gathering data for manufacturers to understand demand e.g. colors and textures. [Zalando](https://www.thinkwithgoogle.com/intl/en-cee/consumer-insights/consumer-trends/zalandos-project-muze-fashion-inspired-you-designed-code/) trained a neural network with style preferences of more than 600 fashionistas to predict what kind of fashion people might like and to create designs to match them.
@@ -61,19 +61,19 @@ There have been some interesting partnerships between fashion retailers and AI, 
 1) To win in customer experience, retailers these days need to step away from generic approaches and more toward personalization. The team at [River Island](https://dressipi.com/downloads/success-story-river-island/) understood this very well! 
 
 With the support of Dressipi’s fashion AI they provided their customers with personalized recommendations, outfits and similar items across the entire customer journey. Customers were seeing what they needed, when they needed it, across Product Listing Pages (PLP), Product Display Pages (PDP) and emails. This fashion-focused approach showed in the business results with revenue up by 6% in 12 months!
-
+<br>
 <p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 600px;" alt="River Island example of personalization in retail AI" src="/uploads/examples_of_ai-blog-2.jpg"/></p>
-
+<br>
 2) Today's customers don't just want to be sold to, they want to get inspired. Using Dressipi’s AI, [John Lewis](https://dressipi.com/downloads/success-story-john-lewis/) inspired their customers by displaying multiple outfits per garment and by occasion. 
-
+<br>
 <p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 600px;" alt="John Lewis personalization in retail examples occasion outfits" src="/uploads/examples_of_ai-blog-3.jpg"/></p>
-
+<br>
 Whether the customer was looking for ‘Casual’, ‘Creative Work’ or ‘Evening’, John Lewis successfully demonstrated the versatility of the garments. The outfit recommendations saw a significant increase in revenue.
 
 3) Successful retailers like [Belstaff](https://dressipi.com/downloads/success-story-belstaff/) recognize how important customer-focused innovation is to maintaining a competitive edge in what is currently a challenging retail market. Utilizing Dressipi’s fashion AI, Belstaff can offer shopping experiences that customers are demanding including personalized product and outfit recommendations on the homepage, PDP and emails. This customer-centric approach saw email revenue increase by 69%.
-
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 400px;" alt="Personalized product recommendations in a Belstaff email" src="/uploads/examples_of_ai-blog-4.jpg"/></p>
-
+<br>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 350px;" alt="Personalized product recommendations in a Belstaff email" src="/uploads/examples_of_ai-blog-4.jpg"/></p>
+<br>
 4) [Macy’s On Call](https://www.forbes.com/sites/rachelarthur/2016/07/20/macys-teams-with-ibm-watson-for-ai-powered-mobile-shopping-assistant/#17e5b437f415) app uses an in store shopping assistant powered by AI. Customers open an app when they’re in the store and can chat with an AI bot to get directions to item or check if something is in stock. 
 
 If you’d ever been lost in a store looking for an item, you’ll recognize the benefit here. Immediacy is something that customers have learned to expect with online purchases with next day deliveries now a norm. It’s great to see Macy’s replicating this in their brick and mortar stores as well. 
