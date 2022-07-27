@@ -22,7 +22,7 @@ Customers want a relevant and personalized experience and fashion AI will enable
 
 Using fashion AI to improve [product discovery](https://dressipi.com/solutions/product-discovery/) across the customer journey through personalized recommendations and outfits delivers up to 8% sales growth.This also results in extra profit from selling items at full price, on top of the lower return rates.
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 750px;" alt="AI generated product recommendations on a fashion retail website" src=""/></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 750px;" alt="AI generated product recommendations on a fashion retail website" src="/uploads/examples_of_ai-blog-1.jpg"/></p>
 
 ###2) [*Product forecasting*](https://dressipi.com/solutions/product-forecasting/): Most fashion retailers’ margin erosion is a result of the size and shape of how they buy their products. Fashion AI can help retailers move to demand-led predictions of size ratios for every product instead of relying on last year’s data. 
 
@@ -51,17 +51,17 @@ There have been some interesting partnerships between fashion retailers and AI, 
 
 With the support of Dressipi’s fashion AI they provided their customers with personalized recommendations, outfits and similar items across the entire customer journey. Customers were seeing what they needed, when they needed it, across Product Listing Pages (PLP), Product Display Pages (PDP) and emails. This fashion-focused approach showed in the business results with revenue up by 6% in 12 months!
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 750px;" alt="River Island example of personalization in retail AI" src=""/></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 750px;" alt="River Island example of personalization in retail AI" src="/uploads/examples_of_ai-blog-2.jpg"/></p>
 
 ###2) Today's customers don't just want to be sold to, they want to get inspired. Using Dressipi’s AI, [John Lewis](https://dressipi.com/downloads/success-story-john-lewis/) inspired their customers by displaying multiple outfits per garment and by occasion. 
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 750px;" alt="John Lewis personalization in retail examples occasion outfits" src=""/></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 750px;" alt="John Lewis personalization in retail examples occasion outfits" src="/uploads/examples_of_ai-blog-3.jpg"/></p>
 
 Whether the customer was looking for ‘Casual’, ‘Creative Work’ or ‘Evening’, John Lewis successfully demonstrated the versatility of the garments. The outfit recommendations saw a significant increase in revenue.
 
 ###3) Successful retailers like [Belstaff](https://dressipi.com/downloads/success-story-belstaff/) recognize how important customer-focused innovation is to maintaining a competitive edge in what is currently a challenging retail market. Utilizing Dressipi’s fashion AI, Belstaff can offer shopping experiences that customers are demanding including personalized product and outfit recommendations on the homepage, PDP and emails. This customer-centric approach saw email revenue increase by 69%.
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 750px;" alt="Personalized product recommendations in a Belstaff email" src=""/></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 750px;" alt="Personalized product recommendations in a Belstaff email" src="/uploads/examples_of_ai-blog-4.jpg"/></p>
 
 ###4) [Macy’s On Call](https://www.forbes.com/sites/rachelarthur/2016/07/20/macys-teams-with-ibm-watson-for-ai-powered-mobile-shopping-assistant/#17e5b437f415) app uses an in store shopping assistant powered by AI. Customers open an app when they’re in the store and can chat with an AI bot to get directions to item or check if something is in stock. 
 
