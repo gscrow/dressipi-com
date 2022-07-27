@@ -1,6 +1,9 @@
 ---
 title: Best examples of AI in fashion retail
 date: 2022-07-27 14:01:00 Z
+author: Georgina Fisher
+description: Check out the best examples and applications of AI in fashion. Get inspired
+  by how AI is transforming retail shopping experiences.
 ---
 
 Adoption of Artificial Intelligence (AI) is apparent across multiple sectors and has now started to play a crucial role in transforming the fashion industry. Although the basic retail experience hasn't changed much over the years from the standard Product Listing Page (PLP) > Product Display Page (PDP) journey, the use of AI in fashion is enabling retailers to make their businesses more efficient, improve the retail experience through personalization and automatically predict trends. AI has the potential to revolutionize fashion retail.
