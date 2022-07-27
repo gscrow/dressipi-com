@@ -37,7 +37,7 @@ There are no quirky technological offerings in-store, so it is very much about t
  
 Their mail order catalogue and online experience is one I enjoy. I look forward to the colorful printed envelopes and books I receive in the post. They were one of the first to not only ‘talk to me’ by personalising my catalogue with my name but to also show me something I had already bought.
 
-<p style="text-align:center"><img style="margin-left: 0px" alt="Image of a blazer on a hangar with the phrase 'You must be mine' written above at the Boden store" src="/uploads/boden_2.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" alt="Image of a blazer on a hangar with the phrase 'You must be mine' written above at the Boden store" src="/uploads/boden_2.JPG"/></p>
 
 Online, the witty ‘how to wear it’ and ‘why to buy it’ content that accompanies the product puts me in that Boden mood and ups my click-through-rate. Replicating the outfitting and editorial they provide online is exactly what would enhance the [in-store customer experience](https://dressipi.com/how-to-improve-customer-experience-instore/) further and inspire even more engagement.  Someone or something to translate all those wonderful colors and prints into multi-tasking looks perfectly suited to *my own* personal preferences, which would all work with my existing wardrobe. 
 
