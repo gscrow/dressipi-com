@@ -7,6 +7,10 @@ Adoption of Artificial Intelligence (AI) is apparent across multiple sectors and
 
 Research shows the size of [AI in the retail market](https://www.gminsights.com/industry-analysis/artificial-intelligence-ai-retail-market) exceeded USD 2 billion in 2020 and is expected to grow at more than 30% between 2021 and 2027. Make sure you’re up to date with this growing trend and discover some of the best fashion AI applications.
 
-##How to use AI in fashion - applications in 2022
+###How to use AI in fashion - applications in 2022
 
 Fashion retailers at the forefront of innovation have already deployed AI across different areas of their business. Here are some of the current applications of AI in the fashion industry:
+
+##1) *Improved customer personalization:* Retailers are still, showing the same products in the same order to all customers regardless of who they are, how frequently they shop or what page they land on.
+
+Customers want a relevant and personalized experience and fashion AI will enable this by continually building an understanding of your customers and how they interact with your products at every step. Read our whitepaper on why personalizing the sort order significantly grows revenue and margins. It’s a great fashion machine learning example.
