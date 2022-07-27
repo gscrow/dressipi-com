@@ -14,3 +14,9 @@ Fashion retailers at the forefront of innovation have already deployed AI across
 ##1) *Improved customer personalization:* Retailers are still, showing the same products in the same order to all customers regardless of who they are, how frequently they shop or what page they land on.
 
 Customers want a relevant and personalized experience and fashion AI will enable this by continually building an understanding of your customers and how they interact with your products at every step. Read our whitepaper on why personalizing the sort order significantly grows revenue and margins. It’s a great fashion machine learning example.
+
+<p style="text-align:center"><a href="/downloads/your-sort-order-is-your-secret-sauce-to-success/" class="button button-primary">DOWNLOAD WHITEPAPER</a></p>
+
+Using fashion AI to improve [product discovery](https://dressipi.com/solutions/product-discovery/) across the customer journey through personalized recommendations and outfits delivers up to 8% sales growth.This also results in extra profit from selling items at full price, on top of the lower return rates.
+
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 750px;" alt="AI generated product recommendations on a fashion retail website" src=""/></p>
