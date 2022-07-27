@@ -41,7 +41,7 @@ Fashion retailers often have to make decisions quickly, without having time to s
 
 AI data-driven retailing models can also help identify any net "overproduction," meaning when retailers are effectively buying markdowns from the outset. This can be easily eliminated with the added side benefit of improving the sustainability of the retailer and reducing waste. Another genuine Environment, Social, and Governance (ESG) benefit for everyone.
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 750px;" alt="Recommended stock change for a fashion retailer by dress size" src="/uploads/ShoptalkBlog_6.JPG"/></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 600px;" alt="Recommended stock change for a fashion retailer by dress size" src="/uploads/ShoptalkBlog_6.JPG"/></p>
 
 3) **AI fashion design**: As a creative industry, fashion designers have been slower on the uptake of AI but it can help them do certain functions of their job both better and quicker. This includes automating the design process, generating new designs, and gathering data for manufacturers to understand demand e.g. colors and textures. [Zalando](https://www.thinkwithgoogle.com/intl/en-cee/consumer-insights/consumer-trends/zalandos-project-muze-fashion-inspired-you-designed-code/) trained a neural network with style preferences of more than 600 fashionistas to predict what kind of fashion people might like and to create designs to match them.
 
@@ -62,7 +62,7 @@ There have been some interesting partnerships between fashion retailers and AI, 
 
 With the support of Dressipi’s fashion AI they provided their customers with personalized recommendations, outfits and similar items across the entire customer journey. Customers were seeing what they needed, when they needed it, across Product Listing Pages (PLP), Product Display Pages (PDP) and emails. This fashion-focused approach showed in the business results with revenue up by 6% in 12 months!
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 750px;" alt="River Island example of personalization in retail AI" src="/uploads/examples_of_ai-blog-2.jpg"/></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 650px;" alt="River Island example of personalization in retail AI" src="/uploads/examples_of_ai-blog-2.jpg"/></p>
 
 2) Today's customers don't just want to be sold to, they want to get inspired. Using Dressipi’s AI, [John Lewis](https://dressipi.com/downloads/success-story-john-lewis/) inspired their customers by displaying multiple outfits per garment and by occasion. 
 
