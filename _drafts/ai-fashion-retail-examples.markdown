@@ -83,3 +83,11 @@ This is why [Zara’s AI in fashion case study](https://www.retaildive.com/news/
 ###10) Looking for a specific item in a shop can be super frustrating. Search catalogs that are based on keywords can be temperamental or simply not accurate enough. This is where image search comes in handy. 
 
 [Neiman Marcus](https://www.neimanmarcus.com/en-gb/c/nm-marketing-events-snap-find-shop-cat52160740) allows users to take pictures of items they see and search then and there. Using AI technology Neiman Marcus is able to use the image to find the same or a similar item. Much better than the thousands of search results that might come up for that ‘blue midi dress’ if visual search was not involved.
+
+##Final Thoughts
+
+The impact of AI on the fashion industry is huge and gives retailers that much needed competitive edge. It cuts down errors, helps predict what customers will buy and keep, and has positive effects on revenue and profit. And, how fashion retailers apply this AI will be the future differentiator between fashion retail winners and losers. 
+
+With 75% of retailers looking to invest in external technology partnerships to enhance their [AI capabilities](https://www.retaileconomics.co.uk/retail-insights/thought-leadership-reports/disruption-2.0-here-we-go-again-ai-in-consumer-and-retail), can you afford being left behind? [Book a free demo](https://dressipi.com/company/demo/) and find out how you can deliver outstanding customer experiences.
+
+<p style="text-align:center"><a href="/company/demo/" class="button button-primary">BOOK A DEMO</a></p>
