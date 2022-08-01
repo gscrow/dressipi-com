@@ -12,7 +12,7 @@ This makes for an exciting time for retail, but there are significant challenges
 
 ## Five Things Retailers Should Know About Personalization
 
-Based on [our work at Dressipi](https://dressipi.com/blog/podcast-making-it-personal/), and our many conversations with retailers across the spectrum, we share five key thoughts on how to approach your ecommerce personalization strategy to get the most value for both your customers and your business.
+Based on [our work at Dressipi](https://dressipi.com/downloads/success-story-river-island/), and our many conversations with retailers across the spectrum, we share five key thoughts on how to approach your ecommerce personalization strategy to get the most value for both your customers and your business.
 
 ### 1) Choose the right personalization for you
 
