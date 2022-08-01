@@ -5,9 +5,9 @@ image: "/uploads/five-things-blog-banner.jpg"
 author: Donna North
 ---
 
-### Personalization in retail is a powerful tool for selling and communicating to consumers. It offers the perfect scenario for both shopper and seller: a less frustrating and more successful shopping journey for the customer; and a way to increase conversion rates and loyalty for the retailer. 
+### Personalization in retail is a powerful tool for selling and communicating to consumers. But what does it actually entail?
 
-It also collects data at a finer granularity than ever before, giving retailers valuable insights to better serve customer needs and to improve product and operational efficiencies.
+Good personalization offers the perfect scenario for both shopper and seller: a less frustrating and more successful shopping journey for the customer; and a way to increase conversion rates and loyalty for the retailer. It also collects data at a finer granularity than ever before, giving retailers valuable insights to better serve customer needs and to improve product and operational efficiencies.
 
 This makes for an exciting time for retail, but there are significant challenges associated with personalization. Not least, deciding how to get started, navigating the numerous solutions on offer and learning how to build genuinely trusted connections with customers; after all, [customers expect personalization](https://www.mckinsey.com/business-functions/growth-marketing-and-sales/our-insights/the-value-of-getting-personalization-right-or-wrong-is-multiplying) nowadays.
 
