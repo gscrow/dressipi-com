@@ -57,3 +57,11 @@ As retailers up their digital offering, Dressipi’s ability to support their cl
 **If you’d like to talk to us about how we can help your emails be more relevant to every customer then please get in touch.**
 
 <p style="text-align:center"><a href="/company/demo/" class="button button-primary">Contact Us</a></p>
+
+<hr>
+
+### You might also be interested in this article...
+## Best examples of AI in fashion retail
+Check out the best examples and applications of AI in fashion. Get inspired by how AI is transforming retail shopping experiences.
+
+<p style="text-align: left"><a href="/blog/ai-fashion-retail-examples/" class="button button-primary">READ THE FULL STORY</a></p>

@@ -37,3 +37,11 @@ Technology allows us in the fashion industry to scale our creativity and output.
 Technology when used well is there to enhance the creativity of the retail industry. It’s not about replacing it or simply reproducing it. It acts like a wonderful springboard. In building our fashion-specific AI our fashion domain expertise serves as a springboard. Fashion and technology teams are solving the same problems; working towards providing the same solutions so that retailers can better serve their customers. Although we’re coming at it from different angles, for both it’s about patterns, pattern building, pattern recognition, and staying curious. I was happy to be curious about florals, but you still won’t convince me to watch a thriller.
 
 <p style="text-align:center"><a href="/company/demo/" class="button button-primary">FREE CONSULTATION</a></p>
+
+<hr>
+
+### You might also be interested in this article...
+## Best examples of AI in fashion retail
+Check out the best examples and applications of AI in fashion. Get inspired by how AI is transforming retail shopping experiences.
+
+<p style="text-align: left"><a href="/blog/ai-fashion-retail-examples/" class="button button-primary">READ THE FULL STORY</a></p>

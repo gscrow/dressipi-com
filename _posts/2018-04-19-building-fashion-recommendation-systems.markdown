@@ -97,3 +97,11 @@ Customers are increasingly demanding and expecting highly personalized and curat
 In an environment where customer is king, retailers are prioritising creating delightful and efficient [personalized shopping experiences](https://dressipi.com/solutions/product-experience/) both online and in store. This piece highlights that highly intelligent and effective fashion recommendation systems will be at the heart of this. Although complex to create (due to the multiple challenges posed by both the retailer and the customer), when integrated fully it becomes a essential tool, translating into multiple business benefits and an improved customer experience.
 
 > Banner photo by rawpixel.com on Unsplash
+
+<hr>
+
+### You might also be interested in this article...
+## Best examples of AI in fashion retail
+Check out the best examples and applications of AI in fashion. Get inspired by how AI is transforming retail shopping experiences.
+
+<p style="text-align: left"><a href="/blog/ai-fashion-retail-examples/" class="button button-primary">READ THE FULL STORY</a></p>

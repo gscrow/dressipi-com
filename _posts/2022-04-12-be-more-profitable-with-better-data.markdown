@@ -132,3 +132,11 @@ Our AB tests have proven this, consistently outperforming all other providers. D
 In short, there is plenty a retailer can be doing today to protect their margins for the coming 12-24 months but it is essential they get started right away. This is also profit protection that can be delivered relatively easily without having to compromise on quality or ethical standards.
 
 <p style="text-align:center"><a href="/company/demo/" class="button button-primary">CONTACT US</a></p>
+
+<hr>
+
+### You might also be interested in this article...
+## Best examples of AI in fashion retail
+Check out the best examples and applications of AI in fashion. Get inspired by how AI is transforming retail shopping experiences.
+
+<p style="text-align: left"><a href="/blog/ai-fashion-retail-examples/" class="button button-primary">READ THE FULL STORY</a></p>

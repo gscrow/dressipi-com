@@ -69,3 +69,11 @@ At Dressipi we have always been passionate about in-store experiences and feel t
 Retailers need to make sure the technology they roll out is genuinely useful and speaks to the customer. Given my experience, I believe JD Sports has so far achieved this and I’m excited by what they have planned for the future.
 
 <p style="text-align:center"><img style="margin-left: 0px" alt="Image of the shoe wall at the JD Sports store" src="/uploads/JD%20Sports%20shoes.jpg"/></p>
+
+<hr>
+
+### You might also be interested in this article...
+## Best examples of AI in fashion retail
+Check out the best examples and applications of AI in fashion. Get inspired by how AI is transforming retail shopping experiences.
+
+<p style="text-align: left"><a href="/blog/ai-fashion-retail-examples/" class="button button-primary">READ THE FULL STORY</a></p>
