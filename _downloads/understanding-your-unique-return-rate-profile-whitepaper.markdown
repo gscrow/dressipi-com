@@ -13,7 +13,9 @@ tags:
 - personalization
 position: 2
 resource: Guides
-image: "/uploads/returns_small.jpg"
+image: "/uploads/returns-guide-banner.jpg"
+testimonial:
+  action: Download
 download:
   title: Download Free Whitepaper
   button: Download >
@@ -22,8 +24,6 @@ download:
     products and services
   button_class: whitepaper
   formId: 05ed65d0-4341-421f-9483-8654a1d96ba4
-testimonial:
-  action: Download
 position-list: 2
 layout: download
 ---
