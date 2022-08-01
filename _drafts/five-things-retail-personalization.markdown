@@ -10,7 +10,7 @@ It also collects data at a finer granularity than ever before, giving retailers 
 
 This makes for an exciting time for retail, but there are significant challenges associated with personalization. Not least, deciding how to get started, navigating the numerous solutions on offer and learning how to build genuinely trusted connections with customers; after all, [customers expect personalization](https://www.mckinsey.com/business-functions/growth-marketing-and-sales/our-insights/the-value-of-getting-personalization-right-or-wrong-is-multiplying) nowadays.
 
-## Five Things Retailers Should Know About Personalization
+## What you need to know about AI driven personalization in retail
 
 Based on [our work at Dressipi](https://dressipi.com/downloads/success-story-river-island/), and our many conversations with retailers across the spectrum, we share five key thoughts on how to approach your ecommerce personalization strategy to get the most value for both your customers and your business.
 
