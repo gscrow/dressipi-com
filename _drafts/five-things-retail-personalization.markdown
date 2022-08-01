@@ -33,7 +33,7 @@ For example ‘Deep Learning’, ‘AI’, ‘Machine Learning’, ‘Neural Net
 * <p>Does the team have a good pedigree in the technology and the solution they are selling?</p>
 * <p>By what order of magnitude are the results better compared to a non-personalized approach or other competitors? (If the results are not validated or look unbelievably high, then the most likely explanation is just simply that they are not believable).</p>
 
-Here at Dressipi, we have built our entire business on Machine Learning & AI - in combination with our [apparel industry expertise](https://dressipi.com/blog/fashion-is-different/) - from day one and believe it will have an enormous impact on retail over the coming years. But for us, the name of the approach or the inner workings of the technology are distracting and unnecessary details. What really matters are the results and the business impact in cold hard numbers.
+Here at Dressipi, we have built our entire business on Machine Learning & AI - in combination with our [apparel industry expertise](https://dressipi.com/blog/why-is-fashion-different/) - from day one and believe it will have an enormous impact on retail over the coming years. But for us, the name of the approach or the inner workings of the technology are distracting and unnecessary details. What really matters are the results and the business impact in cold hard numbers.
 
 ### 3) Talking of hard numbers — test, test, test
 
