@@ -16,7 +16,7 @@ Based on [our work at Dressipi](https://dressipi.com/downloads/success-story-riv
 
 ### 1) Choose the right personalization for you
 
-Retail personalization means different things to different people. Anything from simply recognising a customer and greeting them by their name, to sending emails on a cohort basis, all the way to creating tailored experiences to each individual customer across the entire shopping journey. Therefore sharing thinking and getting everyone aligned is essential to choosing the right technology path, joining up pockets of data and managing expectations around opportunity and outcome. Although the end game for most retailers must be serving up one-to-one recommendations and communications to each customer, each organization will have their own way of getting there.
+Retail personalization means different things to different people. Anything from simply recognizing a customer and greeting them by their name, to sending emails on a cohort basis, all the way to creating tailored experiences to each individual customer across the entire shopping journey. Therefore sharing thinking and getting everyone aligned is essential to choosing the right technology path, joining up pockets of data and managing expectations around opportunity and outcome. Although the end game for most retailers must be serving up one-to-one recommendations and communications to each customer, each organization will have their own way of getting there.
 
 <p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 700px;" alt="Personalized product recommendations on category pages" src="/uploads/examples_of_ai-blog-1a.jpg"/></p>
 
@@ -49,13 +49,13 @@ Once you have real business results and have made your selection then plan to te
 
 At the very core of personalization is trust. The customer is giving access to personal data and preferences (that couldn’t be captured in any other way) in return for a more delightful and effective shopping journey.
 
-In our experience, the customer has an inherent understanding of the value of the trade and can quickly recognise the difference between genuine assistance versus a misuse of customer data to push irrelevant products or encourage behavior that is beneficial to the retailer but not to the shopper. 
+In our experience, the customer has an inherent understanding of the value of the trade and can quickly recognize the difference between genuine assistance versus a misuse of customer data to push irrelevant products or encourage behavior that is beneficial to the retailer but not to the shopper. 
 
 Personalization, done successfully, is a golden opportunity —it has the ability to build longer-lasting and genuine connections with customers and deliver game changing profitability. Any organization that misses that could pay heavily both financially and reputationally.
 
 ### 5) Position for the future
 
-Amazon has the full toolkit — customer trust, loyalty, same day fulfillment and cheap capital. It also has an ever growing dataset and insights which it uses brilliantly to champion the customer via personalization and optimization of merchandising and operations. While Amazon is a short term friend, retailers should also recognise it as a near term competitor focussed on taking away customers and margins. 
+Amazon has the full toolkit — customer trust, loyalty, same day fulfillment and cheap capital. It also has an ever growing dataset and insights which it uses brilliantly to champion the customer via personalization and optimization of merchandising and operations. While Amazon is a short term friend, retailers should also recognize it as a near term competitor focused on taking away customers and margins. 
 
 The smarter retailers have understood that their competitor set is changing and that collaboration could be one of the key solutions to survival. By forming alliances that consolidate data and give access to deeper insights, these retailers are positioning to offer hyper personalized experiences that touch the customer when in store, online and when using their products at home - as well as changing the way they optimize product inventory, communications and operations.
 
