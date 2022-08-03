@@ -1,7 +1,7 @@
 ---
 title: Five Things You Should Know About Retail Personalization
 date: 2022-07-28 11:04:00 Z
-image: "/uploads/five-things-blog-banner.jpg"
+image: "/uploads/five-things-blog-banner1.jpg"
 author: Donna North
 ---
 
