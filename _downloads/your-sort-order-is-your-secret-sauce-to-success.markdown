@@ -1,7 +1,5 @@
 ---
-title: |-
-  Your Sort Order is Your Secret Sauce
-  to Success
+title: Your Sort Order is Your Secret to Success
 date: 2019-09-25 13:08:00 Z
 position: 1
 resource: Guides
@@ -19,7 +17,7 @@ download:
 position-list: 1
 ---
 
-# Your Sort Order is Your Secret Sauce to Success
+# Your Sort Order is Your Secret to Success
 
 ## Why redefining the discovery process is fundamental to significantly grow revenues and margins.
 
