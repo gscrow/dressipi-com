@@ -42,7 +42,7 @@ Sportswear clothes are returned at rates of around 11.3%, much lower than the av
 <p style="text-align:center"><img style="margin-left: 0px; width: 560px;" alt="Graphic of lower return rates for black leggings versus higher rates for white leggings" src="/uploads/SportswearTips3.png"/></p>
 <br>
 
-* Men return much fewer items than women. This is a huge benefit as for all womenswear sales, 2.96% come from sportswear whereas for men this shoots up to 6.70%. 
+* <p>Men return much fewer items than women. This is a huge benefit as for all womenswear sales, 2.96% come from sportswear whereas for men this shoots up to 6.70%.</p>  
  
 **TIP 1** - You need to understand not only which products get returned the most and why but also which attributes are returned the most. This will allow you to recommend the right product to the right customer. 
 
