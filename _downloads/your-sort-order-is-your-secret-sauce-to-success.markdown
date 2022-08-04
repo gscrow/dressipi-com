@@ -3,7 +3,7 @@ title: Your Sort Order is Your Secret to Success
 date: 2019-09-25 13:08:00 Z
 position: 1
 resource: Guides
-image: "/uploads/Sort_Order_Whitepaper_Small.jpg"
+image: "/uploads/sort-order-banner.jpg"
 testimonial:
   action: Download
 download:
