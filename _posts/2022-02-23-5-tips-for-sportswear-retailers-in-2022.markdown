@@ -35,8 +35,8 @@ The global sportswear market was valued at $351m in 2017, and is expected to rea
 
 Sportswear clothes are returned at rates of around 11.3%, much lower than the average clothing return rate of 14.3%. 
 
-* For sportswear, neutral tones including black, gray and brown are returned the least for all sizes, and white was the most frequently returned color for all sizes. 
-* Women ordering an XL returned clothing the most frequently, with white items being returned 31.83% of the time compared to L white items 17.03% of the time.
+* <p>For sportswear, neutral tones including black, gray and brown are returned the least for all sizes, and white was the most frequently returned color for all sizes.</p> 
+* <p>Women ordering an XL returned clothing the most frequently, with white items being returned 31.83% of the time compared to L white items 17.03% of the time.</p>
 
 <br>
 <p style="text-align:center"><img style="margin-left: 0px; width: 560px;" alt="Graphic of lower return rates for black leggings versus higher rates for white leggings" src="/uploads/SportswearTips3.png"/></p>
