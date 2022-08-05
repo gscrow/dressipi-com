@@ -31,6 +31,6 @@ layout: download
 
 # Understanding Your Unique Return Rate Profile
 
-## Learn how to leverage the data you hold to reduce return rates and improve operating margin.
+## Learn how to leverage the data you hold to reduce return rates and improve operating margin
 
 This paper discusses the importance of understanding the key drivers behind returns, and how to use the data you hold to tackle the issue.
