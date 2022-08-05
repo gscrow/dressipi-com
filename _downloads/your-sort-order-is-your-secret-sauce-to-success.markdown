@@ -10,8 +10,7 @@ download:
   title: Download Free Whitepaper
   button: Download >
   file: "/uploads/Dressipi-Whitepaper-Your-Sort-Order-Is-Your-Secret-Weapon-To-Success-5e4ec9.pdf"
-  checkbox:
-    Yes, I would like to receive marketing communications regarding Dressipi
+  checkbox: Yes, I would like to receive marketing communications regarding Dressipi
     products and services
   button_class: whitepaper
   formId: a230d95b-4052-42d4-a7a8-f1e9b85e20a7
