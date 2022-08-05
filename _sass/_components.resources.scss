@@ -17,12 +17,16 @@
     }
 
     h2 {
+      font-family: "Rubik", sans-serif;
       font-size: ms(1);
-      line-height: rhythm(3.5);
+      font-weight: 500;
+      line-height: rhythm(3);
       margin-bottom: rhythm(2);
     }
 
     p {
+      line-height: rhythm(3);
+
       &:last-child {
         margin-bottom: 0;
       }
