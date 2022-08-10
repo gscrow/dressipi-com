@@ -13,7 +13,7 @@ header:
   color: "#000"
   class: index-banner
   page-title: 
-description: The global leader in Fashion AI. Dressipi delivers breakthrough, fashion-specific
+description: The Fashion AI experts. Dressipi delivers breakthrough, fashion-specific
   shopping experiences across every part of the shopper journey.
 has-contact-section: false
 sections:
