@@ -2,10 +2,9 @@
 title: 'Dressipi: The Fashion AI Experts'
 position: 19
 header:
-  title: Deliver Breakthrough, Fashion Specific, Shopping Experiences
-  body: We are the fashion-AI experts, helping fashion retailers deliver the relevant
-    products & inspiration their visitors deserve, across every part of the shopper
-    journey
+  title: Finally, personalized ecommerce that lives up to the hype.
+  body: Show each visitor the items they are most likely to buy - and keep. Say hello
+    to higher profits.
   button:
     copy: BOOK A DEMO >
     url: "/platform"
@@ -18,8 +17,10 @@ description: The global leader in Fashion AI. Dressipi delivers breakthrough, fa
   shopping experiences across every part of the shopper journey.
 has-contact-section: false
 sections:
-- title: Fashion Expertise + More Relevance = Better Buying
-  subtitle: Every page view, every recommendation, every interaction made better
+- title: Personalization designed for fashion retailers
+  subtitle: Product attributes automatically tagged with 3x more detail. Data crunched
+    for you. Fashion expertise overlaid. Dressipi does the heavy lifting so you can
+    make a step-change in product discovery and revenue growth.
   handle: erb
   is-centered: true
   roi-section: true
