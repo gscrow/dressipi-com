@@ -41,7 +41,7 @@ sections:
     hres-image: "/uploads/Tagging_Increase_Conversion@2x.png"
     action:
       copy: Learn More >
-      url: "/blog/fashion-retails-most-important-asset-product-data/"
+      url: "/downloads/product-attributes-guide/"
   - title: Boost Product Discovery
     class: solution-products-relevancy
     mini-title: PERSONALIZED RECOMMENDATIONS & OUTFITS
@@ -51,7 +51,7 @@ sections:
     hres-image: "/uploads/Tagging_Boost_Product_Discovery@2x.png"
     action:
       copy: Learn More >
-      url: "/blog/fashion-retails-most-important-asset-product-data/"
+      url: "/downloads/product-attributes-guide/"
   - title: Reduce Size Fragmentation
     color: lighter
     mini-title: SUPPLY CHAIN OPTIMIZATION
@@ -62,7 +62,7 @@ sections:
     hres-image: "/uploads/Tagging_Reduce_Size_Fragmentation@2x.png"
     action:
       copy: Learn More >
-      url: "/blog/fashion-retails-most-important-asset-product-data/"
+      url: "/downloads/product-attributes-guide/"
 - title: Increase Revenue and Efficiency
   paragraph-narrow: true
   subtitle: Create instant time to value by enabling your team to work on revenue
