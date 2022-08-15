@@ -1,5 +1,5 @@
 ---
-title: 'Dressipi: The Fashion AI Experts'
+title: 'Dressipi: Personalized Ecommerce'
 position: 19
 header:
   title: Finally, personalized ecommerce that lives up to the hype.
@@ -13,14 +13,14 @@ header:
   color: "#000"
   class: index-banner
   page-title: 
-description: The Fashion AI experts. Dressipi delivers breakthrough, fashion-specific
-  shopping experiences across every part of the shopper journey.
+description: Dressipi delivers personalization for fashion retailers to help show
+  their visitors the products they’re most likely to buy - and keep.
 has-contact-section: false
 sections:
 - title: Personalization designed for fashion retailers
-  subtitle: Product attributes automatically tagged with 3x more detail. Data crunched
-    for you. Fashion expertise overlaid. Dressipi does the heavy lifting so you can
-    make a step-change in product discovery and revenue growth.
+  subtitle: Products automatically tagged with 3x more detail. Data crunched for you.
+    Fashion expertise overlaid. Dressipi does the heavy lifting so you can make a
+    step-change in product discovery and revenue growth.
   handle: erb
   is-centered: true
   roi-section: true
