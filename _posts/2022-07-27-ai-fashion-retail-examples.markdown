@@ -25,7 +25,7 @@ Research shows the size of [AI in the retail market](https://www.gminsights.com/
 
 Fashion retailers at the forefront of innovation have already deployed AI across different areas of their business. Here are some of the current applications of AI in the fashion industry:
 
-1. 1) Improved customer personalization
+1. 1) **Improved customer personalization**
 
 1. Retailers are still, showing the same products in the same order to all customers regardless of who they are, how frequently they shop or what page they land on.
 
