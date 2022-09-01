@@ -7,7 +7,7 @@ header:
     to higher profits.
   button:
     copy: BOOK A DEMO >
-    url: "/platform"
+    url: company/demo/
     style: primary
   hero-image: "/uploads/banner-home.jpeg"
   color: "#000"
