@@ -1,5 +1,5 @@
 ---
-title: Dressipi Collaborates with RecSys
+title: Dressipi Collaborates with ACM Recommender Systems (RecSys)
 date: 2022-03-10 11:51:00 Z
 categories:
 - data
@@ -17,15 +17,15 @@ description: "As recognised leaders in fashion AI, Dressipi have been chosen as 
   industry partner for the prestigious RecSys challenge. \n"
 ---
 
-### [RecSys](https://recsys.acm.org/recsys22/) is the premier international forum for the presentation of new research results, systems and techniques in the field of recommender systems. 
+### [RecSys](https://recsys.acm.org/recsys22/) is the premier international forum for the presentation of new research results, systems and techniques in the field of product recommendation systems. 
 
-Annual challenges are run and in the last few years, leaders in their fields Twitter (2020/21), Trivago (2019), and Spotify (2018) collaborated with RecSys for the challenges specific to their domains. 
+Annual challenges are run by RecSys, and in the last few years, leaders in their fields Twitter (2020/21), Trivago (2019), and Spotify (2018) collaborated with RecSys for the challenges specific to their domains. 
 
-## Dressipi: The Fashion AI Experts
+## Dressipi: The Experts in AI-Powered Fashion Retail Personalization
 
-Our focus is to provide the world’s best apparel recommendations and predictions. We do this by taking a domain specific approach across the data we collect and create, how we structure that data and the models we build. Everything we do is optimized to handle the nuances of fashion.
+Our focus is to provide the world’s best personalized recommendations and predictions. We do this by taking a domain specific approach across the data we collect and create, how we structure that data and the models we build. Everything we do is optimized to handle the nuances of fashion.
 
-The fashion domain is an interesting one for recommender systems and also relatively new so this year’s RecSys challenge focuses on fashion recommendations. As recognised leaders in fashion AI and the amazing results we get, Dressipi have been chosen as the industry partner for the prestigious challenge. 
+The fashion domain is an interesting one for recommender systems and also relatively new so this year’s RecSys challenge focuses on fashion recommendations. As recognised leaders in fashion AI and the amazing results we get with our fashion recommendation systems (and other solutions), Dressipi have been chosen as the industry partner for the prestigious challenge. 
 
 Participants will be responding to the question **‘When given user sessions, purchase data and content data about items, can you accurately predict which fashion item will be bought at the end of the session?’.**
 
