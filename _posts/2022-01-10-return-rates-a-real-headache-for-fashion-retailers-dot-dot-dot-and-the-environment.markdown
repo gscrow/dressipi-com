@@ -1,5 +1,5 @@
 ---
-title: 'Return Rates: A Worry For Retailers & The Environment'
+title: 'Fashion Returns: A Headache for Retailers and the Environment'
 date: 2022-01-10 22:13:00 Z
 categories:
 - data
@@ -14,15 +14,15 @@ description: The last 2 years stirred huge uncertainty for fashion retailers but
 download: Understanding Your Unique Return Rate Profile
 ---
 
-### After 2 years of lockdowns and disruptions, UK fashion retail is beginning to steady. We expect the size of the UK fashion market in 2022 to be just about back to 2019 levels but retailers need to account for a big return rate hit looming on the horizon. 
+### After 2 years of lockdowns and disruptions, UK fashion retail is beginning to steady. We expect the size of the UK fashion market in 2022 to be just about back to 2019 levels but retailers need to account for a big hit to their apparel return rates looming on the horizon. 
 
-Along with the massive shift to online retailing, average return rates from Aug - Oct 2021 are up +1% on 2019 rates. Together that means that there were 90m more returns in 2021 compared to 2019 and that number is set to reach 121m in 2022. The costs of processing these returns alone will cost the industry £1bn (up by ~£420m since 2019). This inefficiency will negatively impact EBIT margins by 1%.
+Along with the massive shift to online retailing, average return rates from Aug - Oct 2021 are up +1% on 2019 rates. Together that means that there were 90m more fashion returns in 2021 compared to 2019 and that number is set to reach 121m in 2022. The costs of processing these returns alone will cost the industry £1bn (up by ~£420m since 2019). This inefficiency will negatively impact EBIT margins by 1%.
 
-An additional 121m returned items isn’t just going to hit margins, there is a substantial environmental impact too. According to [Optoro](https://www.optoro.com/)  these additional returns will be responsible for an additional 400k metric tons of CO2 (equivalent to 4,574 double-decker buses of waste and 1.6m hours worth of flight emissions!) as well as some additional waste in landfill for those products that cannot be sold on.
+An additional 121m products returned isn’t just going to hit margins, there is also a substantial impact in terms of fashion supply chain sustainability. According to [Optoro](https://www.optoro.com/) these additional returns will be responsible for an additional 400k metric tons of CO2 (equivalent to 4,574 double-decker buses of waste and 1.6m hours worth of flight emissions!) as well as some additional waste in landfill for those products that cannot be sold on.
 
 ## Fashion Retail Over the Last 12 Months
 
-Last year (due to store closures) we saw a big overall increase in online shopping (50%) but the mix of products shifted to reflect a more casual wardrobe. This change in product mix meant that most retailers had a real cash bonus as return rates dropped by 21% (8%pts) across the board. You can read more about this in our blog last year [here](https://dressipi.com/blog/reduced-return-rates-a-bonus-for-fashion-retailers/).
+Last year (due to store closures) we saw a big overall increase in fashion ecommerce (50%) but the mix of products shifted to reflect a more casual wardrobe. This change in product mix meant that most retailers had a real cash bonus as return rates dropped by 21% (8%pts) across the board. You can read more about this in our blog last year [here](https://dressipi.com/blog/reduced-return-rates-a-bonus-for-fashion-retailers/).
 
 Now that the industry is steadying (with stores mostly open), the picture is different. 
 
@@ -34,11 +34,11 @@ The latest quarterly results across the industry show the market size is pretty 
 <p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Size of UK fashion industry between 2019 and 2021" src="/uploads/Returns2022_1.JPG"/></p>
 <br>
 
-## 25-30% Permanent Shift to Online 
+## 25-30% Permanent Shift to Online Purchases
 
-The pandemic has also accelerated the shift to online. We estimate there has been a permanent shift of 25-30% to ecommerce. Ecommerce now represents 50-60% of revenue for traditional B&M retailers. This is as we predicted back in [2021](https://dressipi.com/blog/reduced-return-rates-a-bonus-for-fashion-retailers/).
+The pandemic has also accelerated the [shift to online](https://dressipi.com/blog/the-rise-and-rise-of-online/). We estimate there has been a permanent shift of 25-30% to ecommerce. Ecommerce now represents 50-60% of revenue for traditional B&M retailers. This is as we predicted back in [2021](https://dressipi.com/blog/reduced-return-rates-a-bonus-for-fashion-retailers/).
 
-The average growth of the online channel for Bricks and Mortar retailers in the last 6 months vs 2020 is 24.7% (up 95% on 2019). Similarly, average growth rates for the online pure play retailers is 23%.
+The average growth of the online channel for Bricks and Mortar retailers in the last 6 months vs 2020 is 24.7% (up 95% compared to 2019). Similarly, average growth rates for the online pure play retailers is 23%.
 
 <br>
 <p style="text-align:center"><img style="margin-left: 0px; width: 800px;" alt="Brick and mortar online channel versus online pure play growth rates, and online channel as a percentage of total fashion channel mix" src="/uploads/Returns2022_2.JPG"/></p>
@@ -79,7 +79,7 @@ Rather than rely on reason codes (that are less accurate), we use a data-driven 
 * When style is the issue (when the same customer buys multiple options of the same category within the same order, having removed multiple size orders)
 * When it is a single size and single category product
 
-Typically the % of returns breaks down as follows:
+Typically the % of online apparel return rates breaks down as follows:
 
 <br>
 <p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Reasons for returns in 2021" src="/uploads/Returns2022_6.JPG"/></p>
@@ -115,7 +115,7 @@ So all of this means that return rates for the period from Aug - Oct 2021 vs the
 <p style="text-align:center"><img style="margin-left: 0px; width: 500px;" alt="Average return rate across all departments between 2019 and 2022" src="/uploads/Returns2022_10.JPG"/></p>
 <br>
 
-## What This Means For Margins
+## What This Means For Retail Profit Margins
 
 Obviously, this shift to online retailing and return rates increase plays out very differently depending on whether it is an online pureplay or bricks and mortar retailer. 
 
@@ -127,21 +127,21 @@ Let’s assume 2 fictional retailers, both with gross revenues of £500m in 2019
 
 **Online pureplay retailers** are having an easier time of it, with average growth rates over 20% and reduced return rates in 2020 and 2021, surplus cash has been considerable (and at least a decent buffer against the recent increased supply chain costs). We predict 2022 return rates to be inline with or slightly higher than 2019 and so although the online retailers will have additional growth, we expect their overall EBIT margins to be negatively impacted by about 1% (not including impacts from supply chains).
 
-**For B&M retailers**, it is a different story. Although the online channel has doubled since 2019, overall revenues have declined. So, even with the decrease in return rates that gave the online retailers a boost to their contribution margin, it doesn’t make up for the loss in retail sales. As 2022 reverts to 2019 levels but with a higher online percentage and increased return rates, we expect the traditional players to see their EBIT margins negatively impacted by 8% or an additional cost of £15m. Again, this does not include the increased costs of supply chains.  
+**For B&M retailers**, it is a different story. Although the online channel has doubled since 2019, overall revenues have declined. So, even with the decrease in return rates that increased ecommerce profit margins, it doesn’t make up for the loss in retail sales. As 2022 reverts to 2019 levels but with a higher online percentage and increased return rates, we expect the traditional players to see their EBIT margins negatively impacted by 8% or an additional cost of £15m. Again, this does not include the increased costs of supply chains.  
 
 ## There Are 2 Other Big Shifts That Have Taken Hold Over The Last 2 Years
 
 ### 1) Sustainability
 
-As one of the biggest offenders when it comes to sustainability, fashion has a long way to go to improve its sustainability credentials. Whilst the consumer does yet not always vote with their wallet on this one, sentiments are definitely changing.  Most retail bosses understand that even if their consumer is not completely there, most governments are. There is now a necessity to ensure their businesses are more sustainable (2nd biggest opportunity and challenge as stated in the McKinsey’s latest “State of Fashion report 2022”).
+As one of the biggest offenders when it comes to sustainability, fashion has a long way to go to improve its sustainability credentials. Whilst the consumer does yet not always vote with their wallet on this one, [sentiments are definitely changing](https://dressipi.com/blog/a-rise-in-sustainable-clothing-choices/).  Most retail bosses understand that even if their consumer is not completely there, most governments are. There is now a necessity to invest in sustainable fashion technology (2nd biggest opportunity and challenge as stated in the McKinsey’s latest “State of Fashion report 2022”).
 
 <br>
 <p style="text-align:center"><img style="margin-left: 0px; width: 400px;" alt="Fashion's biggest opportunities for growth by Business of Fashion" src="/uploads/Returns2022_BoF.png"/></p>
 <br>
 
-But this is not just about better materials, there is so much every fashion retailer can do very quickly TODAY to lessen their impact on the environment. 
+But this is not just about better materials, there is so much every fashion retailer can do very quickly TODAY to play their part in improving sustainability in the fashion industry. 
 
-Returns are just one example. Online returns are typically 3x higher than instore returns. Online returns typically take longer and depending on seasons and styles can be tricky to resell. According to [Optara](https://info.optoro.com/hubfs/The%20Optoro%202020%20Impact%20Report.pdf) online returns are responsible for 14% more waste. They calculate that every 100m returned items results in approximately 100m lbs of waste in landfill and 300k metrics tons of CO2 emitted. 
+Returns are just one example. Ecommerce returns are typically 3x higher than in store returns. Online returns typically take longer and depending on seasons and styles can be tricky to resell. According to Optoro's report, online returns are responsible for 14% more waste: they calculate that every 100m returned items results in approximately 100m lbs of waste in landfill and 300k metric tons of CO2 emitted. 
 
 Returns are a natural cost of doing business online but that minimum natural cost is at least 20% lower than the current 28% return rate. 
 
@@ -149,7 +149,7 @@ Returns are a natural cost of doing business online but that minimum natural cos
 
 On the one hand, the rise and rise of Shein proves that the consumer isn’t really there yet from a sustainability point of view but on the flipside, it more than proves the power of data driven retailing. 
 
-Now that the majority of most fashion retailers revenue is online, all those retailers have the data they need to implement much better retail practices to ensure that as retailers, the right products in the right quantities and right sizes are produced and that customers are buying the right items in the first place. 
+Now that the majority of most fashion retailers revenue is online, all those retailers have the data they need to implement much better retail practices to ensure that as retailers, the [right products in the right quantities](https://dressipi.com/solutions/product-forecasting/) and right sizes are produced and that customers are buying the right items in the first place. 
 
 Harnessing the power of this data can significantly improve the customer experience, reduce returns to a much lower level and reduce the waste every fashion retailer produces. 
 
