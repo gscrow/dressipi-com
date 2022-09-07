@@ -1,5 +1,5 @@
 ---
-title: Why Dressipi is the Only Sustainable Choice
+title: Why Dressipi is the Right Choice of Sustainable Fashion Technology
 date: 2022-04-27 15:00:00 Z
 categories:
 - retail
@@ -18,19 +18,19 @@ description: 'The future depends on retailers changing the entire way we consume
   by both buying, and selling, better. Check out what Dressipi can do to help. '
 ---
 
-### The fashion industry accounts for 10% of global greenhouse gas emissions. 
+### As the source of 10% of global greenhouse gas emissions, it must be asked: how can the fashion industry be more sustainable? 
 
 This is more than all international flights and maritime shipping combined ([Europarl](https://www.europarl.europa.eu/news/en/headlines/society/20201208STO93327/the-impact-of-textile-production-and-waste-on-the-environment-infographic)). Retailers must urgently work to reduce this staggering figure. They need to create a drive for fundamental change in one of the least sustainable industries in the world. 
 
-Many retailers have started to address the huge impact they have on the planet through various supply chain initiatives. Simultaneously, customers are changing their behavior with preferences for sustainably produced or second-hand garments.
+Many fashion retailers have started to address the huge impact they have on the planet through various supply chain initiatives. Simultaneously, customers are changing their behavior with preferences for sustainably produced or second-hand garments.
 
 However, change is not happening fast enough. The future depends on retailers changing the entire way we consume fashion, by both buying and selling better. This can happen by driving both back-end efficiencies, and front-end experiences.
 
-This is where Dressipi can help. We enable fashion retailers to grow sustainably - through unique fashion data and prediction models. 
+At Dressipi, we are at the forefront of sustainable fashion innovation. This is because we know how AI can enable a sustainable future for fashion retailers - through unique fashion data and prediction models.
 
 ## Reduce Waste with AI-Driven Product Forecasting
 
-According to [Forbes](https://www.forbes.com/sites/aslaugmagnusdottir/2020/05/13/fashions-next-normal/?sh=ec3601578f38), overproduction in the US fashion industry runs at an incredible 30 – 40% each season. Solving this problem is fundamental to a sustainable fashion industry.
+According to [Forbes](https://www.forbes.com/sites/aslaugmagnusdottir/2020/05/13/fashions-next-normal/?sh=ec3601578f38), overproduction in the US fashion industry runs at an incredible 30 – 40% each season. Solving this problem is fundamental to sustainability in the fashion industry.
 
 Dressipi helps retailers optimize product assortments & size ratios on a garment specific level - with a 90% lower error margin. This facilitates a shift to a more demand-led (and hugely less wasteful!) business model.
 
@@ -46,7 +46,7 @@ The use of data-driven retailing models highlights when retailers are buying mar
 
 It is an impossible scenario to have zero waste: but with Dressipi, retailers can make a significant change. 
 
-## Sustainability Embedded Into APIs with Return Propensities 
+## Fashion Sustainability Embedded Into APIs with Return Propensities 
 
 In our most recent [returns analysis](https://dressipi.com/blog/return-rates-a-real-headache-for-fashion-retailers-dot-dot-dot-and-the-environment/), we discovered there will be an additional 121m returns in 2022 compared to 2019. According to [Optoro](https://www.optoro.com/), these returns will be responsible for an extra 400k metric tons of CO2 (equal to 1.6m hours worth of flight emissions!) as well as waste in landfill for those products that cannot be sold.
 
@@ -58,12 +58,20 @@ By building the return rate propensities into our algorithms we have been able t
 
 This minimizes the reverse logistics hassle and has a genuine ESG benefit due to fewer emissions and less waste.
 
-## Conclusion
+## Final Thoughts
 
-To genuinely affect real change in the fashion industry, you cannot only impact front or back-end operations. Retailers need a symbiotic approach, improving both back end efficiencies and front-end experiences. 
+To genuinely affect real change for fashion retail sustainability, you cannot only impact front or back-end operations. Sustainable fashion ecommerce requires a symbiotic approach, improving both back end efficiencies and front-end experiences. 
 
 Working with Dressipi, fashion retailers have a real potential to propel lasting change. We transform how retailers engage their customers through recommendations and personalized outfits. Data collected through these algorithms allows Dressipi to create more efficient supply chains.
 
 Get in touch if you'd like to get started in achieving your sustainability goals.
 
 <p style="text-align:center"><a href="/company/demo/" class="button button-primary">CONTACT US</a></p>
+
+<hr>
+
+### Want to learn more about how to make fashion sustainable? Then you might also be interested in this article...
+## A Rise in Sustainable Clothing Choices
+Some interesting findings from our data analysts.
+
+<p style="text-align: left"><a href="/blog/a-rise-in-sustainable-clothing-choices/" class="button button-primary">READ THE FULL STORY</a></p>
