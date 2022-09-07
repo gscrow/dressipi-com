@@ -54,7 +54,7 @@ sections:
       their activity, preferences and items they already own
     color: lighter
     mini-title: FOR LOYAL CUSTOMERS
-    image: "/uploads/section_profile.png"
+    image: "/uploads/section_profile@2x.png"
     hres-image: "/uploads/section_profile@2x.png"
     action:
       copy: Learn More >
