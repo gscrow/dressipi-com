@@ -151,25 +151,27 @@ On the one hand, the rise and rise of Shein proves that the consumer isn’t rea
 
 Now that the majority of most fashion retailers revenue is online, all those retailers have the data they need to implement much better retail practices to ensure that as retailers, the [right products in the right quantities](https://dressipi.com/solutions/product-forecasting/) and right sizes are produced and that customers are buying the right items in the first place. 
 
-Harnessing the power of this data can significantly improve the customer experience, reduce returns to a much lower level and reduce the waste every fashion retailer produces. 
+Harnessing the [power of this data](https://dressipi.com/blog/fashion-retails-most-important-asset-product-data/) can significantly improve the customer experience, increase profit margins, reduce their online clothing return rate to a much lower level *and* reduce the waste every fashion retailer produces. 
 
 ## What Can Fashion Retail Bosses Do About it
 
-**Make someone in the c-suite responsible for returns**: Whilst most fashion retailers understand the impact their returns experience can have on customer loyalty and their bottom line, it always amazes us that no one person in the business owns this metric. 
+**Make someone in the c-suite responsible for returns**: Whilst most fashion retailers understand the impact their returns experience can have on customer loyalty and their digital profit, it always amazes us that no one person in the business owns this metric. 
 
-**Take the time to analyze the data to state the problem (rather than trying to solve a problem you assume exists)**: Most retailers assume that confusing sizing is the core reason for returns (and, to be honest, so did we when we started!) but a deeper look at the data tells a very different story. We have had much better success reducing returns with our return rate propensity model feeding into the recommendations. Only showing customers items they are likely to keep, it turns out, is a quicker and easier way to reduce them. 
+**Take the time to analyze the data to state the problem (rather than trying to solve a problem you assume exists)**: Most retailers assume that confusing sizing is the core reason for returns (and, to be honest, so did we when we started!). But a deeper look at the data tells a very different story. 
 
-As a side note here, it kind of makes sense, 70-80% of any retailer’s revenue comes from their top 20-30% of customers and they typically know their size. Those heavier customers are also responsible for the bulk of the returns so is more likely to be other reasons than size. 
+We have had much better success reducing returns with our return rate propensity model feeding into the recommendations. Only [showing customers items they are likely to keep](https://dressipi.com/solutions/product-discovery/), it turns out, is a quicker and easier way to reduce them (and increase profitability). 
 
-**AI Artificial intelligence is going to become increasingly important in managing returns**: Both in terms of what a customer buys and how the whole logistics process works. There are plenty of companies that are there to help retailers minimise this issue. But, going back to the first point, retailers need to be ready with someone in the c-suite owning the metric, get to grips with technology and be ready to transform their returns processes.
+As a side note here, it kind of makes sense, 70-80% of any retailer’s revenue comes from their top 20-30% of customers and they typically know their size. Those heavier customers are also responsible for the bulk of the returns, so they are more likely to be other reasons than size. 
+
+**Artificial Intelligence (AI) is going to become increasingly important in managing returns**: Both in terms of what a customer buys and how the whole logistics process works. There are [plenty of companies](https://dressipi.com/blog/ai-fashion-retail-examples/) that are there to help retailers minimize this issue. But, going back to the first point, retailers need to be ready with someone in the c-suite owning the metric, get to grips with technology - such as ecommerce returns solutions - and be ready to transform their returns processes.
 
 **Educate the consumer**: Show your consumers that you care. Help them understand things they can do to make a difference: [ASOS](https://www.asos.com/responsible-fashion/packaging-and-delivery/6-ways-our-returns-are-more-responsible/) does a good job.
 
-# Prediction for 2022
+# Predictions for 2022
 
 1) **Mid market squeeze**: As inflationary pressures set in, luxury is likely to be more resilient whereas consumers who feel the squeeze will trade down to the value retailers
 
-2) **Online pureplays to see growth rates reduced to average 13% in 2022**: Growth in revenue will offset the margin squeeze that comes from increased return rates but will need to be accounted for. 
+2) **Online pure plays to see growth rates reduced to average 13% in 2022**: Growth in revenue will offset the margin squeeze that comes from increased return rates but will need to be accounted for. 
 
 3) **55-60% of B&M revenue will be from online channel**: It will be lower than the 70%+ we saw at periods of 2020 and 2021 but settle around the 55-60% level
 
@@ -180,5 +182,13 @@ As a side note here, it kind of makes sense, 70-80% of any retailer’s revenue 
 6) **Return rates will be 1% higher than 2019**: Depending on inflation, but even then expect it to be inline with 2019 (Sarah predicts 1% rise, Tash predicts 0% on 2019 and James predicts 0.5%-1% increase in return rates)
 
 7) **Category specific Shifts:** 
-* Dresses, Jeans & Sportwear will continue to grow as a % of mix (although smaller increases)
+* Dresses, Jeans & Sportswear will continue to grow as a % of mix (although smaller increases)
 * Big increases in Swimwear (high return rates) and other holiday categories
+
+<hr>
+
+### Learn how to get on top of your return rates with our guide...
+## Understanding Your Unique Return Rate Profile
+Learn how to leverage the data you hold to reduce return rates and improve operating margin.
+
+<p style="text-align: left"><a href="/downloads/understanding-your-unique-return-rate-profile-whitepaper/" class="button button-primary">DOWNLOAD</a></p>
