@@ -116,3 +116,11 @@ The impact of AI on the fashion industry is huge and gives retailers that much n
 With 75% of retailers looking to invest in external technology partnerships to enhance their [AI capabilities](https://www.retaileconomics.co.uk/retail-insights/thought-leadership-reports/disruption-2.0-here-we-go-again-ai-in-consumer-and-retail), can you afford being left behind? [Book a free demo](https://dressipi.com/company/demo/) and find out how you can deliver outstanding customer experiences.
 
 <p style="text-align:center"><a href="/company/demo/" class="button button-primary">BOOK A DEMO</a></p>
+
+<hr>
+
+### You might also be interested in this article...
+## Fashion Specific Algorithms Need Style Expertise
+Dressipi Style Director Natalie Theo explains the importance of drawing on the expertise of some of the industry’s top stylists for fashion-specific algorithms.
+
+<p style="text-align: left"><a href="/blog/fashion-is-different/" class="button button-primary">READ THE FULL STORY</a></p>
