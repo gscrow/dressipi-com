@@ -6,7 +6,7 @@ header:
   title: How River Island increased their revenue by 6% in 12 months with Dressipi’s
     fashion-focused approach to personalization and better data
   button:
-    copy: SCHEDULE A FREE CONSULTATION >
+    copy: BOOK A DEMO >
     url: "/company/demo/"
     style: primary
   hero-image: false
