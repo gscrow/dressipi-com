@@ -1,5 +1,5 @@
 ---
-title: Best examples of AI in fashion retail
+title: Best Examples of AI in Fashion Retail
 date: 2022-07-27 14:01:00 Z
 categories:
 - retail
