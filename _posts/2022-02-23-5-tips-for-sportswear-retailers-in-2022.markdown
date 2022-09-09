@@ -13,6 +13,7 @@ image: "/uploads/SportswearTipsBanner-1.jpeg"
 author: Georgina Fisher
 description: The pandemic evoked a shift towards athleisure explained by the lockdown
   exercise craze. Read our top tips to make your sportswear brand even more profitable.
+post_title: 5 Tips for Sportswear Retailers in 2022
 ---
 
 ### The shift to athleisure as people spent more time at home during the pandemic along with the lockdown exercise craze meant sportswear retailers have reaped in the benefits over the last 2 years. 
