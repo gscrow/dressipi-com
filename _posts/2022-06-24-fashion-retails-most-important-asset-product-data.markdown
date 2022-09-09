@@ -11,6 +11,7 @@ image: "/uploads/data_important_asset_blog-banner-2.jpg"
 author: Donna North
 description: Dressipi Co-Founder Donna North breaks down how good product attribution
   is critical for fashion retailers to drive growth, and other key benefits it provides.
+post_title: 'Fashion Retail’s Most Important Asset: Product Data'
 ---
 
 ## Is your product data up to scratch? 
