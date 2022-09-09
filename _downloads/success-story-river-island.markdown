@@ -114,9 +114,6 @@ sections:
       excites me is how we come together on insights. Getting beyond personalization
       has really helped us understand our customer base and what they want and need.”"
     author: Simon Konn, Insights & CRM Director
-    button: DOWNLOAD PDF>
-    file: "/uploads/Dressipi-River-Island-Success-Story.pdf"
-    button_class: case-study
 - contact-title: If you have any questions or you’d like to speak to us directly about
     how fashion-specific  personalization can make a difference to your customer experience
     and increase your online revenue, please get in touch.
@@ -127,4 +124,3 @@ sections:
 position-list: 1
 layout: case-study
 ---
-
