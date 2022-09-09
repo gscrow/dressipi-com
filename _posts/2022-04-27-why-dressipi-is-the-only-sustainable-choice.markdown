@@ -16,6 +16,7 @@ image: "/uploads/SustainabilityBanner-648f0a.jpg"
 author: Georgina Fisher
 description: 'The future depends on retailers changing the entire way we consume fashion,
   by both buying, and selling, better. Check out what Dressipi can do to help. '
+post_title: Why Dressipi is the Right Choice of Sustainable Fashion Technology
 ---
 
 ### As the source of 10% of global greenhouse gas emissions, it must be asked: how can the fashion industry be more sustainable? 
