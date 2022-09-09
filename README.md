@@ -1,2 +1,1 @@
-# dressipi.com
-Siteleaf theme for the dressipi.com marketing site
+Jekyll Siteleaf-backed site for dressipi.com
