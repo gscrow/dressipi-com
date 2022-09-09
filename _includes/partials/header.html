@@ -70,7 +70,11 @@
         {% if page.type != 'customer' %}
         {% if page.type != 'platform' %}
         <div class={{ page.header.class }}>
-        <h1 class="header__title">{{ page.post_title || page.header.title | default: page.title }}</h1>
+        {% if page.post_title %}
+        <h1 class="hero__title">{{ page.post_title }}</h1>
+        {% else %}
+        <h1 class="header__title">{{ page.header.title | default: page.title }}</h1>
+        {% endif %}
         {% endif %}
         {% if my_page_url contains 'author' and page.job_title %}
         <h3 class="header__job_title">{{ page.job_title }}</h3>
