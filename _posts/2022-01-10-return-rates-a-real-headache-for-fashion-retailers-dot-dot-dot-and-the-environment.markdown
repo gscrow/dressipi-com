@@ -12,6 +12,7 @@ author: Sarah McVittie
 description: The last 2 years stirred huge uncertainty for fashion retailers but it
   is beginning to steady. Read our analysis on what this means for return rates.
 download: Understanding Your Unique Return Rate Profile
+post_title: 'Fashion Returns: A Headache for Retailers and the Environment'
 ---
 
 ### After 2 years of lockdowns and disruptions, UK fashion retail is beginning to steady. We expect the size of the UK fashion market in 2022 to be just about back to 2019 levels but retailers need to account for a big hit to their apparel return rates looming on the horizon. 
