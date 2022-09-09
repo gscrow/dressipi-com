@@ -15,6 +15,7 @@ image: "/uploads/RecSysBanner.jpeg"
 author: Nick Landia
 description: "As recognised leaders in fashion AI, Dressipi have been chosen as the
   industry partner for the prestigious RecSys challenge. \n"
+post_title: Dressipi Collaborates with ACM Recommender Systems (RecSys)
 ---
 
 ### [RecSys](https://recsys.acm.org/recsys22/) is the premier international forum for the presentation of new research results, systems and techniques in the field of product recommendation systems. 
