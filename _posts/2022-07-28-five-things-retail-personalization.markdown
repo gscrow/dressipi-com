@@ -1,5 +1,6 @@
 ---
 title: Five Things You Should Know About Retail Personalization
+post_title: Five Things You Should Know About Retail Personalization
 date: 2022-07-28 11:04:00 Z
 image: "/uploads/five-things-blog-banner1.jpg"
 author: Donna North
@@ -23,24 +24,24 @@ Retail personalization means different things to different people. Anything from
 
 ### 2) Technology partners — recognize the real from the hyperbole
 
-We understand how hard it is for retailers to select the right solution and partners from the many available and how to differentiate the ones who can truly deliver today from the hyperbole and fads. 
+We understand how hard it is for retailers to select the right solution and partners from the many available and how to differentiate the ones who can truly deliver today from the hyperbole and fads.
 
-For example ‘Deep Learning’, ‘AI’, ‘Machine Learning’, ‘Neural Networks’ are now mentioned in almost every company’s sales pitch but few companies have significant capabilities in these methods today and retailers shouldn’t be wowed by these claims. When looking to explore personalization solutions that are truly effective we recommend a simple checklist to help narrow down the choice: 
+For example ‘Deep Learning’, ‘AI’, ‘Machine Learning’, ‘Neural Networks’ are now mentioned in almost every company’s sales pitch but few companies have significant capabilities in these methods today and retailers shouldn’t be wowed by these claims. When looking to explore personalization solutions that are truly effective we recommend a simple checklist to help narrow down the choice:
 
-* <p>Does the product do all of the things you need it to do today?</p>
-* <p>Have you seen the product working with actual retailers (not just a demo or slideware)?</p>
-* <p>Are those retailers similar to you in either customer size, data set, territory, etc?</p>
-* <p>Has the product been in use for longer than two cycles of sales/returns?</p>
-* <p>Does the team have a good pedigree in the technology and the solution they are selling?</p>
-* <p>By what order of magnitude are the results better compared to a non-personalized approach or other competitors? (If the results are not validated or look unbelievably high, then the most likely explanation is just simply that they are not believable).</p>
+- <p>Does the product do all of the things you need it to do today?</p>
+- <p>Have you seen the product working with actual retailers (not just a demo or slideware)?</p>
+- <p>Are those retailers similar to you in either customer size, data set, territory, etc?</p>
+- <p>Has the product been in use for longer than two cycles of sales/returns?</p>
+- <p>Does the team have a good pedigree in the technology and the solution they are selling?</p>
+- <p>By what order of magnitude are the results better compared to a non-personalized approach or other competitors? (If the results are not validated or look unbelievably high, then the most likely explanation is just simply that they are not believable).</p>
 
 Here at Dressipi, we have built our entire business on Machine Learning & AI - in combination with our [apparel industry expertise](https://dressipi.com/blog/why-is-fashion-different/) - from day one and believe it will have an enormous impact on retail over the coming years. But for us, the name of the approach or the inner workings of the technology are distracting and unnecessary details. What really matters are the results and the business impact in cold hard numbers.
 
 ### 3) Talking of hard numbers — test, test, test
 
-Test to compare solutions, test to continually improve and test to make the gains necessary for a long term competitive advantage. 
+Test to compare solutions, test to continually improve and test to make the gains necessary for a long term competitive advantage.
 
-Once you’ve identified one or two solutions that meet your exact criteria, it is important to establish the value of each by A/B testing against one another as well as against no personalization. We recommend testing no more than two to three variants at any one time — as it’s quicker and cleaner. The key to a valid test is identifying one single measurement of success and ensuring it is the most relevant to the KPI of the overall business (we prefer net incremental revenue per visitor as it takes into consideration conversion and returns). Don’t be tempted to evaluate on any other metric other than the one selected and let your test run for the full duration regardless of early results. 
+Once you’ve identified one or two solutions that meet your exact criteria, it is important to establish the value of each by A/B testing against one another as well as against no personalization. We recommend testing no more than two to three variants at any one time — as it’s quicker and cleaner. The key to a valid test is identifying one single measurement of success and ensuring it is the most relevant to the KPI of the overall business (we prefer net incremental revenue per visitor as it takes into consideration conversion and returns). Don’t be tempted to evaluate on any other metric other than the one selected and let your test run for the full duration regardless of early results.
 
 Once you have real business results and have made your selection then plan to test on an ongoing basis to improve performance. Personalization is still very nascent and there is much to learn and gain as the technology gets smarter and the data collected gets richer. The goal is to [create superb experiences](https://dressipi.com/solutions/product-discovery/) that the customers want and need and to use the insight to create unique value propositions which continually evolve.
 
@@ -50,18 +51,17 @@ Once you have real business results and have made your selection then plan to te
 
 At the very core of personalization is trust. The customer is giving access to personal data and preferences (that couldn’t be captured in any other way) in return for a more delightful and effective shopping journey.
 
-In our experience, the customer has an inherent understanding of the value of the trade and can quickly recognize the difference between genuine assistance versus a misuse of customer data to push irrelevant products or encourage behavior that is beneficial to the retailer but not to the shopper. 
+In our experience, the customer has an inherent understanding of the value of the trade and can quickly recognize the difference between genuine assistance versus a misuse of customer data to push irrelevant products or encourage behavior that is beneficial to the retailer but not to the shopper.
 
 Personalization, done successfully, is a golden opportunity —it has the ability to build longer-lasting and genuine connections with customers and deliver game changing profitability. Any organization that misses that could pay heavily both financially and reputationally.
 
 ### 5) Position for the future
 
-Amazon has the full toolkit — customer trust, loyalty, same day fulfillment and cheap capital. It also has an ever growing dataset and insights which it uses brilliantly to champion the customer via personalization and optimization of merchandising and operations. While Amazon is a short term friend, retailers should also recognize it as a near term competitor focused on taking away customers and margins. 
+Amazon has the full toolkit — customer trust, loyalty, same day fulfillment and cheap capital. It also has an ever growing dataset and insights which it uses brilliantly to champion the customer via personalization and optimization of merchandising and operations. While Amazon is a short term friend, retailers should also recognize it as a near term competitor focused on taking away customers and margins.
 
 The smarter retailers have understood that their competitor set is changing and that collaboration could be one of the key solutions to survival. By forming alliances that consolidate data and give access to deeper insights, these retailers are positioning to offer hyper personalized experiences that touch the customer when in store, online and when using their products at home - as well as changing the way they optimize product inventory, communications and operations.
 
 At Dressipi we understand the significant value of these partnerships, and it’s evident that collaboration across retailers presents a fantastic opportunity for growth and long term competitive advantages.
-
 
 ## Final thoughts
 
@@ -72,7 +72,9 @@ Personalization in ecommerce offers outstanding benefits to both the customer ex
 <hr>
 
 ### You might also be interested in this article...
+
 ## Best examples of AI in fashion retail
+
 Check out the best examples and applications of AI in fashion. Get inspired by how AI is transforming retail shopping experiences.
 
 <p style="text-align: left"><a href="/blog/ai-fashion-retail-examples/" class="button button-primary">READ THE FULL STORY</a></p>
