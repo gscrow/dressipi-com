@@ -11,6 +11,7 @@ image: "/uploads/spring_summer_2022_trends-banner.jpg"
 author: Natalie Theo
 description: "Style Director, Natalie Theo describes the top Spring/Summer 2022 trends
   and how Dressipi data helps inspire merchandising each season. \n"
+post_title: Data Points for the SS22 Fashion Trends
 ---
 
 ## From tricky trends to spring/summer favourites, what trends your customers are buying into and how they’re wearing them is integral in how our Dressipi data helps to inspire merchandising each season. 
