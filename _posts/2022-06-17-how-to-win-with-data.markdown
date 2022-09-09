@@ -6,6 +6,7 @@ author: Georgina Fisher
 description: Expert advice from retailers and data guru’s at our most recent breakfast.
   They discussed why accurate and consistent product data is one of the most impactful
   assets in the fashion retail industry.
+post_title: 'How to Win with Data: Advice from Fashion Industry Experts'
 ---
 
 ## In fashion, there is plenty of data available on marketing channels and transactions. However, retailers never had quality data for what the customers care about the most - the clothes.
