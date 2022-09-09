@@ -1,9 +1,9 @@
 ---
 title: Five Things You Should Know About Retail Personalization
 date: 2022-07-28 11:04:00 Z
-post_title: Five Things You Should Know About Retail Personalization
 image: "/uploads/five-things-blog-banner1.jpg"
 author: Donna North
+post_title: Five Things You Should Know About Retail Personalization
 ---
 
 ### Personalization in retail is a powerful tool for selling and communicating to consumers. But what does it actually entail?
@@ -67,7 +67,7 @@ At Dressipi we understand the significant value of these partnerships, and it’
 
 Personalization in ecommerce offers outstanding benefits to both the customer experience and retailers alike. However, when asking “What can an online retailer site do to increase personalization”, it is important for those evaluating options to gain clarity as to how exactly the solution will be used and to ensure it delivers value to all parties. Similarly, in a world with so many competing demands for our attention, we recommend that retailers focus on solutions with a demonstrable track record, and who seek to ensure that any gains are both measurable and are aligned with the business’s goals. We hope this short paper helps retailers make an informed decision when considering their options.
 
-<p style="text-align:center"><a href="/company/demo/" class="button button-primary">BOOK A DEMO</a></p>
+<p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
 
 <hr>
 
