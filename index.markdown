@@ -13,7 +13,7 @@ header:
   color: "#000"
   class: index-banner
   page-title: 
-description: Dressipi delivers personalization for fashion retailers to help show
+description: Dressipi delivers personalization for apparel retailers to help show
   their visitors the products they’re most likely to buy - and keep.
 has-contact-section: false
 sections:
