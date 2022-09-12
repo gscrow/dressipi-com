@@ -61,4 +61,4 @@ The need for data to help the fashion industry become more sustainable is hugely
 
 Sign up to hear about future events!
 
-<p style="text-align:center"><a href="/company/demo/" class="button button-primary">CONTACT US</a></p>
+<p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>

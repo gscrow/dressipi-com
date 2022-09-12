@@ -30,4 +30,4 @@ When it comes to dresses bold brights – from plain to prints - always a trusty
 
 Get in touch for more data breakdowns and insights.
 
-<p style="text-align:center"><a href="/company/demo/" class="button button-primary">CONTACT US</a></p>
+<p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
