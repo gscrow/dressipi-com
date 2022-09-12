@@ -8,8 +8,8 @@ header:
   body: <p class="header__banner-subtitle">The personalization experts, helping apparel
     retailers show each visitor the items they’re most likely to buy - and keep</p>
   hero-image: "/uploads/banner_about-us@2x.png"
-description: We drive profitable growth for fashion retailers and are passionate about
-  helping the fashion industry change.
+description: We are driving a step-change in personalization for apparel retailers
+  and are passionate about helping the fashion industry change.
 class: about-us
 sections:
 - title: 
