@@ -158,4 +158,4 @@ However, we do live in uncertain times. It would be wise for retailers to keep t
 
 > We wanted to extend a big thank you to Tara Tadjbajhsh, our amazing summer intern who did most of the analysis and work going into this article!
 
-<p style="text-align:center"><a href="/company/demo/" class="button button-primary">FREE CONSULTATION</a></p>
+<p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
