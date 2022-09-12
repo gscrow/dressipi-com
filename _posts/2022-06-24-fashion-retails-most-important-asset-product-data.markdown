@@ -60,4 +60,4 @@ Large data-led decision making businesses like Amazon, Pinterest, Etsy, Shein in
 
 Get in touch if you'd like to start providing a consistent source of accurate product data.
 
-<p style="text-align:center"><a href="/company/demo/" class="button button-primary">CONTACT US</a></p>
+<p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
