@@ -5,8 +5,8 @@ position: 0
 navigation: about-footer
 header:
   title: We are Dressipi
-  body: <p class="header__banner-subtitle">The fashion AI experts, helping fashion
-    retailers deliver the relevant products and inspiration their visitors deserve</p>
+  body: <p class="header__banner-subtitle">The personalization experts, helping apparel
+    retailers show each visitor the items they’re most likely to buy - and keep</p>
   hero-image: "/uploads/banner_about-us@2x.png"
 description: We drive profitable growth for fashion retailers and are passionate about
   helping the fashion industry change.
