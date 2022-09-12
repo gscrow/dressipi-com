@@ -186,6 +186,8 @@ As a side note here, it kind of makes sense, 70-80% of any retailer’s revenue 
 * Dresses, Jeans & Sportswear will continue to grow as a % of mix (although smaller increases)
 * Big increases in Swimwear (high return rates) and other holiday categories
 
+<p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
+
 <hr>
 
 ### Learn how to get on top of your return rates with our guide...
