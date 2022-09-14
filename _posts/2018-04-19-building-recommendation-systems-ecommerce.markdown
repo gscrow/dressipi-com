@@ -17,9 +17,12 @@ tags:
 - true personalization
 image: "/uploads/Screen_Shot_2018-04-19_at_15.28.31.jpeg"
 author: Nick Landia
-description: Dressipi explores the challenges of building intelligent and effective
-  fashion recommendation systems to create highly personalized shopping experiences.
-download: Five Things Every Retailer Should Know About Personalization
+description: Learn about building fashion recommendation systems for ecommerce. Understand
+  the challenges involved in providing personalized product recommendations for online
+  apparel retail, and how Dressipi overcomes them.
+download: 
+post_title: Building Fashion Recommendation Systems for Ecommerce | Personalized Fashion
+  Ecommerce
 ---
 
 ###Nick Landia, Dressipi’s Chief Data Scientist, explores the challenges of building intelligent and effective personalized recommendation systems. The goal? To create truly personalized customer experiences.
