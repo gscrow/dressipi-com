@@ -1,6 +1,6 @@
 ---
 title: Building Fashion Recommendation Systems for Ecommerce
-date: 2018-04-19 14:24:00 Z
+date: 2022-03-22 14:24:00 Z
 categories:
 - data
 - tech
@@ -25,7 +25,7 @@ post_title: Building Fashion Recommendation Systems for Ecommerce | Personalized
   Ecommerce
 ---
 
-###Nick Landia, Dressipi’s Chief Data Scientist, explores the challenges of building intelligent and effective personalized recommendation systems. The goal? To create truly personalized customer experiences.
+### Nick Landia, Dressipi’s Chief Data Scientist, explores the challenges of building intelligent and effective personalized recommendation systems. The goal? To create truly personalized customer experiences.
 
 # Building a Fashion Retail Recommendation Engine
 
