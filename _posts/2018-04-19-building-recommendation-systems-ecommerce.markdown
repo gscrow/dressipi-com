@@ -60,39 +60,46 @@ People shop across multiple retailers and channels; they don’t have a single s
 
 ### 1. Customer Preferences Can Be Fickle and Change Rapidly
 Tastes change over time; this is another way in which [the fashion domain is different](https://dressipi.com/blog/why-is-fashion-different-part-2-fashion-consumer-behavior/). As trends come and go, so do people’s clothing preferences. A shopper might hate florals, but if florals become fashionable, they might actively search for a floral dress. 
+
 Lifestyles also change, which can greatly influence a customer’s purchase decisions. For example, we might put on weight, have children or change careers. These changing preferences are something that should be reflected in product recommendation models specific to fashion.
 
 <p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 600px;" alt="Customer preferences affected by trend" src="/uploads/trend-driven-consumer.jpg"/><br></p>
 
-### 2. Seasonality
-What people buy in the Winter varies drastically to what people buy in the Summer, which means the recommendation system needs to be aware of how people’s dressing and spending habits change at different times of the year. At the start of Summer, the last available data about summer clothes for a particular customer is almost a year old, so it can be challenging to successfully use that data and figure out if the customer’s taste has changed in the meantime.
+### 2. Seasons
+What people buy in the Winter varies drastically to what people buy in the Summer. So recommended products also need to adapt to people’s changing habits at different times of the year. At the start of Summer, the last available data about summer clothes for a particular customer is almost a year old. Using data properly to understand a customer’s changing tastes over that period can be difficult.
 
 ### 3. Everyone Is Different!
-This may seem obvious, and is applicable to other industries, but what I like varies drastically to what my friend likes. I may be very trend led so want to see the latest trend items, whereas my friend likes the classics so just wants to see basic, functional items. This means that a one size fits all solution simply won’t work, and neither will generic customer segmentation methods based on clicks etc that don’t have a very deep view of the customer.
+This may seem obvious, and is applicable to other industries, but what I like varies drastically to what my friend likes. A consumer may be trend-led, so will want to see the latest trend items. Another, however, may like the classics, so just wants to see basic, functional items. 
+
+This means that a ‘one size fits all’ solution will not be good enough. [Neither will generic customer segmentation](https://dressipi.com/blog/segmentation-vs-personalization/) methods of recommendation in ecommerce. These solutions don’t have a very deep view of the customer.
 
 
-## Building A Fashion Recommendation System
+## Developing Our Personalized Recommendation Engine
 
-Unlike other domains, fashion recommendations should not be purely based on the customer’s personal taste and past activity. There are many external factors (many of which are emotional) that make building a fashion recommendation system all the more complex. Public perceptions must be taken into account, as well as fashion rules, outfit guidelines and current trends.
+Automated product recommendations in the fashion domain should not be purely based on the customer’s personal taste and past activity. There are many external factors (many of which are emotional) that make building an apparel recommendation system all the more complex. Public perceptions must be taken into account, as well as fashion rules, outfit guidelines and current trends.
 
-Furthermore, as established above, garments and customer preferences change over time, faster than in other domains. This is why recommenders must recognise changes in user preference and respond quickly.
+Furthermore, as established above, garments and customer preferences change over time, faster than in other domains. This is why a given product recommendations API must recognise changes in user preference and respond quickly.
 
-At Dressipi we established that:
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 600px;" alt="Demonstration of session and purchase data gathered from visitors" src="/uploads/session-and-purchase-data.jpg"/><br></p>
+
+At Dressipi, we established that:
 
 **1. Customers are looking for guidance and validation of their fashion choices**
 
-Customers might not know what fits them best or be seeking guidance on what items of clothing suit them. For some, clothing that suits their body shape is important, whereas for others, they are simply looking to get to the best pair of black jeans as quickly as possible. 
+Customers might not know what fits them best, or may be seeking guidance on what items of clothing suit them. Some consumers may prioritize clothing that suits their body shape. Others are simply looking to get to the best pair of black jeans as quickly as possible. As such, it’s important to provide recommendations based on the customer’s session intention and preferences. 
 
-**2. There are objective fashion do’s and don'ts that professional stylists know about but customers might not**
+**2. There are objective fashion do’s and don’ts that professional stylists know about, but customers might not**
 
-This is where the importance of fashion expertise comes in. At Dressipi we have a team of stylists who work alongside our tech team to ensure the nuances surrounding fashion are captured in our algorithms. Natalie Theo, Dressipi’s Style Director wrote about the important combination of fashion intuition and data in her [latest blog post](https://dressipi.com/blog/fashion-plus-data-equals-a-match-made-in-personalization-heaven/). 
+This is where the importance of fashion expertise comes in. At Dressipi we have a team of stylists who work alongside our tech team. This ensures that the nuances surrounding fashion are captured in our personalized recommendation algorithms. You can read more about the importance of fashion expertise for product recommendation tools in [this blog](https://dressipi.com/blog/fashion-is-different/). 
+
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 750px;" alt="Product attributes working together to create an outfit" src="/uploads/data_important_asset_blog-outfit.jpg"/><br></p>
 
 **3. Trends and popular culture events influence user preference and public perception quickly and sometimes drastically**
 
-It may be that red and pink are historically a no-go combination. If all of a sudden the catwalk dictates that pink and red styled together is a top trend for SS18, the recommendation system needs to understand that so outfits are styled appropriately (but perhaps only shown to people who have high fashion confidence).
+It may be that red and pink are historically a no-go combination. But the catwalk may suddenly dictate that [bold color combinations are a trend for SS22](https://dressipi.com/blog/spring-summer-2022-fashion-trends/). If fashion recommender systems can understand that, outfits can be styled accordingly. Though perhaps these outfits should only be shown to people who have high fashion confidence.
 
 
-Many companies providing recommendations in this space have realised that the customer-item interaction data alone can only get you so far. We’ve come to understand over time that you can’t blindly trust historical interaction data. That’s why at Dressipi, we gather additional information about customers by asking them to create a profile where they give us information such as:
+Many B2B recommendation engine providers have realized that basic interaction data alone can only get suggested products so good. We’ve come to understand over time that you can’t blindly trust historical interaction data. That’s why at Dressipi, we give customers the option to provide additional information. By creating a profile on our partners’ websites, they can give us information such as:
 
 - Body Shape
 - Age
@@ -100,15 +107,19 @@ Many companies providing recommendations in this space have realised that the cu
 - Lifestyle
 - Attitudes to Fashion
 
-This information, alongside our garment tagging technology (each garment is tagged with a series of data points), allows the recommendation system to give high-quality recommendation features such as style advice, outfits, and product recommendations on a truly one-to-one level, enhancing the customer’s shopping experience based on their intent.
+This information works alongside our industry leading [product tagging technology](https://dressipi.com/solutions/product-tagging/). It allows the recommendation system to give [high-quality recommendation features](https://dressipi.com/solutions/product-discovery/), including AI product recommendations. Being able to do so on a truly one to one level greatly enhances the shopping experience based on the shopper’s intent.
 
-## In Summary
+## Final Thoughts
 
-Customers are increasingly demanding and expecting highly personalized and curated shopping experiences, which not only benefit the customer, but also the retailer. According to [Forbes](https://www.forbes.com/sites/shephyken/2017/10/29/personalized-customer-experience-increases-revenue-and-loyalty/#663517f94bd6), personalization leads to increased revenue, fewer returns and increased loyalty, and we see this already with the retailers that we partner with, delivering a 5% percentage point reduction in returns (you can read a whitepaper by our co-founder Sarah McVittie on making data work harder to reduce garment return rates [here](https://dressipi.com/downloads/understanding-your-unique-return-rate-profile-whitepaper/).
+Customers are increasingly demanding and expecting highly personalized and curated shopping experiences. According to [Elastic](https://www.bloomberg.com/press-releases/2022-08-10/new-study-from-elastic-finds-84-of-online-shoppers-say-personalization-influences-their-purchases), 84% of consumers say personalization influences their purchases. This expectation also benefits retailers, however. According to [McKinsey](https://www.mckinsey.com/business-functions/growth-marketing-and-sales/our-insights/the-value-of-getting-personalization-right-or-wrong-is-multiplying), retailers that excel at personalization generate 40% more revenue from those activities than average players.
 
-In an environment where customer is king, retailers are prioritising creating delightful and efficient [personalized shopping experiences](https://dressipi.com/solutions/product-experience/) both online and in store. This piece highlights that highly intelligent and effective fashion recommendation systems will be at the heart of this. Although complex to create (due to the multiple challenges posed by both the retailer and the customer), when integrated fully it becomes a essential tool, translating into multiple business benefits and an improved customer experience.
+We have seen this ourselves with the retailers that we partner with. For example, we delivered a 25% reduction in returns for a [luxury retailer](https://dressipi.com/downloads/success-story-luxury-retailer/). You can learn more about how to make your data work harder to reduce your return rates in [our guide](https://dressipi.com/downloads/understanding-your-unique-return-rate-profile-whitepaper/).
 
-> Banner photo by rawpixel.com on Unsplash
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 650px;" alt="Product attributes working together to create an outfit" src="/uploads/SustainabilityBlog3.JPG"/><br></p>
+
+In an environment where customer is king, retailers have to prioritize the delivery of effective and truly [personalized shopping experiences](https://dressipi.com/solutions/product-experience/). This piece highlights that highly intelligent and effective fashion recommendation systems are at the heart of this. The technology to achieve this has been available, and retailers have been slow to react. But good ecommerce personalization is an essential tool, translating into multiple business benefits and an improved customer experience.
+
+<p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
 
 <hr>
 
