@@ -1,5 +1,5 @@
 ---
-title: Building Fashion Recommendation Systems
+title: Building Fashion Recommendation Systems for Ecommerce
 date: 2018-04-19 14:24:00 Z
 categories:
 - data
@@ -22,13 +22,13 @@ description: Dressipi explores the challenges of building intelligent and effect
 download: Five Things Every Retailer Should Know About Personalization
 ---
 
-Nick Landia, Dressipi's Chief Data Scientist explores the challenges of building intelligent and effective fashion recommendation systems to create highly personalized shopping experiences.
+###Nick Landia, Dressipi’s Chief Data Scientist, explores the challenges of building intelligent and effective personalized recommendation systems. The goal? To create truly personalized customer experiences.
 
-# Building Fashion Recommendation Systems
+# Building a Fashion Retail Recommendation Engine
 
-Businesses such as Spotify and Netflix have been trailblazers in the recommendation systems world. More than 80% of the TV shows people watch on Netflix are discovered through the platform’s recommendation system ([Wired](http://www.wired.co.uk/article/how-do-netflixs-algorithms-work-machine-learning-helps-to-predict-what-viewers-will-like)) and Discover Weekly playlists boasted 40 million unique users just a year after it launched in July 2015 ([TechCrunch](https://techcrunch.com/2016/05/25/playlists-not-blogs/)).
+Businesses such as Spotify and Netflix have been trailblazers in the recommendation systems world. More than 80% of the TV shows people watch on Netflix are discovered through the platform’s recommendation system ([Wired](http://www.wired.co.uk/article/how-do-netflixs-algorithms-work-machine-learning-helps-to-predict-what-viewers-will-like)). Spotify’s Discover Weekly playlists boasted 40 million unique users just a year after it launched in July 2015 ([TechCrunch](https://techcrunch.com/2016/05/25/playlists-not-blogs/)).
 
-In contrast, the fashion industry has been relatively slow on the uptake when it comes to robust recommendation systems, but for good reason.
+In contrast, recommender systems in fashion and retail have been relatively slow on the uptake; but for good reason.
 
 ## What are the Challenges?
 
