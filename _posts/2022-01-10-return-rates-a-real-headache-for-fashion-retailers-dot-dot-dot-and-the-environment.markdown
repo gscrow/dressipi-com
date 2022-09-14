@@ -11,7 +11,6 @@ image: "/uploads/Returns2022_Banner.jpg"
 author: Sarah McVittie
 description: The last 2 years stirred huge uncertainty for fashion retailers but it
   is beginning to steady. Read our analysis on what this means for return rates.
-download: Understanding Your Unique Return Rate Profile
 post_title: 'Fashion Returns: A Headache for Retailers and the Environment'
 ---
 
