@@ -30,18 +30,27 @@ Businesses such as Spotify and Netflix have been trailblazers in the recommendat
 
 In contrast, recommender systems in fashion and retail have been relatively slow on the uptake; but for good reason.
 
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 500px;" alt="Personalized recommendations from Netflix and Spotify" src="/uploads/netflix-spotify-recs.png"/><br> Personalized recommendations from Netflix and Spotify</p>
+
+
 ## What are the Challenges?
 
-Fashion is an extremely dynamic and ever-changing industry, with challenges existing on both the retailer’s and the customer's side:
+Fashion is an extremely dynamic and ever-changing industry. When creating an ecommerce product recommendation engine, there are a number of challenges specific to fashion. Additionally, these challenges exist on both the retailer’s and the customer’s side.
+
+<p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
 
 ## Retailer Related Challenges
 
 
 ### 1. Short Lifetime of Items
-Garments only exist to be sold for a very short period of time. This is different to other verticals such as films or music which can always be purchased fairly easily for a very long time. The result is that in fashion each individual item only has a short period in which to collect data about it, meaning the domain ends up very sparse, even more so that in traditional recommendation system domains. 
+Garments only exist to be sold for a very short period of time. This is different to other verticals where products remain available for a very long time. The result is that, in fashion, each individual item only has a short period in which to collect data about it. This means the domain ends up very sparse, even more so that in traditional domains of ecommerce recommendation engines. 
 
 ### 2. High Volume of Items
-Large retailers release new garments daily, meaning there is a constant high turnover of products. For example, fast fashion retailer Zara delivers new products to its stores every two weeks ([Forbes](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/deborahweinswig/2017/08/28/retailers-should-think-like-zara-what-we-learned-at-the-august-magic-trade-show/&refURL=&referrer=#17bc3ac73e52)). Not only does this create problems around understanding product availability, but also ensuring that the recommendation system is sophisticated enough to capture data on the garments on an ongoing basis.
+Large retailers release new garments daily, meaning there is a constant high turnover of products. On average, a third of fashion products are both released and removed from the product catalog every month.
+
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 500px;" alt="Comparison of average monthly product catalog changes" src="/uploads/monthly-product-pool-graph.png"/><br></p>
+
+This creates two problems. Firstly, around understanding product availability. Secondly, ensuring that the personalized product recommendations are sophisticated enough to capture data on the garments on an ongoing basis.
 
 ### 3. Data Sparsity
 How well do retailers *really* know their customers? People shop across multiple retailers and channels. A customer might buy their jeans from one retailer and then go to another to buy a top. Each retailer has a very limited view on their customer’s full preference profile and overall spend on clothing.
