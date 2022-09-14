@@ -33,14 +33,14 @@ Businesses such as Spotify and Netflix have been trailblazers in the recommendat
 
 In contrast, recommender systems in fashion and retail have been relatively slow on the uptake; but for good reason.
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 500px;" alt="Personalized recommendations from Netflix and Spotify" src="/uploads/netflix-spotify-recs.png"/><br> Personalized recommendations from Netflix and Spotify</p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 500px;padding-top: 10px;" alt="Personalized recommendations from Netflix and Spotify" src="/uploads/netflix-spotify-recs.png"/><br> Personalized recommendations from Netflix and Spotify</p>
 
 
 ## What are the Challenges?
 
 Fashion is an extremely dynamic and ever-changing industry. When creating an ecommerce product recommendation engine, there are a number of challenges specific to fashion. Additionally, these challenges exist on both the retailer’s and the customer’s side.
 
-<p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
+<p style="text-align:center; padding-top:5px;padding-bottom:5px;"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
 
 ## Retailer Related Challenges
 
@@ -66,7 +66,7 @@ Tastes change over time; this is another way in which [the fashion domain is dif
 
 Lifestyles also change, which can greatly influence a customer’s purchase decisions. For example, we might put on weight, have children or change careers. These changing preferences are something that should be reflected in product recommendation models specific to fashion.
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 600px;" alt="Customer preferences affected by trend" src="/uploads/trend-driven-consumer.jpg"/><br></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 700px;" alt="Customer preferences affected by trend" src="/uploads/trend-driven-consumer.jpg"/><br></p>
 
 ### 2. Seasons
 What people buy in the Winter varies drastically to what people buy in the Summer. So recommended products also need to adapt to people’s changing habits at different times of the year. At the start of Summer, the last available data about summer clothes for a particular customer is almost a year old. Using data properly to understand a customer’s changing tastes over that period can be difficult.
@@ -83,7 +83,7 @@ Automated product recommendations in the fashion domain should not be purely bas
 
 Furthermore, as established above, garments and customer preferences change over time, faster than in other domains. This is why a given product recommendations API must recognise changes in user preference and respond quickly.
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 600px;" alt="Demonstration of session and purchase data gathered from visitors" src="/uploads/session-and-purchase-data.jpg"/><br></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 600px;padding-top:5px;padding-bottom:5px;" alt="Demonstration of session and purchase data gathered from visitors" src="/uploads/session-and-purchase-data.jpg"/><br></p>
 
 At Dressipi, we established that:
 
@@ -118,7 +118,7 @@ Customers are increasingly demanding and expecting highly personalized and curat
 
 We have seen this ourselves with the retailers that we partner with. For example, we delivered a 25% reduction in returns for a [luxury retailer](https://dressipi.com/downloads/success-story-luxury-retailer/). You can learn more about how to make your data work harder to reduce your return rates in [our guide](https://dressipi.com/downloads/understanding-your-unique-return-rate-profile-whitepaper/).
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 650px;" alt="Product attributes working together to create an outfit" src="/uploads/SustainabilityBlog3.JPG"/><br></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 650px;padding-top:5px;padding-bottom:5px;" alt="Garment return rates comparison to Dressipi's recommended products" src="/uploads/SustainabilityBlog3.JPG"/><br></p>
 
 In an environment where customer is king, retailers have to prioritize the delivery of effective and truly [personalized shopping experiences](https://dressipi.com/solutions/product-experience/). This piece highlights that highly intelligent and effective fashion recommendation systems are at the heart of this. The technology to achieve this has been available, and retailers have been slow to react. But good ecommerce personalization is an essential tool, translating into multiple business benefits and an improved customer experience.
 
