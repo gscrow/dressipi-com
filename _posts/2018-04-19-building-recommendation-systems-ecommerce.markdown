@@ -48,18 +48,21 @@ Garments only exist to be sold for a very short period of time. This is differen
 ### 2. High Volume of Items
 Large retailers release new garments daily, meaning there is a constant high turnover of products. On average, a third of fashion products are both released and removed from the product catalog every month.
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 500px;" alt="Comparison of average monthly product catalog changes" src="/uploads/monthly-product-pool-graph.png"/><br></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 550px;" alt="Comparison of average monthly product catalog changes" src="/uploads/monthly-product-pool-graph.png"/><br></p>
 
 This creates two problems. Firstly, around understanding product availability. Secondly, ensuring that the personalized product recommendations are sophisticated enough to capture data on the garments on an ongoing basis.
 
 ### 3. Data Sparsity
-How well do retailers *really* know their customers? People shop across multiple retailers and channels. A customer might buy their jeans from one retailer and then go to another to buy a top. Each retailer has a very limited view on their customer’s full preference profile and overall spend on clothing.
+People shop across multiple retailers and channels; they don’t have a single source of recommendations for online shopping. A customer might buy their jeans from one retailer and then go to another to buy a top. Each retailer has a very limited view on their customer’s full preference profile and overall spend on clothing.
 
 ## Customer Related Challenges
 
 
 ### 1. Customer Preferences Can Be Fickle and Change Rapidly
-Tastes change over time. As trends come and go, so do people’s clothing preferences - I might hate florals, but suddenly they are in fashion so I’ll actively search for a floral shirt. Lifestyles also change, which can greatly influence a customer’s purchase decisions (for example, we might put on weight, have children or change careers). 
+Tastes change over time; this is another way in which [the fashion domain is different](https://dressipi.com/blog/why-is-fashion-different-part-2-fashion-consumer-behavior/). As trends come and go, so do people’s clothing preferences. A shopper might hate florals, but if florals become fashionable, they might actively search for a floral dress. 
+Lifestyles also change, which can greatly influence a customer’s purchase decisions. For example, we might put on weight, have children or change careers. These changing preferences are something that should be reflected in product recommendation models specific to fashion.
+
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 600px;" alt="Customer preferences affected by trend" src="/uploads/trend-driven-consumer.jpg"/><br></p>
 
 ### 2. Seasonality
 What people buy in the Winter varies drastically to what people buy in the Summer, which means the recommendation system needs to be aware of how people’s dressing and spending habits change at different times of the year. At the start of Summer, the last available data about summer clothes for a particular customer is almost a year old, so it can be challenging to successfully use that data and figure out if the customer’s taste has changed in the meantime.
