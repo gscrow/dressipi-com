@@ -36,7 +36,7 @@ sections:
     hres-image: "/uploads/Predict_Intent@2x.png"
     action:
       copy: Learn More >
-      url: "/downloads/your-sort-order-is-your-secret-weapon-to-success/"
+      url: "/downloads/your-sort-order-is-your-secret-sauce-to-success/"
   - title: Increase Conversion
     mini-title: FOR REPEAT CUSTOMERS
     class: solution-products-conversion
