@@ -51,7 +51,7 @@ NBrown is an example of a retailer who transformed their business - because of t
 
 Simon Calvert, Trading Director, Bonmarché highlighted that data and technology are crucial to producing customer insight that drive effective decision making. As far as he’s concerned, there’s only one KPI and that’s customer satisfaction which is achieved by exceeding their expectations in every way.
 
-<p style="text-align:center"><img style="margin-left: 0px" alt="Image of Simon Calvert giving a talk at the Ecommerce Expo 2018" src="/uploads/IMG_5561.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" alt="Image of Simon Calvert giving a talk at the Ecommerce Expo 2018" src="/uploads/IMG_5561.JPG"/></p>
 
 ## In Case You Hadn’t Heard, It's All About Mobile First and In-store Experiences
 
