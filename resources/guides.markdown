@@ -6,7 +6,7 @@ navigation: resource-footer
 header:
   title: Dressipi Guides
 description: Check out Dressipi's expert guides and reports for up to the minute insight
-  on the fashion retail industry.
+  on the apparel industry.
 footer-position: 2
 layout: resource
 ---
