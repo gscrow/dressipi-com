@@ -33,7 +33,7 @@ Many businesses talk about the importance of **segmentation** and the positive i
 
 However, organisations that leverage **personalization** outperform peers by 5 times that number, 66% in sales growth (24% in operating profit growth).
 
-Segmentation and [personalization](https://dressipi.com/downloads/five-things-every-retailer-should-know-about-personalization-whitepaper/) are not the same. They do different things and have a very different impact on results. It is key, therefore, to understand each, their potential, their limitations and the range of value they can contribute.
+Segmentation and [personalization](https://dressipi.com/blog/five-things-retail-personalization/) are not the same. They do different things and have a very different impact on results. It is key, therefore, to understand each, their potential, their limitations and the range of value they can contribute.
 
 ## Segmentation
 
