@@ -9,7 +9,7 @@ To help you get ready for peak, we have analyzed the Black Friday numbers from t
 
 Plus, our top tips to make the period as successful as possible!
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 600px;" alt="Infographic of the data, the insight and the top tips for Black Friday 2022
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 1000px;" alt="Infographic of the data, the insight and the top tips for Black Friday 2022
 " src="/uploads/The%20data,%20the%20insight%20and%20the%20top%20tips%20for%20Black%20Friday%202022.png"/></p>
 
 
