@@ -37,7 +37,7 @@ Customer expectations are higher than ever at every part of the journey, with th
 
 Easy, right? In principle yes, in practice, not so much. The consumer is a fickle, complicated beast that can change their mind or behavior in an instant. Understanding their intention when interacting with your brand online or in-store is tricky enough, then putting the perfect product in front of them that meets their expectations at that exact time is the next challenge. 
 
-<p style="text-align:center"><img style="margin-left: 0px" alt="Image of Skip Fidura giving a talk at the Ecommerce Expo 2018" src="/uploads/IMG_5565.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" alt="Image of Skip Fidura giving a talk at the Ecommerce Expo 2018" src="/uploads/IMG_5565.JPG"/></p>
 
 Skip Fidura, Strategy & Insight Director, DotMailer expressed the importance of the timely nature of messaging, “*The consumer wants us to be **where** they want to be, **when** they want to be there, delivering **what** they want to hear in a format that is **convenient to them** at that moment.*” Skip’s stat of 5x more people reading the subject line than actually opening the email highlights the importance of making sure communication is delivered when the consumer is wanting/expecting it and really nailing subject lines.
 
@@ -59,7 +59,7 @@ Mobiles are increasingly becoming somewhat of a third arm - without it, you feel
 
 Nicola Millard, Head of Customer Insights & Futures, BT emphasised how smartphones are becoming more important in delivering exceptional digital experiences and how we need to think more broadly in terms of “*swipes and voice interfaces*”. She revealed that 79% of people are more loyal to organisations that are easy to contact, and 56% of people said convenience was more important to them than the price of the product. Chatbots are a popular and effective way of communicating with customers, but as Nicola correctly pointed out, “*chatbots are only as good as the data you give them.*" 
 
-<p style="text-align:center"><img style="margin-left: 0px" alt="Image of Seth Ellison giving a talk at the Ecommerce Expo 2018" src="/uploads/IMG_5569.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" alt="Image of Seth Ellison giving a talk at the Ecommerce Expo 2018" src="/uploads/IMG_5569.JPG"/></p>
 
 In addition, data can and should be used in stores to speak to customers on a truly one-to-one level. As Simon Calvert pointed out, “*technology enables us to be better shopkeepers*” - it's all about creating a more interactive experience in store, whether through giving style advice or helping the customer validate a purchase. Seth Ellison, Executive VP and President, Europe, Levi’s explained that the brand was proud of the collaborative experience it has created between the customer, their partners and employees, which in 2017 delivered the best results they had for two decades.
 
