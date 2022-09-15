@@ -23,7 +23,7 @@ Natalie Theo, Dressipi’s Style Director tries out Zara’s new self-service ch
 
 # Zara’s Self-Service Check Out Highlights a Stronger Focus on Creating Better In-Store Customer Experiences.
 
-## Any solution retailers can provide to map the convenience of shopping online to the [in-store experience](https://dressipi.com/how-to-improve-customer-experience-instore/) is a solution that’s heading in the right direction.
+## Any solution retailers can provide to map the convenience of shopping online to the [in-store experience](https://dressipi.com/blog/innovating-at-speed-to-deliver-unique-and-relevant-in-store-experiences/) is a solution that’s heading in the right direction.
 
 One way is solving the problem of how to avoid those long and tiresome queues to pay for your items. I can’t count the number of times when the length of a lunchtime queue was the deciding factor of whether to purchase or not.
 
@@ -50,4 +50,4 @@ I got excited at Step 1 and the thought of not having to scan my garment – a l
 
 Still, a small price to pay for an otherwise smooth and quick experience. Payment was effortless as was removing the security tag. A few minutes later I was wearing my scarf and had popped my jacket into a bag hanging on the side of the kiosks.
 
-_‘Self-service for the selfie generation’_ should become a retailer catchphrase. This is not only a convenient step in the right direction but also quite a fun one and undoubtedly a good addition to the bricks and mortar customer experience. The ideal next solution for Zara (and retailers in general) would now be to tackle one of the worst in-store experiences in the same way – the arduous task of returning a purchase. This could be solved by providing [one-to-one personalization](https://dressipi.com/one-to-one-personalization/) to all customers both in-store and online to help them make the right purchase decisions based on their personal preferences and intent.
+_‘Self-service for the selfie generation’_ should become a retailer catchphrase. This is not only a convenient step in the right direction but also quite a fun one and undoubtedly a good addition to the bricks and mortar customer experience. The ideal next solution for Zara (and retailers in general) would now be to tackle one of the worst in-store experiences in the same way – the arduous task of returning a purchase. This could be solved by providing [one-to-one personalization](https://dressipi.com/solutions/product-discovery/) to all customers both in-store and online to help them make the right purchase decisions based on their personal preferences and intent.
