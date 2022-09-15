@@ -63,7 +63,7 @@ There is little doubt that automated micro-segmentation, done correctly, should 
 
 <p style="text-align:center"><img style="margin-left: 0px" alt="Image of a segmented wall of fashion-related images" src="/uploads/Blog_2_smaller.png"/></p>
 
-Our decision making is unique, as is our timing, our sensitivities and our affinities to products and product features. Nowhere is this more pertinent than in [fashion retailing](https://dressipi.com/blog/building-fashion-recommendation-systems/).
+Our decision making is unique, as is our timing, our sensitivities and our affinities to products and product features. Nowhere is this more pertinent than in [fashion retailing](https://dressipi.com/blog/building-recommendation-systems-ecommerce/).
 
 Here, the customer is shopping in the context of their shape, their size, their confidence, their preferences, the occasion and location of where the item will be worn, what it will be worn with, the weather, what they already own and numerous other considerations. All factors that segmentation cannot know about or respond to.
 
