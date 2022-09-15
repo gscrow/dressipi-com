@@ -84,4 +84,4 @@ But don’t run the risk of being too intrusive when it comes to using data - as
 
 We also can’t forget the added bonus of Dressipi’s ‘Ones to Watch Award’ nomination. Although we missed out on the title, we were thrilled to be in the running for Best Innovation Commerce-Enabler / Best Retail Solution!
 
-<p style="text-align:center"><img style="margin-left: 0px" alt="Image of Dressipi on the shortlist for the Ones to Watch Award at the Millenial 2020 Europe Summit" src="/uploads/awards.jpg"/></p>
+<p style="text-align:center"><img style="margin-left: 0px" alt="Image of Dressipi on the shortlist for the Ones to Watch Award at the Millenial 2020 Europe Summit" src="/uploads/Awards.JPG"/></p>
