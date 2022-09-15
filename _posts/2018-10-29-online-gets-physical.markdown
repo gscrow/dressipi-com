@@ -24,7 +24,7 @@ Popping up all over the place in temporary albeit seductive bricks-and-mortar in
 
 In celebration of its 10th anniversary (they have an LA store), Gwyneth Paltrow’s GOOP hit the streets of Notting Hill complete with a plush interior designed townhouse and Instagram worthy launch dinner that even if you don’t buy anything will leave you dipping into the site on a daily basis for a bit of voyeuristic wellness.  
 
-> Download our [whitepaper](https://dressipi.com/downloads/how-dressipi-can-help-retailers-transform-their-biggest-asset-whitepaper/) on how bricks and mortar retailers can use stores to their advantage
+> Read our [blog](https://dressipi.com/blog/innovating-at-speed-to-deliver-unique-and-relevant-in-store-experiences/) on how to deliver unique in-store experiences
 
 Amazon has billed their latest pop-up shop, ‘Amazon Fashion Hosts,’ as:
 
