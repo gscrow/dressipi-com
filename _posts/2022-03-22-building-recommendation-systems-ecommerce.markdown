@@ -1,6 +1,5 @@
 ---
-title: Building Fashion Recommendation Systems for Ecommerce | Personalized Fashion
-  Ecommerce
+title: Building Fashion Recommendation Systems for Ecommerce
 date: 2022-03-22 14:24:00 Z
 categories:
 - data
