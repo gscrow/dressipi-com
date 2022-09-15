@@ -57,7 +57,7 @@ Andrew Mann, Vice President Insight, Pricing & Digital CRM at Asda firmly believ
 
 His example of Disney’s “Magic Band” (essentially a tracking device!) to help manage your stay at the resort was a particularly good way of showcasing how brands are using tech in new ways to delight and fulfil expectations of great customer service.
 
-In short, his top tips for implementing [omnichannel solutions](https://dressipi.com/omnichannel-personalization/) were to focus on the customer, be best friends with your IT team (I wholeheartedly agree!), and most importantly within the business culture, don’t pass down the fear of using data intelligently.
+In short, his top tips for implementing omnichannel solutions were to focus on the customer, be best friends with your IT team (I wholeheartedly agree!), and most importantly within the business culture, don’t pass down the fear of using data intelligently.
 
 ## 3) Omnichannel in 2018 has an Entirely New Meaning
 
