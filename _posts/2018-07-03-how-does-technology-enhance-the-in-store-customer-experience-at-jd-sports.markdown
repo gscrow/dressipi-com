@@ -37,7 +37,7 @@ However, customers want the convenience and increasingly personalized experience
 
 RFID tagging, barcode scanning, online access mirrors, and self-checkouts are just a few examples of new emerging technologies brought into stores. Furthermore, many retailers are opting to out-source technologies to [innovative startups](https://dressipi.com/blog/dressipi-named-one-of-the-top-50-uk-retail-tech-uk-companies-by-tech-london-advocates/) (e.g. MishiPay, the seamless checkout experience) instead of trying to build the tech in-house.
 
-With the athleisure trend rapidly growing, and reports of [international store expansion](https://www.drapersonline.com/news/jd-sports-furthers-international-expansion/7030998.article) in the press, I visited JD Sports’ flagship on Oxford Street to see what technologies they have adopted to improve [customer experience in-store](https://dressipi.com/how-to-improve-customer-experience-instore/).
+With the athleisure trend rapidly growing, and reports of [international store expansion](https://www.drapersonline.com/news/jd-sports-furthers-international-expansion/7030998.article) in the press, I visited JD Sports’ flagship on Oxford Street to see what technologies they have adopted to improve [customer experience in-store](https://dressipi.com/blog/innovating-at-speed-to-deliver-unique-and-relevant-in-store-experiences/).
 
 ## JD Sports
 
