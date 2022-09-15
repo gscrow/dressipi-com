@@ -1,5 +1,5 @@
 ---
-title: Fashion-Specific Product Attributes
+title: Apparel-Specific Product Attributes
 date: 2019-09-25 13:08:00 Z
 position: 2
 resource: Guides
@@ -11,7 +11,7 @@ download:
 position-list: 2
 ---
 
-# Fashion-Specific Product Attributes
+# Apparel-Specific Product Attributes
 
 ## Why quality and accurate garment data is the foundation for digital transformation
 
