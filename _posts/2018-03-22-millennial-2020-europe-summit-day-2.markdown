@@ -36,7 +36,7 @@ Digital technology is moving at a rapid pace, and for retailers to be leaders in
 
 <p style="text-align:center"><img style="margin-left: 0px" alt="Image of one of the keynote panels at the Millenial 2020 Europe Summit" src="/uploads/day-2-panel_keynote.jpg"/></p>
 
-Highlights from a jam-packed Day 2 (if you missed Day 1, check out our blog post [here](dressipi.com/blog/millennial-2020-europe-summit-day-1/)) included:
+Highlights from a jam-packed Day 2 (if you missed Day 1, check out our blog post [here](https://dressipi.com/blog/millennial-2020-europe-summit-day-1/)) included:
 
 ## 1. Bricks & Mortar Retailers - Be Relevant or Die
 
@@ -65,7 +65,7 @@ We need to keep sight of the simple fact that new technologies are there to help
 
 Do people genuinely want to give up their data in exchange for a better experience? Well perhaps, if the customer feels like they have the control.
 
-As highlighted by Skip Fidura, Client Services Director, dotmailer on [Day 1](dressipi.com/blog/millennial-2020-europe-summit-day-1/), customers are inclined to ask the question, “*I give you my data. You give me…?*”. This marks what he calls a “*contextual revolution*”, whereby the customer is becoming all too aware of the value their data holds. Furthermore, they have a growing expectation of exchanging it for something truly valuable.
+As highlighted by Skip Fidura, Client Services Director, dotmailer on [Day 1](https://dressipi.com/blog/millennial-2020-europe-summit-day-1/), customers are inclined to ask the question, “*I give you my data. You give me…?*”. This marks what he calls a “*contextual revolution*”, whereby the customer is becoming all too aware of the value their data holds. Furthermore, they have a growing expectation of exchanging it for something truly valuable.
 
 On a panel titled: ‘Artificial Intelligence and Voice Technology Transforming Commerce’, Nick Wilsdon, SEO Lead, Vodafone Group commented, “*If we want virtual assistants we need to give out more data and get used to giving up lots of data*”. He is also of the opinion that, “*People are willing to give up their data for convenience*.” 
 
