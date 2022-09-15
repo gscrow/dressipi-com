@@ -26,7 +26,7 @@ Highlights from this year's Omnichannel Retail Summit, hosted by Retail Bulletin
 
 ## Many buzzwords within the industry are used to describe what is essentially understanding customer behavior across all shopping channels to deliver the best possible experience from start to finish.
 
-Connecting that customer journey is gold dust for retailers. Whether its increasing brand loyalty, boosting acquisition and retention or driving sales, the [omnichannel experience](https://dressipi.com/omnichannel-personalization/) (when done correctly) has the potential to be transformative for a business.
+Connecting that customer journey is gold dust for retailers. Whether its increasing brand loyalty, boosting acquisition and retention or driving sales, the omnichannel experience (when done correctly) has the potential to be transformative for a business.
 
 In order to truly understand the intent and preferences of customers, their offline and online interactions with a brand should not exist separately, but rather work together, with data being the foundation that allows customers to have seamless (and accurate) interactions with that brand.
 
