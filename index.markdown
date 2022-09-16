@@ -18,9 +18,10 @@ description: Dressipi delivers personalization for apparel retailers to help sho
 has-contact-section: false
 sections:
 - title: Personalization designed for fashion retailers
-  subtitle: Products automatically tagged with 3x more detail. Data crunched for you.
-    Fashion expertise overlaid. Dressipi does the heavy lifting so you can make a
-    step-change in product discovery and revenue growth.
+  subtitle: |-
+    Products automatically tagged with 3x more detail. Data crunched for you. Fashion expertise overlaid. Dressipi does the heavy lifting so you can make a step-change in product discovery and revenue growth.
+    <br>
+    Find out how your personalization compares to the best in class, and see if you're already on your way to making a step-change.
   handle: erb
   is-centered: true
   roi-section: true
