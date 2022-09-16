@@ -2,39 +2,39 @@
 title: Stocked up on Bags & Boots for this Black Friday’s Splurge?
 date: 2021-09-29 13:21:00 Z
 categories:
-- retail
-- data
+  - retail
+  - data
 tags:
-- black friday
-- personalized recommendations
-- smarter discounting
-- post purchase email
-- black friday data
-- reduced returns
+  - black friday
+  - personalized recommendations
+  - smarter discounting
+  - post purchase email
+  - black friday data
+  - reduced returns
 image: "/uploads/BlackFridayBanner.jpg"
 author: Georgina Fisher
 button:
-  Key: 
-description: 'Get Black Friday ready by discovering what customers are buying, what
-  promotions you need and how to make the period as successful and profitable as possible.
-
-'
+  Key:
+description:
+  "Get Black Friday ready by discovering what customers are buying, what
+  promotions you need and how to make the period as successful and profitable as possible."
+redirect_to: "/blog/black-friday-insights/"
 ---
 
-### The economy has opened up and we are expecting a bumper Black Friday in line with 2018 and 2019 - and a bonus for your return rates, customers buying categories with lower return rates is one of the reasons why Black Friday works so well! 
+### The economy has opened up and we are expecting a bumper Black Friday in line with 2018 and 2019 - and a bonus for your return rates, customers buying categories with lower return rates is one of the reasons why Black Friday works so well!
 
 To help you get ready for peak, we have analyzed the Black Friday numbers from the last 3 years, found out what your customers are buying and what promotions you need to give to ensure profitable relationships with them.
 
 Plus, our top tips to make the period as successful as possible - you’ll be pleased to know that net net, for most retailers, Black Friday is a profitable exercise!
 
-## 2021 to be as Successful as Pre-Covid 
- 
+## 2021 to be as Successful as Pre-Covid
+
 Due to lockdowns and more discounted periods throughout 2020, Black Friday in 2018 and 2019 were more successful than the same period in 2020:
 
-* In 2018 & 2019, the 2 weeks over the Black Friday period contributed an average of 9% of the annual revenue for a retailer with a revenue growth of 85% and 81% respectively on the previous 2 weeks.
-* Whereas, in 2020, the same Black Friday period contributed an average of 7.8% of the annual revenue for a retailer, 13% less than the previous year. Revenue growth was only up 65% on the previous 2 weeks.
-<br>
-<br>
+- In 2018 & 2019, the 2 weeks over the Black Friday period contributed an average of 9% of the annual revenue for a retailer with a revenue growth of 85% and 81% respectively on the previous 2 weeks.
+- Whereas, in 2020, the same Black Friday period contributed an average of 7.8% of the annual revenue for a retailer, 13% less than the previous year. Revenue growth was only up 65% on the previous 2 weeks.
+  <br>
+  <br>
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 900px;" alt="Black Friday sales as a percentage of annual revenue, and Black Friday revenue growth on previous two weeks between 2018 and 2021" src="/uploads/BlackFriday1.JPG"/></p>
 <br>
@@ -43,9 +43,9 @@ Due to lower promotional activity and the opening up of the economy, we anticipa
 
 ## The Impact On Return Rates
 
-With the increase in spontaneous purchases to not miss out on the best deals, there could be a fear of increased return rates. However, this is not the case. 
+With the increase in spontaneous purchases to not miss out on the best deals, there could be a fear of increased return rates. However, this is not the case.
 
-Pre-pandemic, we actually saw an average decrease in return rates of 11% over Black Friday and the rest of the Christmas period. This lower return rate could be due to gifting but also due to people purchasing products with a lower average return rate. Products purchased the most (see next section) included bags and boots which have return rates of 5.1% and 14.6% respectively, compared to dresses with an average of 44.7%. 
+Pre-pandemic, we actually saw an average decrease in return rates of 11% over Black Friday and the rest of the Christmas period. This lower return rate could be due to gifting but also due to people purchasing products with a lower average return rate. Products purchased the most (see next section) included bags and boots which have return rates of 5.1% and 14.6% respectively, compared to dresses with an average of 44.7%.
 <br>
 <br>
 
@@ -60,11 +60,11 @@ For most retailers over the Black Friday period, the biggest % increase in purch
 
 Categories purchased by new and existing customers are typically different on a day to day basis. This is also reflected during the Black Friday period with new customers purchasing bags and returning customers purchasing jeans at a much higher rate, showing that retailers need to push different categories to their different customer groups. Taking data from 2019 (pre-Covid):
 
-* For new customers, sales of bags, coats and boots were up 582% vs normal sales behavior. 
-* For returning customers, sales of jeans were up 432% vs normal sales behavior. 
-What to Recommend to Visitors
-<br>
-<br>
+- For new customers, sales of bags, coats and boots were up 582% vs normal sales behavior.
+- For returning customers, sales of jeans were up 432% vs normal sales behavior.
+  What to Recommend to Visitors
+  <br>
+  <br>
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 700px;" alt="What to recommend to new customers versus returning customers by increase in sales compared to normal sales behavior" src="/uploads/BlackFriday3.JPG"/></p>
 <br>
@@ -75,12 +75,12 @@ Evidence suggests that customers that come to the site for Black Friday are less
 
 To ensure a profitable relationship with these customers, new customer promotions should be geared towards higher-margin products. Whereas, existing customers should be given broader promotions to increase order frequency.
 
-## Top Tips for a Successful Black Friday 
+## Top Tips for a Successful Black Friday
 
-1) [Personalized Recommendations](https://dressipi.com/downloads/success-story-belstaff/): In the lead up to Black Friday, push different categories to different customers depending on their preferences. Delve into your data, are your new customers also buying bags, coats and boots like the rest of the nation?
+1. [Personalized Recommendations](https://dressipi.com/downloads/success-story-belstaff/): In the lead up to Black Friday, push different categories to different customers depending on their preferences. Delve into your data, are your new customers also buying bags, coats and boots like the rest of the nation?
 
-2) [Smarter Discounting](https://dressipi.com/downloads/dressipi-optimize-sale-overstocked-products-webinar/): Use your data to deliver smarter solutions for discounting rather than blanket sales and release maximum cash into your business. 
+2. [Smarter Discounting](https://dressipi.com/downloads/dressipi-optimize-sale-overstocked-products-webinar/): Use your data to deliver smarter solutions for discounting rather than blanket sales and release maximum cash into your business.
 
-3) [Post-Purchase Emails](https://dressipi.com/blog/post-purchase-emails-helping-customers-make-the-most-of-their-purchases/): Turn those less valuable Black Friday visitors into loyal customers by making them come back and buy again. Increase that 1st to 2nd purchase % by sending those customers relevant communications, with the right product at the right time.
+3. [Post-Purchase Emails](https://dressipi.com/blog/post-purchase-emails-helping-customers-make-the-most-of-their-purchases/): Turn those less valuable Black Friday visitors into loyal customers by making them come back and buy again. Increase that 1st to 2nd purchase % by sending those customers relevant communications, with the right product at the right time.
 
 <p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
