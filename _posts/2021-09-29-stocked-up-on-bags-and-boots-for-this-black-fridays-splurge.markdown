@@ -2,22 +2,21 @@
 title: Stocked up on Bags & Boots for this Black Friday’s Splurge?
 date: 2021-09-29 13:21:00 Z
 categories:
-  - retail
-  - data
+- retail
+- data
 tags:
-  - black friday
-  - personalized recommendations
-  - smarter discounting
-  - post purchase email
-  - black friday data
-  - reduced returns
+- black friday
+- personalized recommendations
+- smarter discounting
+- post purchase email
+- black friday data
+- reduced returns
 image: "/uploads/BlackFridayBanner.jpg"
 author: Georgina Fisher
 button:
-  Key:
-description:
-  "Get Black Friday ready by discovering what customers are buying, what
-  promotions you need and how to make the period as successful and profitable as possible."
+  Key: 
+description: Get Black Friday ready by discovering what customers are buying, what
+  promotions you need and how to make the period as successful and profitable as possible.
 redirect_to: "/blog/black-friday-insights/"
 ---
 
