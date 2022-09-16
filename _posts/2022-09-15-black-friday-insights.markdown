@@ -6,6 +6,7 @@ author: Georgina Fisher
 description: "The top Black Friday sales statistics! Get Black Friday 2022 ready by
   discovering what customers are buying, what promotions you need and how to make
   the period as successful and profitable as possible. \n"
+post_title: Black Friday 2022 Insights
 ---
 
 ### Stocked up on bags and boots for Black Friday 2022? 
