@@ -21,3 +21,9 @@
     @extend %button--large;
   }
 }
+
+.outgrow-l {
+  @extend %button--large;
+  @include button-style(primary);
+  margin-bottom: rhythm(5);
+}

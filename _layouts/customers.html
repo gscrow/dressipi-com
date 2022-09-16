@@ -17,6 +17,13 @@ layout: default
      {% if section.subtitle %}<p>{{ section.subtitle }}</p>{% endif %}
     </hgroup>
   {% endif %}
+
+  {% if section.has-audit-button %}
+  <div class="container gutter section__footer text--center">
+    {% include partials/audit-button.html %}
+  </div>
+  {% endif %}
+  
   <!-- section content group -->
   <div class="section__body">
     {% case handle %}
