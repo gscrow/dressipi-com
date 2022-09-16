@@ -19,6 +19,6 @@ Check out our top tips and Black Friday 2022 predictions to make the period as s
 
 I hope you have found our Black Friday data analysis helpful. 
 
-If you like our insights, please sign up to our newsletter!
+If you like our insights, please sign up to the Dressipi newsletter!
 
 <p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
