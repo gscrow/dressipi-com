@@ -20,6 +20,12 @@ layout: default
   </hgroup>
   {% endif %}
 
+  {% if section.has-audit-button %}
+  <div class="container gutter section__footer text--center">
+    {% include partials/audit-button.html %}
+  </div>
+  {% endif %}
+
   <!-- section content group -->
   <div class="section__body">
     {% case handle %}
@@ -178,12 +184,6 @@ layout: default
   <!-- section footer group -->
   <div class="container gutter section__footer text--center">
     <a href="{{ section.button.url }}" class="button button--large button-{{ section.button.style | default: 'secondary' }} anchor-link">{{ section.button.copy }}</a>
-  </div>
-  {% endif %}
-
-  {% if section.has-audit-button %}
-  <div class="container gutter section__footer text--center">
-    {% include partials/audit-button.html %}
   </div>
   {% endif %}
 </section>
