@@ -1,5 +1,5 @@
 ---
-title: Dressipi Collaborates with ACM Recommender Systems (RecSys)
+title: Dressipi Collaborates with RecSys
 date: 2022-03-10 11:51:00 Z
 categories:
 - data
@@ -13,8 +13,10 @@ tags:
 - garment attributes
 image: "/uploads/RecSysBanner.jpeg"
 author: Nick Landia
-description: "As recognised leaders in fashion AI, Dressipi have been chosen as the
-  industry partner for the prestigious RecSys challenge. \n"
+description: 'As recognised leaders in fashion AI, Dressipi have been chosen as the
+  industry partner for the prestigious ACM RecSys 2022 challenge.
+
+'
 post_title: Dressipi Collaborates with ACM Recommender Systems (RecSys)
 ---
 
