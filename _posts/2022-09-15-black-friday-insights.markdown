@@ -16,7 +16,7 @@ To help you get ready for peak, we have analyzed the Black Friday sales data fro
 Check out our top tips and Black Friday 2022 predictions to make the period as successful as possible!
 
 <p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 1000px;" alt="Infographic of the data, the insight and the top tips for Black Friday 2022
-" src="/uploads/Black_Friday_Infographic.png"/></p>
+" src="/uploads/Black_Friday_2022_Infographic.png"/></p>
 
 I hope you have found our Black Friday data analysis helpful. 
 
