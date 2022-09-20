@@ -14,8 +14,8 @@ tags:
 - reduce returns
 image: "/uploads/SustainabilityBanner-648f0a.jpg"
 author: Georgina Fisher
-description: 'The future depends on retailers changing the entire way we consume fashion,
-  by both buying, and selling, better. Check out what Dressipi can do to help. '
+description: The future depends on retailers changing the way we consume fashion.
+  Dressipi can help more effectively than other sustainable ecommerce platforms.
 post_title: Why Dressipi is the Right Choice of Sustainable Fashion Technology
 ---
 
