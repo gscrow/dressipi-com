@@ -1,5 +1,5 @@
 ---
-title: Why Dressipi is the Right Choice of Sustainable Fashion Technology
+title: Dressipi is the Right Choice of Sustainable Tech
 date: 2022-04-27 15:00:00 Z
 categories:
 - retail
