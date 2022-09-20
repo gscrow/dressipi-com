@@ -1,5 +1,5 @@
 ---
-title: Building Fashion Recommendation Systems for Ecommerce
+title: Building Fashion Recommendation Systems
 date: 2022-03-22 14:24:00 Z
 categories:
 - data
@@ -17,9 +17,8 @@ tags:
 - true personalization
 image: "/uploads/Screen_Shot_2018-04-19_at_15.28.31.jpeg"
 author: Nick Landia
-description: Learn about building fashion recommendation systems for ecommerce. Understand
-  the challenges involved in providing personalized product recommendations for online
-  apparel retail, and how Dressipi overcomes them.
+description: Read about building fashion recommendation systems for ecommerce, and
+  how Dressipi overcomes the challenges of personalized product recommendations.
 download: 
 post_title: Building Fashion Recommendation Systems for Ecommerce
 ---
