@@ -1,6 +1,6 @@
 ---
 title: Accurate Garment Data is Key for Personalized Outfits
-date: 2021-03-08 15:56:00 Z
+date: 2022-02-07 09:30:00 Z
 categories:
 - tech
 tags:
@@ -12,7 +12,7 @@ tags:
 - outfit algorithms
 - personalized outfits
 - personalized outfits technology
-image: "/uploads/Outfit_Blog_Banner.JPG"
+image: "/uploads/accurate-garment-data-for-outfits-banner.jpg"
 author: Marija Mandić
 description: Dressipi’s Software Engineer Marija Mandić explains why outfitting is
   a vital component to selling fashion and how it operates from a data-driven point
