@@ -43,7 +43,7 @@ Personalizing to the individual is now a must and this is what makes Dressipi di
 
 Dressipi has everything a retailer needs to scale personalization and to show customers the items they’ll love - and keep. This includes personalized recommendations and outfits across the customer journey, updated in real-time. What is apparent now is that if you don’t give this level of personalization, you will get left behind.
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 550px;" alt="Unlocking the power of personalization podcast speakers" src="/uploads/RRPodcast_2.jpg"/></p>
+<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 550px;padding-top:15px;padding-bottom:10px;" alt="Unlocking the power of personalization podcast speakers" src="/uploads/RRPodcast_2.jpg"/></p>
 
 ## 3) The ongoing returns issue
 
