@@ -72,14 +72,3 @@ Personalization is now a necessity. Retailers need to think about the product di
 Want to start making a step-change in personalization? Download our guide on redefining the discovery process. 
 
 <p style="text-align:center"><a href="/downloads/your-sort-order-is-your-secret-sauce-to-success/" class="button button-primary">GET THE GUIDE</a></p>
-
-
-<hr>
-
-### You might also be interested in this article...
-
-## Five Things You Should Know About Retail Personalization
-
-Personalization in retail is a powerful tool for selling and communicating to consumers. But what does it actually entail?
-
-<p style="text-align: left"><a href="/blog/five-things-retail-personalization/" class="button button-primary">READ THE FULL STORY</a></p>
