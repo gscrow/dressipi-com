@@ -18,13 +18,12 @@ header:
   case-study-header: true
   page-title: SUCCESS STORY
   page-title-icon: "/uploads/icon_success-story-color.svg"
-  body: How John Lewis saw a significant increase in revenue with Dressipi’s outfit
-    recommendations
+  body: Outfit Recommendations Deliver Significant Revenue Increase for John Lewis
 sections:
 - title: 
   handle: story
   subsections:
-  - title: The Challenge
+  - title: The online shopping journey created friction for customers
     class: challenge
     subtitle: 
     body: "John Lewis & Partners is a leading high-end, department store with a large
@@ -36,7 +35,7 @@ sections:
       and were looking for a solution that could deliver personalized outfits at scale,
       across womenswear, menswear and kidswear. \n\nDressipi was the only vendor who
       could deliver this. \n"
-  - title: The Solution
+  - title: 100 million personalized outfits per night
     subtitle: 
     class: solution
     body: "Working with Dressipi, John Lewis looked at how they could further optimize
@@ -67,7 +66,7 @@ sections:
       experience. It allows their customers to have their own personal style page
       with a place to view their outfits and recommendations.\n"
     image: "/uploads/John_lewis_Roxy_Star_Print_Midi_Dress.jpg"
-  - title: The Results
+  - title: Significant uplift in revenue with outfit recommendations
     class: results
     subtitle: 
     body: John Lewis saw an uplift in revenue per email sent when responding with
@@ -82,12 +81,11 @@ sections:
       better understanding of the data we have on customers and how we can help tie
       that back into a more personalized journey.”"
     author: Rob Hitchman, Digital Product Owner
-- contact-title: Please get in touch today to learn how to get started on delivering
-    truly personalized outfits at scale. In as little as two weeks, you’ll be inspiring
-    your customers and delivering that much needed revenue increase to your brand.
+- contact-title: Want to make a step-change in personalization to stay competitive?
+    Get in touch.
   handle: contact
   button:
-    copy: FREE CONSULTATION >
+    copy: BOOK A DEMO >
     url: "/company/demo/"
 position-list: 2
 layout: case-study
