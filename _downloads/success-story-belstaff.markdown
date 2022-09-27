@@ -10,21 +10,20 @@ testimonial:
     image: "/uploads/Belstaff_success_story_hero_2.jpg"
   action: Read The Full Story >
   title: Success Story
-  small-testimonial: Belstaff increased email revenue by 69% through personalized
-    recommendations
+  small-testimonial: Personalized Recommendations Increase Email Revenue for Belstaff
+    by 69%
   class: riverisland
 navigation: header
 header:
   case-study-header: true
   page-title: SUCCESS STORY
   page-title-icon: "/uploads/icon_success-story-color.svg"
-  body: How Belstaff’s Emails Saw Revenue Increase 69% Through Dressipi’s Personalized
-    Recommendations
+  body: Personalized Recommendations Increase Email Revenue for Belstaff by 69%
 sections:
 - title: 
   handle: story
   subsections:
-  - title: The Challenge
+  - title: Growing ecommerce sales requires a customer-centric approach
     class: challenge
     subtitle: 
     body: "From its historic inception in 1924, Belstaff has become one of the UK’s
@@ -34,7 +33,7 @@ sections:
       fashion retail.\n\nWith ecommerce driving an increasingly significant proportion
       of sales, Belstaff wanted to expand their customer-centric approach across all
       shopping channels. \n\nDressipi could help deliver this.\n"
-  - title: The Solution
+  - title: Personalized emails engage and inspire customers
     subtitle: 
     class: solution
     body: |
@@ -44,7 +43,7 @@ sections:
 
       Dressipi and Belstaff worked closely together to ensure that the iconic Belstaff brand DNA was understood and captured in Dressipi’s algorithms. Brand DNA is especially essential for luxury retailers so it was important that the recommendations in the emails integrate seamlessly with Belstaff’s look and feel.
     image: "/uploads/Belstaff_success_story_emails.png"
-  - title: The Results
+  - title: 'Delivering 69% email revenue uplift '
     class: results
     subtitle: 
     body: |
@@ -69,12 +68,11 @@ sections:
       experiences that customers are demanding whilst maintaining the integrity of
       our brand identity.”"
     author: Samantha Davis, Head of Ecommerce, Belstaff
-- contact-title: Would you like to create an exceptional shopping experience across
-    all channels or do you need support with any more general CRM strategies? Please
-    fill in the Dressipi contact form for further information.
+- contact-title: Want to make a step-change in personalization to stay competitive?
+    Get in touch.
   handle: contact
   button:
-    copy: FREE CONSULTATION >
+    copy: BOOK A DEMO >
     url: "/company/demo/"
 position-list: 3
 layout: case-study
