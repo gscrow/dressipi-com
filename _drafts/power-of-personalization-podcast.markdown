@@ -10,7 +10,7 @@ post_title: Unlocking the Power of Personalization [PODCAST]
 
 Listen to Sarah McVittie, co-founder of Dressipi on The Robin Report podcast discussing how to drive a step-change in personalization for apparel ecommerce.
 
-<p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 575px;padding-top:15px;padding-bottom:10px;" alt="Unlocking the power of personalization podcast" src="/uploads/RRPodcast_1.jpg"/></p>
+<p style="text-align: center; font-size:12pt;"><iframe width="560" height="315" src="https://www.youtube.com/embed/hpwBmRpOELs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 Don’t have time to listen now? Here are some key takeaways from Sarah:
 
