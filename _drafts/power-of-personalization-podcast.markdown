@@ -6,7 +6,7 @@ author: Georgina Fisher
 post_title: Unlocking the Power of Personalization [PODCAST]
 ---
 
-###Personalization is the tool for staying ahead of the competition. Especially in a time when customers have less disposable income - knowing what they want, when they want it is key to increasing revenues and reducing returns.
+### Personalization is the tool for staying ahead of the competition. Especially in a time when customers have less disposable income - knowing what they want, when they want it is key to increasing revenues and reducing returns.
 
 Listen to Sarah McVittie, co-founder of Dressipi on The Robin Report podcast discussing how to drive a step-change in personalization for apparel ecommerce.
 
@@ -14,7 +14,7 @@ Listen to Sarah McVittie, co-founder of Dressipi on The Robin Report podcast dis
 
 Don’t have time to listen now? Here are some key takeaways from Sarah:
 
-##1) Inflation will hit retailers hard
+## 1) Inflation will hit retailers hard
 
 It’s no secret that the retail industry is going through a big period of transformation. There are pressures on pricing, pressures on the supply chain and as brands are more accessible globally, the customer is increasingly fickle and harder to retain. 
 
@@ -26,7 +26,7 @@ Add to this, the cost of living crisis. It’s going to hit hard. Customers are 
 
 You need to make sure you show customers exactly what they want or need because you need to make sure their one purchase is with you.
 
-##2) What personalization actually means
+## 2) What personalization actually means
 
 > “*Personalization at the core of what it means is that you are able to hyper-personalize every single bit of the journey to every single customer in a way that is unique to them.*” - Sarah McVittie
 
@@ -45,7 +45,7 @@ Dressipi has everything a retailer needs to scale personalization and to show cu
 
 <p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 550px;" alt="Unlocking the power of personalization podcast speakers" src="/uploads/RRPodcast_2.jpg"/></p>
 
-##3) The ongoing returns issue
+## 3) The ongoing returns issue
 
 It’s increasingly important to reduce your returns in a time when you really need to protect profits AND with the cost of returns going up due to increased delivery costs. This is becoming very apparent with retailers such as Zara announcing they are going to start charging for online returns. 
 
@@ -55,7 +55,7 @@ Consumers are also becoming aware of increasing prices which leads to an increas
 
 Dressipi’s core business focuses on helping fashion retailers increase their revenue whilst reducing their garment return rates. We are the only recommendation provider that builds return rate propensities into their algorithms which means that we typically see return rates drop by 10-15% when the same customer buys through Dressipi recommendations versus the normal customer journey. 
 
-##4) Why there is no 'one size fits all' solution
+## 4) Why there is no 'one size fits all' solution
 
 There are a number of reasons why you cannot take a standard off-the-shelf approach to personalization if you want to provide the best possible experience for the customer and grow your profit: 
 
