@@ -3,8 +3,8 @@ title: Customers
 position: 20
 navigation: header
 header:
-  title: How River Island increased their revenue by 6% in 12 months with Dressipi’s
-    fashion-focused approach to personalization and better data
+  title: Apparel-Specific Personalization Drives 6% Revenue Increase in 12 Months
+    at River Island
   button:
     copy: BOOK A DEMO >
     url: "/company/demo/"
@@ -35,14 +35,15 @@ sections:
   - Seasalt Cornwall
   - Jigsaw
   - Hush
-- title: More Success Stories
+- title: More Case Studies
   handle: success-stories
   downloads:
-  - Personalization Drives Profitable Growth for River Island
+  - Personalization Drives 6% Revenue Increase for River Island
   - Personalized Outfits Increase Revenue For John Lewis
   - Belstaff increased email revenue by 69% through personalized recommendations
-  - How LK Bennett is using Dressipi’s Data Insight Hub
-  - How A Luxury Retailer Gives Each Customer a Tailored Shopping Experience
+  - LK Bennett Increase First to Second Purchase by 25% through Better Data
+  - Tailored Shopping Experiences for Each Customer Delivers a 12% Increase in RPV
+    for a Luxury Retailer
 - roi-title: Dressipi Makes it Easy to Get Started & Quickly Deliver ROI
   handle: benefits
   is-centered: true
