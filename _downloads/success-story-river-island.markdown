@@ -1,5 +1,5 @@
 ---
-title: Personalization Drives Profitable Growth for River Island
+title: Personalization Drives 6% Revenue Increase for River Island
 date: 2021-03-01 08:54:00 Z
 position: 1
 resource: Case Studies
@@ -22,13 +22,13 @@ header:
   case-study-header: true
   page-title: SUCCESS STORY
   page-title-icon: "/uploads/icon_success-story-color.svg"
-  body: How River Island increased their revenue by 6% in 12 months with Dressipi’s
-    fashion-focused approach to personalization and better data
+  body: Apparel-Specific Personalization Drives 6% Revenue Increase in 12 Months at
+    River Island
 sections:
 - title: 
   handle: story
   subsections:
-  - title: The Challenge
+  - title: Generic personalization providers weren't delivering revenue
     class: challenge
     subtitle: 
     body: "River Island is one of the UK’s leading fashion retailers. Generating millions
@@ -38,7 +38,7 @@ sections:
       in turn, their online revenue. Despite this, they were struggling to see any
       material difference with the two generic personalization providers they were
       using. \n\nThey wanted to explore other options.\n"
-  - title: The Solution
+  - title: Apparel-specific personalization provides a better customer experience
     subtitle: 
     class: solution
     body: "River Island were intrigued by Dressipi’s fashion focussed approach and
@@ -56,7 +56,7 @@ sections:
       vs our control in the recommendation engine that wasn’t in the fashion vertical,
       so the non Dressipi variant was actually having a detrimental impact on performance”"
     author: Gemma Scarfe, Ecommerce Director
-  - title: The Results
+  - title: Delivering a 6% revenue increase in 12 months
     class: results
     body: |
       Given the success of the initial test, River Island were then prepared to extend personalization to all parts of the customer journey and expand across their menswear and kidswear categories.
@@ -114,12 +114,11 @@ sections:
       excites me is how we come together on insights. Getting beyond personalization
       has really helped us understand our customer base and what they want and need.”"
     author: Simon Konn, Insights & CRM Director
-- contact-title: If you have any questions or you’d like to speak to us directly about
-    how fashion-specific  personalization can make a difference to your customer experience
-    and increase your online revenue, please get in touch.
+- contact-title: Want to make a step-change in personalization to stay competitive?
+    Get in touch.
   handle: contact
   button:
-    copy: FREE CONSULTATION >
+    copy: BOOK A DEMO >
     url: "/company/demo/"
 position-list: 1
 layout: case-study
