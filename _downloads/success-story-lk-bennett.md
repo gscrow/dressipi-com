@@ -1,5 +1,5 @@
 ---
-title: How LK Bennett is using Dressipi’s Data Insight Hub
+title: LK Bennett Increase First to Second Purchase by 25% through Better Data
 date: 2021-06-06 08:54:00 Z
 position: 5
 resource: Case Studies
@@ -18,20 +18,19 @@ header:
   case-study-header: true
   page-title: SUCCESS STORY
   page-title-icon: "/uploads/icon_success-story-color.svg"
-  body: How LK Bennett is using Dressipi’s Data Insight Hub to trade more effectively
-    and increase first to second purchase by 25% in the first 4 months.
+  body: LK Bennett Increase First to Second Purchase by 25% through Better Data
 sections:
 - title: 
   handle: story
   subsections:
-  - title: The Challenge
+  - title: 'A need for good quality data '
     class: challenge
     subtitle: 
     body: |
       LK Bennett is a British affordable luxury brand. Founded in 1990, it quickly became established as a leading fashion house offering complete wardrobe solutions for all occasions, with a vision of bringing “a bit of Bond Street luxury to the High Street”.<br>
 
       Like many retailers, LK Bennett was focused on good quality daily and weekly reporting. They were looking for a partner that could help them see the bigger picture and monitor changes when both the external environment around them changed and their internal strategies changed.
-  - title: The Solution
+  - title: Transforming product and customer data into a powerful tool
     class: solution
     body: |
       Using Dressipi’s Data Insight Hub and applying a fashion-specific lens on every product and customer, LK Bennett was able to transform their data into a powerful asset that was genuinely actionable.<br>
@@ -48,7 +47,7 @@ sections:
       our catalogue into the categories and subcategories that customer’s shop online,
       for example, ‘Dresses’ & ‘Fit & Flare’.”"
     author: Sally Hunter, Digital Insight Analyst
-  - title: The Results
+  - title: 25% increase of first to second purchase
     class: results
     body: "The right fashion-specific data, used in the right way, will not only deliver
       revenue growth but will drive additional profit too. LK Bennett was able to
@@ -76,12 +75,11 @@ sections:
       are quick to respond to the needs of our team, for building new reports or tweaking
       current ones.”"
     author: Sally Hunter, Digital Insight Analyst
-  - contact-title: If you have any questions or you’d like to speak to us directly
-      about how fashion-specific  personalization can make a difference to your customer
-      experience and increase your online revenue, please get in touch.
+  - contact-title: Want to make a step-change in personalization to stay competitive?
+      Get in touch.
     bg: white
     button:
-      copy: Schedule A Free Consultation >
+      copy: BOOK A DEMO >
       url: "/company/demo/"
 position-list: 1
 layout: case-study
