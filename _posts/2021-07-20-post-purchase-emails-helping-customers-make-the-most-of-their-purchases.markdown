@@ -69,18 +69,4 @@ Showing [Personalized Outfits](https://dressipi.com/blog/driving-better-predicti
 * Open Rate +155%
 * Revenue / Email Sent +200% 
 
-<p style="text-align:center"><a href="/company/demo/" class="button button-primary">FREE CONSULTATION</a></p>
-
-<hr>
-
-### You might also like these articles...
-<br>
-<p style="text-align:center;"><table style="border-width:0;border-collapse: collapse;margin-left: auto;margin-right: auto;text-align: center;">
-        <tr>
-            <td style="border-width:0;width: 320px;"><a href="https://dressipi.com/downloads/success-story-river-island/"><img src="/uploads/river_island-footer-TEST.png" width="320px" height="320px" alt=""></a></td>
-            <td width="25px" style="border-width:0"></td>
-            <td style="border-width:0;width: 320px;"><a href="https://dressipi.com/blog/five-things-retail-personalization/"><img src="/uploads/five_things-footer-TEST.png" width="320px" height="320px" alt=""></a></td>
-        </tr>
-</table><p>
-
 <p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
