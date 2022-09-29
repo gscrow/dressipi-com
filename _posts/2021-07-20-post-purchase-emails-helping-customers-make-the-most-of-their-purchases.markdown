@@ -75,7 +75,7 @@ Showing [Personalized Outfits](https://dressipi.com/blog/driving-better-predicti
 
 ### You might also like these articles...
 <br>
-<p style="text-align:center;"><table style="border-collapse: collapse;margin-left: auto;margin-right: auto;text-align: center;">
+<p style="text-align:center;"><table style="border-width:0;border-collapse: collapse;margin-left: auto;margin-right: auto;text-align: center;">
         <tr>
             <td style="border-width:0;width: 320px;"><a href="https://dressipi.com/downloads/success-story-river-island/"><img src="/uploads/river_island-footer-TEST.png" width="320px" height="320px" alt=""></a></td>
             <td width="25px" style="border-width:0"></td>
