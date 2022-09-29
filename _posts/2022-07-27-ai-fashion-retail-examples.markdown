@@ -121,7 +121,7 @@ With 75% of retailers looking to invest in external technology partnerships to e
 <hr>
 
 ### You might also be interested in this article...
-## Fashion Specific Algorithms Need Style Expertise
-Dressipi Style Director Natalie Theo explains the importance of drawing on the expertise of some of the industry’s top stylists for fashion-specific algorithms.
+
+<p style="text-align: center; font-size:12pt;"><a href="/blog/five-things-retail-personalization/"><img style="margin-left: 0px; width: 1200px;" alt="Five Things You Should Know About Retail Personalization" src="/uploads/five-things-blog-banner-footer-TEST.png"/></a></p>
 
 <p style="text-align: left"><a href="/blog/fashion-is-different/" class="button button-primary">READ THE FULL STORY</a></p>
