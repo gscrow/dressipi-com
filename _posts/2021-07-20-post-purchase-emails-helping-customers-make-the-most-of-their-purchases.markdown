@@ -70,3 +70,12 @@ Showing [Personalized Outfits](https://dressipi.com/blog/driving-better-predicti
 * Revenue / Email Sent +200% 
 
 <p style="text-align:center"><a href="/company/demo/" class="button button-primary">FREE CONSULTATION</a></p>
+
+<hr>
+<table style="border-collapse: collapse;margin-left: auto;margin-right: auto;text-align: center;">
+        <tr>
+            <td style="border-width:1px;border-style:solid;border-color: #f3f4f7;width: 320px;"><a href="https://dressipi.com/downloads/success-story-river-island/"><img src="/uploads/five_things-footer-TEST.png" width="320px" height="320px" alt=""></a></td>
+            <td width="25px"></td>
+            <td style="border-width:1px;border-style:solid;border-color: #f3f4f7;width: 320px;"><a href="https://dressipi.com/blog/five-things-retail-personalization/"><img src="/uploads/five_things-footer-TEST.png" width="320px" height="320px" alt=""></a></td>
+        </tr>
+</table>
