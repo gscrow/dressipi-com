@@ -10,9 +10,9 @@ description: Learn about product attribute tagging for ecommerce. Find out why a
 
 ### Do you use data intelligently throughout your business? If product attribute tagging is done properly, it can feed into a number of areas and really help you excel.
 
-1. Good quality, [automated product tagging](https://dressipi.com/solutions/product-tagging/) improves [product discoverability](https://dressipi.com/solutions/product-discovery/). Data that describes the features of a product in detail will help improve rankings in search engines. It also increases accuracy of onsite search results. 
-2. It makes personalization relevant to the individual. Connecting with customers at the right time with the right product starts with understanding their specific preferences to product features.
-3. Finally, reviewing [demand forecasting](https://dressipi.com/solutions/product-forecasting/) at an attribute level can significantly increase sell-through rate.
+1. 1. Good quality, [automated product tagging](https://dressipi.com/solutions/product-tagging/) improves [product discoverability](https://dressipi.com/solutions/product-discovery/). Data that describes the features of a product in detail will help improve rankings in search engines. It also increases accuracy of onsite search results. 
+2. 2. It makes personalization relevant to the individual. Connecting with customers at the right time with the right product starts with understanding their specific preferences to product features.
+3. 3. Finally, reviewing [demand forecasting](https://dressipi.com/solutions/product-forecasting/) at an attribute level can significantly increase sell-through rate.
 
 On the flipside, inconsistent product data can be detrimental to your business. It affects customer searches and gives them frustrating online shopping experiences. For example, a merchandiser would start tagging yellow as lemon because that’s what the fashionistas were saying. But this was not what the customers were searching for, meaning they were not finding the products.
 
