@@ -5,6 +5,7 @@ image: "/uploads/product-attribute-tagging-banner.jpg"
 author: Georgina Fisher
 description: Learn about product attribute tagging for ecommerce. Find out why accurate
   and consistent clothing attributes are vital to drive KPI’s in digital fashion retail.
+post_title: Product Attribute Tagging for Ecommerce
 ---
 
 ### Do you use data intelligently throughout your business? If product attribute tagging is done properly, it can feed into a number of areas and really help you excel.
