@@ -86,7 +86,6 @@ sections:
   downloads:
   - Personalization Drives Profitable Growth for River Island
   - Belstaff increased email revenue by 69% through personalized recommendations
-  - How OVS Benefited from Dressipi’s Personalized In-Store Emails
   link: MORE CASE STUDIES >
   url: "/customers/"
 - title: Make Every Experience More Relevant, More Fashion-Specific with Dressipi
