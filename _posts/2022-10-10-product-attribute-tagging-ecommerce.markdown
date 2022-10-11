@@ -86,6 +86,6 @@ The most helpful thing to do when starting your data journey is to create a set 
 
 <hr>
 
-### We’ve got a dedicated whitepaper on how why quality and accurate garment data is the foundation for digital transformation. Follow the link below to access yours free today!
+We’ve got a dedicated whitepaper on how why quality and accurate garment data is the foundation for digital transformation. Follow the link below to access yours free today!
 
 <p style="text-align: center; font-size:12pt;"><a href="https://dressipi.com/downloads/product-attributes-guide/"><img style="margin-left: 0px; width: 800px;" alt="Dressipi Product Attributes Guide" src="/uploads/product-attributes-blog-footer.png"/></a></p>
