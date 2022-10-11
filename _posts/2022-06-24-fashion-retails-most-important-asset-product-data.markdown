@@ -61,3 +61,9 @@ Large data-led decision making businesses like Amazon, Pinterest, Etsy, Shein in
 Get in touch if you'd like to start providing a consistent source of accurate product data.
 
 <p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
+
+<hr>
+
+We’ve got a dedicated whitepaper on how why quality and accurate garment data is the foundation for digital transformation. Follow the link below to access yours free today!
+
+<p style="text-align: center; font-size:12pt;"><a href="https://dressipi.com/downloads/product-attributes-guide/"><img style="margin-left: 0px; width: 830px;" alt="Dressipi Product Attributes Guide" src="/uploads/guide_blog_footer-product_attributes.png"/></a></p>
