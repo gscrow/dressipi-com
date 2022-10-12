@@ -1,5 +1,5 @@
 ---
-title: 'Webinar: How To Optimize The Sale Of Overstocked Products'
+title: How To Optimize The Sale Of Overstocked Products
 position: 41
 is-landing-page: true
 includes-video: true
