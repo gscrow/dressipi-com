@@ -4,7 +4,7 @@ date: 2021-03-01 08:54:00 Z
 published: false
 position: 1
 resource: Case Studies
-image: "/uploads/success-story_river-island@2x.jpg"
+image: "/uploads/customers-crg_square.jpg"
 testimonial:
   body: “We are extremely happy with the results. Dressipi has consistently outperformed
     our incumbent provider on all key metrics."
@@ -13,7 +13,7 @@ testimonial:
     name: Lauren Terry
     job-title: Director of Ecommerce
     company: The Modist
-    image: "/uploads/success-story_river-island@2x.jpg"
+    image: "/uploads/customers-crg_square.jpg"
   action: Read The Full Story >
   title: Success Story
   small-testimonial: 4% increase in Revenue per Visitor with 1:1 personalization at
@@ -54,7 +54,7 @@ sections:
       to drive more revenue and continually build an understanding of their visitors
       at every step of the journey. The aim is to make sure their customers' shopping
       experiences get better and better.\n"
-    image: "/uploads/Dresses-Dresses-for-Women-Ladies-Dress-River-Island.jpg"
+    image: "/uploads/CRG_CaseStudy_Image.png"
   - title: Delivering a 6% revenue increase in 12 months
     class: results
     body: |
