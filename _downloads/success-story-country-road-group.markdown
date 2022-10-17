@@ -1,7 +1,7 @@
 ---
 title: Increase of 4% in Revenue per Visitor at Country Road Group
 date: 2021-03-01 08:54:00 Z
-position: 1
+position: 2
 resource: Case Studies
 image: "/uploads/customers-crg_square.jpg"
 testimonial:
