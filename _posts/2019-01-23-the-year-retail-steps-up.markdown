@@ -25,6 +25,7 @@ author: Philippa Mew
 description: 2018 was undoubtedly a tough year for retail and one that will be remembered.
   As we look to the year ahead, these are our top predictions for 2019.
 download: Five Things Every Retailer Should Know About Personalization
+post_title: The Year Retail Steps Up
 ---
 
 We take a look at our top predictions in the world of retail for 2019.
