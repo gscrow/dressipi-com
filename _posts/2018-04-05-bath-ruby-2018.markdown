@@ -14,6 +14,7 @@ tags:
 image: "/uploads/bath-rasduby.jpg"
 author: Fred Cheung
 description: Fred Cheung, Dressipi's CTO shares his highlights from Bath Ruby 2018.
+post_title: Bath Ruby 2018
 ---
 
 Fred Cheung, Dressipi's CTO shares his highlights from the two day conference.
