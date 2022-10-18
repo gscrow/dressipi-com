@@ -14,6 +14,7 @@ image: "/uploads/Trends_Blog_Banner.jpg"
 author: Natalie Theo
 description: Dressipi explores why fashion-specific data on garments is crucial when
   it comes to mapping and unravelling trends.
+post_title: A Trend is a Set of Data Points
 ---
 
 ### Whether we realise it or not, at some level we are buying into a version of a fashion trend each season. Some of us more than others. 
