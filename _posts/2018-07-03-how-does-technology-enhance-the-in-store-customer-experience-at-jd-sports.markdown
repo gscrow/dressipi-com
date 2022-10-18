@@ -20,6 +20,7 @@ image: "/uploads/JD-sports-banner.jpg"
 author: Georgina Fisher
 description: With athleisure on the rise, we visited JD Sport’s flagship on Oxford
   street to see which technologies they use to improve experiences in-store.
+post_title: Technology for In-Store Experiences at JD Sports
 ---
 
 When a customer walks into a store they expect a great experience, and these expectations are continuously growing.
