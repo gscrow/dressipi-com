@@ -13,6 +13,7 @@ author: Philippa Mew
 description: For those who weren’t able to make the yearly E-commerce Expo, here are
   our main takeaway from the event
 download: Five Things Every Retailer Should Know About Personalization
+post_title: Key Takeaways From Ecommerce Expo 2018
 ---
 
 For those who weren't able to make the yearly Ecommerce Expo, or simply didn't have enough time to squeeze in the best talks, here are our main takeways from the event.
