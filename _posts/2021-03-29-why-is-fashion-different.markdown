@@ -16,6 +16,7 @@ description: 'Dressipi’s Data Scientist explains why fashion recommendations a
   addressed.
 
 '
+post_title: 'Why is Fashion Different? Part 1: Quantifying Fashion Data'
 ---
 
 ## Quantifying Fashion Data
