@@ -16,6 +16,7 @@ image: "/uploads/WRC_banner.jpg"
 author: Philippa Mew
 description: Highlights from the World Retail Congress 2017
 download: How Dressipi Can Help Retailers Transform Their Biggest Asset
+post_title: Highlights from the World Retail Congress 2017
 ---
 
 Dressipi were thrilled to be selected as one of 5 start-ups who exhibited at the recent World Retail Congress in Dubai. In this post Philippa Mew, Marketing & PR Associate of Dressipi shares her highlights.
