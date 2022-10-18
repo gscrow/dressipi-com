@@ -12,6 +12,7 @@ image: "/uploads/Jeans_Tops_Trend.JPG"
 author: Sarah McVittie
 description: Discover what our data analysts have been finding out about changes to
   consumer behavior post-pandemic.
+post_title: The Rise and Rise of Online
 ---
 
 ## Some interesting findings from our data analysts.
