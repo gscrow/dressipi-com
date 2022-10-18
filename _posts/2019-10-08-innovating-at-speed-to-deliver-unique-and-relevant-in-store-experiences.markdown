@@ -30,6 +30,7 @@ image: "/uploads/pip_banner.jpeg"
 author: Sarah McVittie
 description: Co-Founder Sarah McVittie outlines the challenges of applying a hyper-personalized
   experience in-store to the fashion industry and the steps needed to get there
+post_title: Delivering Unique In-Store Experiences
 ---
 
 ## Why fashion-specific customer experiences can drive profitability and loyalty in-store.
