@@ -13,6 +13,7 @@ image: "/uploads/personalized%20shopping%20small.jpg"
 author: Natalie Theo
 description: How To Create A Personalized Shopping Experience
 download: Five Things Every Retailer Should Know About Personalization
+post_title: How To Create A Personalized Shopping Experience
 ---
 
 Natalie Theo, Dressipi’s Style Director explores the meaning of Personalization, and how retailers can use it to create one to one shopping experiences for their customers that will delight and inspire them.
