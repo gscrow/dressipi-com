@@ -15,6 +15,7 @@ image: "/uploads/Webinar-2021-03-17-banner.png"
 author: Georgina Fisher
 description: 'For those of you who weren''t able to make our Personalized Outfits
   Masterclass, we have pulled out the top takeaways from the event. '
+post_title: 'Personalized Outfits Masterclass: The Top Takeaways'
 ---
 
 ### The main takeaways from our Personalized Outfits Masterclass.
