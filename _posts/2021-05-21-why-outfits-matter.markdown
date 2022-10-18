@@ -13,6 +13,7 @@ author: Natalie Theo
 description: Style Director, Natalie Theo discusses the importance of having fashion
   stylists and AI when scaling a brand’s creativity and creating truly personalized
   outfits.
+post_title: Why Outfits Matter
 ---
 
 ## Nice outfit! Thanks, an algorithm styled it for me. Controversial? Maybe. 
