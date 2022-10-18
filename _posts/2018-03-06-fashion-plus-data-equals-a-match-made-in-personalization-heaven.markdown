@@ -20,6 +20,7 @@ description: Fashion authority can’t be taught or bought. Dressipi’s Style D
   explains fashion intuition and how to use data to create a powerful personalized
   solution.
 download: Delivering One-to-One Personalization for Wallis
+post_title: Fashion + Data = A Match Made in Personalization Heaven
 ---
 
 Fashion authority can't be taught and it can't be bought. Natalie Theo, Dressipi’s Style Director explores the importance of fashion intuition, and how combining it with data creates a powerful personalization solution.
