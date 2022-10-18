@@ -22,6 +22,7 @@ image: "/uploads/Panel_Day2.jpg"
 author: Philippa Mew
 description: 'After a busy first day at Millennial 2020, Day 2 began with a keynote
   panel discussing ‘Reinventing the brand’. '
+post_title: Millennial 2020 - Europe Summit Day 2
 ---
 
 After a busy [first day](https://dressipi.com/blog/millennial-2020-europe-summit-day-1/) at Millennial 2020, Day 2 began with a keynote panel discussing ‘Reinventing the brand’. 
