@@ -9,7 +9,7 @@ tags:
 - fashion technology
 - personalization
 - retail technology
-image: "/uploads/examples_of_ai-blog-banner.jpg"
+image: "/uploads/examples_of_ai-blog-banner-1.jpg"
 author: Georgina Fisher
 description: Check out the best examples and applications of AI in fashion. Get inspired
   by how AI is transforming retail shopping experiences.
