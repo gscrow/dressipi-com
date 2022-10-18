@@ -20,6 +20,7 @@ image: "/uploads/WhyFashionDifferentBanner-b94292.jpg"
 author: Nick Landia
 description: Dressipi’s Data Scientist digs deeper into the impact consumer behavior
   has on building recommender systems for the fashion domain.
+post_title: 'Why is Fashion Different? Part 2: Fashion Consumer Behavior'
 ---
 
 ## Fashion Consumer Behavior
