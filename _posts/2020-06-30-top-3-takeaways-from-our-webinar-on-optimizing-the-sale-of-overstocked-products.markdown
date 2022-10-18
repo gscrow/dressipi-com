@@ -49,7 +49,7 @@ This allows retailers to show a completely personalized edit to each customer wi
 
 Due to the advances in Machine Learning and AI outlined in the point above, retailers can get a deeper understanding of each customer and product. This enables them to more effectively distribute products to customers to significantly improve the chances of a product being bought and kept.
 
-A simple example is illustrated in the webinar, you can watch the video [here](https://dressipi.com/dressipi-optimize-sale-overstocked-products-webinar/).
+A simple example is illustrated in the webinar, you can watch the video [here](https://dressipi.com/downloads/dressipi-optimize-sale-overstocked-products-webinar/).
 
 Offering different products to different customers in each phase of discounting will increase the probability of purchase and have a huge impact on your contributed margin.
 
