@@ -20,6 +20,7 @@ description: 'An area that has delivered a significant boost to fashion retailer
 
 '
 download: Understanding Your Unique Return Rate Profile
+post_title: The Truth Behind Reduced Return Rates
 ---
 
 It’s no secret that COVID-19 has accelerated the shift to digital commerce within fashion retail. Over the last 12 months, UK womenswear retailers have seen their online revenues increase by an average of 18%.
