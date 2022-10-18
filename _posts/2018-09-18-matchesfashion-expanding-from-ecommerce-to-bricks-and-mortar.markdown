@@ -16,6 +16,7 @@ author: Georgina Fisher
 description: With physical stores increasingly being occupied by retailers that started
   online, we visited 5 Carlos Place, Matchesfashion’s new concept store.
 download: Five Things Every Retailer Should Know About Personalization
+post_title: Matchesfashion - Expanding from Ecommerce to Bricks and Mortar
 ---
 
 With physical retail spaces increasingly being occupied by brands that started online, Georgina Fisher visited 5 Carlos Place, Matchesfashion’s new concept store.
