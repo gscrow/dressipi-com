@@ -16,6 +16,7 @@ image: "/uploads/PPE_Banner_New-632f0d.jpeg"
 author: Georgina Fisher
 description: Increase retention and lifetime value by moving customers up the purchase
   ladder with Dressipi's outfit recommendations in post-purchase emails.
+post_title: Improve Customer Experience With Post-Purchase Emails
 ---
 
 ## “Thanks for your purchase! Here’s how we’d style it…”
