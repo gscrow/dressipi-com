@@ -14,6 +14,7 @@ image: "/uploads/First_Second_Purchase_Blog.jpg"
 author: Sarah McVittie
 description: Dressipi have analyzed the value behind improving customer retention
   and how personalized emails may be the answer for retailers to capitalize on this.
+post_title: Optimizing Your Email Revenue
 ---
 
 Customer Lifetime Value (LTV) and Personalization, two words that get used a lot by the modern-day marketeer.
