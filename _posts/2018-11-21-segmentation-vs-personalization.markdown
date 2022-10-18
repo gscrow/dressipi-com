@@ -23,6 +23,7 @@ author: Donna North
 description: Dressipi looks at Segmentation vs Personalization, and why the latter
   will soon prevail
 download: Beginner's Guide to Fashion Personalization
+post_title: Segmentation vs Personalization
 ---
 
 With technology developing at a rapid pace, how best to target customers and deliver products and experiences that are truly relevant to them is a hotly debated topic.
