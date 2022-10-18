@@ -26,6 +26,7 @@ image: "/uploads/Marketing_Team.jpg"
 author: Philippa Mew
 description: 'Held at The Old Truman Brewery, London, Millennial 2020’s Europe Summit
   was a two-day event exploring the future trends in retail, marketing and commerce. '
+post_title: Millennial 2020 - Europe Summit Day 1
 ---
 
 Held at The Old Truman Brewery, London, Millennial 2020’s Europe Summit was a two-day event exploring the future trends in retail, marketing and commerce. 
