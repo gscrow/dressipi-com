@@ -6,7 +6,7 @@ categories:
 - retail
 tags:
 - athleisure
-image: "/uploads/Athleisure.jpg"
+image: "/uploads/athleisure-blog-banner.jpg"
 author: Sarah McVittie
 description: Discover how people are dressing and expressing themselves post-pandemic
   with some interesting findings from our analysts.
