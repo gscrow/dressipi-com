@@ -13,6 +13,7 @@ image: "/uploads/pexels-kaboompics-com-6249%20(2).jpg"
 author: Natalie Theo
 description: It is crucial that retailers enhance their digital experience and deliver
   relevancy. Dressipi outlines some of their personalized email campaigns rolled out.
+post_title: Personalized Emails Are Key In A Post-Covid World
 ---
 
 As we find ourselves navigating a transformed retail landscape, retailers have been forced to pay microscopic attention to their online capabilities and digital acceleration. 
