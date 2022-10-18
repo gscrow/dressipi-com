@@ -18,6 +18,7 @@ image: "/uploads/IMG_20180207_115532_760.jpeg"
 author: Philippa Mew
 description: Highlights from this year’s Omnichannel Retail Summit, hosted by Retail
   Bulletin
+post_title: Retail Bulletin’s Omnichannel Retail Summit
 ---
 
 Highlights from this year's Omnichannel Retail Summit, hosted by Retail Bulletin.
