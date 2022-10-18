@@ -16,6 +16,7 @@ description: How To Make Your Data Work Harder To Reduce Garment Return Rates.
 download: |-
   How To Make Your Data Work
   Harder To Reduce Garment Return Rates
+post_title: How To Make Your Data Work Harder To Reduce Garment Return Rates
 layout: post
 ---
 
