@@ -1,5 +1,5 @@
 ---
-title: Dressipi Named A Top 50 UK Retail Tech Companies
+title: Dressipi Named A Top 50 UK Retail Tech Company
 date: 2018-06-14 14:48:00 Z
 categories:
 - news
@@ -22,6 +22,7 @@ image: "/uploads/retail-tech-banner-image.jpg"
 author: Philippa Mew
 description: Dressipi was delighted to be named one of the Top 50 UK Retail Tech companies
   switching up the fashion game by Tech London Advocates.
+post_title: Dressipi Named A Top 50 UK Retail Tech Company
 ---
 
 Following hot on the heels of San Francisco and New York, London is a city brimming with tech talent. 
