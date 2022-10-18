@@ -17,6 +17,7 @@ author: Natalie Theo
 description: As the fashion industry moves forward this month, our Style Director
   Natalie Theo breaks down the data that's telling us what's in style, what's not,
   and why.
+post_title: Data Anatomy of a Summer Dress
 ---
 
 ## The numbers don't lie, and they're talking trends.
