@@ -17,6 +17,7 @@ image: "/uploads/image%20(11).png"
 author: Georgina Fisher
 description: 'For those of you who weren''t able to make our Overstocked Webinar,
   we have pulled out the 3 main takeaways from the event. '
+post_title: Optimizing The Sale Of Overstocked Products
 ---
 
 The main takeaways from our Overstocked Webinar.
