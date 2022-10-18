@@ -24,6 +24,7 @@ image: "/uploads/RBTE2018.jpeg"
 author: Georgina Fisher
 description: The Retail Business Technology Expo (RBTE) is the largest retail solutions
   event dedicated to helping retailers map out their future strategies.
+post_title: Retail Business Technology Expo Highlights
 ---
 
 The Retail Business Technology Expo (RBTE) held at Kensington Olympia is the largest retail solutions event dedicated to helping retailers map out their future strategies.
