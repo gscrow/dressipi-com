@@ -10,6 +10,7 @@ image: "/uploads/Athleisure.jpg"
 author: Sarah McVittie
 description: Discover how people are dressing and expressing themselves post-pandemic
   with some interesting findings from our analysts.
+post_title: The Athleisure Trend is Here to Stay
 ---
 
 ## Some interesting findings from our data analysts.
