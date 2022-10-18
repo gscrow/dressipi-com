@@ -17,6 +17,7 @@ image: "/uploads/zara%20blog%20main%20image.jpg"
 author: Natalie Theo
 description: Natalie Theo, Dressipi’s Style Director tries out Zara’s new self-service
   check out technology for herself.
+post_title: Why Customers Love Zara’s Self-Service Check Out
 ---
 
 Natalie Theo, Dressipi’s Style Director tries out Zara’s new self-service check out technology for herself.
