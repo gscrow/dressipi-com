@@ -12,6 +12,7 @@ image: "/uploads/NatalieBlog.jpeg"
 author: Natalie Theo
 description: Dressipi Style Director explains the importance of drawing on the expertise
   of some of the industry’s top stylists for fashion-specific algorithms.
+post_title: Fashion Specific Algorithms Need Style Expertise
 ---
 
 ### There’s no showbusiness without the show or the business. Likewise, when it comes to fashion-tech there is no tech without the fashion. 
