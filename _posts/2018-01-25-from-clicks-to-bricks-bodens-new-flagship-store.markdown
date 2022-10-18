@@ -17,6 +17,7 @@ author: Natalie Theo
 description: As more and more pureplay retailers open physical stores, Natalie Theo,
   Dressipi’s Style Director ventures to Boden's newest flagship.
 download: Five Things Every Retailer Should Know About Personalization
+post_title: From Clicks to Bricks - Boden's New Flagship Store
 ---
 
 As more and more pureplay retailers open physical stores, Natalie Theo, Dressipi’s Style Director ventures to Boden's new flagship.
