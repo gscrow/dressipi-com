@@ -16,6 +16,7 @@ author: Sarah McVittie
 description: The pandemic had a huge impact on fashion retailers. Dressipi analyzed
   consumer habits and how these have affected return rates.
 download: Understanding Your Unique Return Rate Profile
+post_title: Garment Return Rates Spike to Above Pre-Pandemic Levels
 ---
 
 ### But, the good news is we can see what’s coming. 
