@@ -18,6 +18,7 @@ button:
 description: Get Black Friday ready by discovering what customers are buying, what
   promotions you need and how to make the period as successful and profitable as possible.
 redirect_to: "/blog/black-friday-insights/"
+post_title: Stocked up on Bags & Boots for this Black Friday’s Splurge?
 ---
 
 ### The economy has opened up and we are expecting a bumper Black Friday in line with 2018 and 2019 - and a bonus for your return rates, customers buying categories with lower return rates is one of the reasons why Black Friday works so well!
