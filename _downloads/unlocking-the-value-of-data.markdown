@@ -26,8 +26,8 @@ Data is golden. Collect the right data, in the right structure and you'll have t
 
 Join 3 pioneering businesses who are using data with profound effect. They'll be discussing why data is one of the most important assets available to retailers and showcasing how it can be used to address the key challenges of today and the future.
 
-** You will learn: **
+**You will learn:**
 
-* How to think about and structure data in the context of your business
-* How to deploy data correctly to achieve business outcomes
-* Real world examples of how data can drive better customer experiences and greater efficiencies in your business
++ How to think about and structure data in the context of your business
++ How to deploy data correctly to achieve business outcomes
++ Real world examples of how data can drive better customer experiences and greater efficiencies in your business
