@@ -2,12 +2,10 @@
 title: Fashion Specific Algorithms Need Style Expertise
 date: 2021-04-06 09:12:00 Z
 categories:
-- tech
+- Technology
 tags:
-- fashion technology
-- fashion personalization
-- garment attributes
-- personalized outfits
+- Technology
+- Business Insights
 image: "/uploads/NatalieBlog.jpeg"
 author: Natalie Theo
 description: Dressipi Style Director explains the importance of drawing on the expertise
