@@ -8,9 +8,9 @@ includes-video: true
 video-url: https://dressipi.com/media/email-webinar-480.mp4
 video-mask: "/uploads/emails-webinar.png"
 list-content: "# Don’t Underestimate the Power of Emails: Maximise Your Most Powerful
-  Asset\n\n### This webinar focuses on how John Lewis and River Island enhance their
-  customer experience through relevant personalized product recommendations and more
-  importantly make every email work harder to deliver more revenue and profit. "
+  Asset\n\nThis webinar focuses on how John Lewis and River Island enhance their customer
+  experience through relevant personalized product recommendations and more importantly
+  make every email work harder to deliver more revenue and profit. "
 Field name:
   Key: 
 has-contact-section: true
