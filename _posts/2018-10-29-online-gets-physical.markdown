@@ -2,13 +2,11 @@
 title: Amazon Gets Physical
 date: 2018-10-29 17:00:00 Z
 categories:
-- retail
+- Data & Insights
 tags:
-- Amazon
-- Amazon pop-up shop
-- bricks & mortar
-- physical store
-- customer experience
+- Business Insights
+- Fashion Trends
+- Customer Experience
 image: "/uploads/Amazon%20banner.jpg"
 author: Natalie Theo
 description: Key online brands are appearing as temporary bricks-and-mortar stores.
