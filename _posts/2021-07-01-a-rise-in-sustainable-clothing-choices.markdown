@@ -2,13 +2,11 @@
 title: A Rise in Sustainable Clothing Choices
 date: 2021-07-01 15:25:00 Z
 categories:
-- data
-- retail
+- Data & Insights
 tags:
-- sustainable
-- retail sustainability
-- sustainability
-- consumer behavior
+- Data & Insights
+- Sustainability
+- Fashion Trends
 image: "/uploads/sustainable-clothing-choices-banner.jpg"
 author: Sarah McVittie
 description: With stark changes to the retail industry, our data analysts monitored
