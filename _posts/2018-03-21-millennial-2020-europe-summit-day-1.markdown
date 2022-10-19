@@ -2,26 +2,11 @@
 title: Millennial 2020 - Europe Summit Day 1
 date: 2018-03-21 16:59:00 Z
 categories:
-- news
-- retail
+- Podcasts Webinars & Events
 tags:
-- millennial 2020
-- millennials
-- retail
-- retail technology
-- retail personalization
-- retail innovation
-- brand
-- instore experience
-- instore technology
-- future of retail
-- marketing
-- personalization
-- how to create a personalized shopping experience
-- better customer service
-- omnichannel retail
-- digital technology
-- retail events
+- Events
+- Technology
+- Personalization
 image: "/uploads/Marketing_Team.jpg"
 author: Philippa Mew
 description: 'Held at The Old Truman Brewery, London, Millennial 2020’s Europe Summit
