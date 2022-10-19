@@ -74,3 +74,5 @@ Ultimately, AI demand forecasting reduces size fragmentation by equipping buyers
 There really is no excuse not to give this a go. Retailers are doing all this activity anyway but for less profit - it’s effectively money for free! 
 
 If you’d like to discuss how our attributes can significantly improve the demand size curve accuracy and increase your profit margin, please get in touch.
+
+<p style="text-align:center"><a href="/company/demo/" class="button button-primary">BOOK A DEMO</a></p>
