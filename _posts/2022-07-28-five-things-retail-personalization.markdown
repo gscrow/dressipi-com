@@ -1,6 +1,14 @@
 ---
 title: Five Things You Should Know About Personalization
 date: 2022-07-28 11:04:00 Z
+categories:
+- Personalization
+tags:
+- Personalization
+- Technology
+- Customer Experience
+- Fashion Trends
+- Business Insights
 image: "/uploads/five-things-blog-banner1.jpg"
 author: Donna North
 description: Personalization in retail is a powerful tool for selling and communicating
