@@ -2,12 +2,11 @@
 title: The Rise and Rise of Online
 date: 2021-06-03 14:50:00 Z
 categories:
-- data
-- retail
+- Data & Insights
 tags:
-- data
-- online shift
-- online shopping
+- Data & Insights
+- Fashion Trends
+- Business Insights
 image: "/uploads/Jeans_Tops_Trend.JPG"
 author: Sarah McVittie
 description: Discover what our data analysts have been finding out about changes to
