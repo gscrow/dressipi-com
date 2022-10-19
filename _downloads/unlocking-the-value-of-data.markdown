@@ -18,3 +18,8 @@ hide-clients-carousel: true
 button: Watch Video
 ---
 
+## What is data? What does data mean to your business? There is an abundance of data available to fashion retailers but few maximize its value. Those that do will thrive.
+
+Data is golden. Collect the right data, in the right structure and you'll have the power to service customers better and create real efficiencies in your business.
+
+Join 3 pioneering businesses who are using data with profound effect. They'll be discussing why data is one of the most important assets available to retailers and showcasing how it can be used to address the key challenges of today and the future.
