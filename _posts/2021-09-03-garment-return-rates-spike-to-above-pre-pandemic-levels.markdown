@@ -2,15 +2,11 @@
 title: Garment Return Rates Spike to Above Pre-Pandemic Levels
 date: 2021-09-03 17:15:00 Z
 categories:
-- data
-- tech
+- Data & Insights
 tags:
-- reduce returns
-- returns
-- return rates
-- data
-- customer data
-- garment data
+- Data & Insights
+- Return Rates
+- Fashion Trends
 image: "/uploads/Returns_Sept_Banner.jpg"
 author: Sarah McVittie
 description: The pandemic had a huge impact on fashion retailers. Dressipi analyzed
