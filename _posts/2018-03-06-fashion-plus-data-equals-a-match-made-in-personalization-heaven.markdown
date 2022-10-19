@@ -2,18 +2,12 @@
 title: Fashion + Data = A Match Made in Personalization Heaven
 date: 2018-03-06 16:45:00 Z
 categories:
-- retail
-- tech
-- data
+- Personalization
 tags:
-- fashion technology
-- fashion authority
-- fashion personalization
-- retail technology
-- how to create a personalized shopping experience
-- innovation
-- retail personalization
-- data
+- Product Tagging
+- Personalization
+- Product Discovery
+- Customer Experience
 image: "/uploads/natalie-nick.jpg"
 author: Natalie Theo
 description: Fashion authority can’t be taught or bought. Dressipi’s Style Director
