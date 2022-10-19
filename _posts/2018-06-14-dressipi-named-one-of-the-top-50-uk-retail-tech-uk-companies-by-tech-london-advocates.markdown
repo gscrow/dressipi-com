@@ -2,22 +2,12 @@
 title: Dressipi Named A Top 50 UK Retail Tech Company
 date: 2018-06-14 14:48:00 Z
 categories:
-- news
+- Podcasts Webinars & Events
 tags:
-- RetailTech 50 Catalogue
-- RetailTech 50
-- retail technology
-- London Tech Week
-- Retail
-- technology
-- Tech London Advocates
-- instore technology
-- digital technology
-- MishiPay
-- Mercaux
-- Poq
-- retail personalization
-- Top 50
+- Events
+- Business Insights
+- Personalization
+- Technology
 image: "/uploads/retail-tech-banner-image.jpg"
 author: Philippa Mew
 description: Dressipi was delighted to be named one of the Top 50 UK Retail Tech companies
