@@ -119,8 +119,6 @@ In an environment where customer is king, retailers have to prioritize the deliv
 
 <hr>
 
-### You might also be interested in this article...
-## Best examples of AI in fashion retail
-Check out the best examples and applications of AI in fashion. Get inspired by how AI is transforming retail shopping experiences.
+### We’ve got a case study that you might find interesting, follow the link below to read the full story
 
-<p style="text-align: left"><a href="/blog/ai-fashion-retail-examples/" class="button button-primary">READ THE FULL STORY</a></p>
+<p style="text-align: center; font-size:12pt;"><a href="https://dressipi.com/downloads/success-story-river-island/"><img style="margin-left: 0px; width: 830px;" alt="River Island increased their revenue by 6% in 12 months" src="/uploads/success_story_blog_footer-RI.png"/></a></p>
