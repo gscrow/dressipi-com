@@ -2,30 +2,10 @@
 title: Delivering Unique In-Store Experiences
 date: 2019-10-08 09:04:00 Z
 categories:
-- retail
+- Data & Insights
 tags:
-- instore experience
-- customer experience
-- instore personalization
-- data
-- fashion specific experiences
-- customer data
-- product data
-- Next Plc
-- Next
-- retail technology
-- how to create a personalized shopping experience
-- shopping instore
-- shopping
-- fashion tech
-- fashion technology
-- Amazon
-- Asos
-- Reformation
-- Zalando
-- retail innovation
-- omnichannel retail
-- future of retail
+- Data & Insights
+- Business Insights
 image: "/uploads/pip_banner.jpeg"
 author: Sarah McVittie
 description: Co-Founder Sarah McVittie outlines the challenges of applying a hyper-personalized
