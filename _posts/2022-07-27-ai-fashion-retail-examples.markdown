@@ -119,9 +119,6 @@ With 75% of retailers looking to invest in external technology partnerships to e
 
 <hr>
 
-### You might also be interested in this article...
+### We’ve got a case study that you might find interesting, follow the link below to read the full story
 
-## Fashion Specific Algorithms Need Style Expertise
-Dressipi Style Director Natalie Theo explains the importance of drawing on the expertise of some of the industry’s top stylists for fashion-specific algorithms.
-
-<p style="text-align: left"><a href="/blog/fashion-is-different/" class="button button-primary">READ THE FULL STORY</a></p>
+<p style="text-align: center; font-size:12pt;"><a href="https://dressipi.com/downloads/success-story-country-road-group/"><img style="margin-left: 0px; width: 830px;" alt="4% increase in Revenue per Visitor with 1:1 personalization at Country Road Group" src="/uploads/success_story_blog_footer-CRG.png"/></a></p>
