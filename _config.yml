@@ -123,10 +123,8 @@ seo:
 description: Personalising the Entire Customer Experience
 url: https://dressipi.com
 form-demo:
-  title: Meet shopper expectations and drive profitable growth
-  subtitle: 'Book a free consultation to start personalising the customer experience
-    and delivering ROI '
-  button: FREE CONSULTATION >
+  title: Make a Step-Change in Personalization
+  button: BOOK A DEMO >
   email_cc: 
   redirect: "/thanks"
 company:

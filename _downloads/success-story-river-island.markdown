@@ -114,8 +114,7 @@ sections:
       excites me is how we come together on insights. Getting beyond personalization
       has really helped us understand our customer base and what they want and need.”"
     author: Simon Konn, Insights & CRM Director
-- contact-title: Want to make a step-change in personalization to stay competitive?
-    Get in touch.
+- contact-title: Make a Step-Change in Personalization
   handle: contact
   button:
     copy: BOOK A DEMO >
@@ -123,4 +122,3 @@ sections:
 position-list: 2
 layout: case-study
 ---
-
