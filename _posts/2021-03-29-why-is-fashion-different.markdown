@@ -2,13 +2,12 @@
 title: 'Why is Fashion Different? Part 1: Quantifying Fashion Data'
 date: 2021-03-29 15:32:00 Z
 categories:
-- Tech
+- Technology
 tags:
-- fashion data
-- fashion domain
-- algorithms
-- garment data
-- attributes
+- Technology
+- Product Tagging
+- Data & Insights
+- Business Insights
 image: "/uploads/WhyFashionDifferentBanner.jpg"
 author: Nick Landia
 description: 'Dressipi’s Data Scientist explains why fashion recommendations are so
