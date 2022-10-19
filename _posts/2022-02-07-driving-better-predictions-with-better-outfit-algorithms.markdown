@@ -66,7 +66,7 @@ Personalized outfits tell stories about garments and help show customers how dif
 
 If you’d like to learn how to get started on delivering personalized outfits at scale to your customers, please get in touch.
 
-<p style="text-align:center"><a href="/company/demo/" class="button button-primary">FREE CONSULTATION</a></p>
+<p style="text-align:center"><a href="/company/demo/" class="button button-primary">BOOK A DEMO</a></p>
 
 <hr>
 
