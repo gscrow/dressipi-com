@@ -2,17 +2,11 @@
 title: Why Customers Love Zara’s Self-Service Check Out
 date: 2018-01-11 12:56:00 Z
 categories:
-- retail
+- Technology
 tags:
-- how to reduce returns
-- retail technology
-- zara
-- self check out
-- zara self check out
-- instore experience
-- better customer service
-- retail innovation
-- innovation
+- Business Insights
+- Technology
+- Customer Experience
 image: "/uploads/zara%20blog%20main%20image.jpg"
 author: Natalie Theo
 description: Natalie Theo, Dressipi’s Style Director tries out Zara’s new self-service
