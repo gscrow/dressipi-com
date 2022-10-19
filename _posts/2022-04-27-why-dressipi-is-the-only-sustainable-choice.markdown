@@ -5,8 +5,8 @@ categories:
 - Technology
 tags:
 - technology
-- sustainability
 - Business Insights
+- Sustainability
 image: "/uploads/SustainabilityBanner-648f0a.jpg"
 author: Georgina Fisher
 description: The future depends on retailers changing the way we consume fashion.
