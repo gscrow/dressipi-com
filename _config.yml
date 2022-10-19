@@ -23,7 +23,7 @@ collections:
   resources:
     title: Resources
     output: true
-  blog_tags:
+  tags:
     title: Tags
     output: true
   uploads:
