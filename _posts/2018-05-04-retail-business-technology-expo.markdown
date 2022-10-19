@@ -2,24 +2,11 @@
 title: Retail Business Technology Expo Highlights
 date: 2018-05-04 09:27:00 Z
 categories:
-- news
+- Podcasts Webinars & Events
 tags:
-- retail business technology expo
-- rbte
-- retail
-- retail technology
-- instore technology
-- instore experience
-- omnichannel retail
-- millennials
-- personalization
-- retail events
-- retail personalization
-- future of retail
-- smartphone
-- customer experience
-- seamless experience
-- digital technology
+- Events
+- Technology
+- Business Insights
 image: "/uploads/RBTE2018.jpeg"
 author: Georgina Fisher
 description: The Retail Business Technology Expo (RBTE) is the largest retail solutions
