@@ -2,16 +2,13 @@
 title: Accurate Garment Data and Personalized Outfits
 date: 2022-02-07 09:30:00 Z
 categories:
-- tech
+- Personalization
 tags:
-- attributes
-- garment features
-- garment data
-- labelling
-- garment attributes
-- outfit algorithms
+- personalization
+- Data & Insights
+- Product Tagging
 - personalized outfits
-- personalized outfits technology
+- customer experience
 image: "/uploads/accurate-garment-data-for-outfits-banner.jpg"
 author: Marija Mandić
 description: Dressipi Software Engineer Marija Mandić explains why accurate and consistent
