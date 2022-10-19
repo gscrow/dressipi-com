@@ -5,10 +5,9 @@ categories:
 - Data & Insights
 tags:
 - Data & Insights
-- technology
+- Technology
 - Product Tagging
-- Demand Forecasting
-- return rates
+- Business Insights
 image: "/uploads/data_important_asset_blog-banner-2.jpg"
 author: Donna North
 description: Dressipi Co-Founder Donna North breaks down how good product attribution
