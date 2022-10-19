@@ -4,8 +4,8 @@ date: 2022-09-15 17:33:00 Z
 categories:
 - Data & Insights
 tags:
-- data
 - events
+- data and insights
 image: "/uploads/BlackFridayBanner.jpg"
 author: Georgina Fisher
 description: "The top Black Friday sales statistics! Get Black Friday 2022 ready by
