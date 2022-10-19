@@ -2,16 +2,12 @@
 title: Highlights from the World Retail Congress 2017
 date: 2017-04-12 10:35:00 Z
 categories:
-- news
-- retail
+- Podcasts Webinars & Events
 tags:
-- world retail congress
-- technology
-- data
-- personalization
-- retail technology
-- fashion technology
-- retail
+- Events
+- Business Insights
+- Product Tagging
+- Personalization
 image: "/uploads/WRC_banner.jpg"
 author: Philippa Mew
 description: Highlights from the World Retail Congress 2017
