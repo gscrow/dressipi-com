@@ -2,16 +2,11 @@
 title: Dressipi is the Right Choice of Sustainable Tech
 date: 2022-04-27 15:00:00 Z
 categories:
-- retail
-- data
-- Tech
+- Technology
 tags:
-- retail sustainability
+- technology
 - sustainability
-- sustainable
-- sustainable fashion
-- ai product forecasting
-- reduce returns
+- Business Insights
 image: "/uploads/SustainabilityBanner-648f0a.jpg"
 author: Georgina Fisher
 description: The future depends on retailers changing the way we consume fashion.
