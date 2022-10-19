@@ -28,6 +28,6 @@ Join 3 pioneering businesses who are using data with profound effect. They'll be
 
 **You will learn:**
 
-+ How to think about and structure data in the context of your business
-+ How to deploy data correctly to achieve business outcomes
-+ Real world examples of how data can drive better customer experiences and greater efficiencies in your business
+- How to think about and structure data in the context of your business
+- How to deploy data correctly to achieve business outcomes
+- Real world examples of how data can drive better customer experiences and greater efficiencies in your business
