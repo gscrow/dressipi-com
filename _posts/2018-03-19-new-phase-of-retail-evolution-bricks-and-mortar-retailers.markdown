@@ -2,20 +2,12 @@
 title: The Evolution of Bricks & Mortar Retailers
 date: 2018-03-19 10:13:00 Z
 categories:
-- retail
+- Data & Insights
 tags:
-- one to one personalization
-- personalization
-- fashion technology
-- bricks & mortar
-- instore experience
-- instore technology
-- retail technology
-- retail innovation
-- true personalization
-- retail personalization
-- how to create a personalized shopping experience
-- better customer service
+- Data & Insights
+- Business Insights
+- Customer Experience
+- Personalization
 image: "/uploads/timothy-muza-572-unsplash.png"
 author: Donna North
 description: Bricks & mortar retailers won't die, they'll evolve. Donna North, Dressipi’s
