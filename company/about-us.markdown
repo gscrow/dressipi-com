@@ -70,8 +70,8 @@ sections:
       <br>Winner
   - image: "/uploads/business-cloud.png"
     title: Business Cloud London Tech 50 2020
-  - image: "/uploads/Screenshot%202019-12-09%20at%2017.11.03.png"
-    title: Top 100 eCommerce Trailblazers (BusinessCloud)
+  - image: "/uploads/RetailTech-50-2022.png"
+    title: RetailTech UK’s 50 most innovative retail technology creators for 2022
   - image: "/uploads/award__millenial1.png"
     title: |-
       Best Connected Experience of the Year
