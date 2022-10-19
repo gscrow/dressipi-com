@@ -2,20 +2,12 @@
 title: 'Why is Fashion Different? Part 2: Fashion Consumer Behavior'
 date: 2021-05-07 14:07:00 Z
 categories:
-- tech
-- data
+- Personalization
 tags:
-- fashion AI
-- retail AI company
-- product recommendation technology
-- product recommendation service
-- recommendation system for ecommerce
-- fashion recommender system
-- data science
-- data
-- recommender system
-- fashion technology
-- fashion personalization
+- Data & Insights
+- Customer Experience
+- Business Insights
+- Fashion Trends
 image: "/uploads/WhyFashionDifferentBanner-b94292.jpg"
 author: Nick Landia
 description: Dressipi’s Data Scientist digs deeper into the impact consumer behavior
