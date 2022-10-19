@@ -2,11 +2,10 @@
 title: Data Points for the SS22 Fashion Trends
 date: 2022-06-08 11:01:00 Z
 categories:
-- S/s 22 Trends
-- Spring/summer trends
-- Fashion trends
+- Data & Insights
 tags:
-- data
+- Fashion Trends
+- Data & Insights
 image: "/uploads/spring_summer_2022_trends-banner.jpg"
 author: Natalie Theo
 description: "Style Director, Natalie Theo describes the top Spring/Summer 2022 trends
