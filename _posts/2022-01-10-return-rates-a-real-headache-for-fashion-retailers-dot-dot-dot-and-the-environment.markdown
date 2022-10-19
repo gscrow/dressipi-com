@@ -2,11 +2,12 @@
 title: 'Fashion Returns: A Headache for Retailers and the Environment'
 date: 2022-01-10 22:13:00 Z
 categories:
-- data
-- tech
+- Data & Insights
 tags:
-- reduce returns
 - return rates
+- sustainability
+- Data & Insights
+- Business Insights
 image: "/uploads/Returns2022_Banner.jpg"
 author: Sarah McVittie
 description: The last 2 years stirred huge uncertainty for fashion retailers but it
