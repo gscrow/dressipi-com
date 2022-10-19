@@ -2,22 +2,12 @@
 title: Segmentation vs Personalization
 date: 2018-11-21 14:32:00 Z
 categories:
-- data
+- Technology
 tags:
-- one to one personalization
-- personalization
-- how to create a personalized shopping experience
-- segmentation
-- segmentation vs personalization
-- retail technology
-- retail
-- fashion technology
-- better customer service
-- retail innovation
-- innovation
-- future of retail
-- customer experience
-- true personalization
+- Personalization
+- Customer Experience
+- Technology
+- Data & Insights
 image: "/uploads/rawpixel-1080873-unsplash%20(1).jpg"
 author: Donna North
 description: Dressipi looks at Segmentation vs Personalization, and why the latter
