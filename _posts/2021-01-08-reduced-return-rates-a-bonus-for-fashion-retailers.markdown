@@ -2,15 +2,12 @@
 title: The Truth Behind Reduced Return Rates
 date: 2021-01-08 09:50:00 Z
 categories:
-- data
-- tech
+- Data & Insights
 tags:
-- reduce returns
-- returns
-- return rates
-- data
-- customer data
-- garment data
+- Return Rates
+- Data & Insights
+- Fashion Trends
+- Business Insights
 image: "/uploads/blog_banner_returns.jpg"
 author: Sarah McVittie
 description: 'An area that has delivered a significant boost to fashion retailers
