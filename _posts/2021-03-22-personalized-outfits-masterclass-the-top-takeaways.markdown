@@ -2,15 +2,12 @@
 title: 'Personalized Outfits Masterclass: The Top Takeaways'
 date: 2021-03-22 11:30:00 Z
 categories:
-- Tech
+- Podcasts Webinars & Events
 tags:
-- personalized outfits
-- outfits
-- attributes
-- garment data
-- garment features
-- garment attributes
-- versatility
+- Webinars
+- Personalized Outfits
+- Personalization
+- Customer Experience
 image: "/uploads/Webinar-2021-03-17-banner.png"
 author: Georgina Fisher
 description: 'For those of you who weren''t able to make our Personalized Outfits
