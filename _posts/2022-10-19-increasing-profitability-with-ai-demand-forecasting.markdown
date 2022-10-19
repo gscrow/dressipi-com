@@ -12,6 +12,7 @@ author: James Tuck
 description: Learn how Dressipi's AI demand forecasting reduces size fragmentation
   by equipping buyers with the sales velocity and optimal size ratios for every product
   at SKU level.
+post_title: Increasing Profitability with AI Demand Forecasting
 ---
 
 ### Can’t shift those coats you bought? Sold out in sizes 4 and 14? A dress that customers keep returning?
