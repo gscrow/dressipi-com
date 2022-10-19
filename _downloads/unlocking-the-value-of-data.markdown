@@ -24,7 +24,7 @@ What is data? What does data mean to your business? There is an abundance of dat
 
 Data is golden. Collect the right data, in the right structure and you'll have the power to service customers better and create real efficiencies in your business.
 
-Join 3 pioneering businesses who are using data with profound effect. They'll be discussing why data is one of the most important assets available to retailers and showcasing how it can be used to address the key challenges of today and the future.
+Join three pioneering businesses who are using data with profound effect. They'll be discussing why data is one of the most important assets available to retailers and showcasing how it can be used to address the key challenges of today and the future.
 
 **You will learn:**
 
