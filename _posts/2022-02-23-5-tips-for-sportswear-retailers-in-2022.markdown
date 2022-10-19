@@ -9,7 +9,7 @@ tags:
 - sportswear
 - personalization
 - sportswear recommendations
-image: "/uploads/SportswearTipsBanner-1.jpeg"
+image: "/uploads/sportswear-tips-banner.jpg"
 author: Georgina Fisher
 description: The pandemic evoked a shift towards athleisure explained by the lockdown
   exercise craze. Read our top tips to make your sportswear brand even more profitable.
