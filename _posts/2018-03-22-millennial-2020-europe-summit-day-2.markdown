@@ -2,22 +2,11 @@
 title: Millennial 2020 - Europe Summit Day 2
 date: 2018-03-22 10:01:00 Z
 categories:
-- news
-- retail
+- Podcasts Webinars & Events
 tags:
-- retail technology
-- retail
-- brand
-- omnichannel retail
-- retail events
-- digital technology
-- retail personalization
-- instore technology
-- instore experience
-- millennials
-- millennial 2020
-- personalization
-- future of retail
+- Events
+- Technology
+- Personalization
 image: "/uploads/Panel_Day2.jpg"
 author: Philippa Mew
 description: 'After a busy first day at Millennial 2020, Day 2 began with a keynote
