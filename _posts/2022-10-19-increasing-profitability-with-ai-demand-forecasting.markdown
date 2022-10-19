@@ -1,7 +1,15 @@
 ---
 title: Increasing Profitability with AI Demand Forecasting
 date: 2022-10-19 10:16:00 Z
+categories:
+- Technology
+tags:
+- Technology
+- Demand Forecasting
 image: "/uploads/product-forecasting-blog-banner.jpg"
+description: Learn how Dressipi's AI demand forecasting reduces size fragmentation
+  by equipping buyers with the sales velocity and optimal size ratios for every product
+  at SKU level.
 ---
 
 ### Can’t shift those coats you bought? Sold out in sizes 4 and 14? A dress that customers keep returning?
