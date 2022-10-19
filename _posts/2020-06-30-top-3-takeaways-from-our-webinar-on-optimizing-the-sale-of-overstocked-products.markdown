@@ -2,17 +2,10 @@
 title: Optimizing The Sale Of Overstocked Products
 date: 2020-06-30 16:26:00 Z
 categories:
-- data
+- Podcasts Webinars & Events
 tags:
-- overstock
-- webinar
-- overstock webinar
-- machine learning
-- optimum distribution
-- clearance problem
-- innovate uk
-- maximise cash
-- profitability
+- Webinars
+- Business Insights
 image: "/uploads/image%20(11).png"
 author: Georgina Fisher
 description: 'For those of you who weren''t able to make our Overstocked Webinar,
