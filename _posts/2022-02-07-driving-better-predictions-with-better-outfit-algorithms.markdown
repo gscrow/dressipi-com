@@ -67,3 +67,9 @@ Personalized outfits tell stories about garments and help show customers how dif
 If you’d like to learn how to get started on delivering personalized outfits at scale to your customers, please get in touch.
 
 <p style="text-align:center"><a href="/company/demo/" class="button button-primary">FREE CONSULTATION</a></p>
+
+<hr>
+
+### We’ve got a case study that you might find interesting, follow the link below to read the full story
+
+<p style="text-align: center; font-size:12pt;"><a href="https://dressipi.com/downloads/success-story-john-lewis/"><img style="margin-left: 0px; width: 830px;" alt="John Lewis achieved a significant increase in revenue with outfit recommendations" src="/uploads/success_story_blog_footer-JL.png"/></a></p>
