@@ -2,16 +2,11 @@
 title: From Clicks to Bricks - Boden's New Flagship Store
 date: 2018-01-25 15:32:00 Z
 categories:
-- retail
+- Data & Insights
 tags:
-- boden
-- boden store
-- instore experience
-- how to create a personalized shopping experience
-- retail
-- better customer service
-- innovation
-- retail innovation
+- Business Insights
+- Data & Insights
+- Customer Experience
 image: "/uploads/Boden_banner.JPG"
 author: Natalie Theo
 description: As more and more pureplay retailers open physical stores, Natalie Theo,
