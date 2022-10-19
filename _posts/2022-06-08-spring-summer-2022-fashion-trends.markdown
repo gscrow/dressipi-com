@@ -6,6 +6,7 @@ categories:
 tags:
 - Fashion Trends
 - Data & Insights
+- Product Tagging
 image: "/uploads/spring_summer_2022_trends-banner.jpg"
 author: Natalie Theo
 description: "Style Director, Natalie Theo describes the top Spring/Summer 2022 trends
