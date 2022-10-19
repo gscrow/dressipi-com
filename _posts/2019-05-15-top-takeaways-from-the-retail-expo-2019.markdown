@@ -2,15 +2,10 @@
 title: Top 3 Takeaways from the Retail Expo 2019
 date: 2019-05-15 15:54:00 Z
 categories:
-- retail
+- Podcasts Webinars & Events
 tags:
-- Retail Expo
-- fashion technology
-- retail technology
-- events
-- retail events
-- customer experience
-- retail innovation
+- Events
+- Business Insights
 image: "/uploads/20190501_132158.jpg"
 author: Philippa Mew
 description: If you were unable to make the yearly Retail Expo or couldn’t fit in
