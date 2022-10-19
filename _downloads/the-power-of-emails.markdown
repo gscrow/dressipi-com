@@ -1,5 +1,5 @@
 ---
-title: 'Webinar: Emails are Your Most Powerful Asset'
+title: 'Webinar: Don’t Underestimate the Power of Personalized Emails'
 position: 36
 resource: Webinars
 image: "/uploads/emails-webinar.png"
