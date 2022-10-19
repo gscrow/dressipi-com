@@ -2,15 +2,10 @@
 title: Bath Ruby 2018
 date: 2018-04-05 11:26:00 Z
 categories:
-- tech
+- Podcasts Webinars & Events
 tags:
-- bath ruby
-- ruby
-- ruby on rails
-- technology
-- coding
-- Yukihiro Matsumoto
-- ruby 3x3
+- Events
+- Technology
 image: "/uploads/bath-rasduby.jpg"
 author: Fred Cheung
 description: Fred Cheung, Dressipi's CTO shares his highlights from Bath Ruby 2018.
