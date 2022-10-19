@@ -79,6 +79,6 @@ If you’d like to discuss how our attributes can significantly improve the dema
 <p style="text-align:center"><a href="/company/demo/" class="button button-primary">BOOK A DEMO</a></p>
 <hr>
 
-We’ve got a case study that you might find interesting, follow the link below to read the full story
+### We’ve got a case study that you might find interesting, follow the link below to read the full story
 
 <p style="text-align: center; font-size:12pt;"><a href="https://dressipi.com/downloads/success-story-lk-bennett/"><img style="margin-left: 0px; width: 830px;" alt="LK Bennett improved first to second purchase rate by 25% through data insight" src="/uploads/success_story_blog_footer-LKB.png"/></a></p>
