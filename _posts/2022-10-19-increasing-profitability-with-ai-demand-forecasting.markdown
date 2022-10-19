@@ -6,6 +6,7 @@ categories:
 tags:
 - Technology
 - Demand Forecasting
+- Business Insights
 image: "/uploads/product-forecasting-blog-banner.jpg"
 author: James Tuck
 description: Learn how Dressipi's AI demand forecasting reduces size fragmentation
