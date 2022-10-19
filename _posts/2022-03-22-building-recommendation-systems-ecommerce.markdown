@@ -4,12 +4,11 @@ date: 2022-03-22 14:24:00 Z
 categories:
 - Technology
 tags:
-- technology
 - Data & Insights
+- Technology
 - Business Insights
-- personalization
-- product discovery
-- customer experience
+- Personalization
+- Product Discovery
 image: "/uploads/Screen_Shot_2018-04-19_at_15.28.31.jpeg"
 author: Nick Landia
 description: Read about building fashion recommendation systems for ecommerce, and
