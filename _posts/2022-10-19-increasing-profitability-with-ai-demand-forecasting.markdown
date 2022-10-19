@@ -77,7 +77,6 @@ There really is no excuse not to give this a go. Retailers are doing all this ac
 If you’d like to discuss how our attributes can significantly improve the demand size curve accuracy and increase your profit margin, please get in touch.
 
 <p style="text-align:center"><a href="/company/demo/" class="button button-primary">BOOK A DEMO</a></p>
-<br>
 <hr>
 
 We’ve got a case study that you might find interesting, follow the link below to read the full story
