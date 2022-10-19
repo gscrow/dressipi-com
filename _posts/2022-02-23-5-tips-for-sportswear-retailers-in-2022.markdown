@@ -2,13 +2,11 @@
 title: 5 Tips for Sportswear Retailers in 2022
 date: 2022-02-23 12:04:00 Z
 categories:
-- retail
+- Data & Insights
 tags:
-- athleisure
-- activewear
+- Data & Insights
+- Business Insights
 - sportswear
-- personalization
-- sportswear recommendations
 image: "/uploads/sportswear-tips-banner.jpg"
 author: Georgina Fisher
 description: The pandemic evoked a shift towards athleisure explained by the lockdown
