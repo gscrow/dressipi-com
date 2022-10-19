@@ -9,6 +9,7 @@ tags:
 - Business Insights
 - Personalization
 - Product Discovery
+- Customer Experience
 image: "/uploads/Screen_Shot_2018-04-19_at_15.28.31.jpeg"
 author: Nick Landia
 description: Read about building fashion recommendation systems for ecommerce, and
