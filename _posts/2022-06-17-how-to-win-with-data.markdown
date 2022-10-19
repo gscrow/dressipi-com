@@ -4,10 +4,10 @@ date: 2022-06-17 15:35:00 Z
 categories:
 - Podcasts Webinars & Events
 tags:
-- events
 - Data & Insights
 - Business Insights
 - Product Tagging
+- Events
 image: "/uploads/attributes-breakfast-banner-1.jpg"
 author: Georgina Fisher
 description: Expert advice from retailers and data guru’s at our most recent breakfast.
