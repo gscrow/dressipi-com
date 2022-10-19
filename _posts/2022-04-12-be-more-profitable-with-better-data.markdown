@@ -2,18 +2,12 @@
 title: Right Data. Right Direction.
 date: 2022-04-12 13:10:00 Z
 categories:
-- data
-- tech
+- Data & Insights
 tags:
-- profitability
-- Fashion Data
-- Product data
-- customer data
-- Product forecasting
-- size management efficiencies
-- returns reduction
-- how to reduce returns
-- product discovery
+- Data & Insights
+- Product Tagging
+- Business Insights
+- technology
 image: "/uploads/ShoptalkBlog_Banner3.jpg"
 author: Sarah McVittie
 description: In periods of uncertainty, protecting profits for retailers is crucial.
