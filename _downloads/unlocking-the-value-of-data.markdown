@@ -12,7 +12,7 @@ video-mask: "/uploads/unlocking-the-value-of-data-webinar.png"
 list-content: |-
   # Unlocking the Value of Data in Retail
 
-  ### This webinar highlights the importance of data in fashion retail and showcases how it can be used to address the key challenges of today and the future.
+  This webinar highlights the importance of data in fashion retail and showcases how it can be used to address the key challenges of today and the future.
 Field name:
   Key: 
 has-contact-section: true
