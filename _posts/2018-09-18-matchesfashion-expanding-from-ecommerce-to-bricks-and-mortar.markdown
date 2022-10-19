@@ -2,15 +2,11 @@
 title: Matchesfashion - Expanding from Ecommerce to Bricks and Mortar
 date: 2018-09-18 10:40:00 Z
 categories:
-- retail
+- Data & Insights
 tags:
-- Matchesfashion
-- 5 Carlos Place
-- Ecommerce
-- bricks & mortar
-- concept space
-- physical store
-- In-store technology
+- Business Insights
+- Data & Insights
+- Customer Experience
 image: "/uploads/Matches%20Fashion%20front%20(2).jpg"
 author: Georgina Fisher
 description: With physical stores increasingly being occupied by retailers that started
