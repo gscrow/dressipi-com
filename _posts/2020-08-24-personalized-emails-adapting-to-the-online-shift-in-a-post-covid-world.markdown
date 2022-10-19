@@ -2,13 +2,11 @@
 title: Personalized Emails Are Key In A Post-Covid World
 date: 2020-08-24 15:40:00 Z
 categories:
-- Tech
+- Personalization
 tags:
-- Personalized emails
-- emails
-- John Lewis emails
-- OVS emails
-- Covid 19 digital acceleration
+- Personalization
+- Personalized Emails
+- Business Insights
 image: "/uploads/pexels-kaboompics-com-6249%20(2).jpg"
 author: Natalie Theo
 description: It is crucial that retailers enhance their digital experience and deliver
