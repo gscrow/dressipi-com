@@ -2,16 +2,12 @@
 title: Improve Customer Experience With Post-Purchase Emails
 date: 2021-07-20 13:05:00 Z
 categories:
-- retail
-- Tech
+- Personalization
 tags:
-- Personalized emails
-- post purchase email
-- retention
-- customer retention
-- click through rate
-- open rate
-- revenue per email sent
+- Personalization
+- Technology
+- Personalized Emails
+- Customer Experience
 image: "/uploads/PPE_Banner_New-632f0d.jpeg"
 author: Georgina Fisher
 description: Increase retention and lifetime value by moving customers up the purchase
