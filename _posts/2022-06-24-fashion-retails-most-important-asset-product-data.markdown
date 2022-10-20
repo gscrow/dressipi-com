@@ -65,6 +65,6 @@ Get in touch if you'd like to start providing a consistent source of accurate pr
 
 <hr>
 
-### We’ve got a case study that you might find interesting, follow the link below to read the full story
+We’ve got a case study that you might find interesting, follow the link below to read the full story
 
 <p style="text-align: center; font-size:12pt;"><a href="https://dressipi.com/downloads/product-attributes-guide/"><img style="margin-left: 0px; width: 830px;" alt="Apparel-Specific Product Attributes" src="/uploads/guide_blog_footer-product_attributes.png"/></a></p>
