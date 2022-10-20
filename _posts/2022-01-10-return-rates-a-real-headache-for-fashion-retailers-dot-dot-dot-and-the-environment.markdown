@@ -190,6 +190,6 @@ As a side note here, it kind of makes sense, 70-80% of any retailer’s revenue 
 
 <hr>
 
-### We’ve got a case study that you might find interesting, follow the link below to read the full story
+We’ve got a case study that you might find interesting, follow the link below to read the full story
 
 <p style="text-align: center; font-size:12pt;"><a href="https://dressipi.com/downloads/understanding-your-unique-return-rate-profile-whitepaper/"><img style="margin-left: 0px; width: 830px;" alt="Understanding Your Unique Return Rate Profile" src="/uploads/guide_blog_footer-return_rate_profile.png"/></a></p>
