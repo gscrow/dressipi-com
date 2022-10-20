@@ -84,3 +84,10 @@ To ensure a profitable relationship with these customers, new customer promotion
 3. [Post-Purchase Emails](https://dressipi.com/blog/post-purchase-emails-helping-customers-make-the-most-of-their-purchases/): Turn those less valuable Black Friday visitors into loyal customers by making them come back and buy again. Increase that 1st to 2nd purchase % by sending those customers relevant communications, with the right product at the right time.
 
 <p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
+<hr>
+
+### Read our Black Friday breakdown for 2022 here...
+## Black Friday 2022 Insights
+The top Black Friday sales statistics! Get Black Friday 2022 ready by discovering what customers are buying, what promotions you need and how to make the period as successful and profitable as possible. 
+
+<p style="text-align: left"><a href="/blog/black-friday-insights/" class="button button-primary">READ THE FULL STORY</a></p>
