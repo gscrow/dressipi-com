@@ -7,7 +7,6 @@ tags:
 - personalization
 - customer experience
 - product discovery
-- technology
 image: "/uploads/personalized%20shopping%20small.jpg"
 author: Natalie Theo
 description: How To Create A Personalized Shopping Experience
