@@ -7,7 +7,6 @@ tags:
 - personalization
 - customer experience
 - technology
-- data & insights
 image: "/uploads/rawpixel-1080873-unsplash%20(1).jpg"
 author: Donna North
 description: Dressipi looks at Segmentation vs Personalization, and why the latter
