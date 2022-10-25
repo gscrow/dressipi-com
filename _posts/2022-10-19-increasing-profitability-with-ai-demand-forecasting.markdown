@@ -2,11 +2,11 @@
 title: Increasing Profitability with AI Demand Forecasting
 date: 2022-10-19 10:16:00 Z
 categories:
-- technology
+- personalization
 tags:
-- technology
 - demand forecasting
 - business insights
+- personalization
 image: "/uploads/product-forecasting-blog-banner.jpg"
 author: Georgina Fisher
 description: Learn how Dressipi's AI demand forecasting reduces size fragmentation
