@@ -6,7 +6,7 @@ categories:
 tags:
 - personalized emails
 - business insights
-- data & insights
+- personalization
 image: "/uploads/First_Second_Purchase_Blog.jpg"
 author: Sarah McVittie
 description: Dressipi have analyzed the value behind improving customer retention
