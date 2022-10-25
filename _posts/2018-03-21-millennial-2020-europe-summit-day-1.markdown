@@ -5,7 +5,6 @@ categories:
 - podcasts webinars & events
 tags:
 - events
-- technology
 - personalization
 image: "/uploads/Marketing_Team.jpg"
 author: Philippa Mew
