@@ -5,7 +5,6 @@ categories:
 - personalization
 tags:
 - personalization
-- technology
 - personalized emails
 - customer experience
 image: "/uploads/PPE_Banner_New-632f0d.jpeg"
