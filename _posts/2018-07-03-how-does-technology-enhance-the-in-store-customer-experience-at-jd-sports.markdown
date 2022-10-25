@@ -2,12 +2,12 @@
 title: Technology for In-Store Experiences at JD Sports
 date: 2018-07-03 11:12:00 Z
 categories:
-- Data & Insights
+- data & insights
 tags:
-- Data & Insights
-- Technology
-- Business Insights
-- Sportswear
+- data & insights
+- technology
+- business insights
+- sportswear
 image: "/uploads/JD-sports-banner.jpg"
 author: Georgina Fisher
 description: With athleisure on the rise, we visited JD Sport’s flagship on Oxford

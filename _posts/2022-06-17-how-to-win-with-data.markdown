@@ -2,12 +2,12 @@
 title: 'How to Win with Data: Advice from Fashion Industry Experts'
 date: 2022-06-17 15:35:00 Z
 categories:
-- Podcasts Webinars & Events
+- podcasts webinars & events
 tags:
-- Data & Insights
-- Business Insights
-- Product Tagging
-- Events
+- data & insights
+- business insights
+- product tagging
+- events
 image: "/uploads/attributes-breakfast-banner-1.jpg"
 author: Georgina Fisher
 description: Expert advice from retailers and data guru’s at our most recent breakfast.

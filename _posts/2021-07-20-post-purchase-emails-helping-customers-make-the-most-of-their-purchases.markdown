@@ -2,12 +2,12 @@
 title: Improve Customer Experience With Post-Purchase Emails
 date: 2021-07-20 13:05:00 Z
 categories:
-- Personalization
+- personalization
 tags:
-- Personalization
-- Technology
-- Personalized Emails
-- Customer Experience
+- personalization
+- technology
+- personalized emails
+- customer experience
 image: "/uploads/PPE_Banner_New-632f0d.jpeg"
 author: Georgina Fisher
 description: Increase retention and lifetime value by moving customers up the purchase

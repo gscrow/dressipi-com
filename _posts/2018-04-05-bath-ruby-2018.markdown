@@ -2,10 +2,10 @@
 title: Bath Ruby 2018
 date: 2018-04-05 11:26:00 Z
 categories:
-- Podcasts Webinars & Events
+- podcasts webinars & events
 tags:
-- Events
-- Technology
+- events
+- technology
 image: "/uploads/bath-rasduby.jpg"
 author: Fred Cheung
 description: Fred Cheung, Dressipi's CTO shares his highlights from Bath Ruby 2018.

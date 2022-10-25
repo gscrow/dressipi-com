@@ -2,12 +2,12 @@
 title: Best Examples of AI in Fashion Retail
 date: 2022-07-27 14:01:00 Z
 categories:
-- Technology
+- technology
 tags:
-- Personalization
-- Technology
-- Business Insights
-- Customer Experience
+- personalization
+- technology
+- business insights
+- customer experience
 image: "/uploads/examples_of_ai-blog-banner-1.jpg"
 author: Georgina Fisher
 description: Check out the best examples and applications of AI in fashion. Get inspired

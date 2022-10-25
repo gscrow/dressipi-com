@@ -2,12 +2,12 @@
 title: 'Fashion Retail’s Most Important Asset: Product Data'
 date: 2022-06-24 11:18:00 Z
 categories:
-- Data & Insights
+- data & insights
 tags:
-- Data & Insights
-- Technology
-- Product Tagging
-- Business Insights
+- data & insights
+- technology
+- product tagging
+- business insights
 image: "/uploads/data_important_asset_blog-banner-2.jpg"
 author: Donna North
 description: Dressipi Co-Founder Donna North breaks down how good product attribution

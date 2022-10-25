@@ -2,11 +2,11 @@
 title: Millennial 2020 - Europe Summit Day 2
 date: 2018-03-22 10:01:00 Z
 categories:
-- Podcasts Webinars & Events
+- podcasts webinars & events
 tags:
-- Events
-- Technology
-- Personalization
+- events
+- technology
+- personalization
 image: "/uploads/Panel_Day2.jpg"
 author: Philippa Mew
 description: 'After a busy first day at Millennial 2020, Day 2 began with a keynote

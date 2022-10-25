@@ -2,12 +2,12 @@
 title: 'Why is Fashion Different? Part 2: Fashion Consumer Behavior'
 date: 2021-05-07 14:07:00 Z
 categories:
-- Personalization
+- personalization
 tags:
-- Data & Insights
-- Customer Experience
-- Business Insights
-- Fashion Trends
+- data & insights
+- customer experience
+- business insights
+- fashion trends
 image: "/uploads/WhyFashionDifferentBanner-b94292.jpg"
 author: Nick Landia
 description: Dressipi’s Data Scientist digs deeper into the impact consumer behavior

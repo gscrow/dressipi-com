@@ -2,10 +2,10 @@
 title: 5 Tips for Sportswear Retailers in 2022
 date: 2022-02-23 12:04:00 Z
 categories:
-- Data & Insights
+- data & insights
 tags:
-- Data & Insights
-- Business Insights
+- data & insights
+- business insights
 - sportswear
 image: "/uploads/sportswear-tips-banner.jpg"
 author: Georgina Fisher

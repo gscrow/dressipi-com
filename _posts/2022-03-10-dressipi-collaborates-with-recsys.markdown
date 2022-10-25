@@ -2,10 +2,10 @@
 title: Dressipi Collaborates with RecSys
 date: 2022-03-10 11:51:00 Z
 categories:
-- Podcasts Webinars & Events
+- podcasts webinars & events
 tags:
 - technology
-- Data & Insights
+- data & insights
 - personalization
 - events
 image: "/uploads/RecSysBanner.jpeg"

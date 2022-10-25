@@ -2,11 +2,11 @@
 title: The Athleisure Trend is Here to Stay
 date: 2021-07-01 13:35:00 Z
 categories:
-- Data & Insights
+- data & insights
 tags:
-- Data & Insights
-- Fashion Trends
-- Sportswear
+- data & insights
+- fashion trends
+- sportswear
 image: "/uploads/athleisure-blog-banner.jpg"
 author: Sarah McVittie
 description: Discover how people are dressing and expressing themselves post-pandemic

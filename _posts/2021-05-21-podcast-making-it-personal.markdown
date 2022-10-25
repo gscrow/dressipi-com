@@ -2,12 +2,12 @@
 title: 'PODCAST: Making It Personal'
 date: 2021-05-21 12:35:00 Z
 categories:
-- Podcasts Webinars & Events
+- podcasts webinars & events
 tags:
-- Personalization
-- Podcasts
-- Customer Experience
-- Business Insights
+- personalization
+- podcasts
+- customer experience
+- business insights
 image: "/uploads/PodcastBanner.JPG"
 author: Sarah McVittie
 description: Customers now expect an inspirational, personalized and relevant online

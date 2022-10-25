@@ -2,11 +2,11 @@
 title: Optimizing Your Email Revenue
 date: 2021-02-11 10:05:00 Z
 categories:
-- Personalization
+- personalization
 tags:
-- Personalized Emails
-- Business Insights
-- Data & Insights
+- personalized emails
+- business insights
+- data & insights
 image: "/uploads/First_Second_Purchase_Blog.jpg"
 author: Sarah McVittie
 description: Dressipi have analyzed the value behind improving customer retention

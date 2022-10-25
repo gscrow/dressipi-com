@@ -2,12 +2,12 @@
 title: How To Make Your Data Work Harder To Reduce Garment Return Rates
 date: 2017-11-14 04:17:00 Z
 categories:
-- Technology
+- technology
 tags:
-- Technology
-- Return Rates
-- Product Tagging
-- Business Insights
+- technology
+- return rates
+- product tagging
+- business insights
 image: "/uploads/alexandra-gorn.jpg"
 author: Sarah McVittie
 description: How To Make Your Data Work Harder To Reduce Garment Return Rates.

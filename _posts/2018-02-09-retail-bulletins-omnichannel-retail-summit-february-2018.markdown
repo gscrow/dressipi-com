@@ -2,12 +2,12 @@
 title: Retail Bulletin’s Omnichannel Retail Summit
 date: 2018-02-09 10:42:00 Z
 categories:
-- Podcasts Webinars & Events
+- podcasts webinars & events
 tags:
-- Events
-- Business Insights
-- Technology
-- Personalization
+- events
+- business insights
+- technology
+- personalization
 image: "/uploads/IMG_20180207_115532_760.jpeg"
 author: Philippa Mew
 description: Highlights from this year’s Omnichannel Retail Summit, hosted by Retail

@@ -4,9 +4,9 @@ date: 2022-09-15 17:33:00 Z
 categories:
 - data & insights
 tags:
-- Events
-- Business Insights
-- Demand Forecasting
+- events
+- business insights
+- demand forecasting
 - data & insights
 image: "/uploads/BlackFridayBanner.jpg"
 author: Georgina Fisher

@@ -2,11 +2,11 @@
 title: Millennial 2020 - Europe Summit Day 1
 date: 2018-03-21 16:59:00 Z
 categories:
-- Podcasts Webinars & Events
+- podcasts webinars & events
 tags:
-- Events
-- Technology
-- Personalization
+- events
+- technology
+- personalization
 image: "/uploads/Marketing_Team.jpg"
 author: Philippa Mew
 description: 'Held at The Old Truman Brewery, London, Millennial 2020’s Europe Summit

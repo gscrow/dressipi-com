@@ -2,11 +2,11 @@
 title: Right Data. Right Direction.
 date: 2022-04-12 13:10:00 Z
 categories:
-- Data & Insights
+- data & insights
 tags:
-- Data & Insights
-- Product Tagging
-- Business Insights
+- data & insights
+- product tagging
+- business insights
 - technology
 image: "/uploads/ShoptalkBlog_Banner3.jpg"
 author: Sarah McVittie

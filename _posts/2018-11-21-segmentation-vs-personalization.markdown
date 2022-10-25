@@ -2,12 +2,12 @@
 title: Segmentation vs Personalization
 date: 2018-11-21 14:32:00 Z
 categories:
-- Technology
+- technology
 tags:
-- Personalization
-- Customer Experience
-- Technology
-- Data & Insights
+- personalization
+- customer experience
+- technology
+- data & insights
 image: "/uploads/rawpixel-1080873-unsplash%20(1).jpg"
 author: Donna North
 description: Dressipi looks at Segmentation vs Personalization, and why the latter

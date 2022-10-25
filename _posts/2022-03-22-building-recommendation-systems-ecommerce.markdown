@@ -2,14 +2,14 @@
 title: Building Fashion Recommendation Systems
 date: 2022-03-22 14:24:00 Z
 categories:
-- Technology
+- technology
 tags:
-- Data & Insights
-- Technology
-- Business Insights
-- Personalization
-- Product Discovery
-- Customer Experience
+- data & insights
+- technology
+- business insights
+- personalization
+- product discovery
+- customer experience
 image: "/uploads/Screen_Shot_2018-04-19_at_15.28.31.jpeg"
 author: Nick Landia
 description: Read about building fashion recommendation systems for ecommerce, and
