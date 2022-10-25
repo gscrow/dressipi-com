@@ -5,7 +5,6 @@ categories:
 - data & insights
 tags:
 - data & insights
-- technology
 - product tagging
 - business insights
 image: "/uploads/data_important_asset_blog-banner-2.jpg"
