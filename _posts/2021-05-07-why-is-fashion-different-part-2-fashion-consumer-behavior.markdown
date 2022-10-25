@@ -4,7 +4,6 @@ date: 2021-05-07 14:07:00 Z
 categories:
 - personalization
 tags:
-- data & insights
 - customer experience
 - business insights
 - fashion trends
