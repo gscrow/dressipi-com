@@ -6,7 +6,6 @@ categories:
 tags:
 - technology
 - product tagging
-- data & insights
 - business insights
 image: "/uploads/WhyFashionDifferentBanner.jpg"
 author: Nick Landia
