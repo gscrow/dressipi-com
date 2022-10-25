@@ -2,10 +2,10 @@
 title: Delivering Unique In-Store Experiences
 date: 2019-10-08 09:04:00 Z
 categories:
-- data & insights
+- personalization
 tags:
-- data & insights
 - business insights
+- personalization
 image: "/uploads/pip_banner.jpeg"
 author: Sarah McVittie
 description: Co-Founder Sarah McVittie outlines the challenges of applying a hyper-personalized
