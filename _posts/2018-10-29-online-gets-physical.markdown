@@ -7,6 +7,7 @@ tags:
 - business insights
 - fashion trends
 - customer experience
+- data & insights
 image: "/uploads/Amazon%20banner.jpg"
 author: Natalie Theo
 description: Key online brands are appearing as temporary bricks-and-mortar stores.
