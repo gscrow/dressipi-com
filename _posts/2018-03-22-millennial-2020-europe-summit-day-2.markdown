@@ -5,7 +5,6 @@ categories:
 - podcasts webinars & events
 tags:
 - events
-- technology
 - personalization
 image: "/uploads/Panel_Day2.jpg"
 author: Philippa Mew
