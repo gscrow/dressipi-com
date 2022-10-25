@@ -6,7 +6,6 @@ categories:
 tags:
 - events
 - business insights
-- technology
 - personalization
 image: "/uploads/IMG_20180207_115532_760.jpeg"
 author: Philippa Mew
