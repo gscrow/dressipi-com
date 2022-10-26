@@ -1,5 +1,6 @@
 ---
 title: Dressipi is coming to Shoptalk 2022!
+published: false
 position: 10
 description: We are the fashion-AI experts, helping apparel and footwear retailers
   deliver the relevant products & inspiration their visitors deserve, across every
