@@ -55,8 +55,11 @@ For example, retailers typically only consider style and length when stocking in
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Comparison of sales at the size level affected by attributes" src="/uploads/Attributes_2.JPG"/></p>
 
-
 Product data also ensures no product is ever completely new. Even before the product launch, it has a set of product attributes that already has visit and sales propensities to learn from. This removes the guesswork of products with no past performance to base your size estimates on. 
+
+Download our guide on why quality and accurate garment data is the foundation for digital transformation:
+
+<p style="text-align:center"><a href="/downloads/product-attributes-guide/" class="button button-primary"></a>APPAREL-SPECIFIC PRODUCT ATTRIBUTES GUIDE</p>
 
 ## Why is Demand Forecasting Important?
 
