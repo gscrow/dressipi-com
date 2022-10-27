@@ -1,6 +1,8 @@
 ---
 title: NRF2023
 date: 2022-10-27 13:08:00 Z
+header:
+  hero-image: "/uploads/NRF23_Lockup%20Horizontal%20RGB.png"
 form:
   title: Book a Demo
 download:
