@@ -9,11 +9,11 @@ exclude-hero: true
 layout: download
 ---
 
-<p style="text-align: left; font-size:12pt;"><img style="margin-left: 0px; width: 450px;" alt="NRF 2023" src="/uploads/NRF23_Lockup%20Horizontal%20RGB.png"/></p>
+<p style="text-align: left; font-size:12pt;"><img style="margin-left: 0px; width: 375px;" alt="NRF 2023" src="/uploads/NRF23_Lockup%20Horizontal%20RGB.png"/></p>
 
 # Make a step-change in personalization
 
 ## Find us at Booth #<span style="color: #e81e75">947</span>
 
 Would you like to find out how Dressipi can help apparel retailers show every individual the products they’re most likely to buy - and keep? 
-Fill in the form to pre-book a demo at NRF or learn more about [what we do](/guides).
+Fill in the form to pre-book a demo at NRF or learn more about [what we do](/resources/guides).
