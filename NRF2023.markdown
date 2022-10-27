@@ -16,4 +16,5 @@ layout: download
 ## Find us at Booth #<span style="color: #e81e75">947</span>
 
 Would you like to find out how Dressipi can help apparel retailers show every individual the products they’re most likely to buy - and keep? 
-Fill in the form to pre-book a demo at NRF or learn more about [what we do](/resources/guides).
+<br>
+Fill in the form to pre-book a demo at NRF or learn more about [what we do](/resources/guides) here.
