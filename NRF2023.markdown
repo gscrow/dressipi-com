@@ -5,8 +5,8 @@ form:
   title: Book a Demo
 download:
   formId: b84b23ce-aa28-4abc-8561-176940fe4e9f
-layout: download
 exclude-hero: true
+layout: download
 ---
 
 # Make a step-change in personalization
@@ -14,4 +14,4 @@ exclude-hero: true
 ## Find us at Booth #<span style="color: #e81e75">947</span>
 
 Would you like to find out how Dressipi can help apparel retailers show every individual the products they’re most likely to buy - and keep? 
-Fill in the form to pre-book a demo at NRF or learn more about what we do [here](/platform).
+Fill in the form to pre-book a demo at NRF or learn more about [what we do](/platform).
