@@ -59,7 +59,7 @@ Product data also ensures no product is ever completely new. Even before the pro
 
 Download our guide on why quality and accurate garment data is the foundation for digital transformation:
 
-<p style="text-align:center"><a href="/downloads/product-attributes-guide/" class="button button-primary"></a>APPAREL-SPECIFIC PRODUCT ATTRIBUTES GUIDE</p>
+<p style="text-align:center"><a href="/downloads/product-attributes-guide/" class="button button-primary">APPAREL-SPECIFIC PRODUCT ATTRIBUTES GUIDE</a></p>
 
 ## Why is Demand Forecasting Important?
 
