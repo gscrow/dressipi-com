@@ -9,6 +9,7 @@ testimonial:
 download:
   formId: 0fb882dd-07a5-46e4-87cb-b84f2485a48f
 position-list: 2
+exclude-hero: true
 ---
 
 # Apparel-Specific Product Attributes
