@@ -82,7 +82,7 @@ There have been some interesting partnerships between fashion retailers and AI, 
 
 4. 4) [Macy’s On Call](https://www.forbes.com/sites/rachelarthur/2016/07/20/macys-teams-with-ibm-watson-for-ai-powered-mobile-shopping-assistant/#17e5b437f415) app uses an in store shopping assistant powered by AI. Customers open an app when they’re in the store and can chat with an AI bot to get directions to an item or check if something is in stock.
 
-4. If you’d ever been lost in a store looking for an item, you’ll recognize the benefit here. Immediacy is something that customers have learned to expect with online purchases with next day deliveries now a norm. It’s great to see Macy’s replicating this in their brick and mortar stores as well.
+4. If you’ve ever been lost in a store looking for an item, you’ll recognize the benefit here. Immediacy is something that customers have learned to expect with online purchases with next day deliveries now a norm. It’s great to see Macy’s replicating this in their brick and mortar stores as well.
 
 
 5. 5) Clothing store [Uniqlo](https://ceo.digital/news/artificial-intelligence-retail) is pioneering the use of science and AI to create a unique in-store experience. Select stores have AI-powered UMood kiosks that show customers a variety of products and measure their reaction to the color and style through neurotransmitters. It then recommends products based on each person’s reactions.
