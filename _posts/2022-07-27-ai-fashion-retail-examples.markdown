@@ -39,7 +39,7 @@ Fashion retailers at the forefront of innovation have already deployed AI across
 
 2. 2) **[Product forecasting](https://dressipi.com/solutions/product-forecasting/)**: Most fashion retailers’ margin erosion is a result of the size and shape of how they buy their products. Fashion AI can help retailers move to demand-led predictions of size ratios for every product instead of relying on last year’s data.
 
-2. Fashion retailers often have to make decisions quickly, without having time to sift through all the data. However, using better fashion AI predictive retailing models can help them make better decisions, resulting in increased full-priced sell-through rates and decreased markdowns. In fact, modelling the true demand for a product can eliminate 25% of markdowns.
+2. Fashion retailers often have to make decisions quickly, without having time to sift through all the data. However, using better fashion AI predictive retailing models can help them make better decisions, resulting in increased full-priced sell-through rates and decreased markdowns. In fact, modeling the true demand for a product can eliminate 25% of markdowns.
 
 2. AI data-driven retailing models can also help identify any net "overproduction," meaning when retailers are effectively buying markdowns from the outset. This can be easily eliminated with the added side benefit of improving the sustainability of the retailer and reducing waste. Another genuine Environment, Social, and Governance (ESG) benefit for everyone.
 
