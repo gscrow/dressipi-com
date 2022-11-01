@@ -27,7 +27,7 @@ Fashion retailers at the forefront of innovation have already deployed AI across
 
 1. 1) **Improved customer personalization**
 
-1. Retailers are still, showing the same products in the same order to all customers regardless of who they are, how frequently they shop or what page they land on.
+1. Retailers are still showing the same products in the same order to all customers regardless of who they are, how frequently they shop or what page they land on.
 
 1. Customers want a relevant and personalized experience and fashion AI will enable this by continually building an understanding of your customers and how they interact with your products at every step. Read our whitepaper on why personalizing the sort order significantly grows revenue and margins. It’s a great fashion machine learning example.
 
