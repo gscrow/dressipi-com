@@ -38,9 +38,15 @@ sections:
   - title: Personalized outfits, unique to every visitor
     subtitle: 
     class: solution
-    body: "Using Dressipi, the Digital Team at Seasalt Cornwall launched personalized
-      similar items and outfits on their Product Description Pages. \n \nNow, every
-      visitor coming to their website is shown personalized outfits and styling recommendations,
+    body: "Working with Dressipi, Seasalt Cornwall had found a partner whose personalization
+      software was designed specifically for fashion - understanding the impact of
+      seasonality, trends, taste, body shapes etc. \n\n> “*Having a technology partner
+      specifically focused on fashion is hugely beneficial to our P&L and has also
+      helped us discover new digital opportunities across the whole customer journey.*”
+      - **Jana Lindner, Senior Digital Trade Manager, Seasalt Cornwall**\n\nUsing
+      Dressipi, the Digital Team at Seasalt Cornwall launched personalized similar
+      items and outfits on their Product Description Pages. \n \nNow, every visitor
+      coming to their website is shown personalized outfits and styling recommendations,
       based on their unique preferences. They're able to provide inspiration to their
       customers by showing the versatility of a garment for different occasions, whether
       that be 'Casual' or 'Creative Work'.\n"
