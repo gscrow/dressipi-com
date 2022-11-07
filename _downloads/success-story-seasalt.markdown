@@ -56,14 +56,14 @@ sections:
       software, Seasalt Cornwall saw an uplift of 1.5% Revenue per Visitor. This contributes
       to their profit improvements laid out in their core strategy.
     number-boxes:
-    - number-lines:
+    - quote: "“Having a technology partner specifically focused on fashion is hugely
+        beneficial to our P&L and has also helped us discover new digital opportunities
+        across the whole customer journey.”"
+      author: Jana Lindner, Senior Digital Trade Manager, Seasalt Cornwall
+      number-lines:
       - number-line: 1.5
         value-line: "%"
         number-line-description: revenue per visitor
-    quote: "“Having a technology partner specifically focused on fashion is hugely
-      beneficial to our P&L and has also helped us discover new digital opportunities
-      across the whole customer journey.”"
-    author: Jana Lindner, Senior Digital Trade Manager, Seasalt Cornwall
 - contact-title: Want to make a step-change in personalization to stay competitive?
   handle: contact
   button:
