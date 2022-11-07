@@ -1,6 +1,6 @@
 ---
 title: Personalized Outfits Increase Revenue For John Lewis
-date: 2020-03-30 15:26:00 Z
+date: 2020-03-31 15:26:00 Z
 position: 3
 resource: Case Studies
 image: "/uploads/success-story_john-lewis@2x.jpg"
