@@ -55,12 +55,12 @@ sections:
     body: As a result of their strategy, using Dressipi's fashion-specific personalization
       software, Seasalt Cornwall saw an uplift of 1.5% Revenue per Visitor. This contributes
       to their profit improvements laid out in their core strategy.
+    quote: "“Having a technology partner specifically focused on fashion is hugely
+      beneficial to our P&L and has also helped us discover new digital opportunities
+      across the whole customer journey.”"
+    author: Jana Lindner, Senior Digital Trade Manager, Seasalt Cornwall
     number-boxes:
-    - quote: "“Having a technology partner specifically focused on fashion is hugely
-        beneficial to our P&L and has also helped us discover new digital opportunities
-        across the whole customer journey.”"
-      author: Jana Lindner, Senior Digital Trade Manager, Seasalt Cornwall
-      number-lines:
+    - number-lines:
       - number-line: 1.5
         value-line: "%"
         number-line-description: revenue per visitor
