@@ -34,7 +34,7 @@ sections:
       could discuss style preferences, sizing and the current trends with a customer.
       The generic personalization solutions they’d tried for their ecommerce store
       didn’t take into account this complexity, and the results fell short of what
-      was needed.\n"
+      was needed."
   - title: Personalized outfits, unique to every visitor
     subtitle: 
     class: solution
@@ -46,7 +46,7 @@ sections:
       is shown personalized outfits and styling recommendations, based on their unique
       preferences. They're able to provide inspiration to their customers by showing
       the versatility of a garment for different occasions, whether that be 'Casual'
-      or 'Creative Work'.\n"
+      or 'Creative Work'."
     quote: "“Having a technology partner specifically focused on fashion is hugely
       beneficial to our P&L and has also helped us discover new digital opportunities
       across the whole customer journey.”"
@@ -55,11 +55,9 @@ sections:
   - title: Uplift of 1.5% Revenue per Visitor
     class: results
     subtitle: 
-    body: 'As a result of their strategy, using Dressipi''s fashion-specific personalization
+    body: As a result of their strategy, using Dressipi's fashion-specific personalization
       software, Seasalt Cornwall saw an uplift of 1.5% Revenue per Visitor. This contributes
       to their profit improvements laid out in their core strategy.
-
-'
     number-boxes:
     - number-lines:
       - number-line: 1.5
