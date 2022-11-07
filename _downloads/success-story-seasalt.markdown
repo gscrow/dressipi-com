@@ -64,8 +64,7 @@ sections:
       - number-line: 1.5
         value-line: "%"
         number-line-description: revenue per visitor
-- contact-title: "Want to make a step-change in personalization to stay competitive?
-    \n<br>Get in touch."
+- contact-title: Want to make a step-change in personalization to stay competitive?
   handle: contact
   button:
     copy: BOOK A DEMO >
