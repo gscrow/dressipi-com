@@ -5,7 +5,6 @@ position: 1
 resource: Case Studies
 image: "/uploads/customers-seasalt_square.jpg"
 testimonial:
-  logo: ''
   author:
     image: "/uploads/customers-seasalt_square.jpg"
   action: Read The Full Story >
