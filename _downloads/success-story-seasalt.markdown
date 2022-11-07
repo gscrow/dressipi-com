@@ -65,12 +65,12 @@ sections:
         value-line: "%"
         number-line-description: revenue per visitor
 - contact-title: "Want to make a step-change in personalization to stay competitive?
-    \nGet in touch."
+    \n<br>Get in touch."
   handle: contact
   button:
     copy: BOOK A DEMO >
     url: "/company/demo/"
-position-list: 1
+position-list: 4
 layout: case-study
 ---
 
