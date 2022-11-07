@@ -24,10 +24,10 @@ sections:
   clients:
   - John Lewis
   - Evans
-  - River Island
   - OVS
   - LK Bennett
   - Pentland
+  - River Island
   - Belstaff
   - City Chic
   - Avenue
