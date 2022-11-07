@@ -2,12 +2,12 @@
 title: 'Code First: Girls Conference 2017'
 date: 2017-11-24 11:07:00 Z
 categories:
-- Podcasts Webinars & Events
+- podcasts webinars & events
 tags:
-- Events
-- Business Insights
-- Technology
-- Personalization
+- events
+- business insights
+- technology
+- personalization
 image: "/uploads/CFG-a73eec.jpg"
 author: Philippa Mew
 description: 'Code First: Girls Conference 2017'

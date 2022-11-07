@@ -3,12 +3,7 @@ layout: default
 ---
 
 {% assign my_page_url = page.url | remove: '/' %}
-<header >
-	<div class="header">
-		<div class="container gutter">
-			<a href="{{ site.baseurl }}/" class="header__logo">{% include svgs/logo.svg %}</a>
-		</div>
-	</div>
+<header>
 	{% if page.is-landing-page %}
 	{% if page.includes-video %}
  

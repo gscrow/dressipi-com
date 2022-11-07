@@ -11,6 +11,7 @@ download:
   file: "/uploads/Dressipi%20Return%20Rate%20Data%20Analysis%20Package.pdf"
   button_class: whitepaper
 position-list: 5
+exclude-hero: true
 ---
 
 # Return Rate Data Analysis Package 

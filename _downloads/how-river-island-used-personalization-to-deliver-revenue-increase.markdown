@@ -17,5 +17,6 @@ list-content: |-
 Field name:
   Key: 
 button: Watch Video
+exclude-hero: true
 ---
 

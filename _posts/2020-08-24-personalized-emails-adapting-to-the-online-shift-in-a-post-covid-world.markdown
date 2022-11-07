@@ -2,11 +2,11 @@
 title: Personalized Emails Are Key In A Post-Covid World
 date: 2020-08-24 15:40:00 Z
 categories:
-- Personalization
+- personalization
 tags:
-- Personalization
-- Personalized Emails
-- Business Insights
+- personalization
+- personalized emails
+- business insights
 image: "/uploads/pexels-kaboompics-com-6249%20(2).jpg"
 author: Natalie Theo
 description: It is crucial that retailers enhance their digital experience and deliver

@@ -68,10 +68,10 @@ sections:
     title: |-
       Experiential or Personalized Retail Solution of the Year
       <br>Winner
+  - image: "/uploads/RetailTech-50-2022.png"
+    title: Business Cloud UK Retail Tech 50 2022
   - image: "/uploads/business-cloud.png"
     title: Business Cloud London Tech 50 2020
-  - image: "/uploads/RetailTech-50-2022.png"
-    title: RetailTech UK’s 50 most innovative retail technology creators for 2022
   - image: "/uploads/award__millenial1.png"
     title: |-
       Best Connected Experience of the Year

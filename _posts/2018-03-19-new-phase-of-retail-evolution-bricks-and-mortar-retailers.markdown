@@ -2,12 +2,12 @@
 title: The Evolution of Bricks & Mortar Retailers
 date: 2018-03-19 10:13:00 Z
 categories:
-- Data & Insights
+- data & insights
 tags:
-- Data & Insights
-- Business Insights
-- Customer Experience
-- Personalization
+- data & insights
+- business insights
+- customer experience
+- personalization
 image: "/uploads/timothy-muza-572-unsplash.png"
 author: Donna North
 description: Bricks & mortar retailers won't die, they'll evolve. Donna North, Dressipi’s
