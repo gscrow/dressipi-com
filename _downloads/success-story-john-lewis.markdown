@@ -86,7 +86,7 @@ sections:
   button:
     copy: BOOK A DEMO >
     url: "/company/demo/"
-position-list: 4
+position-list: 3
 layout: case-study
 ---
 
