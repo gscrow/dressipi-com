@@ -58,7 +58,6 @@ sections:
       number-line: 1.5
       value-line: "%"
       number-line-description: REVENUE PER VISITOR
-  - title: 
     quote: "“Having a technology partner specifically focused on fashion is hugely
       \nbeneficial to our P&L and has also helped us discover new digital \nopportunities
       across the whole customer journey.”"
