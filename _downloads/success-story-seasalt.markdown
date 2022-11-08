@@ -60,10 +60,10 @@ sections:
       - number-line: 1.5
         value-line: "%"
         number-line-description: revenue per visitor
-    quote: "“Having a technology partner specifically focused on fashion is hugely
-      beneficial to our P&L and has also helped us discover new digital opportunities
-      across the whole customer journey.”"
-    author: Jana Lindner, Senior Digital Trade Manager, Seasalt Cornwall
+      quote: "“Having a technology partner specifically focused on fashion is hugely
+        beneficial to our P&L and has also helped us discover new digital opportunities
+        across the whole customer journey.”"
+      author: Jana Lindner, Senior Digital Trade Manager, Seasalt Cornwall
 - contact-title: Want to make a step-change in personalization to stay competitive?
   handle: contact
   button:
