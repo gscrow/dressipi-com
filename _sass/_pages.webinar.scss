@@ -47,8 +47,10 @@
       }
     }
   }
+}
 
-  .video-wrapper {
-    margin: 50px auto 100px auto;
+.webinar {
+  &.video-wrapper {
+    margin: 50px auto;
   }
 }
