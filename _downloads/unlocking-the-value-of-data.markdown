@@ -1,7 +1,8 @@
 ---
 title: 'Webinar: Unlocking the Value of Data in Retail'
-subtitle: This webinar highlights the importance of data in fashion retail and showcases how it can be used to address the key challenges of today and the future
 position: 38
+subtitle: This webinar highlights the importance of data in fashion retail and showcases
+  how it can be used to address the key challenges of today and the future
 resource: Webinars
 image: "/uploads/unlocking-the-value-of-data-webinar.png"
 is-landing-page: true
