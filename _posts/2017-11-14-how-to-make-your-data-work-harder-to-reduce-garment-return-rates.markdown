@@ -65,4 +65,9 @@ Both Vicky and I agreed that returns are always going to be a feature of the ret
 
 >To read the whitepaper in detail and to gain an insight into how you can reduce returns by up to 5% percentage points (including a quick returns analysis retailers can easily do), [download it now](https://dressipi.com/downloads/understanding-your-unique-return-rate-profile-whitepaper/).
 
+Read our other analyses of return rate trends here:
+[Fashion Returns: A Headache for Retailers and the Environment](https://dressipi.com/blog/return-rates-a-real-headache-for-fashion-retailers-dot-dot-dot-and-the-environment/) | 10 January 2022
+[Garment Return Rates Spike to Above Pre-Pandemic Levels](https://dressipi.com/blog/garment-return-rates-spike-to-above-pre-pandemic-levels/) | 03 September 2021
+[The Truth Behind Reduced Return Rates](https://dressipi.com/blog/reduced-return-rates-a-bonus-for-fashion-retailers/) | 08 January 2021
+
 Header Photo by Alexandra Gorn on Unsplash
