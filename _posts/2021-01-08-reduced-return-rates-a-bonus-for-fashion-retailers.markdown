@@ -108,4 +108,9 @@ Assuming the same £100m retailer, we would expect return rates to increase to b
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 700px;" alt="Expected revenue and contributed margin by quarter over 2021 for a one hundred million pound fashion retailer" src="/uploads/Returns_8.PNG"/></p>
 
-<p style="text-align:center"><a href="/company/demo/" class="button button-primary">FREE CONSULTATION</a></p>
+<p style="text-align:center"><a href="/company/demo/" class="button button-primary">BOOK A DEMO</a></p>
+
+Read our other analyses of return rate trends here:
+[Fashion Returns: A Headache for Retailers and the Environment](https://dressipi.com/blog/return-rates-a-real-headache-for-fashion-retailers-dot-dot-dot-and-the-environment/) | 10 January 2022
+[Garment Return Rates Spike to Above Pre-Pandemic Levels](https://dressipi.com/blog/garment-return-rates-spike-to-above-pre-pandemic-levels/) | 03 September 2021
+[How To Make Your Data Work Harder To Reduce Garment Return Rates](https://dressipi.com/blog/how-to-make-your-data-work-harder-to-reduce-garment-return-rates/) | 14 November 2017
