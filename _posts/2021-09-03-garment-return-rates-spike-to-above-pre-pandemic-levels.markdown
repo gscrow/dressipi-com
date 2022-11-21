@@ -156,3 +156,8 @@ However, we do live in uncertain times. It would be wise for retailers to keep t
 > We wanted to extend a big thank you to Tara Tadjbajhsh, our amazing summer intern who did most of the analysis and work going into this article!
 
 <p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
+
+Read our other analyses of return rate trends here:
+[Fashion Returns: A Headache for Retailers and the Environment](https://dressipi.com/blog/return-rates-a-real-headache-for-fashion-retailers-dot-dot-dot-and-the-environment/) | 10 January 2022
+[The Truth Behind Reduced Return Rates](https://dressipi.com/blog/reduced-return-rates-a-bonus-for-fashion-retailers/) | 08 January 2021
+[How To Make Your Data Work Harder To Reduce Garment Return Rates](https://dressipi.com/blog/how-to-make-your-data-work-harder-to-reduce-garment-return-rates/) | 14 November 2017
