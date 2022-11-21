@@ -188,6 +188,11 @@ As a side note here, it kind of makes sense, 70-80% of any retailer’s revenue 
 
 <p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
 
+Read our other analyses of return rate trends here:
+[Garment Return Rates Spike to Above Pre-Pandemic Levels](https://dressipi.com/blog/garment-return-rates-spike-to-above-pre-pandemic-levels/) | 03 September 2021
+[The Truth Behind Reduced Return Rates](https://dressipi.com/blog/reduced-return-rates-a-bonus-for-fashion-retailers/) | 08 January 2021
+[How To Make Your Data Work Harder To Reduce Garment Return Rates](https://dressipi.com/blog/how-to-make-your-data-work-harder-to-reduce-garment-return-rates/) | 14 November 2017
+
 <hr>
 
 We’ve got a case study that you might find interesting, follow the link below to read the full story
