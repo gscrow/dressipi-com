@@ -1,5 +1,5 @@
 ---
-title: Stop Your Rising Return Rates
+title: 'Workshop: Stop Your Rising Return Rates'
 position: 35
 subtitle: This webinar discusses the impact of external factors on return rates within
   the apparel market and the strategies to put in place to stop them rising.
