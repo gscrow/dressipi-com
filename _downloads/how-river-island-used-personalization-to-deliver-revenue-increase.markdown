@@ -1,7 +1,9 @@
 ---
 title: 'Webinar: How River Island Used Personalization to Deliver a 6% Revenue Increase'
-subtitle: This webinar with River Island focuses on how the brand used personalization to deliver differentiated customer experiences resulting in significant  revenue increases.
 position: 34
+subtitle: This webinar with River Island focuses on how the brand used personalization
+  to deliver differentiated customer experiences resulting in significant  revenue
+  increases.
 resource: Webinars
 image: "/uploads/riverisland-webinar-video-mask.png"
 is-landing-page: true
