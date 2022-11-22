@@ -1,7 +1,9 @@
 ---
 title: 'Webinar: Don’t Underestimate the Power of Personalized Emails'
-subtitle: This webinar focuses on how John Lewis and River Island enhance their customer experience through relevant personalized product recommendations and more importantly make every email work harder to deliver more revenue and profit.
 position: 36
+subtitle: This webinar focuses on how John Lewis and River Island enhance their customer
+  experience through relevant personalized product recommendations and more importantly
+  make every email work harder to deliver more revenue and profit.
 resource: Webinars
 image: "/uploads/emails-webinar.png"
 is-landing-page: true
@@ -12,7 +14,6 @@ list-content: "# Don’t Underestimate the Power of Personalized Emails\n\nThis 
   focuses on how John Lewis and River Island enhance their customer experience through
   relevant personalized product recommendations and more importantly make every email
   work harder to deliver more revenue and profit. "
-
 button: Watch Video
 exclude-hero: true
 ---
