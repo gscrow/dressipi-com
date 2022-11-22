@@ -1,7 +1,9 @@
 ---
 title: 'Webinar: The Success Of Personalized Outfits'
-subtitle: This webinar focuses on the importance of outfits in fashion retail and how delivering personalized outfits at scale improves revenue, conversion, AOV and retention whilst also inspiring the customer and creating amazing experiences.
 position: 37
+subtitle: This webinar focuses on the importance of outfits in fashion retail and
+  how delivering personalized outfits at scale improves revenue, conversion, AOV and
+  retention whilst also inspiring the customer and creating amazing experiences.
 resource: Webinars
 image: "/uploads/outfits-webinar.png"
 is-landing-page: true
