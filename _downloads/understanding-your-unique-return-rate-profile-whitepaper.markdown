@@ -26,6 +26,7 @@ download:
   formId: 05ed65d0-4341-421f-9483-8654a1d96ba4
 position-list: 1
 layout: download
+exclude-hero: true
 ---
 
 # Understanding Your Unique Return Rate Profile

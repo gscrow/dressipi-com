@@ -2,11 +2,11 @@
 title: Retail Business Technology Expo Highlights
 date: 2018-05-04 09:27:00 Z
 categories:
-- Podcasts Webinars & Events
+- podcasts webinars & events
 tags:
-- Events
-- Technology
-- Business Insights
+- events
+- technology
+- business insights
 image: "/uploads/RBTE2018.jpeg"
 author: Georgina Fisher
 description: The Retail Business Technology Expo (RBTE) is the largest retail solutions

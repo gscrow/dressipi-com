@@ -2,10 +2,10 @@
 title: Optimizing The Sale Of Overstocked Products
 date: 2020-06-30 16:26:00 Z
 categories:
-- Podcasts Webinars & Events
+- podcasts webinars & events
 tags:
-- Webinars
-- Business Insights
+- webinars
+- business insights
 image: "/uploads/image%20(11).png"
 author: Georgina Fisher
 description: 'For those of you who weren''t able to make our Overstocked Webinar,

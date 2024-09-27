@@ -2,11 +2,11 @@
 title: Product Attribute Tagging for Ecommerce
 date: 2022-10-10 11:19:00 Z
 categories:
-- Technology
+- technology
 tags:
-- Technology
-- Product Tagging
-- Business Insights
+- technology
+- product tagging
+- business insights
 image: "/uploads/product-attribute-tagging-banner.jpg"
 author: Georgina Fisher
 description: Learn about product attribute tagging for ecommerce. Find out why accurate

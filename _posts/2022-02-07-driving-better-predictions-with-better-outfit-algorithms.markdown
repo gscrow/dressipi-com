@@ -2,11 +2,11 @@
 title: Accurate Garment Data and Personalized Outfits
 date: 2022-02-07 09:30:00 Z
 categories:
-- Personalization
+- personalization
 tags:
 - personalization
-- Data & Insights
-- Product Tagging
+- data & insights
+- product tagging
 - personalized outfits
 - customer experience
 image: "/uploads/accurate-garment-data-for-outfits-banner.jpg"
@@ -70,6 +70,6 @@ If you’d like to learn how to get started on delivering personalized outfits a
 
 <hr>
 
-### We’ve got a case study that you might find interesting, follow the link below to read the full story
+We’ve got a case study that you might find interesting, follow the link below to read the full story
 
 <p style="text-align: center; font-size:12pt;"><a href="https://dressipi.com/downloads/success-story-john-lewis/"><img style="margin-left: 0px; width: 830px;" alt="John Lewis achieved a significant increase in revenue with outfit recommendations" src="/uploads/success_story_blog_footer-JL.png"/></a></p>

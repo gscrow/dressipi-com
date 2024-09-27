@@ -83,6 +83,7 @@ sections:
   - Seasalt Cornwall
   - Jigsaw
   - Hush
+  - Bubbleroom
   downloads:
   - Personalized Outfits Increase Revenue For John Lewis
   - Belstaff increased email revenue by 69% through personalized recommendations

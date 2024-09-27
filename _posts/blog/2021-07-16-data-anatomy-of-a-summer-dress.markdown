@@ -1,12 +1,9 @@
 ---
 title: Data Anatomy of a Summer Dress
 date: 2021-07-16 12:24:00 Z
-categories:
-- Data & Insights
 tags:
-- Data & Insights
-- Product Tagging
-- Fashion Trends
+- product tagging
+- fashion trends
 image: "/uploads/pexels-photo-7292977.jpeg"
 author: Natalie Theo
 description: As the fashion industry moves forward this month, our Style Director

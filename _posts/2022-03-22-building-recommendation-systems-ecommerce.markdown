@@ -2,14 +2,13 @@
 title: Building Fashion Recommendation Systems
 date: 2022-03-22 14:24:00 Z
 categories:
-- Technology
+- technology
 tags:
-- Data & Insights
-- Technology
-- Business Insights
-- Personalization
-- Product Discovery
-- Customer Experience
+- technology
+- business insights
+- personalization
+- product discovery
+- customer experience
 image: "/uploads/Screen_Shot_2018-04-19_at_15.28.31.jpeg"
 author: Nick Landia
 description: Read about building fashion recommendation systems for ecommerce, and
@@ -119,6 +118,6 @@ In an environment where customer is king, retailers have to prioritize the deliv
 
 <hr>
 
-### We’ve got a case study that you might find interesting, follow the link below to read the full story
+We’ve got a case study that you might find interesting, follow the link below to read the full story
 
 <p style="text-align: center; font-size:12pt;"><a href="https://dressipi.com/downloads/success-story-river-island/"><img style="margin-left: 0px; width: 830px;" alt="River Island increased their revenue by 6% in 12 months" src="/uploads/success_story_blog_footer-RI.png"/></a></p>

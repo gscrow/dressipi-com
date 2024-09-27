@@ -1,11 +1,8 @@
 ---
 title: 5 Tips for Sportswear Retailers in 2022
 date: 2022-02-23 12:04:00 Z
-categories:
-- Data & Insights
 tags:
-- Data & Insights
-- Business Insights
+- business insights
 - sportswear
 image: "/uploads/sportswear-tips-banner.jpg"
 author: Georgina Fisher
@@ -90,3 +87,10 @@ Of all sportswear orders that had items from more than one category, the highest
 The sportswear market will continue to grow. Jump ahead with these top tips and get in touch for some more information.
 
 <p style="text-align:center"><a href="/subscribe/" class="button button-primary">SUBSCRIBE TO THE NEWSLETTER</a></p>
+<hr>
+
+### You might also be interested in this article...
+## The Athleisure Trend is Here to Stay
+Discover how people are dressing and expressing themselves post-pandemic with some interesting findings from our analysts.
+
+<p style="text-align: left"><a href="/blog/the-athleisure-trend-is-here-to-stay/" class="button button-primary">READ THE FULL STORY</a></p>

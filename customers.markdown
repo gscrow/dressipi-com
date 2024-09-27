@@ -35,6 +35,7 @@ sections:
   - Seasalt Cornwall
   - Jigsaw
   - Hush
+  - Bubbleroom
 - title: More Case Studies
   handle: success-stories
   downloads:

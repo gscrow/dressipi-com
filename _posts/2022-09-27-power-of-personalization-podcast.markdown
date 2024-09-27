@@ -2,14 +2,14 @@
 title: Unlocking the Power of Personalization
 date: 2022-09-27 13:21:00 Z
 categories:
-- Podcasts Webinars & Events
+- podcasts webinars & events
 tags:
-- Personalization
-- Technology
-- Business Insights
-- Data & Insights
-- Customer Experience
-- Podcasts
+- personalization
+- technology
+- business insights
+- data & insights
+- customer experience
+- podcasts
 image: "/uploads/rrpodcast-banner.jpg"
 author: Sarah McVittie
 post_title: Unlocking the Power of Personalization [PODCAST]

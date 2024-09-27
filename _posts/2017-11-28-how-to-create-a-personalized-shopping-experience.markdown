@@ -2,12 +2,11 @@
 title: How To Create A Personalized Shopping Experience
 date: 2017-11-28 15:21:00 Z
 categories:
-- Personalization
+- personalization
 tags:
-- Personalization
-- Customer Experience
-- Product Discovery
-- Technology
+- personalization
+- customer experience
+- product discovery
 image: "/uploads/personalized%20shopping%20small.jpg"
 author: Natalie Theo
 description: How To Create A Personalized Shopping Experience

@@ -17,5 +17,6 @@ Field name:
 has-contact-section: true
 hide-clients-carousel: true
 button: Watch Video
+exclude-hero: true
 ---
 

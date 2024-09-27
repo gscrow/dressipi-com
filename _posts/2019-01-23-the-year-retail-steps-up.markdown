@@ -2,12 +2,12 @@
 title: The Year Retail Steps Up
 date: 2019-01-23 12:25:00 Z
 categories:
-- Data & Insights
+- data & insights
 tags:
-- Data & Insights
-- Business Insights
-- Customer Experience
-- Sustainability
+- data & insights
+- business insights
+- customer experience
+- sustainability
 image: "/uploads/commerce-crown-group-374894%20(1).jpg"
 author: Philippa Mew
 description: 2018 was undoubtedly a tough year for retail and one that will be remembered.

@@ -6,6 +6,7 @@ resource: Datasets
 download:
   formId: ae97bc58-8ae2-4994-96f2-e660b909af29
 position-list: 1
+exclude-hero: true
 ---
 
 # Dressipi 1M Fashion Sessions Dataset

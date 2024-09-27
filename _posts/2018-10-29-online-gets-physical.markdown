@@ -2,11 +2,12 @@
 title: Amazon Gets Physical
 date: 2018-10-29 17:00:00 Z
 categories:
-- Data & Insights
+- data & insights
 tags:
-- Business Insights
-- Fashion Trends
-- Customer Experience
+- business insights
+- fashion trends
+- customer experience
+- data & insights
 image: "/uploads/Amazon%20banner.jpg"
 author: Natalie Theo
 description: Key online brands are appearing as temporary bricks-and-mortar stores.

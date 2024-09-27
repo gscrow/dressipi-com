@@ -2,12 +2,12 @@
 title: A Trend is a Set of Data Points
 date: 2021-03-03 16:06:00 Z
 categories:
-- Data & Insights
+- data & insights
 tags:
-- Fashion Trends
-- Data & Insights
-- Product Tagging
-- Demand Forecasting
+- fashion trends
+- data & insights
+- product tagging
+- demand forecasting
 image: "/uploads/Trends_Blog_Banner.jpg"
 author: Natalie Theo
 description: Dressipi explores why fashion-specific data on garments is crucial when

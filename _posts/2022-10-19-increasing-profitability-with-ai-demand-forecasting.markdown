@@ -2,11 +2,11 @@
 title: Increasing Profitability with AI Demand Forecasting
 date: 2022-10-19 10:16:00 Z
 categories:
-- Technology
+- personalization
 tags:
-- Technology
-- Demand Forecasting
-- Business Insights
+- demand forecasting
+- business insights
+- personalization
 image: "/uploads/product-forecasting-blog-banner.jpg"
 author: Georgina Fisher
 description: Learn how Dressipi's AI demand forecasting reduces size fragmentation
@@ -37,11 +37,11 @@ Through better quality product data and a better understanding of true customer 
 
 <p style="text-align: center; font-size:12pt;"><img style="margin-left: 0px; width: 600px;" alt="Recommended stock change for a fashion retailer by dress size" src="/uploads/ShoptalkBlog_6.JPG"/></p>
 
-1. 1) You provide us with your trading data 
-2. 2) We analyze every product on an attribute level
-3. 3) Dressipi is then able to forecast demand for every garment
-4. 4) We suggest the size curve for every new product you buy (even from sketch stage)
-5. 5) You enjoy a 10% improvement in margin!
+1. 1) Understand the true demand - includes missed opportunity 
+2. 2) Understand the attributes of each garment and how they map to true demand
+3. 3) Predict for a set of attributes what the true demand will be
+4. 4) Attribute label the next buy at design and sketch
+5. 5) Use the predictions to forecast the buy so you can enjoy a 10% improvement in margin!
 
 ## Attributes Are Key 
 
@@ -55,8 +55,11 @@ For example, retailers typically only consider style and length when stocking in
 
 <p style="text-align:center"><img style="margin-left: 0px; width: 600px;" alt="Comparison of sales at the size level affected by attributes" src="/uploads/Attributes_2.JPG"/></p>
 
-
 Product data also ensures no product is ever completely new. Even before the product launch, it has a set of product attributes that already has visit and sales propensities to learn from. This removes the guesswork of products with no past performance to base your size estimates on. 
+
+Download our guide on why quality and accurate garment data is the foundation for digital transformation:
+
+<p style="text-align:center"><a href="/downloads/product-attributes-guide/" class="button button-primary">APPAREL-SPECIFIC PRODUCT ATTRIBUTES GUIDE</a></p>
 
 ## Why is Demand Forecasting Important?
 
@@ -79,6 +82,6 @@ If you’d like to discuss how our attributes can significantly improve the dema
 <p style="text-align:center"><a href="/company/demo/" class="button button-primary">BOOK A DEMO</a></p>
 <hr>
 
-### We’ve got a case study that you might find interesting, follow the link below to read the full story
+If you're interested in how data can be used to deliver profit, we’ve got a case study for you. Follow the link below to read the full story:
 
 <p style="text-align: center; font-size:12pt;"><a href="https://dressipi.com/downloads/success-story-lk-bennett/"><img style="margin-left: 0px; width: 830px;" alt="LK Bennett improved first to second purchase rate by 25% through data insight" src="/uploads/success_story_blog_footer-LKB.png"/></a></p>
